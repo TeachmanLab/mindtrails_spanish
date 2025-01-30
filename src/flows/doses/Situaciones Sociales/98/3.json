@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Tiempo en silencio",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Esa noche, te das cuenta de que es completamente normal tener pausas de silencio durante las conversaciones. Crees que tu amigo piensa que fue mejor quedarse en silencio que inventar cosas que decir y probablemente lo..."
+        },
+        {
+            "type": "Entry",
+            "name": "Tiempo en silencio_Situaciones Sociales_entry2"
+        }
+    ]
+}

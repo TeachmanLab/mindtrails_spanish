@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Gestión de múltiples posiciones",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recientemente decidiste unirse a una nueva organización vecinal además de tu trabajo. En una reunión del nuevo grupo, trajiste el cuaderno equivocado y tienes notas para tu trabajo, que no son útiles aquí. Crees que gestionar estar en este nuevo grupo será..."
+        },
+        {
+            "type": "Entry",
+            "name": "Gestión de múltiples posiciones_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ]
+}

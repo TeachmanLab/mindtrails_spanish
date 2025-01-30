@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Tu apariencia",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás yendo a una cita con tu pareja. Te miras en el espejo antes de salir y te preguntas si les gustará tu apariencia. Te das cuenta de que la única opinión que importa sobre tu apariencia es la..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Tu apariencia_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "tuya"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

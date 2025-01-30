@@ -1,0 +1,14 @@
+{
+    "name": "Quemadura287",
+    "title": "Quemadura",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Quemadura"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Quemadura.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Corrección rápida298",
+    "title": "Corrección rápida",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Corrección rápida"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Corrección_rápida.jpg"
+        }
+    ]
+}

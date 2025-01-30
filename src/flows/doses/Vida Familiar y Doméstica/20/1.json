@@ -1,0 +1,14 @@
+{
+    "name": "Padres visitando17",
+    "title": "Padres visitando",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Padres visitando"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Padres_visitando.jpg"
+        }
+    ]
+}

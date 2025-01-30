@@ -1,0 +1,14 @@
+{
+    "name": "Suministros para la cena153",
+    "title": "Suministros para la cena",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Suministros para la cena"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Suministros_para_la_cena.jpg"
+        }
+    ]
+}

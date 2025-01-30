@@ -1,0 +1,14 @@
+{
+    "name": "Compartir con alguien nuevo169",
+    "title": "Compartir con alguien nuevo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Compartir con alguien nuevo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Compartir_con_alguien_nuevo.jpg"
+        }
+    ]
+}

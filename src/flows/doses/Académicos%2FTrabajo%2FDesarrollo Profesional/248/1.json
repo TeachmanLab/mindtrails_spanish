@@ -1,0 +1,14 @@
+{
+    "name": "Hablando en público270",
+    "title": "Hablando en público",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Hablando en público"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Hablando_en_público.jpg"
+        }
+    ]
+}

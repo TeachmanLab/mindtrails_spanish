@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Ponerse ahí fuera",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Vas a almorzar con un amigo nuevo. Tú y tu amigo tuvieron una conversación muy buena y te hicieron algunas preguntas que te hacen sentir vulnerable. Si llegan a conocer tu \"verdadero yo\", crees que te van a..."
+        },
+        {
+            "type": "Entry",
+            "name": "Ponerse ahí fuera_Salud Mental_entry1"
+        }
+    ]
+}

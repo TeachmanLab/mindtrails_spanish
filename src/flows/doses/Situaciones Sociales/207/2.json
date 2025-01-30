@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Conflictos de convivencia",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tú y tu pareja llevan unos meses viviendo juntos y han surgido algunos problemas. Tu amigo va a visitar pronto y, al preguntarle a tu pareja si tu amigo puede quedarse contigo mientras está en la ciudad, tu pareja se enoja y comienza a alzar la..."
+        },
+        {
+            "type": "Entry",
+            "name": "Conflictos de convivencia_Situaciones Sociales_entry1"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Alergias de primavera292",
+    "title": "Alergias de primavera",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Alergias de primavera"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Alergias_de_primavera.jpg"
+        }
+    ]
+}

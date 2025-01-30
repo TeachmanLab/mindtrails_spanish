@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Comparar su trabajo con el de otros",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recientemente recibiste comentarios negativos sobre una presentación. Tu colega, que hizo una presentación similar, recibió comentarios maravillosos. Crees que tu próxima presentación será..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Comparar su trabajo con el de otros_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "mejor"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

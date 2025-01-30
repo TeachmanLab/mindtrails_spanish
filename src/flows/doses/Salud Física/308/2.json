@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Caminando para despejar la mente",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Hace frío afuera y sales a caminar para calmar tu mente. Tus manos empiezan a temblar y tu corazón late rápidamente mientras subes una cuesta. Tienes..."
+        },
+        {
+            "type": "Entry",
+            "name": "Caminando para despejar la mente_Salud Física_entry1"
+        }
+    ]
+}

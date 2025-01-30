@@ -1,0 +1,14 @@
+{
+    "name": "Tomando una decisión88",
+    "title": "Tomando una decisión",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tomando una decisión"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Tomando_una_decisión.jpg"
+        }
+    ]
+}

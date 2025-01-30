@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Distanciamiento social adentro",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Eres inmunocomprometido y has estado tomando precauciones para protegerte de enfermedades. Cuando llegas a una reunión un día, notas a un colega que está tosiendo sin cubrirse la boca. Le pides que se cubra la..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Distanciamiento social adentro_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "boca"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

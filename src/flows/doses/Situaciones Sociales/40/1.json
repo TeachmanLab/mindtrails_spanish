@@ -1,0 +1,14 @@
+{
+    "name": "Un regalo casero35",
+    "title": "Un regalo casero",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Un regalo casero"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Un_regalo_casero.jpg"
+        }
+    ]
+}

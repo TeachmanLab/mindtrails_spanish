@@ -1,0 +1,14 @@
+{
+    "name": "Viendo una película con amigos66",
+    "title": "Viendo una película con amigos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Viendo una película con amigos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Viendo_una_película_con_amigos.jpg"
+        }
+    ]
+}

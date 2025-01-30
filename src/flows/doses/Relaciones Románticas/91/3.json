@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Invitando tu Amigo a una Cita",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Eres buen amigo de alguien desde hace algunos años y realmente valoras tu relación. Te sientes muy atraído por tu amigo, pero no estás seguro de cómo admitir tus sentimientos afectaría tu..."
+        },
+        {
+            "type": "Entry",
+            "name": "Invitando tu Amigo a una Cita_Relaciones Románticas_entry1"
+        }
+    ]
+}

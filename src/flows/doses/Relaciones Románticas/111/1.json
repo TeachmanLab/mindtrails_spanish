@@ -1,0 +1,14 @@
+{
+    "name": "Amigo de tu pareja123",
+    "title": "Amigo de tu pareja",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Amigo de tu pareja"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Amigo_de_tu_pareja.jpg"
+        }
+    ]
+}

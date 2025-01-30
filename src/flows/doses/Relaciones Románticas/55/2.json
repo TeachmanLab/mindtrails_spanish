@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Tiempo de calidad",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Con tus hijos en casa, tú y tu pareja no tienen la oportunidad de pasar mucho tiempo de calidad juntos. Sientes que tú y tu pareja se están distanciando. Decides planear una noche de cita solo para ustedes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Tiempo de calidad_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "dos"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

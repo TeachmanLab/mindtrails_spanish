@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Relaciones futuras",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Acabas de romper con tu pareja, con quien estuviste por más tiempo que cualquier otra persona importante que hayas tenido antes. Crees que fue lo mejor, pero también te preocupa si alguna vez conocerás a alguien más por quien sientes tanta..."
+        },
+        {
+            "type": "Entry",
+            "name": "Relaciones futuras_Relaciones Románticas_entry1"
+        }
+    ]
+}

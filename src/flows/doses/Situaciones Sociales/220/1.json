@@ -1,0 +1,14 @@
+{
+    "name": "Visitando a los vecinos245",
+    "title": "Visitando a los vecinos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Visitando a los vecinos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Visitando_a_los_vecinos.jpg"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Un trago de agua",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Cuando sientes ansiedad durante una presentación..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Un trago de agua_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Tienes la capacidad de continuar con tu exposición.",
+                "Tienes que parar tu exposición y huir de la situación."
+            ],
+            "columnCount": 1,
+            "answer": "Tienes la capacidad de continuar con tu exposición."
+        }
+    ]
+}

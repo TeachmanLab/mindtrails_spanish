@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Evento social",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Hay un evento comunitario pronto para celebrar el final del semestre, y realmente quieres ir. Después de creer que el evento será gratuito, te sorprende descubrir que en realidad será muy caro asistir. Decides ponerte en contacto con los organizadores del evento y llegar a un..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Evento social_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "compromiso"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

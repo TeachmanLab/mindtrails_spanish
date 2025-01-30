@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Opiniones fuertes",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Ha llegado la mañana de tu primera evaluación con tu nuevo jefe. Te dicen que tienen opiniones firmes sobre tu trabajo. Piensas que probablemente encuentran tu trabajo..."
+        },
+        {
+            "type": "Entry",
+            "name": "Opiniones fuertes_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ]
+}

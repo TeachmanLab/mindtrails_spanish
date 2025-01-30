@@ -1,0 +1,14 @@
+{
+    "name": "Vecinos ruidosos130",
+    "title": "Vecinos ruidosos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Vecinos ruidosos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Vecinos_ruidosos.jpg"
+        }
+    ]
+}

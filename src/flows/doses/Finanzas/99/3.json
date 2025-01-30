@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Ahorrando dinero",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Al pensar en reducir tus gastos, no te imaginas gastando demasiado otra vez, y crees que ahorrar lo suficiente para tu viaje es..."
+        },
+        {
+            "type": "Entry",
+            "name": "Ahorrando dinero_Finanzas_entry2"
+        }
+    ]
+}

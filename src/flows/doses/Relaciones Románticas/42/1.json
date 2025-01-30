@@ -1,0 +1,14 @@
+{
+    "name": "Inseguridades de la Mascarilla37",
+    "title": "Inseguridades de la Mascarilla",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Inseguridades de la Mascarilla"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Inseguridades_de_la_Mascarilla.jpg"
+        }
+    ]
+}

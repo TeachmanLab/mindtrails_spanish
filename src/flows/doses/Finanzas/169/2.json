@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Costos de la sesión",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recientemente tuviste que pagar una gran suma de dinero para reparar tu automóvil. Este gasto inesperado reduce el dinero que utilizas para pagar los copagos de tu terapia y te preocupas lo que sucederás si falta a sesiones para ahorrar dinero. Llamas a la oficina de terapia y ellos te ayudan a encontrar una..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Costos de la sesión_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "solución"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

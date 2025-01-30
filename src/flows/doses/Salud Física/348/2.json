@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Exposure Guilt",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Después de sentir que tu garganta te duele, decides hacerte prueba de COVID. Tu pareja casi no sale para protegerse y piensas que estará enojado por una posible transmisión. Esperas que te perdóne porque contraer COVID no está completamente bajo tu... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Exposure Guilt_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "control"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

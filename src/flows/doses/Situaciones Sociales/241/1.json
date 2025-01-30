@@ -1,0 +1,14 @@
+{
+    "name": "Conociendo gente nueva263",
+    "title": "Conociendo gente nueva",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Conociendo gente nueva"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Conociendo_gente_nueva.jpg"
+        }
+    ]
+}

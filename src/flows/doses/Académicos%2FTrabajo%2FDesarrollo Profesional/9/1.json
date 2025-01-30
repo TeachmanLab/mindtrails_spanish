@@ -1,0 +1,14 @@
+{
+    "name": "Listo para trabajar7",
+    "title": "Listo para trabajar",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Listo para trabajar"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Listo_para_trabajar.jpg"
+        }
+    ]
+}

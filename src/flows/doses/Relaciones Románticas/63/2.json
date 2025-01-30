@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Sintiendote apurado",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás soltero y bastante contento con eso. Un día, tus padres comienzan a presionarte y te dicen que estás quedándote sin tiempo para conocer a alguien. Te dices a ti mismo que mientras estés contento, no hay necesidad de..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Sintiendote apurado_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "apresurarse"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

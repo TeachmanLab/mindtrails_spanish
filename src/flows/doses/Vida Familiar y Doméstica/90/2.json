@@ -1,0 +1,14 @@
+{
+    "name": "Sintiéndote preocupado por las noticias80",
+    "title": "Sintiéndote preocupado por las noticias",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sintiéndote preocupado por las noticias"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Sintiéndote_preocupado_por_las_noticias.jpg"
+        }
+    ]
+}

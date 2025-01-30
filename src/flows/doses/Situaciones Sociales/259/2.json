@@ -1,0 +1,14 @@
+{
+    "name": "Un comentario grosero280",
+    "title": "Un comentario grosero",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Un comentario grosero"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Un_comentario_grosero.jpg"
+        }
+    ]
+}

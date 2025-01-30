@@ -1,0 +1,14 @@
+{
+    "name": "Una oportunidad perdida6",
+    "title": "Una oportunidad perdida",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Una oportunidad perdida"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Una_oportunidad_perdida.jpg"
+        }
+    ]
+}

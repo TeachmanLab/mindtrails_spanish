@@ -1,0 +1,14 @@
+{
+    "name": "Priorización de responsabilidades8",
+    "title": "Priorización de responsabilidades",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Priorización de responsabilidades"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Priorización_de_responsabilidades.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Confiar en ti mismo11",
+    "title": "Confiar en ti mismo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Confiar en ti mismo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Confiar_en_ti_mismo.jpg"
+        }
+    ]
+}

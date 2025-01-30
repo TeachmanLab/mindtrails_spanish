@@ -1,0 +1,14 @@
+{
+    "name": "Mercado de trabajo23",
+    "title": "Mercado de trabajo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Mercado de trabajo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Mercado_de_trabajo.jpg"
+        }
+    ]
+}

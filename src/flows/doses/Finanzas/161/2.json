@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Comprando ropa nueva",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mirando a tu alrededor, parece que todos tus conocidos tienen ropa nueva. Has estado usando la misma ropa por años y comienzas a preguntarte si la gente te está juzgando. Te das cuenta de que te gustan la ropa que tienes y te hace sentir..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Comprando ropa nueva_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "bien"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

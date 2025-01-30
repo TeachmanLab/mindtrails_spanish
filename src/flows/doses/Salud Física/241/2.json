@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Nadando vueltas",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Es domingo por la mañana y estás nadando en la piscina. Después de un par de vueltas te quedas sin aliento y decides descansar un minuto al final del carril. Respirar con dificultad te hace sentir ansioso y quieres parar de..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Nadando vueltas_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "nadar"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

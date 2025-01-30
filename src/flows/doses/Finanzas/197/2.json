@@ -1,0 +1,14 @@
+{
+    "name": "Desayuno con amigos201",
+    "title": "Desayuno con amigos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Desayuno con amigos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Desayuno_con_amigos.jpg"
+        }
+    ]
+}

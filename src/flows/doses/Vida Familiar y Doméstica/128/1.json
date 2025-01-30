@@ -1,0 +1,14 @@
+{
+    "name": "Compartir las tradiciones familiares139",
+    "title": "Compartir las tradiciones familiares",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Compartir las tradiciones familiares"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Compartir_las_tradiciones_familiares.jpg"
+        }
+    ]
+}

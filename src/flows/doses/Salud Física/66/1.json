@@ -1,0 +1,14 @@
+{
+    "name": "Clima frío58",
+    "title": "Clima frío",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Clima frío"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Clima_frío.jpg"
+        }
+    ]
+}

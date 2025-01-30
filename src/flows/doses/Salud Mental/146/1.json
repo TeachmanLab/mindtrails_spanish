@@ -1,0 +1,14 @@
+{
+    "name": "Una nueva relación154",
+    "title": "Una nueva relación",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Una nueva relación"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Una_nueva_relación.jpg"
+        }
+    ]
+}

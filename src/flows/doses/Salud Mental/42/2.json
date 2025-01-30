@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Un comentario grosero",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Publicas una foto en la que estás realmente seguro. Ves un comentario realmente grosero cuando regresas para revisar tus comentarios. Respiras profundamente y decides no sentirte..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Un comentario grosero_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "molesto"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

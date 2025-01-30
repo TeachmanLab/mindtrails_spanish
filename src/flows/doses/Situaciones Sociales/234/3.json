@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Planes de vacaciones",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Cuando les cuentes a tus padres sobre la invitación, es probable que ..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Planes de vacaciones_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Se sientan muy decepcionados y heridos.",
+                "Se alegren de que hayas conocido a una pareja que te hace feliz."
+            ],
+            "columnCount": 1,
+            "answer": "Se sientan muy decepcionados y heridos."
+        }
+    ]
+}

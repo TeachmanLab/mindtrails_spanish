@@ -1,0 +1,14 @@
+{
+    "name": "Interrumpiendo el silencio299",
+    "title": "Interrumpiendo el silencio",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Interrumpiendo el silencio"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Interrumpiendo_el_silencio.jpg"
+        }
+    ]
+}

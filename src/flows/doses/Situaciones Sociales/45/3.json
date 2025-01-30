@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Comparaciones de redes sociales",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te das cuenta de que hay muchas personas atractivas que publican fotografías en un sitio de redes sociales. Te sientes un poco incómodo al publicar una foto tuya, pero publícala de todos modos. Te sientes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Comparaciones de redes sociales_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "seguro"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

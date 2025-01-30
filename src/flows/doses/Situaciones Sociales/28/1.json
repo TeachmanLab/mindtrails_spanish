@@ -1,0 +1,14 @@
+{
+    "name": "Viendo un amigo24",
+    "title": "Viendo un amigo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Viendo un amigo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Viendo_un_amigo.jpg"
+        }
+    ]
+}

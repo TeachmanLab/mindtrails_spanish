@@ -1,0 +1,14 @@
+{
+    "name": "Ayudando un vecino mayor267",
+    "title": "Ayudando un vecino mayor",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ayudando un vecino mayor"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Ayudando_un_vecino_mayor.jpg"
+        }
+    ]
+}

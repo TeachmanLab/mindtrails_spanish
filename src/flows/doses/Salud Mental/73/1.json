@@ -1,0 +1,14 @@
+{
+    "name": "Gestión de responsabilidades64",
+    "title": "Gestión de responsabilidades",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Gestión de responsabilidades"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Gestión_de_responsabilidades.jpg"
+        }
+    ]
+}

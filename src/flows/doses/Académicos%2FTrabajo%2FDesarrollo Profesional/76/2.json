@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Corrección rápida",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "En el pasillo del trabajo, tu jefe te hace una pregunta y te das cuenta de que has respondido incorrectamente. Tu jefe te corrige. Crees que la experiencia de ser corregido por tu jefe es..."
+        },
+        {
+            "type": "Entry",
+            "name": "Corrección rápida_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ]
+}

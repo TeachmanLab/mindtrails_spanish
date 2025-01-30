@@ -1,0 +1,14 @@
+{
+    "name": "Amigo tosiendo1",
+    "title": "Amigo tosiendo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Amigo tosiendo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Amigo_tosiendo.jpg"
+        }
+    ]
+}

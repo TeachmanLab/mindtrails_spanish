@@ -1,0 +1,14 @@
+{
+    "name": "Presentación de tu trabajo254",
+    "title": "Presentación de tu trabajo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Presentación de tu trabajo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Presentación_de_tu_trabajo.jpg"
+        }
+    ]
+}

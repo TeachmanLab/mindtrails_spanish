@@ -1,0 +1,14 @@
+{
+    "name": "Ahorro para reparaciones248",
+    "title": "Ahorro para reparaciones",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ahorro para reparaciones"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Ahorro_para_reparaciones.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Sintiéndote Preparado151",
+    "title": "Sintiéndote Preparado",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sintiéndote Preparado"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Sintiéndote_Preparado.jpg"
+        }
+    ]
+}

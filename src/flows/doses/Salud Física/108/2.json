@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Tomar precauciones",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tus hijos están de vuelta en persona en la escuela. Te preocupa que un compañero de clase pueda darles COVID, y que sus hijos puedan enfermarse realmente. Tú decides que te asegurarás de que se queden enmascarados y aprenderás a lavarse siempre las manos para mantenerlas... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Tomar precauciones_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "seguras"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Nerviosismo de cumpleaños147",
+    "title": "Nerviosismo de cumpleaños",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Nerviosismo de cumpleaños"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Nerviosismo_de_cumpleaños.jpg"
+        }
+    ]
+}

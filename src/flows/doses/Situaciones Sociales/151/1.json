@@ -1,0 +1,14 @@
+{
+    "name": "Asistir a una cena159",
+    "title": "Asistir a una cena",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Asistir a una cena"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Asistir_a_una_cena.jpg"
+        }
+    ]
+}

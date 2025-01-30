@@ -1,0 +1,14 @@
+{
+    "name": "Compañero de autobús207",
+    "title": "Compañero de autobús",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Compañero de autobús"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Compañero_de_autobús.jpg"
+        }
+    ]
+}

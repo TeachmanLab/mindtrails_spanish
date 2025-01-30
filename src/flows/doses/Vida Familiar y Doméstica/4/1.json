@@ -1,0 +1,14 @@
+{
+    "name": "Un sonido fuerte2",
+    "title": "Un sonido fuerte",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Un sonido fuerte"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Un_sonido_fuerte.jpg"
+        }
+    ]
+}

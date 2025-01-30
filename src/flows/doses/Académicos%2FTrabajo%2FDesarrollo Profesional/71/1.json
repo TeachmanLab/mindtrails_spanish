@@ -1,0 +1,14 @@
+{
+    "name": "Una lectura larga62",
+    "title": "Una lectura larga",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Una lectura larga"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Una_lectura_larga.jpg"
+        }
+    ]
+}

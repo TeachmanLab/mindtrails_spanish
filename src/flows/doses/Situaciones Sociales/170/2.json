@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Recibir mensajes explícitos en las redes sociales",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tienes muchos correos electrónicos sin leer. Cuando revisas tu bandeja de entrada hoy, notas un mensaje explícito de una dirección de correo electrónico que no conoces. Decides bloquear al remitente y sentirte más..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Recibir mensajes explícitos en las redes sociales_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "relajado"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

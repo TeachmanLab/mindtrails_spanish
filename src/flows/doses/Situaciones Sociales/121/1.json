@@ -1,0 +1,14 @@
+{
+    "name": "El coche de tu familia132",
+    "title": "El coche de tu familia",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "El coche de tu familia"
+        },
+        {
+            "type": "Media",
+            "file": "/images/El_coche_de_tu_familia.jpg"
+        }
+    ]
+}

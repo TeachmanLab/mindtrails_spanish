@@ -1,0 +1,14 @@
+{
+    "name": "Pajera silenciosa50",
+    "title": "Pajera silenciosa",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Pajera silenciosa"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Pajera_silenciosa.jpg"
+        }
+    ]
+}

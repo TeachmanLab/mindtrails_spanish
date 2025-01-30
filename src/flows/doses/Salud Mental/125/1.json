@@ -1,0 +1,14 @@
+{
+    "name": "Fuera de tu control136",
+    "title": "Fuera de tu control",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Fuera de tu control"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Fuera_de_tu_control.jpg"
+        }
+    ]
+}

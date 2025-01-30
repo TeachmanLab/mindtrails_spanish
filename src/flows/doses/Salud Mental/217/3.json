@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Preocupaciones por el ritmo cardíaco",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cuando el evento se vuelve más ruidoso a medida que llega más gente, consideras irte, pero decides que puedes manejar estos sentimientos y seguir..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Preocupaciones por el ritmo cardíaco_Salud Mental_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "socializando"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

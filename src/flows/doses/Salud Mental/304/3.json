@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Tiempo para ti mismo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu parte favorita del día es relajarte para cenar. Cuando empiezas a preparar la cena, te das cuenta de que has estado comiendo solo mucho recientemente, y te sientes triste. Decides que estás bien con este hecho, ya que te da tiempo para reflexionar sobre tu... "
+        },
+        {
+            "type": "Entry",
+            "name": "Tiempo para ti mismo_Salud Mental_entry1"
+        }
+    ]
+}

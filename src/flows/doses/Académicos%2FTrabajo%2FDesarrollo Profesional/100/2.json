@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Persona de apoyo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Quieres hablar con alguien sobre tus planes para el futuro, pero no quieres hablar con tu familia al respecto. Piensas en otras personas cercanas a tu vida y decides hablar con tu amigo más cercano. Cuando piensas en su reacción, piensas que probablemente serán..."
+        },
+        {
+            "type": "Entry",
+            "name": "Persona de apoyo_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ]
+}

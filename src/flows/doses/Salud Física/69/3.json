@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Recuperando el aliento",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Es una mañana fresca y estás subiendo unas escaleras para llegar a tu trabajo. Empiezas a sentirte realmente sin aliento cuando llegas al último escalón. Tomas un segundo para respirar y sentirte..."
+        },
+        {
+            "type": "Entry",
+            "name": "Recuperando el aliento_Salud Física_entry1"
+        }
+    ]
+}

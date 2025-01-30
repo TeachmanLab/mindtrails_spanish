@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Nuevo atuendo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te pones un traje nuevo por la mañana antes de partir por el día. A mitad del día, notas que te sientes un poco diferente con este nuevo conjunto. Te encanta este sentimiento y estás feliz de haber elegido usar el..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Nuevo atuendo_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "atuendo"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Practicando la presentación2",
+    "title": "Practicando la presentación",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Practicando la presentación"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Practicando_la_presentación.jpg"
+        }
+    ]
+}

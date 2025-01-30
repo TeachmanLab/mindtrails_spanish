@@ -1,0 +1,14 @@
+{
+    "name": "Problemas de salud mental127",
+    "title": "Problemas de salud mental",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Problemas de salud mental"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Problemas_de_salud_mental.jpg"
+        }
+    ]
+}

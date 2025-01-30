@@ -1,0 +1,14 @@
+{
+    "name": "Revisando tus cualificaciones317",
+    "title": "Revisando tus cualificaciones",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Revisando tus cualificaciones"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Revisando_tus_cualificaciones.jpg"
+        }
+    ]
+}

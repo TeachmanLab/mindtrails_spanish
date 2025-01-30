@@ -1,0 +1,14 @@
+{
+    "name": "Usando algo viejo149",
+    "title": "Usando algo viejo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Usando algo viejo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Usando_algo_viejo.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Sentirse mareado35",
+    "title": "Sentirse mareado",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sentirse mareado"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Sentirse_mareado.jpg"
+        }
+    ]
+}

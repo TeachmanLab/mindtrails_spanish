@@ -1,0 +1,14 @@
+{
+    "name": "Sudando a través de tu camisa80",
+    "title": "Sudando a través de tu camisa",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sudando a través de tu camisa"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Sudando_a_través_de_tu_camisa.jpg"
+        }
+    ]
+}

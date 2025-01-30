@@ -1,0 +1,14 @@
+{
+    "name": "Breve introducción27",
+    "title": "Breve introducción",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Breve introducción"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Breve_introducción.jpg"
+        }
+    ]
+}

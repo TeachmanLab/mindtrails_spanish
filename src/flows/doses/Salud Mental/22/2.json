@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Pensamientos intrusivos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recientemente, has notado que estás teniendo pensamientos intrusivos. Estos pensamientos te están molestando, y no puedes creer que estás pensando en cosas tan horribles. Sientes que te estás volviendo..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Pensamientos intrusivos_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "loco"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

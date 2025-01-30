@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Lograr tus objetivos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sientes que no eres un mal candidato y que tus posibilidades de conseguir este nuevo trabajo son..."
+        },
+        {
+            "type": "Entry",
+            "name": "Lograr tus objetivos_Salud Mental_entry2"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Preguntas de la familia",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Fuiste a la fiesta de cumpleaños de una prima y toda tu familia estuvo ahí. En el evento, tu familia no dejaba de hacerte preguntas sobre por qué sigues soltero y no estabas seguro de cómo responderlas. Cuando piensas en tu vida amorosa, estás contento de pasarla con... "
+        },
+        {
+            "type": "Entry",
+            "name": "Preguntas de la familia_Relaciones Románticas_entry1"
+        }
+    ]
+}

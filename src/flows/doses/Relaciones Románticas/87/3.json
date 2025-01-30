@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Relaciones futuras",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cuando piensas en tu futura vida amorosa, no te preocupa estar solo y la idea de encontrar un buen compañero de vida parece..."
+        },
+        {
+            "type": "Entry",
+            "name": "Relaciones futuras_Relaciones Románticas_entry2"
+        }
+    ]
+}

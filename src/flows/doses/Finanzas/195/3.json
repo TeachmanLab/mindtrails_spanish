@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Planificación de pagos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "No te ves cometiendo un gran error y piensas que el plan que elijas te dejará en una posición financiera..."
+        },
+        {
+            "type": "Entry",
+            "name": "Planificación de pagos_Finanzas_entry2"
+        }
+    ]
+}

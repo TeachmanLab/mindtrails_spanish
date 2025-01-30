@@ -1,0 +1,14 @@
+{
+    "name": "Tiempo de calidad49",
+    "title": "Tiempo de calidad",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tiempo de calidad"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Tiempo_de_calidad.jpg"
+        }
+    ]
+}

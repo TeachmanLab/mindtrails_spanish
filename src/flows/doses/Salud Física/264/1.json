@@ -1,0 +1,14 @@
+{
+    "name": "Película intermitente284",
+    "title": "Película intermitente",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Película intermitente"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Película_intermitente.jpg"
+        }
+    ]
+}

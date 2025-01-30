@@ -1,0 +1,14 @@
+{
+    "name": "Tu vejez12",
+    "title": "Tu vejez",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tu vejez"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Tu_vejez.jpg"
+        }
+    ]
+}

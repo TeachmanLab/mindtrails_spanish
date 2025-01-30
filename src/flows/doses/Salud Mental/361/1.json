@@ -1,0 +1,14 @@
+{
+    "name": "Correo electrónico importante395",
+    "title": "Correo electrónico importante",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Correo electrónico importante"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Correo_electrónico_importante.jpg"
+        }
+    ]
+}

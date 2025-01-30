@@ -1,0 +1,14 @@
+{
+    "name": "Dar regalos203",
+    "title": "Dar regalos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dar regalos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Dar_regalos.jpg"
+        }
+    ]
+}

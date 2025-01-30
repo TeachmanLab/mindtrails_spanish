@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Proyecto eliminado",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Respiras hondo y decides contarle a tu jefe lo sucedido. Tú te sientes..."
+        },
+        {
+            "type": "Entry",
+            "name": "Proyecto eliminado_Salud Mental_entry2"
+        }
+    ]
+}

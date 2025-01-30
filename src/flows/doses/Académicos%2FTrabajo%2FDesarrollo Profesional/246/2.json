@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Una noche libre",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tienes un gran proyecto pendiente al final de la semana. Tu trabajo no ha terminado, pero consideras tomarte un descanso para salir con amigos. Tomarse la noche libre sería..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Una noche libre_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "razonable"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Compartir redes sociales con un nuevo amigo128",
+    "title": "Compartir redes sociales con un nuevo amigo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Compartir redes sociales con un nuevo amigo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Compartir_redes_sociales_con_un_nuevo_amigo.jpg"
+        }
+    ]
+}

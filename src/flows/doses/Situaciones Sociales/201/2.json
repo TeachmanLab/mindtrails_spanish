@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Comentarios honestos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te pones un traje nuevo por la mañana antes de partir por el día. A mitad del día, notas que te sientes un poco diferente con este nuevo conjunto. Te encanta este sentimiento y estás feliz de haber elegido usar el..."
+        },
+        {
+            "type": "Entry",
+            "name": "Comentarios honestos_Situaciones Sociales_entry1"
+        }
+    ]
+}

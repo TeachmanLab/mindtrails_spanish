@@ -1,0 +1,14 @@
+{
+    "name": "Dando vueltas62",
+    "title": "Dando vueltas",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dando vueltas"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Dando_vueltas.jpg"
+        }
+    ]
+}

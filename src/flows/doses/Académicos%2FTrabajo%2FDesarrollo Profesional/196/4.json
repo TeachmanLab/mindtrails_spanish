@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "El curso difícil",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Al imaginar cómo te irá en el programa, no te ves fracasando, sino que crees que tus esfuerzos por aprender algunas habilidades de ciencia de datos tendrán..."
+        },
+        {
+            "type": "Entry",
+            "name": "El curso difícil_Académicos/Trabajo/Desarrollo Profesional_entry2"
+        }
+    ]
+}

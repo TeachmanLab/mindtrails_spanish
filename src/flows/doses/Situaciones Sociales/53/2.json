@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Presentación opcional",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu jefe ha contratado a algunos pasantes para el verano. Tu jefe te pide que te quedes después del trabajo para darles una breve presentación sobre los objetivos y valores de la universidad, pero te dice que esto es completamente opcional. Te sientes un poco nervioso por dar la presentación, y decides... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Presentación opcional_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "quedarte"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

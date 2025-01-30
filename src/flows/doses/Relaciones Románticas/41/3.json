@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Preocupaciones por las relaciones",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Cuando te imaginas a ti y a tu cónyuge en el futuro, ves"
+        },
+        {
+            "type": "Buttons",
+            "name": "Preocupaciones por las relaciones_Relaciones Románticas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Los dos juntos y felices.",
+                "Tu matrimonio ha terminado."
+            ],
+            "columnCount": 1,
+            "answer": "Los dos juntos y felices."
+        }
+    ]
+}

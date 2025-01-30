@@ -1,0 +1,14 @@
+{
+    "name": "Casarse con tu pareja9",
+    "title": "Casarse con tu pareja",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Casarse con tu pareja"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Casarse_con_tu_pareja.jpg"
+        }
+    ]
+}

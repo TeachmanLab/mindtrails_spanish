@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Revisando tu trabajo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mientras te preparas para la revisión, no crees que tu jefe olvide tu buen trabajo y crees que su reunión probablemente se centrará en tus..."
+        },
+        {
+            "type": "Entry",
+            "name": "Revisando tu trabajo_Salud Mental_entry2"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Participación",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Consideras asistir a un taller práctico en el que se requerirá tu opinión con frecuencia, a pesar de que no te gusta hablar frente a los demás. Después de asistir al taller, te das cuenta de que fue una decisión..."
+        },
+        {
+            "type": "Entry",
+            "name": "Participación_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ]
+}

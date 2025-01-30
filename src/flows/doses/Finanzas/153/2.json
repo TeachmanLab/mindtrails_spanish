@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Permitirse un viaje",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recientemente te has sentido muy abrumado y agotado y quieres ir de viaje para tomar un descanso. Cuando buscas vuelos, te das cuenta de que el costo de un viaje puede estar totalmente fuera de tu presupuesto. Te recuerdas que puedes hacer un viaje corto a algún lugar cercano y aún así..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Permitirse un viaje_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "divertirte"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

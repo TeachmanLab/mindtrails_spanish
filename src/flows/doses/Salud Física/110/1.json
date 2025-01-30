@@ -1,0 +1,14 @@
+{
+    "name": "Terminando una carrera larga122",
+    "title": "Terminando una carrera larga",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Terminando una carrera larga"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Terminando_una_carrera_larga.jpg"
+        }
+    ]
+}

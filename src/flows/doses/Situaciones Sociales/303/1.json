@@ -1,0 +1,14 @@
+{
+    "name": "Almorzando solo319",
+    "title": "Almorzando solo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Almorzando solo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Almorzando_solo.jpg"
+        }
+    ]
+}

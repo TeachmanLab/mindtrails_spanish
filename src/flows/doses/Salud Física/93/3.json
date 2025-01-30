@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Subiendo una montaña",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Llegas a la cima de las montañas y tus amigos están tomando fotos. Aunque estás ansioso, miras alrededor y..."
+        },
+        {
+            "type": "Entry",
+            "name": "Subiendo una montaña_Salud Física_entry2"
+        }
+    ]
+}

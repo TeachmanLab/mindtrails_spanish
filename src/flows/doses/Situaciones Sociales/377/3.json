@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Escuchando tu nombre",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Después, te das cuenta de que muchas personas chismean en la oficina de vez en cuando y que tus compañeros probablemente no quisieron hacerte sentir mal. De hecho, es posible que estaban diciendo algo..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Escuchando tu nombre_Situaciones Sociales_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "positivo"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

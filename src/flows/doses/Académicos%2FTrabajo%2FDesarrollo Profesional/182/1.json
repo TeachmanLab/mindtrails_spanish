@@ -1,0 +1,14 @@
+{
+    "name": "Errores en el trabajo187",
+    "title": "Errores en el trabajo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Errores en el trabajo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Errores_en_el_trabajo.jpg"
+        }
+    ]
+}

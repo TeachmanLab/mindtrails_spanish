@@ -1,0 +1,14 @@
+{
+    "name": "Relación a largo plazo27",
+    "title": "Relación a largo plazo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Relación a largo plazo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Relación_a_largo_plazo.jpg"
+        }
+    ]
+}

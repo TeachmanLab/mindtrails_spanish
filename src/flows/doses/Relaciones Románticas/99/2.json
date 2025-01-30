@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Tomando una decisión",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tú y tu pareja tienen que tomar una decisión importante. La conversación se intensa y se convierte en una discusión que te hace preguntarte si podrán llegar a un compromiso. Te recuerdas a ti mismo que las conversaciones difíciles pueden ser una buena manera para ambos de aprender más sobre la comunicación..."
+        },
+        {
+            "type": "Entry",
+            "name": "Tomando una decisión_Relaciones Románticas_entry1"
+        }
+    ]
+}

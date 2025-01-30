@@ -1,0 +1,14 @@
+{
+    "name": "Puntos de vista hacia la terapia56",
+    "title": "Puntos de vista hacia la terapia",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Puntos de vista hacia la terapia"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Puntos_de_vista_hacia_la_terapia.jpg"
+        }
+    ]
+}

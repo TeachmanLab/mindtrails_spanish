@@ -1,0 +1,14 @@
+{
+    "name": "Una pregunta personal155",
+    "title": "Una pregunta personal",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Una pregunta personal"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Una_pregunta_personal.jpg"
+        }
+    ]
+}

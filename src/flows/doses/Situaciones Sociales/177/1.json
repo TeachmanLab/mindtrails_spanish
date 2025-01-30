@@ -1,0 +1,14 @@
+{
+    "name": "Una gran risa182",
+    "title": "Una gran risa",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Una gran risa"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Una_gran_risa.jpg"
+        }
+    ]
+}

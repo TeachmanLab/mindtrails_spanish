@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Elegir entre oportunidades",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tienes la oportunidad de recibir formación especializada en un tema de tu interés. Sabe que esta capacitación será útil para su carrera, pero te preocupa cómo aprovechar esta oportunidad podría afectar tu trabajo actual. Cuando piensas en equilibrar tu trabajo y la formación, crees que será..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Elegir entre oportunidades_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "manejable"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

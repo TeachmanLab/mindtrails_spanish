@@ -1,0 +1,14 @@
+{
+    "name": "Tratar a un amigo195",
+    "title": "Tratar a un amigo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tratar a un amigo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Tratar_a_un_amigo.jpg"
+        }
+    ]
+}

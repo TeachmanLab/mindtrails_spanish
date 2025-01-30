@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Asustado en tu caminata",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás caminando hacia el trabajo cuando de repente escuchas un ruido detrás de ti. Cuando giras rápidamente la cabeza para ver qué es, te sientes mareado y empiezas a preocuparte de que perderás el..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Asustado en tu caminata_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "control"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

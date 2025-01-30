@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Finalización rápida de tareas",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Has empezado a trabajar en un nuevo comité con otro personal y te asignan una tarea que normalmente lleva unos días, pero logras terminarla el mismo día. Se lo muestras al resto del comité, quienes solo encuentran un error en tu trabajo. Cuando termina la reunión, esperas que piensen que tu trabajo es..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Finalización rápida de tareas_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "encomiable"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

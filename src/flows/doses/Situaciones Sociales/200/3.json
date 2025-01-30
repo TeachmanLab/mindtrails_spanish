@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "El torneo de fútbol",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Crees que no defraudarás a tus compañeros y contribuirás al éxito del..."
+        },
+        {
+            "type": "Entry",
+            "name": "El torneo de fútbol_Situaciones Sociales_entry2"
+        }
+    ]
+}

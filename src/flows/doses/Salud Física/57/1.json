@@ -1,0 +1,14 @@
+{
+    "name": "Aprendiendo a esquíar51",
+    "title": "Aprendiendo a esquíar",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Aprendiendo a esquíar"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Aprendiendo_a_esquíar.jpg"
+        }
+    ]
+}

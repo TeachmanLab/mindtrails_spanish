@@ -1,0 +1,14 @@
+{
+    "name": "Segundo encuentro43",
+    "title": "Segundo encuentro",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Segundo encuentro"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Segundo_encuentro.jpg"
+        }
+    ]
+}

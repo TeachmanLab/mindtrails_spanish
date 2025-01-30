@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Boca seca",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Has sentido sequedad en la boca durante unos días. Esto es algo que no has sentido antes. La probabilidad de que la sequedad de boca signifique un problema de salud grave es..."
+        },
+        {
+            "type": "Entry",
+            "name": "Boca seca_Salud Mental_entry1"
+        }
+    ]
+}

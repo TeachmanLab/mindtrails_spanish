@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Seguridad de la trampolina",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "A medida que continúes viendo a sus hijos en el trampolín probablemente..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Seguridad de la trampolina_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "disfrutarás viéndolos",
+                "te preocuparás de que se lastimen"
+            ],
+            "columnCount": 1,
+            "answer": "disfrutarás viéndolos"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Calentador5",
+    "title": "Calentador",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Calentador"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Calentador.jpg"
+        }
+    ]
+}

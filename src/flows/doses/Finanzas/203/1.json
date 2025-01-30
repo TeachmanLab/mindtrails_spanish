@@ -1,0 +1,14 @@
+{
+    "name": "Pagando facturas205",
+    "title": "Pagando facturas",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Pagando facturas"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Pagando_facturas.jpg"
+        }
+    ]
+}

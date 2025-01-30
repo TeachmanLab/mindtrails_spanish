@@ -1,0 +1,14 @@
+{
+    "name": "Zambullirte59",
+    "title": "Zambullirte",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Zambullirte"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Zambullirte.jpg"
+        }
+    ]
+}

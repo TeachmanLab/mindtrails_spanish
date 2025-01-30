@@ -1,0 +1,14 @@
+{
+    "name": "Ruido repentino382",
+    "title": "Ruido repentino",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ruido repentino"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Ruido_repentino.jpg"
+        }
+    ]
+}

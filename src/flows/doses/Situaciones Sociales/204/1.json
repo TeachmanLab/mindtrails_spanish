@@ -1,0 +1,14 @@
+{
+    "name": "Fotos divertidas206",
+    "title": "Fotos divertidas",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Fotos divertidas"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Fotos_divertidas.jpg"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Listo para trabajar",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tienes muchas tareas que tienes que entregar mañana. Has estado postergando hacerlos porque van a ser difíciles. Cuando piensas si podrás hacer el trabajo, piensas que..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Listo para trabajar_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "puedes"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

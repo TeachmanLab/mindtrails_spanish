@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Pensamientos en la estación de tren",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Mientras esperas el tren, piensas en cómo..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Pensamientos en la estación de tren_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Estás seguro parado encima de las vías.",
+                "Estás en peligro de caerte."
+            ],
+            "columnCount": 1,
+            "answer": "Estás seguro parado encima de las vías."
+        }
+    ]
+}

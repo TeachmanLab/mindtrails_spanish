@@ -1,0 +1,14 @@
+{
+    "name": "Gente fiestera375",
+    "title": "Gente fiestera",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Gente fiestera"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Gente_fiestera.jpg"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Viendo a un viejo amigo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Ves a un viejo amigo con el que no has hablado en años. Tu corazón da un vuelco. Te sientes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Viendo a un viejo amigo_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "emocionado"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

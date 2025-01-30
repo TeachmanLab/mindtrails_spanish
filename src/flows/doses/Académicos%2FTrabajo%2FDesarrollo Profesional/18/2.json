@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Certidumbre de estar en lo correcto",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás teniendo una discusión intelectual con tu colega. En una de las preguntas que te hacen, estás 90% seguro de que conoces la respuesta correcta. Cuando respondes, te sientes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Certidumbre de estar en lo correcto_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "seguro"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

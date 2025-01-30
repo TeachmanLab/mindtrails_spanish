@@ -1,0 +1,14 @@
+{
+    "name": "Comparándote con otros17",
+    "title": "Comparándote con otros",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comparándote con otros"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Comparándote_con_otros.jpg"
+        }
+    ]
+}

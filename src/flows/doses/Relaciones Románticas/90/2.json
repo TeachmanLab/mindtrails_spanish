@@ -1,0 +1,14 @@
+{
+    "name": "Familia grande80",
+    "title": "Familia grande",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Familia grande"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Familia_grande.jpg"
+        }
+    ]
+}

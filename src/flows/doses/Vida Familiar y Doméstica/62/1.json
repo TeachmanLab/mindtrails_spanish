@@ -1,0 +1,14 @@
+{
+    "name": "Noticias decepcionantes54",
+    "title": "Noticias decepcionantes",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Noticias decepcionantes"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Noticias_decepcionantes.jpg"
+        }
+    ]
+}

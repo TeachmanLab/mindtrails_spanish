@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Planes de descanso",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tus amigos están planeando un viaje a la playa durante las vacaciones y han ofrecido a ayudarte con el costo. Te sientes agradecido, pero también avergonzado de no poder pagar el viaje ti mismo. Sabes que tus amigos están felices de... "
+        },
+        {
+            "type": "Entry",
+            "name": "Planes de descanso_Finanzas_entry1"
+        }
+    ]
+}

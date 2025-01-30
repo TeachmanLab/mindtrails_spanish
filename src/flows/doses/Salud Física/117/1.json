@@ -1,0 +1,14 @@
+{
+    "name": "Problemas de computadora129",
+    "title": "Problemas de computadora",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Problemas de computadora"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Problemas_de_computadora.jpg"
+        }
+    ]
+}

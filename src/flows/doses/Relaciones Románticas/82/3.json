@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Casarse con tu pareja",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Reflexionando sobre la idea de casarte con tu pareja, no te sientes demasiado asustado y crees que tu matrimonio sería... "
+        },
+        {
+            "type": "Entry",
+            "name": "Casarse con tu pareja_Relaciones Románticas_entry2"
+        }
+    ]
+}

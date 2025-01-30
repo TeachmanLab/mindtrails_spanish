@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Obtener una oportunidad",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Crees que su solicitud es:"
+        },
+        {
+            "type": "Buttons",
+            "name": "Obtener una oportunidad_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Uno que no destacará en una buena piscina.",
+                "Una buena, en relación con las otras presentaciones."
+            ],
+            "columnCount": 1,
+            "answer": "Uno que no destacará en una buena piscina."
+        }
+    ]
+}

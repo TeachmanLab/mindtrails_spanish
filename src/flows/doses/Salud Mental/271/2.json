@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Broma interna",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Publicas un video corto. Tu mejor amigo comenta algo realmente vergonzoso. Tus seguidores pensarán que tú y tu amigo sois..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Broma interna_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "cercanos"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

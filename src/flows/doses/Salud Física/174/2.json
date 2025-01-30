@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Corriendo una maratón",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Has corrido unos 10 kilómetros y estás pensando en entrenar para correr una maratón. Disfrutas la sensación de logro cuando terminas una carrera de 10 km, pero te preocupa si tienes lo necesario para correr más de cuatro veces esa distancia. Cuando consideras la idea de correr un maratón, crees que probablemente serás lo suficientemente..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Corriendo una maratón_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "bueno"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

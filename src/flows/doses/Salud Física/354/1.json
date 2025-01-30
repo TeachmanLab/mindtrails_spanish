@@ -1,0 +1,14 @@
+{
+    "name": "Dolor de cabeza en la oficina médica390",
+    "title": "Dolor de cabeza en la oficina médica",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dolor de cabeza en la oficina médica"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Dolor_de_cabeza_en_la_oficina_médica.jpg"
+        }
+    ]
+}

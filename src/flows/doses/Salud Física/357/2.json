@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Nadando en la playa",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Despues de enterarte de que un amigo está enfermo, decides ir a la playa para un día relajante. Cuando intentas nadar en el mar, te cuesta aguantar la respiración bajo el agua. Probablemente es porque hace un tiempo que no... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Nadando en la playa_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "nadas"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

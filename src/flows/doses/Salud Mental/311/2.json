@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Puntos de vista hacia la terapia",
+    "elements": [
+        {
+            "type": "Text",
+            "text": null
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Puntos de vista hacia la terapia_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                null
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

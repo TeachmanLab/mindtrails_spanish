@@ -1,0 +1,14 @@
+{
+    "name": "Estar cerca de alguien enfermo328",
+    "title": "Estar cerca de alguien enfermo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Estar cerca de alguien enfermo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Estar_cerca_de_alguien_enfermo.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Haciendo una buena impresión",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Nunca has conocido a los colegas de tu pareja. Acaba de decirte que sus colegas te han invitado a cenar esta noche, y tu pareja menciona que pueden ser críticas. Cuando piensas en conocer a sus colegas, tu ansiedad es...  "
+        },
+        {
+            "type": "Entry",
+            "name": "Haciendo una buena impresión_Vida Familiar y Doméstica_entry1"
+        }
+    ]
+}

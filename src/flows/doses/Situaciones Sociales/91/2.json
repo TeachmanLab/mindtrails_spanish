@@ -1,0 +1,14 @@
+{
+    "name": "Puntuaciones de redes sociales81",
+    "title": "Puntuaciones de redes sociales",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Puntuaciones de redes sociales"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Puntuaciones_de_redes_sociales.jpg"
+        }
+    ]
+}

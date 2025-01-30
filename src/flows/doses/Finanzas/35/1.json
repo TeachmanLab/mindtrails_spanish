@@ -1,0 +1,14 @@
+{
+    "name": "Saludando gente en bibliotecas31",
+    "title": "Saludando gente en bibliotecas",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Saludando gente en bibliotecas"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Saludando_gente_en_bibliotecas.jpg"
+        }
+    ]
+}

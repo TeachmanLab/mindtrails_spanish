@@ -1,0 +1,110 @@
+{
+	"datums_endpoint": "https://digital-trails.org/api/v1/datums",
+	"icon": "/assets/home_mindtrails.png",
+	"home": {
+		"title": "MindTrails",
+		"banner_text_1": "Understand Your Thinking.",
+		"banner_text_2": "Feel Less Anxious.",
+		"banner_icon": "/assets/home_banner.png",
+		"button_tl": {
+			"text": "¿Qué es MindTrails Español?",
+			"icon": "/assets/home_mindtrails.png",
+			"action": "flow://flows/rationale.json"
+		},
+		"button_tr": {
+			"text": "Instrucciones",
+			"icon": "/assets/home_instructions.png",
+			"action": "flow://flows/instructions.json"
+		},
+		"button_br": {
+			"text": "Recursos",
+			"icon": "/assets/home_resources.png",
+			"action": "page://flows/resources.json"
+		},
+		"button_bl": {
+			"text": "¿Qué es la Ansiedad?",
+			"icon": "/assets/home_anxiety.png",
+			"action": "flow://flows/what is anxiety.json"
+		}
+	},
+	"menu": {
+		"home": {
+			"text": "Home",
+			"icon": "/assets/menu_home.png"
+		},
+		"unenroll": {
+			"text": "Unenroll",
+			"icon": "/assets/menu_unenroll.png",
+			"action": "flow://flows/reasons for ending"
+		},
+		"log_out": {
+			"text": "Log Out",
+			"icon": "/assets/menu_logout.png"
+		},
+		"custom": [
+			{
+				"text": "¿Qué es MindTrails Español?",
+				"icon": "/assets/menu_mindtrails.png",
+				"action": "flow://flows/rationale.json"
+			},
+			{
+				"text": "<INTRO>",
+				"icon": "/assets/menu_mindtrails.png",
+				"action": "flow://flows/intro"
+			},
+			{
+				"text": "Instrucciones",
+				"icon": "/assets/menu_instructions.png",
+				"action": "flow://flows/instructions.json"
+			},
+			{
+				"text": "¿Qué es la Ansiedad?",
+				"icon": "/assets/menu_anxiety.png",
+				"action": "flow://flows/what is anxiety.json"
+			},
+			{
+				"text": "Recursos",
+				"icon": "/assets/menu_resources.png",
+				"action": "flow://flows/resources.json"
+			},
+			{
+				"text": "F.A.Q.",
+				"icon": "/assets/menu_faq.png",
+				"action": "flow://flows/faq.json"
+			},
+			{
+				"text": "Meet the Team",
+				"icon": "/assets/menu_team.png",
+				"action": "https://ert6g2.wixsite.com/hoosthinkcalmly/contact-the-team"
+			},
+			{
+				"text": "Get Help",
+				"icon": "/assets/menu_help.png",
+				"action": "https://ert6g2.wixsite.com/hoosthinkcalmly/general-8"
+			},
+			{
+				"text": "Disclaimer",
+				"icon": "/assets/menu_disclaimer.png",
+				"action": "flow://flows/disclaimer.json"
+			}
+		]
+	},
+	"sessions": "flow://flows/doses",
+	"triggers": [
+		{
+			"type": "timing",
+			"action": "survey",
+			"content": "flow://flows/eod",
+			"frequency": "1",
+			"time": "20:00"
+		},
+		{
+			"type": "timing",
+			"action": "survey",
+			"content": "flow://flows/biweekly",
+			"frequency": "14",
+			"time": "20:00",
+			"requires": ["sessions"]
+		}
+	]
+}

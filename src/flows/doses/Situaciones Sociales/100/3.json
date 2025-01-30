@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "El escaparate de danza",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mientras decides si invitas o no gente a tu programa, piensas que no tendrás un mal desempeño y te ves bailando..."
+        },
+        {
+            "type": "Entry",
+            "name": "El escaparate de danza_Situaciones Sociales_entry2"
+        }
+    ]
+}

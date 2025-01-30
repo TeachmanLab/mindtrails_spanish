@@ -1,0 +1,14 @@
+{
+    "name": "Conocer a los padres84",
+    "title": "Conocer a los padres",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Conocer a los padres"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Conocer_a_los_padres.jpg"
+        }
+    ]
+}

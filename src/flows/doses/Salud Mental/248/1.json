@@ -1,0 +1,14 @@
+{
+    "name": "Comparar su trabajo con el de otros270",
+    "title": "Comparar su trabajo con el de otros",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comparar su trabajo con el de otros"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Comparar_su_trabajo_con_el_de_otros.jpg"
+        }
+    ]
+}

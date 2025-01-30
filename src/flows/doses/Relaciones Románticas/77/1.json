@@ -1,0 +1,14 @@
+{
+    "name": "Aplicaciones de citas68",
+    "title": "Aplicaciones de citas",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Aplicaciones de citas"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Aplicaciones_de_citas.jpg"
+        }
+    ]
+}

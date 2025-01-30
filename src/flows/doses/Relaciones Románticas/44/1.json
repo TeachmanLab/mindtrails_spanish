@@ -1,0 +1,14 @@
+{
+    "name": "Problemas con los amigos39",
+    "title": "Problemas con los amigos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Problemas con los amigos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Problemas_con_los_amigos.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Terminando a large distancia82",
+    "title": "Terminando a large distancia",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Terminando a large distancia"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Terminando_a_large_distancia.jpg"
+        }
+    ]
+}

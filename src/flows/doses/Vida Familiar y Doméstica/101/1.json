@@ -1,0 +1,14 @@
+{
+    "name": "Ruidos del exterior90",
+    "title": "Ruidos del exterior",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ruidos del exterior"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Ruidos_del_exterior.jpg"
+        }
+    ]
+}

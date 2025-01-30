@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Probando comidas diferentes",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tú y tus colegas están en un restaurante. Mientras todos tus colegas ordenan el mismo plato, tú quieres pedir algo diferente y aventurero, pero te preocupa que piensen que es raro o desagradable. Decides pedir el plato de todos modos y disfrutar de los nuevos..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Probando comidas diferentes_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "sabores"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

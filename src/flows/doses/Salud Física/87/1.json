@@ -1,0 +1,14 @@
+{
+    "name": "Sensaciones desconocidas77",
+    "title": "Sensaciones desconocidas",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sensaciones desconocidas"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Sensaciones_desconocidas.jpg"
+        }
+    ]
+}

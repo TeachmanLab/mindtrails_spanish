@@ -1,0 +1,14 @@
+{
+    "name": "Conexión perdida381",
+    "title": "Conexión perdida",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Conexión perdida"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Conexión_perdida.jpg"
+        }
+    ]
+}

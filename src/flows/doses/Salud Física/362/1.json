@@ -1,0 +1,14 @@
+{
+    "name": "Despertándote mareado397",
+    "title": "Despertándote mareado",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Despertándote mareado"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Despertándote_mareado.jpg"
+        }
+    ]
+}

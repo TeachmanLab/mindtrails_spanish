@@ -1,0 +1,14 @@
+{
+    "name": "Compañero de cuarto ausente59",
+    "title": "Compañero de cuarto ausente",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Compañero de cuarto ausente"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Compañero_de_cuarto_ausente.jpg"
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "title": "El viaje de compras",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Estás comprando solo?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "selectable": true,
+            "name": "IBM_shopping"
+        }
+    ]
+}

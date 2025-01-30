@@ -1,0 +1,14 @@
+{
+    "name": "Nueva pareja65",
+    "title": "Nueva pareja",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Nueva pareja"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Nueva_pareja.jpg"
+        }
+    ]
+}

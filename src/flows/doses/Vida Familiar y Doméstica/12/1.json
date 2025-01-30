@@ -1,0 +1,14 @@
+{
+    "name": "Lidiar con la vergüenza10",
+    "title": "Lidiar con la vergüenza",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Lidiar con la vergüenza"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Lidiar_con_la_vergüenza.jpg"
+        }
+    ]
+}

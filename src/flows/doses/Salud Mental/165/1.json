@@ -1,0 +1,10 @@
+{
+    "title": "Maneja tus sentimientos: Salud Mental",
+    "name": "Consejo para la regulación de las emociones",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Acepta las emociones que tienes en lugar de juzgarte por tenerlas."
+        }
+    ]
+}

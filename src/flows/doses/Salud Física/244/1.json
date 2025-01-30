@@ -1,0 +1,14 @@
+{
+    "name": "Controles en el dentista.266",
+    "title": "Controles en el dentista.",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Controles en el dentista."
+        },
+        {
+            "type": "Media",
+            "file": "/images/Controles_en_el_dentista..jpg"
+        }
+    ]
+}

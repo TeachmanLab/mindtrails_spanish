@@ -1,0 +1,14 @@
+{
+    "name": "Poniendo la preparación a prueba17",
+    "title": "Poniendo la preparación a prueba",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Poniendo la preparación a prueba"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Poniendo_la_preparación_a_prueba.jpg"
+        }
+    ]
+}

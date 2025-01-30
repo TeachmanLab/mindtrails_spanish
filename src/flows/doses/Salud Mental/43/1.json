@@ -1,0 +1,14 @@
+{
+    "name": "Aceptando elogios38",
+    "title": "Aceptando elogios",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Aceptando elogios"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Aceptando_elogios.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Encontrando un campo para sentarte41",
+    "title": "Encontrando un campo para sentarte",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Encontrando un campo para sentarte"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Encontrando_un_campo_para_sentarte.jpg"
+        }
+    ]
+}

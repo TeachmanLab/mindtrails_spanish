@@ -1,0 +1,14 @@
+{
+    "name": "Sonidos por la noche62",
+    "title": "Sonidos por la noche",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sonidos por la noche"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Sonidos_por_la_noche.jpg"
+        }
+    ]
+}

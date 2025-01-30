@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Prepararte para tener éxito",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "En tu reunión de hoy, tienes una presentación importante. Para seguir las instrucciones de tu jefe, debes presentar por 15 minutos. Cuando piensas en completar esta presentación, te sientes..."
+        },
+        {
+            "type": "Entry",
+            "name": "Prepararte para tener éxito_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ]
+}

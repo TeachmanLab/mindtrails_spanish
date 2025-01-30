@@ -1,0 +1,14 @@
+{
+    "name": "Limitaciones financieras39",
+    "title": "Limitaciones financieras",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Limitaciones financieras"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Limitaciones_financieras.jpg"
+        }
+    ]
+}

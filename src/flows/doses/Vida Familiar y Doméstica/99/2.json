@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Lidiar con la vergüenza",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu pareja te está dejando en un evento de trabajo. Mientras te deja, está siendo muy ruidoso y te hace sentir avergonzado. Cuando sales del coche, te sientes..."
+        },
+        {
+            "type": "Entry",
+            "name": "Lidiar con la vergüenza_Vida Familiar y Doméstica_entry1"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Sentirse diferente17",
+    "title": "Sentirse diferente",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sentirse diferente"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Sentirse_diferente.jpg"
+        }
+    ]
+}

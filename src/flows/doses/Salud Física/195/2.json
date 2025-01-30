@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Vecino amigable",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te das cuenta de que no has visto a tu vecino mayor recientemente. Normalmente los visitas habitualmente, por lo que es extraño que no los hayas visto últimamente. Probablemente tu vecino haya estado..."
+        },
+        {
+            "type": "Entry",
+            "name": "Vecino amigable_Salud Física_entry1"
+        }
+    ]
+}

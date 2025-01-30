@@ -1,0 +1,14 @@
+{
+    "name": "Viejos amigos309",
+    "title": "Viejos amigos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Viejos amigos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Viejos_amigos.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Celebraciones culturales familiares251",
+    "title": "Celebraciones culturales familiares",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Celebraciones culturales familiares"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Celebraciones_culturales_familiares.jpg"
+        }
+    ]
+}

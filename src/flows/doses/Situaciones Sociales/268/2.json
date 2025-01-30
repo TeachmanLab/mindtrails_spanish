@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Nuevo ambiente",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tienes miedo de la naturaleza salvaje. Este fin de semana, acamparás con amigos y sabes que se han avistado con frecuencia animales salvajes en la zona. Al pensar en el viaje, sientes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Nuevo ambiente_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "miedo"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

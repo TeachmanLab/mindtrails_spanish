@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Gustos musicales diferentes",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "¿Tu suegra piensa que no sabes nada sobre música?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Gustos musicales diferentes_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "columnCount": 1,
+            "answer": "No"
+        }
+    ]
+}

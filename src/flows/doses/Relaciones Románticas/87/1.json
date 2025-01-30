@@ -1,0 +1,14 @@
+{
+    "name": "Relaciones futuras77",
+    "title": "Relaciones futuras",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Relaciones futuras"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Relaciones_futuras.jpg"
+        }
+    ]
+}

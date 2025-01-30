@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Expresar tus sentimientos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tú pareja ha estado pasando mucho tiempo con sus amigos últimamente. Sientes que ellos prefieren pasar el rato con sus amigos que contigo. Decides decirle a tu pareja cómo te..."
+        },
+        {
+            "type": "Entry",
+            "name": "Expresar tus sentimientos_Relaciones Románticas_entry1"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Afecto desigual53",
+    "title": "Afecto desigual",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Afecto desigual"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Afecto_desigual.jpg"
+        }
+    ]
+}

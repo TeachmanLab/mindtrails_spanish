@@ -1,0 +1,14 @@
+{
+    "name": "Preocupaciones por las relaciones90",
+    "title": "Preocupaciones por las relaciones",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Preocupaciones por las relaciones"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Preocupaciones_por_las_relaciones.jpg"
+        }
+    ]
+}

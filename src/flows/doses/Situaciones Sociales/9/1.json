@@ -1,0 +1,14 @@
+{
+    "name": "Nervios en un momento importante7",
+    "title": "Nervios en un momento importante",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Nervios en un momento importante"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Nervios_en_un_momento_importante.jpg"
+        }
+    ]
+}

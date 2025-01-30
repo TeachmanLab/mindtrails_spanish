@@ -1,0 +1,14 @@
+{
+    "name": "Encontrandote con alguien47",
+    "title": "Encontrandote con alguien",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Encontrandote con alguien"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Encontrandote_con_alguien.jpg"
+        }
+    ]
+}

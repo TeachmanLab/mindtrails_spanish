@@ -1,0 +1,14 @@
+{
+    "name": "La música ruidosa24",
+    "title": "La música ruidosa",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "La música ruidosa"
+        },
+        {
+            "type": "Media",
+            "file": "/images/La_música_ruidosa.jpg"
+        }
+    ]
+}

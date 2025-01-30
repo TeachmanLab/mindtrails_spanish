@@ -1,0 +1,14 @@
+{
+    "name": "Fecha límite cercana22",
+    "title": "Fecha límite cercana",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Fecha límite cercana"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Fecha_límite_cercana.jpg"
+        }
+    ]
+}

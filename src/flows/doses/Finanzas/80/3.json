@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Factura por una reparación",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu techo tiene una fuga, y agua entra en la casa cada vez que llueve. Piensas que va a ser caro contratar a alguien para arreglarlo. Al pensar en pagar la factura para arreglar el techo, sientes que estarás... "
+        },
+        {
+            "type": "Entry",
+            "name": "Factura por una reparación_Finanzas_entry1"
+        }
+    ]
+}

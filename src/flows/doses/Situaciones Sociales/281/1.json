@@ -1,0 +1,14 @@
+{
+    "name": "Exponer a un amigo300",
+    "title": "Exponer a un amigo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Exponer a un amigo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Exponer_a_un_amigo.jpg"
+        }
+    ]
+}

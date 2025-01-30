@@ -1,0 +1,14 @@
+{
+    "name": "Dependencia financiera245",
+    "title": "Dependencia financiera",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dependencia financiera"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Dependencia_financiera.jpg"
+        }
+    ]
+}

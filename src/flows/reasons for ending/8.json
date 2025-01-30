@@ -1,0 +1,22 @@
+{
+    "title": "Razones para terminar",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Cuánto te gustó el aspecto de Hoos Think Calmly?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "De nada",
+                "Levemente",
+                "Un poco",
+                "Principalmente",
+                "Muy",
+                "^Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "UI"
+        }
+    ]
+}

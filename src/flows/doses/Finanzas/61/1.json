@@ -1,0 +1,14 @@
+{
+    "name": "Ir a la quiebra53",
+    "title": "Ir a la quiebra",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ir a la quiebra"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Ir_a_la_quiebra.jpg"
+        }
+    ]
+}

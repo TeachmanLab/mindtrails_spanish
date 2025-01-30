@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Resultados de análisis de sangre",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "En tu última cita con el médico, su doctor te hizo unos análisis de sangre. Tu doctor te dijo que te darán los resultados en unos días y te sientes nervioso mientras los esperas. Crees que tus nervios son... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Resultados de análisis de sangre_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "manejables"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

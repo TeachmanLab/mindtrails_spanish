@@ -1,0 +1,14 @@
+{
+    "name": "Experiencias pasadas78",
+    "title": "Experiencias pasadas",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Experiencias pasadas"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Experiencias_pasadas.jpg"
+        }
+    ]
+}

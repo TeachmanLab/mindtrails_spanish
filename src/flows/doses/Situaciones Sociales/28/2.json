@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Viendo un amigo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mientras caminas por una calle llena de gente, ves a tu compañero de trabajo al otro lado. Llamas, pero no te responden. Piensas que están..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Viendo un amigo_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "distraídos"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

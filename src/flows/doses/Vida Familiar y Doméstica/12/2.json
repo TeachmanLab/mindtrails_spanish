@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Lidiar con la vergüenza",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu pareja te está dejando en un evento de trabajo. Mientras te deja, está siendo muy ruidoso y te hace sentir avergonzado. Cuando sales del coche, te sientes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Lidiar con la vergüenza_Vida Familiar y Doméstica_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "bien"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

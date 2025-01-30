@@ -1,0 +1,14 @@
+{
+    "name": "Tu propio estilo80",
+    "title": "Tu propio estilo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tu propio estilo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Tu_propio_estilo.jpg"
+        }
+    ]
+}

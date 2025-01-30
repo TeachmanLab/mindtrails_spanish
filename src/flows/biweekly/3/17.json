@@ -1,0 +1,20 @@
+{
+    "title": "El trabajo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Actualmente trabaja como contratista para una empresa. Una vez finalizado este trabajo, quedará sin empleo hasta que pueda encontrar su próximo trabajo. Piensas en no tener ingresos durante unas semanas y en tu futuro..."
+        },
+        {
+            "type": "WordPuzzle",
+            "right_feedback": "Correcto!",
+            "wrong_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "wrong_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "finanzas"
+            ],
+            "name": "IBM_job_puzzle"
+        }
+    ]
+}

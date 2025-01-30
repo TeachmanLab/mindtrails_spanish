@@ -1,0 +1,14 @@
+{
+    "name": "Deprimido180",
+    "title": "Deprimido",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Deprimido"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Deprimido.jpg"
+        }
+    ]
+}

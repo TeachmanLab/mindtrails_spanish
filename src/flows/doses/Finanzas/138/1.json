@@ -1,0 +1,14 @@
+{
+    "name": "Comprando productos de oficina148",
+    "title": "Comprando productos de oficina",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comprando productos de oficina"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Comprando_productos_de_oficina.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Aplicando a trabajos67",
+    "title": "Aplicando a trabajos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Aplicando a trabajos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Aplicando_a_trabajos.jpg"
+        }
+    ]
+}

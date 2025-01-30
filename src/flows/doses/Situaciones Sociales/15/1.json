@@ -1,0 +1,14 @@
+{
+    "name": "Trabajando en grupo12",
+    "title": "Trabajando en grupo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Trabajando en grupo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Trabajando_en_grupo.jpg"
+        }
+    ]
+}

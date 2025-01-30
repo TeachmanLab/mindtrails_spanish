@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Obteniendo ayuda",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estos últimos meses, te has sentido muy deprimido y no has estado disfrutando de tus actividades normales. Te preguntas si tratamiento funcionaría para ti, pero te sientes desanimado. A medida que piensas más en buscar ayuda, crees que te ayudaría a sentirte..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Obteniendo ayuda_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "mejor"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

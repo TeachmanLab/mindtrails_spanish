@@ -1,0 +1,14 @@
+{
+    "name": "Comentarios de redes sociales167",
+    "title": "Comentarios de redes sociales",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comentarios de redes sociales"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Comentarios_de_redes_sociales.jpg"
+        }
+    ]
+}

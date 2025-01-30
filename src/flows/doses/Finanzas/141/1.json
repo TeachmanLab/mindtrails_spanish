@@ -1,0 +1,14 @@
+{
+    "name": "Comparando situaciones financieras151",
+    "title": "Comparando situaciones financieras",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comparando situaciones financieras"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Comparando_situaciones_financieras.jpg"
+        }
+    ]
+}

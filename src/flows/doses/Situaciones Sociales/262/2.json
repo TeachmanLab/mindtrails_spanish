@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Un corte de pelo diferente",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mientras estás en la peluquería, decides en un corte de pelo completamente diferente. Cuando ves a tu amigo después, se sorprenden. Probablemente su sorpresa signifique que piensan que el nuevo estilo te queda..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Un corte de pelo diferente_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "genial"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "title": "Razones para terminar",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Qué tan útiles te parecieron las estrategias y consejos proporcionados por la aplicación?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "De nada",
+                "Levemente",
+                "Un poco",
+                "Principalmente",
+                "Muy",
+                "^Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "tips_use"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Cancelar con amigos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recientemente te has sentido agotado y cancelas los planes que hiciste con tus amigos. Tus amigos expresan frustración, diciendo que planearon esto hace mucho tiempo y quierian verte. Piensas que has tomado la mejor decisión de ti... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Cancelar con amigos_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "mismo"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Esperando grandes noticias",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Hoy recibirás un correo electrónico importante. Te dirá si recibiste un ascenso que realmente avanzaría tu carrera. Mientras piensas en esperar el correo electrónico, te sientes..."
+        },
+        {
+            "type": "Entry",
+            "name": "Esperando grandes noticias_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ]
+}

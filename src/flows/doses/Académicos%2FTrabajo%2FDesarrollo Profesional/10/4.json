@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Comentarios sobre tu trabajo",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Tu jefe probablemente piensa que ..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Comentarios sobre tu trabajo_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Tienes gran potencial.",
+                "Eres incapaz."
+            ],
+            "columnCount": 1,
+            "answer": "Tienes gran potencial."
+        }
+    ]
+}

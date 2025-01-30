@@ -1,0 +1,14 @@
+{
+    "name": "Tomando el mando72",
+    "title": "Tomando el mando",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tomando el mando"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Tomando_el_mando.jpg"
+        }
+    ]
+}

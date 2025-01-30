@@ -1,0 +1,14 @@
+{
+    "name": "Una noche libre268",
+    "title": "Una noche libre",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Una noche libre"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Una_noche_libre.jpg"
+        }
+    ]
+}

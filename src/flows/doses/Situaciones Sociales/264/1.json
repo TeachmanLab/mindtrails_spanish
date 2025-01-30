@@ -1,0 +1,14 @@
+{
+    "name": "Amigos del club de lectura284",
+    "title": "Amigos del club de lectura",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Amigos del club de lectura"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Amigos_del_club_de_lectura.jpg"
+        }
+    ]
+}

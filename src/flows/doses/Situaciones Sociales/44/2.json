@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Sintiéndote excluido por amigos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mientras te quedas después del trabajo, escuchas que algunos de tus compañeros de trabajo salieron a cenar anoche sin ti. No recibiste una invitación para salir con ellos. Te das cuenta de que a veces tus compañeros de trabajo salen sin ti y te sientes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Sintiéndote excluido por amigos_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "excluido"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

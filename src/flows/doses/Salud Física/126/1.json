@@ -1,0 +1,14 @@
+{
+    "name": "Tos después de salir137",
+    "title": "Tos después de salir",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tos después de salir"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Tos_después_de_salir.jpg"
+        }
+    ]
+}

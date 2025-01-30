@@ -1,0 +1,14 @@
+{
+    "name": "Tartamudeo en la oficina77",
+    "title": "Tartamudeo en la oficina",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tartamudeo en la oficina"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Tartamudeo_en_la_oficina.jpg"
+        }
+    ]
+}

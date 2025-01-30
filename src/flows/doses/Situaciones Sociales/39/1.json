@@ -1,0 +1,14 @@
+{
+    "name": "Confrontación de COVID34",
+    "title": "Confrontación de COVID",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Confrontación de COVID"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Confrontación_de_COVID.jpg"
+        }
+    ]
+}

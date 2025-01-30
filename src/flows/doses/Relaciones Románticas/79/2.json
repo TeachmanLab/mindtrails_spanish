@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Amigos en las relaciones",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Todos tus amigos están en relaciones. Actualmente no estás en una relación y te preguntas si hay algo malo en ti. Piensas que eres..."
+        },
+        {
+            "type": "Entry",
+            "name": "Amigos en las relaciones_Relaciones Románticas_entry1"
+        }
+    ]
+}

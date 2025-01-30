@@ -1,0 +1,14 @@
+{
+    "name": "Expresando tus ideas292",
+    "title": "Expresando tus ideas",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Expresando tus ideas"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Expresando_tus_ideas.jpg"
+        }
+    ]
+}

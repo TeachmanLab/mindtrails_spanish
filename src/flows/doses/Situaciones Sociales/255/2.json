@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Conociendo nuevos amigos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "En el trabajo, te asignan a un nuevo proyecto en el que no conoces a nadie más. El primer día de reunión, te esfuerzas por hacer nuevos amigos. Cuando piensas en preguntarle a algunos colegas si quieren tomar café después del trabajo, esperas que digan que..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Conociendo nuevos amigos_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "sí"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

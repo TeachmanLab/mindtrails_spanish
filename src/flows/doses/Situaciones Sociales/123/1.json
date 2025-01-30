@@ -1,0 +1,14 @@
+{
+    "name": "El partido de futból134",
+    "title": "El partido de futból",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "El partido de futból"
+        },
+        {
+            "type": "Media",
+            "file": "/images/El_partido_de_futból.jpg"
+        }
+    ]
+}

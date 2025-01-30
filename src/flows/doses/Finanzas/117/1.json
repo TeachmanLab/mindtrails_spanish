@@ -1,0 +1,14 @@
+{
+    "name": "Estabilidad laboral129",
+    "title": "Estabilidad laboral",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Estabilidad laboral"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Estabilidad_laboral.jpg"
+        }
+    ]
+}

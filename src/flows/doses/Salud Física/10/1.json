@@ -1,0 +1,14 @@
+{
+    "name": "Sintiéndote enfermo en un día caluroso8",
+    "title": "Sintiéndote enfermo en un día caluroso",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sintiéndote enfermo en un día caluroso"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Sintiéndote_enfermo_en_un_día_caluroso.jpg"
+        }
+    ]
+}

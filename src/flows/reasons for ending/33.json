@@ -1,0 +1,26 @@
+{
+    "title": "Razones para terminar",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Durante este programa, ¿cambió alguna dosis de medicamento, terapia u otra intervención para ayudar a su salud mental? Por favor marque todos los que apliquen."
+        },
+        {
+            "type": "buttons",
+            "buttons": [
+                "Busco más terapia presencial ahora",
+                "Ahora busco menos terapia en persona",
+                "Ahora uso más medicamentos recetados",
+                "Ahora uso menos medicamentos recetados",
+                "Ahora uso más programas informáticos en línea o aplicaciones móviles (aparte de Hoos Think Calmly)",
+                "Ahora uso menos programas informáticos en línea o aplicaciones móviles (aparte de Hoos Think Calmly)",
+                "Otro",
+                "^No cambié mis hábitos de intervención",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "multi_select": true,
+            "name": "change_mental_health"
+        }
+    ]
+}

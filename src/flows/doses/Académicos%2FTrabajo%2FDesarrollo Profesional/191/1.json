@@ -1,0 +1,14 @@
+{
+    "name": "Presentación de recaudación de fondos195",
+    "title": "Presentación de recaudación de fondos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Presentación de recaudación de fondos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Presentación_de_recaudación_de_fondos.jpg"
+        }
+    ]
+}

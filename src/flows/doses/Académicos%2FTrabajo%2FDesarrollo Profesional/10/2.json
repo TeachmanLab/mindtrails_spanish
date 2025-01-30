@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Comentarios sobre tu trabajo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recientemente entregaste un informe y tu jefe pide verte sobre tu trabajo. Cuando entras a tu oficina, te dicen que te sientes porque hay muchos comentarios que analizar y te miran con el ceño..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Comentarios sobre tu trabajo_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "fruncido"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

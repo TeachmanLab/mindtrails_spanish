@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Sintiéndote preocupado por las noticias",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Esta mañana, tu pareja está viendo las noticias y escuchas que muchas empresas están reduciendo personal. Piensas en qué sucederá si tu pareja pierde su trabajo. Te sientes..."
+        },
+        {
+            "type": "Entry",
+            "name": "Sintiéndote preocupado por las noticias_Finanzas_entry1"
+        }
+    ]
+}

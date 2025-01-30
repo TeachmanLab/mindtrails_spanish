@@ -1,0 +1,14 @@
+{
+    "name": "Traje de fiesta160",
+    "title": "Traje de fiesta",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Traje de fiesta"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Traje_de_fiesta.jpg"
+        }
+    ]
+}

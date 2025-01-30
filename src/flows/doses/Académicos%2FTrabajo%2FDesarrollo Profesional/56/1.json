@@ -1,0 +1,14 @@
+{
+    "name": "Evaluaciones entre compañeros50",
+    "title": "Evaluaciones entre compañeros",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Evaluaciones entre compañeros"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Evaluaciones_entre_compañeros.jpg"
+        }
+    ]
+}

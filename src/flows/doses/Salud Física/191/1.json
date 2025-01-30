@@ -1,0 +1,14 @@
+{
+    "name": "Un golpe accidental195",
+    "title": "Un golpe accidental",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Un golpe accidental"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Un_golpe_accidental.jpg"
+        }
+    ]
+}

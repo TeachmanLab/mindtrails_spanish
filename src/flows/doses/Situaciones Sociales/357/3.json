@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Plato típico",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Cuando piensas en las reacciones a tu comida, te imaginas a los otros invitados..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Plato típico_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Dejando sus porciones en sus platos.",
+                "Sirviéndose una segunda vez."
+            ],
+            "columnCount": 1,
+            "answer": "Dejando sus porciones en sus platos."
+        }
+    ]
+}

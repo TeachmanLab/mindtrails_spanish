@@ -1,0 +1,14 @@
+{
+    "name": "Llamada breve143",
+    "title": "Llamada breve",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Llamada breve"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Llamada_breve.jpg"
+        }
+    ]
+}

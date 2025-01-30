@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Viejo amigo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mientras estás en un festival, ves a un amigo no muy lejos y le llamas el nombre. No te responden. Decides que es porque están..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Viejo amigo_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "distraídos"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

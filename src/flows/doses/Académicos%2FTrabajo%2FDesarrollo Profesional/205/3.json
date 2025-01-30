@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Tu Currículum",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mientras revisas tu currículum, no anticipas que tu futuro empleador te descarte, y piensas que el entrevistador quedará..."
+        },
+        {
+            "type": "Entry",
+            "name": "Tu Currículum_Académicos/Trabajo/Desarrollo Profesional_entry2"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Proyecto eliminado137",
+    "title": "Proyecto eliminado",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Proyecto eliminado"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Proyecto_eliminado.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Atascado en el medio394",
+    "title": "Atascado en el medio",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Atascado en el medio"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Atascado_en_el_medio.jpg"
+        }
+    ]
+}

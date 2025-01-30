@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Nuevo estilo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Vas de compras a tu tienda de ropa favorita. Ves un conjunto que te encanta pero no crees que sea adecuado para tu tipo de cuerpo. Después de conseguirlo y probártelo, quieres comprarlo a pesar de que no es algo que usas..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Nuevo estilo_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "normalmente"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Carrera matutina del domingo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Es domingo por la mañana y acabas de correr una milla afuera. Al quitarse los zapatos  en el pasillo, estás sin aliento. Te sientes.."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Carrera matutina del domingo_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "orgulloso"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

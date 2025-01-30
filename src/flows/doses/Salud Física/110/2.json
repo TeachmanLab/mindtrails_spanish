@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Terminando una carrera larga",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Terminas de correr una larga distancia. Te das cuenta de que tu corazón late muy rápido y sientes presión en el pecho. Piensas que estás a punto de entrar en..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Terminando una carrera larga_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "pánico"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

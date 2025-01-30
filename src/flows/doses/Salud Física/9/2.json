@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Cita con el doctor",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Últimamente te has sentido un poco enfermo, por lo que haces una cita con el médico. Faltan unos días para la cita más próxima que puedes conseguir. Mientras esperas la cita con tu médico, crees que tu enfermedad probablemente sea..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Cita con el doctor_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "grave"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Presentando a tus amigos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Invitaste a tu cónyuge a encontrarse con tus amigos del trabajo esta noche. Sabes que a menudo pueden contar historias vergonzosas sobre ti a otras personas. Piensas en lo que van a hacer esta noche y te sientes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Presentando a tus amigos_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "tranquilo"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

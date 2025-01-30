@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Foto con amigos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tú y tu amigo tomaron algunas fotos juntos. Ves que te etiquetaron en una publicación y realmente no te gusta cómo te ves, pero sabes que a largo plazo no..."
+        },
+        {
+            "type": "Entry",
+            "name": "Foto con amigos_Salud Mental_entry1"
+        }
+    ]
+}

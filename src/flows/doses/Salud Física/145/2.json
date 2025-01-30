@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Suministros para la cena",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás co-organizando una cena en el apartamento de tu amigo, y acabas de terminar todas las compras. Comienzas a sudar y sientes que tu corazón late con fuerza después de un par de viajes llevando las compras hasta el tercer piso. Te sientes un poco asustado por estas sensaciones. Incierto de si son buenas o malas, decides simplemente..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Suministros para la cena_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "aceptarlas"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

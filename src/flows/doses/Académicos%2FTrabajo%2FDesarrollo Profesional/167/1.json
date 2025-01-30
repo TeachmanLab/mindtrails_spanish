@@ -1,0 +1,14 @@
+{
+    "name": "Cambiando tu trayectoria173",
+    "title": "Cambiando tu trayectoria",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cambiando tu trayectoria"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Cambiando_tu_trayectoria.jpg"
+        }
+    ]
+}

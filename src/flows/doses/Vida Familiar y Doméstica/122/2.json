@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Sonidos por la noche",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás solo en casa y es de noche. Escuchas un ruido fuerte afuera. Piensas en qué podría ser, y crees que son tus..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Sonidos por la noche_Vida Familiar y Doméstica_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "vecinos"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

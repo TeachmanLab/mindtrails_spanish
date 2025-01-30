@@ -1,0 +1,14 @@
+{
+    "name": "Cafetería183",
+    "title": "Cafetería",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cafetería"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Cafetería.jpg"
+        }
+    ]
+}

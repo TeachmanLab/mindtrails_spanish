@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Sonidos por la noche",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás solo en casa y es de noche. Escuchas un ruido fuerte afuera. Piensas en qué podría ser, y crees que son tus..."
+        },
+        {
+            "type": "Entry",
+            "name": "Sonidos por la noche_Vida Familiar y Doméstica_entry1"
+        }
+    ]
+}

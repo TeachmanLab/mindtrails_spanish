@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Comparando situaciones financieras",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás hablando con tus amigos sobre viajar juntos. Escuchas que sus parejas les están ayudando a pagar, y empiezas a preocuparte por mantener el ritmo ya que estás pagando por ti mismo. Piensas que tendrás lo suficiente para ir en el..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Comparando situaciones financieras_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "viaje"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

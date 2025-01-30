@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Siendo padre",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Cuando piensas en tu hija creciendo, piensas que..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Siendo padre_Salud Mental_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "La apoyarás.",
+                "Perderás tu paciencia con ella frequentamente."
+            ],
+            "columnCount": 1,
+            "answer": "La apoyarás."
+        }
+    ]
+}

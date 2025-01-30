@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Una cámara nueva",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Compraste una cámara nueva, pero cuando llegas a casa, descubres que no te gusta. La devuelves a la tienda y recibes un reembolso. En el mostrador, el empleado no habla mucho mientras te ayuda, y piensas que te ven como alguien..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Una cámara nueva_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "extraño"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Ir a la quiebra",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Has decidido volver a estudiar para obtener otra carrera. Aunque has estado ahorrando para esto durante los últimos años, te preocupa no tener ingresos mientras regresas a la escuela. La probabilidad de que te arruines mientras estás en la escuela es..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Ir a la quiebra_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "mínima"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

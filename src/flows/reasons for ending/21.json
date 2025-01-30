@@ -1,0 +1,22 @@
+{
+    "title": "Razones para terminar",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Qué tan útiles le parecieron los recursos y referencias proporcionados en la aplicación?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "De nada",
+                "Levemente",
+                "Un poco",
+                "Principalmente",
+                "Muy",
+                "^Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "resources_use"
+        }
+    ]
+}

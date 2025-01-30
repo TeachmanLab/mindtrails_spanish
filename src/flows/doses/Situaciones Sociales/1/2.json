@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Gente fiestera",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Llegas a una fiesta grande y te das cuenta rápidamente de que hay muchas personas que no conoces allí. Te sientes ansioso y consideras irte a casa. Mirando a tu alrededor, decides..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Gente fiestera_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "quedarte"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

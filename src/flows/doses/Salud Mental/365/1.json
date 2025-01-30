@@ -1,0 +1,14 @@
+{
+    "name": "Siendo padre399",
+    "title": "Siendo padre",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Siendo padre"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Siendo_padre.jpg"
+        }
+    ]
+}

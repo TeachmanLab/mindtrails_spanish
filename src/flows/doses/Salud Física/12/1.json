@@ -1,0 +1,14 @@
+{
+    "name": "Un dolor de garganta10",
+    "title": "Un dolor de garganta",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Un dolor de garganta"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Un_dolor_de_garganta.jpg"
+        }
+    ]
+}

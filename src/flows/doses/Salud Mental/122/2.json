@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Sentirse entumecido",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Has estado lidiando con algunas situaciones estresantes recientemente. Estás reflexionando sobre las últimas semanas y te das cuenta de que no has estado muy emocional, lo que te hace pensar que te has vuelto insensible. Recuerdas que lo has sobrellevado bien y probablemente simplemente has mantenido sus emociones..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Sentirse entumecido_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "estables"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

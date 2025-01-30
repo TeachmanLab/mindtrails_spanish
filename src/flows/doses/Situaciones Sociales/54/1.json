@@ -1,0 +1,14 @@
+{
+    "name": "Sin planes para el fin de semana48",
+    "title": "Sin planes para el fin de semana",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sin planes para el fin de semana"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Sin_planes_para_el_fin_de_semana.jpg"
+        }
+    ]
+}

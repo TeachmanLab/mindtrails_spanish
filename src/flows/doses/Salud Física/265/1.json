@@ -1,0 +1,14 @@
+{
+    "name": "Dedos hormigueando285",
+    "title": "Dedos hormigueando",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dedos hormigueando"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Dedos_hormigueando.jpg"
+        }
+    ]
+}

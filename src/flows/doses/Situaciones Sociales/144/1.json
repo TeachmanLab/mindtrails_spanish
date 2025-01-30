@@ -1,0 +1,14 @@
+{
+    "name": "Planes de cena152",
+    "title": "Planes de cena",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Planes de cena"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Planes_de_cena.jpg"
+        }
+    ]
+}

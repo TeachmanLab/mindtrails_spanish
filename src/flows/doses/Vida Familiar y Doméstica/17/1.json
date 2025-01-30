@@ -1,0 +1,14 @@
+{
+    "name": "Un hallazgo afortunado14",
+    "title": "Un hallazgo afortunado",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Un hallazgo afortunado"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Un_hallazgo_afortunado.jpg"
+        }
+    ]
+}

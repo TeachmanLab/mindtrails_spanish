@@ -1,0 +1,14 @@
+{
+    "name": "Elegir entre oportunidades162",
+    "title": "Elegir entre oportunidades",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Elegir entre oportunidades"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Elegir_entre_oportunidades.jpg"
+        }
+    ]
+}

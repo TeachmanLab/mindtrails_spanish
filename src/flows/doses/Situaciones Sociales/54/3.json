@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Sin planes para el fin de semana",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Entiendes que todos tienen vidas ocupadas y que es más difícil pasar tiempo juntos. Han sido buenos amigos por mucho tiempo y solamente un tiempo de separación no es suficiente para dañar estas amistades. Decides..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Sin planes para el fin de semana_Situaciones Sociales_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "contactarlos"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

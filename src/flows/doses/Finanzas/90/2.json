@@ -1,0 +1,14 @@
+{
+    "name": "Visitar a un nuevo amigo80",
+    "title": "Visitar a un nuevo amigo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Visitar a un nuevo amigo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Visitar_a_un_nuevo_amigo.jpg"
+        }
+    ]
+}

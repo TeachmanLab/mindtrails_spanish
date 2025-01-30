@@ -1,0 +1,14 @@
+{
+    "name": "Saludable pero caro181",
+    "title": "Saludable pero caro",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Saludable pero caro"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Saludable_pero_caro.jpg"
+        }
+    ]
+}

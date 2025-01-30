@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Cena cara",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tus amigos quieren salir a celebrar uno de sus cumpleaños. Eligen comer en un restaurante caro que está fuera de su rango de precios. Te sientes como un mal amigo porque no puedes permitirte..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Cena cara_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "ir"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

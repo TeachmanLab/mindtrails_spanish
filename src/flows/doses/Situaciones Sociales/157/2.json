@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Tomando una llamada",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Trabajas en una oficina grande con tus supervisores. Una mañana tienes que llamar a tu padre y discutir un asunto importante. Todos los demás trabajan en silencio y varios compañeros levantan la vista y parecen..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Tomando una llamada_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "molestos"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

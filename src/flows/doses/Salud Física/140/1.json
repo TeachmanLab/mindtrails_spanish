@@ -1,0 +1,14 @@
+{
+    "name": "Manchas de sudor150",
+    "title": "Manchas de sudor",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Manchas de sudor"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Manchas_de_sudor.jpg"
+        }
+    ]
+}

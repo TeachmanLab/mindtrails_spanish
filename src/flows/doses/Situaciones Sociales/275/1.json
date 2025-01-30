@@ -1,0 +1,14 @@
+{
+    "name": "Usando lo que tienes294",
+    "title": "Usando lo que tienes",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Usando lo que tienes"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Usando_lo_que_tienes.jpg"
+        }
+    ]
+}

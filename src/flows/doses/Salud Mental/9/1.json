@@ -1,0 +1,14 @@
+{
+    "name": "Charla de oficina7",
+    "title": "Charla de oficina",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Charla de oficina"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Charla_de_oficina.jpg"
+        }
+    ]
+}

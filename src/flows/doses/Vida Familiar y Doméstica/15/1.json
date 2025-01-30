@@ -1,0 +1,14 @@
+{
+    "name": "Creencias diferentes12",
+    "title": "Creencias diferentes",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Creencias diferentes"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Creencias_diferentes.jpg"
+        }
+    ]
+}

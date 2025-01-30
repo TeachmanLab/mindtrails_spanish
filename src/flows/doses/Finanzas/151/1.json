@@ -1,0 +1,14 @@
+{
+    "name": "Iniciando un negocio pequeño159",
+    "title": "Iniciando un negocio pequeño",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Iniciando un negocio pequeño"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Iniciando_un_negocio_pequeño.jpg"
+        }
+    ]
+}

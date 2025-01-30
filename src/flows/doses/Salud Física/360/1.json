@@ -1,0 +1,14 @@
+{
+    "name": "Corriendo en el frío395",
+    "title": "Corriendo en el frío",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Corriendo en el frío"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Corriendo_en_el_frío.jpg"
+        }
+    ]
+}

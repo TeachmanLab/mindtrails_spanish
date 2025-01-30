@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Sala de espera del hospital",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Si te lavas las manos, lo más probable es que..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Sala de espera del hospital_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Te mantienes sano.",
+                "Te enfermas de todos modos."
+            ],
+            "columnCount": 1,
+            "answer": "Te mantienes sano."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Primeras impresiones168",
+    "title": "Primeras impresiones",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Primeras impresiones"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Primeras_impresiones.jpg"
+        }
+    ]
+}

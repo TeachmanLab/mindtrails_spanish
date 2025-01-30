@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "La familia no aprueba a su pareja",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recientemente empezaste a salir con alguien que realmente te gusta mucho. Se los presentas a tu familia y ellos no parecen aprobarlos. Te recuerdas a ti mismo que esta fue solo la primera reunión y que tu familia llegará a conocer mejor a tu pareja con el..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "La familia no aprueba a su pareja_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "tiempo"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

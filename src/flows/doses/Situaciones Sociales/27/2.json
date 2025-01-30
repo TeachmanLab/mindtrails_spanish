@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Amigo en el hospital",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recibes un mensaje de texto de un amigo diciendo que está en el hospital, pero no te dicen por qué. Comienzas a preocuparte por si van a estar bien. Mientras piensas en tu amigo, te sientes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Amigo en el hospital_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "tranquilo"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Citas en línea31",
+    "title": "Citas en línea",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Citas en línea"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Citas_en_línea.jpg"
+        }
+    ]
+}

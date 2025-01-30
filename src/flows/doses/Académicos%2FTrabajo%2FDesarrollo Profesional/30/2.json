@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Apoyándose en sus compañeros",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recibes tu evaluación hoy y tus resultados son más bajos de lo que esperabas. Tus compañeros hablan de sus resultados y son más positivos que los tuyos. Si les cuentas a tus compañeros sobre los resultados de tu evaluación, serán..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Apoyándose en sus compañeros_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "comprensivos"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

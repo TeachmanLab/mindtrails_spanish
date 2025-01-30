@@ -1,0 +1,14 @@
+{
+    "name": "Expectativas206",
+    "title": "Expectativas",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Expectativas"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Expectativas.jpg"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Lograr tus objetivos",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "¿Crees que tu solicitud?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Lograr tus objetivos_Salud Mental_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Lo coloca en una buena posición para conseguir este nuevo trabajo.",
+                "No será lo suficientemente bueno para conseguirte el trabajo."
+            ],
+            "columnCount": 1,
+            "answer": "Lo coloca en una buena posición para conseguir este nuevo trabajo."
+        }
+    ]
+}

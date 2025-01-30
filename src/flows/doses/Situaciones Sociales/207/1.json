@@ -1,0 +1,14 @@
+{
+    "name": "Conflictos de convivencia209",
+    "title": "Conflictos de convivencia",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Conflictos de convivencia"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Conflictos_de_convivencia.jpg"
+        }
+    ]
+}

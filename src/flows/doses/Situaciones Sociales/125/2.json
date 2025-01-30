@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Reconforto sobre la vacunación",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás en un festival al aire libre. Hay mucha gente y no estás seguro si todos están vacunados. Piensas en que estás protegido contra el COVID-19 porque te..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Reconforto sobre la vacunación_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "vacunaste"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

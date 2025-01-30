@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "en un barco",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Pasas el día en un barco con tus amigos. Cuando bajas del barco, sientes las piernas raras y tienes problemas para caminar. Esta sensación es..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "en un barco_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "divertida"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

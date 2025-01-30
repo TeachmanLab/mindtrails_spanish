@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Pasando tiempo con familia",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cuando imaginas la cantidad de tiempo que pasarás con tus familiares en los próximos años, no estás preocupado de que tu relación se deteriore, y crees que tu familia se mantendrá..."
+        },
+        {
+            "type": "Entry",
+            "name": "Pasando tiempo con familia_Vida Familiar y Doméstica_entry2"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Caminando para despejar la mente323",
+    "title": "Caminando para despejar la mente",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Caminando para despejar la mente"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Caminando_para_despejar_la_mente.jpg"
+        }
+    ]
+}

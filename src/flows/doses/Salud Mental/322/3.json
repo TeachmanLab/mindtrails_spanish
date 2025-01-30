@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Pensando en preguntas",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás en una charla sobre un tema complicado que te emociona mucho. Tienes muchas ideas sobre el tema, pero sientes que las preguntas que hacen los demás son más inteligentes que las tuyas. Piensas en cómo todos probablemente se ponen nerviosos al hablar también, y sabes que no están allí para..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Pensando en preguntas_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "juzgar"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

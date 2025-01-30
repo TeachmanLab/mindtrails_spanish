@@ -1,0 +1,14 @@
+{
+    "name": "Serpientes venenosas316",
+    "title": "Serpientes venenosas",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Serpientes venenosas"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Serpientes_venenosas.jpg"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Larga caminata afuera",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recuerdas que es la primera vez en unas semanas que caminas una distancia larga. Probablemente sientes que el latido de tu corazón se acelera debido a la..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Larga caminata afuera_Salud Mental_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "cuesta"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

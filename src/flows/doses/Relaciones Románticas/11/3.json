@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Casarse con tu pareja",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Cuando te imaginas un matrimonio con tu pareja ..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Casarse con tu pareja_Relaciones Románticas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Ves que la relación finalmente se rompe.",
+                "Ves a los dos creciendo juntos por el resto de sus vidas."
+            ],
+            "columnCount": 1,
+            "answer": "Ves que la relación finalmente se rompe."
+        }
+    ]
+}

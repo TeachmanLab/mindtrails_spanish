@@ -1,0 +1,14 @@
+{
+    "name": "Sin aliento18",
+    "title": "Sin aliento",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sin aliento"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Sin_aliento.jpg"
+        }
+    ]
+}

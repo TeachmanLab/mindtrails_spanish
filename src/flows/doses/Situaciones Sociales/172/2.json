@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Rechazar una bebida",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sales con unos amigos y están hablando de pedir bebidas en el bar. Te preguntan si quieres tomar una copa, pero no tienes ganas de beber esta noche. Si les dices la verdad pensarán que eres..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Rechazar una bebida_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "honesto"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Agarrando el ritmo209",
+    "title": "Agarrando el ritmo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Agarrando el ritmo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Agarrando_el_ritmo.jpg"
+        }
+    ]
+}

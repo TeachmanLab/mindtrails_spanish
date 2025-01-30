@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Ruido repentino",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Al notar estos pensamientos, decides que podrás afrontar la situación, así que sigues..."
+        },
+        {
+            "type": "Entry",
+            "name": "Ruido repentino_Salud Física_entry2"
+        }
+    ]
+}

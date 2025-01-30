@@ -1,0 +1,14 @@
+{
+    "name": "Equilibrio entre trabajo y estudios122",
+    "title": "Equilibrio entre trabajo y estudios",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Equilibrio entre trabajo y estudios"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Equilibrio_entre_trabajo_y_estudios.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Costear los gastos86",
+    "title": "Costear los gastos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Costear los gastos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Costear_los_gastos.jpg"
+        }
+    ]
+}

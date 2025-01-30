@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Un pastel de cumpleaños",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Si te comes el pastel, probablemente..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Un pastel de cumpleaños_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Te enfermarás.",
+                "No te enfermarás."
+            ],
+            "columnCount": 1,
+            "answer": "Te enfermarás."
+        }
+    ]
+}

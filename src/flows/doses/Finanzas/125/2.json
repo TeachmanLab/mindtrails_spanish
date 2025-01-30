@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Camiseta nueva",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mientras haces mandados, ves una nueva camiseta que te gusta. Tienes un presupuesto ajustado y no crees que te quede suficiente dinero para comprar la camiseta. No la compras y esa decisión te hace sentir..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Camiseta nueva_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "bien"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

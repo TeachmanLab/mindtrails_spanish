@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Citas en línea",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Crees que las personas en el sitio probablemente .."
+        },
+        {
+            "type": "Buttons",
+            "name": "Citas en línea_Relaciones Románticas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Responderán bien a tu perfil",
+                "Te ignorarán por completo."
+            ],
+            "columnCount": 1,
+            "answer": "Responderán bien a tu perfil"
+        }
+    ]
+}

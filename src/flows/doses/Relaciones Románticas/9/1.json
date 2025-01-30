@@ -1,0 +1,14 @@
+{
+    "name": "Cita con alguien nuevo7",
+    "title": "Cita con alguien nuevo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cita con alguien nuevo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Cita_con_alguien_nuevo.jpg"
+        }
+    ]
+}

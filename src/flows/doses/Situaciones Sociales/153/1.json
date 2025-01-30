@@ -1,0 +1,14 @@
+{
+    "name": "Noticias controvertidas161",
+    "title": "Noticias controvertidas",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Noticias controvertidas"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Noticias_controvertidas.jpg"
+        }
+    ]
+}

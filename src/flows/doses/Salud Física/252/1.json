@@ -1,0 +1,14 @@
+{
+    "name": "Tomando transporte273",
+    "title": "Tomando transporte",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tomando transporte"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Tomando_transporte.jpg"
+        }
+    ]
+}

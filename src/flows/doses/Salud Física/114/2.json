@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Sin aliento",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Durante una caminata este el fin de semana, notaste que te quedabas sin aliento más rápido de lo normal. Recuerdas que el COVID afecta a los pulmones y comienzas sentir pánico. Afortunadamente, sabes que has estado usando tu mascarilla y has hecho todo lo posible para prevenir el..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Sin aliento_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "COVID"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

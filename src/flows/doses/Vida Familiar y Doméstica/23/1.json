@@ -1,0 +1,14 @@
+{
+    "name": "Padres divorciados20",
+    "title": "Padres divorciados",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Padres divorciados"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Padres_divorciados.jpg"
+        }
+    ]
+}

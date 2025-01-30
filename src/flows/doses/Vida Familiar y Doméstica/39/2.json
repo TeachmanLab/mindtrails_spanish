@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Visitar a una familia anciana",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Vuelves a casa de tus padres durante las vacaciones y notas que tu madre parece frágil. Te preguntas sobre su salud y si está enferma. Cree que su salud probablemente será..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Visitar a una familia anciana_Vida Familiar y Doméstica_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "buena"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

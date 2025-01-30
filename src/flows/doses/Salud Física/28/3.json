@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Asustado en tu caminata",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Al notar estos pensamientos, decides que podrás afrontar la situación, así que sigues..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Asustado en tu caminata_Salud Física_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "caminando"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

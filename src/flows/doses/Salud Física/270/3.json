@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Boca seca",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Tu boca seca probablemente se deba a..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Boca seca_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Una medicacion nueva.",
+                "Una enfermedad seria."
+            ],
+            "columnCount": 1,
+            "answer": "Una medicacion nueva."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Serpientes venenosas",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu amigo te convence a dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque y comienzas a sentirte preocupados. Piensas que las posibilidades de que veas ese tipo de serpiente son..."
+        },
+        {
+            "type": "Entry",
+            "name": "Serpientes venenosas_Salud Física_entry1"
+        }
+    ]
+}

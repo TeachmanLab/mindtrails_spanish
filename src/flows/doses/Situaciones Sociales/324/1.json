@@ -1,0 +1,14 @@
+{
+    "name": "El escaparate de danza362",
+    "title": "El escaparate de danza",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "El escaparate de danza"
+        },
+        {
+            "type": "Media",
+            "file": "/images/El_escaparate_de_danza.jpg"
+        }
+    ]
+}

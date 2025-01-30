@@ -1,0 +1,14 @@
+{
+    "name": "Día caluroso203",
+    "title": "Día caluroso",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Día caluroso"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Día_caluroso.jpg"
+        }
+    ]
+}

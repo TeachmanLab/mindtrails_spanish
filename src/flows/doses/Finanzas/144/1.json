@@ -1,0 +1,14 @@
+{
+    "name": "Comparando salarios152",
+    "title": "Comparando salarios",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comparando salarios"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Comparando_salarios.jpg"
+        }
+    ]
+}

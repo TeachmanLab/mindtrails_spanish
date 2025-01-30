@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Exposición reciente",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estuviste expuesto recientemente a alguien que dio positivo, pero hiciste la prueba y no has experimentado ningún síntoma. Tus amigos te invitan a cenar con ellos y te preguntas si deberías ir. Das negativo y sales con tus..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Exposición reciente_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "amigos"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

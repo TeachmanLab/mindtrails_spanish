@@ -1,0 +1,14 @@
+{
+    "name": "Prueba de enfermedad20",
+    "title": "Prueba de enfermedad",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Prueba de enfermedad"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Prueba_de_enfermedad.jpg"
+        }
+    ]
+}

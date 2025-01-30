@@ -1,0 +1,14 @@
+{
+    "name": "Preparándote para la evaluación128",
+    "title": "Preparándote para la evaluación",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Preparándote para la evaluación"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Preparándote_para_la_evaluación.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Nadando en la playa254",
+    "title": "Nadando en la playa",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Nadando en la playa"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Nadando_en_la_playa.jpg"
+        }
+    ]
+}

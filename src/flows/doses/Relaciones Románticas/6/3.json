@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Relaciones futuras",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Después de tu separación, piensas que..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Relaciones futuras_Relaciones Románticas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Eventualmente conocerás a la persona adecuada para ti.",
+                "Probablemente nunca encuentres a alguien bueno para ti."
+            ],
+            "columnCount": 1,
+            "answer": "Eventualmente conocerás a la persona adecuada para ti."
+        }
+    ]
+}

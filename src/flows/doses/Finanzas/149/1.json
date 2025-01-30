@@ -1,0 +1,14 @@
+{
+    "name": "Recuperarse de COVID157",
+    "title": "Recuperarse de COVID",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Recuperarse de COVID"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Recuperarse_de_COVID.jpg"
+        }
+    ]
+}

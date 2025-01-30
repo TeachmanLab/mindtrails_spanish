@@ -1,0 +1,14 @@
+{
+    "name": "Dejado sin respuesta285",
+    "title": "Dejado sin respuesta",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dejado sin respuesta"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Dejado_sin_respuesta.jpg"
+        }
+    ]
+}

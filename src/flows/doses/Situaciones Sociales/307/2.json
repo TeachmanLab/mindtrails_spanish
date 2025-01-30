@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Hablando de ti",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Durante el fin de semana, decides publicar un video y algunas fotos en tus redes sociales. Cuando llegas al trabajo el lunes, escuchas a tus compañeros de trabajo chismeando sobre tus imágenes y videos. Probablemente piensan que eres..."
+        },
+        {
+            "type": "Entry",
+            "name": "Hablando de ti_Situaciones Sociales_entry1"
+        }
+    ]
+}

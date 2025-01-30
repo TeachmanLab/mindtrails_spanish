@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Mantener a la familia",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "¿Crees que enviar a tus hijos a una buena universidad"
+        },
+        {
+            "type": "Buttons",
+            "name": "Mantener a la familia_Vida Familiar y Doméstica_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Será alcanzable.",
+                "Estará más allá de tus posibilidades."
+            ],
+            "columnCount": 1,
+            "answer": "Será alcanzable."
+        }
+    ]
+}

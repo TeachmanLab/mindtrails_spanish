@@ -1,0 +1,14 @@
+{
+    "name": "Estando soltero126",
+    "title": "Estando soltero",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Estando soltero"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Estando_soltero.jpg"
+        }
+    ]
+}

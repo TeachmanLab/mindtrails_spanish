@@ -1,0 +1,14 @@
+{
+    "name": "Mantenerse al día con los amigos4",
+    "title": "Mantenerse al día con los amigos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Mantenerse al día con los amigos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Mantenerse_al_día_con_los_amigos.jpg"
+        }
+    ]
+}

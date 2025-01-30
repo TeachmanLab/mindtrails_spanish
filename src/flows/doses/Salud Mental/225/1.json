@@ -1,0 +1,14 @@
+{
+    "name": "Probando un dicho divertido250",
+    "title": "Probando un dicho divertido",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Probando un dicho divertido"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Probando_un_dicho_divertido.jpg"
+        }
+    ]
+}

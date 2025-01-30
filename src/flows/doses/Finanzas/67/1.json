@@ -1,0 +1,14 @@
+{
+    "name": "Pago de reparaciones59",
+    "title": "Pago de reparaciones",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Pago de reparaciones"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Pago_de_reparaciones.jpg"
+        }
+    ]
+}

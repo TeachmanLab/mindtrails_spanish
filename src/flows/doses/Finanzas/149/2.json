@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Recuperarse de COVID",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tuviste que tomar tiempo afuera del trabajo porque contrajiste COVID. Aunque la pausa fue importante para su salud, también puso a prueba tus finanzas. Cuando piensas en tu situación financiera, sabes que podrás recuperar el tiempo..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Recuperarse de COVID_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "perdido"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

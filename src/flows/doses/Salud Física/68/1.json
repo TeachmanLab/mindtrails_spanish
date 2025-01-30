@@ -1,0 +1,14 @@
+{
+    "name": "El dolor de muelas60",
+    "title": "El dolor de muelas",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "El dolor de muelas"
+        },
+        {
+            "type": "Media",
+            "file": "/images/El_dolor_de_muelas.jpg"
+        }
+    ]
+}

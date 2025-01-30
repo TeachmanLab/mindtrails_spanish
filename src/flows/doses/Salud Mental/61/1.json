@@ -1,0 +1,14 @@
+{
+    "name": "Usando tecnología diferente53",
+    "title": "Usando tecnología diferente",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Usando tecnología diferente"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Usando_tecnología_diferente.jpg"
+        }
+    ]
+}

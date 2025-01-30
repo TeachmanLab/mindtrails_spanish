@@ -1,0 +1,14 @@
+{
+    "name": "Un trago de agua172",
+    "title": "Un trago de agua",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Un trago de agua"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Un_trago_de_agua.jpg"
+        }
+    ]
+}

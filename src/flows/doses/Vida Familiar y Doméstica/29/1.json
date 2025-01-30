@@ -1,0 +1,14 @@
+{
+    "name": "Pasando tiempo con familia25",
+    "title": "Pasando tiempo con familia",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Pasando tiempo con familia"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Pasando_tiempo_con_familia.jpg"
+        }
+    ]
+}

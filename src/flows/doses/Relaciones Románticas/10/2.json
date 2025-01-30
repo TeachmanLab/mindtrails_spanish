@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Priorización de responsabilidades",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tus amigos te invitan a cenar y tienes muchas ganas de ir con ellos. Te das cuenta de que no puedes ir porque tienes que trabajar. Cuando se lo digas a tus amigos, se... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Priorización de responsabilidades_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "molestarán"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

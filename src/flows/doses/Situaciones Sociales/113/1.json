@@ -1,0 +1,14 @@
+{
+    "name": "Gustos musicales diferentes125",
+    "title": "Gustos musicales diferentes",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Gustos musicales diferentes"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Gustos_musicales_diferentes.jpg"
+        }
+    ]
+}

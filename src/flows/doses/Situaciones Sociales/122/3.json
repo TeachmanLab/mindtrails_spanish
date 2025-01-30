@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Presentación importante",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "En la conferencia, la gente probablemente pensará que..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Presentación importante_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Haces un buen trabajo explicando tu trabajo reciente.",
+                "Te ves incómodo dando tu presentación."
+            ],
+            "columnCount": 1,
+            "answer": "Haces un buen trabajo explicando tu trabajo reciente."
+        }
+    ]
+}

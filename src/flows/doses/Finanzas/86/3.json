@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Mantener a la familia",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cuando piensas en tus hijos, no crees que perderán oportunidades educativas por falta de dinero y crees que apoyar su educación universitaria será..."
+        },
+        {
+            "type": "Entry",
+            "name": "Mantener a la familia_Finanzas_entry2"
+        }
+    ]
+}

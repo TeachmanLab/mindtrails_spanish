@@ -1,0 +1,14 @@
+{
+    "name": "Encontrarte con un viejo conocido404",
+    "title": "Encontrarte con un viejo conocido",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Encontrarte con un viejo conocido"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Encontrarte_con_un_viejo_conocido.jpg"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Corriendo una maratón",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Piensas que si te apuntas a una maratón, el día de la carrera es probable que..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Corriendo una maratón_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Colapsaras antes de cruzar la línea de meta.",
+                "Te sentirás orgulloso de haber logrado para lo que entrenaste."
+            ],
+            "columnCount": 1,
+            "answer": "Colapsaras antes de cruzar la línea de meta."
+        }
+    ]
+}

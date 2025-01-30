@@ -1,0 +1,14 @@
+{
+    "name": "Confiar en los padres176",
+    "title": "Confiar en los padres",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Confiar en los padres"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Confiar_en_los_padres.jpg"
+        }
+    ]
+}

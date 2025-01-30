@@ -1,0 +1,14 @@
+{
+    "name": "Decidir compartir una imagen210",
+    "title": "Decidir compartir una imagen",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Decidir compartir una imagen"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Decidir_compartir_una_imagen.jpg"
+        }
+    ]
+}

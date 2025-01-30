@@ -1,0 +1,14 @@
+{
+    "name": "Trabajando duro149",
+    "title": "Trabajando duro",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Trabajando duro"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Trabajando_duro.jpg"
+        }
+    ]
+}

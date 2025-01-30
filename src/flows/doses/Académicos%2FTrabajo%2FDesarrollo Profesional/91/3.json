@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Resultados de la evaluación",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "El tiempo para las evaluaciones del trabajo acaba de cerrar y no estás seguro de si saliste bien o no. Te sientes nervioso al pensar en cómo te calificaron otras personas. Piensas que estar nervioso es..."
+        },
+        {
+            "type": "Entry",
+            "name": "Resultados de la evaluación_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ]
+}

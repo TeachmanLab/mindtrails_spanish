@@ -1,0 +1,14 @@
+{
+    "name": "Ir a terapia65",
+    "title": "Ir a terapia",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ir a terapia"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Ir_a_terapia.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Ir al dentista156",
+    "title": "Ir al dentista",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ir al dentista"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Ir_al_dentista.jpg"
+        }
+    ]
+}

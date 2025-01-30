@@ -1,0 +1,14 @@
+{
+    "name": "Preocuparse por los ahorros169",
+    "title": "Preocuparse por los ahorros",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Preocuparse por los ahorros"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Preocuparse_por_los_ahorros.jpg"
+        }
+    ]
+}

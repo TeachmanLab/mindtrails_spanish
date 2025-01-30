@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Invitando tu Amigo a una Cita",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Si le invitaras a salir a tu amigo, no sería incómodo y crees que a tu amigo le resultaría..."
+        },
+        {
+            "type": "Entry",
+            "name": "Invitando tu Amigo a una Cita_Relaciones Románticas_entry2"
+        }
+    ]
+}

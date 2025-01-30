@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Pensamientos intrusivos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recientemente, has notado que estás teniendo pensamientos intrusivos. Estos pensamientos te están molestando, y no puedes creer que estás pensando en cosas tan horribles. Sientes que te estás volviendo..."
+        },
+        {
+            "type": "Entry",
+            "name": "Pensamientos intrusivos_Salud Mental_entry1"
+        }
+    ]
+}

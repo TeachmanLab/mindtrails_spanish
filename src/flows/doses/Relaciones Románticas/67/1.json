@@ -1,0 +1,14 @@
+{
+    "name": "Prepararse para una cita59",
+    "title": "Prepararse para una cita",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Prepararse para una cita"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Prepararse_para_una_cita.jpg"
+        }
+    ]
+}

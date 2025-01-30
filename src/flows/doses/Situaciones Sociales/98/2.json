@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Tiempo en silencio",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Una día estás con un amigo y te das cuenta de que la conversación se ha quedado en silencio. Ninguno de los dos dice nada durante un rato, y tu amigo puede percibir que te sientes..."
+        },
+        {
+            "type": "Entry",
+            "name": "Tiempo en silencio_Situaciones Sociales_entry1"
+        }
+    ]
+}

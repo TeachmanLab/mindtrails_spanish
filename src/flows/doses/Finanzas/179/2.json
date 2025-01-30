@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Costear la terapia",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Has estado queriendo ir a terapia por un tiempo. Sin embargo, no está seguro de si tiene el presupuesto para pagarlo. Piensas que es probable que encuentre un proveedor cuyos servicios son... "
+        },
+        {
+            "type": "Entry",
+            "name": "Costear la terapia_Finanzas_entry1"
+        }
+    ]
+}

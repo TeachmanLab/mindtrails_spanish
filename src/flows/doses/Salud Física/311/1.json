@@ -1,0 +1,14 @@
+{
+    "name": "Garganta seca326",
+    "title": "Garganta seca",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Garganta seca"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Garganta_seca.jpg"
+        }
+    ]
+}

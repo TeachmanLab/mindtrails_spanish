@@ -1,0 +1,14 @@
+{
+    "name": "Respondiendo a preguntas inesperadas42",
+    "title": "Respondiendo a preguntas inesperadas",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Respondiendo a preguntas inesperadas"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Respondiendo_a_preguntas_inesperadas.jpg"
+        }
+    ]
+}

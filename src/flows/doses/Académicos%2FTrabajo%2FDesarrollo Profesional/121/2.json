@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Anticipación de entrevista",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te están entrevistando para un puesto de liderazgo dentro de tu departamento. Antes de entrar en la oficina, notas que te sientes tembloroso. Te sientes increíblemente..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Anticipación de entrevista_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "emocionado"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

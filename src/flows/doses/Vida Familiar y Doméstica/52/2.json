@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Equilibrar la vida familiar y los amigos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu pareja dirige una guardería en tu casa, por lo que siempre está ruidoso cuando llegas a casa del trabajo. Su colega viene hoy a tomar café. Piensas en cómo va a reaccionar tu colega al ruido y te... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Equilibrar la vida familiar y los amigos_Vida Familiar y Doméstica_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "preocupas"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

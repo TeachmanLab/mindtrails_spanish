@@ -1,0 +1,14 @@
+{
+    "name": "Permitirse un viaje200",
+    "title": "Permitirse un viaje",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Permitirse un viaje"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Permitirse_un_viaje.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Pensamientos del grupo de teatro296",
+    "title": "Pensamientos del grupo de teatro",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Pensamientos del grupo de teatro"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Pensamientos_del_grupo_de_teatro.jpg"
+        }
+    ]
+}

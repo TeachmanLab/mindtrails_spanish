@@ -1,0 +1,14 @@
+{
+    "name": "Resultados del chequeo anual41",
+    "title": "Resultados del chequeo anual",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Resultados del chequeo anual"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Resultados_del_chequeo_anual.jpg"
+        }
+    ]
+}

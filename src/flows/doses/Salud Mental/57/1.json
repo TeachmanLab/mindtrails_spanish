@@ -1,0 +1,14 @@
+{
+    "name": "Puerta con seguro51",
+    "title": "Puerta con seguro",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Puerta con seguro"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Puerta_con_seguro.jpg"
+        }
+    ]
+}

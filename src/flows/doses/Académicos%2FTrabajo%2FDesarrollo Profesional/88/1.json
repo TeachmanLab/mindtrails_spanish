@@ -1,0 +1,14 @@
+{
+    "name": "No invitado a cenar78",
+    "title": "No invitado a cenar",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "No invitado a cenar"
+        },
+        {
+            "type": "Media",
+            "file": "/images/No_invitado_a_cenar.jpg"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Encontrandote con alguien",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Tu cita probablemente notará..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Encontrandote con alguien_Relaciones Románticas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Cuánto disfrutan de los mismos pasatiempos.",
+                "Lo poquito que tienes que decir."
+            ],
+            "columnCount": 1,
+            "answer": "Cuánto disfrutan de los mismos pasatiempos."
+        }
+    ]
+}

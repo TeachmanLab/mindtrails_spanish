@@ -1,0 +1,14 @@
+{
+    "name": "Hablando sobre vivienda79",
+    "title": "Hablando sobre vivienda",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Hablando sobre vivienda"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Hablando_sobre_vivienda.jpg"
+        }
+    ]
+}

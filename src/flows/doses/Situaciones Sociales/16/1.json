@@ -1,0 +1,14 @@
+{
+    "name": "Conversando en una fiesta13",
+    "title": "Conversando en una fiesta",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Conversando en una fiesta"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Conversando_en_una_fiesta.jpg"
+        }
+    ]
+}

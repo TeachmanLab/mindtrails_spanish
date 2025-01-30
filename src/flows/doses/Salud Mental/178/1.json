@@ -1,0 +1,14 @@
+{
+    "name": "Estar a cargo183",
+    "title": "Estar a cargo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Estar a cargo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Estar_a_cargo.jpg"
+        }
+    ]
+}

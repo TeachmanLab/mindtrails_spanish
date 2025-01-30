@@ -1,0 +1,14 @@
+{
+    "name": "Compromisos equilibrados163",
+    "title": "Compromisos equilibrados",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Compromisos equilibrados"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Compromisos_equilibrados.jpg"
+        }
+    ]
+}

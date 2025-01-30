@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Enseñando a otros",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Has sido seleccionado para dirigir una clase de capacitación para nuevos empleados. El líder anterior era muy querido y te preocupa no poder estar a la altura de las expectativas de los demás sobre el curso. Recuerdas que conoces bien el material y cuando piensas en liderar el curso, tienes..."
+        },
+        {
+            "type": "Entry",
+            "name": "Enseñando a otros_Salud Mental_entry1"
+        }
+    ]
+}

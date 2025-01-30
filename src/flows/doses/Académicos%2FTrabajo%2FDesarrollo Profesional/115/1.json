@@ -1,0 +1,14 @@
+{
+    "name": "El curso difícil127",
+    "title": "El curso difícil",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "El curso difícil"
+        },
+        {
+            "type": "Media",
+            "file": "/images/El_curso_difícil.jpg"
+        }
+    ]
+}

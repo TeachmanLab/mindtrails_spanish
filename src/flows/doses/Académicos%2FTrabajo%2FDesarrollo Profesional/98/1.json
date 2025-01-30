@@ -1,0 +1,14 @@
+{
+    "name": "Tu Currículum87",
+    "title": "Tu Currículum",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tu Currículum"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Tu_Currículum.jpg"
+        }
+    ]
+}

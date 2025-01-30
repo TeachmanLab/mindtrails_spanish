@@ -1,0 +1,14 @@
+{
+    "name": "Conversaciones incómodas64",
+    "title": "Conversaciones incómodas",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Conversaciones incómodas"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Conversaciones_incómodas.jpg"
+        }
+    ]
+}

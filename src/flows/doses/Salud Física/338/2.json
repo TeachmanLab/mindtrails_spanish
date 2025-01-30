@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Dolor de estómago",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Has estado nervioso por una próxima evaluación en el trabajo. El día de la evaluación notas que te duele el estómago. Piensas que el dolor de estómago probablemente se deber a la..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Dolor de estómago_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "ansiedad"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

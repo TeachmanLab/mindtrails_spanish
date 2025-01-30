@@ -1,0 +1,14 @@
+{
+    "name": "Visita médica inesperada174",
+    "title": "Visita médica inesperada",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Visita médica inesperada"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Visita_médica_inesperada.jpg"
+        }
+    ]
+}

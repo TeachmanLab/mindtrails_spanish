@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Un tropiezo repentino",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Tu jefe probablemente pensará que..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Un tropiezo repentino_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Estás listo para enfrentar desafíos.",
+                "Eres una persona torpe."
+            ],
+            "columnCount": 1,
+            "answer": "Estás listo para enfrentar desafíos."
+        }
+    ]
+}

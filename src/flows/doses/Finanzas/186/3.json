@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Gastar dinero con amigos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu presupuesto ha sido más ajustado este mes. Tus amigos quieren salir a comer este fin de semana, y eligen un lugar muy caro. Si les pides que elijan un restaurante diferente, crees que serán... "
+        },
+        {
+            "type": "Entry",
+            "name": "Gastar dinero con amigos_Finanzas_entry1"
+        }
+    ]
+}

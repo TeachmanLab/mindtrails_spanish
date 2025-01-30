@@ -1,0 +1,14 @@
+{
+    "name": "Corte de pelo5",
+    "title": "Corte de pelo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Corte de pelo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Corte_de_pelo.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Tomar un descanso155",
+    "title": "Tomar un descanso",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tomar un descanso"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Tomar_un_descanso.jpg"
+        }
+    ]
+}

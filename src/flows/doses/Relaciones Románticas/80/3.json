@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Encontrar al indicado",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Actualmente estás soltero y has tenido citas para intentar encontrar a la persona indicada. A veces, resulta difícil conectarse realmente con las personas y conocerlas a un nivel más profundo. Cuando piensas en casarte en el futuro, te..."
+        },
+        {
+            "type": "Entry",
+            "name": "Encontrar al indicado_Relaciones Románticas_entry1"
+        }
+    ]
+}

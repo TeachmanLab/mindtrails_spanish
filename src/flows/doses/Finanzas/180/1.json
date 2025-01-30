@@ -1,0 +1,14 @@
+{
+    "name": "Tratarse a sí mismo185",
+    "title": "Tratarse a sí mismo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tratarse a sí mismo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Tratarse_a_sí_mismo.jpg"
+        }
+    ]
+}

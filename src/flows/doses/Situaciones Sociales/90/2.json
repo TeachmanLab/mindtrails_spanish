@@ -1,0 +1,14 @@
+{
+    "name": "Error en una tarea80",
+    "title": "Error en una tarea",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Error en una tarea"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Error_en_una_tarea.jpg"
+        }
+    ]
+}

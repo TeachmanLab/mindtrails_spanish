@@ -1,0 +1,14 @@
+{
+    "name": "Miedo al COVID55",
+    "title": "Miedo al COVID",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Miedo al COVID"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Miedo_al_COVID.jpg"
+        }
+    ]
+}

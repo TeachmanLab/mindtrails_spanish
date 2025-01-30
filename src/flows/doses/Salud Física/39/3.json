@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Corriendo tu primera carrera",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Piensas que el dolor en tu cadera es..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Corriendo tu primera carrera_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Temporario.",
+                "Una señal de lesión grave."
+            ],
+            "columnCount": 1,
+            "answer": "Temporario."
+        }
+    ]
+}

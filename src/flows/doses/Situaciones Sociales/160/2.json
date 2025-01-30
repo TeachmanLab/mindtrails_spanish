@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Comentarios de redes sociales",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Decides enviar un correo electrónico a tu departamento promocionando algo importante para ti. Alguien responde de manera grosera porque malinterpretaron lo que escribiste. Te preguntas qué piensa esta persona sobre ti y te sientes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Comentarios de redes sociales_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "preocupado"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

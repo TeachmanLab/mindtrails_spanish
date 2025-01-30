@@ -1,0 +1,14 @@
+{
+    "name": "Manejando tu tarjeta de crédito150",
+    "title": "Manejando tu tarjeta de crédito",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Manejando tu tarjeta de crédito"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Manejando_tu_tarjeta_de_crédito.jpg"
+        }
+    ]
+}

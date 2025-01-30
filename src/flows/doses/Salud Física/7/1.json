@@ -1,0 +1,14 @@
+{
+    "name": "Cargando bolsas de compras5",
+    "title": "Cargando bolsas de compras",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cargando bolsas de compras"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Cargando_bolsas_de_compras.jpg"
+        }
+    ]
+}

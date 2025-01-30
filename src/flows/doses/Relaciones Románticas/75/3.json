@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Invitando a alguien a salir",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cuando consideras invitar a la otra persona  a tomar un café, no te preocupa que te rechacen porque estás bastante seguro de que esta persona..."
+        },
+        {
+            "type": "Entry",
+            "name": "Invitando a alguien a salir_Relaciones Románticas_entry2"
+        }
+    ]
+}

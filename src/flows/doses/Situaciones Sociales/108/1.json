@@ -1,0 +1,14 @@
+{
+    "name": "Amigo descuidando las tareas121",
+    "title": "Amigo descuidando las tareas",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Amigo descuidando las tareas"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Amigo_descuidando_las_tareas.jpg"
+        }
+    ]
+}

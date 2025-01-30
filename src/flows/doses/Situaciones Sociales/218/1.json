@@ -1,0 +1,14 @@
+{
+    "name": "Futuras amistades243",
+    "title": "Futuras amistades",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Futuras amistades"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Futuras_amistades.jpg"
+        }
+    ]
+}

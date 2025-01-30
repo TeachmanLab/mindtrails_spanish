@@ -1,0 +1,14 @@
+{
+    "name": "Sin notificaciones62",
+    "title": "Sin notificaciones",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sin notificaciones"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Sin_notificaciones.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Genio cómico405",
+    "title": "Genio cómico",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Genio cómico"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Genio_cómico.jpg"
+        }
+    ]
+}

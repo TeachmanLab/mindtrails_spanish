@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Clase de baile",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "¿La persona que conociste en la clase de baile pensó que estabas ansioso?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Clase de baile_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "columnCount": 1,
+            "answer": "No"
+        }
+    ]
+}

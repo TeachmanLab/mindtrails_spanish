@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Cena con amigos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tus amigos te invitan a cenar con ellos. Te das cuenta de que salir a cenar podría hacer que sobrepases tu presupuesto para la cena. Declinas la invitación y piensas que tus amigos lo..."
+        },
+        {
+            "type": "Entry",
+            "name": "Cena con amigos_Finanzas_entry1"
+        }
+    ]
+}

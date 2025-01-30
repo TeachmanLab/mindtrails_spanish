@@ -1,0 +1,14 @@
+{
+    "name": "Conociendo alguien nuevo374",
+    "title": "Conociendo alguien nuevo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Conociendo alguien nuevo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Conociendo_alguien_nuevo.jpg"
+        }
+    ]
+}

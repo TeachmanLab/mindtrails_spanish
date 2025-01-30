@@ -1,0 +1,14 @@
+{
+    "name": "Participación70",
+    "title": "Participación",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Participación"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Participación.jpg"
+        }
+    ]
+}

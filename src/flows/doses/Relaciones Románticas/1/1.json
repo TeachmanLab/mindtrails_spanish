@@ -1,0 +1,14 @@
+{
+    "name": "Enviar mensajes de texto a alguien que te gusta1",
+    "title": "Enviar mensajes de texto a alguien que te gusta",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Enviar mensajes de texto a alguien que te gusta"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Enviar_mensajes_de_texto_a_alguien_que_te_gusta.jpg"
+        }
+    ]
+}

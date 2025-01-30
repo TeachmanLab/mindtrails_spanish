@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Expectativas",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "El año acaba de terminar y tu jefe quiere reunirse contigo para hablar sobre tu rendimiento. Tienen expectativas altas para ti, pero tu rendimiento fue peor que en años anteriores. Tu jefe estará..."
+        },
+        {
+            "type": "Entry",
+            "name": "Expectativas_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ]
+}

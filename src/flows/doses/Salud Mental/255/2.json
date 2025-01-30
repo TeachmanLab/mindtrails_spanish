@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Amigos en las relaciones",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Todos tus amigos están en relaciones. Actualmente no estás en una relación y te preguntas si hay algo malo en ti. Piensas que eres..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Amigos en las relaciones_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "indeseable"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Presiones laborales143",
+    "title": "Presiones laborales",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Presiones laborales"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Presiones_laborales.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Permitirse la educación",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Al imaginarte a ti mismo en la jubilación, no te imaginas atormentado por las deudas y crees que tus préstamos serán... "
+        },
+        {
+            "type": "Entry",
+            "name": "Permitirse la educación_Finanzas_entry2"
+        }
+    ]
+}

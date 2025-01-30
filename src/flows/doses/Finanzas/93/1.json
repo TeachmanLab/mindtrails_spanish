@@ -1,0 +1,14 @@
+{
+    "name": "Gestión de crédito82",
+    "title": "Gestión de crédito",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Gestión de crédito"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Gestión_de_crédito.jpg"
+        }
+    ]
+}

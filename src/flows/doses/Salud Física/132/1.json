@@ -1,0 +1,14 @@
+{
+    "name": "Sintiendo mareos142",
+    "title": "Sintiendo mareos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sintiendo mareos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Sintiendo_mareos.jpg"
+        }
+    ]
+}

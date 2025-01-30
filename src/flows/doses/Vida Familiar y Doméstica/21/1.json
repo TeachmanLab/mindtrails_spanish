@@ -1,0 +1,14 @@
+{
+    "name": "Nueva receta18",
+    "title": "Nueva receta",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Nueva receta"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Nueva_receta.jpg"
+        }
+    ]
+}

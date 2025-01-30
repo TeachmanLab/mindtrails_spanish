@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Tu nueva publicación",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Acabas de publicar una nueva foto hace una hora. Cuando compruebas cuántos gustas ha recibido, ves que a nadie le ha gustado todavía. Es tarde en la noche, lo que significa que todos están..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Tu nueva publicación_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "durmiendo"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Montar a caballo durante el fin de semana275",
+    "title": "Montar a caballo durante el fin de semana",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Montar a caballo durante el fin de semana"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Montar_a_caballo_durante_el_fin_de_semana.jpg"
+        }
+    ]
+}

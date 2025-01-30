@@ -1,0 +1,14 @@
+{
+    "name": "Invitar gente73",
+    "title": "Invitar gente",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Invitar gente"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Invitar_gente.jpg"
+        }
+    ]
+}

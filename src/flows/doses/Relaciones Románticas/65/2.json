@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Enviar mensajes de texto a alguien que te gusta",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Has estado saliendo mucho con una persona linda últimamente, pero no estás seguro de si sientes lo mismo. Hoy te piden tu..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Enviar mensajes de texto a alguien que te gusta_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "número"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

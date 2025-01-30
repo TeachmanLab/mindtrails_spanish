@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Corte de pelo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Hoy te van a tomar fotos de personal y te cortaste el pelo para la ocasión. No salió como querías. Cuando piensas en que otros verán tu nuevo corte de pelo en las fotos, te sientes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Corte de pelo_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "avergonzado"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

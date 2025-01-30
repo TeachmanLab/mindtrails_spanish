@@ -1,0 +1,14 @@
+{
+    "name": "Ninguna respuesta139",
+    "title": "Ninguna respuesta",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ninguna respuesta"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Ninguna_respuesta.jpg"
+        }
+    ]
+}

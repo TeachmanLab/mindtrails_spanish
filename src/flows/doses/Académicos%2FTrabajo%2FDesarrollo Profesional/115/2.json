@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "El curso difícil",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te has inscrito en un programa de ciencia de datos ofrecido por tu lugar de trabajo porque crees que será una habilidad útil que podrás adquirir en el futuro. Sabes que la demanda de personas con experiencia en ciencia de datos está aumentando, pero el programa es muy..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "El curso difícil_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "difícil"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

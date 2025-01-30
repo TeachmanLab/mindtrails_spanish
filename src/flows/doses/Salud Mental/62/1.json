@@ -1,0 +1,14 @@
+{
+    "name": "Ejercicio con un amigo54",
+    "title": "Ejercicio con un amigo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ejercicio con un amigo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Ejercicio_con_un_amigo.jpg"
+        }
+    ]
+}

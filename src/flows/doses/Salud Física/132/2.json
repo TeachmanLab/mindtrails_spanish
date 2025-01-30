@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Sintiendo mareos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Decides girar rápidamente en una silla de oficina. Sientes mariposas en el estómago y te mareas cuando la silla se desacelera. Estas sensaciones probablemente significan que vas a..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Sintiendo mareos_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "desmayarte"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Practicando la presentación",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu supervisor te pide que hagas una presentación en una reunión. Después de practicar durante varias semanas, finalmente te sientes listo. En el presentación, cometes un gran... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Practicando la presentación_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "error"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

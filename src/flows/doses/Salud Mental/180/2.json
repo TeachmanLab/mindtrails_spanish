@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Yendo de vacaciones",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te vas de vacaciones por unos días. Decides verificar nuevamente que todos los electrodomésticos de tu casa estén apagados. Al cerrar la puerta de tu casa, te sientes..."
+        },
+        {
+            "type": "Entry",
+            "name": "Yendo de vacaciones_Salud Mental_entry1"
+        }
+    ]
+}

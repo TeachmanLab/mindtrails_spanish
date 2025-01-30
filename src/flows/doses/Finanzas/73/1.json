@@ -1,0 +1,14 @@
+{
+    "name": "Ahorrando dinero64",
+    "title": "Ahorrando dinero",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ahorrando dinero"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Ahorrando_dinero.jpg"
+        }
+    ]
+}

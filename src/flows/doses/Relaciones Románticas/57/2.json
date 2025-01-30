@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Preocupaciones por el COVID",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu pareja no toma las precauciones necesarias para luchar contra enfermedades, como el COVID-19. Esto te preocupa porque alguien que conoces está inmunocomprometido. Cuando piensas en hablar con tu pareja sobre sus acciones, crees que lo... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Preocupaciones por el COVID_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "entenderá"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

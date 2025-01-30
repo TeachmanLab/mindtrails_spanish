@@ -1,0 +1,14 @@
+{
+    "name": "Regalos de días festivos250",
+    "title": "Regalos de días festivos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Regalos de días festivos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Regalos_de_días_festivos.jpg"
+        }
+    ]
+}

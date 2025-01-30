@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Calentador",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Saliste corriendo de tu casa esta mañana. Una vez en el trabajo, te preguntas si olvidaste apagar el calentador. La probabilidad de que el calentador provoque un incendio es..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Calentador_Vida Familiar y Doméstica_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "mínima"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

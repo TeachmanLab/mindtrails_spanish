@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Sintiendo mareos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "En vez de entrar en pánico, decides respirar profundamente. Lentamente, tu mareo desaparece y tu estómago se siente..."
+        },
+        {
+            "type": "Entry",
+            "name": "Sintiendo mareos_Salud Física_entry2"
+        }
+    ]
+}

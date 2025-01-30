@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Sentirse ansioso",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tienes una gran presentación pendiente. Cuando piensas en pararte frente de gente y hablar, te sientes ansioso. Crees que esto probablemente sea..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Sentirse ansioso_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "temporal"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

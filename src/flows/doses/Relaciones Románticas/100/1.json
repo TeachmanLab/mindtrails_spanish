@@ -1,0 +1,14 @@
+{
+    "name": "Preguntas de la familia89",
+    "title": "Preguntas de la familia",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Preguntas de la familia"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Preguntas_de_la_familia.jpg"
+        }
+    ]
+}

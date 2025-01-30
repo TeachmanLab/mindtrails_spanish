@@ -1,0 +1,14 @@
+{
+    "name": "Consejos de padres63",
+    "title": "Consejos de padres",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Consejos de padres"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Consejos_de_padres.jpg"
+        }
+    ]
+}

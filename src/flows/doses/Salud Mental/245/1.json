@@ -1,0 +1,14 @@
+{
+    "name": "Pensamientos acelerados267",
+    "title": "Pensamientos acelerados",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Pensamientos acelerados"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Pensamientos_acelerados.jpg"
+        }
+    ]
+}

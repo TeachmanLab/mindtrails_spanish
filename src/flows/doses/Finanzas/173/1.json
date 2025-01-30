@@ -1,0 +1,14 @@
+{
+    "name": "Financiar buenos hábitos179",
+    "title": "Financiar buenos hábitos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Financiar buenos hábitos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Financiar_buenos_hábitos.jpg"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Decidiendo algo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás en el concesionario local de automóviles buscando comprar un carro nuevo. Después de considerar todas las opciones, todavía estás indeciso entre dos carros. Cuando le dices al vendedor qué carro decidiste comprar, te sientes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Decidiendo algo_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "contento"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

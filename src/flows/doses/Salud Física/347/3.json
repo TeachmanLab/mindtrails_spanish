@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Sentirse mareado",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Decides prestar atención a las sensaciones sin juzgarlas como buenas o malas. Esto reduce tu preocupación y te hace sentir más..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Sentirse mareado_Salud Física_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "tranquilo"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

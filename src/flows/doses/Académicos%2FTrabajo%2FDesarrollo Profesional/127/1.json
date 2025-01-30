@@ -1,0 +1,14 @@
+{
+    "name": "Una presentación pequeña138",
+    "title": "Una presentación pequeña",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Una presentación pequeña"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Una_presentación_pequeña.jpg"
+        }
+    ]
+}

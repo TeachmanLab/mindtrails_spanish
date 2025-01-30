@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Reconciliándote con tu amigo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Unos días después de un pleito con tu amigo, decides romper el hielo y le propones que vayan a tomar un café. Te alistas y cuando estás por irte, te llaman para decirte que después de todo no pueden llegar. Cuando cuelgas, piensas que cancelaron debido a que están... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Reconciliándote con tu amigo_Vida Familiar y Doméstica_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "cansados"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

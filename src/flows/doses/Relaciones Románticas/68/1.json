@@ -1,0 +1,14 @@
+{
+    "name": "Personalidades diferentes60",
+    "title": "Personalidades diferentes",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Personalidades diferentes"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Personalidades_diferentes.jpg"
+        }
+    ]
+}

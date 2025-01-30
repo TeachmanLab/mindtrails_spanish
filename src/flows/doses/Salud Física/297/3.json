@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Corriendo fuerte",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Quieres ir a algún lugar privado para estar lejos de los demás. Decides quedarte donde estás y respirar..."
+        },
+        {
+            "type": "Entry",
+            "name": "Corriendo fuerte_Salud Física_entry2"
+        }
+    ]
+}

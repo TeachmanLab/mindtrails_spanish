@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Decidir compartir una imagen",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Le tomas una foto a un compañero de trabajo en un evento que es realmente genial. Quieres mostrárselo a tus otros compañeros de trabajo en un correo electrónico, pero recuerdes que acabas de enviar un correo electrónico ayer. Si vuelves a enviar un correo electrónico, crees que la gente no se dará..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Decidir compartir una imagen_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "cuenta"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

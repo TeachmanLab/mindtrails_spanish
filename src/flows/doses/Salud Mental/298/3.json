@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Preocupaciones por el ritmo cardíaco",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cuando el evento se vuelve más ruidoso a medida que llega más gente, consideras irte, pero decides que puedes manejar estos sentimientos y seguir..."
+        },
+        {
+            "type": "Entry",
+            "name": "Preocupaciones por el ritmo cardíaco_Salud Mental_entry2"
+        }
+    ]
+}

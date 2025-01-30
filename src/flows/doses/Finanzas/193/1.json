@@ -1,0 +1,14 @@
+{
+    "name": "Planes de descanso197",
+    "title": "Planes de descanso",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Planes de descanso"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Planes_de_descanso.jpg"
+        }
+    ]
+}

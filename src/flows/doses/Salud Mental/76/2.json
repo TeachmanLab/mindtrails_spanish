@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Aplicando a trabajos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Aplicaste a un trabajo hace algunas semanas y acabas de recibir una respuesta. Te dicen que ya llenaron el puesto y sientes que no eres lo suficientemente inteligente. Aun así, crees que en el futuro conseguirás un..."
+        },
+        {
+            "type": "Entry",
+            "name": "Aplicando a trabajos_Salud Mental_entry1"
+        }
+    ]
+}

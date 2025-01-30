@@ -1,0 +1,14 @@
+{
+    "name": "Solo amigo87",
+    "title": "Solo amigo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Solo amigo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Solo_amigo.jpg"
+        }
+    ]
+}

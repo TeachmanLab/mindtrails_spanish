@@ -1,0 +1,14 @@
+{
+    "name": "Permitirse la educación21",
+    "title": "Permitirse la educación",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Permitirse la educación"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Permitirse_la_educación.jpg"
+        }
+    ]
+}

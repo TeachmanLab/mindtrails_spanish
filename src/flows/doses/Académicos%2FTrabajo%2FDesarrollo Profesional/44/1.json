@@ -1,0 +1,14 @@
+{
+    "name": "Visitas importantes39",
+    "title": "Visitas importantes",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Visitas importantes"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Visitas_importantes.jpg"
+        }
+    ]
+}

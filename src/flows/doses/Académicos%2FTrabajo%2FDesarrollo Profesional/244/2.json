@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Cafetería",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás trabajando en un proyecto con un colega en una pequeña mesa en una cafetería. Cuando llega tu café, accidentalmente lo derramas sobre todos sus papeles, haciendo que tu colega salte con..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Cafetería_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "angustia"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

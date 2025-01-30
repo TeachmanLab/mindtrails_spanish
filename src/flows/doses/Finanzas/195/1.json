@@ -1,0 +1,14 @@
+{
+    "name": "Planificación de pagos199",
+    "title": "Planificación de pagos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Planificación de pagos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Planificación_de_pagos.jpg"
+        }
+    ]
+}

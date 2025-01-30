@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Saludable pero caro",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Quieres empezar a comer de forma más saludable, por eso empiezas a buscar consejos y recetas en línea. Rápidamente te das cuenta de que muchos alimentos recomendados por expertos en salud cuestan mucho dinero. Cuando piensas en comer más sano con un presupuesto limitado, crees que puedes tener..."
+        },
+        {
+            "type": "Entry",
+            "name": "Saludable pero caro_Finanzas_entry1"
+        }
+    ]
+}

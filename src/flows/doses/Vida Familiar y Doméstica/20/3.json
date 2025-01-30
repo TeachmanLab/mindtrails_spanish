@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Padres visitando",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Respiras profundamente y te enfocas de nuevo en organizar la fiesta de nacimiento. Decides que no puedes controlar el comportamiento de tus..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Padres visitando_Vida Familiar y Doméstica_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "padres"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

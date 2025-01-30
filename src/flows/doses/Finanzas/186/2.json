@@ -1,0 +1,14 @@
+{
+    "name": "Gastar dinero con amigos191",
+    "title": "Gastar dinero con amigos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Gastar dinero con amigos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Gastar_dinero_con_amigos.jpg"
+        }
+    ]
+}

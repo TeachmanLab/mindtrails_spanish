@@ -1,0 +1,18 @@
+{
+    "title": "El trabajo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Te quedarás pronto sin ingresos?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "selectable": true,
+            "name": "IBM_job"
+        }
+    ]
+}

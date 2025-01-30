@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Compartir las tradiciones familiares",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "¿Tienes miedo de hablar de las tradiciones de tu familia en el trabajo?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Compartir las tradiciones familiares_Vida Familiar y Doméstica_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "columnCount": 1,
+            "answer": "No"
+        }
+    ]
+}

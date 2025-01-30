@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Dependencia financiera",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tus hijos han estado confiando en ti financieramente, y quieres que comiencen a ser más independientes. Sabes que este es un paso importante, pero la idea de proporcionarles menos apoyo es abrumadora. Al pensar en el futuro, confías en que su independencia financiera será... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Dependencia financiera_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "posible"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

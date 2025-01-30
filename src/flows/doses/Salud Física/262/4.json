@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Corriendo una maratón",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "¿Crees que serás incapaz de completar un maratón?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Corriendo una maratón_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "",
+                ""
+            ],
+            "columnCount": 1,
+            "answer": ""
+        }
+    ]
+}

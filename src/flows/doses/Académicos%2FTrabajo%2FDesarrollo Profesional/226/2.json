@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Esperando grandes noticias",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Hoy recibirás un correo electrónico importante. Te dirá si recibiste un ascenso que realmente avanzaría tu carrera. Mientras piensas en esperar el correo electrónico, te sientes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Esperando grandes noticias_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "emocionado"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

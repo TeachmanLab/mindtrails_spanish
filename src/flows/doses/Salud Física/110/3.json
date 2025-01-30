@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Terminando una carrera larga",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Quieres ir a algún lugar privado para estar lejos de los demás. Decides quedarte donde estás y respirar..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Terminando una carrera larga_Salud Física_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "lentamente"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

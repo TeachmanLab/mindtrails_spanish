@@ -1,0 +1,14 @@
+{
+    "name": "Encontrando un compañero de cuarto153",
+    "title": "Encontrando un compañero de cuarto",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Encontrando un compañero de cuarto"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Encontrando_un_compañero_de_cuarto.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Going to Therapy",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Has estado yendo a terapia últimamente. No te lo has contado a tu familia porque han expresado opiniones negativas sobre la terapia en el pasado. Crees que esta vez te..."
+        },
+        {
+            "type": "Entry",
+            "name": "Going to Therapy_Salud Mental_entry1"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Funciones normales189",
+    "title": "Funciones normales",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Funciones normales"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Funciones_normales.jpg"
+        }
+    ]
+}

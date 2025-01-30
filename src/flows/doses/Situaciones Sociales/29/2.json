@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Nueva ciudad, nuevos amigos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Acabas de mudarte a una nueva ciudad y has conocido a mucha gente realmente interesante. Sin embargo, sientes que todavía no tienes un grupo de amigos muy cercano en quien confiar y extrañas a tus amigos más cercanos de tu antigua ciudad. Decide pasar más tiempo con las personas que has conocido para poder convertirse en amigos más..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Nueva ciudad, nuevos amigos_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "cercanos"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

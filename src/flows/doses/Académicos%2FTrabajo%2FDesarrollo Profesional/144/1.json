@@ -1,0 +1,14 @@
+{
+    "name": "Tomarse tu tiempo152",
+    "title": "Tomarse tu tiempo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tomarse tu tiempo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Tomarse_tu_tiempo.jpg"
+        }
+    ]
+}

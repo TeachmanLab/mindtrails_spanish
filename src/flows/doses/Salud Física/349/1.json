@@ -1,0 +1,14 @@
+{
+    "name": "Vecino sin mascarilla385",
+    "title": "Vecino sin mascarilla",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Vecino sin mascarilla"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Vecino_sin_mascarilla.jpg"
+        }
+    ]
+}

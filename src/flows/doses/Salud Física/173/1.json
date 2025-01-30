@@ -1,0 +1,14 @@
+{
+    "name": "en un barco179",
+    "title": "en un barco",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "en un barco"
+        },
+        {
+            "type": "Media",
+            "file": "/images/en_un_barco.jpg"
+        }
+    ]
+}

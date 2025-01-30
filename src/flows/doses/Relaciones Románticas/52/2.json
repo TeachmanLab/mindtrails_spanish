@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Presencia en redes sociales",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Empezaste a salir con una persona nueva y te preguntan sobre tus cuentas de redes sociales. No te gustan las redes sociales, y has decidido no tener cuentas. Ellos pensarán que eres... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Presencia en redes sociales_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "genial"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Emoción prospectiva38",
+    "title": "Emoción prospectiva",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Emoción prospectiva"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Emoción_prospectiva.jpg"
+        }
+    ]
+}

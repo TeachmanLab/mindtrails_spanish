@@ -1,0 +1,14 @@
+{
+    "name": "Límite de tarjeta de crédito177",
+    "title": "Límite de tarjeta de crédito",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Límite de tarjeta de crédito"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Límite_de_tarjeta_de_crédito.jpg"
+        }
+    ]
+}

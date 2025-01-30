@@ -1,0 +1,14 @@
+{
+    "name": "De prisa164",
+    "title": "De prisa",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "De prisa"
+        },
+        {
+            "type": "Media",
+            "file": "/images/De_prisa.jpg"
+        }
+    ]
+}

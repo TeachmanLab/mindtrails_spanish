@@ -1,0 +1,14 @@
+{
+    "name": "Presentación opcional68",
+    "title": "Presentación opcional",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Presentación opcional"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Presentación_opcional.jpg"
+        }
+    ]
+}

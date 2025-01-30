@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Tu propio estilo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Hiciste planes con un grupo de amigos para salir a cenar un viernes por la noche. Cuando vienen a recogerte, ves que están vestidos de manera informal, pero tú decidiste disfrazarte un poco y crees que podrían juzgarte. Decides que te gusta lo que llevas puesto y vas a cenar..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Tu propio estilo_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "feliz"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

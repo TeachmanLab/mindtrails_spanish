@@ -1,0 +1,14 @@
+{
+    "name": "Reclamación del seguro172",
+    "title": "Reclamación del seguro",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Reclamación del seguro"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Reclamación_del_seguro.jpg"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "El escaparate de danza",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Has estado tomando una clase de baile en el centro comunitario local y ha llegado el momento de tu exhibición de fin de clase. Quieres invitar a tus amigos y familiares al escaparate, pero te preocupa quedar en ridículo si no eres muy bueno. Mientras decides si invitas o no gente a tu programa, te ves..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "El escaparate de danza_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "fracasando"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

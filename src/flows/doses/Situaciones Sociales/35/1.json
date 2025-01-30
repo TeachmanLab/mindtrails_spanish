@@ -1,0 +1,14 @@
+{
+    "name": "Ir al cine solo31",
+    "title": "Ir al cine solo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ir al cine solo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Ir_al_cine_solo.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Conociendo alguien nuevo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás en una fiesta de cumpleaños para un amigo. Comienzas a sentir un nudo en el estómago mientras hablas con un desconocido. Esto probablemente significa que estás..."
+        },
+        {
+            "type": "Entry",
+            "name": "Conociendo alguien nuevo_Situaciones Sociales_entry1"
+        }
+    ]
+}

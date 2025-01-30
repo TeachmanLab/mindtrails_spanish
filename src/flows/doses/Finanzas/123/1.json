@@ -1,0 +1,14 @@
+{
+    "name": "Evento social134",
+    "title": "Evento social",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Evento social"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Evento_social.jpg"
+        }
+    ]
+}

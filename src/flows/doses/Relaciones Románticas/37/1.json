@@ -1,0 +1,14 @@
+{
+    "name": "Una respuesta tardía32",
+    "title": "Una respuesta tardía",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Una respuesta tardía"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Una_respuesta_tardía.jpg"
+        }
+    ]
+}

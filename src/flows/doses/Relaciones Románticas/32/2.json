@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Vaso de agua",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mientras estás en una cita, accidentalmente derramas un vaso de agua. Te sientes ligeramente avergonzado mientras tu cita te ayuda a limpiar el agua. Cuando todo está seco, sientes que el resto de la cita probablemente será..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Vaso de agua_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "horrible"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

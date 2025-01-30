@@ -1,0 +1,14 @@
+{
+    "name": "Ahorrar dinero283",
+    "title": "Ahorrar dinero",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ahorrar dinero"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Ahorrar_dinero.jpg"
+        }
+    ]
+}

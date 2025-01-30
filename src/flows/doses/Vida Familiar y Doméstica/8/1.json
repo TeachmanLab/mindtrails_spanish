@@ -1,0 +1,14 @@
+{
+    "name": "Encontrando equilibrio6",
+    "title": "Encontrando equilibrio",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Encontrando equilibrio"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Encontrando_equilibrio.jpg"
+        }
+    ]
+}

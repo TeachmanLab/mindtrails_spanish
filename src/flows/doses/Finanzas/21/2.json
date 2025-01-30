@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Gestión de crédito",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu banco te has puesto en contacto con tú para solicitar una tarjeta de crédito con una tasa de interés muy baja. Eres un gastador responsable, pero te preocupa acumular deudas si te inscribes en una nueva tarjeta de... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Gestión de crédito_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "crédito"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

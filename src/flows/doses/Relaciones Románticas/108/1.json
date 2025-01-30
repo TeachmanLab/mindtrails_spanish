@@ -1,0 +1,14 @@
+{
+    "name": "Tu apariencia121",
+    "title": "Tu apariencia",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tu apariencia"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Tu_apariencia.jpg"
+        }
+    ]
+}

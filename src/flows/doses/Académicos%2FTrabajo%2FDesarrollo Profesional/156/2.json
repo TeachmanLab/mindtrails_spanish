@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Cambiando tu trayectoria",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Lleva cinco años en el mismo puesto y empieza a sentirse aburrido y sin oposición en su trabajo. Le gustaría intentar conseguir un nuevo puesto, pero le preocupa poder ser competitivo en el mercado..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Cambiando tu trayectoria_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "laboral"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

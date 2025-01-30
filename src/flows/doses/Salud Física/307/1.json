@@ -1,0 +1,14 @@
+{
+    "name": "Tomándo el autobús322",
+    "title": "Tomándo el autobús",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tomándo el autobús"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Tomándo_el_autobús.jpg"
+        }
+    ]
+}

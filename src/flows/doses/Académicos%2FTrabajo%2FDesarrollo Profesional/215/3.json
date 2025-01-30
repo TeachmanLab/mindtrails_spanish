@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Obtener una oportunidad",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Con sus calificaciones, no cree que rechacen su solicitud y espera obtener una..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Obtener una oportunidad_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "entrevista"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

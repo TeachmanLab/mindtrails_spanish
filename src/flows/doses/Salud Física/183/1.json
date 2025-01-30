@@ -1,0 +1,14 @@
+{
+    "name": "Vacaciones reprogramadas188",
+    "title": "Vacaciones reprogramadas",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Vacaciones reprogramadas"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Vacaciones_reprogramadas.jpg"
+        }
+    ]
+}

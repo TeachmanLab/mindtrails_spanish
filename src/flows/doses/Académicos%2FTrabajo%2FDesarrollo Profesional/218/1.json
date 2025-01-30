@@ -1,0 +1,14 @@
+{
+    "name": "Ingresos adicionales243",
+    "title": "Ingresos adicionales",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ingresos adicionales"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Ingresos_adicionales.jpg"
+        }
+    ]
+}

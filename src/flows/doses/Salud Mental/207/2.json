@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Comentarios de publicaciones de Instagram",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Acabas de recibir un reconocimiento por un proyecto en el que trabajaste. Solo has recibido felicitaciones de unas pocas personas y ahora pensabas que tendrías más reacciones. Te preguntas si la gente no te felicita porque está..."
+        },
+        {
+            "type": "Entry",
+            "name": "Comentarios de publicaciones de Instagram_Salud Mental_entry1"
+        }
+    ]
+}

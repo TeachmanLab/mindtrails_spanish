@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Permitirse un viaje",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu hijo realmente quiere ir a un parque temático de vacaciones este año. Has estado investigando el costo del viaje, y no crees que puedas pagarlo. Tu piensas que puedes encontrar un viaje alternativo que tu hijo todavía... "
+        },
+        {
+            "type": "Entry",
+            "name": "Permitirse un viaje_Finanzas_entry1"
+        }
+    ]
+}

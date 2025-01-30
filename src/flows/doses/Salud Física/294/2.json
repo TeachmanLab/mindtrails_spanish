@@ -1,0 +1,14 @@
+{
+    "name": "Picadura de araña311",
+    "title": "Picadura de araña",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Picadura de araña"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Picadura_de_araña.jpg"
+        }
+    ]
+}

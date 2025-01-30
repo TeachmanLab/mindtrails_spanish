@@ -1,0 +1,14 @@
+{
+    "name": "Subiendo escaleras68",
+    "title": "Subiendo escaleras",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Subiendo escaleras"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Subiendo_escaleras.jpg"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Práctica de presentación",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tienes una gran presentación. Temes no poder presentarla con precisión, entonces dedicas unas horas en el fin de semana para practicar. Le pides a tu amigo que venga a tu casa a ver tu presentación para recibir comentarios. Cuando terminas, tu amigo te dice que hiciste un muy buen trabajo y que te va a ir bien delante de otro... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Práctica de presentación_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "grupo"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Comparación de puntuaciones en redes sociales",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tú y tus compañeros de trabajo están comparando experiencias de trabajo. Has tenido dificultades para completar tareas administrativas a tiempo y tus compañeros comienzan a burlarse de ti de manera desenfadada. Empiezas a sentirte..."
+        },
+        {
+            "type": "Entry",
+            "name": "Comparación de puntuaciones en redes sociales_Situaciones Sociales_entry1"
+        }
+    ]
+}

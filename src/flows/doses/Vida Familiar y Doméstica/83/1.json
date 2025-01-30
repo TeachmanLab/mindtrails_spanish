@@ -1,0 +1,14 @@
+{
+    "name": "Visitar a una familia anciana73",
+    "title": "Visitar a una familia anciana",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Visitar a una familia anciana"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Visitar_a_una_familia_anciana.jpg"
+        }
+    ]
+}

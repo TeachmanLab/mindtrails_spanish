@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Mantener a la familia",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Quieres que tu familia tenga buenas oportunidades educativas. Tú quieres que tus hijos puedan asistir a buenas universidades, pero comprendas que esto tiene un precio alto. Cuando piensas en tus hijos, piensaa que apoyar su educación universitaria será..."
+        },
+        {
+            "type": "Entry",
+            "name": "Mantener a la familia_Finanzas_entry1"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Un país extranjero58",
+    "title": "Un país extranjero",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Un país extranjero"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Un_país_extranjero.jpg"
+        }
+    ]
+}

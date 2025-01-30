@@ -1,0 +1,14 @@
+{
+    "name": "Views Towards Therapy207",
+    "title": "Views Towards Therapy",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Views Towards Therapy"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Views_Towards_Therapy.jpg"
+        }
+    ]
+}

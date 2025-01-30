@@ -1,0 +1,14 @@
+{
+    "name": "Clase de baile79",
+    "title": "Clase de baile",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Clase de baile"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Clase_de_baile.jpg"
+        }
+    ]
+}

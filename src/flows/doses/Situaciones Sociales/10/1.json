@@ -1,0 +1,14 @@
+{
+    "name": "Desconectandote8",
+    "title": "Desconectandote",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Desconectandote"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Desconectandote.jpg"
+        }
+    ]
+}

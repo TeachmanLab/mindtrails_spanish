@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Usando algo viejo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te invitan a una fiesta en la oficina y decides usar un traje que compraste el año pasado. Llegas y todos los demás parecen tener un atuendo nuevo. Mientras caminas, el anfitrión se te acerca y te dice que luces..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Usando algo viejo_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "bien"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

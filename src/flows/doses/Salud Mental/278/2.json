@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Un momento de olvido",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recordaste que necesitas leche de la tienda, así que de camino a casa te detienes a buscarla. Cuando entras a la tienda, de repente olvidas por qué estás allí, lo que te resulta un poco preocupante. Revisas tu lista de tareas pendientes y decides que aún puedes continuar con tu día con..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Un momento de olvido_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "confianza"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

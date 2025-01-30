@@ -1,0 +1,14 @@
+{
+    "name": "Paracaidismo por primera vez14",
+    "title": "Paracaidismo por primera vez",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Paracaidismo por primera vez"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Paracaidismo_por_primera_vez.jpg"
+        }
+    ]
+}

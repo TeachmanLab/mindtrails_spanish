@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Encontrandote con alguien",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te estás alistando para ir en una cita con alguien a quien nunca has conocido en persona. Crees que tienen mucho en común, pero te preocupa que a veces te vuelvas muy tímido cuando estás..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Encontrandote con alguien_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "nervioso"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

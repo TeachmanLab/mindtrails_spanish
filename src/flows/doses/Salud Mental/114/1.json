@@ -1,0 +1,14 @@
+{
+    "name": "Nadando vueltas126",
+    "title": "Nadando vueltas",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Nadando vueltas"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Nadando_vueltas.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Rechazar una bebida178",
+    "title": "Rechazar una bebida",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Rechazar una bebida"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Rechazar_una_bebida.jpg"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Primeras impresiones",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Se contrató un supervisor nuevo en tu departamento y escuchas que es muy preciso sobre cómo se deben hacer las cosas. Lo conoces por primera vez y hablan sobre el próximo mes. Cuando sales de la reunión, piensas que él cree que eres... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Primeras impresiones_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "inteligente"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

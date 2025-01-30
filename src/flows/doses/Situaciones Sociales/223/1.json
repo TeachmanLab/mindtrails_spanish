@@ -1,0 +1,14 @@
+{
+    "name": "Nueva oportunidad para amigos248",
+    "title": "Nueva oportunidad para amigos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Nueva oportunidad para amigos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Nueva_oportunidad_para_amigos.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Oportunidad nueva3",
+    "title": "Oportunidad nueva",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Oportunidad nueva"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Oportunidad_nueva.jpg"
+        }
+    ]
+}

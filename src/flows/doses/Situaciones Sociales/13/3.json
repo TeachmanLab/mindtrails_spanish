@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Sugerencia para volver a encontrarnos",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "La persona que conociste en el evento probablemente..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Sugerencia para volver a encontrarnos_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Di que sí si sugieres volver a reunirnos",
+                "Di no si sugieres volver a reunirnos."
+            ],
+            "columnCount": 1,
+            "answer": "Di que sí si sugieres volver a reunirnos"
+        }
+    ]
+}

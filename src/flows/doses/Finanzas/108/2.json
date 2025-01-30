@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Trip After COVID",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A medida que se quitan las restricciones de COVID, quieres hacer un viaje para quitarte el estrés. Debido a la pandemia, tus fondos están más bajos de lo normal. Piensas que un viaje que funcione para tu presupuesto y tu salud mental será..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Trip After COVID_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "posible"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

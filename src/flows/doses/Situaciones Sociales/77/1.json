@@ -1,0 +1,14 @@
+{
+    "name": "Amigo Tarde68",
+    "title": "Amigo Tarde",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Amigo Tarde"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Amigo_Tarde.jpg"
+        }
+    ]
+}

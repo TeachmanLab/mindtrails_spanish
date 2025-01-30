@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Sin aliento",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Corres a una reunión en el trabajo porque crees que podrías llegar tarde. Llegas a tiempo a la sala de reuniones, pero respiras con dificultad y te sientes avergonzado porque la gente te está..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Sin aliento_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "mirando"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

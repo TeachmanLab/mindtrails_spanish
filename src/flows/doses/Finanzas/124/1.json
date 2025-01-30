@@ -1,0 +1,14 @@
+{
+    "name": "Pagando la tarjeta de crédito135",
+    "title": "Pagando la tarjeta de crédito",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Pagando la tarjeta de crédito"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Pagando_la_tarjeta_de_crédito.jpg"
+        }
+    ]
+}

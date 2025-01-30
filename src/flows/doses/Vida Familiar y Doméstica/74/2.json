@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Ir a terapia",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Has estado yendo a terapia últimamente. No te lo has contado a tu familia porque han expresado opiniones negativas sobre la terapia en el pasado. Crees que esta vez te..."
+        },
+        {
+            "type": "Entry",
+            "name": "Ir a terapia_Vida Familiar y Doméstica_entry1"
+        }
+    ]
+}

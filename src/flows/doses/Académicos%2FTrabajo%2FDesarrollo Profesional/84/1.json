@@ -1,0 +1,14 @@
+{
+    "name": "Hilo de pensamientos74",
+    "title": "Hilo de pensamientos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Hilo de pensamientos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Hilo_de_pensamientos.jpg"
+        }
+    ]
+}

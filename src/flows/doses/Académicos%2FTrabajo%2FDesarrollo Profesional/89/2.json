@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Noticias decepcionantes",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Una iniciativa nueva que fue empezada por ti y algunos otros compañeros fue rechazada por tu jefe. Tu tienes que contarles la noticia a tus compañeros, y cuando les dices, no dicen nada. Probablemente están... "
+        },
+        {
+            "type": "Entry",
+            "name": "Noticias decepcionantes_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ]
+}

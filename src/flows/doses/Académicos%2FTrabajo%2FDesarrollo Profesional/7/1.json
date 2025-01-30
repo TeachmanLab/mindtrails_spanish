@@ -1,0 +1,14 @@
+{
+    "name": "Mostrar tu experiencia5",
+    "title": "Mostrar tu experiencia",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Mostrar tu experiencia"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Mostrar_tu_experiencia.jpg"
+        }
+    ]
+}

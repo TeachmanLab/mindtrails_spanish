@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Entrando a una discoteca",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Las luces y los sonidos del club te hacen sentir..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Entrando a una discoteca_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Emocionado y animado.",
+                "Desorientado y asustado."
+            ],
+            "columnCount": 1,
+            "answer": "Emocionado y animado."
+        }
+    ]
+}

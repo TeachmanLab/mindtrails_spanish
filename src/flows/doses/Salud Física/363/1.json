@@ -1,0 +1,14 @@
+{
+    "name": "Conocido sin mascarilla398",
+    "title": "Conocido sin mascarilla",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Conocido sin mascarilla"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Conocido_sin_mascarilla.jpg"
+        }
+    ]
+}

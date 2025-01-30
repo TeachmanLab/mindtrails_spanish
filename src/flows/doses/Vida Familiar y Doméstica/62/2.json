@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Noticias decepcionantes",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Una iniciativa nueva que fue empezada por ti y algunos otros compañeros fue rechazada por tu jefe. Tu tienes que contarles la noticia a tus compañeros, y cuando les dices, no dicen nada. Probablemente están... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Noticias decepcionantes_Vida Familiar y Doméstica_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "decepcionados"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

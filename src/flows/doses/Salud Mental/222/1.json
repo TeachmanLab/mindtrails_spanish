@@ -1,0 +1,14 @@
+{
+    "name": "Nuevo atuendo247",
+    "title": "Nuevo atuendo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Nuevo atuendo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Nuevo_atuendo.jpg"
+        }
+    ]
+}

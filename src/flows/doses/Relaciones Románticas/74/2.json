@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Nueva pareja",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "El cumpleaños de una prima el mes que viene y vas a ir a una gran reunión familiar. Vas a traer a tu pareja al evento y será su primera vez conociendo a tu familia. Cuando piensas en que todos se conocerán, piensas que todo irá..."
+        },
+        {
+            "type": "Entry",
+            "name": "Nueva pareja_Relaciones Románticas_entry1"
+        }
+    ]
+}

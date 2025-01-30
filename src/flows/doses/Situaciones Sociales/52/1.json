@@ -1,0 +1,14 @@
+{
+    "name": "Una salida organizada46",
+    "title": "Una salida organizada",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Una salida organizada"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Una_salida_organizada.jpg"
+        }
+    ]
+}

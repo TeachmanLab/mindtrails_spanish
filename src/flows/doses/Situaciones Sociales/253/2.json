@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Tu mejor amigo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tú y tu mejor amigo se han conocido por muchos años. Ahora trabajan en profesiones diferentes y tienen intereses distintos, y te preocupa que no se relacionarán a medida que..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Tu mejor amigo_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "envejecen"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Bromistas162",
+    "title": "Bromistas",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Bromistas"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Bromistas.jpg"
+        }
+    ]
+}

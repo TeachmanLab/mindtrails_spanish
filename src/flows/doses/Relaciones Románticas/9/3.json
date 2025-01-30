@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Cita con alguien nuevo",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "¿Tu cita encontró interesante lo que hablaron en la última conversación?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Cita con alguien nuevo_Relaciones Románticas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "columnCount": 1,
+            "answer": "Si"
+        }
+    ]
+}

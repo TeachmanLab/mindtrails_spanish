@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Presentación de recaudación de fondos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te ponen a cargo de los esfuerzos de recaudación de fondos de tu oficina y rápidamente te das cuenta de que a tus compañeros de trabajo no les interesa mucho la recaudación de fondos. En una reunión, das una presentación sobre la importancia de ayudar con la recaudación de fondos, durante la cual tus compañeros de trabajo permanecen callados. Cuando te sientas después de tu presentación, piensas que parecían..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Presentación de recaudación de fondos_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "emocionados"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

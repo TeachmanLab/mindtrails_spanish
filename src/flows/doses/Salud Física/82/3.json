@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Problemas de visión",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Respiras y te das cuenta de que tu visión completamente. Luego, recuerdas que a veces esto pasa cuando te sientas demasiado... "
+        },
+        {
+            "type": "Entry",
+            "name": "Problemas de visión_Salud Física_entry2"
+        }
+    ]
+}

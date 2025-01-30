@@ -1,0 +1,14 @@
+{
+    "name": "Desacuerdos con tu hermana57",
+    "title": "Desacuerdos con tu hermana",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Desacuerdos con tu hermana"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Desacuerdos_con_tu_hermana.jpg"
+        }
+    ]
+}

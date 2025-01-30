@@ -1,0 +1,14 @@
+{
+    "name": "Faltando una reunión289",
+    "title": "Faltando una reunión",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Faltando una reunión"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Faltando_una_reunión.jpg"
+        }
+    ]
+}

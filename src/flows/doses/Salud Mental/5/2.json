@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Lunes por la mañana",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Es lunes por la mañana y estás apurado para llegar al trabajo. Sientes que tu corazón se acelera cuando abres la puerta del carro y te sientas. Temiendo que puedas sufrir un ataque de pánico, sientes una necesidad de salir del carro, pero decides observar estas sensaciones sin reaccionar y quedarte..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Lunes por la mañana_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "sentado"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

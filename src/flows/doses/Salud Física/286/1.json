@@ -1,0 +1,14 @@
+{
+    "name": "El malestar de estómago303",
+    "title": "El malestar de estómago",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "El malestar de estómago"
+        },
+        {
+            "type": "Media",
+            "file": "/images/El_malestar_de_estómago.jpg"
+        }
+    ]
+}

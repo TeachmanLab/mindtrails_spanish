@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Tomándo el autobús",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sientes una necesidad de bajarte del bús y regresar a casa, pero te sientas en el asiento más cercano. En lugar de salir, decides observar estas sensaciones y quedarte..."
+        },
+        {
+            "type": "Entry",
+            "name": "Tomándo el autobús_Salud Física_entry2"
+        }
+    ]
+}

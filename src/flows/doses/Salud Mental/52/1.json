@@ -1,0 +1,14 @@
+{
+    "name": "Cancelar con amigos46",
+    "title": "Cancelar con amigos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cancelar con amigos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Cancelar_con_amigos.jpg"
+        }
+    ]
+}

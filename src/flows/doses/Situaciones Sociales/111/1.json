@@ -1,0 +1,14 @@
+{
+    "name": "Esperando una respuesta123",
+    "title": "Esperando una respuesta",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Esperando una respuesta"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Esperando_una_respuesta.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Manejando el estrés241",
+    "title": "Manejando el estrés",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Manejando el estrés"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Manejando_el_estrés.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Primera vez pantinaje sobre hielo250",
+    "title": "Primera vez pantinaje sobre hielo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Primera vez pantinaje sobre hielo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Primera_vez_pantinaje_sobre_hielo.jpg"
+        }
+    ]
+}

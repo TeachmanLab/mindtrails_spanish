@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Explorando una cueva estrecha",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Has decidido hacer un recorrido por una cueva, a pesar de que te sientes nervioso por estar en un espacio tan cerrado. A medida que te adentras en la primera cueva, crees que las posibilidades de quedar atrapado son..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Explorando una cueva estrecha_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "pequeñas"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

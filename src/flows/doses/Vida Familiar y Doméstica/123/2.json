@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "La música ruidosa",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu pareja está actualmente escuchando música animada muy fuerte y necesitas prepararte para una tarea importante. No quieres que piensen que eres grosero si les pides que bajen el volumen de la música para que puedas prepararte. Te acercas a ellos y te sientes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "La música ruidosa_Vida Familiar y Doméstica_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "nervioso"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Saliendo en ropa de día140",
+    "title": "Saliendo en ropa de día",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Saliendo en ropa de día"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Saliendo_en_ropa_de_día.jpg"
+        }
+    ]
+}

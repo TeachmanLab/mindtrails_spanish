@@ -1,0 +1,14 @@
+{
+    "name": "Demasiada atención404",
+    "title": "Demasiada atención",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Demasiada atención"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Demasiada_atención.jpg"
+        }
+    ]
+}

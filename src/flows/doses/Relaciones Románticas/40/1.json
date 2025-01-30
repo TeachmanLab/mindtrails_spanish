@@ -1,0 +1,14 @@
+{
+    "name": "La familia no aprueba a su pareja35",
+    "title": "La familia no aprueba a su pareja",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "La familia no aprueba a su pareja"
+        },
+        {
+            "type": "Media",
+            "file": "/images/La_familia_no_aprueba_a_su_pareja.jpg"
+        }
+    ]
+}

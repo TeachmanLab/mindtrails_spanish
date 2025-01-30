@@ -1,0 +1,14 @@
+{
+    "name": "Ver a otros salir172",
+    "title": "Ver a otros salir",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ver a otros salir"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Ver_a_otros_salir.jpg"
+        }
+    ]
+}

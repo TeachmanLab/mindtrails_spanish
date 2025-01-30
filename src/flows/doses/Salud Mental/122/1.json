@@ -1,0 +1,14 @@
+{
+    "name": "Sentirse entumecido133",
+    "title": "Sentirse entumecido",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sentirse entumecido"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Sentirse_entumecido.jpg"
+        }
+    ]
+}

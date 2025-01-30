@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Regalos de días festivos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Se acerca un día festivo que tu familia celebra. Quieres comprar regalos para todos, pero no está al su alcansa. Decides comprar un regalo para que tu familia comparta, y piensas que será..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Regalos de días festivos_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "apreciado"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

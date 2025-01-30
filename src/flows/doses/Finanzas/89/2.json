@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Costear los gastos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu alquiler se acerca pronto. Normalmente tienes tu alquiler presupuestado, pero algunos gastos inesperados te han dejado un poco corto y tienes que tomar algunos turnos extra en el... "
+        },
+        {
+            "type": "Entry",
+            "name": "Costear los gastos_Finanzas_entry1"
+        }
+    ]
+}

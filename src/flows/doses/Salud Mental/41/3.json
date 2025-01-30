@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Trabajando para salir adelante",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "El future que te ves para ti mismo es..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Trabajando para salir adelante_Salud Mental_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Estar en el puesto por debajo de la que siempre has soñado.",
+                "Tener el puesto que siempre has querido en la oficina que admiras."
+            ],
+            "columnCount": 1,
+            "answer": "Estar en el puesto por debajo de la que siempre has soñado."
+        }
+    ]
+}

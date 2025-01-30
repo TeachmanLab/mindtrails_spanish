@@ -1,0 +1,14 @@
+{
+    "name": "Chistes con Amigos329",
+    "title": "Chistes con Amigos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Chistes con Amigos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Chistes_con_Amigos.jpg"
+        }
+    ]
+}

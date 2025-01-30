@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "El torneo de fútbol",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Después de no jugar por un tiempo, te uníste a un equipo de futbol recreativo. Hay un torneo al final de la... "
+        },
+        {
+            "type": "Entry",
+            "name": "El torneo de fútbol_Situaciones Sociales_entry1"
+        }
+    ]
+}

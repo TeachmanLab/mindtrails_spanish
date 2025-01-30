@@ -1,0 +1,14 @@
+{
+    "name": "Buscando una casa145",
+    "title": "Buscando una casa",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Buscando una casa"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Buscando_una_casa.jpg"
+        }
+    ]
+}

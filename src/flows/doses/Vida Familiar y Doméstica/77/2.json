@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Salud y envejecimiento",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Visitas a un amigo de la infancia durante las vacaciones y notas que está envejeciendo. Te preguntas cómo será su salud en el futuro. Cree que su salud probablemente será..."
+        },
+        {
+            "type": "Entry",
+            "name": "Salud y envejecimiento_Vida Familiar y Doméstica_entry1"
+        }
+    ]
+}

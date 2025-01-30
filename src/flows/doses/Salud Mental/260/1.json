@@ -1,0 +1,14 @@
+{
+    "name": "Enfrentando a un amigo281",
+    "title": "Enfrentando a un amigo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Enfrentando a un amigo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Enfrentando_a_un_amigo.jpg"
+        }
+    ]
+}

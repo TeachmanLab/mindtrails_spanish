@@ -1,0 +1,14 @@
+{
+    "name": "Ponerse ahí fuera52",
+    "title": "Ponerse ahí fuera",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ponerse ahí fuera"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Ponerse_ahí_fuera.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Reunión uno a uno16",
+    "title": "Reunión uno a uno",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Reunión uno a uno"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Reunión_uno_a_uno.jpg"
+        }
+    ]
+}

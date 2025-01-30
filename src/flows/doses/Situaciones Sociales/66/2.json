@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Un país extranjero",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te vas de paseo a una ciudad nueva por la primera vez. Mientras estás allí, todo se siente nuevo y extraño. Crees que esto es... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Un país extranjero_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "increíble"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

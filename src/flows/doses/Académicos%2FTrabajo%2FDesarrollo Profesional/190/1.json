@@ -1,0 +1,14 @@
+{
+    "name": "Un tropiezo repentino194",
+    "title": "Un tropiezo repentino",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Un tropiezo repentino"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Un_tropiezo_repentino.jpg"
+        }
+    ]
+}

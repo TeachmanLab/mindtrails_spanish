@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Sintiéndote enfermo en un día caluroso",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Respondes a la sensación en tu estómago..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Sintiéndote enfermo en un día caluroso_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Observando las sensaciones sin hacer nada.",
+                "Entrando en pánico por las sensaciones y llamando a una ambulancia."
+            ],
+            "columnCount": 1,
+            "answer": "Observando las sensaciones sin hacer nada."
+        }
+    ]
+}

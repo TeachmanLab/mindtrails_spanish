@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Por primera vez",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¡Te han invitado a salir en una cita por primera vez en mucho tiempo! Te sientes nervioso por esta experiencia un tanto nueva y temes hacer algo embarazoso. Cuando piensas en la cita, te sientes..."
+        },
+        {
+            "type": "Entry",
+            "name": "Por primera vez_Relaciones Románticas_entry1"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Prepararse para una cita",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tus amigos te han organizado una cita y te estás preparando. Cuanto más te acerques a irte, más te preguntas si te ves bien y si la persona que estás conociendo se sentirá atraída a ti. Recuerdas que una persona no dictará tu... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Prepararse para una cita_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "valor"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

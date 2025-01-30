@@ -1,0 +1,14 @@
+{
+    "name": "Nueva ciudad, nuevos amigos25",
+    "title": "Nueva ciudad, nuevos amigos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Nueva ciudad, nuevos amigos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Nueva_ciudad,_nuevos_amigos.jpg"
+        }
+    ]
+}

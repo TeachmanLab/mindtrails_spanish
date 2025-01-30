@@ -1,0 +1,14 @@
+{
+    "name": "Comprando ropa nueva168",
+    "title": "Comprando ropa nueva",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comprando ropa nueva"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Comprando_ropa_nueva.jpg"
+        }
+    ]
+}

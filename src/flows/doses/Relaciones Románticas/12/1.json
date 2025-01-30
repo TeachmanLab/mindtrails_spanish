@@ -1,0 +1,14 @@
+{
+    "name": "Año ocupado10",
+    "title": "Año ocupado",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Año ocupado"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Año_ocupado.jpg"
+        }
+    ]
+}

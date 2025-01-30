@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Día especial",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tienes planeada una cena con alguien con quien querías pasar un tiempo. El día de la cena, te sientes un poco nervioso y te preguntas si les agradarás tanto como a ti. Sentirse nervioso es..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Día especial_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "normal"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

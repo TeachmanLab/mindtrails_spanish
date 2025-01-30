@@ -1,0 +1,14 @@
+{
+    "name": "Pidiendo dinero188",
+    "title": "Pidiendo dinero",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Pidiendo dinero"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Pidiendo_dinero.jpg"
+        }
+    ]
+}

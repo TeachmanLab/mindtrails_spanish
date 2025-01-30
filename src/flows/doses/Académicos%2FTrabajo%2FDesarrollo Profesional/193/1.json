@@ -1,0 +1,14 @@
+{
+    "name": "Limitaciones futuras197",
+    "title": "Limitaciones futuras",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Limitaciones futuras"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Limitaciones_futuras.jpg"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Breve introducción",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás en un taller, y el líder pide a todos los asistentes que se levanten y se presenten. Durante tu breve presentación, olvidas momentáneamente lo que planeaste decir, y la audiencia te mira con..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Breve introducción_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "molestia"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

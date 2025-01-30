@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Experiencias pasadas",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu última relación no terminó muy bien. Estás entrando en una nueva relación, pero todavía estás lidiando con los sentimientos de tu relación pasada. Crees que puedes llegar a un compromiso... "
+        },
+        {
+            "type": "Entry",
+            "name": "Experiencias pasadas_Relaciones Románticas_entry1"
+        }
+    ]
+}

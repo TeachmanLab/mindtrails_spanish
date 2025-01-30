@@ -1,0 +1,14 @@
+{
+    "name": "Día especial398",
+    "title": "Día especial",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Día especial"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Día_especial.jpg"
+        }
+    ]
+}

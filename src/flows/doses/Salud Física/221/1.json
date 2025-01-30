@@ -1,0 +1,14 @@
+{
+    "name": "Sensaciones de dormir246",
+    "title": "Sensaciones de dormir",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sensaciones de dormir"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Sensaciones_de_dormir.jpg"
+        }
+    ]
+}

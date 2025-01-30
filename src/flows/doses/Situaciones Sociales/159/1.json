@@ -1,0 +1,14 @@
+{
+    "name": "Tomando notas166",
+    "title": "Tomando notas",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tomando notas"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Tomando_notas.jpg"
+        }
+    ]
+}

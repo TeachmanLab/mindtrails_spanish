@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Amigos del club de lectura",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recientemente te uniste a un club de lectura local y crees que los demás miembros son geniales. Te gustaría salir más a menudo, pero te preocupa si querrán ser amigos fuera del club de lectura. Consideras invitarlos a cenar y crees que pensarán que eres..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Amigos del club de lectura_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "aburrido"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

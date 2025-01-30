@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Opinión importante",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Terminas una tarea que tienes que entregar la próxima semana para le pides la opinión a tu jefe. Te dicen que el trabajo está bien, excepto por una sección incompleta. Sientes que piensan que eres..."
+        },
+        {
+            "type": "Entry",
+            "name": "Opinión importante_Situaciones Sociales_entry1"
+        }
+    ]
+}

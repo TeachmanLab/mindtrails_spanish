@@ -1,0 +1,14 @@
+{
+    "name": "Comunicación tardía78",
+    "title": "Comunicación tardía",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comunicación tardía"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Comunicación_tardía.jpg"
+        }
+    ]
+}

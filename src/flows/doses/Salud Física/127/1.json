@@ -1,0 +1,14 @@
+{
+    "name": "Exposure Guilt138",
+    "title": "Exposure Guilt",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Exposure Guilt"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Exposure_Guilt.jpg"
+        }
+    ]
+}

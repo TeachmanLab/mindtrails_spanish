@@ -1,0 +1,14 @@
+{
+    "name": "Recogiendo a un viejo amigo76",
+    "title": "Recogiendo a un viejo amigo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Recogiendo a un viejo amigo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Recogiendo_a_un_viejo_amigo.jpg"
+        }
+    ]
+}

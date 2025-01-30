@@ -1,0 +1,14 @@
+{
+    "name": "Medicina asequible182",
+    "title": "Medicina asequible",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Medicina asequible"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Medicina_asequible.jpg"
+        }
+    ]
+}

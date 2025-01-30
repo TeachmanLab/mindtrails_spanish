@@ -1,0 +1,14 @@
+{
+    "name": "Equilibrar la vida familiar y los amigos46",
+    "title": "Equilibrar la vida familiar y los amigos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Equilibrar la vida familiar y los amigos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Equilibrar_la_vida_familiar_y_los_amigos.jpg"
+        }
+    ]
+}

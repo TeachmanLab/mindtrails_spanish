@@ -1,0 +1,14 @@
+{
+    "name": "Nuevo seguidor atractivo29",
+    "title": "Nuevo seguidor atractivo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Nuevo seguidor atractivo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Nuevo_seguidor_atractivo.jpg"
+        }
+    ]
+}

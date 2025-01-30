@@ -1,0 +1,14 @@
+{
+    "name": "Estrés en tu relación56",
+    "title": "Estrés en tu relación",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Estrés en tu relación"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Estrés_en_tu_relación.jpg"
+        }
+    ]
+}

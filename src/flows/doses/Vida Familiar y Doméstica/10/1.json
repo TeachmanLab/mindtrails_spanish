@@ -1,0 +1,14 @@
+{
+    "name": "Quedarse sin batería8",
+    "title": "Quedarse sin batería",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Quedarse sin batería"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Quedarse_sin_batería.jpg"
+        }
+    ]
+}

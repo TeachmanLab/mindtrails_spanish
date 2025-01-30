@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Un pastel de cumpleaños",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu amigo te compra un pastel para tu cumpleaños. Cuando lo traen por la noche, notan que recientemente han pasado de estar enfermos. Sosteniendo el paste, piensas que tus posibilidades de enfermarse son... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Un pastel de cumpleaños_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "mínimas"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

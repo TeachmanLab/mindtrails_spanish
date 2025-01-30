@@ -1,0 +1,14 @@
+{
+    "name": "Un estilo diferente142",
+    "title": "Un estilo diferente",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Un estilo diferente"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Un_estilo_diferente.jpg"
+        }
+    ]
+}

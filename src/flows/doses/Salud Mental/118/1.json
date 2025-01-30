@@ -1,0 +1,14 @@
+{
+    "name": "Saliendo de noche130",
+    "title": "Saliendo de noche",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Saliendo de noche"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Saliendo_de_noche.jpg"
+        }
+    ]
+}

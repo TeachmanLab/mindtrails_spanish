@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Entrega Responsable",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Uno de tus amigos cercanos sale positivo en la prueba de COVID y te pide que le lleves comida. No quieres exponerte estando cerca de su hogar, pero también quieres ayudar. Encuentras una manera de entregar la comida y mantener tu..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Entrega Responsable_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "distancia"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

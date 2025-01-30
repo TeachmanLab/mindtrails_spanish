@@ -1,0 +1,14 @@
+{
+    "name": "Tajada de fruta2",
+    "title": "Tajada de fruta",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tajada de fruta"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Tajada_de_fruta.jpg"
+        }
+    ]
+}

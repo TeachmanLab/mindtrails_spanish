@@ -1,0 +1,14 @@
+{
+    "name": "Reloj favorito10",
+    "title": "Reloj favorito",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Reloj favorito"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Reloj_favorito.jpg"
+        }
+    ]
+}

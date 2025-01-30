@@ -1,0 +1,14 @@
+{
+    "name": "Silencio en un viaje en coche258",
+    "title": "Silencio en un viaje en coche",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Silencio en un viaje en coche"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Silencio_en_un_viaje_en_coche.jpg"
+        }
+    ]
+}

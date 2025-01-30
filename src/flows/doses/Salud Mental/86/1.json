@@ -1,0 +1,14 @@
+{
+    "name": "Probando comidas nuevas76",
+    "title": "Probando comidas nuevas",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Probando comidas nuevas"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Probando_comidas_nuevas.jpg"
+        }
+    ]
+}

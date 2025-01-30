@@ -1,0 +1,14 @@
+{
+    "name": "Recuerdo conduciendo15",
+    "title": "Recuerdo conduciendo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Recuerdo conduciendo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Recuerdo_conduciendo.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Recibir reconocimiento165",
+    "title": "Recibir reconocimiento",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Recibir reconocimiento"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Recibir_reconocimiento.jpg"
+        }
+    ]
+}

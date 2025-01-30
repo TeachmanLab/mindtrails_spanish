@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Un panel de entrevista",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Después de la entrevista, te das cuenta de que es normal estar nervioso durante entrevistas con paneles. Es probable que los miembros del panel te hayan percibido como bastante calmado y..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Un panel de entrevista_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "entusiasta"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

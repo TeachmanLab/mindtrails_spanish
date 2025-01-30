@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Vaso de agua",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mientras estás en una cita, accidentalmente derramas un vaso de agua. Te sientes ligeramente avergonzado mientras tu cita te ayuda a limpiar el agua. Cuando todo está seco, sientes que el resto de la cita probablemente será..."
+        },
+        {
+            "type": "Entry",
+            "name": "Vaso de agua_Salud Mental_entry1"
+        }
+    ]
+}

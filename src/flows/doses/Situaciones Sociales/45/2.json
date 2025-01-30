@@ -1,0 +1,14 @@
+{
+    "name": "Comparaciones de redes sociales40",
+    "title": "Comparaciones de redes sociales",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comparaciones de redes sociales"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Comparaciones_de_redes_sociales.jpg"
+        }
+    ]
+}

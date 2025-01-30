@@ -1,0 +1,14 @@
+{
+    "name": "Pagando hacia adelante170",
+    "title": "Pagando hacia adelante",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Pagando hacia adelante"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Pagando_hacia_adelante.jpg"
+        }
+    ]
+}

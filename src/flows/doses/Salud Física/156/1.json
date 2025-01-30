@@ -1,0 +1,14 @@
+{
+    "name": "Salud y envejecimiento163",
+    "title": "Salud y envejecimiento",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Salud y envejecimiento"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Salud_y_envejecimiento.jpg"
+        }
+    ]
+}

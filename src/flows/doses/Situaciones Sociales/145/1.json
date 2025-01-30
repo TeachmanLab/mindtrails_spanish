@@ -1,0 +1,14 @@
+{
+    "name": "Conociendo nuevos amigos153",
+    "title": "Conociendo nuevos amigos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Conociendo nuevos amigos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Conociendo_nuevos_amigos.jpg"
+        }
+    ]
+}

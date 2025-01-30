@@ -1,0 +1,14 @@
+{
+    "name": "Comprometerse con las actividades185",
+    "title": "Comprometerse con las actividades",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comprometerse con las actividades"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Comprometerse_con_las_actividades.jpg"
+        }
+    ]
+}

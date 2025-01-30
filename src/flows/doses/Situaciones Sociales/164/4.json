@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "en un barco",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Temporal y nada de lo que debas preocuparte."
+        },
+        {
+            "type": "Buttons",
+            "name": "en un barco_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Algo que deberías preocuparte.",
+                ""
+            ],
+            "columnCount": 1,
+            "answer": "Algo que deberías preocuparte."
+        }
+    ]
+}

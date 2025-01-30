@@ -1,0 +1,14 @@
+{
+    "title": "¡Escribe El Tuyo!",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Razón 5:"
+        },
+        {
+            "type": "Entry",
+            "name": "Razón5_WYO"
+        }
+    ],
+    "name": "Write Your Own"
+}

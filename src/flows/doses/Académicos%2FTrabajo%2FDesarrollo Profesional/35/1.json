@@ -1,0 +1,14 @@
+{
+    "name": "Equilibrio de trabajo y amistades31",
+    "title": "Equilibrio de trabajo y amistades",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Equilibrio de trabajo y amistades"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Equilibrio_de_trabajo_y_amistades.jpg"
+        }
+    ]
+}

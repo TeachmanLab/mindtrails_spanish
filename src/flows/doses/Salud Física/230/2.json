@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "El malestar de estómago",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te has estado sintiendo mal del estómago durante unos días. Tú haces una cita con su médico. Las náuseas probablemente significan que usted está..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "El malestar de estómago_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "enfermo"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

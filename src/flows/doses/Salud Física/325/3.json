@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Subiendo una montaña",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Llegas a la cima de las montañas y tus amigos están tomando fotos. Aunque estás ansioso, miras alrededor y..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Subiendo una montaña_Salud Física_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "sonríes"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

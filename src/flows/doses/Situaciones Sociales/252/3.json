@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Recuerdo conduciendo",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Cuando te sientes desorientado, es útil..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Recuerdo conduciendo_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Simplemente observar y aceptar los sentimientos.",
+                "Ponerte ansioso por sentirte desorientado."
+            ],
+            "columnCount": 1,
+            "answer": "Simplemente observar y aceptar los sentimientos."
+        }
+    ]
+}

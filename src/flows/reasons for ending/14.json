@@ -1,0 +1,22 @@
+{
+    "title": "Razones para terminar",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Qué tan agotadoras te parecieron las evaluaciones?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "De nada",
+                "Levemente",
+                "Un poco",
+                "Principalmente",
+                "Muy",
+                "^Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "tiring_assessments"
+        }
+    ]
+}

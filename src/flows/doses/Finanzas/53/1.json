@@ -1,0 +1,14 @@
+{
+    "name": "Decidiendo algo47",
+    "title": "Decidiendo algo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Decidiendo algo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Decidiendo_algo.jpg"
+        }
+    ]
+}

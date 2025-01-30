@@ -1,0 +1,14 @@
+{
+    "name": "Sentado en una reunión90",
+    "title": "Sentado en una reunión",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sentado en una reunión"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Sentado_en_una_reunión.jpg"
+        }
+    ]
+}

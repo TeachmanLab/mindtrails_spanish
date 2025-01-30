@@ -1,0 +1,14 @@
+{
+    "name": "Pasando tiempo con amigos156",
+    "title": "Pasando tiempo con amigos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Pasando tiempo con amigos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Pasando_tiempo_con_amigos.jpg"
+        }
+    ]
+}

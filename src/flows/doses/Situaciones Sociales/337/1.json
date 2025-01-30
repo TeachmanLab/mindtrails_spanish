@@ -1,0 +1,14 @@
+{
+    "name": "Fotos en redes sociales374",
+    "title": "Fotos en redes sociales",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Fotos en redes sociales"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Fotos_en_redes_sociales.jpg"
+        }
+    ]
+}

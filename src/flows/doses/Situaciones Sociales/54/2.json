@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Sin planes para el fin de semana",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Es sábado y no tienes planes para el día. Te das cuenta de que no has visto a tus amigos en mucho tiempo y te preguntas si se están distanciando de ti. Crees que es posible que se hayan olvidado de..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Sin planes para el fin de semana_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "ti"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

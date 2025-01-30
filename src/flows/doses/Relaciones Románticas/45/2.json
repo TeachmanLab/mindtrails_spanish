@@ -1,0 +1,14 @@
+{
+    "name": "Discute con tu pareja40",
+    "title": "Discute con tu pareja",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Discute con tu pareja"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Discute_con_tu_pareja.jpg"
+        }
+    ]
+}

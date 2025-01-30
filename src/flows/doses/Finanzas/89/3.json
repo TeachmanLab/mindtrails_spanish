@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Costear los gastos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Pensando en tu capacidad para hacer el pago, no esperas atrasarte en el pago del alquiler y tus fondos serán... "
+        },
+        {
+            "type": "Entry",
+            "name": "Costear los gastos_Finanzas_entry2"
+        }
+    ]
+}

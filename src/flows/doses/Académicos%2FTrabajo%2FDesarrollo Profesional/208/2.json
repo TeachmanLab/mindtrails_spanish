@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Reunión uno a uno",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Hoy tienes una reunión individual con tu intimidante jefe, lo que te pone nervioso. Durante la reunión, pierdes momentáneamente el hilo de tus pensamientos. Después de eso, tu ansiedad es..."
+        },
+        {
+            "type": "Entry",
+            "name": "Reunión uno a uno_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ]
+}

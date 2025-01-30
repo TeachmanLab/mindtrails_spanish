@@ -1,0 +1,14 @@
+{
+    "name": "Recuperando el aliento330",
+    "title": "Recuperando el aliento",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Recuperando el aliento"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Recuperando_el_aliento.jpg"
+        }
+    ]
+}

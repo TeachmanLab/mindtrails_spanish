@@ -1,0 +1,14 @@
+{
+    "name": "Prueba positiva407",
+    "title": "Prueba positiva",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Prueba positiva"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Prueba_positiva.jpg"
+        }
+    ]
+}

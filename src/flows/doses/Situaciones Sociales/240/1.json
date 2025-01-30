@@ -1,0 +1,14 @@
+{
+    "name": "Reunión de mañana262",
+    "title": "Reunión de mañana",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Reunión de mañana"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Reunión_de_mañana.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Conflictos de convivencia",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Después de hablarlo más, tu pareja se calma y escucha tu punto de vista. La conversación resulta ser productiva, y esperas comunicarte más en el futuro sobre los..."
+        },
+        {
+            "type": "Entry",
+            "name": "Conflictos de convivencia_Situaciones Sociales_entry2"
+        }
+    ]
+}

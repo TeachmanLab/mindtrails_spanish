@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Errores tipográficos problemáticos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Acabas de enviar un correo electrónico importante. Al releer lo que envaste, ves un error tipográfico en la primera oración. Crees que deberías..."
+        },
+        {
+            "type": "Entry",
+            "name": "Errores tipográficos problemáticos_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Cita con el doctor168",
+    "title": "Cita con el doctor",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cita con el doctor"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Cita_con_el_doctor.jpg"
+        }
+    ]
+}

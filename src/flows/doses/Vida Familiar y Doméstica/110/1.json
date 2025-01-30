@@ -1,0 +1,14 @@
+{
+    "name": "Haciendo una buena impresión122",
+    "title": "Haciendo una buena impresión",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Haciendo una buena impresión"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Haciendo_una_buena_impresión.jpg"
+        }
+    ]
+}

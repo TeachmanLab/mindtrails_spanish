@@ -1,0 +1,14 @@
+{
+    "name": "Sintiéndote excluido por amigos39",
+    "title": "Sintiéndote excluido por amigos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sintiéndote excluido por amigos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Sintiéndote_excluido_por_amigos.jpg"
+        }
+    ]
+}

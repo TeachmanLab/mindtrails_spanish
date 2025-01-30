@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Mensajes en redes sociales",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Uno de tus amigos ha comenzado a enviarte imágenes chistosos por redes sociales. Hoy notas que abrieron tu última imagen y no respondieron. Deben haberse..."
+        },
+        {
+            "type": "Entry",
+            "name": "Mensajes en redes sociales_Relaciones Románticas_entry1"
+        }
+    ]
+}

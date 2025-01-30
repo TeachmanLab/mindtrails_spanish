@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "relación a distancia",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Puedes ver a tu pareja diciendo:"
+        },
+        {
+            "type": "Buttons",
+            "name": "relación a distancia_Relaciones Románticas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "\"No creo que esto esté funcionanado.\"",
+                "\"Estoy muy contento de que podamos hacer esto juntos.\""
+            ],
+            "columnCount": 1,
+            "answer": "\"No creo que esto esté funcionanado.\""
+        }
+    ]
+}

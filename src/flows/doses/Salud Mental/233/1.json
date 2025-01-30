@@ -1,0 +1,14 @@
+{
+    "name": "Temprano en la mañana256",
+    "title": "Temprano en la mañana",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Temprano en la mañana"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Temprano_en_la_mañana.jpg"
+        }
+    ]
+}

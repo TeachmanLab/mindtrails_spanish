@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Financiar buenos hábitos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recientemente, adquiriste un nuevo pasatiempo en un esfuerzo por mejorar el equilibrio entre el trabajo y la vida personal y, hasta ahora, lo está disfrutando mucho. Sin embargo, este nuevo pasatiempo requiere que compres materiales en la tienda y los gastos pueden acumularse rápidamente. Decides investigar un poco en línea y te das cuenta de que muchos lugares venden los materiales que necesitas con..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Financiar buenos hábitos_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "descuento"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

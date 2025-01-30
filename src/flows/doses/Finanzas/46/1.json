@@ -1,0 +1,14 @@
+{
+    "name": "Costos inesperados41",
+    "title": "Costos inesperados",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Costos inesperados"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Costos_inesperados.jpg"
+        }
+    ]
+}

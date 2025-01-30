@@ -1,0 +1,14 @@
+{
+    "name": "Comportamiento de riesgo44",
+    "title": "Comportamiento de riesgo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comportamiento de riesgo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Comportamiento_de_riesgo.jpg"
+        }
+    ]
+}

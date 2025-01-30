@@ -1,0 +1,14 @@
+{
+    "name": "No sentirte preparado123",
+    "title": "No sentirte preparado",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "No sentirte preparado"
+        },
+        {
+            "type": "Media",
+            "file": "/images/No_sentirte_preparado.jpg"
+        }
+    ]
+}

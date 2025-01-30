@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Estar de más",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Dos de tus mejores amigos están casados. Aunque disfrutas pasar tiempo con ellos, no puedes evitar sentirte como si estuvieras de más. Te das cuenta de que pasan tiempo contigo porque ambos piensan que eres..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Estar de más_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "agradable"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

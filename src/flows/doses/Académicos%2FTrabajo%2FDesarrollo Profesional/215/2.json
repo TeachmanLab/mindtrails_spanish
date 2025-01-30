@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Obtener una oportunidad",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Ha enviado una solicitud para un trabajo que esperaba conseguir. Esperas conseguir una entrevista para el trabajo después de que revisen tu solicitud, pero sabes que es muy..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Obtener una oportunidad_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "competitiva"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

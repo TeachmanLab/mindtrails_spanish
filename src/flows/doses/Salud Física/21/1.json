@@ -1,0 +1,14 @@
+{
+    "name": "Clase de ejercicio con un amigo18",
+    "title": "Clase de ejercicio con un amigo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Clase de ejercicio con un amigo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Clase_de_ejercicio_con_un_amigo.jpg"
+        }
+    ]
+}

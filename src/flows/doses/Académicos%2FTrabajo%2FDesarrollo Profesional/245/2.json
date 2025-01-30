@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Una llamada crucial",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Hoy recibirás una llamada importante. Te dirán si recibiste el trabajo para el que entrevistaste. Mientras piensas en esperar la llamada, tu ansiedad es..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Una llamada crucial_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "tolerable"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "title": "Escala de estrés",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "En el último mes, ¿con qué frecuencia se ha sentido seguro de su capacidad para manejar sus problemas personales?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Nunca",
+                "Casi nunca",
+                "A veces",
+                "Bastante a menudo",
+                "Muy a menudo",
+                "^Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "PSS-4_confident"
+        }
+    ]
+}

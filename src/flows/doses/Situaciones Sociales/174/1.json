@@ -1,0 +1,14 @@
+{
+    "name": "Un saludo de bienvenida180",
+    "title": "Un saludo de bienvenida",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Un saludo de bienvenida"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Un_saludo_de_bienvenida.jpg"
+        }
+    ]
+}

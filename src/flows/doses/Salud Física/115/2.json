@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Dando positivo en una prueba de enfermedad",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Unos días despues de ir a un cumpleaños con mucha gente, notas que te duele la garganta. Te haces una prueba de una enfermedad seria y sale positiva. Has tenido mucho cuidado debido a tus condiciones de salud subyacentes. Piensas en cómo afectará tu salúd y crees que podrás manejar los desafíos a medida que se..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Dando positivo en una prueba de enfermedad_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "presenten"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

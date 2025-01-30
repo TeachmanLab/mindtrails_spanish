@@ -1,0 +1,14 @@
+{
+    "name": "Enseñando a otros45",
+    "title": "Enseñando a otros",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Enseñando a otros"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Enseñando_a_otros.jpg"
+        }
+    ]
+}

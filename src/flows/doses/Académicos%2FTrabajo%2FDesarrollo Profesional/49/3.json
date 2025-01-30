@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Dando la mano",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te das cuenta de que tus compañeros están más interesados en tu presentación que en tus manos. Continúas con tu presentación y con tiempo te das cuenta de que tus nervios son..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Dando la mano_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "manejables"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

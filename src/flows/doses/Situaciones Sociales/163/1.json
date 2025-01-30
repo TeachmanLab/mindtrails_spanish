@@ -1,0 +1,14 @@
+{
+    "name": "Prestando de un amigo170",
+    "title": "Prestando de un amigo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Prestando de un amigo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Prestando_de_un_amigo.jpg"
+        }
+    ]
+}

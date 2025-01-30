@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Problemas con los amigos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu pareja te dice que tienen problemas con algunos de tus amigos. También has estado notando esto, pero no quieres hacer que nadie se moleste. Cuando piensas en discutir los temas con tus amigos, crees que la conversación irá... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Problemas con los amigos_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "bien"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

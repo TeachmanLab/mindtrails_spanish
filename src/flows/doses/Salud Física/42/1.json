@@ -1,0 +1,14 @@
+{
+    "name": "Cómodo sofá37",
+    "title": "Cómodo sofá",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cómodo sofá"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Cómodo_sofá.jpg"
+        }
+    ]
+}

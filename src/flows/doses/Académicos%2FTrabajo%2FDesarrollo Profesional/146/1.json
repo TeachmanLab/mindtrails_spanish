@@ -1,0 +1,14 @@
+{
+    "name": "Proyecto de escritura154",
+    "title": "Proyecto de escritura",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Proyecto de escritura"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Proyecto_de_escritura.jpg"
+        }
+    ]
+}

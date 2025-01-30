@@ -1,0 +1,14 @@
+{
+    "name": "Costos de la sesión175",
+    "title": "Costos de la sesión",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Costos de la sesión"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Costos_de_la_sesión.jpg"
+        }
+    ]
+}

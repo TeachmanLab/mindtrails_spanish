@@ -1,0 +1,14 @@
+{
+    "name": "Un vuelo internacional308",
+    "title": "Un vuelo internacional",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Un vuelo internacional"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Un_vuelo_internacional.jpg"
+        }
+    ]
+}

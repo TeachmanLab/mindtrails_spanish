@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Salud y envejecimiento",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Visitas a un amigo de la infancia durante las vacaciones y notas que está envejeciendo. Te preguntas cómo será su salud en el futuro. Cree que su salud probablemente estará..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Salud y envejecimiento_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "empeorando"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

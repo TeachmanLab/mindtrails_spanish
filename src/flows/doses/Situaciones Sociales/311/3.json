@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Una discusión acalorada",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mientras limpias después, te das cuenta de que a pesar de haber sido acalorado, el debate entre tus invitados fue respetuoso y refrescante. Probablemente la fiesta les pareció..."
+        },
+        {
+            "type": "Entry",
+            "name": "Una discusión acalorada_Situaciones Sociales_entry2"
+        }
+    ]
+}

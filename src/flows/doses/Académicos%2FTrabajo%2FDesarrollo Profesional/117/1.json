@@ -1,0 +1,14 @@
+{
+    "name": "Finalización rápida de tareas129",
+    "title": "Finalización rápida de tareas",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Finalización rápida de tareas"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Finalización_rápida_de_tareas.jpg"
+        }
+    ]
+}

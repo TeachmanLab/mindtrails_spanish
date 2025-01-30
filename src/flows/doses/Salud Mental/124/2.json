@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Trabajo inacabado",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tuviste un día muy ocupado y no pudiste realizar todas sus tareas. En la cena, tu pareja habla orgullosamente de cómo terminó todo lo que tenía en la lista de tareas pendientes. Al pensar en si podrás completar tu trabajo mañana, te sientes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Trabajo inacabado_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "seguro"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

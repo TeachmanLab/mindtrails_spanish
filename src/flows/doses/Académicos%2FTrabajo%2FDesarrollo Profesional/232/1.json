@@ -1,0 +1,14 @@
+{
+    "name": "Resultados de la evaluación255",
+    "title": "Resultados de la evaluación",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Resultados de la evaluación"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Resultados_de_la_evaluación.jpg"
+        }
+    ]
+}

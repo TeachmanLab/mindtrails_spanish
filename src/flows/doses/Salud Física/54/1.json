@@ -1,0 +1,14 @@
+{
+    "name": "Asustado en tu caminata48",
+    "title": "Asustado en tu caminata",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Asustado en tu caminata"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Asustado_en_tu_caminata.jpg"
+        }
+    ]
+}

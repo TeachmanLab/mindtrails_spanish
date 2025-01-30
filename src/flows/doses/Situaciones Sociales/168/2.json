@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Mascarillas para invitados",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu pareja invita a algunos amigos a pasar la noche, y ambos estuvieron de acuerdo en que todos usarían máscaras. Cuando sus amigos llegan, no tienen máscaras y tu pareja no les dice nada. Apartas a tu pareja a un lado y le pides que hable con sus... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Mascarillas para invitados_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "amigos"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

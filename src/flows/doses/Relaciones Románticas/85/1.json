@@ -1,0 +1,14 @@
+{
+    "name": "Escuchando un desacuerdo75",
+    "title": "Escuchando un desacuerdo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Escuchando un desacuerdo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Escuchando_un_desacuerdo.jpg"
+        }
+    ]
+}

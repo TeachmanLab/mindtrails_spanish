@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Sin notificaciones",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Ya es tarde en el día y no has hablado con tu pareja. No crees que hayas hecho nada para molestarlos, pero parece que te están ignorando. Te das cuenta de que probablemente están teniendo una semana..."
+        },
+        {
+            "type": "Entry",
+            "name": "Sin notificaciones_Relaciones Románticas_entry1"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Un golpe accidental",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Una noche, estás subiendo las escaleras y accidentalmente golpeas tu cabeza contra un techo bajo. A la mañana siguiente, el dolor de cabeza todavía está presente ligeramente, y te preguntas qué has hecho. Ya a la hora del almuerzo, el dolor ha..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Un golpe accidental_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "disminuido"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

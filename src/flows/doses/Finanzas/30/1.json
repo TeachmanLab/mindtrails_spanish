@@ -1,0 +1,14 @@
+{
+    "name": "Devolución de chaqueta26",
+    "title": "Devolución de chaqueta",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Devolución de chaqueta"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Devolución_de_chaqueta.jpg"
+        }
+    ]
+}

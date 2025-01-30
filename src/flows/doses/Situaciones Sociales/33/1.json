@@ -1,0 +1,14 @@
+{
+    "name": "Apartamento nuevo para ti29",
+    "title": "Apartamento nuevo para ti",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Apartamento nuevo para ti"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Apartamento_nuevo_para_ti.jpg"
+        }
+    ]
+}

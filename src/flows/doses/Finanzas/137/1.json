@@ -1,0 +1,14 @@
+{
+    "name": "Pagando la cena147",
+    "title": "Pagando la cena",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Pagando la cena"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Pagando_la_cena.jpg"
+        }
+    ]
+}

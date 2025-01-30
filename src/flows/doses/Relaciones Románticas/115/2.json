@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Problemas de salud mental",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Últimamente no te sientes bien y quieres pedirle ayuda a tu pareja. Aunque confías en ellos, te cuesta encontrar las palabras adecuadas para decir. Decides sentarte con tu pareja y te sientes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Problemas de salud mental_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "seguro"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

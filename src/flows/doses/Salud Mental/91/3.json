@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Expresándote",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "En el trabajo, tu jefe te da la responsabilidad de resolver un problema complicado. Tienes una idea que crees que podría funcionar, pero te preguntas si es demasiado simplista. Mientras consideras compartir tu idea, decides..."
+        },
+        {
+            "type": "Entry",
+            "name": "Expresándote_Salud Mental_entry1"
+        }
+    ]
+}

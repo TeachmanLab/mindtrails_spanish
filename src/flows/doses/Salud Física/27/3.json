@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Caminata con un amigo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Respiras profundamente unas veces. Prestar atención a cómo se siente respirar ayuda a enfocar tu mente, y decides..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Caminata con un amigo_Salud Física_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "continuar"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

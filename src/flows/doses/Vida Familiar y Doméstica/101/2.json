@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Ruidos del exterior",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te acabas de mudar a una nueva casa. Afuera está oscuro y de repente oyes ruidos afuera. Miras por la ventana y ves un..."
+        },
+        {
+            "type": "Entry",
+            "name": "Ruidos del exterior_Vida Familiar y Doméstica_entry1"
+        }
+    ]
+}

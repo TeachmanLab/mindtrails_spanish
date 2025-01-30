@@ -1,0 +1,14 @@
+{
+    "name": "Viendo a un viejo amigo400",
+    "title": "Viendo a un viejo amigo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Viendo a un viejo amigo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Viendo_a_un_viejo_amigo.jpg"
+        }
+    ]
+}

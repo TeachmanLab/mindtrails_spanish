@@ -1,0 +1,14 @@
+{
+    "name": "Práctica de presentación260",
+    "title": "Práctica de presentación",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Práctica de presentación"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Práctica_de_presentación.jpg"
+        }
+    ]
+}

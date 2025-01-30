@@ -1,0 +1,14 @@
+{
+    "name": "Persona de apoyo60",
+    "title": "Persona de apoyo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Persona de apoyo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Persona_de_apoyo.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Opiniones inusuales323",
+    "title": "Opiniones inusuales",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Opiniones inusuales"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Opiniones_inusuales.jpg"
+        }
+    ]
+}

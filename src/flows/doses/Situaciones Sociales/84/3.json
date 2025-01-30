@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Equilibrio de trabajo y amistades",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sabes que tendrás más flexibilidad en las próximas semanas para ver a tu amigo y que ellos entenderán que necesitas..."
+        },
+        {
+            "type": "Entry",
+            "name": "Equilibrio de trabajo y amistades_Situaciones Sociales_entry2"
+        }
+    ]
+}

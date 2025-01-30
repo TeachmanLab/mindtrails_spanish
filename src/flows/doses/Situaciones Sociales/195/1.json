@@ -1,0 +1,14 @@
+{
+    "name": "Hablando sobre televisión199",
+    "title": "Hablando sobre televisión",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Hablando sobre televisión"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Hablando_sobre_televisión.jpg"
+        }
+    ]
+}

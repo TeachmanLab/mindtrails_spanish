@@ -1,0 +1,14 @@
+{
+    "name": "La cita3",
+    "title": "La cita",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "La cita"
+        },
+        {
+            "type": "Media",
+            "file": "/images/La_cita.jpg"
+        }
+    ]
+}

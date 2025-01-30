@@ -1,0 +1,14 @@
+{
+    "name": "Resultados de análisis de sangre287",
+    "title": "Resultados de análisis de sangre",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Resultados de análisis de sangre"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Resultados_de_análisis_de_sangre.jpg"
+        }
+    ]
+}

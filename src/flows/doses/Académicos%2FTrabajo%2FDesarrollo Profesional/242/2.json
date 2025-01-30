@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Presentación importante",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te han pedido que hagas una presentación sobre algunos de tus últimos proyectos en una conferencia importante. Esta es una gran oportunidad para resaltar el buen trabajo que has estado haciendo, pero te sientes nervioso al hablar frente a un grupo tan grande de..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Presentación importante_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "compañeros"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

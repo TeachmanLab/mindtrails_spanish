@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Oportunidad nueva",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás en el trabajo y te enteras de que surgió una oportunidad de ascenso en tu departamento. Piensas que podrías ser elegible y decides preguntarle a tu jefe por más detalles. Tu jefe te dice que los criterios de selección son muy estrictos y que es probable que tu aplicación sea..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Oportunidad nueva_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "rechazada"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

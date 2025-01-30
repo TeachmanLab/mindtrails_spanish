@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Preocupaciones por el ritmo cardíaco",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Cuando tu corazón comenzó a latir muy rápido..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Preocupaciones por el ritmo cardíaco_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Manejaste tu ansiedad y te quedaste.",
+                "Te fuiste debido a tu ansiedad."
+            ],
+            "columnCount": 1,
+            "answer": "Manejaste tu ansiedad y te quedaste."
+        }
+    ]
+}

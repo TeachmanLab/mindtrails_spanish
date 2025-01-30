@@ -1,0 +1,14 @@
+{
+    "name": "Corte de dedo16",
+    "title": "Corte de dedo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Corte de dedo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Corte_de_dedo.jpg"
+        }
+    ]
+}

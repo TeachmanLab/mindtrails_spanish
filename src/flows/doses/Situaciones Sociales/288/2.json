@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Amigos pasando tiempo juntos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mientras te desplazas por tus redes sociales, ves que tus amigos salieron sin ti anoche. No recibiste una invitación para salir con ellos. Te das cuenta de que a veces tus amigos pasan tiempo sin ti y que la próxima vez puedes..."
+        },
+        {
+            "type": "Entry",
+            "name": "Amigos pasando tiempo juntos_Situaciones Sociales_entry1"
+        }
+    ]
+}

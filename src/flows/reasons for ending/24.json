@@ -1,0 +1,22 @@
+{
+    "title": "Razones para terminar",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Los problemas técnicos con la aplicación móvil (por ejemplo, la aplicación falla o se congela) dificultaron la tarea.\n usar."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "De nada",
+                "Levemente",
+                "Un poco",
+                "Principalmente",
+                "Muy",
+                "^Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "tech_problems"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Viaje despues de COVID207",
+    "title": "Viaje despues de COVID",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Viaje despues de COVID"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Viaje_despues_de_COVID.jpg"
+        }
+    ]
+}

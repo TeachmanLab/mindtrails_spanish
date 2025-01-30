@@ -1,0 +1,14 @@
+{
+    "name": "Amigo ruidoso183",
+    "title": "Amigo ruidoso",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Amigo ruidoso"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Amigo_ruidoso.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Broma interna291",
+    "title": "Broma interna",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Broma interna"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Broma_interna.jpg"
+        }
+    ]
+}

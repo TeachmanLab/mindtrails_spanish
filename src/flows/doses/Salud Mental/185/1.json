@@ -1,0 +1,14 @@
+{
+    "name": "Mensajes de texto honestos190",
+    "title": "Mensajes de texto honestos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Mensajes de texto honestos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Mensajes_de_texto_honestos.jpg"
+        }
+    ]
+}

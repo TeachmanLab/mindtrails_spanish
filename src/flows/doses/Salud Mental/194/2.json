@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Trabajando para salir adelante",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te acaban de dar un trabajo en una oficina que realmente admiras. Para finalmente recibir el ascenso que deseas, sabes que tendrás que trabajar muy duro durante varios años y el resultado es..."
+        },
+        {
+            "type": "Entry",
+            "name": "Trabajando para salir adelante_Salud Mental_entry1"
+        }
+    ]
+}

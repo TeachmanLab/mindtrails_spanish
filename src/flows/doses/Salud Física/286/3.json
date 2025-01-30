@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "El malestar de estómago",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te reúnes con el médico y te dice lo que probablemente está pasando. Lo piensas y te das cuenta de que enfermarse a veces es..."
+        },
+        {
+            "type": "Entry",
+            "name": "El malestar de estómago_Salud Física_entry2"
+        }
+    ]
+}

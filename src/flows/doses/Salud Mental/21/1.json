@@ -1,0 +1,14 @@
+{
+    "name": "Probando comidas diferentes18",
+    "title": "Probando comidas diferentes",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Probando comidas diferentes"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Probando_comidas_diferentes.jpg"
+        }
+    ]
+}

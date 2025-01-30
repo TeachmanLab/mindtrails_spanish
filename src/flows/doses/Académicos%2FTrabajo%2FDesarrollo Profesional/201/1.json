@@ -1,0 +1,14 @@
+{
+    "name": "Manejando tareas203",
+    "title": "Manejando tareas",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Manejando tareas"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Manejando_tareas.jpg"
+        }
+    ]
+}

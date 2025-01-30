@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Evaluación de salud",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Crees que tus resultados enseñarán que..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Evaluación de salud_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Tienes buena salud.",
+                "Tienes un problema muy grande con tu salud."
+            ],
+            "columnCount": 1,
+            "answer": "Tienes buena salud."
+        }
+    ]
+}

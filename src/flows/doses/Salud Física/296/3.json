@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Pánico de presentación",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Decides tomar un respiro lento y profundo. Al empezar a hablar de nuevo, te das cuenta de que lo que sentiste era..."
+        },
+        {
+            "type": "Entry",
+            "name": "Pánico de presentación_Salud Física_entry2"
+        }
+    ]
+}

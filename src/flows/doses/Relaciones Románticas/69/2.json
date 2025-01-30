@@ -1,0 +1,14 @@
+{
+    "name": "Yendo a una cita61",
+    "title": "Yendo a una cita",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Yendo a una cita"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Yendo_a_una_cita.jpg"
+        }
+    ]
+}

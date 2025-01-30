@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Prueba de enfermedad",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "En tu cita médica anual, te piden que te hagas una prueba para detectar una enfermedad. Después de la prueba, esperas los resultados en la sala de espera por mucho tiempo. Crees que las posibilidades de que tienes la enfermedad son..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Prueba de enfermedad_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "mínimas"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

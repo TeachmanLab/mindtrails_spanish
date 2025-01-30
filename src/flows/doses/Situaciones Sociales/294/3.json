@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Cambio de planes",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Hiciste planes con tus amigos que has estado esperando toda la semana. Cuando conduces hasta tu casa y llamas para decirles que estás allí, parece que ya están saliendo con otras personas y te cuelgan abruptamente. Crees que tu amigo debe estar..."
+        },
+        {
+            "type": "Entry",
+            "name": "Cambio de planes_Situaciones Sociales_entry1"
+        }
+    ]
+}

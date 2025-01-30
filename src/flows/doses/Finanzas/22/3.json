@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Costos inesperados",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Comprar una casa va a..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Costos inesperados_Finanzas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Ser asequible y salir bien.",
+                "Ser más allá de tus posibilidades, incluso con tu trabajo."
+            ],
+            "columnCount": 1,
+            "answer": "Ser asequible y salir bien."
+        }
+    ]
+}

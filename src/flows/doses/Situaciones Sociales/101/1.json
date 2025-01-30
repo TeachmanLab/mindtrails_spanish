@@ -1,0 +1,14 @@
+{
+    "name": "Miedo a perderse algo90",
+    "title": "Miedo a perderse algo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Miedo a perderse algo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Miedo_a_perderse_algo.jpg"
+        }
+    ]
+}

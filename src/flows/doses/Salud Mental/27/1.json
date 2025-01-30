@@ -1,0 +1,14 @@
+{
+    "name": "Foto con amigos23",
+    "title": "Foto con amigos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Foto con amigos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Foto_con_amigos.jpg"
+        }
+    ]
+}

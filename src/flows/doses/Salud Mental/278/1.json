@@ -1,0 +1,14 @@
+{
+    "name": "Un momento de olvido297",
+    "title": "Un momento de olvido",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Un momento de olvido"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Un_momento_de_olvido.jpg"
+        }
+    ]
+}

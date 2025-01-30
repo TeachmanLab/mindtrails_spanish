@@ -1,0 +1,14 @@
+{
+    "name": "Tropezar en público79",
+    "title": "Tropezar en público",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tropezar en público"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Tropezar_en_público.jpg"
+        }
+    ]
+}

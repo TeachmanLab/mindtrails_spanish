@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Serpientes venenosas",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu amigo te convence a dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque y comienzas a sentirte preocupados. Piensas que las posibilidades de que veas ese tipo de serpiente son..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Serpientes venenosas_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "pequeñas"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

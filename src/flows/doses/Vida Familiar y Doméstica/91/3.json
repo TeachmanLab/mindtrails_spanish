@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Emoción prospectiva",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te gustarías tomarte un tiempo libre para viajar después de un año largo y estresante. Tu familia espera que trabajes más horas para ayudar con las finanzas y no quieres decepcionarlos. Al considerar tus planes para fin de año, te sientes..."
+        },
+        {
+            "type": "Entry",
+            "name": "Emoción prospectiva_Vida Familiar y Doméstica_entry1"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Consejos para un amigo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Pasas una tarde con un amigo y acabas hablando de sus problemas de relación. Mientras les das algunos consejos, notas que están callados. Una vez que llegas a casa, reflexionas sobre la noche y crees que tus consejos les resultaron..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Consejos para un amigo_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "útiles"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

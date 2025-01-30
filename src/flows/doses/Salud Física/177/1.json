@@ -1,0 +1,14 @@
+{
+    "name": "Caminata con amigos182",
+    "title": "Caminata con amigos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Caminata con amigos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Caminata_con_amigos.jpg"
+        }
+    ]
+}

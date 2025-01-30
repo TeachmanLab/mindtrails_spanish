@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Comprometerse con las actividades",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estabas muy emocionado de regresar a la instrucción en persona y decidiste comprometerse con muchas actividades. Te has resultado difícil cumplir con todas tus responsabilidades y te preocupas estar fallando en..."
+        },
+        {
+            "type": "Entry",
+            "name": "Comprometerse con las actividades_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ]
+}

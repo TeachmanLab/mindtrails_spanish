@@ -1,0 +1,14 @@
+{
+    "name": "Un corte de pelo diferente282",
+    "title": "Un corte de pelo diferente",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Un corte de pelo diferente"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Un_corte_de_pelo_diferente.jpg"
+        }
+    ]
+}

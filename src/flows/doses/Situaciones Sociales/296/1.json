@@ -1,0 +1,14 @@
+{
+    "name": "Publicando nuevo contenido312",
+    "title": "Publicando nuevo contenido",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Publicando nuevo contenido"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Publicando_nuevo_contenido.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "WiFi inestable28",
+    "title": "WiFi inestable",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "WiFi inestable"
+        },
+        {
+            "type": "Media",
+            "file": "/images/WiFi_inestable.jpg"
+        }
+    ]
+}

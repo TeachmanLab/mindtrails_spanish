@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Llegando tarde",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te despiertas y te das cuenta de que llegas tarde a tu primera reunión en línea del día. Inicias sesión en la reunión y cuando lo haces, tu supervisor deja de hablar. Te disculpas por llegar tarde al chat y pasas el resto de la reunión sintiéndote..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Llegando tarde_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "tranquilo"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Corrección rápida",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Al final, recuerdas que cometer errores ocasionalmente no te hace un mal empleado. Tu jefe te corregió amablemente, porque es su trabajo, y sientes que toda la interacción estuvo..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Corrección rápida_Situaciones Sociales_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "bien"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

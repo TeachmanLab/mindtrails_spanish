@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Equilibrio de trabajo y amistades",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sabes que tendrás más flexibilidad en las próximas semanas para ver a tu amigo y que ellos entenderán que necesitas..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Equilibrio de trabajo y amistades_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "trabajar"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

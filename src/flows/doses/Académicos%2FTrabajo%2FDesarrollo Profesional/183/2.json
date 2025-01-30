@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Presentación estresante",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tienes que hacerle una presentación a tu jefe. Mientras piensas en la charla, sientes mariposas en el estómago. La mañana de la charla, te sientes nervioso y crees que tus nervios serán..."
+        },
+        {
+            "type": "Entry",
+            "name": "Presentación estresante_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ]
+}

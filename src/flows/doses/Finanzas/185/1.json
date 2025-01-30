@@ -1,0 +1,14 @@
+{
+    "name": "Gestión de puestos de trabajo190",
+    "title": "Gestión de puestos de trabajo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Gestión de puestos de trabajo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Gestión_de_puestos_de_trabajo.jpg"
+        }
+    ]
+}

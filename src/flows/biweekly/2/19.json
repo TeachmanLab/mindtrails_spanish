@@ -1,0 +1,20 @@
+{
+    "title": "El ruido fuerte",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te despierta en mitad de la noche un ruido fuerte. No estás seguro de qué causó el ruido y sal de tu habitación para ver qué pasó. Tú caminas..."
+        },
+        {
+            "type": "WordPuzzle",
+            "right_feedback": "Correcto!",
+            "wrong_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "wrong_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "abajo"
+            ],
+            "name": "IBM_noise_puzzle"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Apoyándose en sus compañeros26",
+    "title": "Apoyándose en sus compañeros",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Apoyándose en sus compañeros"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Apoyándose_en_sus_compañeros.jpg"
+        }
+    ]
+}

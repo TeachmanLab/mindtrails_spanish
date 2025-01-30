@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Comunicación familiar",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu familia no ha aprobado a tu pareja desde el principio y estás empezando a ponerse en tus nervios. No quieres causar más conflicto, pero su comportamiento te está haciendo incómodo. Haces un plan para tener una conversación y crees que irá... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Comunicación familiar_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "bien"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

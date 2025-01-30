@@ -1,0 +1,14 @@
+{
+    "name": "Plato típico279",
+    "title": "Plato típico",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Plato típico"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Plato_típico.jpg"
+        }
+    ]
+}

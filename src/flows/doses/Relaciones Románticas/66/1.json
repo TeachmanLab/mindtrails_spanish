@@ -1,0 +1,14 @@
+{
+    "name": "Los celos58",
+    "title": "Los celos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Los celos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Los_celos.jpg"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Sin aliento",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "¿Tu dificultad para respirar está relacionada con el COVID?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Sin aliento_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "columnCount": 1,
+            "answer": "No"
+        }
+    ]
+}

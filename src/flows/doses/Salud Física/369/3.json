@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Día caluroso",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Esta sensación es sorprendente e incómoda, pero te das cuenta de que es algo que simplemente puedes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Día caluroso_Salud Física_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "observar"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Presentación estresante",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tienes que hacerle una presentación a tu jefe. Mientras piensas en la charla, sientes mariposas en el estómago. La mañana de la charla, te sientes nervioso y crees que tus nervios serán..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Presentación estresante_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "manejables"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

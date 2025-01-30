@@ -1,0 +1,14 @@
+{
+    "name": "Cena en una casa de amigos14",
+    "title": "Cena en una casa de amigos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cena en una casa de amigos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Cena_en_una_casa_de_amigos.jpg"
+        }
+    ]
+}

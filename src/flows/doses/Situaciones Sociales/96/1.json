@@ -1,0 +1,14 @@
+{
+    "name": "Una presentación grande85",
+    "title": "Una presentación grande",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Una presentación grande"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Una_presentación_grande.jpg"
+        }
+    ]
+}

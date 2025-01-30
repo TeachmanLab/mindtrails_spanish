@@ -1,0 +1,14 @@
+{
+    "name": "Experiencia en el supermercado387",
+    "title": "Experiencia en el supermercado",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Experiencia en el supermercado"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Experiencia_en_el_supermercado.jpg"
+        }
+    ]
+}

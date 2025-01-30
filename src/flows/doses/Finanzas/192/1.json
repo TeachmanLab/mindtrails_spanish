@@ -1,0 +1,14 @@
+{
+    "name": "Salir a almorzar196",
+    "title": "Salir a almorzar",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Salir a almorzar"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Salir_a_almorzar.jpg"
+        }
+    ]
+}

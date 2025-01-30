@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Viendo a tu ex",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tú y tu pareja recientemente se divorciaron. Tu hijo tiene un evento en la escuela esta noche, y será la primera vez que ambos asistan como personas solteras. Piensas que se tratarán con respeto..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Viendo a tu ex_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "mutuo"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

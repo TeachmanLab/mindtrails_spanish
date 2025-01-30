@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Corriendo una maratón",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cuando consideras la idea de correr un maratón, no crees que sea demasiado para ti porque crees que probablemente serás lo suficientemente..."
+        },
+        {
+            "type": "Entry",
+            "name": "Corriendo una maratón_Salud Física_entry2"
+        }
+    ]
+}

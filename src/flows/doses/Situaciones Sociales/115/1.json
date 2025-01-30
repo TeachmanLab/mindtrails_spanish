@@ -1,0 +1,14 @@
+{
+    "name": "Esta reunión127",
+    "title": "Esta reunión",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Esta reunión"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Esta_reunión.jpg"
+        }
+    ]
+}

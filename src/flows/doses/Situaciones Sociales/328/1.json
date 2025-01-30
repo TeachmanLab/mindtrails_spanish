@@ -1,0 +1,14 @@
+{
+    "name": "El torneo de fútbol366",
+    "title": "El torneo de fútbol",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "El torneo de fútbol"
+        },
+        {
+            "type": "Media",
+            "file": "/images/El_torneo_de_fútbol.jpg"
+        }
+    ]
+}

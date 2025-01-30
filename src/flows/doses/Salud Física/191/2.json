@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Un golpe accidental",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Una noche, estás subiendo las escaleras y accidentalmente golpeas tu cabeza contra un techo bajo. A la mañana siguiente, el dolor de cabeza todavía está presente ligeramente, y te preguntas qué has hecho. Ya a la hora del almuerzo, el dolor ha..."
+        },
+        {
+            "type": "Entry",
+            "name": "Un golpe accidental_Salud Física_entry1"
+        }
+    ]
+}

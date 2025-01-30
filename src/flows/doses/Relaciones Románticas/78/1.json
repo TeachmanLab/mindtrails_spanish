@@ -1,0 +1,14 @@
+{
+    "name": "Superarlo69",
+    "title": "Superarlo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Superarlo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Superarlo.jpg"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "title": "Ejercicio de limón",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "En este ejercicio, y durante todo el programa de entrenamiento, recuerde imaginar lo que sucede a través de sus propios ojos, de forma similar a la imagen de la izquierda. Esto es más eficaz que ver la situación desde un observador externo, como en la imagen de la derecha."
+        },
+        {
+            "type": "Media",
+            "path": "https://github.com/TeachmanLab/MindtrailsMobile_Resources/raw/main/HTC/protocols/protocol1/media/images/lemon/pic1.jpg",
+            "frame": true
+        }
+    ],
+    "timeout": 2,
+    "show_buttons": "AfterTimeout"
+}

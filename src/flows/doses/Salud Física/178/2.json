@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Sintiendo mareos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Decides girar rápidamente en una silla de oficina. Sientes mariposas en el estómago y te mareas cuando la silla se desacelera. Estas sensaciones probablemente significan que vas a..."
+        },
+        {
+            "type": "Entry",
+            "name": "Sintiendo mareos_Salud Física_entry1"
+        }
+    ]
+}

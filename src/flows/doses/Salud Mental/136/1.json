@@ -1,0 +1,14 @@
+{
+    "name": "Clima lluvioso146",
+    "title": "Clima lluvioso",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Clima lluvioso"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Clima_lluvioso.jpg"
+        }
+    ]
+}

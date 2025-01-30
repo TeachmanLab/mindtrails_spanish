@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Participación en las redes sociales",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Publicas una foto tuya en las redes sociales en la que sientes que te ves muy bien. Después de un par de días, ves que has recibido muy pocos gustas y comentarios. Todavía te sientes seguro en la foto a pesar de tu participación en las redes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Participación en las redes sociales_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "sociales"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

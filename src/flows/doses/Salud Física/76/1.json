@@ -1,0 +1,14 @@
+{
+    "name": "Sintiéndote mareado67",
+    "title": "Sintiéndote mareado",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sintiéndote mareado"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Sintiéndote_mareado.jpg"
+        }
+    ]
+}

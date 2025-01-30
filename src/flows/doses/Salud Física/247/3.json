@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Carrera matutina del domingo",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Debes..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Carrera matutina del domingo_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Tomarte una botella de ague y comerte un bocado despues del ejecicio.",
+                "Hacer una llamada de emergencia porque esto es señal de algo grave."
+            ],
+            "columnCount": 1,
+            "answer": "Tomarte una botella de ague y comerte un bocado despues del ejecicio."
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Cambiando tu trayectoria",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Dado tu probable resultado en el mercado laboral, tu mejor opción es..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Cambiando tu trayectoria_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Quedarte quieto aunque sea aburrido.",
+                "Intentar encontrar un trabajo en algún lugar que realmente te desafíe."
+            ],
+            "columnCount": 1,
+            "answer": "Quedarte quieto aunque sea aburrido."
+        }
+    ]
+}

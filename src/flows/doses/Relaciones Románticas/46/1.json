@@ -1,0 +1,14 @@
+{
+    "name": "Ignorando41",
+    "title": "Ignorando",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ignorando"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Ignorando.jpg"
+        }
+    ]
+}

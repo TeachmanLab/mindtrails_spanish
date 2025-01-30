@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Un comentario grosero",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Publicas una foto en la que estás realmente seguro. Ves un comentario realmente grosero cuando regresas para revisar tus comentarios. Respiras profundamente y decides no sentirte..."
+        },
+        {
+            "type": "Entry",
+            "name": "Un comentario grosero_Salud Mental_entry1"
+        }
+    ]
+}

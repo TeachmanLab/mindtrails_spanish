@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Exposición reciente",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estuviste expuesto recientemente a alguien que dio positivo, pero hiciste la prueba y no has experimentado ningún síntoma. Tus amigos te invitan a cenar con ellos y te preguntas si deberías ir. Das negativo y sales con tus..."
+        },
+        {
+            "type": "Entry",
+            "name": "Exposición reciente_Salud Física_entry1"
+        }
+    ]
+}

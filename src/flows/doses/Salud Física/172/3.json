@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Explorando una cueva estrecha",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Mientras estés en la cueva, probablemente..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Explorando una cueva estrecha_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Aprenderás cosas interesantes.",
+                "No podrás encontrar la salida."
+            ],
+            "columnCount": 1,
+            "answer": "Aprenderás cosas interesantes."
+        }
+    ]
+}

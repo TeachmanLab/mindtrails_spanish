@@ -1,0 +1,14 @@
+{
+    "name": "Participación en las redes sociales257",
+    "title": "Participación en las redes sociales",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Participación en las redes sociales"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Participación_en_las_redes_sociales.jpg"
+        }
+    ]
+}

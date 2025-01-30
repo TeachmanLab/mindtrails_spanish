@@ -1,0 +1,14 @@
+{
+    "name": "Mente va en blanco157",
+    "title": "Mente va en blanco",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Mente va en blanco"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Mente_va_en_blanco.jpg"
+        }
+    ]
+}

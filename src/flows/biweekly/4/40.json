@@ -1,0 +1,21 @@
+{
+    "title": "El trabajo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "EL TRABAJO: Piensas en no tener ingresos durante algunas semanas...\n\nY sabes que puedes confiar en tus ahorros."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Muy diferente",
+                "Diferente",
+                "Similar",
+                "Muy similar",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "IBM_job_interpretation_1"
+        }
+    ]
+}

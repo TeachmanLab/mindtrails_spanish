@@ -1,0 +1,18 @@
+{
+    "title": "El ascensor",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Pensaste en la seguridad del ascensor?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "selectable": true,
+            "name": "IBM_elevator"
+        }
+    ]
+}

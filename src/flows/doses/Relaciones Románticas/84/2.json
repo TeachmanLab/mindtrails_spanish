@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Consejería para parejas",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tú y tu pareja han comenzado la terapia de parejas. Han asistido a algunas sesiones, pero aún tienen problemas. Piensas que el proceso simplemente tomará..."
+        },
+        {
+            "type": "Entry",
+            "name": "Consejería para parejas_Relaciones Románticas_entry1"
+        }
+    ]
+}

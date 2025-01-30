@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Escuchando un desacuerdo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Anoche, tú y tu pareja tuvieron una discusión. Aunque intentaron mantener la voz baja, sus hijos escucharon. Crees que tus hijos estarán..."
+        },
+        {
+            "type": "Entry",
+            "name": "Escuchando un desacuerdo_Relaciones Románticas_entry1"
+        }
+    ]
+}

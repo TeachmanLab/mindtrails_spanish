@@ -1,0 +1,14 @@
+{
+    "name": "Exposición reciente376",
+    "title": "Exposición reciente",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Exposición reciente"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Exposición_reciente.jpg"
+        }
+    ]
+}

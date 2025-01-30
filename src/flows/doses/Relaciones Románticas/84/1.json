@@ -1,0 +1,14 @@
+{
+    "name": "Consejería para parejas74",
+    "title": "Consejería para parejas",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Consejería para parejas"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Consejería_para_parejas.jpg"
+        }
+    ]
+}

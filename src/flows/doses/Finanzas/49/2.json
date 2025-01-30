@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Costear los gastos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu alquiler se acerca pronto. Normalmente tienes tu alquiler presupuestado, pero algunos gastos inesperados te han dejado un poco corto y tienes que tomar algunos turnos extra en el... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Costear los gastos_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "trabajo"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

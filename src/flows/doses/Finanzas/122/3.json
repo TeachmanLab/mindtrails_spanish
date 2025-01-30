@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Iniciando un negocio pequeño",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Pensando en el futuro de tu negocio, tu empresa no fracasará y será un..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Iniciando un negocio pequeño_Finanzas_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "éxito"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

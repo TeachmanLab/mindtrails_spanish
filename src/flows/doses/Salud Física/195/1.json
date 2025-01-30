@@ -1,0 +1,14 @@
+{
+    "name": "Vecino amigable199",
+    "title": "Vecino amigable",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Vecino amigable"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Vecino_amigable.jpg"
+        }
+    ]
+}

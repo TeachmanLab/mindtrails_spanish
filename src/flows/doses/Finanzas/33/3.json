@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Ahorrando dinero",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Las probabilidades de que vayas a tu viaje de esquí son..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Ahorrando dinero_Finanzas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Altas, porque podrás ahorrar más dinero en los próximos meses.",
+                "Bajas, porque es poco probable que ahorres suficiente dinero."
+            ],
+            "columnCount": 1,
+            "answer": "Altas, porque podrás ahorrar más dinero en los próximos meses."
+        }
+    ]
+}

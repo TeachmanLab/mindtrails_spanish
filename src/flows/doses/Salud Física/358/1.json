@@ -1,0 +1,14 @@
+{
+    "name": "Mascarillas con piel sensible393",
+    "title": "Mascarillas con piel sensible",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Mascarillas con piel sensible"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Mascarillas_con_piel_sensible.jpg"
+        }
+    ]
+}

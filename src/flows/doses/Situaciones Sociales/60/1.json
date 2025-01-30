@@ -1,0 +1,14 @@
+{
+    "name": "Amigo importante52",
+    "title": "Amigo importante",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Amigo importante"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Amigo_importante.jpg"
+        }
+    ]
+}

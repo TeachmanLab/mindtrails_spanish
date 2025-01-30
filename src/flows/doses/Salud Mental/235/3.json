@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Nuevo estilo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Después de luchar contigo mismo en el vestidor, te sientes seguro y quieres ponertelo para salir, así que compras el nuevo..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Nuevo estilo_Salud Mental_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "conjunto"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

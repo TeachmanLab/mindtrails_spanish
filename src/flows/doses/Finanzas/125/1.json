@@ -1,0 +1,14 @@
+{
+    "name": "Camiseta nueva136",
+    "title": "Camiseta nueva",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Camiseta nueva"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Camiseta_nueva.jpg"
+        }
+    ]
+}

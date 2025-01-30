@@ -1,0 +1,14 @@
+{
+    "name": "Sentirse ansioso159",
+    "title": "Sentirse ansioso",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sentirse ansioso"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Sentirse_ansioso.jpg"
+        }
+    ]
+}

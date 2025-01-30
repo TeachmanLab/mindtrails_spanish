@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Problemas de visión",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Respiras y te das cuenta de que tu visión completamente. Luego, recuerdas que a veces esto pasa cuando te sientas demasiado... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Problemas de visión_Salud Física_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "rápido"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

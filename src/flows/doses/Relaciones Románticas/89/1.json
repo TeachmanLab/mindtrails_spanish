@@ -1,0 +1,14 @@
+{
+    "name": "Amgio del trabajo79",
+    "title": "Amgio del trabajo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Amgio del trabajo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Amgio_del_trabajo.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Yendo a una boda26",
+    "title": "Yendo a una boda",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Yendo a una boda"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Yendo_a_una_boda.jpg"
+        }
+    ]
+}

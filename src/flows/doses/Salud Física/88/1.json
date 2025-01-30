@@ -1,0 +1,14 @@
+{
+    "name": "Yendo a dormir78",
+    "title": "Yendo a dormir",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Yendo a dormir"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Yendo_a_dormir.jpg"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Primera reunión",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu supervisor organiza una reunión para que conozcas un nuevo compañero de trabajo. Mientras te sientas en la habitación esperando conocer al compañero de trabajo por primera vez, te preguntas cómo irá. Sientes que tu compañero de trabajo pensará que eres... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Primera reunión_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "agradable"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

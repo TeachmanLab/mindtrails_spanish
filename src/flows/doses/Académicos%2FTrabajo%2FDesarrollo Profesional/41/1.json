@@ -1,0 +1,14 @@
+{
+    "name": "Alzar la voz en una clase36",
+    "title": "Alzar la voz en una clase",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Alzar la voz en una clase"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Alzar_la_voz_en_una_clase.jpg"
+        }
+    ]
+}

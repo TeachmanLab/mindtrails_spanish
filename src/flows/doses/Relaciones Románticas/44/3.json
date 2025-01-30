@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Problemas con los amigos",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "¿Tus amigos lo entenderán?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Problemas con los amigos_Relaciones Románticas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "columnCount": 1,
+            "answer": "Sí"
+        }
+    ]
+}

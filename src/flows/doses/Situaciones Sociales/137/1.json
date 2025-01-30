@@ -1,0 +1,14 @@
+{
+    "name": "Desordenado para vivir147",
+    "title": "Desordenado para vivir",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Desordenado para vivir"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Desordenado_para_vivir.jpg"
+        }
+    ]
+}

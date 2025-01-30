@@ -1,0 +1,14 @@
+{
+    "name": "Obtener una tarjeta de crédito180",
+    "title": "Obtener una tarjeta de crédito",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Obtener una tarjeta de crédito"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Obtener_una_tarjeta_de_crédito.jpg"
+        }
+    ]
+}

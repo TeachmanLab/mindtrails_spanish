@@ -1,0 +1,14 @@
+{
+    "name": "Temas difíciles44",
+    "title": "Temas difíciles",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Temas difíciles"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Temas_difíciles.jpg"
+        }
+    ]
+}

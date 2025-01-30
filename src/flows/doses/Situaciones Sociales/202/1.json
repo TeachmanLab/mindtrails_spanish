@@ -1,0 +1,14 @@
+{
+    "name": "Confianza creativa204",
+    "title": "Confianza creativa",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Confianza creativa"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Confianza_creativa.jpg"
+        }
+    ]
+}

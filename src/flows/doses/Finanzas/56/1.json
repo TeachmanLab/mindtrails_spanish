@@ -1,0 +1,14 @@
+{
+    "name": "Chistes de compras50",
+    "title": "Chistes de compras",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Chistes de compras"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Chistes_de_compras.jpg"
+        }
+    ]
+}

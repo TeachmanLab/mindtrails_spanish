@@ -1,0 +1,14 @@
+{
+    "name": "Evaluación de salud317",
+    "title": "Evaluación de salud",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Evaluación de salud"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Evaluación_de_salud.jpg"
+        }
+    ]
+}

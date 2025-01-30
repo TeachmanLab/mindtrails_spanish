@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Regalos de días festivos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Se acerca un día festivo que tu familia celebra. Quieres comprar regalos para todos, pero no está al su alcansa. Decides comprar un regalo para que tu familia comparta, y piensas que será..."
+        },
+        {
+            "type": "Entry",
+            "name": "Regalos de días festivos_Finanzas_entry1"
+        }
+    ]
+}

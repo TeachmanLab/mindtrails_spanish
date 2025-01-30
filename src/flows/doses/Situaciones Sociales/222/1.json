@@ -1,0 +1,14 @@
+{
+    "name": "Truco o trato247",
+    "title": "Truco o trato",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Truco o trato"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Truco_o_trato.jpg"
+        }
+    ]
+}

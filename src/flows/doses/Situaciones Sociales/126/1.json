@@ -1,0 +1,14 @@
+{
+    "name": "Malentendido137",
+    "title": "Malentendido",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Malentendido"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Malentendido.jpg"
+        }
+    ]
+}

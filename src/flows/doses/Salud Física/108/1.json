@@ -1,0 +1,14 @@
+{
+    "name": "Tomar precauciones121",
+    "title": "Tomar precauciones",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tomar precauciones"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Tomar_precauciones.jpg"
+        }
+    ]
+}

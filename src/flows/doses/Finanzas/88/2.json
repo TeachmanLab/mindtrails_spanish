@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Ahorrar dinero",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Necesitas ahorrar dinero para llevar siempre la comida de casa. Cuando comes con tus amigos, notas que todos salen a comer cada almuerzo. Te das cuenta de que tienes una situación diferente a la de tus amigos y está..."
+        },
+        {
+            "type": "Entry",
+            "name": "Ahorrar dinero_Finanzas_entry1"
+        }
+    ]
+}

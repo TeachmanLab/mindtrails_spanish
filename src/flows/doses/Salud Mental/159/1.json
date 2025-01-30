@@ -1,0 +1,14 @@
+{
+    "name": "Pensando en preguntas166",
+    "title": "Pensando en preguntas",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Pensando en preguntas"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Pensando_en_preguntas.jpg"
+        }
+    ]
+}

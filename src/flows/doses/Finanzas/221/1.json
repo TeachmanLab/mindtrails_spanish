@@ -1,0 +1,14 @@
+{
+    "name": "Trabajos bien pagados246",
+    "title": "Trabajos bien pagados",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Trabajos bien pagados"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Trabajos_bien_pagados.jpg"
+        }
+    ]
+}

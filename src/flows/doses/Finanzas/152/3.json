@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Traje de fiesta",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tienes una fiesta de cumpleaños y tus amigos están discutiendo cuándo quieren ir a comprar ropa. El dinero esta escaso en este momento y te preocupa poder comprar un atuendo para un evento. Decides ponerte algo que ya tienes en tu armario y te sientes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Traje de fiesta_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "satisfecha"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

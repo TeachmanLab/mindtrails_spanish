@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Invitar a alguien",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Invitas a un compañero de trabajo a cenar una noche y estás a cargo de la comida. No eres el mejor cocinero y podrías avergonzarte delante de tu compañero de trabajo. Cuando llega tu compañero de trabajo, estás..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Invitar a alguien_Vida Familiar y Doméstica_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "tranquilo"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

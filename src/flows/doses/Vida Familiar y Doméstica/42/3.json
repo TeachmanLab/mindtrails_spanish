@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Cambio de planes",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Decides decírselo de todos modos. Cuando les cuentas tus planes, te sientes... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Cambio de planes_Vida Familiar y Doméstica_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "aliviado"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

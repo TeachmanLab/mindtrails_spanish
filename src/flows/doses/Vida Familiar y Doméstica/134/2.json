@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Fecha límite cercana",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tú y tu pareja comparten una oficina en casa. Tienes una tarea del trabajo que entregar esta noche, pero están usando la oficina. Cuando piensas en completar el trabajo a tiempo, te sientes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Fecha límite cercana_Vida Familiar y Doméstica_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "seguro"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

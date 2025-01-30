@@ -1,0 +1,14 @@
+{
+    "name": "Una discusión acalorada326",
+    "title": "Una discusión acalorada",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Una discusión acalorada"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Una_discusión_acalorada.jpg"
+        }
+    ]
+}

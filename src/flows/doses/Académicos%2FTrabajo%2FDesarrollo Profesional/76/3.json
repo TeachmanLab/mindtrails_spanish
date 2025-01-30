@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Corrección rápida",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Al final, recuerdas que cometer errores ocasionalmente no te hace un mal empleado. Tu jefe te corregió amablemente, porque es su trabajo, y sientes que toda la interacción estuvo..."
+        },
+        {
+            "type": "Entry",
+            "name": "Corrección rápida_Académicos/Trabajo/Desarrollo Profesional_entry2"
+        }
+    ]
+}

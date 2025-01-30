@@ -1,0 +1,14 @@
+{
+    "name": "Obtener una oportunidad241",
+    "title": "Obtener una oportunidad",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Obtener una oportunidad"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Obtener_una_oportunidad.jpg"
+        }
+    ]
+}

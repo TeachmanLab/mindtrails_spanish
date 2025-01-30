@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Planes de cena",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Un amigo te dijo que se iba a reunir con tigo para cenar en tu restaurante favorito una noche. Le mandas un mensaje esa mañana para preguntarle a que hora se reunirán. Ya es la tarde pero no te han contestado y estás bien enojado. Piensas que probablemente está ocupado en el..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Planes de cena_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "trabajo"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

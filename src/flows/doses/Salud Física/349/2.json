@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Vecino sin mascarilla",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás trabajando en la bilioteca cuando otra persona se sienta a tu lado. No llevan mascarilla y eso te hace sentir inseguro. Le dices al bibliotecario que esta persona está rompiendo las..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Vecino sin mascarilla_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "reglas"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

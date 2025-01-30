@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Corriendo tu primera carrera",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "El fin de semana pasado corriste tu primera carrera. Desde entonces, has estado sintiendo un dolor leve en la cadera. Mientras caminas, crees que este dolor probablemente no tiene..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Corriendo tu primera carrera_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "importancia"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

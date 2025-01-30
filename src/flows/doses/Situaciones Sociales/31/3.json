@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Breve introducción",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Al final, te das cuenta de que todos tienen estos momentos, y te recuperas rápidamente. Mientras terminas de presentarte, ves que los demás están escuchando con gran..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Breve introducción_Situaciones Sociales_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "interés"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

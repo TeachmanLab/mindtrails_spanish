@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Entrega Responsable",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Uno de tus amigos cercanos sale positivo en la prueba de COVID y te pide que le lleves comida. No quieres exponerte estando cerca de su hogar, pero también quieres ayudar. Encuentras una manera de entregar la comida y mantener tu..."
+        },
+        {
+            "type": "Entry",
+            "name": "Entrega Responsable_Situaciones Sociales_entry1"
+        }
+    ]
+}

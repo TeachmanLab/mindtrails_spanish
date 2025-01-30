@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Entrando a una discoteca",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás en una ciudad visitando amigos y decides salir a bailar. Al entrar a una discoteca por primera vez, sientes que las cosas a tu alrededor son muy irreales. Esto es..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Entrando a una discoteca_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "interesante"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

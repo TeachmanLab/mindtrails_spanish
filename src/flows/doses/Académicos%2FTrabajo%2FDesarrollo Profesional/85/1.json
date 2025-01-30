@@ -1,0 +1,14 @@
+{
+    "name": "Trabajo inacabado75",
+    "title": "Trabajo inacabado",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Trabajo inacabado"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Trabajo_inacabado.jpg"
+        }
+    ]
+}

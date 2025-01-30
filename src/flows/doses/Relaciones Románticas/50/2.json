@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Temas difíciles",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tú y tu pareja han estado juntos por mucho tiempo y están lidiando con una discusión recurrente. Amas a tu pareja, pero cada vez que surge este tema, siempre están en desacuerdo, lo que te hace preguntar si realmente son compatibles. Recuerdas que es normal tener desacuerdos y que muchas parejas tienen conversaciones..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Temas difíciles_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "desafiantes"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

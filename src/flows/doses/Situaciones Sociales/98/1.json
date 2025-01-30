@@ -1,0 +1,14 @@
+{
+    "name": "Tiempo en silencio87",
+    "title": "Tiempo en silencio",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tiempo en silencio"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Tiempo_en_silencio.jpg"
+        }
+    ]
+}

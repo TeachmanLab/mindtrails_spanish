@@ -1,0 +1,14 @@
+{
+    "name": "Corriendo una milla321",
+    "title": "Corriendo una milla",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Corriendo una milla"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Corriendo_una_milla.jpg"
+        }
+    ]
+}

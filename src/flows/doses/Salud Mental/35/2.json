@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Ir a terapia",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Has estado yendo a terapia últimamente. No te lo has contado a tu familia porque han expresado opiniones negativas sobre la terapia en el pasado. Crees que esta vez te..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Ir a terapia_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "apoyarán"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

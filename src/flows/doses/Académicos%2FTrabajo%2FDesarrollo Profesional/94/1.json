@@ -1,0 +1,14 @@
+{
+    "name": "Gestión de múltiples posiciones83",
+    "title": "Gestión de múltiples posiciones",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Gestión de múltiples posiciones"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Gestión_de_múltiples_posiciones.jpg"
+        }
+    ]
+}

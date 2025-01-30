@@ -1,0 +1,14 @@
+{
+    "name": "Gestión de facturas1",
+    "title": "Gestión de facturas",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Gestión de facturas"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Gestión_de_facturas.jpg"
+        }
+    ]
+}

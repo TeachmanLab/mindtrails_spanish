@@ -1,0 +1,14 @@
+{
+    "name": "Usando un chiste diferente205",
+    "title": "Usando un chiste diferente",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Usando un chiste diferente"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Usando_un_chiste_diferente.jpg"
+        }
+    ]
+}

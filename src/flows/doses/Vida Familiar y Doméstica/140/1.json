@@ -1,0 +1,14 @@
+{
+    "name": "Invitar a alguien150",
+    "title": "Invitar a alguien",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Invitar a alguien"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Invitar_a_alguien.jpg"
+        }
+    ]
+}

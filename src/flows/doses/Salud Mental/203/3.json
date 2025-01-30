@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Ponerse ahí fuera",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Decides abrirte y compartir, y ellos hacen lo mismo. Mientras hablas, te sientes... "
+        },
+        {
+            "type": "Entry",
+            "name": "Ponerse ahí fuera_Salud Mental_entry2"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Sensación de noche",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Es media noche y te despiertas abruptamente. Cuando te sientas, te sientes raro, como si tu mente no estuviera funcionando correctamente y empiezas a pensar que podrías estar volviéndote loco. Este pensamiento te asusta y, mientras te arrecuestas, decides que simplemente lo..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Sensación de noche_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "observarás"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

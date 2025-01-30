@@ -1,0 +1,14 @@
+{
+    "name": "Amigo en el hospital66",
+    "title": "Amigo en el hospital",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Amigo en el hospital"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Amigo_en_el_hospital.jpg"
+        }
+    ]
+}

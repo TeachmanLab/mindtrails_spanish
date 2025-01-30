@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Visión borrosa",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Te das cuenta de que..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Visión borrosa_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Estás especialmente cansado.",
+                "Podrías estar perdiendo tu visión permanentemente."
+            ],
+            "columnCount": 1,
+            "answer": "Estás especialmente cansado."
+        }
+    ]
+}

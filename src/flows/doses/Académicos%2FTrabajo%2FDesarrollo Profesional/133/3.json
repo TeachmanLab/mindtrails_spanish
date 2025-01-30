@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Llamada breve",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Después de la reunión, te das cuenta de que tus compañeros de trabajo probablemente se sorprendieron porque la puerta se abrió de repente. Es probable que piensen que abrir y cerrar la puerta silenciosamente demuestra que eres..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Llamada breve_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "considerado"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

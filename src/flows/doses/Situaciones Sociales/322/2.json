@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Participación",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Consideras asistir a un taller práctico en el que se requerirá tu opinión con frecuencia, a pesar de que no te gusta hablar frente a los demás. Después de asistir al taller, te das cuenta de que fue una decisión..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Participación_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "excelente"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

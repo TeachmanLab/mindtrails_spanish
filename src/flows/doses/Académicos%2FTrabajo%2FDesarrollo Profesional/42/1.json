@@ -1,0 +1,14 @@
+{
+    "name": "Taller de escritura37",
+    "title": "Taller de escritura",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Taller de escritura"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Taller_de_escritura.jpg"
+        }
+    ]
+}

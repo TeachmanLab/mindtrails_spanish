@@ -1,0 +1,14 @@
+{
+    "name": "Conversación con un desconocido50",
+    "title": "Conversación con un desconocido",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Conversación con un desconocido"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Conversación_con_un_desconocido.jpg"
+        }
+    ]
+}

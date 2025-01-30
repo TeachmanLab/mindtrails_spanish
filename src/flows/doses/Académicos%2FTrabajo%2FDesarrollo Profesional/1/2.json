@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Esta reunión",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás caminando a una reunión importante con tu jefe. De repente, tu mente se queda en blanco y piensas que esto es..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Esta reunión_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "normal"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

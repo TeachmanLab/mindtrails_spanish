@@ -1,0 +1,14 @@
+{
+    "name": "Rendimiento deficiente18",
+    "title": "Rendimiento deficiente",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Rendimiento deficiente"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Rendimiento_deficiente.jpg"
+        }
+    ]
+}

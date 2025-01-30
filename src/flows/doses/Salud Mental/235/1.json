@@ -1,0 +1,14 @@
+{
+    "name": "Nuevo estilo258",
+    "title": "Nuevo estilo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Nuevo estilo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Nuevo_estilo.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Cena cara35",
+    "title": "Cena cara",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cena cara"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Cena_cara.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Corriendo75",
+    "title": "Corriendo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Corriendo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Corriendo.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Encontrar al indicado71",
+    "title": "Encontrar al indicado",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Encontrar al indicado"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Encontrar_al_indicado.jpg"
+        }
+    ]
+}

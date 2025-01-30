@@ -1,0 +1,14 @@
+{
+    "name": "Risa en la esquina317",
+    "title": "Risa en la esquina",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Risa en la esquina"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Risa_en_la_esquina.jpg"
+        }
+    ]
+}

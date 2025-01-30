@@ -1,0 +1,14 @@
+{
+    "name": "Comentarios en las redes sociales49",
+    "title": "Comentarios en las redes sociales",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comentarios en las redes sociales"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Comentarios_en_las_redes_sociales.jpg"
+        }
+    ]
+}

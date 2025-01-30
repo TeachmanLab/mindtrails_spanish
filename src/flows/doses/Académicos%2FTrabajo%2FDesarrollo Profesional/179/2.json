@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Anticipación de entrevista",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te están entrevistando para un puesto de liderazgo dentro de tu departamento. Antes de entrar en la oficina, notas que te sientes tembloroso. Te sientes increíblemente..."
+        },
+        {
+            "type": "Entry",
+            "name": "Anticipación de entrevista_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ]
+}

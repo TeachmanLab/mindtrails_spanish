@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Funciones normales",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Usas una camisa para ir a la escuela que te queda ajustada alrededor de las axilas. A mitad del día notas que tienes marcas de sudor. Después de pensarlo, te das cuenta de que sudar a lo largo del día es..."
+        },
+        {
+            "type": "Entry",
+            "name": "Funciones normales_Salud Física_entry1"
+        }
+    ]
+}

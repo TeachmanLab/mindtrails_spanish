@@ -1,0 +1,14 @@
+{
+    "name": "Un conocido325",
+    "title": "Un conocido",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Un conocido"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Un_conocido.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Boca seca85",
+    "title": "Boca seca",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Boca seca"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Boca_seca.jpg"
+        }
+    ]
+}

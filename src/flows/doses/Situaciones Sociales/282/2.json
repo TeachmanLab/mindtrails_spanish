@@ -1,0 +1,14 @@
+{
+    "name": "Fin de semana largo solo301",
+    "title": "Fin de semana largo solo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Fin de semana largo solo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Fin_de_semana_largo_solo.jpg"
+        }
+    ]
+}

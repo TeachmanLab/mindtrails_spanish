@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Sentirse llamado",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu jefe te atrapa enviando mensajes de texto durante una reunión y te llama por no prestar atención. No te gusta cuando la gente está enojada contigo, pero sabes que tu jefe te dirá algo al final de la reunión. Durante el resto de la reunión, te sientes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Sentirse llamado_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "ansioso"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

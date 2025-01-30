@@ -1,0 +1,14 @@
+{
+    "name": "Redes sociales145",
+    "title": "Redes sociales",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Redes sociales"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Redes_sociales.jpg"
+        }
+    ]
+}

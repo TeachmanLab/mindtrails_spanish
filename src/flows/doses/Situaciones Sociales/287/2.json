@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Traer un nuevo amigo a casa",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Vives con algunos miembros de tu familia extendida. Tu colega te pregunta si puede venir a cenar algún día y no sabe cuántas personas viven en tu casa. Cuando imaginas a tu colega entrando a tu casa, crees que te..."
+        },
+        {
+            "type": "Entry",
+            "name": "Traer un nuevo amigo a casa_Situaciones Sociales_entry1"
+        }
+    ]
+}

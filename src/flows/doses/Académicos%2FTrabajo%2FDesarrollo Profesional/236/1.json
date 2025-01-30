@@ -1,0 +1,14 @@
+{
+    "name": "Permitiendo que otros vean tu trabajo259",
+    "title": "Permitiendo que otros vean tu trabajo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Permitiendo que otros vean tu trabajo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Permitiendo_que_otros_vean_tu_trabajo.jpg"
+        }
+    ]
+}

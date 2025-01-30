@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Tu mejor amigo",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Años en el futuro, esperas que tú y tu amigo..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Tu mejor amigo_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Se habrán distanciado y realmente no se entenderán mutuamente.",
+                "Habrán permanecido cercanos aunque hayan desarrollado algunos intereses diferentes."
+            ],
+            "columnCount": 1,
+            "answer": "Se habrán distanciado y realmente no se entenderán mutuamente."
+        }
+    ]
+}

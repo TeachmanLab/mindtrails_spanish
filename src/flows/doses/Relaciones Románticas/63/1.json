@@ -1,0 +1,14 @@
+{
+    "name": "Sintiendote apurado55",
+    "title": "Sintiendote apurado",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sintiendote apurado"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Sintiendote_apurado.jpg"
+        }
+    ]
+}

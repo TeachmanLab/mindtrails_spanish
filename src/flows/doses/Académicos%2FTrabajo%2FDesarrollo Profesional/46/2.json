@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Una audiencia captada",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tienes que dar una presentación a un grupo de colegas de trabajo que conoces bien. Todos están callados durante tu presentación. Mientras lo piensas más tarde en casa, crees que tus colegas encontraron tu presentación..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Una audiencia captada_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "interesante"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Estabilidad laboral",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recientemente, la economía no ha estado bien. Te encanta tu trabajo, pero te preguntas si podrás mantenerlo. Te das cuenta de que si te quedarás empleado en tu trabajo actual está fuera de tu..."
+        },
+        {
+            "type": "Entry",
+            "name": "Estabilidad laboral_Finanzas_entry1"
+        }
+    ]
+}

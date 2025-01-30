@@ -1,0 +1,14 @@
+{
+    "name": "Contacto alternativo71",
+    "title": "Contacto alternativo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Contacto alternativo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Contacto_alternativo.jpg"
+        }
+    ]
+}

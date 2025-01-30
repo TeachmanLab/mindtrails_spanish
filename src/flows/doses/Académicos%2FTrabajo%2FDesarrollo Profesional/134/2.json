@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Tu Currículum",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te estás preparando para solicitar un trabajo nuevo. Tienes una reunión con un posible empleador mañana, y sabes que un buen currículum será un factor importante. Mientras revisas tu currículum, piensas que el entrevistador quedará poco..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Tu Currículum_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "impresionado"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

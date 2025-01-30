@@ -1,0 +1,14 @@
+{
+    "name": "Trip After COVID121",
+    "title": "Trip After COVID",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Trip After COVID"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Trip_After_COVID.jpg"
+        }
+    ]
+}

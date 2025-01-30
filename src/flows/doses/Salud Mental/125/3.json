@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Fuera de tu control",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Después de un minuto, tu conexión a internet vuelve. Inicias sesión de nuevo y te das cuenta de que te sientes más..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Fuera de tu control_Salud Mental_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "seguro"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

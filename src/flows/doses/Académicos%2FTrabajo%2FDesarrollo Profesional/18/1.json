@@ -1,0 +1,14 @@
+{
+    "name": "Certidumbre de estar en lo correcto15",
+    "title": "Certidumbre de estar en lo correcto",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Certidumbre de estar en lo correcto"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Certidumbre_de_estar_en_lo_correcto.jpg"
+        }
+    ]
+}

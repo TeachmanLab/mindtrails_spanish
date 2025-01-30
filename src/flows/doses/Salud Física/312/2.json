@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Carrera en un día frío",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Hace frío afuera y estás corriendo. Tu corazón empieza a latir rápidamente después de unos minutos. Decides que este sentimiento te da..."
+        },
+        {
+            "type": "Entry",
+            "name": "Carrera en un día frío_Salud Física_entry1"
+        }
+    ]
+}

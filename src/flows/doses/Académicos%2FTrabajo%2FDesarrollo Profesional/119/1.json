@@ -1,0 +1,14 @@
+{
+    "name": "Presentación importante131",
+    "title": "Presentación importante",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Presentación importante"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Presentación_importante.jpg"
+        }
+    ]
+}

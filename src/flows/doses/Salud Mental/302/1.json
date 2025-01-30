@@ -1,0 +1,14 @@
+{
+    "name": "Tus habilidades con los bolos318",
+    "title": "Tus habilidades con los bolos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tus habilidades con los bolos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Tus_habilidades_con_los_bolos.jpg"
+        }
+    ]
+}

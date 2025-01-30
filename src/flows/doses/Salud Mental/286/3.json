@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Zambullirte",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recuerdas que estarán concentrados en nadar y que todos los demás también estarán usando trajes de baño. Esto te..."
+        },
+        {
+            "type": "Entry",
+            "name": "Zambullirte_Salud Mental_entry2"
+        }
+    ]
+}

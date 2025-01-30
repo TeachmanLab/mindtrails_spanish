@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Sentado en una reunión",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tomas un poco de agua y comienzas a sentirte más despierto, recordando que anoche no dormiste tanto como de costumbre. Decides que simplemente estás..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Sentado en una reunión_Salud Mental_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "cansado"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

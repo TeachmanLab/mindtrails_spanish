@@ -1,0 +1,14 @@
+{
+    "name": "Sequedad190",
+    "title": "Sequedad",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sequedad"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Sequedad.jpg"
+        }
+    ]
+}

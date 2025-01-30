@@ -1,0 +1,14 @@
+{
+    "name": "Completando trabajos125",
+    "title": "Completando trabajos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Completando trabajos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Completando_trabajos.jpg"
+        }
+    ]
+}

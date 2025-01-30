@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Proyecto eliminado",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tienes que entregar un proyecto importante hoy. Cuando abres tu computadora, no puedes encontrar el archivo en ninguna parte. El proyecto debe haber sido..."
+        },
+        {
+            "type": "Entry",
+            "name": "Proyecto eliminado_Salud Mental_entry1"
+        }
+    ]
+}

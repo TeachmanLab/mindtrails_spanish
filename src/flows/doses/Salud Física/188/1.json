@@ -1,0 +1,14 @@
+{
+    "name": "Corriendo fuerte192",
+    "title": "Corriendo fuerte",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Corriendo fuerte"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Corriendo_fuerte.jpg"
+        }
+    ]
+}

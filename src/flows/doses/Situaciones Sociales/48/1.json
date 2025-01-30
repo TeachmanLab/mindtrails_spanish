@@ -1,0 +1,14 @@
+{
+    "name": "Asistir a una boda solo42",
+    "title": "Asistir a una boda solo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Asistir a una boda solo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Asistir_a_una_boda_solo.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Planes de vacaciones66",
+    "title": "Planes de vacaciones",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Planes de vacaciones"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Planes_de_vacaciones.jpg"
+        }
+    ]
+}

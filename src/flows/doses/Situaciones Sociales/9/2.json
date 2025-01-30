@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Nervios en un momento importante",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás a punto de dar una presentación y sientes que tu cuerpo tiembla. Normalmente, no te sientes así al hablar frente a las personas. Estas sensaciones de temblor significan que estás..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Nervios en un momento importante_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "listo"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

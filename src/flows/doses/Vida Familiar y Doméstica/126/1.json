@@ -1,0 +1,14 @@
+{
+    "name": "Cambio de planes137",
+    "title": "Cambio de planes",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cambio de planes"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Cambio_de_planes.jpg"
+        }
+    ]
+}

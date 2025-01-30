@@ -1,0 +1,14 @@
+{
+    "name": "Presencia en redes sociales46",
+    "title": "Presencia en redes sociales",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Presencia en redes sociales"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Presencia_en_redes_sociales.jpg"
+        }
+    ]
+}

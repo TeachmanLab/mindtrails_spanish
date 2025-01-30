@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Día caluroso",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Regresando a casa en un día muy caluroso, te tomas un vaso grande de agua rápidamente. Pronto te sientes anormalmente lleno y un poco enfermo del..."
+        },
+        {
+            "type": "Entry",
+            "name": "Día caluroso_Salud Física_entry1"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Trabajando para salir adelante",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te acaban de dar un trabajo en una oficina que realmente admiras. Para finalmente recibir el ascenso que deseas, sabes que tendrás que trabajar muy duro durante varios años y el resultado es..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Trabajando para salir adelante_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "incierto"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

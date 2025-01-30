@@ -1,0 +1,14 @@
+{
+    "name": "Opiniones de otros69",
+    "title": "Opiniones de otros",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Opiniones de otros"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Opiniones_de_otros.jpg"
+        }
+    ]
+}

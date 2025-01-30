@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Planes cancelados",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tienes planes para encontrarte con un amigo en la ciudad. La última vez que se vieron, tuvieron un desacuerdo. Justo antes de salir, te llaman para decir que no pueden llegar. Al colgar el teléfono, piensas que esto se debe a que están..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Planes cancelados_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "ocupados"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

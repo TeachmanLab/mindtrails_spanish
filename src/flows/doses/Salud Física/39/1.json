@@ -1,0 +1,14 @@
+{
+    "name": "Corriendo tu primera carrera34",
+    "title": "Corriendo tu primera carrera",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Corriendo tu primera carrera"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Corriendo_tu_primera_carrera.jpg"
+        }
+    ]
+}

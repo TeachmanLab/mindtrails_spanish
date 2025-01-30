@@ -1,0 +1,14 @@
+{
+    "name": "Prepararte para tener éxito69",
+    "title": "Prepararte para tener éxito",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Prepararte para tener éxito"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Prepararte_para_tener_éxito.jpg"
+        }
+    ]
+}

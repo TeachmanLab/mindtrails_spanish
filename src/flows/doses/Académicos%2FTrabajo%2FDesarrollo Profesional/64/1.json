@@ -1,0 +1,14 @@
+{
+    "name": "Complicaciones en terminar56",
+    "title": "Complicaciones en terminar",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Complicaciones en terminar"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Complicaciones_en_terminar.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Corriendo fuerte",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Terminas de correr una larga distancia. Te das cuenta de que tu corazón late muy rápido y sientes presión en el pecho. Piensas que estás a punto de entrar en..."
+        },
+        {
+            "type": "Entry",
+            "name": "Corriendo fuerte_Salud Física_entry1"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Palabra tropiezo320",
+    "title": "Palabra tropiezo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Palabra tropiezo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Palabra_tropiezo.jpg"
+        }
+    ]
+}

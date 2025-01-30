@@ -1,0 +1,14 @@
+{
+    "name": "Anticipando una cita18",
+    "title": "Anticipando una cita",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Anticipando una cita"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Anticipando_una_cita.jpg"
+        }
+    ]
+}

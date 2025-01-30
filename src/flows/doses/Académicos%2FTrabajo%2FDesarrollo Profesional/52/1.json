@@ -1,0 +1,14 @@
+{
+    "name": "La audición46",
+    "title": "La audición",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "La audición"
+        },
+        {
+            "type": "Media",
+            "file": "/images/La_audición.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Tocando el piano260",
+    "title": "Tocando el piano",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tocando el piano"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Tocando_el_piano.jpg"
+        }
+    ]
+}

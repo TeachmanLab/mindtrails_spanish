@@ -1,0 +1,14 @@
+{
+    "name": "Resolver un desacuerdo9",
+    "title": "Resolver un desacuerdo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Resolver un desacuerdo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Resolver_un_desacuerdo.jpg"
+        }
+    ]
+}

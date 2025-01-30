@@ -1,0 +1,14 @@
+{
+    "name": "Nuevo ambiente288",
+    "title": "Nuevo ambiente",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Nuevo ambiente"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Nuevo_ambiente.jpg"
+        }
+    ]
+}

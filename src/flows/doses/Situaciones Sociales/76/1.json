@@ -1,0 +1,14 @@
+{
+    "name": "Mensajes en redes sociales67",
+    "title": "Mensajes en redes sociales",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Mensajes en redes sociales"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Mensajes_en_redes_sociales.jpg"
+        }
+    ]
+}

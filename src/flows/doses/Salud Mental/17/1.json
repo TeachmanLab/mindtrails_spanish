@@ -1,0 +1,14 @@
+{
+    "name": "Obteniendo ayuda14",
+    "title": "Obteniendo ayuda",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Obteniendo ayuda"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Obteniendo_ayuda.jpg"
+        }
+    ]
+}

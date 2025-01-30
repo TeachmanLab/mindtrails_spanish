@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Año ocupado",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu y tu pareja han tenido un año ocupado, y no han estado pasando mucho tiempo juntos. Cuando pasan tiempo juntos, tú y tu pareja parecen distraídos y tienden a pelear. Piensas que esto es solo una etapa difícil y que tu relación estará..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Año ocupado_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "bien"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

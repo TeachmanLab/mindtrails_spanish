@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Desordenado para vivir",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu pareja no ha estado en casa mucho recientemente. Sin embargo, cuando llegan a casa, dejan su basura en la mesa, boronas en el mostrador, y nunca le ponen seguro a la puerta cuando salen. Piensas que es hora de hablar con tu... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Desordenado para vivir_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "pareja"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

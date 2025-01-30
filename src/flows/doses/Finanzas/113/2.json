@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Asistiendo a un espectáculo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Una de tus celebridades favoritas está haciendo un espectáculo cerca de ti, y has estado mirando entradas. Las entradas para el espectáculo son más caras de lo que esperabas, y tus cheques de pago no han sido tan altos como esperabas. Decides que es válido consentirte con algo que te haga feliz y compras las..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Asistiendo a un espectáculo_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "entradas"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Opiniones fuertes204",
+    "title": "Opiniones fuertes",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Opiniones fuertes"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Opiniones_fuertes.jpg"
+        }
+    ]
+}

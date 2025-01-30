@@ -1,0 +1,14 @@
+{
+    "name": "Presentando a tus amigos123",
+    "title": "Presentando a tus amigos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Presentando a tus amigos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Presentando_a_tus_amigos.jpg"
+        }
+    ]
+}

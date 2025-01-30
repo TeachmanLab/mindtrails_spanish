@@ -1,0 +1,14 @@
+{
+    "name": "Amigos en las relaciones70",
+    "title": "Amigos en las relaciones",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Amigos en las relaciones"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Amigos_en_las_relaciones.jpg"
+        }
+    ]
+}

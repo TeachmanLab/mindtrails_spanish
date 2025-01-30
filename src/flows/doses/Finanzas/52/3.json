@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Gestión de crédito",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Con una nueva tarjeta de crédito probablemente..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Gestión de crédito_Finanzas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "tendrías que trabajar más duro de lo que esperabas para pagar la nueva deuda de la tarjeta de crédito",
+                "integrarías efectivamente la tarjeta de crédito en tu plan de presupuesto."
+            ],
+            "columnCount": 1,
+            "answer": "tendrías que trabajar más duro de lo que esperabas para pagar la nueva deuda de la tarjeta de crédito"
+        }
+    ]
+}

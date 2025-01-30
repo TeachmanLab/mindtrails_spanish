@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Decepción de aniversario",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu aniversario con tu pareja es este fin de semana, pero no te han mencionado que hicieron grandes planes. Tener tus expectativas defraudadas parece ser un evento recurrente, y crees que es hora de traerlas a ellos. Descubres una manera de traerlo a colación con calma, sin comenzar una... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Decepción de aniversario_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "pelea"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

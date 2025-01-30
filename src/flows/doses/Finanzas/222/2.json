@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Permitirse la educación",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tus hijos están pensando en ir a la universidad, pero tú piensas que tendrías que pedir un préstamo para ayudar a enviarlos. Recuerdas historias que has escuchado de personas que todavía pagan sus préstamos cuando están jubilados. Imagínate a ti mismo en la jubilación, piensas que tus préstamos estarán... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Permitirse la educación_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "pendientes"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Esperando grandes noticias251",
+    "title": "Esperando grandes noticias",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Esperando grandes noticias"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Esperando_grandes_noticias.jpg"
+        }
+    ]
+}

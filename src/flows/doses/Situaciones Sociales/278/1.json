@@ -1,0 +1,14 @@
+{
+    "name": "Aprender a bailar en las redes sociales297",
+    "title": "Aprender a bailar en las redes sociales",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Aprender a bailar en las redes sociales"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Aprender_a_bailar_en_las_redes_sociales.jpg"
+        }
+    ]
+}

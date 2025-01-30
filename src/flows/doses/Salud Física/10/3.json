@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Sintiéndote enfermo en un día caluroso",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Aunque no disfrutas de esta sensación, te das cuenta de que es algo que pasará naturalmente con..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Sintiéndote enfermo en un día caluroso_Salud Física_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "tiempo"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

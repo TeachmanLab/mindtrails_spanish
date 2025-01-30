@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Tajada de fruta",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Tu herida probablemente..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Tajada de fruta_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sanará rápidamente.",
+                "Se infectará."
+            ],
+            "columnCount": 1,
+            "answer": "Sanará rápidamente."
+        }
+    ]
+}

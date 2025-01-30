@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Recogiendo a un viejo amigo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te vas a encontrar con un amigo que no has visto en muchos años. Manejas a la estación de tren para recogerlo. Cuando llegas, sabes que pasarán un buen rato..."
+        },
+        {
+            "type": "Entry",
+            "name": "Recogiendo a un viejo amigo_Situaciones Sociales_entry1"
+        }
+    ]
+}

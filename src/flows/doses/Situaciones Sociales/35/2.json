@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Ir al cine solo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Vas a ver una película la noche del estreno. Cuando llegas al teatro, notas que eres la única persona sentada sola. Te sientes emocionado para que comience la..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Ir al cine solo_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "película"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

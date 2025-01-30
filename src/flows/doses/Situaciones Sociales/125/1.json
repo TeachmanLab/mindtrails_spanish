@@ -1,0 +1,14 @@
+{
+    "name": "Reconforto sobre la vacunación136",
+    "title": "Reconforto sobre la vacunación",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Reconforto sobre la vacunación"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Reconforto_sobre_la_vacunación.jpg"
+        }
+    ]
+}

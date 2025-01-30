@@ -1,0 +1,21 @@
+{
+    "title": "El viaje de compras",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "EL VIAJE DE COMPRAS: Piensas en tu salud reciente...\n\nY sonríes porque disfrutas comprando."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Muy diferente",
+                "Diferente",
+                "Similar",
+                "Muy similar",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "IBM_shopping_interpretation_3"
+        }
+    ]
+}

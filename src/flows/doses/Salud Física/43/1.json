@@ -1,0 +1,14 @@
+{
+    "name": "Celebraciones en un juego deportivo38",
+    "title": "Celebraciones en un juego deportivo",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Celebraciones en un juego deportivo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Celebraciones_en_un_juego_deportivo.jpg"
+        }
+    ]
+}

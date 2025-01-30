@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle",
+    "title": "Probando comidas nuevas",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "En la hora de almuerzo, tu compañero de trabajo trae una comida muy picante. Despues de probar un poquito, empiezas a sudar y sientes el latido de tu corazón. Estas sensaciones causan pensamientos ansiosos. Decides enfocarte en la conversación, y el resto del almuerzo lo es... "
+        },
+        {
+            "type": "Entry",
+            "name": "Probando comidas nuevas_Salud Mental_entry1"
+        }
+    ]
+}

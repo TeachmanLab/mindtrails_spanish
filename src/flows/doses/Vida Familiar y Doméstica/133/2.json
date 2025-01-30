@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Sintiéndote preocupado por las noticias",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Esta mañana, tu pareja está viendo las noticias y escuchas que muchas empresas están reduciendo personal. Piensas en qué sucederá si tu pareja pierde su trabajo. Te sientes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Sintiéndote preocupado por las noticias_Vida Familiar y Doméstica_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "asustado"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

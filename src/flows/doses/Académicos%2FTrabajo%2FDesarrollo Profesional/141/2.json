@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Sintiéndote Preparado",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás dando una presentación en una reunión mañana. Sabes que la calidad de tu presentación será tomada en cuenta por tu jefe. Mientras piensas en la presentación, te sientes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Sintiéndote Preparado_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "preparado"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

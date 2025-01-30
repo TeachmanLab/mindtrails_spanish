@@ -1,0 +1,14 @@
+{
+    "name": "Dinero de la familia204",
+    "title": "Dinero de la familia",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dinero de la familia"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Dinero_de_la_familia.jpg"
+        }
+    ]
+}

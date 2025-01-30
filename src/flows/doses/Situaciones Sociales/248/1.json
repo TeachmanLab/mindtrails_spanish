@@ -1,0 +1,14 @@
+{
+    "name": "Publicar sobre la familia270",
+    "title": "Publicar sobre la familia",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Publicar sobre la familia"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Publicar_sobre_la_familia.jpg"
+        }
+    ]
+}

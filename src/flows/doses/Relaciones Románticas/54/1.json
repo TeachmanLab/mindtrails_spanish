@@ -1,0 +1,14 @@
+{
+    "name": "Sintiéndote inferior por estar soltero48",
+    "title": "Sintiéndote inferior por estar soltero",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sintiéndote inferior por estar soltero"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Sintiéndote_inferior_por_estar_soltero.jpg"
+        }
+    ]
+}

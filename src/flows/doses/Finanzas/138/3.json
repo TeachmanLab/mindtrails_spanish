@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Comprando productos de oficina",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "¿Puedes comunicarte con tu supervisor para obtener ayuda con las finanzas relacionadas con el trabajo?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Comprando productos de oficina_Finanzas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "columnCount": 1,
+            "answer": "Si"
+        }
+    ]
+}

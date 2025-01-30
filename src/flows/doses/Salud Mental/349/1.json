@@ -1,0 +1,14 @@
+{
+    "name": "Larga caminata afuera384",
+    "title": "Larga caminata afuera",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Larga caminata afuera"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Larga_caminata_afuera.jpg"
+        }
+    ]
+}

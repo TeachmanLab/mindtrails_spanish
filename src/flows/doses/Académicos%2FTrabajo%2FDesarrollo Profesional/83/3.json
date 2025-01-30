@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Breve introducción",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Al final, te das cuenta de que todos tienen estos momentos, y te recuperas rápidamente. Mientras terminas de presentarte, ves que los demás están escuchando con gran..."
+        },
+        {
+            "type": "Entry",
+            "name": "Breve introducción_Académicos/Trabajo/Desarrollo Profesional_entry2"
+        }
+    ]
+}

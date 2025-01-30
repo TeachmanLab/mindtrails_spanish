@@ -1,0 +1,14 @@
+{
+    "name": "Mantener a la familia76",
+    "title": "Mantener a la familia",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Mantener a la familia"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Mantener_a_la_familia.jpg"
+        }
+    ]
+}

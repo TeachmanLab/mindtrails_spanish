@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Usando tecnología diferente",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recientemente reemplazaste tu computadora portátil y tuviste que optar por una opción más económica. Tu jefe te pide que completes un proyecto que requerirá una aplicación que tu nueva computadora no tiene. Cuando piensas en completar tu trabajo para este proyecto, te sientes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Usando tecnología diferente_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "capaz"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

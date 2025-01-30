@@ -1,0 +1,14 @@
+{
+    "name": "Multitud del discurso57",
+    "title": "Multitud del discurso",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Multitud del discurso"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Multitud_del_discurso.jpg"
+        }
+    ]
+}

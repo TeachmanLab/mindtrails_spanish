@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Opinión importante",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Al final, te das cuenta de que señalaron el error para que pudieras mejorarlo antes de enviarlo. Corriges la sección incompleta y crees que tu jefe piensa que estás..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Opinión importante_Salud Mental_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "aprendiendo"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

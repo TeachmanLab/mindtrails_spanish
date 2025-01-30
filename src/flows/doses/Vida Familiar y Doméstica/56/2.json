@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Publicar sobre la familia",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Miras a través de tus redes sociales. Te diste cuenta de que tus hijos en edad de secundaria solo publican fotografías con tus amigos. Publicaste una foto familiar y etiquetaste a tus hijos. Tus hijos deben pensar que eres..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Publicar sobre la familia_Vida Familiar y Doméstica_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "genuino"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

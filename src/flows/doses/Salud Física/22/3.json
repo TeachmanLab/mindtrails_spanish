@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Nadando vueltas",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Decides que puedes tolerar estas sensaciones, y sigues..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Nadando vueltas_Salud Física_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "nadando"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

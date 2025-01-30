@@ -1,0 +1,14 @@
+{
+    "name": "Hablando de ti322",
+    "title": "Hablando de ti",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Hablando de ti"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Hablando_de_ti.jpg"
+        }
+    ]
+}

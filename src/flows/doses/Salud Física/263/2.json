@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Caminata con amigos",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tú y tus amigos han decidido ir en una caminata, aunque temes que te agotes demasiado. Un rato después de comenzar la caminata, empiezas a respirar con dificultad. Piensas que las posibilidades de que tengas que parar son..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Caminata con amigos_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "altas"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

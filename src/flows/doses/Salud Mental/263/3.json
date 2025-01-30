@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Cena cara",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Decides hablar con tus amigos al respecto. Son muy comprensivos y eligen un lugar más asequible para comer. Te sientes orgulloso de..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Cena cara_Salud Mental_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "defenderte"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

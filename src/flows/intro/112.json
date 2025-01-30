@@ -1,0 +1,21 @@
+{
+    "name": "Puzzle",
+    "title": "Contribuyendo a una discusión",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Su jefe convoca una reunión para discutir un nuevo proyecto que involucrará a la mayor parte del personal de su oficina. De repente se le pide que contribuya con sus ideas a la discusión. Rápidamente se te ocurren algunas ideas sobre el terreno y crees que tus colegas encontrarán tus ideas..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Contribuyendo a una discusión_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "interesantes"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Pánico de presentación312",
+    "title": "Pánico de presentación",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Pánico de presentación"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Pánico_de_presentación.jpg"
+        }
+    ]
+}

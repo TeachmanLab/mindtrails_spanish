@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle",
+    "title": "Ruidos del exterior",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te acabas de mudar a una nueva casa. Afuera está oscuro y de repente oyes ruidos afuera. Miras por la ventana y ves un..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Ruidos del exterior_Vida Familiar y Doméstica_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "gato"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

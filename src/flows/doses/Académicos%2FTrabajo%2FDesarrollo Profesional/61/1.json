@@ -1,0 +1,14 @@
+{
+    "name": "Reorganización después de la exposición53",
+    "title": "Reorganización después de la exposición",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Reorganización después de la exposición"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Reorganización_después_de_la_exposición.jpg"
+        }
+    ]
+}

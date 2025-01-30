@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Obtener una oportunidad",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Tus calificaciones..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Obtener una oportunidad_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Te ponen en una buena posición para conseguir una entrevista.",
+                "Probablemente no sean lo suficientemente fuertes como para hacerte destacar."
+            ],
+            "columnCount": 1,
+            "answer": "Te ponen en una buena posición para conseguir una entrevista."
+        }
+    ]
+}

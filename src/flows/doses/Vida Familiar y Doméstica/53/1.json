@@ -1,0 +1,14 @@
+{
+    "name": "Traer un nuevo amigo a casa47",
+    "title": "Traer un nuevo amigo a casa",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Traer un nuevo amigo a casa"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Traer_un_nuevo_amigo_a_casa.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "No sentirse apoyado181",
+    "title": "No sentirse apoyado",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "No sentirse apoyado"
+        },
+        {
+            "type": "Media",
+            "file": "/images/No_sentirse_apoyado.jpg"
+        }
+    ]
+}

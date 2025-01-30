@@ -1,0 +1,14 @@
+{
+    "name": "Lograr tus objetivos72",
+    "title": "Lograr tus objetivos",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Lograr tus objetivos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Lograr_tus_objetivos.jpg"
+        }
+    ]
+}
