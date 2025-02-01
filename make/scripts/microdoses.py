@@ -217,7 +217,7 @@ for group_name, group in groups.items():
 
     # Read dose content
     for domain in domains:
-        dose_count = 0
+        dose_count = 1
         for short_dose in short_doses[domain]:
 
             if short_dose == "Write Your Own":
@@ -239,7 +239,7 @@ for group_name, group in groups.items():
 
     shutil.rmtree(dir_doses,ignore_errors=True)
 
-    # Write the dose files
+    # Write dose files
     for domain, doses in domain_doses.items():
         dir_domain = f"{dir_doses}/{dir_safe(domain)}"
         Path(dir_domain).mkdir(parents=True)
@@ -252,7 +252,7 @@ for group_name, group in groups.items():
                 with open(f"{dir_dose}/{j}.json", 'w+', encoding='utf-8') as outfile:
                     json.dump(page, outfile, indent=4, ensure_ascii=False)
 
-    #Configure dose selection
+    #Configure flows guides
     with open(f"{dir_doses}/__flow__.json", 'w+', encoding='utf-8') as outfile:
         json.dump({"mode":"select", "text":domain_selection_text(), "title":"MindTrails Español"}, outfile, indent=4, ensure_ascii=False)
 

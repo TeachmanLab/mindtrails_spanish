@@ -92,7 +92,13 @@ def create_long_pages(label, scenario_description, unique_image, thoughts, feeli
 
             input = create_input(input_1,text=text)
 
-            pages.append({"title": title, "name": label, "elements": list(filter(None,[text,media,input])), **show_buttons, **timeout })
+            pages.append({
+                "header_text": title,
+                "header_icon": "assets/subtitle.png",
+                "elements": list(filter(None,[text,media,input])), 
+                **show_buttons, 
+                **timeout 
+            })
 
     return pages
 
@@ -124,8 +130,8 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
 
     if lessons_learned:  # if it should include a "lessons learned" page
         pages.append({
-            "name": f"Lessons Learned{row_num}",
-            "title": "Lecciones Aprendidas",  # changed
+            "header_text": "Lecciones Aprendidas",  # changed
+            "header_icon": "assets/subtitle.png",
             "elements": [
                 {"type": "Text","Text": clean_up_unicode(lessons_learned_dict[domain])},
                 {"type": "Entry", "name": f"lessons_learned_{domain}_{scenario_num}"}
@@ -135,8 +141,8 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
     if letters_missing == "all" and is_first_scenario:
         # if all letters missing, and it's the first scenario, add an instructions page
         pages.append({
-            "name": f"{label} Instructions",
-            "title": "Instrucciones",  # changed
+            "header_text": "Instrucciones",  # changed
+            "header_icon": "assets/subtitle.png",
             "elements": [{
                 "type": "Text",
                 "text": "Las historias que estás a punto de ver son un poco diferentes a las que has visto"
@@ -156,8 +162,8 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
         image_url = f"/images/{label.strip().replace(' ', '_')}.jpg"
 
     pages.append({  # adding the image page
-        "name": f"{label}{row_num}",
-        "title": label,
+        "header_text": label,
+        "header_icon": "assets/subtitle.png",
         "elements": [
             {"type": "Label", "text": label },
             {"type": "Media", "file": image_url }
@@ -165,8 +171,8 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
     })
 
     pages.append({  # adding the puzzle page
-        "name": "Puzzle",
-        "title": label,
+        "header_text": label,
+        "header_icon": "assets/subtitle.png",
         "elements": [
             {"type": "Text", "text": puzzle_text_1},
             {
@@ -343,3 +349,19 @@ def create_survey_page(text=None, media=None, image_framed=None, items=None, inp
     page     = { "title": title, "elements": elements, **timeout, **show_buttons, **condition }
 
     return page
+
+def create_subdomain_page(subdomain, resource_texts):
+    resource_text = '<br/><br/><br/><br/>'.join(resource_texts)
+    return {
+        "header_text": subdomain,
+        "header_icon": "assets/subtitle.png",
+        "elements": [ { "type": "Text", "html": True, "text": resource_text } ]
+    }
+
+def create_video_page(video_number):
+    return {
+        "elements": [
+            {"type": "Text" , "text": "¡Presione play en el video de entrenamiento a continuación para obtener más información!"},
+            {"type": "Media", "file": f"/videos/video{video_number}.mp4", "Frame": True}
+        ]
+    }

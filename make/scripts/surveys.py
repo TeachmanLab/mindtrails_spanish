@@ -7,7 +7,7 @@ from itertools import islice, chain, product
 from pathlib import Path
 import numpy as np
 
-from helpers_pages import create_scenario_pages, create_survey_page
+from helpers_pages import create_scenario_pages, create_survey_page, create_video_page
 from helpers_utilities import clean_up_unicode, create_puzzle, get_groupnames, shuffle
 
 dir_root = "./make"
@@ -69,15 +69,6 @@ def get_flowpages(flowname,groupname,survey_pages):
     if flowname.startswith("biweekly") and groupname == "control":
         yield from flat(survey_pages[("all","biweekly")].values())
         yield from flat(survey_pages[(flowname[-1],"biweekly_control")].values())
-
-def create_video_page(video_number):
-    return {
-        "name": f"Video {video_number}",
-        "elements": [
-            {"type": "Text" , "text": "¡Presione play en el video de entrenamiento a continuación para obtener más información!"},
-            {"type": "Media", "file": f"/videos/video{video_number}.mp4", "Frame": True}
-        ]
-    }
 
 def _create_practice_pages():
     with open(f"{dir_csv}/Spanish_dose1_scenarios.csv", "r", encoding="utf-8") as dose1_read_obj:  # scenarios for first dose in file
