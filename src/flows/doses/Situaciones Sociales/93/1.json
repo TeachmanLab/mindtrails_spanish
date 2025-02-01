@@ -1,14 +1,14 @@
 {
-    "name": "Apoyándose en sus compañeros82",
-    "title": "Apoyándose en sus compañeros",
+    "header_text": "Cumpleaños de un amigo cercano",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Apoyándose en sus compañeros"
+            "text": "Cumpleaños de un amigo cercano"
         },
         {
             "type": "Media",
-            "file": "/images/Apoyándose_en_sus_compañeros.jpg"
+            "file": "/images/Cumpleaños_de_un_amigo_cercano.jpg"
         }
     ]
 }

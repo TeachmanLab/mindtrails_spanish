@@ -1,14 +1,15 @@
 {
-    "name": "Trabajando para salir adelante189",
-    "title": "Trabajando para salir adelante",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_icon": "assets/subtitle.png",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
-            "type": "Label",
-            "text": "Trabajando para salir adelante"
+            "type": "Text",
+            "text": "Piensas en una situación próxima que quieras evitar porque te pone ansioso. ¿Cómo puedes pensarlo de manera diferente para que se sienta menos aterrador? "
         },
         {
-            "type": "Media",
-            "file": "/images/Trabajando_para_salir_adelante.jpg"
+            "type": "Entry",
+            "name": "Consejo #9_entry"
         }
     ]
 }

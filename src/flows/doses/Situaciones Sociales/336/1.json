@@ -1,14 +1,14 @@
 {
-    "name": "La nueva ciudad373",
-    "title": "La nueva ciudad",
+    "header_text": "Gente fiestera",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "La nueva ciudad"
+            "text": "Gente fiestera"
         },
         {
             "type": "Media",
-            "file": "/images/La_nueva_ciudad.jpg"
+            "file": "/images/Gente_fiestera.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Errores en el trabajo187",
-    "title": "Errores en el trabajo",
+    "header_text": "Trabajando para salir adelante",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Errores en el trabajo"
+            "text": "Trabajando para salir adelante"
         },
         {
             "type": "Media",
-            "file": "/images/Errores_en_el_trabajo.jpg"
+            "file": "/images/Trabajando_para_salir_adelante.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Problemas de visión243",
-    "title": "Problemas de visión",
+    "header_text": "Cancelación de concierto",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Problemas de visión"
+            "text": "Cancelación de concierto"
         },
         {
             "type": "Media",
-            "file": "/images/Problemas_de_visión.jpg"
+            "file": "/images/Cancelación_de_concierto.jpg"
         }
     ]
 }

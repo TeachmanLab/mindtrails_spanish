@@ -1,14 +1,14 @@
 {
-    "name": "Tiempo para ti mismo58",
-    "title": "Tiempo para ti mismo",
+    "header_text": "Broma interna",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tiempo para ti mismo"
+            "text": "Broma interna"
         },
         {
             "type": "Media",
-            "file": "/images/Tiempo_para_ti_mismo.jpg"
+            "file": "/images/Broma_interna.jpg"
         }
     ]
 }

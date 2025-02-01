@@ -1,14 +1,14 @@
 {
-    "name": "Opinión importante274",
-    "title": "Opinión importante",
+    "header_text": "Amigos en las relaciones",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Opinión importante"
+            "text": "Amigos en las relaciones"
         },
         {
             "type": "Media",
-            "file": "/images/Opinión_importante.jpg"
+            "file": "/images/Amigos_en_las_relaciones.jpg"
         }
     ]
 }

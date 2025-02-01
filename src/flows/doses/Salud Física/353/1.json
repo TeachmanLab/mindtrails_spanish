@@ -1,14 +1,11 @@
 {
-    "name": "Dando positivo en una prueba de enfermedad389",
-    "title": "Dando positivo en una prueba de enfermedad",
+    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Dando positivo en una prueba de enfermedad"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Dando_positivo_en_una_prueba_de_enfermedad.jpg"
+            "type": "Text",
+            "text": "Antes de volver a buscar la misma pregunta sobre su salud en línea, pregúntese si realmente está buscando nueva información o simplemente está volviendo a verificar algo. Reduzca el tiempo dedicado a volver a comprobar."
         }
     ]
 }

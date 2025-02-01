@@ -1,14 +1,14 @@
 {
-    "name": "Serpientes venenosas316",
-    "title": "Serpientes venenosas",
+    "header_text": "Un pastel de cumpleaños",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Serpientes venenosas"
+            "text": "Un pastel de cumpleaños"
         },
         {
             "type": "Media",
-            "file": "/images/Serpientes_venenosas.jpg"
+            "file": "/images/Un_pastel_de_cumpleaños.jpg"
         }
     ]
 }

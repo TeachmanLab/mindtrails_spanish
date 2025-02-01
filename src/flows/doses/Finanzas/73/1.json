@@ -1,14 +1,14 @@
 {
-    "name": "Ahorrando dinero64",
-    "title": "Ahorrando dinero",
+    "header_text": "Gestión de facturas",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ahorrando dinero"
+            "text": "Gestión de facturas"
         },
         {
             "type": "Media",
-            "file": "/images/Ahorrando_dinero.jpg"
+            "file": "/images/Gestión_de_facturas.jpg"
         }
     ]
 }

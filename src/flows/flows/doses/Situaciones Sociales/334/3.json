@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "La nueva ciudad",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cuando piensas en la vida en tu nueva ciudad, no crees que tengas que estar solo y crees que harás..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "La nueva ciudad_Situaciones Sociales_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "amigos"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

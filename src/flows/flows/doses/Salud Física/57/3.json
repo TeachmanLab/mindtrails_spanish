@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Aprendiendo a esquíar",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Una vez que llegues a la curva, probablemente..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Aprendiendo a esquíar_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Vas a sobrepasarla y seguir esquiando cuesta abajo.",
+                "Vas a caerte."
+            ],
+            "columnCount": 1,
+            "answer": "Vas a sobrepasarla y seguir esquiando cuesta abajo."
+        }
+    ]
+}

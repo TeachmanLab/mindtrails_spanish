@@ -1,14 +1,11 @@
 {
-    "name": "Chistes de compras50",
-    "title": "Chistes de compras",
+    "header_text": "Maneja tus sentimientos: Finanzas",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Chistes de compras"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Chistes_de_compras.jpg"
+            "type": "Text",
+            "text": "Escriba dónde entra y sale su dinero y vea dónde se pueden hacer ajustes para que sus finanzas parezcan más manejables."
         }
     ]
 }

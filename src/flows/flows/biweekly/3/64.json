@@ -1,0 +1,21 @@
+{
+    "title": "El análisis de sangre",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "EL ANÁLISIS DE SANGRE: El médico dice que te llamará en unas semanas...\n\nY piensas en lo amable que es tu médico."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Muy diferente",
+                "Diferente",
+                "Similar",
+                "Muy similar",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "IBM_blood_interpretation_1"
+        }
+    ]
+}

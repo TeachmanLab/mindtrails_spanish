@@ -1,14 +1,14 @@
 {
-    "name": "Zambullirte393",
-    "title": "Zambullirte",
+    "header_text": "Foto con amigos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Zambullirte"
+            "text": "Foto con amigos"
         },
         {
             "type": "Media",
-            "file": "/images/Zambullirte.jpg"
+            "file": "/images/Foto_con_amigos.jpg"
         }
     ]
 }

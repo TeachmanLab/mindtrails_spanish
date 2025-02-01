@@ -1,14 +1,14 @@
 {
-    "name": "Multitud del discurso57",
-    "title": "Multitud del discurso",
+    "header_text": "Revisando tus cualificaciones",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Multitud del discurso"
+            "text": "Revisando tus cualificaciones"
         },
         {
             "type": "Media",
-            "file": "/images/Multitud_del_discurso.jpg"
+            "file": "/images/Revisando_tus_cualificaciones.jpg"
         }
     ]
 }

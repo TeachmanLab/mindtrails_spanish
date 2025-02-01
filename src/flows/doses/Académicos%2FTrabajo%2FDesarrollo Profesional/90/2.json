@@ -1,14 +1,14 @@
 {
-    "name": "Lograr tus objetivos80",
-    "title": "Lograr tus objetivos",
+    "header_text": "Resultados de la evaluación",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Lograr tus objetivos"
+            "text": "Resultados de la evaluación"
         },
         {
             "type": "Media",
-            "file": "/images/Lograr_tus_objetivos.jpg"
+            "file": "/images/Resultados_de_la_evaluación.jpg"
         }
     ]
 }

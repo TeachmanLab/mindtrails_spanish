@@ -1,14 +1,12 @@
 {
-    "name": "Puzzle",
-    "title": "Oportunidad de espectáculo",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Una de tus celebridades favoritas está haciendo un espectáculo cerca de ti, y has estado mirando entradas. Las entradas para el espectáculo son más caras de lo que esperabas, y tus cheques de pago no han sido tan altos como esperabas. Decides que ahorrar es más importante y sabes que habrá otro espectáculo en tu área más adelante al que podrás..."
-        },
-        {
-            "type": "Entry",
-            "name": "Oportunidad de espectáculo_Finanzas_entry1"
+            "text": "Piensa en una situación que te genera ansiedad y que te haya ocurrido en el pasado, o que te preocupa que suceda en el futuro. Escribe tu propia historia de entrenamiento basada en esta situación, asegurándote de incluir un final positivo o no amenazante en la oración final de la historia."
         }
     ]
 }

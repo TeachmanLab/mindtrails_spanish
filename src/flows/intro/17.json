@@ -1,5 +1,6 @@
 {
-    "title": "Cuestionario de tratamiento y salud mental",
+    "header_text": "Cuestionario de tratamiento y salud mental",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

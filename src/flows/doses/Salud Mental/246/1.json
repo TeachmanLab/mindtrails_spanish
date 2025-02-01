@@ -1,14 +1,14 @@
 {
-    "name": "Mensajes de texto honestos268",
-    "title": "Mensajes de texto honestos",
+    "header_text": "Comparar su trabajo con el de otros",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mensajes de texto honestos"
+            "text": "Comparar su trabajo con el de otros"
         },
         {
             "type": "Media",
-            "file": "/images/Mensajes_de_texto_honestos.jpg"
+            "file": "/images/Comparar_su_trabajo_con_el_de_otros.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Preocuparse por los ahorros13",
-    "title": "Preocuparse por los ahorros",
+    "header_text": "Ahorrando dinero",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Preocuparse por los ahorros"
+            "text": "Ahorrando dinero"
         },
         {
             "type": "Media",
-            "file": "/images/Preocuparse_por_los_ahorros.jpg"
+            "file": "/images/Ahorrando_dinero.jpg"
         }
     ]
 }

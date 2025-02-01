@@ -1,14 +1,14 @@
 {
-    "name": "Salud y envejecimiento68",
-    "title": "Salud y envejecimiento",
+    "header_text": "Decisiones de viaje",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Salud y envejecimiento"
+            "text": "Decisiones de viaje"
         },
         {
             "type": "Media",
-            "file": "/images/Salud_y_envejecimiento.jpg"
+            "file": "/images/Decisiones_de_viaje.jpg"
         }
     ]
 }

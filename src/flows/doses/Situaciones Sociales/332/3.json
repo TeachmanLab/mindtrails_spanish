@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Sentirse diferente",
+    "header_title": "Desconectandote",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es malo que te sientas diferente a los demás en tu campo?"
+            "Text": "¿Te sientes cómodo pidiéndole a la jefa de tu departamento que repita su pregunta?"
         },
         {
             "type": "Buttons",
-            "name": "Sentirse diferente_Situaciones Sociales_comp_question",
+            "name": "Desconectandote_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "No"
+            "answer": "Si"
         }
     ]
 }

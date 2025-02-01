@@ -1,14 +1,14 @@
 {
-    "name": "Consejos de padres63",
-    "title": "Consejos de padres",
+    "header_text": "Ir a terapia",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Consejos de padres"
+            "text": "Ir a terapia"
         },
         {
             "type": "Media",
-            "file": "/images/Consejos_de_padres.jpg"
+            "file": "/images/Ir_a_terapia.jpg"
         }
     ]
 }

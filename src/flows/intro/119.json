@@ -1,6 +1,6 @@
 {
-    "name": "Question",
-    "title": "Atención en una tienda",
+    "header_title": "Atención en una tienda",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {

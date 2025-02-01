@@ -1,14 +1,14 @@
 {
-    "name": "Clima lluvioso359",
-    "title": "Clima lluvioso",
+    "header_text": "Broma interna",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Clima lluvioso"
+            "text": "Broma interna"
         },
         {
             "type": "Media",
-            "file": "/images/Clima_lluvioso.jpg"
+            "file": "/images/Broma_interna.jpg"
         }
     ]
 }

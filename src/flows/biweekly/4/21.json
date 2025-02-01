@@ -1,5 +1,6 @@
 {
-    "title": "Conociendo a un amigo",
+    "header_text": "Conociendo a un amigo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

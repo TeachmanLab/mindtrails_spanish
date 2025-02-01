@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Comparando salarios",
+    "header_title": "Sentir presión al salir",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus amigos te juzgarán por ganar menos dinero?"
+            "Text": "¿Repasarás tu presupuesto este mes?"
         },
         {
             "type": "Buttons",
-            "name": "Comparando salarios_Finanzas_comp_question",
+            "name": "Sentir presión al salir_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,

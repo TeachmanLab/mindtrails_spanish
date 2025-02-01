@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Un estilo diferente",
+    "header_title": "No recibir una invitación",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu amigo pensó que tu nuevo traje se veía ridículo?"
+            "Text": "¿No te invitó porque estabas ocupado?"
         },
         {
             "type": "Buttons",
-            "name": "Un estilo diferente_Situaciones Sociales_comp_question",
+            "name": "No recibir una invitación_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "No"
+            "answer": "Sí"
         }
     ]
 }

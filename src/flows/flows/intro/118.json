@@ -1,0 +1,21 @@
+{
+    "name": "Puzzle 2",
+    "title": "Atención en una tienda",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Después de unos momentos, los demás compradores se dan la vuelta; simplemente se sorprendieron por el fuerte ruido. El dueño de la tienda acepta amablemente tus disculpas y te dice que no te preocupes por el desorden, para que luego te sientas..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Atención en una tienda_Situaciones Sociales_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "tranquilo"
+            ]
+        }
+    ]
+}

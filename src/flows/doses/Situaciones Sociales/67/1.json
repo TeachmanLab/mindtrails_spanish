@@ -1,14 +1,11 @@
 {
-    "name": "Chistes con amigos59",
-    "title": "Chistes con amigos",
+    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Chistes con amigos"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Chistes_con_amigos.jpg"
+            "type": "Text",
+            "text": "Trata de imaginarte a ti mismo como un extraño observando tu conversación. Pregúntate si pensarían en cómo te está yendo de la misma manera que a ti. "
         }
     ]
 }

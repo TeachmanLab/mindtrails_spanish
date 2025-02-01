@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Mente va en blanco",
+    "header_title": "Alzar la voz en una clase",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Te das un momento para ordenar tus pensamientos y luego responder a la pregunta. Cuando piensas en la respuesta que diste, te sientes... "
+            "Text": "¿Te da vergüenza haber levantado la mano?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Mente va en blanco_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
+            "type": "Buttons",
+            "name": "Alzar la voz en una clase_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "bien"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "answer": "No"
         }
     ]
 }

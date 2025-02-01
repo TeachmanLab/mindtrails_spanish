@@ -1,14 +1,14 @@
 {
-    "name": "Comprometerse con las actividades185",
-    "title": "Comprometerse con las actividades",
+    "header_text": "Errores en el trabajo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comprometerse con las actividades"
+            "text": "Errores en el trabajo"
         },
         {
             "type": "Media",
-            "file": "/images/Comprometerse_con_las_actividades.jpg"
+            "file": "/images/Errores_en_el_trabajo.jpg"
         }
     ]
 }

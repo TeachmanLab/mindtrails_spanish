@@ -1,5 +1,6 @@
 {
-    "title": "Ejercicio de limón",
+    "header_text": "Ejercicio de limón",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

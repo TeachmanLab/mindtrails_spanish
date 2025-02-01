@@ -1,14 +1,14 @@
 {
-    "name": "Tomándo el autobús322",
-    "title": "Tomándo el autobús",
+    "header_text": "Clase de baile",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tomándo el autobús"
+            "text": "Clase de baile"
         },
         {
             "type": "Media",
-            "file": "/images/Tomándo_el_autobús.jpg"
+            "file": "/images/Clase_de_baile.jpg"
         }
     ]
 }

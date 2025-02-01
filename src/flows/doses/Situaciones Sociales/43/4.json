@@ -1,0 +1,24 @@
+{
+    "header_title": "Comparaciones de redes sociales",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "¿Te abstienes de publicar una foto tuya porque no te sientes tan atractiva como las personas que ves en otras publicaciones de las redes sociales?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Comparaciones de redes sociales_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "columnCount": 1,
+            "answer": "No"
+        }
+    ]
+}

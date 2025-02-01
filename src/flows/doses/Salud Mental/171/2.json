@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Tus habilidades con los bolos",
+    "header_text": "Obteniendo ayuda",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Llevas varios años jugando a los bolos en una liga recreativa con algunos amigos. Has mejorado desde que empezaste, pero aún no eres tan hábil como te gustaría ser. Cuando piensas en ti mismo en los años venideros, ves que tus habilidades con los bolos son..."
+            "text": "Estos últimos meses, te has sentido muy deprimido y no has estado disfrutando de tus actividades normales. Te preguntas si tratamiento funcionaría para ti, pero te sientes desanimado. A medida que piensas más en buscar ayuda, crees que te ayudaría a sentirte..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Tus habilidades con los bolos_Salud Mental_puzzle1",
+            "name": "Obteniendo ayuda_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "decepcionantes"
+                "mejor"
             ],
             "missing_letter_count": 2
         }

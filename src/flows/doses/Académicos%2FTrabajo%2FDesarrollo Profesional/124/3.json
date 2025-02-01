@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Pensando en preguntas",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Proyecto eliminado",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Las preguntas de los demás son mejores que las tuyas?"
+            "text": "Respiras hondo y decides contarle a tu jefe lo sucedido. Tú te sientes..."
         },
         {
-            "type": "Buttons",
-            "name": "Pensando en preguntas_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "Proyecto eliminado_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "bien"
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 1
         }
     ]
 }

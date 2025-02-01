@@ -1,14 +1,14 @@
 {
-    "name": "Compartiendo programas favoritos85",
-    "title": "Compartiendo programas favoritos",
+    "header_text": "Recuerdo conduciendo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Compartiendo programas favoritos"
+            "text": "Recuerdo conduciendo"
         },
         {
             "type": "Media",
-            "file": "/images/Compartiendo_programas_favoritos.jpg"
+            "file": "/images/Recuerdo_conduciendo.jpg"
         }
     ]
 }

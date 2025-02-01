@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Almuerzo con un amigo",
+    "header_title": "Plato típico",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Probablemente te estaban mirando porque..."
+            "Text": "Cuando piensas en las reacciones a tu comida, te imaginas a los otros invitados..."
         },
         {
             "type": "Buttons",
-            "name": "Almuerzo con un amigo_Situaciones Sociales_comp_question",
+            "name": "Plato típico_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Eres una excelente compañía.",
-                "Tienes malos modales."
+                "Dejando sus porciones en sus platos.",
+                "Sirviéndose una segunda vez."
             ],
             "columnCount": 1,
-            "answer": "Eres una excelente compañía."
+            "answer": "Dejando sus porciones en sus platos."
         }
     ]
 }

@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Ahorrar dinero",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "¿Eres duro contigo mismo porque no compras el almuerzo como tus amigos?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Ahorrar dinero_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "columnCount": 1,
+            "answer": "No"
+        }
+    ]
+}

@@ -1,14 +1,14 @@
 {
-    "name": "Participación361",
-    "title": "Participación",
+    "header_text": "El escaparate de danza",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Participación"
+            "text": "El escaparate de danza"
         },
         {
             "type": "Media",
-            "file": "/images/Participación.jpg"
+            "file": "/images/El_escaparate_de_danza.jpg"
         }
     ]
 }

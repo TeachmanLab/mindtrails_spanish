@@ -1,14 +1,11 @@
 {
-    "name": "Corte de pelo289",
-    "title": "Corte de pelo",
+    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Corte de pelo"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Corte_de_pelo.jpg"
+            "type": "Text",
+            "text": "Pregúntese si se están satisfaciendo sus necesidades sociales. (¿Quieres estar rodeado de otras personas en este momento? ¿Quieres estar solo?) Permítete honrar estas necesidades dejando que las personas que te rodean sepan cómo te sientes y qué necesitas."
         }
     ]
 }

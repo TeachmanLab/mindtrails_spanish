@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Cafetería",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Después de limpiar el desorden lo mejor que puedes, te das cuenta de que su reacción fue normal, una respuesta rápida. Te dicen que no están molestos contigo, y crees que son..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Cafetería_Situaciones Sociales_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "sinceros"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

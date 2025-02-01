@@ -1,14 +1,15 @@
 {
-    "name": "Prepararte para tener éxito69",
-    "title": "Prepararte para tener éxito",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_icon": "assets/subtitle.png",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
-            "type": "Label",
-            "text": "Prepararte para tener éxito"
+            "type": "Text",
+            "text": "Piensas en una situación próxima que quieras evitar porque te pone ansioso. ¿Cómo puedes pensarlo de manera diferente para que se sienta menos aterrador? "
         },
         {
-            "type": "Media",
-            "file": "/images/Prepararte_para_tener_éxito.jpg"
+            "type": "Entry",
+            "name": "Consejo #9_entry"
         }
     ]
 }

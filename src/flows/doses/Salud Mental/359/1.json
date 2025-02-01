@@ -1,14 +1,14 @@
 {
-    "name": "Lunes por la mañana393",
-    "title": "Lunes por la mañana",
+    "header_text": "Quedando atrás",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Lunes por la mañana"
+            "text": "Quedando atrás"
         },
         {
             "type": "Media",
-            "file": "/images/Lunes_por_la_mañana.jpg"
+            "file": "/images/Quedando_atrás.jpg"
         }
     ]
 }

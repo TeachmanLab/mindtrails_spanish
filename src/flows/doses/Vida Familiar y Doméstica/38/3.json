@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Tensión familiar",
+    "header_title": "Tu primer hijo",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Después de pensarlo, decides que el tema del desacuerdo sigue siendo importante para ti. Optas por evitar al miembro de la familia para evitar encontrarte en una situación..."
+            "Text": "Crees que hay muchas posibilidades de que cuando su hijo sea adulto..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Tensión familiar_Vida Familiar y Doméstica_puzzle_word2",
+            "type": "Buttons",
+            "name": "Tu primer hijo_Vida Familiar y Doméstica_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "incómoda"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Ustedes dos casi nunca se verán",
+                "Ustedes dos hablarán regularmente."
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "answer": "Ustedes dos casi nunca se verán"
         }
     ]
 }

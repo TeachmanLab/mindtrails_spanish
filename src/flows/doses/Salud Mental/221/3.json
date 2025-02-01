@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Compartiendo programas favoritos",
+    "header_title": "Lograr tus objetivos",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus compañeros de trabajo te juzgan por lo que dijiste sobre el programa de televisión?"
+            "Text": "¿Crees que tu solicitud?"
         },
         {
             "type": "Buttons",
-            "name": "Compartiendo programas favoritos_Salud Mental_comp_question",
+            "name": "Lograr tus objetivos_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Lo coloca en una buena posición para conseguir este nuevo trabajo.",
+                "No será lo suficientemente bueno para conseguirte el trabajo."
             ],
             "columnCount": 1,
-            "answer": "Si"
+            "answer": "Lo coloca en una buena posición para conseguir este nuevo trabajo."
         }
     ]
 }

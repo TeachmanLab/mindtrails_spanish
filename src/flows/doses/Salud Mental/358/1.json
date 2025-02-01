@@ -1,14 +1,14 @@
 {
-    "name": "Deprimido392",
-    "title": "Deprimido",
+    "header_text": "Correo electrónico importante",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Deprimido"
+            "text": "Correo electrónico importante"
         },
         {
             "type": "Media",
-            "file": "/images/Deprimido.jpg"
+            "file": "/images/Correo_electrónico_importante.jpg"
         }
     ]
 }

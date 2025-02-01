@@ -1,14 +1,14 @@
 {
-    "name": "Un trago de agua390",
-    "title": "Un trago de agua",
+    "header_text": "Palabra tropiezo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un trago de agua"
+            "text": "Palabra tropiezo"
         },
         {
             "type": "Media",
-            "file": "/images/Un_trago_de_agua.jpg"
+            "file": "/images/Palabra_tropiezo.jpg"
         }
     ]
 }

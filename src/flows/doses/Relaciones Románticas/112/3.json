@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "La cita",
+    "header_title": "Estando soltero",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Al final de la cita, te das cuenta de que es muy común sentirse un poco incómodo en situaciones como estas. Después de explicar y disculparte, crees que a tu cita le pareció graciosa y tierna tu..."
+            "Text": "¿Te molesta estar soltero?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "La cita_Relaciones Románticas_puzzle_word2",
+            "type": "Buttons",
+            "name": "Estando soltero_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "titubeo"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "No"
         }
     ]
 }

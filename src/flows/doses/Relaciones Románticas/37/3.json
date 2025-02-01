@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Una respuesta tardía",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Relación a largo plazo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu pareja está enojada contigo?"
+            "text": "No te preocupas por tu relación y ves que tu relación se..."
         },
         {
-            "type": "Buttons",
-            "name": "Una respuesta tardía_Relaciones Románticas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Relación a largo plazo_Relaciones Románticas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "fortalece"
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 2
         }
     ]
 }

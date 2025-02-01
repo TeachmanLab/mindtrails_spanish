@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Conversando en una fiesta",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Plato típico",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "El grupo que estaba hablando probablemente te ignoró porque..."
+            "text": "Crees que las personas en la fiesta no pensarán que eres un mal cocinero y probablemente pensarán que tu comida sabe..."
         },
         {
-            "type": "Buttons",
-            "name": "Conversando en una fiesta_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Plato típico_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "No te vieron.",
-                "No les caes bien."
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "bien"
             ],
-            "columnCount": 1,
-            "answer": "No te vieron."
+            "missing_letter_count": 1
         }
     ]
 }

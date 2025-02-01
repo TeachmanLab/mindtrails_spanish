@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Ir al cine solo",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Futuras amistades",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás bien sentarte solo?"
+            "text": "Cuando te imaginas haciendo la transición a la jubilación, no piensas que te habrás distanciado de tus buenos amigos, y te imaginas a ti mismo junto a tus amigos..."
         },
         {
-            "type": "Buttons",
-            "name": "Ir al cine solo_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Futuras amistades_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "cercanos"
             ],
-            "columnCount": 1,
-            "answer": "Si"
+            "missing_letter_count": 2
         }
     ]
 }

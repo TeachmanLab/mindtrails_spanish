@@ -1,14 +1,14 @@
 {
-    "name": "Preocupaciones por el ritmo cardíaco36",
-    "title": "Preocupaciones por el ritmo cardíaco",
+    "header_text": "Celebraciones en un juego deportivo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Preocupaciones por el ritmo cardíaco"
+            "text": "Celebraciones en un juego deportivo"
         },
         {
             "type": "Media",
-            "file": "/images/Preocupaciones_por_el_ritmo_cardíaco.jpg"
+            "file": "/images/Celebraciones_en_un_juego_deportivo.jpg"
         }
     ]
 }

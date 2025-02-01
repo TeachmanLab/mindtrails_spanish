@@ -1,14 +1,14 @@
 {
-    "name": "Enseñando a otros88",
-    "title": "Enseñando a otros",
+    "header_text": "Confiar en ti mismo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Enseñando a otros"
+            "text": "Confiar en ti mismo"
         },
         {
             "type": "Media",
-            "file": "/images/Enseñando_a_otros.jpg"
+            "file": "/images/Confiar_en_ti_mismo.jpg"
         }
     ]
 }

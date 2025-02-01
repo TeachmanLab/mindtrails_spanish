@@ -1,14 +1,14 @@
 {
-    "name": "Corte de pelo5",
-    "title": "Corte de pelo",
+    "header_text": "Charla de oficina",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Corte de pelo"
+            "text": "Charla de oficina"
         },
         {
             "type": "Media",
-            "file": "/images/Corte_de_pelo.jpg"
+            "file": "/images/Charla_de_oficina.jpg"
         }
     ]
 }

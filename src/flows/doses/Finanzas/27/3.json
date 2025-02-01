@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Mercado de trabajo",
+    "header_title": "Ahorrar dinero",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es probable que te despidan?"
+            "Text": "¿Eres duro contigo mismo porque no compras el almuerzo como tus amigos?"
         },
         {
             "type": "Buttons",
-            "name": "Mercado de trabajo_Finanzas_comp_question",
+            "name": "Ahorrar dinero_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,

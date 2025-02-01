@@ -1,6 +1,6 @@
 {
-    "name": "Conducción segura51",
-    "title": "Conducción segura",
+    "header_text": "Conducción segura",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",

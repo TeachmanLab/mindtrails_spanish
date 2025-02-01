@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Una noche libre",
+    "header_title": "Hablando en público",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Está bien que hayas dejado de trabajar para salir con amigos?"
+            "Text": "¿Creerán los demás que pareces inteligente al presentar?"
         },
         {
             "type": "Buttons",
-            "name": "Una noche libre_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Hablando en público_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,

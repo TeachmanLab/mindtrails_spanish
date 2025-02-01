@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Comentarios en las redes sociales",
+    "header_title": "Invitación a cenar",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Está bien que tu amigo no haya respondido todavía?"
+            "Text": "¿Le caeras bien a los otros invitados?"
         },
         {
             "type": "Buttons",
-            "name": "Comentarios en las redes sociales_Situaciones Sociales_comp_question",
+            "name": "Invitación a cenar_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,

@@ -1,14 +1,14 @@
 {
-    "name": "Expectativas128",
-    "title": "Expectativas",
+    "header_text": "Casa bilingüe",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Expectativas"
+            "text": "Casa bilingüe"
         },
         {
             "type": "Media",
-            "file": "/images/Expectativas.jpg"
+            "file": "/images/Casa_bilingüe.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Pasando tiempo con familia25",
-    "title": "Pasando tiempo con familia",
+    "header_text": "Nerviosismo de cumpleaños",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pasando tiempo con familia"
+            "text": "Nerviosismo de cumpleaños"
         },
         {
             "type": "Media",
-            "file": "/images/Pasando_tiempo_con_familia.jpg"
+            "file": "/images/Nerviosismo_de_cumpleaños.jpg"
         }
     ]
 }

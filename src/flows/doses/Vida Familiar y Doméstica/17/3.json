@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Un hallazgo afortunado",
+    "header_title": "Yendo de vacaciones",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando te mudes a tu casa, probablemente..."
+            "Text": "¿Estás preocupado por si apagaste todo en la casa?"
         },
         {
             "type": "Buttons",
-            "name": "Un hallazgo afortunado_Vida Familiar y Doméstica_comp_question",
+            "name": "Yendo de vacaciones_Vida Familiar y Doméstica_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Descubrirás que tu casa tiene sentido acogedor.",
-                "Lamentarás tu decisión."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "answer": "Descubrirás que tu casa tiene sentido acogedor."
+            "answer": "Si"
         }
     ]
 }

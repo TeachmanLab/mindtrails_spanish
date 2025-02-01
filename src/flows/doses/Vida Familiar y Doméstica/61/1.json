@@ -1,14 +1,14 @@
 {
-    "name": "Invitar a alguien53",
-    "title": "Invitar a alguien",
+    "header_text": "Hablando sobre vivienda",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Invitar a alguien"
+            "text": "Hablando sobre vivienda"
         },
         {
             "type": "Media",
-            "file": "/images/Invitar_a_alguien.jpg"
+            "file": "/images/Hablando_sobre_vivienda.jpg"
         }
     ]
 }

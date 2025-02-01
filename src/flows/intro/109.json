@@ -1,5 +1,6 @@
 {
-    "title": "Imágenes ansiosas principales",
+    "header_text": "Imágenes ansiosas principales",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

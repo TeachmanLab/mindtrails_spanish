@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Comentarios sobre tu trabajo",
+    "header_title": "Palabra tropiezo",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Durante la reunión, te das cuenta de que tu jefe se esfuerza mucho en brindarle comentarios útiles y que ve esto como una forma de brindarle una valiosa oportunidad de..."
+            "Text": "¿Crees que a los otros les gustará tu presentación?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Comentarios sobre tu trabajo_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
+            "type": "Buttons",
+            "name": "Palabra tropiezo_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "aprendizaje"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "Si"
         }
     ]
 }

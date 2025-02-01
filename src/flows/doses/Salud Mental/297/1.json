@@ -1,14 +1,14 @@
 {
-    "name": "Despertándote listo313",
-    "title": "Despertándote listo",
+    "header_text": "Mensajes de texto honestos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Despertándote listo"
+            "text": "Mensajes de texto honestos"
         },
         {
             "type": "Media",
-            "file": "/images/Despertándote_listo.jpg"
+            "file": "/images/Mensajes_de_texto_honestos.jpg"
         }
     ]
 }

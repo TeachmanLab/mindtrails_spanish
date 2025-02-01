@@ -1,14 +1,14 @@
 {
-    "name": "Reloj favorito380",
-    "title": "Reloj favorito",
+    "header_text": "Manejando tareas",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Reloj favorito"
+            "text": "Manejando tareas"
         },
         {
             "type": "Media",
-            "file": "/images/Reloj_favorito.jpg"
+            "file": "/images/Manejando_tareas.jpg"
         }
     ]
 }

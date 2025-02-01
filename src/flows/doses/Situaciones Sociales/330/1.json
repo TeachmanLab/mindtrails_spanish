@@ -1,14 +1,14 @@
 {
-    "name": "Apartamento nuevo para ti368",
-    "title": "Apartamento nuevo para ti",
+    "header_text": "Sentirse diferente",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Apartamento nuevo para ti"
+            "text": "Sentirse diferente"
         },
         {
             "type": "Media",
-            "file": "/images/Apartamento_nuevo_para_ti.jpg"
+            "file": "/images/Sentirse_diferente.jpg"
         }
     ]
 }

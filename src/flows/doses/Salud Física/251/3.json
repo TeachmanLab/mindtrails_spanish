@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Problemas de visión",
+    "header_title": "Corte de dedo",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Respiras y te das cuenta de que tu visión completamente. Luego, recuerdas que a veces esto pasa cuando te sientas demasiado... "
+            "Text": "¿Está seriamente infectado tu dedo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Problemas de visión_Salud Física_puzzle_word2",
+            "type": "Buttons",
+            "name": "Corte de dedo_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "rápido"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "answer": "No"
         }
     ]
 }

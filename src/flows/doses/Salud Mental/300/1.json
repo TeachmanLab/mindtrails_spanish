@@ -1,14 +1,14 @@
 {
-    "name": "Presentación de tu trabajo316",
-    "title": "Presentación de tu trabajo",
+    "header_text": "Tus habilidades con los bolos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Presentación de tu trabajo"
+            "text": "Tus habilidades con los bolos"
         },
         {
             "type": "Media",
-            "file": "/images/Presentación_de_tu_trabajo.jpg"
+            "file": "/images/Tus_habilidades_con_los_bolos.jpg"
         }
     ]
 }

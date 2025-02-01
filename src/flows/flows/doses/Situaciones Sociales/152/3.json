@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Noticias controvertidas",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Al final de la conversación, te das cuenta de que aunque la discusión fue intensa, tu compañero probablemente piensa que ambos tienen convicciones fuertes. Te has ganado el respeto de tu compañero de..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Noticias controvertidas_Situaciones Sociales_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "trabajo"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

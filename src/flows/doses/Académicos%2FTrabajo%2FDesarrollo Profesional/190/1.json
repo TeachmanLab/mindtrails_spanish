@@ -1,14 +1,14 @@
 {
-    "name": "Un tropiezo repentino194",
-    "title": "Un tropiezo repentino",
+    "header_text": "Presentación de recaudación de fondos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un tropiezo repentino"
+            "text": "Presentación de recaudación de fondos"
         },
         {
             "type": "Media",
-            "file": "/images/Un_tropiezo_repentino.jpg"
+            "file": "/images/Presentación_de_recaudación_de_fondos.jpg"
         }
     ]
 }

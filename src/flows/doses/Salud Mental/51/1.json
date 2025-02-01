@@ -1,14 +1,14 @@
 {
-    "name": "Día caluroso45",
-    "title": "Día caluroso",
+    "header_text": "Boca seca",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Día caluroso"
+            "text": "Boca seca"
         },
         {
             "type": "Media",
-            "file": "/images/Día_caluroso.jpg"
+            "file": "/images/Boca_seca.jpg"
         }
     ]
 }

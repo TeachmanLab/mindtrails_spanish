@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Miedo a la decepción",
+    "header_text": "Trabajos bien pagados",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te ofrecieron un trabajo nuevo que te entusiasma mucho. El trabajo ofrece menos dinero que tu trabajo actual y tu pareja le dejó en claro que quiere que conserve su trabajo actual. Cuando piensas en decirles tu decisión, te sientes..."
+            "text": "Estás cenando con tus amigos universitarios y todos terminan hablando de sus carreras. Te das cuenta de que muchos de ellos tienen salarios más altos que tú, mientras que tú elegiste un trabajo con un salario más bajo que se alinea con tus pasiones. Cuando piensas en tu carrera en el futuro, te sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Miedo a la decepción_Finanzas_puzzle1",
+            "name": "Trabajos bien pagados_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "seguro"
+                "emocionado"
             ],
             "missing_letter_count": 1
         }

@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Alergias de primavera",
+    "header_title": "Cómodo sofá",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Mirando alrededor, ves todo el polen en el aire. Te das cuenta de que normalmente tienes la nariz congestionada debido a las alergias y probablemente estás cansado de jugar fútbol despues de una hora. Te sientes..."
+            "Text": "Te sientes extraño porque ..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Alergias de primavera_Salud Física_puzzle_word2",
+            "type": "Buttons",
+            "name": "Cómodo sofá_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "aliviado"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sólo tomaste un vaso de agua hoy.",
+                "Te estás enfermando de gripe."
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "answer": "Sólo tomaste un vaso de agua hoy."
         }
     ]
 }

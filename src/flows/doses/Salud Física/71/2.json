@@ -1,14 +1,14 @@
 {
-    "name": "Puzzle",
-    "title": "Dando vueltas",
+    "header_text": "Primera vez pantinaje sobre hielo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Decides girar rápidamente en una silla de oficina. Sientes mariposas en el estómago y te mareas cuando la silla se desacelera. Estas sensaciones probablemente significan que estás..."
+            "text": "Tu amigo disfruta patinando sobre hielo y te convence de probarlo. En la pista te pones los patines y empiezas a patinar. Te deslizas hacia adelante lentamente al principio, luego más rápido, y piensas que tus posibilidades de lesionarte son... "
         },
         {
             "type": "Entry",
-            "name": "Dando vueltas_Salud Física_entry1"
+            "name": "Primera vez pantinaje sobre hielo_Salud Física_entry1"
         }
     ]
 }

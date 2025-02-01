@@ -1,10 +1,14 @@
 {
-    "title": "Recurso: Vida Familiar y Doméstica",
-    "name": "Los niños y la salud mental",
+    "header_text": "Planes de vacaciones",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Los niños y la salud mental\n\nEste sitio web creado por el Instituto Nacional de la Salud Mental (NIH, por sus siglas en inglés) ofrece mucha información acerca de la salud mental en la niñez. Indica señales cuando sería necesario buscar ayuda externa, medidas de apoyo que pueden tomar los cuidadores, como trabajar con las escuelas, y más.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "type": "Label",
+            "text": "Planes de vacaciones"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Planes_de_vacaciones.jpg"
         }
     ]
 }

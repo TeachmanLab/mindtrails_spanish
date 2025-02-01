@@ -1,14 +1,14 @@
 {
-    "name": "Picadura de araña42",
-    "title": "Picadura de araña",
+    "header_text": "Desconectandote",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Picadura de araña"
+            "text": "Desconectandote"
         },
         {
             "type": "Media",
-            "file": "/images/Picadura_de_araña.jpg"
+            "file": "/images/Desconectandote.jpg"
         }
     ]
 }

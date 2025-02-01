@@ -1,14 +1,14 @@
 {
-    "name": "Listo para trabajar7",
-    "title": "Listo para trabajar",
+    "header_text": "El curso difícil",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Listo para trabajar"
+            "text": "El curso difícil"
         },
         {
             "type": "Media",
-            "file": "/images/Listo_para_trabajar.jpg"
+            "file": "/images/El_curso_difícil.jpg"
         }
     ]
 }

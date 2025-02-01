@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Visitando a los vecinos",
+    "header_title": "Fiesta de cumpleaños",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu vecino mayor probablemente ha estado enfermo?"
+            "Text": "Las personas probablemente..."
         },
         {
             "type": "Buttons",
-            "name": "Visitando a los vecinos_Salud Física_comp_question",
+            "name": "Fiesta de cumpleaños_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "No te verán sudar ya que la habitación está poco iluminada.",
+                "Notarán que estás sudando."
             ],
             "columnCount": 1,
-            "answer": "No"
+            "answer": "No te verán sudar ya que la habitación está poco iluminada."
         }
     ]
 }

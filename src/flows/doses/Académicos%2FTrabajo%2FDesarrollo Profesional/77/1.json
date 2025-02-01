@@ -1,14 +1,14 @@
 {
-    "name": "Presentación opcional68",
-    "title": "Presentación opcional",
+    "header_text": "Participación",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Presentación opcional"
+            "text": "Participación"
         },
         {
             "type": "Media",
-            "file": "/images/Presentación_opcional.jpg"
+            "file": "/images/Participación.jpg"
         }
     ]
 }

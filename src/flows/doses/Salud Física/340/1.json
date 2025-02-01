@@ -1,14 +1,14 @@
 {
-    "name": "Distanciamiento social adentro377",
-    "title": "Distanciamiento social adentro",
+    "header_text": "Vacaciones reprogramadas",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Distanciamiento social adentro"
+            "text": "Vacaciones reprogramadas"
         },
         {
             "type": "Media",
-            "file": "/images/Distanciamiento_social_adentro.jpg"
+            "file": "/images/Vacaciones_reprogramadas.jpg"
         }
     ]
 }

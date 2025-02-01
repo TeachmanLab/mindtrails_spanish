@@ -1,14 +1,14 @@
 {
-    "name": "Tomando transporte387",
-    "title": "Tomando transporte",
+    "header_text": "Pensamientos acelerados",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tomando transporte"
+            "text": "Pensamientos acelerados"
         },
         {
             "type": "Media",
-            "file": "/images/Tomando_transporte.jpg"
+            "file": "/images/Pensamientos_acelerados.jpg"
         }
     ]
 }

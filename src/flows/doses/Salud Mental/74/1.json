@@ -1,14 +1,14 @@
 {
-    "name": "Revisando tu trabajo65",
-    "title": "Revisando tu trabajo",
+    "header_text": "Aplicando a trabajos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Revisando tu trabajo"
+            "text": "Aplicando a trabajos"
         },
         {
             "type": "Media",
-            "file": "/images/Revisando_tu_trabajo.jpg"
+            "file": "/images/Aplicando_a_trabajos.jpg"
         }
     ]
 }

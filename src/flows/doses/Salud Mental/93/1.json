@@ -1,14 +1,14 @@
 {
-    "name": "Sentado en una reunión82",
-    "title": "Sentado en una reunión",
+    "header_text": "Estar a cargo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sentado en una reunión"
+            "text": "Estar a cargo"
         },
         {
             "type": "Media",
-            "file": "/images/Sentado_en_una_reunión.jpg"
+            "file": "/images/Estar_a_cargo.jpg"
         }
     ]
 }

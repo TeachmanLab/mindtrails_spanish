@@ -1,14 +1,14 @@
 {
-    "name": "Despertándote mareado397",
-    "title": "Despertándote mareado",
+    "header_text": "Confrontación de COVID",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Despertándote mareado"
+            "text": "Confrontación de COVID"
         },
         {
             "type": "Media",
-            "file": "/images/Despertándote_mareado.jpg"
+            "file": "/images/Confrontación_de_COVID.jpg"
         }
     ]
 }

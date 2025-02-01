@@ -1,14 +1,14 @@
 {
-    "name": "Larga caminata afuera83",
-    "title": "Larga caminata afuera",
+    "header_text": "Boca seca",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Larga caminata afuera"
+            "text": "Boca seca"
         },
         {
             "type": "Media",
-            "file": "/images/Larga_caminata_afuera.jpg"
+            "file": "/images/Boca_seca.jpg"
         }
     ]
 }

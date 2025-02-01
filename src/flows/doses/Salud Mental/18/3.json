@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Recuerdo conduciendo",
+    "header_title": "Siendo padre",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando te sientes desorientado, es útil..."
+            "Text": "Cuando piensas en tu hija creciendo, piensas que..."
         },
         {
             "type": "Buttons",
-            "name": "Recuerdo conduciendo_Salud Mental_comp_question",
+            "name": "Siendo padre_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Simplemente observar y aceptar los sentimientos.",
-                "Ponerte ansioso por sentirte desorientado."
+                "La apoyarás.",
+                "Perderás tu paciencia con ella frequentamente."
             ],
             "columnCount": 1,
-            "answer": "Simplemente observar y aceptar los sentimientos."
+            "answer": "La apoyarás."
         }
     ]
 }

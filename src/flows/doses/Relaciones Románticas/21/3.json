@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Anticipando una cita",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Relación a distancia",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te asusta sentirte nervioso?"
+            "text": "Cuando imaginas el futuro de tu relación con tu pareja, no crees que la distancia terminará tu relación, y crees que los dos permanecerán... "
         },
         {
-            "type": "Buttons",
-            "name": "Anticipando una cita_Relaciones Románticas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Relación a distancia_Relaciones Románticas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "juntos"
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 1
         }
     ]
 }

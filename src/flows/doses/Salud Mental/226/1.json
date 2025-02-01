@@ -1,6 +1,6 @@
 {
-    "name": "Correo electrónico perspicaz251",
-    "title": "Correo electrónico perspicaz",
+    "header_text": "Correo electrónico perspicaz",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",

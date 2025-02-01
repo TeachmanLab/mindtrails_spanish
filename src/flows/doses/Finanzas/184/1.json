@@ -1,14 +1,11 @@
 {
-    "name": "Escándalo de ahorro189",
-    "title": "Escándalo de ahorro",
+    "header_text": "Maneja tus sentimientos: Finanzas",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Escándalo de ahorro"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Escándalo_de_ahorro.jpg"
+            "type": "Text",
+            "text": "Las personas provienen de diferentes orígenes socioeconómicos. Si se siente presionado a gastar tanto dinero como sus amigos, recuerde que no es necesario."
         }
     ]
 }

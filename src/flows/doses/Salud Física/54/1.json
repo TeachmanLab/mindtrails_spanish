@@ -1,14 +1,14 @@
 {
-    "name": "Asustado en tu caminata48",
-    "title": "Asustado en tu caminata",
+    "header_text": "Un golpe accidental",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Asustado en tu caminata"
+            "text": "Un golpe accidental"
         },
         {
             "type": "Media",
-            "file": "/images/Asustado_en_tu_caminata.jpg"
+            "file": "/images/Un_golpe_accidental.jpg"
         }
     ]
 }

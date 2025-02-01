@@ -1,14 +1,14 @@
 {
-    "name": "Un sonido fuerte22",
-    "title": "Un sonido fuerte",
+    "header_text": "La música ruidosa",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un sonido fuerte"
+            "text": "La música ruidosa"
         },
         {
             "type": "Media",
-            "file": "/images/Un_sonido_fuerte.jpg"
+            "file": "/images/La_música_ruidosa.jpg"
         }
     ]
 }

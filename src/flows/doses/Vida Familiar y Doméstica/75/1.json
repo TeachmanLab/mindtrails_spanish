@@ -1,14 +1,14 @@
 {
-    "name": "Planes de vacaciones66",
-    "title": "Planes de vacaciones",
+    "header_text": "Salud y envejecimiento",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Planes de vacaciones"
+            "text": "Salud y envejecimiento"
         },
         {
             "type": "Media",
-            "file": "/images/Planes_de_vacaciones.jpg"
+            "file": "/images/Salud_y_envejecimiento.jpg"
         }
     ]
 }

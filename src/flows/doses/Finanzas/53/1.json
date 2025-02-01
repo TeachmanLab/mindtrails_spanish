@@ -1,14 +1,14 @@
 {
-    "name": "Decidiendo algo47",
-    "title": "Decidiendo algo",
+    "header_text": "Planificación de pagos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Decidiendo algo"
+            "text": "Planificación de pagos"
         },
         {
             "type": "Media",
-            "file": "/images/Decidiendo_algo.jpg"
+            "file": "/images/Planificación_de_pagos.jpg"
         }
     ]
 }

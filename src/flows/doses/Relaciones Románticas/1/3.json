@@ -1,6 +1,6 @@
 {
-    "name": "Question",
-    "title": "Enviar mensajes de texto a alguien que te gusta",
+    "header_title": "Enviar mensajes de texto a alguien que te gusta",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {

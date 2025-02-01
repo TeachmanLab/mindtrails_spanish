@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Estrés en tu relación",
+    "header_title": "Relación a largo plazo",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Una vez que la boda haya terminado, no prevés que este estrés continúe, y después de todo lo que ha sucedido, piensas que tú y tu cónyuge volverán a sentirse..."
+            "Text": "Cuando piensas en tu relación actual, piensas que probablemente:"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Estrés en tu relación_Relaciones Románticas_puzzle_word2",
+            "type": "Buttons",
+            "name": "Relación a largo plazo_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "cercanos"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Se convertirá en algo aún más significativo para ti.",
+                "Terminará como todos los demás."
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "Se convertirá en algo aún más significativo para ti."
         }
     ]
 }

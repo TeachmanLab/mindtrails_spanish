@@ -1,14 +1,14 @@
 {
-    "name": "Cambiar tus planes6",
-    "title": "Cambiar tus planes",
+    "header_text": "Desconectandote",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cambiar tus planes"
+            "text": "Desconectandote"
         },
         {
             "type": "Media",
-            "file": "/images/Cambiar_tus_planes.jpg"
+            "file": "/images/Desconectandote.jpg"
         }
     ]
 }

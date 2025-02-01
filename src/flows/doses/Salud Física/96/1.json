@@ -1,14 +1,14 @@
 {
-    "name": "Boca seca85",
-    "title": "Boca seca",
+    "header_text": "Manejando con una amigo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Boca seca"
+            "text": "Manejando con una amigo"
         },
         {
             "type": "Media",
-            "file": "/images/Boca_seca.jpg"
+            "file": "/images/Manejando_con_una_amigo.jpg"
         }
     ]
 }

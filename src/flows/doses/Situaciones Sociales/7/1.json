@@ -1,14 +1,14 @@
 {
-    "name": "Una cámara nueva5",
-    "title": "Una cámara nueva",
+    "header_text": "Nervios en un momento importante",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una cámara nueva"
+            "text": "Nervios en un momento importante"
         },
         {
             "type": "Media",
-            "file": "/images/Una_cámara_nueva.jpg"
+            "file": "/images/Nervios_en_un_momento_importante.jpg"
         }
     ]
 }

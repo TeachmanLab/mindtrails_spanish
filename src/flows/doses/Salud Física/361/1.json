@@ -1,14 +1,14 @@
 {
-    "name": "Conociendo alguien nuevo396",
-    "title": "Conociendo alguien nuevo",
+    "header_text": "Conocido sin mascarilla",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Conociendo alguien nuevo"
+            "text": "Conocido sin mascarilla"
         },
         {
             "type": "Media",
-            "file": "/images/Conociendo_alguien_nuevo.jpg"
+            "file": "/images/Conocido_sin_mascarilla.jpg"
         }
     ]
 }

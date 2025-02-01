@@ -1,14 +1,14 @@
 {
-    "name": "Una presentación pequeña3",
-    "title": "Una presentación pequeña",
+    "header_text": "Una cámara nueva",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una presentación pequeña"
+            "text": "Una cámara nueva"
         },
         {
             "type": "Media",
-            "file": "/images/Una_presentación_pequeña.jpg"
+            "file": "/images/Una_cámara_nueva.jpg"
         }
     ]
 }

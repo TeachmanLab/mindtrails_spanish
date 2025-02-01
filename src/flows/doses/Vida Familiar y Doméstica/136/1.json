@@ -1,14 +1,14 @@
 {
-    "name": "Conversación durante la cena146",
-    "title": "Conversación durante la cena",
+    "header_text": "Planes de vacaciones",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Conversación durante la cena"
+            "text": "Planes de vacaciones"
         },
         {
             "type": "Media",
-            "file": "/images/Conversación_durante_la_cena.jpg"
+            "file": "/images/Planes_de_vacaciones.jpg"
         }
     ]
 }

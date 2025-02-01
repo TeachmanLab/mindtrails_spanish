@@ -1,14 +1,14 @@
 {
-    "name": "Dedos hormigueando32",
-    "title": "Dedos hormigueando",
+    "header_text": "Corriendo tu primera carrera",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dedos hormigueando"
+            "text": "Corriendo tu primera carrera"
         },
         {
             "type": "Media",
-            "file": "/images/Dedos_hormigueando.jpg"
+            "file": "/images/Corriendo_tu_primera_carrera.jpg"
         }
     ]
 }

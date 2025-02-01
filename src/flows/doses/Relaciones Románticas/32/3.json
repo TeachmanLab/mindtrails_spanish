@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Vaso de agua",
+    "header_title": "Primera reunión",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Al final, piensas en cómo te sentirías si tu cita derramara un vaso de agua. Te das cuenta de que tú, al igual que la mayoría de las personas, probablemente no te importaría y que derramar un vaso de agua probablemente está.."
+            "Text": "¿Crees que causarás una mala impresión a tu nuevo compañero de trabajo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Vaso de agua_Relaciones Románticas_puzzle_word2",
+            "type": "Buttons",
+            "name": "Primera reunión_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "bien"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "No"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Tus habilidades con los bolos12",
-    "title": "Tus habilidades con los bolos",
+    "header_text": "Obteniendo ayuda",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tus habilidades con los bolos"
+            "text": "Obteniendo ayuda"
         },
         {
             "type": "Media",
-            "file": "/images/Tus_habilidades_con_los_bolos.jpg"
+            "file": "/images/Obteniendo_ayuda.jpg"
         }
     ]
 }

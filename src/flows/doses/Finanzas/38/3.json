@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Mantener a la familia",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Cena cara",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que enviar a tus hijos a una buena universidad"
+            "text": "Decides hablar con tus amigos al respecto. Son muy comprensivos y eligen un lugar más asequible para comer. Te sientes orgulloso de..."
         },
         {
-            "type": "Buttons",
-            "name": "Mantener a la familia_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Cena cara_Finanzas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Será alcanzable.",
-                "Estará más allá de tus posibilidades."
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "defenderte"
             ],
-            "columnCount": 1,
-            "answer": "Será alcanzable."
+            "missing_letter_count": 2
         }
     ]
 }

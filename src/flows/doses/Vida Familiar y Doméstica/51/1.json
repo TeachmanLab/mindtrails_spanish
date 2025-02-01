@@ -1,14 +1,14 @@
 {
-    "name": "Costos inesperados45",
-    "title": "Costos inesperados",
+    "header_text": "Traer un nuevo amigo a casa",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Costos inesperados"
+            "text": "Traer un nuevo amigo a casa"
         },
         {
             "type": "Media",
-            "file": "/images/Costos_inesperados.jpg"
+            "file": "/images/Traer_un_nuevo_amigo_a_casa.jpg"
         }
     ]
 }

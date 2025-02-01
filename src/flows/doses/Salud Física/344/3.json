@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Tos después de salir",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Ruido repentino",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es tu tos una señal definitiva de COVID?"
+            "text": "Al notar estos pensamientos, decides que podrás afrontar la situación, así que sigues..."
         },
         {
-            "type": "Buttons",
-            "name": "Tos después de salir_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Ruido repentino_Salud Física_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "caminando"
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 1
         }
     ]
 }

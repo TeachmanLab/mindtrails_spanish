@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Reconforto sobre la vacunación",
+    "header_title": "Club de lectura",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás vacunado?"
+            "Text": "¿Puedes participar en la discusión del club de lectura?"
         },
         {
             "type": "Buttons",
-            "name": "Reconforto sobre la vacunación_Situaciones Sociales_comp_question",
+            "name": "Club de lectura_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,

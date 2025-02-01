@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Amigos del club de lectura",
+    "header_title": "Una audiencia captada",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Si los miembros del club de lectura acepten tu invitación a cenar, ellos probablemente..."
+            "Text": "Tus compañeros probablemente estaban callados porque..."
         },
         {
             "type": "Buttons",
-            "name": "Amigos del club de lectura_Situaciones Sociales_comp_question",
+            "name": "Una audiencia captada_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Se sentirán decepcionado de tu compañía.",
-                "Disfrutarán de la reunión durante la cena."
+                "Estaban enfocados en tu presentación.",
+                "Estaban aburridos con tu presentación."
             ],
             "columnCount": 1,
-            "answer": "Se sentirán decepcionado de tu compañía."
+            "answer": "Estaban enfocados en tu presentación."
         }
     ]
 }

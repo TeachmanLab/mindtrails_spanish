@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Amigos en las relaciones",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Después de un tiempo, te das cuenta de que es muy normal no estar en una relación. Piensas que disfrutas estar soltero y que la persona adecuada aparecerá cuando estés... "
+        },
+        {
+            "type": "Entry",
+            "name": "Amigos en las relaciones_Relaciones Románticas_entry2"
+        }
+    ]
+}

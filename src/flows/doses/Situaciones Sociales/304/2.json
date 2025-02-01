@@ -1,14 +1,14 @@
 {
-    "name": "Palabra tropiezo320",
-    "title": "Palabra tropiezo",
+    "header_text": "Una mesa sucia",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Palabra tropiezo"
+            "text": "Una mesa sucia"
         },
         {
             "type": "Media",
-            "file": "/images/Palabra_tropiezo.jpg"
+            "file": "/images/Una_mesa_sucia.jpg"
         }
     ]
 }

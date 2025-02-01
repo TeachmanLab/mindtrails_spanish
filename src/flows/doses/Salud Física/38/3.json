@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Boca seca",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Sentirse mareado",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Tu boca seca probablemente se deba a..."
+            "text": "Decides prestar atención a las sensaciones sin juzgarlas como buenas o malas. Esto reduce tu preocupación y te hace sentir más..."
         },
         {
-            "type": "Buttons",
-            "name": "Boca seca_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Sentirse mareado_Salud Física_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Una medicacion nueva.",
-                "Una enfermedad seria."
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "tranquilo"
             ],
-            "columnCount": 1,
-            "answer": "Una medicacion nueva."
+            "missing_letter_count": 2
         }
     ]
 }

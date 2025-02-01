@@ -1,14 +1,14 @@
 {
-    "name": "Puzzle",
-    "title": "Tus habilidades con los bolos",
+    "header_text": "Tiempo para ti mismo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Llevas varios años jugando a los bolos en una liga recreativa con algunos amigos. Has mejorado desde que empezaste, pero aún no eres tan hábil como te gustaría ser. Cuando piensas en ti mismo en los años venideros, ves que tus habilidades con los bolos son..."
+            "type": "Label",
+            "text": "Tiempo para ti mismo"
         },
         {
-            "type": "Entry",
-            "name": "Tus habilidades con los bolos_Salud Mental_entry1"
+            "type": "Media",
+            "file": "/images/Tiempo_para_ti_mismo.jpg"
         }
     ]
 }

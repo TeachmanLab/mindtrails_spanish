@@ -1,14 +1,14 @@
 {
-    "name": "Tensión familiar364",
-    "title": "Tensión familiar",
+    "header_text": "El torneo de fútbol",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tensión familiar"
+            "text": "El torneo de fútbol"
         },
         {
             "type": "Media",
-            "file": "/images/Tensión_familiar.jpg"
+            "file": "/images/El_torneo_de_fútbol.jpg"
         }
     ]
 }

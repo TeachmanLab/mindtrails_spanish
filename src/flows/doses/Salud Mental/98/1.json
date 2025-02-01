@@ -1,14 +1,14 @@
 {
-    "name": "Recuerdo conduciendo87",
-    "title": "Recuerdo conduciendo",
+    "header_text": "Fiesta con amigos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Recuerdo conduciendo"
+            "text": "Fiesta con amigos"
         },
         {
             "type": "Media",
-            "file": "/images/Recuerdo_conduciendo.jpg"
+            "file": "/images/Fiesta_con_amigos.jpg"
         }
     ]
 }

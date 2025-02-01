@@ -1,14 +1,14 @@
 {
-    "name": "Dependencia financiera245",
-    "title": "Dependencia financiera",
+    "header_text": "Permitirse la educación",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dependencia financiera"
+            "text": "Permitirse la educación"
         },
         {
             "type": "Media",
-            "file": "/images/Dependencia_financiera.jpg"
+            "file": "/images/Permitirse_la_educación.jpg"
         }
     ]
 }

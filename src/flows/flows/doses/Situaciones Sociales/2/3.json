@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Practicando la presentación",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Después de la presentación, te das cuenta de que estos errores son comunes. El supervisor probablemente piensa que tu recuperación y capacidad para continuar presentado fue muy... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Practicando la presentación_Situaciones Sociales_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "admirable"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

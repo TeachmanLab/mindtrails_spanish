@@ -1,14 +1,12 @@
 {
-    "name": "Tiempo para ti mismo320",
-    "title": "Tiempo para ti mismo",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
-            "type": "Label",
-            "text": "Tiempo para ti mismo"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Tiempo_para_ti_mismo.jpg"
+            "type": "Text",
+            "text": "Piensa en una situación que te genera ansiedad y que te haya ocurrido en el pasado, o que te preocupa que suceda en el futuro. Escribe tu propia historia de entrenamiento basada en esta situación, asegurándote de incluir un final positivo o no amenazante en la oración final de la historia."
         }
     ]
 }

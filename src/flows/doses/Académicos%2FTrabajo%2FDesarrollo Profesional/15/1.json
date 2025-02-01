@@ -1,14 +1,14 @@
 {
-    "name": "Terminando el trabajo12",
-    "title": "Terminando el trabajo",
+    "header_text": "Obtener una oportunidad",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Terminando el trabajo"
+            "text": "Obtener una oportunidad"
         },
         {
             "type": "Media",
-            "file": "/images/Terminando_el_trabajo.jpg"
+            "file": "/images/Obtener_una_oportunidad.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Sin aliento262",
-    "title": "Sin aliento",
+    "header_text": "Trabajando para salir adelante",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sin aliento"
+            "text": "Trabajando para salir adelante"
         },
         {
             "type": "Media",
-            "file": "/images/Sin_aliento.jpg"
+            "file": "/images/Trabajando_para_salir_adelante.jpg"
         }
     ]
 }

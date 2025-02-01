@@ -1,14 +1,14 @@
 {
-    "name": "Ingresos adicionales243",
-    "title": "Ingresos adicionales",
+    "header_text": "Sentirse diferente",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ingresos adicionales"
+            "text": "Sentirse diferente"
         },
         {
             "type": "Media",
-            "file": "/images/Ingresos_adicionales.jpg"
+            "file": "/images/Sentirse_diferente.jpg"
         }
     ]
 }

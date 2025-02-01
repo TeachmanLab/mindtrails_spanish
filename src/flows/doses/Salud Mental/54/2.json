@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Expresándote",
+    "header_text": "Comentarios de publicaciones de Instagram",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En el trabajo, tu jefe te da la responsabilidad de resolver un problema complicado. Tienes una idea que crees que podría funcionar, pero te preguntas si es demasiado simplista. Mientras consideras compartir tu idea, decides..."
+            "text": "Acabas de recibir un reconocimiento por un proyecto en el que trabajaste. Solo has recibido felicitaciones de unas pocas personas y ahora pensabas que tendrías más reacciones. Te preguntas si la gente no te felicita porque está..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Expresándote_Salud Mental_puzzle1",
+            "name": "Comentarios de publicaciones de Instagram_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "intentarlo"
+                "ocupada"
             ],
             "missing_letter_count": 2
         }

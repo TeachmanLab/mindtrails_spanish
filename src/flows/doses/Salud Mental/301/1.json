@@ -1,14 +1,14 @@
 {
-    "name": "Revisando tus cualificaciones317",
-    "title": "Revisando tus cualificaciones",
+    "header_text": "Revisando tu trabajo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Revisando tus cualificaciones"
+            "text": "Revisando tu trabajo"
         },
         {
             "type": "Media",
-            "file": "/images/Revisando_tus_cualificaciones.jpg"
+            "file": "/images/Revisando_tu_trabajo.jpg"
         }
     ]
 }

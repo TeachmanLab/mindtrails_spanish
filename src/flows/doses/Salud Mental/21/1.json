@@ -1,14 +1,14 @@
 {
-    "name": "Probando comidas diferentes18",
-    "title": "Probando comidas diferentes",
+    "header_text": "Resultados de análisis de sangre",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Probando comidas diferentes"
+            "text": "Resultados de análisis de sangre"
         },
         {
             "type": "Media",
-            "file": "/images/Probando_comidas_diferentes.jpg"
+            "file": "/images/Resultados_de_análisis_de_sangre.jpg"
         }
     ]
 }

@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Cena cara",
+    "header_title": "Redes sociales",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Decides hablar con tus amigos al respecto. Son muy comprensivos y eligen un lugar más asequible para comer. Te sientes orgulloso de..."
+            "Text": "¿Puedes manejar que a veces tus amigos pasan tiempo sin ti?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Cena cara_Salud Mental_puzzle_word2",
+            "type": "Buttons",
+            "name": "Redes sociales_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "defenderte"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "answer": "Si"
         }
     ]
 }

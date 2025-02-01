@@ -1,14 +1,14 @@
 {
-    "name": "Respondiendo a preguntas inesperadas306",
-    "title": "Respondiendo a preguntas inesperadas",
+    "header_text": "Vaso de agua",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Respondiendo a preguntas inesperadas"
+            "text": "Vaso de agua"
         },
         {
             "type": "Media",
-            "file": "/images/Respondiendo_a_preguntas_inesperadas.jpg"
+            "file": "/images/Vaso_de_agua.jpg"
         }
     ]
 }

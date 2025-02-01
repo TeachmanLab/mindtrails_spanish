@@ -1,14 +1,14 @@
 {
-    "name": "Ejercicio con un amigo54",
-    "title": "Ejercicio con un amigo",
+    "header_text": "Reloj favorito",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ejercicio con un amigo"
+            "text": "Reloj favorito"
         },
         {
             "type": "Media",
-            "file": "/images/Ejercicio_con_un_amigo.jpg"
+            "file": "/images/Reloj_favorito.jpg"
         }
     ]
 }

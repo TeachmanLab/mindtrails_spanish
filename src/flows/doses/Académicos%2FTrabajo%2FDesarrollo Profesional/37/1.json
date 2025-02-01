@@ -1,14 +1,14 @@
 {
-    "name": "Trabajando en grupo32",
-    "title": "Trabajando en grupo",
+    "header_text": "Mente va en blanco",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trabajando en grupo"
+            "text": "Mente va en blanco"
         },
         {
             "type": "Media",
-            "file": "/images/Trabajando_en_grupo.jpg"
+            "file": "/images/Mente_va_en_blanco.jpg"
         }
     ]
 }

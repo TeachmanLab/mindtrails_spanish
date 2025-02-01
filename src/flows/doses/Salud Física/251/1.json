@@ -1,14 +1,14 @@
 {
-    "name": "Problemas de visión272",
-    "title": "Problemas de visión",
+    "header_text": "Corte de dedo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Problemas de visión"
+            "text": "Corte de dedo"
         },
         {
             "type": "Media",
-            "file": "/images/Problemas_de_visión.jpg"
+            "file": "/images/Corte_de_dedo.jpg"
         }
     ]
 }

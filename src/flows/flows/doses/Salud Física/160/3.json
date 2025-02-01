@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Hora para dormir",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "La reducción de tu ritmo cardíaco y respiración probablemente significa..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Hora para dormir_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Tu cuerpo necesita descansar después de un largo día de trabajo.",
+                "No estás recibiendo suficiente oxígeno y te desmayarás."
+            ],
+            "columnCount": 1,
+            "answer": "Tu cuerpo necesita descansar después de un largo día de trabajo."
+        }
+    ]
+}

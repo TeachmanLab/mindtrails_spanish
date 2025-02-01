@@ -1,5 +1,6 @@
 {
-    "title": "La recepción de la boda",
+    "header_text": "La recepción de la boda",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

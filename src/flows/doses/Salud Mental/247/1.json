@@ -1,14 +1,11 @@
 {
-    "name": "Sentirse ansioso269",
-    "title": "Sentirse ansioso",
+    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Sentirse ansioso"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Sentirse_ansioso.jpg"
+            "type": "Text",
+            "text": "Cuando se sienta abrumado, tómese un momento para notar tres cosas en su entorno que le llamen la atención (por ejemplo, ¿la persona sentada a su lado usa zapatos geniales?)"
         }
     ]
 }

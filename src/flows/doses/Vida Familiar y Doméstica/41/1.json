@@ -1,14 +1,14 @@
 {
-    "name": "Creencias diferentes36",
-    "title": "Creencias diferentes",
+    "header_text": "Emoción prospectiva",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Creencias diferentes"
+            "text": "Emoción prospectiva"
         },
         {
             "type": "Media",
-            "file": "/images/Creencias_diferentes.jpg"
+            "file": "/images/Emoción_prospectiva.jpg"
         }
     ]
 }

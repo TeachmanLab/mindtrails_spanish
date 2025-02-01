@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Ahorrando dinero",
+    "header_title": "Planificación de pagos",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando llegue el momento de reservar el viaje, probablemente..."
+            "Text": "Cuando se trata de elegir un plan de jubilación, piensas que..."
         },
         {
             "type": "Buttons",
-            "name": "Ahorrando dinero_Finanzas_comp_question",
+            "name": "Planificación de pagos_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Tendrás que cancelar debido a problemas de dinero.",
-                "Podrás elegir un hotel bastante bonito."
+                "Tomarás una buena decisión porque has investigado.",
+                "Es muy probable que cometas un error, dado lo poco que sabes sobre cómo funcionan."
             ],
             "columnCount": 1,
-            "answer": "Tendrás que cancelar debido a problemas de dinero."
+            "answer": "Tomarás una buena decisión porque has investigado."
         }
     ]
 }

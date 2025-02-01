@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Mantener a la familia",
+    "header_text": "Permitirse la educación",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Quieres que tu familia tenga buenas oportunidades educativas. Tú quieres que tus hijos puedan asistir a buenas universidades, pero comprendas que esto tiene un precio alto. Cuando piensas en tus hijos, piensaa que apoyar su educación universitaria será..."
+            "text": "Tus hijos están pensando en ir a la universidad, pero tú piensas que tendrías que pedir un préstamo para ayudar a enviarlos. Recuerdas historias que has escuchado de personas que todavía pagan sus préstamos cuando están jubilados. Imagínate a ti mismo en la jubilación, piensas que tus préstamos serán... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Mantener a la familia_Finanzas_puzzle1",
+            "name": "Permitirse la educación_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "asequible"
+                "pagados"
             ],
             "missing_letter_count": 1
         }

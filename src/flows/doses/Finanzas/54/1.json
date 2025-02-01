@@ -1,14 +1,14 @@
 {
-    "name": "Mercado de trabajo48",
-    "title": "Mercado de trabajo",
+    "header_text": "Chistes de compras",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mercado de trabajo"
+            "text": "Chistes de compras"
         },
         {
             "type": "Media",
-            "file": "/images/Mercado_de_trabajo.jpg"
+            "file": "/images/Chistes_de_compras.jpg"
         }
     ]
 }

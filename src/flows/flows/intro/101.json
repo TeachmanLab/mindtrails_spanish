@@ -1,0 +1,14 @@
+{
+    "title": "Ejercicio de limón",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¡Ese fue el Ejercicio del Limón! No te preocupes si no experimentaste todas las sensaciones con fuerza. Esto es completamente normal."
+        },
+        {
+            "type": "Media",
+            "path": "https://github.com/TeachmanLab/MindtrailsMobile_Resources/raw/main/HTC/protocols/protocol1/media/images/lemon/pic7.jpg",
+            "frame": true
+        }
+    ]
+}

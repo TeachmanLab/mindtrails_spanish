@@ -1,6 +1,6 @@
 {
-    "name": "Usando tecnología diferente Instructions",
-    "title": "Instrucciones",
+    "header_text": "Instrucciones",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

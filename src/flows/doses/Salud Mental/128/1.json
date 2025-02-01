@@ -1,14 +1,11 @@
 {
-    "name": "Expresándote139",
-    "title": "Expresándote",
+    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Expresándote"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Expresándote.jpg"
+            "type": "Text",
+            "text": "Pruebe el método STOPP: S-Stop y pausa por un momento. T- Toma un respiro. O- Observa lo que estás sintiendo. P- Retroceder y poner la situación en perspectiva. P- Practica lo que funciona, haz algo que disfrutes/algo que te calme."
         }
     ]
 }

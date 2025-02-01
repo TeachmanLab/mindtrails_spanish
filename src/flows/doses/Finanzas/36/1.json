@@ -1,10 +1,14 @@
 {
-    "title": "Recurso: Finanzas",
-    "name": "211 (EEUU) en español",
+    "header_text": "Mantener a la familia",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "211 (EEUU) en español\n\n211 conecta a personas en EEUU con recursos económicos locales.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "type": "Label",
+            "text": "Mantener a la familia"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Mantener_a_la_familia.jpg"
         }
     ]
 }

@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Visitar a un nuevo amigo",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Saludando gente en bibliotecas",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa recitar un poema para la familia de tu amigo?"
+            "text": "Te das cuenta de que podrían estar yendo a terminar algún trabajo juntos. Esto te hace sentir..."
         },
         {
-            "type": "Buttons",
-            "name": "Visitar a un nuevo amigo_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Saludando gente en bibliotecas_Finanzas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "mejor"
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 2
         }
     ]
 }

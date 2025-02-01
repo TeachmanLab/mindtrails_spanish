@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Preocupaciones por las relaciones",
+    "header_title": "Invitando a alguien a salir",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando te imaginas a ti y a tu cónyuge en el futuro, ves"
+            "Text": "Piensas que probablemente ustedes dos..."
         },
         {
             "type": "Buttons",
-            "name": "Preocupaciones por las relaciones_Relaciones Románticas_comp_question",
+            "name": "Invitando a alguien a salir_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Los dos juntos y felices.",
-                "Tu matrimonio ha terminado."
+                "Nunca se volverán a ver.",
+                "Salgarán a tomar un café y lo pasarán bien."
             ],
             "columnCount": 1,
-            "answer": "Los dos juntos y felices."
+            "answer": "Nunca se volverán a ver."
         }
     ]
 }

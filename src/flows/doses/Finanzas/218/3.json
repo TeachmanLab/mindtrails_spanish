@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Planificación de pagos",
+    "header_title": "Dependencia financiera",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "No te ves cometiendo un gran error y piensas que el plan que elijas te dejará en una posición financiera..."
+            "Text": "¿Podrán tus hijos ser financieramente independientes?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Planificación de pagos_Finanzas_puzzle_word2",
+            "type": "Buttons",
+            "name": "Dependencia financiera_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "sólida"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "Sí"
         }
     ]
 }

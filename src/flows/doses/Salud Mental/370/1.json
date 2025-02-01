@@ -1,14 +1,14 @@
 {
-    "name": "Comentarios de redes sociales402",
-    "title": "Comentarios de redes sociales",
+    "header_text": "Sentirse llamado",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comentarios de redes sociales"
+            "text": "Sentirse llamado"
         },
         {
             "type": "Media",
-            "file": "/images/Comentarios_de_redes_sociales.jpg"
+            "file": "/images/Sentirse_llamado.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Nueva oportunidad131",
-    "title": "Nueva oportunidad",
+    "header_text": "Costos inesperados",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nueva oportunidad"
+            "text": "Costos inesperados"
         },
         {
             "type": "Media",
-            "file": "/images/Nueva_oportunidad.jpg"
+            "file": "/images/Costos_inesperados.jpg"
         }
     ]
 }

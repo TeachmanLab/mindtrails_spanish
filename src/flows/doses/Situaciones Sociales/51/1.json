@@ -1,14 +1,14 @@
 {
-    "name": "Invitar gente45",
-    "title": "Invitar gente",
+    "header_text": "Presentación opcional",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Invitar gente"
+            "text": "Presentación opcional"
         },
         {
             "type": "Media",
-            "file": "/images/Invitar_gente.jpg"
+            "file": "/images/Presentación_opcional.jpg"
         }
     ]
 }

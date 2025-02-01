@@ -1,14 +1,14 @@
 {
-    "name": "Palabra tropiezo391",
-    "title": "Palabra tropiezo",
+    "header_text": "Plato típico",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Palabra tropiezo"
+            "text": "Plato típico"
         },
         {
             "type": "Media",
-            "file": "/images/Palabra_tropiezo.jpg"
+            "file": "/images/Plato_típico.jpg"
         }
     ]
 }

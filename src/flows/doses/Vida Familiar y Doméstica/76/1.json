@@ -1,14 +1,14 @@
 {
-    "name": "Reconciliándote con tu amigo67",
-    "title": "Reconciliándote con tu amigo",
+    "header_text": "Pasando tiempo con familia",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Reconciliándote con tu amigo"
+            "text": "Pasando tiempo con familia"
         },
         {
             "type": "Media",
-            "file": "/images/Reconciliándote_con_tu_amigo.jpg"
+            "file": "/images/Pasando_tiempo_con_familia.jpg"
         }
     ]
 }

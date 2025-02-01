@@ -1,14 +1,14 @@
 {
-    "name": "Puzzle",
-    "title": "Tu primer hijo",
+    "header_text": "Revisando tu trabajo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Acabas de tener tu primer hijo. Quieres tener una buena relación durante toda la vida de tu hijo, pero te preocupa cometer errores como..."
+            "text": "Te han llamado para una evaluación de desempeño con tu jefe. En general, haces un buen trabajo, pero sabes que tu jefe ha notado algunos errores..."
         },
         {
             "type": "Entry",
-            "name": "Tu primer hijo_Salud Mental_entry1"
+            "name": "Revisando tu trabajo_Salud Mental_entry1"
         }
     ]
 }

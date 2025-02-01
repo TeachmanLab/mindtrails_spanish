@@ -1,14 +1,14 @@
 {
-    "name": "Corriendo con un amigo244",
-    "title": "Corriendo con un amigo",
+    "header_text": "Evaluaciones entre compañeros",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Corriendo con un amigo"
+            "text": "Evaluaciones entre compañeros"
         },
         {
             "type": "Media",
-            "file": "/images/Corriendo_con_un_amigo.jpg"
+            "file": "/images/Evaluaciones_entre_compañeros.jpg"
         }
     ]
 }

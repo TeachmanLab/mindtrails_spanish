@@ -1,14 +1,14 @@
 {
-    "name": "Puzzle",
-    "title": "Going to Therapy",
+    "header_text": "Proyecto eliminado",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado yendo a terapia últimamente. No te lo has contado a tu familia porque han expresado opiniones negativas sobre la terapia en el pasado. Crees que esta vez te..."
+            "text": "Respiras hondo y decides contarle a tu jefe lo sucedido. Tú te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Going to Therapy_Salud Mental_entry1"
+            "name": "Proyecto eliminado_Salud Mental_entry2"
         }
     ]
 }

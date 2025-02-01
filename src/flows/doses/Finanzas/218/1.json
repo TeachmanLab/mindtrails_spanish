@@ -1,14 +1,14 @@
 {
-    "name": "Planificación de pagos243",
-    "title": "Planificación de pagos",
+    "header_text": "Dependencia financiera",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Planificación de pagos"
+            "text": "Dependencia financiera"
         },
         {
             "type": "Media",
-            "file": "/images/Planificación_de_pagos.jpg"
+            "file": "/images/Dependencia_financiera.jpg"
         }
     ]
 }

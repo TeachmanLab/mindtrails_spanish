@@ -1,14 +1,11 @@
 {
-    "name": "Tus habilidades con los bolos39",
-    "title": "Tus habilidades con los bolos",
+    "header_text": "Recurso: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "name": "Calma (Calm)",
     "elements": [
         {
-            "type": "Label",
-            "text": "Tus habilidades con los bolos"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Tus_habilidades_con_los_bolos.jpg"
+            "type": "Text",
+            "text": "Calma (Calm)\n\nLa aplicación Calm proporcionó esta página que ofrece estrategias de afrontamiento, momentos meditativos, y más para lidiar con el estrés solo y acompañado.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

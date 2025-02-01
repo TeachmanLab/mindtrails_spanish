@@ -1,14 +1,14 @@
 {
-    "name": "Tomar precauciones378",
-    "title": "Tomar precauciones",
+    "header_text": "Cancelación de concierto",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tomar precauciones"
+            "text": "Cancelación de concierto"
         },
         {
             "type": "Media",
-            "file": "/images/Tomar_precauciones.jpg"
+            "file": "/images/Cancelación_de_concierto.jpg"
         }
     ]
 }

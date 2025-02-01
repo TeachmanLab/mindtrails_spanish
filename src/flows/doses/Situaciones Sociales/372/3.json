@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Genio cómico",
+    "header_title": "No invitado a cenar",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Dijiste algo incorrecto?"
+            "Text": "¿Es demasiado tarde para hacerse amigo de tus nuevos compañeros de trabajo?"
         },
         {
             "type": "Buttons",
-            "name": "Genio cómico_Situaciones Sociales_comp_question",
+            "name": "No invitado a cenar_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,

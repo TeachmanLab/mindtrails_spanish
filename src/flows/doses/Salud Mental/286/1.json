@@ -1,14 +1,14 @@
 {
-    "name": "Zambullirte303",
-    "title": "Zambullirte",
+    "header_text": "Lograr tus objetivos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Zambullirte"
+            "text": "Lograr tus objetivos"
         },
         {
             "type": "Media",
-            "file": "/images/Zambullirte.jpg"
+            "file": "/images/Lograr_tus_objetivos.jpg"
         }
     ]
 }

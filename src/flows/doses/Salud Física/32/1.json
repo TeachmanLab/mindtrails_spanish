@@ -1,14 +1,14 @@
 {
-    "name": "Película intermitente28",
-    "title": "Película intermitente",
+    "header_text": "Dando vueltas",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Película intermitente"
+            "text": "Dando vueltas"
         },
         {
             "type": "Media",
-            "file": "/images/Película_intermitente.jpg"
+            "file": "/images/Dando_vueltas.jpg"
         }
     ]
 }

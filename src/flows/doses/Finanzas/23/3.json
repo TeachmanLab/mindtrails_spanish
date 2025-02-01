@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Mantener a la familia",
+    "header_title": "Permitirse la educación",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que enviar a tus hijos a una buena universidad"
+            "Text": "Pedir préstamos para ayudar a tus hijos..."
         },
         {
             "type": "Buttons",
-            "name": "Mantener a la familia_Finanzas_comp_question",
+            "name": "Permitirse la educación_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Será alcanzable.",
-                "Estará más allá de tus posibilidades."
+                "no dañará tus finanzas a largo plazo",
+                "arruinará tus finanzas durante décadas"
             ],
             "columnCount": 1,
-            "answer": "Será alcanzable."
+            "answer": "no dañará tus finanzas a largo plazo"
         }
     ]
 }

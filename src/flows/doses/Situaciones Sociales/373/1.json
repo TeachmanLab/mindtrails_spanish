@@ -1,14 +1,14 @@
 {
-    "name": "Nervios en un momento importante406",
-    "title": "Nervios en un momento importante",
+    "header_text": "Dolor de garganta en la cena",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nervios en un momento importante"
+            "text": "Dolor de garganta en la cena"
         },
         {
             "type": "Media",
-            "file": "/images/Nervios_en_un_momento_importante.jpg"
+            "file": "/images/Dolor_de_garganta_en_la_cena.jpg"
         }
     ]
 }

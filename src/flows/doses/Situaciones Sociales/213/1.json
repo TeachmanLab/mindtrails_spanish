@@ -1,10 +1,11 @@
 {
-    "title": "¡Escribe El Tuyo!",
+    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
+            "text": "Planea salir de tu zona de confort, aunque sea de una manera pequeña. A veces es útil pedirle a otra persona, como un amigo o un ser querido, que lo qyude a rendir cuentas. "
         }
-    ],
-    "name": "Write Your Own"
+    ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Pensamientos acelerados267",
-    "title": "Pensamientos acelerados",
+    "header_text": "Sentirse ansioso",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pensamientos acelerados"
+            "text": "Sentirse ansioso"
         },
         {
             "type": "Media",
-            "file": "/images/Pensamientos_acelerados.jpg"
+            "file": "/images/Sentirse_ansioso.jpg"
         }
     ]
 }

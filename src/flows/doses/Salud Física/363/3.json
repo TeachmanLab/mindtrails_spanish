@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Conocido sin mascarilla",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Clase de baile",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu colega olvidó su mascarilla?"
+            "text": "Estás tomando una clase de baile y, durante un descanso, te encuentras hablando con otro participante que viene llagando sobre tu trabajo. Mientras hablan, te das cuenta de que estás sudando. Ellos probablemente piensan que esto es resultado del..."
         },
         {
-            "type": "Buttons",
-            "name": "Conocido sin mascarilla_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Clase de baile_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "baile"
             ],
-            "columnCount": 1,
-            "answer": "Si"
+            "missing_letter_count": 2
         }
     ]
 }

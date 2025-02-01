@@ -1,14 +1,14 @@
 {
-    "name": "Sentirse mareado383",
-    "title": "Sentirse mareado",
+    "header_text": "Vecino sin mascarilla",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sentirse mareado"
+            "text": "Vecino sin mascarilla"
         },
         {
             "type": "Media",
-            "file": "/images/Sentirse_mareado.jpg"
+            "file": "/images/Vecino_sin_mascarilla.jpg"
         }
     ]
 }

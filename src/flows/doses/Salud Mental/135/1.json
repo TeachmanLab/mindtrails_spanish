@@ -1,14 +1,14 @@
 {
-    "name": "Tu primer hijo145",
-    "title": "Tu primer hijo",
+    "header_text": "Sentado en una reunión",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tu primer hijo"
+            "text": "Sentado en una reunión"
         },
         {
             "type": "Media",
-            "file": "/images/Tu_primer_hijo.jpg"
+            "file": "/images/Sentado_en_una_reunión.jpg"
         }
     ]
 }

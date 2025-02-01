@@ -1,10 +1,14 @@
 {
-    "title": "Recurso: Situaciones Sociales",
-    "name": "La Unión Americana de Libertades Civiles (American Civil Liberties Union)",
+    "header_text": "El torneo de fútbol",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "La Unión Americana de Libertades Civiles (American Civil Liberties Union)\n\nProporciona información y recursos acerca de los derechos de las personas estadunidenses en una variedad de situaciones: libertad religiosa, libertad de expresión, derechos de inmigrantes, derechos de las personas LGBT y más.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "type": "Label",
+            "text": "El torneo de fútbol"
+        },
+        {
+            "type": "Media",
+            "file": "/images/El_torneo_de_fútbol.jpg"
         }
     ]
 }

@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Salud Mental",
-    "name": "Consejo para la regulación de las emociones",
+    "header_text": "Hablando sobre vivienda",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Intente escribir sobre sus sentimientos y pensamientos para comprenderlos más claramente."
+            "type": "Label",
+            "text": "Hablando sobre vivienda"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Hablando_sobre_vivienda.jpg"
         }
     ]
 }

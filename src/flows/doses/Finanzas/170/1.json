@@ -1,14 +1,14 @@
 {
-    "name": "Confiar en los padres176",
-    "title": "Confiar en los padres",
+    "header_text": "Gestión de crédito",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Confiar en los padres"
+            "text": "Gestión de crédito"
         },
         {
             "type": "Media",
-            "file": "/images/Confiar_en_los_padres.jpg"
+            "file": "/images/Gestión_de_crédito.jpg"
         }
     ]
 }

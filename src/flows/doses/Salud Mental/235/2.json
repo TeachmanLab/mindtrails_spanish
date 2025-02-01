@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Nuevo estilo",
+    "header_text": "Práctica de presentación",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vas de compras a tu tienda de ropa favorita. Ves un conjunto que te encanta pero no crees que sea adecuado para tu tipo de cuerpo. Después de conseguirlo y probártelo, quieres comprarlo a pesar de que no es algo que usas..."
+            "text": "Tienes una gran presentación. Temes no poder presentarla con precisión, entonces dedicas unas horas en el fin de semana para practicar. Le pides a tu amigo que venga a tu casa a ver tu presentación para recibir comentarios. Cuando terminas, tu amigo te dice que hiciste un muy buen trabajo y que te va a ir bien delante de otro... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Nuevo estilo_Salud Mental_puzzle1",
+            "name": "Práctica de presentación_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "normalmente"
+                "grupo"
             ],
             "missing_letter_count": 1
         }

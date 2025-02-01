@@ -1,0 +1,12 @@
+{
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿No estás seguro de qué escribir? A continuación se muestra un ejemplo:\n\nParte 1:\nLe envío un mensaje de correo electrónico a un amigo pidiéndole que tome un café, pero nunca responde. Me pregunto si están enojados conmigo.\n\nParte 2:\nRecordando la última vez que me reuní con este amigo, recuerdo que no revisan el correo electrónico con frecuencia y me siento... aliviado.\n\nObserva que el La afirmación \"Me pregunto si están enojados conmigo\" crea incertidumbre, pero la oración final resuelve esto de una manera no amenazante.\n\n¡Ahora es tu turno de probarlo!"
+        }
+    ]
+}

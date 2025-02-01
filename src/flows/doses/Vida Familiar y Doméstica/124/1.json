@@ -1,14 +1,14 @@
 {
-    "name": "Creencias diferentes135",
-    "title": "Creencias diferentes",
+    "header_text": "Cambio de planes",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Creencias diferentes"
+            "text": "Cambio de planes"
         },
         {
             "type": "Media",
-            "file": "/images/Creencias_diferentes.jpg"
+            "file": "/images/Cambio_de_planes.jpg"
         }
     ]
 }

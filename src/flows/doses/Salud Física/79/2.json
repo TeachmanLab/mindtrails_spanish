@@ -1,14 +1,14 @@
 {
-    "name": "Puzzle",
-    "title": "Serpientes venenosas",
+    "header_text": "Evaluación de salud",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Tu amigo te convence a dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque y comienzas a sentirte preocupados. Piensas que las posibilidades de que veas ese tipo de serpiente son..."
+            "type": "Label",
+            "text": "Evaluación de salud"
         },
         {
-            "type": "Entry",
-            "name": "Serpientes venenosas_Salud Física_entry1"
+            "type": "Media",
+            "file": "/images/Evaluación_de_salud.jpg"
         }
     ]
 }

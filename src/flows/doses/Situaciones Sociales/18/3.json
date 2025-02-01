@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Plato típico",
+    "header_title": "Sentirse diferente",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Crees que las personas en la fiesta no pensarán que eres un mal cocinero y probablemente pensarán que tu comida sabe..."
+            "Text": "¿Es malo que te sientas diferente a los demás en tu campo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Plato típico_Situaciones Sociales_puzzle_word2",
+            "type": "Buttons",
+            "name": "Sentirse diferente_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "bien"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "No"
         }
     ]
 }

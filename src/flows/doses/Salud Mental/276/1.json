@@ -1,14 +1,14 @@
 {
-    "name": "Comprometerse con las actividades295",
-    "title": "Comprometerse con las actividades",
+    "header_text": "Un momento de olvido",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comprometerse con las actividades"
+            "text": "Un momento de olvido"
         },
         {
             "type": "Media",
-            "file": "/images/Comprometerse_con_las_actividades.jpg"
+            "file": "/images/Un_momento_de_olvido.jpg"
         }
     ]
 }

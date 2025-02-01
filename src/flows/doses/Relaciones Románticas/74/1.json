@@ -1,14 +1,14 @@
 {
-    "name": "Nueva pareja65",
-    "title": "Nueva pareja",
+    "header_text": "Comparándote con otros",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nueva pareja"
+            "text": "Comparándote con otros"
         },
         {
             "type": "Media",
-            "file": "/images/Nueva_pareja.jpg"
+            "file": "/images/Comparándote_con_otros.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Conociendo alguien nuevo374",
-    "title": "Conociendo alguien nuevo",
+    "header_text": "Exposición reciente",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Conociendo alguien nuevo"
+            "text": "Exposición reciente"
         },
         {
             "type": "Media",
-            "file": "/images/Conociendo_alguien_nuevo.jpg"
+            "file": "/images/Exposición_reciente.jpg"
         }
     ]
 }

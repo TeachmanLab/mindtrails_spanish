@@ -1,14 +1,14 @@
 {
-    "name": "Nuevo estilo258",
-    "title": "Nuevo estilo",
+    "header_text": "Práctica de presentación",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nuevo estilo"
+            "text": "Práctica de presentación"
         },
         {
             "type": "Media",
-            "file": "/images/Nuevo_estilo.jpg"
+            "file": "/images/Práctica_de_presentación.jpg"
         }
     ]
 }

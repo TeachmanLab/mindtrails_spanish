@@ -1,0 +1,14 @@
+{
+    "title": "Encuesta nocturna",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Le animamos a completar 2 programas cortos de Hoos Think Calmly manana. Pensando en su día de manana, ¿hay momentos específicos en los que le gustaría recibir una notificación para completar un programa de ~5 minutos para ayudar a manejar una situación estresante o perturbadora?"
+        },
+        {
+            "type": "scheduler",
+            "message": "¡Es hora de practicar el pensamiento flexible! Dirígete a MindTrails Español para tu sesión programada.",
+            "name": "schedule_session"
+        }
+    ]
+}

@@ -1,14 +1,14 @@
 {
-    "name": "Ir a la quiebra5",
-    "title": "Ir a la quiebra",
+    "header_text": "Solicitar una subvención",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ir a la quiebra"
+            "text": "Solicitar una subvención"
         },
         {
             "type": "Media",
-            "file": "/images/Ir_a_la_quiebra.jpg"
+            "file": "/images/Solicitar_una_subvención.jpg"
         }
     ]
 }

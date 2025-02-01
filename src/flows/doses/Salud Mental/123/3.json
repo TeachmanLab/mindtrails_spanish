@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Dolor de estómago",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Fuera de tu control",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿El dolor de estómago se debe a la ansiedad?"
+            "text": "Después de un minuto, tu conexión a internet vuelve. Inicias sesión de nuevo y te das cuenta de que te sientes más..."
         },
         {
-            "type": "Buttons",
-            "name": "Dolor de estómago_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Fuera de tu control_Salud Mental_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "seguro"
             ],
-            "columnCount": 1,
-            "answer": "Si"
+            "missing_letter_count": 1
         }
     ]
 }

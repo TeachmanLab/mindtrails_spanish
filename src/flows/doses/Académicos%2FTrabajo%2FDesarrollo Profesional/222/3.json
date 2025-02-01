@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Corrección rápida",
+    "header_title": "Trabajo inacabado",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Al final, recuerdas que cometer errores ocasionalmente no te hace un mal empleado. Tu jefe te corregió amablemente, porque es su trabajo, y sientes que toda la interacción estuvo..."
+            "Text": "¿Podrás hacer todo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Corrección rápida_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
+            "type": "Buttons",
+            "name": "Trabajo inacabado_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "bien"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "Si"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Trabajo inacabado202",
-    "title": "Trabajo inacabado",
+    "header_text": "Día especial",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trabajo inacabado"
+            "text": "Día especial"
         },
         {
             "type": "Media",
-            "file": "/images/Trabajo_inacabado.jpg"
+            "file": "/images/Día_especial.jpg"
         }
     ]
 }

@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Una salida organizada",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Tus amigos no disfrutaron la excursión porque ..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Una salida organizada_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "El clima era desagradable.",
+                "Lo planeaste mal."
+            ],
+            "columnCount": 1,
+            "answer": "El clima era desagradable."
+        }
+    ]
+}

@@ -1,14 +1,14 @@
 {
-    "name": "Conociendo alguien nuevo88",
-    "title": "Conociendo alguien nuevo",
+    "header_text": "Distanciamiento social adentro",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Conociendo alguien nuevo"
+            "text": "Distanciamiento social adentro"
         },
         {
             "type": "Media",
-            "file": "/images/Conociendo_alguien_nuevo.jpg"
+            "file": "/images/Distanciamiento_social_adentro.jpg"
         }
     ]
 }

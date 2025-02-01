@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Una cámara nueva",
-    "show_buttons": "WhenCorrect",
+    "header_text": "No tener mucho que decir",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Piensas que el asistente de ventas te encontró molesto?"
+            "text": "Mientras escuchas a tus amigos, recuerdas que tu amigo estaba callado el otro día. Decides que no siempre compartir es..."
         },
         {
-            "type": "Buttons",
-            "name": "Una cámara nueva_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "No tener mucho que decir_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "normal"
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 1
         }
     ]
 }

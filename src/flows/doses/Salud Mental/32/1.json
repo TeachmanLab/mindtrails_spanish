@@ -1,14 +1,14 @@
 {
-    "name": "Gestión de responsabilidades28",
-    "title": "Gestión de responsabilidades",
+    "header_text": "Expresar tu opinión",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Gestión de responsabilidades"
+            "text": "Expresar tu opinión"
         },
         {
             "type": "Media",
-            "file": "/images/Gestión_de_responsabilidades.jpg"
+            "file": "/images/Expresar_tu_opinión.jpg"
         }
     ]
 }

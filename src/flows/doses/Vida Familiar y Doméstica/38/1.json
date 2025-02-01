@@ -1,14 +1,14 @@
 {
-    "name": "Tensión familiar33",
-    "title": "Tensión familiar",
+    "header_text": "Tu primer hijo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tensión familiar"
+            "text": "Tu primer hijo"
         },
         {
             "type": "Media",
-            "file": "/images/Tensión_familiar.jpg"
+            "file": "/images/Tu_primer_hijo.jpg"
         }
     ]
 }

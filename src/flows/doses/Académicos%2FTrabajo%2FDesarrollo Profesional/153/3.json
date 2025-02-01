@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Una llamada crucial",
+    "header_title": "Bromistas",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes tolerar sentir ansiedad mientras esperas la llamada?"
+            "Text": "¿Tus compañeros se están burlando de ti?"
         },
         {
             "type": "Buttons",
-            "name": "Una llamada crucial_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Bromistas_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "Si"
+            "answer": "No"
         }
     ]
 }

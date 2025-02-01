@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Enfrentando a un amigo",
+    "header_title": "Comentarios de publicaciones de Instagram",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás orgulloso de haberte comunicado con tu amigo?"
+            "Text": "¿La gente no te felicita porque cree que no lo mereces?"
         },
         {
             "type": "Buttons",
-            "name": "Enfrentando a un amigo_Salud Mental_comp_question",
+            "name": "Comentarios de publicaciones de Instagram_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "Si"
+            "answer": "No"
         }
     ]
 }

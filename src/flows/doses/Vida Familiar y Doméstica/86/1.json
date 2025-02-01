@@ -1,14 +1,14 @@
 {
-    "name": "Inicio Presentaciones76",
-    "title": "Inicio Presentaciones",
+    "header_text": "Cena en una casa de amigos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Inicio Presentaciones"
+            "text": "Cena en una casa de amigos"
         },
         {
             "type": "Media",
-            "file": "/images/Inicio_Presentaciones.jpg"
+            "file": "/images/Cena_en_una_casa_de_amigos.jpg"
         }
     ]
 }

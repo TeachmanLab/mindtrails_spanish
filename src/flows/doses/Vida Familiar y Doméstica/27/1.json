@@ -1,14 +1,14 @@
 {
-    "name": "Opiniones de otros23",
-    "title": "Opiniones de otros",
+    "header_text": "Pasando tiempo con familia",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Opiniones de otros"
+            "text": "Pasando tiempo con familia"
         },
         {
             "type": "Media",
-            "file": "/images/Opiniones_de_otros.jpg"
+            "file": "/images/Pasando_tiempo_con_familia.jpg"
         }
     ]
 }

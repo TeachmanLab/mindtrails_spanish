@@ -1,14 +1,14 @@
 {
-    "name": "Compañero de cuarto ausente77",
-    "title": "Compañero de cuarto ausente",
+    "header_text": "Hablando sobre vivienda",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Compañero de cuarto ausente"
+            "text": "Hablando sobre vivienda"
         },
         {
             "type": "Media",
-            "file": "/images/Compañero_de_cuarto_ausente.jpg"
+            "file": "/images/Hablando_sobre_vivienda.jpg"
         }
     ]
 }

@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "No sentirte preparado",
+    "header_text": "Presentación importante",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En el trabajo, tu jefe les pide a todos que levanten la mano si han oído hablar de una técnica de trabajo. Cuando miras a tu alrededor, notas que la mayoría de tus compañeros de trabajo tienen la mano levantada, pero tú no. Esto te hace sentir como si no estuvieras preparado para hacer el..."
+            "text": "Te han pedido que hagas una presentación sobre algunos de tus últimos proyectos en una conferencia importante. Esta es una gran oportunidad para resaltar el buen trabajo que has estado haciendo, pero te sientes nervioso al hablar frente a un grupo tan grande de..."
         },
         {
             "type": "WordPuzzle",
-            "name": "No sentirte preparado_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "name": "Presentación importante_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "trabajo"
+                "compañeros"
             ],
             "missing_letter_count": 1
         }

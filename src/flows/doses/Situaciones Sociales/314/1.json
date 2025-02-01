@@ -1,14 +1,11 @@
 {
-    "name": "Chistes con Amigos329",
-    "title": "Chistes con Amigos",
+    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Chistes con Amigos"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Chistes_con_Amigos.jpg"
+            "type": "Text",
+            "text": "Piensa en algo positivo que haya sucedido cuando interactuaste con alguien hoy y saborea cómo te sentiste durante esa experiencia. "
         }
     ]
 }

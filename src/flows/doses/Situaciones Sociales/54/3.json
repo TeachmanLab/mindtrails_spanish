@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Sin planes para el fin de semana",
+    "header_title": "Conversación con un desconocido",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Entiendes que todos tienen vidas ocupadas y que es más difícil pasar tiempo juntos. Han sido buenos amigos por mucho tiempo y solamente un tiempo de separación no es suficiente para dañar estas amistades. Decides..."
+            "Text": "En general, la conversación probablemente fue..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Sin planes para el fin de semana_Situaciones Sociales_puzzle_word2",
+            "type": "Buttons",
+            "name": "Conversación con un desconocido_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "contactarlos"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Una oportunidad relajada y agradable para conocer a una nueva persona.",
+                "Situación estresante, porque la persona podría haberte encontrado aburrido."
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "answer": "Una oportunidad relajada y agradable para conocer a una nueva persona."
         }
     ]
 }

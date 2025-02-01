@@ -1,5 +1,6 @@
 {
-    "title": "El almuerzo",
+    "header_text": "El almuerzo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

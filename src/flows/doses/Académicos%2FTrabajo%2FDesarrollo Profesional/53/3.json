@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Correo electrónico importante",
+    "header_title": "Comentarios en las redes sociales",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes bien teniendo que esperar el correo electrónico?"
+            "Text": "¿Está bien que tu amigo no haya respondido todavía?"
         },
         {
             "type": "Buttons",
-            "name": "Correo electrónico importante_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Comentarios en las redes sociales_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "No"
+            "answer": "Si"
         }
     ]
 }

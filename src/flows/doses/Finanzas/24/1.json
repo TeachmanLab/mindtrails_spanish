@@ -1,14 +1,14 @@
 {
-    "name": "Permitirse la educación21",
-    "title": "Permitirse la educación",
+    "header_text": "Ahorrando dinero",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Permitirse la educación"
+            "text": "Ahorrando dinero"
         },
         {
             "type": "Media",
-            "file": "/images/Permitirse_la_educación.jpg"
+            "file": "/images/Ahorrando_dinero.jpg"
         }
     ]
 }

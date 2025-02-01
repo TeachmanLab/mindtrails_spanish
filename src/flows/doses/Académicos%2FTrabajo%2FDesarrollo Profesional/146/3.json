@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Proyecto de escritura",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Error en una tarea",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Es probable que tu supervisor te haya encontrado..."
+            "text": "Al final, te das cuenta de que tu jefe es rápido en darte correciones porque están invirtiendo en ti y están interesados en verte..."
         },
         {
-            "type": "Buttons",
-            "name": "Proyecto de escritura_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "Error en una tarea_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Capaz.",
-                "Incapaz."
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "progresar"
             ],
-            "columnCount": 1,
-            "answer": "Capaz."
+            "missing_letter_count": 2
         }
     ]
 }

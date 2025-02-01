@@ -1,14 +1,14 @@
 {
-    "name": "Planificación de pagos17",
-    "title": "Planificación de pagos",
+    "header_text": "Costos inesperados",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Planificación de pagos"
+            "text": "Costos inesperados"
         },
         {
             "type": "Media",
-            "file": "/images/Planificación_de_pagos.jpg"
+            "file": "/images/Costos_inesperados.jpg"
         }
     ]
 }

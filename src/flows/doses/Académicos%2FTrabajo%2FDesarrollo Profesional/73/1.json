@@ -1,14 +1,14 @@
 {
-    "name": "Contribuir a una discusión64",
-    "title": "Contribuir a una discusión",
+    "header_text": "Dando una presentación",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Contribuir a una discusión"
+            "text": "Dando una presentación"
         },
         {
             "type": "Media",
-            "file": "/images/Contribuir_a_una_discusión.jpg"
+            "file": "/images/Dando_una_presentación.jpg"
         }
     ]
 }

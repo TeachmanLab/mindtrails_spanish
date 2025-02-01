@@ -1,14 +1,14 @@
 {
-    "name": "Resultados de análisis de sangre253",
-    "title": "Resultados de análisis de sangre",
+    "header_text": "Correo electrónico importante",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Resultados de análisis de sangre"
+            "text": "Correo electrónico importante"
         },
         {
             "type": "Media",
-            "file": "/images/Resultados_de_análisis_de_sangre.jpg"
+            "file": "/images/Correo_electrónico_importante.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Puzzle",
-    "title": "Expresándote",
+    "header_text": "Sentado en una reunión",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En el trabajo, tu jefe te da la responsabilidad de resolver un problema complicado. Tienes una idea que crees que podría funcionar, pero te preguntas si es demasiado simplista. Mientras consideras compartir tu idea, decides..."
+            "text": "Tomas un poco de agua y comienzas a sentirte más despierto, recordando que anoche no dormiste tanto como de costumbre. Decides que simplemente estás..."
         },
         {
             "type": "Entry",
-            "name": "Expresándote_Salud Mental_entry1"
+            "name": "Sentado en una reunión_Salud Mental_entry2"
         }
     ]
 }

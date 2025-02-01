@@ -1,14 +1,14 @@
 {
-    "name": "Clima lluvioso26",
-    "title": "Clima lluvioso",
+    "header_text": "Gestión de responsabilidades",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Clima lluvioso"
+            "text": "Gestión de responsabilidades"
         },
         {
             "type": "Media",
-            "file": "/images/Clima_lluvioso.jpg"
+            "file": "/images/Gestión_de_responsabilidades.jpg"
         }
     ]
 }

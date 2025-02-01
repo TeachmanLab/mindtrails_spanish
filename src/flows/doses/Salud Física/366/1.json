@@ -1,6 +1,6 @@
 {
-    "name": "Exposición reciente401",
-    "title": "Exposición reciente",
+    "header_text": "Exposición reciente",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",

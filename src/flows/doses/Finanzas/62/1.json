@@ -1,14 +1,14 @@
 {
-    "name": "Mantener a la familia54",
-    "title": "Mantener a la familia",
+    "header_text": "Costear los gastos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mantener a la familia"
+            "text": "Costear los gastos"
         },
         {
             "type": "Media",
-            "file": "/images/Mantener_a_la_familia.jpg"
+            "file": "/images/Costear_los_gastos.jpg"
         }
     ]
 }

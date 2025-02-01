@@ -1,14 +1,14 @@
 {
-    "name": "Devolución de chaqueta26",
-    "title": "Devolución de chaqueta",
+    "header_text": "Iniciando un negocio pequeño",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Devolución de chaqueta"
+            "text": "Iniciando un negocio pequeño"
         },
         {
             "type": "Media",
-            "file": "/images/Devolución_de_chaqueta.jpg"
+            "file": "/images/Iniciando_un_negocio_pequeño.jpg"
         }
     ]
 }

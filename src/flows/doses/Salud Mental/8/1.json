@@ -1,14 +1,14 @@
 {
-    "name": "Una oportunidad perdida6",
-    "title": "Una oportunidad perdida",
+    "header_text": "Sensación de noche",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una oportunidad perdida"
+            "text": "Sensación de noche"
         },
         {
             "type": "Media",
-            "file": "/images/Una_oportunidad_perdida.jpg"
+            "file": "/images/Sensación_de_noche.jpg"
         }
     ]
 }

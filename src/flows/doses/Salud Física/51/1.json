@@ -1,14 +1,14 @@
 {
-    "name": "Revisión física anual45",
-    "title": "Revisión física anual",
+    "header_text": "Visión borrosa",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Revisión física anual"
+            "text": "Visión borrosa"
         },
         {
             "type": "Media",
-            "file": "/images/Revisión_física_anual.jpg"
+            "file": "/images/Visión_borrosa.jpg"
         }
     ]
 }

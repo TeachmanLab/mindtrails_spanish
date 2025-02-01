@@ -1,14 +1,14 @@
 {
-    "name": "Alzar la voz en una clase36",
-    "title": "Alzar la voz en una clase",
+    "header_text": "Un trago de agua",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Alzar la voz en una clase"
+            "text": "Un trago de agua"
         },
         {
             "type": "Media",
-            "file": "/images/Alzar_la_voz_en_una_clase.jpg"
+            "file": "/images/Un_trago_de_agua.jpg"
         }
     ]
 }

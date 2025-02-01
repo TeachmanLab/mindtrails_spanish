@@ -1,14 +1,14 @@
 {
-    "name": "Recuerdo conduciendo273",
-    "title": "Recuerdo conduciendo",
+    "header_text": "Viendo a un viejo amigo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Recuerdo conduciendo"
+            "text": "Viendo a un viejo amigo"
         },
         {
             "type": "Media",
-            "file": "/images/Recuerdo_conduciendo.jpg"
+            "file": "/images/Viendo_a_un_viejo_amigo.jpg"
         }
     ]
 }

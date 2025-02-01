@@ -1,14 +1,14 @@
 {
-    "name": "Permitirse la educación83",
-    "title": "Permitirse la educación",
+    "header_text": "Sintiéndote preocupado por las noticias",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Permitirse la educación"
+            "text": "Sintiéndote preocupado por las noticias"
         },
         {
             "type": "Media",
-            "file": "/images/Permitirse_la_educación.jpg"
+            "file": "/images/Sintiéndote_preocupado_por_las_noticias.jpg"
         }
     ]
 }

@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Situaciones Sociales",
-    "name": "Consejo para la regulación de las emociones",
+    "header_text": "Hilo de pensamientos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Antes de pasar el rato con alguien, plantifiques algunos temas de conversación para mencionar durante tu conversación."
+            "type": "Label",
+            "text": "Hilo de pensamientos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Hilo_de_pensamientos.jpg"
         }
     ]
 }

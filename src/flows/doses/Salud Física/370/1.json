@@ -1,14 +1,14 @@
 {
-    "name": "Ejercicio con un amigo403",
-    "title": "Ejercicio con un amigo",
+    "header_text": "Manchas de sudor",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ejercicio con un amigo"
+            "text": "Manchas de sudor"
         },
         {
             "type": "Media",
-            "file": "/images/Ejercicio_con_un_amigo.jpg"
+            "file": "/images/Manchas_de_sudor.jpg"
         }
     ]
 }

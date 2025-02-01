@@ -1,14 +1,14 @@
 {
-    "name": "Enfrentando a un amigo281",
-    "title": "Enfrentando a un amigo",
+    "header_text": "Comentarios de publicaciones de Instagram",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Enfrentando a un amigo"
+            "text": "Comentarios de publicaciones de Instagram"
         },
         {
             "type": "Media",
-            "file": "/images/Enfrentando_a_un_amigo.jpg"
+            "file": "/images/Comentarios_de_publicaciones_de_Instagram.jpg"
         }
     ]
 }

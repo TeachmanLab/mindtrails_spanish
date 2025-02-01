@@ -1,14 +1,12 @@
 {
-    "name": "Puzzle",
-    "title": "Reunión uno a uno",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Hoy tienes una reunión individual con tu intimidante jefe, lo que te pone nervioso. Durante la reunión, pierdes momentáneamente el hilo de tus pensamientos. Después de eso, tu ansiedad es..."
-        },
-        {
-            "type": "Entry",
-            "name": "Reunión uno a uno_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "text": "Piensa en una situación que te genera ansiedad y que te haya ocurrido en el pasado, o que te preocupa que suceda en el futuro. Escribe tu propia historia de entrenamiento basada en esta situación, asegurándote de incluir un final positivo o no amenazante en la oración final de la historia."
         }
     ]
 }

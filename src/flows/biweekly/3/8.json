@@ -1,5 +1,6 @@
 {
-    "title": "escala de estrés",
+    "header_text": "escala de estrés",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

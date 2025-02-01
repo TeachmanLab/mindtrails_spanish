@@ -1,14 +1,14 @@
 {
-    "name": "Participación en las redes sociales243",
-    "title": "Participación en las redes sociales",
+    "header_text": "Práctica de presentación",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Participación en las redes sociales"
+            "text": "Práctica de presentación"
         },
         {
             "type": "Media",
-            "file": "/images/Participación_en_las_redes_sociales.jpg"
+            "file": "/images/Práctica_de_presentación.jpg"
         }
     ]
 }

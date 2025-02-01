@@ -1,14 +1,14 @@
 {
-    "name": "Cancelación de concierto380",
-    "title": "Cancelación de concierto",
+    "header_text": "Tos después de salir",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cancelación de concierto"
+            "text": "Tos después de salir"
         },
         {
             "type": "Media",
-            "file": "/images/Cancelación_de_concierto.jpg"
+            "file": "/images/Tos_después_de_salir.jpg"
         }
     ]
 }

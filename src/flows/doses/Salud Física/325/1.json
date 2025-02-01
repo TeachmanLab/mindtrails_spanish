@@ -1,14 +1,14 @@
 {
-    "name": "Subiendo una montaña363",
-    "title": "Subiendo una montaña",
+    "header_text": "Boca seca",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Subiendo una montaña"
+            "text": "Boca seca"
         },
         {
             "type": "Media",
-            "file": "/images/Subiendo_una_montaña.jpg"
+            "file": "/images/Boca_seca.jpg"
         }
     ]
 }

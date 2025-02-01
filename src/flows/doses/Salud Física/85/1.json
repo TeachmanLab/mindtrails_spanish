@@ -1,14 +1,14 @@
 {
-    "name": "Poniéndose al día con los amigos75",
-    "title": "Poniéndose al día con los amigos",
+    "header_text": "Sensaciones desconocidas",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Poniéndose al día con los amigos"
+            "text": "Sensaciones desconocidas"
         },
         {
             "type": "Media",
-            "file": "/images/Poniéndose_al_día_con_los_amigos.jpg"
+            "file": "/images/Sensaciones_desconocidas.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Dolor de estómago247",
-    "title": "Dolor de estómago",
+    "header_text": "Vecino amigable",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dolor de estómago"
+            "text": "Vecino amigable"
         },
         {
             "type": "Media",
-            "file": "/images/Dolor_de_estómago.jpg"
+            "file": "/images/Vecino_amigable.jpg"
         }
     ]
 }

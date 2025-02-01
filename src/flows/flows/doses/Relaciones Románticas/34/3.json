@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Citas en línea",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Pensando en tus posibilidades de encontrar a alguien en línea, no crees que tendrás un problema y crees que tus posibilidades de conocer a alguien pronto son... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Citas en línea_Relaciones Románticas_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "altas"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

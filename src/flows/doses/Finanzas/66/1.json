@@ -1,14 +1,14 @@
 {
-    "name": "Visitar a un nuevo amigo58",
-    "title": "Visitar a un nuevo amigo",
+    "header_text": "Limitaciones financieras",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Visitar a un nuevo amigo"
+            "text": "Limitaciones financieras"
         },
         {
             "type": "Media",
-            "file": "/images/Visitar_a_un_nuevo_amigo.jpg"
+            "file": "/images/Limitaciones_financieras.jpg"
         }
     ]
 }

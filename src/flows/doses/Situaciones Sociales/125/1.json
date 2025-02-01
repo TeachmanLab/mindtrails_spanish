@@ -1,14 +1,14 @@
 {
-    "name": "Reconforto sobre la vacunación136",
-    "title": "Reconforto sobre la vacunación",
+    "header_text": "Club de lectura",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Reconforto sobre la vacunación"
+            "text": "Club de lectura"
         },
         {
             "type": "Media",
-            "file": "/images/Reconforto_sobre_la_vacunación.jpg"
+            "file": "/images/Club_de_lectura.jpg"
         }
     ]
 }

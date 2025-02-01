@@ -1,14 +1,14 @@
 {
-    "name": "Una invitación57",
-    "title": "Una invitación",
+    "header_text": "Zambullirte",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una invitación"
+            "text": "Zambullirte"
         },
         {
             "type": "Media",
-            "file": "/images/Una_invitación.jpg"
+            "file": "/images/Zambullirte.jpg"
         }
     ]
 }

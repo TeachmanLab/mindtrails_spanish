@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Serpientes venenosas",
+    "header_text": "Un dolor de garganta",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo te convence a dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque y comienzas a sentirte preocupados. Piensas que las posibilidades de que veas ese tipo de serpiente son..."
+            "text": "Al levantarte esta mañana, notas que te pica la garganta más de lo normal. Piensas en por qué puede ser. Decides que probablemente es porque tienes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Serpientes venenosas_Salud Física_puzzle1",
+            "name": "Un dolor de garganta_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "pequeñas"
+                "sed"
             ],
             "missing_letter_count": 1
         }

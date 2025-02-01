@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Un tropiezo repentino",
+    "header_title": "Puerta cerrada",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Tu jefe probablemente pensará que..."
+            "Text": "Durante el fin de semana vas a..."
         },
         {
             "type": "Buttons",
-            "name": "Un tropiezo repentino_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Puerta cerrada_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Estás listo para enfrentar desafíos.",
-                "Eres una persona torpe."
+                "Descansar y pasar tiempo con amigos o familiares.",
+                "Preocúpate por si cerraste la puerta con llave."
             ],
             "columnCount": 1,
-            "answer": "Estás listo para enfrentar desafíos."
+            "answer": "Descansar y pasar tiempo con amigos o familiares."
         }
     ]
 }

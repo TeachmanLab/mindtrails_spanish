@@ -1,14 +1,14 @@
 {
-    "name": "Recibir reconocimiento275",
-    "title": "Recibir reconocimiento",
+    "header_text": "Comparándote con otros",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Recibir reconocimiento"
+            "text": "Comparándote con otros"
         },
         {
             "type": "Media",
-            "file": "/images/Recibir_reconocimiento.jpg"
+            "file": "/images/Comparándote_con_otros.jpg"
         }
     ]
 }

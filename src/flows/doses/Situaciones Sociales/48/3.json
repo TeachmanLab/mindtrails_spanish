@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Asistir a una boda solo",
+    "header_title": "Comportamiento de riesgo",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Disfrutas de tu tiempo en el matrimonio?"
+            "Text": "¿Te preocupa que decirle a tu jefe cómo te sientes te cause problemas?"
         },
         {
             "type": "Buttons",
-            "name": "Asistir a una boda solo_Situaciones Sociales_comp_question",
+            "name": "Comportamiento de riesgo_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "Si"
+            "answer": "Sí"
         }
     ]
 }

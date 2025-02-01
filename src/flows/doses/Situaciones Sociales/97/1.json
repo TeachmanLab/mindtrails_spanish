@@ -1,14 +1,14 @@
 {
-    "name": "Exposure Guilt86",
-    "title": "Exposure Guilt",
+    "header_text": "Encontrarte con un viejo conocido",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Exposure Guilt"
+            "text": "Encontrarte con un viejo conocido"
         },
         {
             "type": "Media",
-            "file": "/images/Exposure_Guilt.jpg"
+            "file": "/images/Encontrarte_con_un_viejo_conocido.jpg"
         }
     ]
 }

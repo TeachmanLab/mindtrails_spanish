@@ -1,14 +1,14 @@
 {
-    "name": "Reconciliándote con tu amigo290",
-    "title": "Reconciliándote con tu amigo",
+    "header_text": "Broma interna",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Reconciliándote con tu amigo"
+            "text": "Broma interna"
         },
         {
             "type": "Media",
-            "file": "/images/Reconciliándote_con_tu_amigo.jpg"
+            "file": "/images/Broma_interna.jpg"
         }
     ]
 }

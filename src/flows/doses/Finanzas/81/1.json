@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Finanzas",
-    "name": "Consejo para la regulación de las emociones",
+    "header_text": "Costos inesperados",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Escriba dónde entra y sale su dinero y vea dónde se pueden hacer ajustes para que sus finanzas parezcan más manejables."
+            "type": "Label",
+            "text": "Costos inesperados"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Costos_inesperados.jpg"
         }
     ]
 }

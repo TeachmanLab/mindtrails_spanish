@@ -1,14 +1,14 @@
 {
-    "name": "Viejo amigo314",
-    "title": "Viejo amigo",
+    "header_text": "Compartiendo programas favoritos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Viejo amigo"
+            "text": "Compartiendo programas favoritos"
         },
         {
             "type": "Media",
-            "file": "/images/Viejo_amigo.jpg"
+            "file": "/images/Compartiendo_programas_favoritos.jpg"
         }
     ]
 }

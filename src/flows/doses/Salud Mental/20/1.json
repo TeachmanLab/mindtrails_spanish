@@ -1,14 +1,14 @@
 {
-    "name": "Siendo padre17",
-    "title": "Siendo padre",
+    "header_text": "Pensamientos intrusivos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Siendo padre"
+            "text": "Pensamientos intrusivos"
         },
         {
             "type": "Media",
-            "file": "/images/Siendo_padre.jpg"
+            "file": "/images/Pensamientos_intrusivos.jpg"
         }
     ]
 }

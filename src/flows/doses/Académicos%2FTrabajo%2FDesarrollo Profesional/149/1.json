@@ -1,14 +1,14 @@
 {
-    "name": "Esperando grandes noticias157",
-    "title": "Esperando grandes noticias",
+    "header_text": "El curso difícil",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Esperando grandes noticias"
+            "text": "El curso difícil"
         },
         {
             "type": "Media",
-            "file": "/images/Esperando_grandes_noticias.jpg"
+            "file": "/images/El_curso_difícil.jpg"
         }
     ]
 }

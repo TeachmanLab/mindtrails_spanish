@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Prestando de un amigo",
+    "header_title": "Presentación de recaudación de fondos",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu amigo pensará que tomaste su cargador a propósito?"
+            "Text": "Los compañeros de trabajo probablemente están pensando..."
         },
         {
             "type": "Buttons",
-            "name": "Prestando de un amigo_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Presentación de recaudación de fondos_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Que quieren ayudarte con la recaudación de fondos.",
+                "Que no quieren ayudarte con la recaudación de fondos."
             ],
             "columnCount": 1,
-            "answer": "No"
+            "answer": "Que quieren ayudarte con la recaudación de fondos."
         }
     ]
 }

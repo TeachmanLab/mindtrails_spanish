@@ -1,14 +1,14 @@
 {
-    "name": "Un golpe accidental304",
-    "title": "Un golpe accidental",
+    "header_text": "Seguridad de la trampolina",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un golpe accidental"
+            "text": "Seguridad de la trampolina"
         },
         {
             "type": "Media",
-            "file": "/images/Un_golpe_accidental.jpg"
+            "file": "/images/Seguridad_de_la_trampolina.jpg"
         }
     ]
 }

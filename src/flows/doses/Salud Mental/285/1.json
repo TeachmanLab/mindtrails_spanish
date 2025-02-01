@@ -1,14 +1,14 @@
 {
-    "name": "Hablando sobre vivienda302",
-    "title": "Hablando sobre vivienda",
+    "header_text": "Reloj favorito",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Hablando sobre vivienda"
+            "text": "Reloj favorito"
         },
         {
             "type": "Media",
-            "file": "/images/Hablando_sobre_vivienda.jpg"
+            "file": "/images/Reloj_favorito.jpg"
         }
     ]
 }

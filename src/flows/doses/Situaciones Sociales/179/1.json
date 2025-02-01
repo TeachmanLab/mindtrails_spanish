@@ -1,14 +1,14 @@
 {
-    "name": "Cambio de planes184",
-    "title": "Cambio de planes",
+    "header_text": "Entrega Responsable",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cambio de planes"
+            "text": "Entrega Responsable"
         },
         {
             "type": "Media",
-            "file": "/images/Cambio_de_planes.jpg"
+            "file": "/images/Entrega_Responsable.jpg"
         }
     ]
 }

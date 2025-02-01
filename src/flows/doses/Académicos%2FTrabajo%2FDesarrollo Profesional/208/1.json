@@ -1,14 +1,12 @@
 {
-    "name": "Reunión uno a uno210",
-    "title": "Reunión uno a uno",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
-            "type": "Label",
-            "text": "Reunión uno a uno"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Reunión_uno_a_uno.jpg"
+            "type": "Text",
+            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
         }
     ]
 }

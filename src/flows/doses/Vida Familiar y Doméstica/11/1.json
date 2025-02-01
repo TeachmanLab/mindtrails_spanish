@@ -1,14 +1,11 @@
 {
-    "name": "Atascado en el medio9",
-    "title": "Atascado en el medio",
+    "header_text": "Recurso: Vida Familiar y Doméstica",
+    "header_icon": "assets/subtitle.png",
+    "name": "Centro de información y recursos para familias",
     "elements": [
         {
-            "type": "Label",
-            "text": "Atascado en el medio"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Atascado_en_el_medio.jpg"
+            "type": "Text",
+            "text": "Centro de información y recursos para familias\n\nCenter for Parent Information & Resources ofrece una lista de recursos y guías informativas acerca de discapacidades, derechos educativos, y más.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

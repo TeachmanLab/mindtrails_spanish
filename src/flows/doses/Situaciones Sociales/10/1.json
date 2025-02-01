@@ -1,14 +1,14 @@
 {
-    "name": "Desconectandote8",
-    "title": "Desconectandote",
+    "header_text": "Compartir con alguien nuevo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Desconectandote"
+            "text": "Compartir con alguien nuevo"
         },
         {
             "type": "Media",
-            "file": "/images/Desconectandote.jpg"
+            "file": "/images/Compartir_con_alguien_nuevo.jpg"
         }
     ]
 }

@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Malentendido",
+    "header_title": "Completando trabajos",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Después de explicar lo que sucedió al jefe de tu departamento, él dice que entiende. Sientes que aún podrás causar una buena..."
+            "Text": "¿Podrás hacer trabajo este fin de semana?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Malentendido_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
+            "type": "Buttons",
+            "name": "Completando trabajos_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "impresión"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "Si"
         }
     ]
 }

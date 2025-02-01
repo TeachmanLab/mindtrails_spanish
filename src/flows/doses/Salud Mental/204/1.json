@@ -1,14 +1,14 @@
 {
-    "name": "Hablando sobre vivienda206",
-    "title": "Hablando sobre vivienda",
+    "header_text": "Solicitar una subvención",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Hablando sobre vivienda"
+            "text": "Solicitar una subvención"
         },
         {
             "type": "Media",
-            "file": "/images/Hablando_sobre_vivienda.jpg"
+            "file": "/images/Solicitar_una_subvención.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Temprano en la mañana255",
-    "title": "Temprano en la mañana",
+    "header_text": "Planes de vacaciones",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Temprano en la mañana"
+            "text": "Planes de vacaciones"
         },
         {
             "type": "Media",
-            "file": "/images/Temprano_en_la_mañana.jpg"
+            "file": "/images/Planes_de_vacaciones.jpg"
         }
     ]
 }

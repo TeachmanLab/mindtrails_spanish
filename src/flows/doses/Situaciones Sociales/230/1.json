@@ -1,14 +1,14 @@
 {
-    "name": "Plato típico253",
-    "title": "Plato típico",
+    "header_text": "Temprano en la mañana",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Plato típico"
+            "text": "Temprano en la mañana"
         },
         {
             "type": "Media",
-            "file": "/images/Plato_típico.jpg"
+            "file": "/images/Temprano_en_la_mañana.jpg"
         }
     ]
 }

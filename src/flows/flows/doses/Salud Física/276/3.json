@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Una mesa sucia",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Mientras almuerzas con tu amigo, tu ..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Una mesa sucia_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "eres capaces de disfrutar la conversación.",
+                "Estás insoportablemente ansiosos."
+            ],
+            "columnCount": 1,
+            "answer": "eres capaces de disfrutar la conversación."
+        }
+    ]
+}

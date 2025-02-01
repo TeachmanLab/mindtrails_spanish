@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Correo electrónico importante",
+    "header_title": "Día especial",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes bien teniendo que esperar el correo electrónico?"
+            "Text": "Probablemente te sientes nervioso porque ..."
         },
         {
             "type": "Buttons",
-            "name": "Correo electrónico importante_Salud Mental_comp_question",
+            "name": "Día especial_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Nunca has salido con esta persona antes.",
+                "Eres desagradable."
             ],
             "columnCount": 1,
-            "answer": "No"
+            "answer": "Nunca has salido con esta persona antes."
         }
     ]
 }

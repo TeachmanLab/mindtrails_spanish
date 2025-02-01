@@ -1,14 +1,14 @@
 {
-    "name": "Tomando un descanso167",
-    "title": "Tomando un descanso",
+    "header_text": "Preocuparse por los ahorros",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tomando un descanso"
+            "text": "Preocuparse por los ahorros"
         },
         {
             "type": "Media",
-            "file": "/images/Tomando_un_descanso.jpg"
+            "file": "/images/Preocuparse_por_los_ahorros.jpg"
         }
     ]
 }

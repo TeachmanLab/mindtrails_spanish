@@ -1,14 +1,14 @@
 {
-    "name": "Gestión de crédito74",
-    "title": "Gestión de crédito",
+    "header_text": "Mantener a la familia",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Gestión de crédito"
+            "text": "Mantener a la familia"
         },
         {
             "type": "Media",
-            "file": "/images/Gestión_de_crédito.jpg"
+            "file": "/images/Mantener_a_la_familia.jpg"
         }
     ]
 }

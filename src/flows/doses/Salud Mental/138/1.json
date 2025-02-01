@@ -1,14 +1,14 @@
 {
-    "name": "Enfrentando a un amigo148",
-    "title": "Enfrentando a un amigo",
+    "header_text": "Revisión física anual",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Enfrentando a un amigo"
+            "text": "Revisión física anual"
         },
         {
             "type": "Media",
-            "file": "/images/Enfrentando_a_un_amigo.jpg"
+            "file": "/images/Revisión_física_anual.jpg"
         }
     ]
 }

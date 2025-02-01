@@ -1,14 +1,12 @@
 {
-    "name": "Puzzle",
-    "title": "Recuperando el aliento",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Es una mañana fresca y estás subiendo unas escaleras para llegar a tu trabajo. Empiezas a sentirte realmente sin aliento cuando llegas al último escalón. Tomas un segundo para respirar y sentirte..."
-        },
-        {
-            "type": "Entry",
-            "name": "Recuperando el aliento_Salud Física_entry1"
+            "text": "Piensa en una situación que te genera ansiedad y que te haya ocurrido en el pasado, o que te preocupa que suceda en el futuro. Escribe tu propia historia de entrenamiento basada en esta situación, asegurándote de incluir un final positivo o no amenazante en la oración final de la historia."
         }
     ]
 }

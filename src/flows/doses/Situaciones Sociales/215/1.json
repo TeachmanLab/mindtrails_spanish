@@ -1,14 +1,14 @@
 {
-    "name": "Manejando el estrés241",
-    "title": "Manejando el estrés",
+    "header_text": "Presentación estresante",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Manejando el estrés"
+            "text": "Presentación estresante"
         },
         {
             "type": "Media",
-            "file": "/images/Manejando_el_estrés.jpg"
+            "file": "/images/Presentación_estresante.jpg"
         }
     ]
 }

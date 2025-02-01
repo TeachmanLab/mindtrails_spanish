@@ -1,14 +1,14 @@
 {
-    "name": "Resultados de la evaluación356",
-    "title": "Resultados de la evaluación",
+    "header_text": "Clima lluvioso",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Resultados de la evaluación"
+            "text": "Clima lluvioso"
         },
         {
             "type": "Media",
-            "file": "/images/Resultados_de_la_evaluación.jpg"
+            "file": "/images/Clima_lluvioso.jpg"
         }
     ]
 }

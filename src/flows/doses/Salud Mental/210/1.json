@@ -1,10 +1,12 @@
 {
-    "title": "Maneja tus sentimientos: Salud Mental",
-    "name": "Consejo para la regulación de las emociones",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Trate de identificar qué emociones está sintiendo, así como su reacción ante esas emociones. Recuerde que no existe una emoción \"incorrecta\"."
+            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
         }
     ]
 }

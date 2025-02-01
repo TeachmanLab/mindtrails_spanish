@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Tomando notas",
+    "header_title": "Opinión diferente",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus compañeros de trabajo te juzgan negativamente mientras compartes tu idea?"
+            "Text": "Al reencontrarse, piensas que..."
         },
         {
             "type": "Buttons",
-            "name": "Tomando notas_Situaciones Sociales_comp_question",
+            "name": "Opinión diferente_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Otros miembros estarán emocionados de escuchar sus valiosas contribuciones.",
+                "Otros miembros te excluirán debido a tus opiniones."
             ],
             "columnCount": 1,
-            "answer": "No"
+            "answer": "Otros miembros estarán emocionados de escuchar sus valiosas contribuciones."
         }
     ]
 }

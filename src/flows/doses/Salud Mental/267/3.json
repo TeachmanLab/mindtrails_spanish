@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Resultados de análisis de sangre",
+    "header_title": "Corte de pelo",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus nervios son insoportables mientras esperas tus resultados?"
+            "Text": "¿Los demás te va a juzgar cuando ven tu corte de pelo en la foto?"
         },
         {
             "type": "Buttons",
-            "name": "Resultados de análisis de sangre_Salud Mental_comp_question",
+            "name": "Corte de pelo_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "No"
+            "answer": "Si"
         }
     ]
 }

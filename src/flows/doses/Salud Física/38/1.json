@@ -1,14 +1,14 @@
 {
-    "name": "Boca seca33",
-    "title": "Boca seca",
+    "header_text": "Sentirse mareado",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Boca seca"
+            "text": "Sentirse mareado"
         },
         {
             "type": "Media",
-            "file": "/images/Boca_seca.jpg"
+            "file": "/images/Sentirse_mareado.jpg"
         }
     ]
 }

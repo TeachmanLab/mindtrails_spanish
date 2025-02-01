@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Mercado de trabajo",
+    "header_title": "Puerta cerrada",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es probable que te despidan?"
+            "Text": "Durante el fin de semana vas a..."
         },
         {
             "type": "Buttons",
-            "name": "Mercado de trabajo_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Puerta cerrada_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Descansar y pasar tiempo con amigos o familiares.",
+                "Preocúpate por si cerraste la puerta con llave."
             ],
             "columnCount": 1,
-            "answer": "No"
+            "answer": "Descansar y pasar tiempo con amigos o familiares."
         }
     ]
 }

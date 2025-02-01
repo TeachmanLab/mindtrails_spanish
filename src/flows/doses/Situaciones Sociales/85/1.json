@@ -1,14 +1,14 @@
 {
-    "name": "Corriendo75",
-    "title": "Corriendo",
+    "header_text": "Tartamudeo en la oficina",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Corriendo"
+            "text": "Tartamudeo en la oficina"
         },
         {
             "type": "Media",
-            "file": "/images/Corriendo.jpg"
+            "file": "/images/Tartamudeo_en_la_oficina.jpg"
         }
     ]
 }

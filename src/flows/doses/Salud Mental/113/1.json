@@ -1,14 +1,14 @@
 {
-    "name": "Práctica de presentación125",
-    "title": "Práctica de presentación",
+    "header_text": "Comparándote con otros",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Práctica de presentación"
+            "text": "Comparándote con otros"
         },
         {
             "type": "Media",
-            "file": "/images/Práctica_de_presentación.jpg"
+            "file": "/images/Comparándote_con_otros.jpg"
         }
     ]
 }

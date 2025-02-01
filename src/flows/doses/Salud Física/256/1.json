@@ -1,14 +1,14 @@
 {
-    "name": "Explorando una cueva estrecha277",
-    "title": "Explorando una cueva estrecha",
+    "header_text": "en un barco",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Explorando una cueva estrecha"
+            "text": "en un barco"
         },
         {
             "type": "Media",
-            "file": "/images/Explorando_una_cueva_estrecha.jpg"
+            "file": "/images/en_un_barco.jpg"
         }
     ]
 }

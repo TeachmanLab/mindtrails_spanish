@@ -1,14 +1,14 @@
 {
-    "name": "Puzzle",
-    "title": "Un tropiezo repentino",
+    "header_text": "Presentación de recaudación de fondos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Es tu primer día en un trabajo nuevo y vas a hablar con tu jefe. Al caminar hacia ellos, te tropiezas y luego te recuperas. Se dieron cuenta y su primera impresión de ti probablemente es que estás muy preparado para el..."
+            "text": "Te ponen a cargo de los esfuerzos de recaudación de fondos de tu oficina y rápidamente te das cuenta de que a tus compañeros de trabajo no les interesa mucho la recaudación de fondos. En una reunión, das una presentación sobre la importancia de ayudar con la recaudación de fondos, durante la cual tus compañeros de trabajo permanecen callados. Cuando te sientas después de tu presentación, piensas que parecían..."
         },
         {
             "type": "Entry",
-            "name": "Un tropiezo repentino_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Presentación de recaudación de fondos_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ]
 }

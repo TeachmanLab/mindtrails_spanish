@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Sensaciones de dormir",
+    "header_title": "Subiendo escaleras",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa la pesadez en el pecho al quedarte dormido?"
+            "Text": "¿Te sientes ansioso/a en la cima de las escaleras?"
         },
         {
             "type": "Buttons",
-            "name": "Sensaciones de dormir_Salud Física_comp_question",
+            "name": "Subiendo escaleras_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,

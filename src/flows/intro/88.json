@@ -1,5 +1,6 @@
 {
-    "title": "Escala de tristeza",
+    "header_text": "Escala de tristeza",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Una nueva relación",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Estrés en tu relación",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu pareja todavía te ama?"
+            "text": "Una vez que la boda haya terminado, no prevés que este estrés continúe, y después de todo lo que ha sucedido, piensas que tú y tu cónyuge volverán a sentirse..."
         },
         {
-            "type": "Buttons",
-            "name": "Una nueva relación_Relaciones Románticas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Estrés en tu relación_Relaciones Románticas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "cercanos"
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 1
         }
     ]
 }

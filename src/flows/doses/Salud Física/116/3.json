@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Dolor de cabeza en la oficina médica",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Nadando en la playa",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu dolor de cabeza significa que te pondrás tan enfermo como tus amigos?"
+            "text": "N/A/"
         },
         {
-            "type": "Buttons",
-            "name": "Dolor de cabeza en la oficina médica_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Nadando en la playa_Salud Física_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "N/A/"
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 1
         }
     ]
 }

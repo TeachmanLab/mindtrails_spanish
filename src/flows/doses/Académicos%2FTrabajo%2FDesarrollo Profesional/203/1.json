@@ -1,14 +1,14 @@
 {
-    "name": "Tartamudeo en la oficina205",
-    "title": "Tartamudeo en la oficina",
+    "header_text": "Tu Currículum",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tartamudeo en la oficina"
+            "text": "Tu Currículum"
         },
         {
             "type": "Media",
-            "file": "/images/Tartamudeo_en_la_oficina.jpg"
+            "file": "/images/Tu_Currículum.jpg"
         }
     ]
 }

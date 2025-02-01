@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Salud Mental",
-    "name": "Consejo para la regulación de las emociones",
+    "header_text": "Revisando tus cualificaciones",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Pregúntese si se están satisfaciendo sus necesidades sociales. (¿Quieres estar rodeado de otras personas en este momento? ¿Quieres estar solo?) Permítete honrar estas necesidades dejando que las personas que te rodean sepan cómo te sientes y qué necesitas."
+            "type": "Label",
+            "text": "Revisando tus cualificaciones"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Revisando_tus_cualificaciones.jpg"
         }
     ]
 }

@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Broma interna",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "¿Otros te juzgan por el comentario de tu amigo en tu publicación?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Broma interna_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "columnCount": 1,
+            "answer": "No"
+        }
+    ]
+}

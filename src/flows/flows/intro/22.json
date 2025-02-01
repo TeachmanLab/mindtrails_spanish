@@ -1,0 +1,20 @@
+{
+    "title": "Cuestionario de tratamiento y salud mental",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Tiene síntomas de ansiedad o depresión de moderados a graves?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Sí::Sí",
+                "No::no",
+                "Inseguro::Inseguro"
+            ],
+            "selectable": true,
+            "name": "anxiety_or_depression",
+            "variable_name": "anxiety_or_depression"
+        }
+    ]
+}

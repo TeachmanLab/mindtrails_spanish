@@ -1,14 +1,14 @@
 {
-    "name": "Padres divorciados20",
-    "title": "Padres divorciados",
+    "header_text": "Salud y envejecimiento",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Padres divorciados"
+            "text": "Salud y envejecimiento"
         },
         {
             "type": "Media",
-            "file": "/images/Padres_divorciados.jpg"
+            "file": "/images/Salud_y_envejecimiento.jpg"
         }
     ]
 }

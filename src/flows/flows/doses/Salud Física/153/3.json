@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Probando comidas nuevas",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Respondes a la comida picante..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Probando comidas nuevas_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Tolerando tu corazón acelerado y enfocandote en la conversación.",
+                "Continuando a preocuparte que tienes un problema médico."
+            ],
+            "columnCount": 1,
+            "answer": "Tolerando tu corazón acelerado y enfocandote en la conversación."
+        }
+    ]
+}

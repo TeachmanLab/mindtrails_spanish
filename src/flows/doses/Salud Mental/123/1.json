@@ -1,14 +1,14 @@
 {
-    "name": "Dolor de estómago134",
-    "title": "Dolor de estómago",
+    "header_text": "Fuera de tu control",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dolor de estómago"
+            "text": "Fuera de tu control"
         },
         {
             "type": "Media",
-            "file": "/images/Dolor_de_estómago.jpg"
+            "file": "/images/Fuera_de_tu_control.jpg"
         }
     ]
 }

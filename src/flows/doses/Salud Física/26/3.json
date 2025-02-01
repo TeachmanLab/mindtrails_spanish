@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle 2",
-    "title": "en un barco",
+    "header_text": "Asustado en tu caminata",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "La sensación en tus piernas probablemente....."
+            "text": "Al notar estos pensamientos, decides que podrás afrontar la situación, así que sigues..."
         },
         {
             "type": "WordPuzzle",
-            "name": "en un barco_Salud Física_puzzle_word2",
+            "name": "Asustado en tu caminata_Salud Física_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "es"
+                "caminando"
             ],
             "missing_letter_count": 1
         }

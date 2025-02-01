@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Trabajando para salir adelante",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Proyecto eliminado",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "El future que te ves para ti mismo es..."
+            "text": "Respiras hondo y decides contarle a tu jefe lo sucedido. Tú te sientes..."
         },
         {
-            "type": "Buttons",
-            "name": "Trabajando para salir adelante_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Proyecto eliminado_Salud Mental_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Estar en el puesto por debajo de la que siempre has soñado.",
-                "Tener el puesto que siempre has querido en la oficina que admiras."
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "bien"
             ],
-            "columnCount": 1,
-            "answer": "Estar en el puesto por debajo de la que siempre has soñado."
+            "missing_letter_count": 1
         }
     ]
 }

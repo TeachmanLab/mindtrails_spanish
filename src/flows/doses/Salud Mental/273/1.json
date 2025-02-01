@@ -1,14 +1,14 @@
 {
-    "name": "Tu primer hijo292",
-    "title": "Tu primer hijo",
+    "header_text": "Sentirse ansioso",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tu primer hijo"
+            "text": "Sentirse ansioso"
         },
         {
             "type": "Media",
-            "file": "/images/Tu_primer_hijo.jpg"
+            "file": "/images/Sentirse_ansioso.jpg"
         }
     ]
 }

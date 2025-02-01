@@ -1,14 +1,14 @@
 {
-    "name": "Iniciando un negocio pequeño42",
-    "title": "Iniciando un negocio pequeño",
+    "header_text": "Ingresos adicionales",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Iniciando un negocio pequeño"
+            "text": "Ingresos adicionales"
         },
         {
             "type": "Media",
-            "file": "/images/Iniciando_un_negocio_pequeño.jpg"
+            "file": "/images/Ingresos_adicionales.jpg"
         }
     ]
 }

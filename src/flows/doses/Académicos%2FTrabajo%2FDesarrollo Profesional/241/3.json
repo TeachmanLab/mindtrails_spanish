@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Finalización rápida de tareas",
+    "header_title": "La audición",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿El comité quedó satisfecho con tu trabajo?"
+            "Text": "¿Te sientes bien con la audición?"
         },
         {
             "type": "Buttons",
-            "name": "Finalización rápida de tareas_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "La audición_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,

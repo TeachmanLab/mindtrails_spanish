@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Salud Física",
-    "name": "Consejo para la regulación de las emociones",
+    "header_text": "Ejercicio con un amigo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Cuando experimente una sensación corporal incómoda (por ejemplo, corazón acelerado o palmas sudorosas), simplemente siéntese con esa sensación por un momento antes de reaccionar. Estas sensaciones suelen pasar rápidamente sin ninguna intervención."
+            "type": "Label",
+            "text": "Ejercicio con un amigo"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Ejercicio_con_un_amigo.jpg"
         }
     ]
 }

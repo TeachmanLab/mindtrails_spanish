@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Planes cancelados",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Tu amigo probablemente canceló los planes porque..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Planes cancelados_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Recordaron que tenían una reunión importante en el trabajo al mismo tiempo.",
+                "Están enojados contigo debido a su desacuerdo anterior."
+            ],
+            "columnCount": 1,
+            "answer": "Recordaron que tenían una reunión importante en el trabajo al mismo tiempo."
+        }
+    ]
+}

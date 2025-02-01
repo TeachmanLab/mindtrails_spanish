@@ -1,14 +1,14 @@
 {
-    "name": "Una presentación grande363",
-    "title": "Una presentación grande",
+    "header_text": "Viejo amigo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una presentación grande"
+            "text": "Viejo amigo"
         },
         {
             "type": "Media",
-            "file": "/images/Una_presentación_grande.jpg"
+            "file": "/images/Viejo_amigo.jpg"
         }
     ]
 }

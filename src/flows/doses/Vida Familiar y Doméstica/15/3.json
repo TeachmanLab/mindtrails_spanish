@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Creencias diferentes",
+    "header_title": "Un hallazgo afortunado",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Con el tiempo, no esperas que tu familia se distancie, sino que crees que tu familia se volverá más..."
+            "Text": "Cuando te mudes a tu casa, probablemente..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Creencias diferentes_Vida Familiar y Doméstica_puzzle_word2",
+            "type": "Buttons",
+            "name": "Un hallazgo afortunado_Vida Familiar y Doméstica_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "unida"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Descubrirás que tu casa tiene sentido acogedor.",
+                "Lamentarás tu decisión."
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "Descubrirás que tu casa tiene sentido acogedor."
         }
     ]
 }

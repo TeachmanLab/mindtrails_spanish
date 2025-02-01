@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Una mesa sucia",
+    "header_title": "Visión borrosa",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Mientras almuerzas con tu amigo, tu ..."
+            "Text": "Te das cuenta de que..."
         },
         {
             "type": "Buttons",
-            "name": "Una mesa sucia_Salud Física_comp_question",
+            "name": "Visión borrosa_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "eres capaces de disfrutar la conversación.",
-                "Estás insoportablemente ansiosos."
+                "Estás especialmente cansado.",
+                "Podrías estar perdiendo tu visión permanentemente."
             ],
             "columnCount": 1,
-            "answer": "eres capaces de disfrutar la conversación."
+            "answer": "Estás especialmente cansado."
         }
     ]
 }

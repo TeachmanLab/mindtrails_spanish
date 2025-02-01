@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "La nueva ciudad",
+    "header_title": "Pasando tiempo con amigos",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Crees que tu dificultad inicial para hacer amigos..."
+            "Text": "¿Te molesta que no fuiste invitado?"
         },
         {
             "type": "Buttons",
-            "name": "La nueva ciudad_Situaciones Sociales_comp_question",
+            "name": "Pasando tiempo con amigos_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Continuarán mientras vivas en esta ciudad.",
-                "Con el tiempo, pasarán y conocerás gente con la que disfrutarás pasar el rato."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "answer": "Continuarán mientras vivas en esta ciudad."
+            "answer": "No"
         }
     ]
 }

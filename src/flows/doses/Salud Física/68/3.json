@@ -1,24 +1,14 @@
 {
-    "name": "Question",
-    "title": "El dolor de muelas",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Recuperando el aliento",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes soportar ir al dentista?"
+            "text": "Es una mañana fresca y estás subiendo unas escaleras para llegar a tu trabajo. Empiezas a sentirte realmente sin aliento cuando llegas al último escalón. Tomas un segundo para respirar y sentirte..."
         },
         {
-            "type": "Buttons",
-            "name": "El dolor de muelas_Salud Física_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "columnCount": 1,
-            "answer": "Sí"
+            "type": "Entry",
+            "name": "Recuperando el aliento_Salud Física_entry1"
         }
     ]
 }

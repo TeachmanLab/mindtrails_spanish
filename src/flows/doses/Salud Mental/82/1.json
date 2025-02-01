@@ -1,14 +1,14 @@
 {
-    "name": "Lograr tus objetivos72",
-    "title": "Lograr tus objetivos",
+    "header_text": "Respondiendo a preguntas inesperadas",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Lograr tus objetivos"
+            "text": "Respondiendo a preguntas inesperadas"
         },
         {
             "type": "Media",
-            "file": "/images/Lograr_tus_objetivos.jpg"
+            "file": "/images/Respondiendo_a_preguntas_inesperadas.jpg"
         }
     ]
 }

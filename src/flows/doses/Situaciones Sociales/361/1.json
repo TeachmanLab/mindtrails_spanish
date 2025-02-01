@@ -1,14 +1,14 @@
 {
-    "name": "Contacto alternativo396",
-    "title": "Contacto alternativo",
+    "header_text": "Fin de semana largo solo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Contacto alternativo"
+            "text": "Fin de semana largo solo"
         },
         {
             "type": "Media",
-            "file": "/images/Contacto_alternativo.jpg"
+            "file": "/images/Fin_de_semana_largo_solo.jpg"
         }
     ]
 }

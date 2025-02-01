@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Comparándote con otros",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Tomando transporte",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu pareja se siente atraída a ti?"
+            "text": "Sientes un impulso fuerte de bajarte del avión y volver a casa, pero te sientas en el asiento más cercano. En lugar de salir, decides observar estas sensaciones y quedarte..."
         },
         {
-            "type": "Buttons",
-            "name": "Comparándote con otros_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Tomando transporte_Salud Mental_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "sentado"
             ],
-            "columnCount": 1,
-            "answer": "Si"
+            "missing_letter_count": 1
         }
     ]
 }

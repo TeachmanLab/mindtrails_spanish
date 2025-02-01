@@ -1,22 +1,14 @@
 {
-    "name": "Puzzle",
-    "title": "Conocido sin mascarilla",
+    "header_text": "Clase de baile",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Llegas a una reunión con tu mascarilla puesta. Te das cuenta de que uno de tus colegas no está usando una mascarilla. Piensas que probablemente se le..."
+            "type": "Label",
+            "text": "Clase de baile"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Conocido sin mascarilla_Salud Física_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "olvidó"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "file": "/images/Clase_de_baile.jpg"
         }
     ]
 }

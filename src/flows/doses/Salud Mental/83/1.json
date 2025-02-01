@@ -1,14 +1,14 @@
 {
-    "name": "Invitar gente73",
-    "title": "Invitar gente",
+    "header_text": "Sintiéndote ansioso",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Invitar gente"
+            "text": "Sintiéndote ansioso"
         },
         {
             "type": "Media",
-            "file": "/images/Invitar_gente.jpg"
+            "file": "/images/Sintiéndote_ansioso.jpg"
         }
     ]
 }

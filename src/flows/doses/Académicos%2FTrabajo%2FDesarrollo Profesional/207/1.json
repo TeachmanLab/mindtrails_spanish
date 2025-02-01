@@ -1,14 +1,11 @@
 {
-    "name": "No invitado a cenar209",
-    "title": "No invitado a cenar",
+    "header_text": "Maneja tus sentimientos: Académicos/Trabajo/Desarrollo Profesional",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "No invitado a cenar"
-        },
-        {
-            "type": "Media",
-            "file": "/images/No_invitado_a_cenar.jpg"
+            "type": "Text",
+            "text": "Prueba el método Pomodoro: tómate un descanso de 5 minutos cada 30 minutos de trabajo para que tu mente rejuvenezca."
         }
     ]
 }

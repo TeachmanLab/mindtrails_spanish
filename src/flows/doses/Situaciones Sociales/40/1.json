@@ -1,14 +1,14 @@
 {
-    "name": "Un regalo casero35",
-    "title": "Un regalo casero",
+    "header_text": "Presentación de recaudación de fondos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un regalo casero"
+            "text": "Presentación de recaudación de fondos"
         },
         {
             "type": "Media",
-            "file": "/images/Un_regalo_casero.jpg"
+            "file": "/images/Presentación_de_recaudación_de_fondos.jpg"
         }
     ]
 }

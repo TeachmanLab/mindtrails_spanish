@@ -1,10 +1,11 @@
 {
-    "title": "¡Escribe El Tuyo!",
+    "header_text": "Recurso: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "name": "7 técnicas de relajación para un alivio eficaz del estrés y la ansiedad",
     "elements": [
         {
             "type": "Text",
-            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
+            "text": "7 técnicas de relajación para un alivio eficaz del estrés y la ansiedad\n\nEsta guía ofrece una lista de 7 técnicas de relajación con explicaciones claras para poder sobrellevar el estrés y la ansiedad.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
-    ],
-    "name": "Write Your Own"
+    ]
 }

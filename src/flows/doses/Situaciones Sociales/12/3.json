@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Compartir con alguien nuevo",
+    "header_title": "Sugerencia para volver a encontrarnos",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa lo que tu compañero de trabajo piensa de tu presentación?"
+            "Text": "La persona que conociste en el evento probablemente..."
         },
         {
             "type": "Buttons",
-            "name": "Compartir con alguien nuevo_Situaciones Sociales_comp_question",
+            "name": "Sugerencia para volver a encontrarnos_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Di que sí si sugieres volver a reunirnos",
+                "Di no si sugieres volver a reunirnos."
             ],
             "columnCount": 1,
-            "answer": "No"
+            "answer": "Di que sí si sugieres volver a reunirnos"
         }
     ]
 }

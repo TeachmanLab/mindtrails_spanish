@@ -1,14 +1,14 @@
 {
-    "name": "Creencias diferentes64",
-    "title": "Creencias diferentes",
+    "header_text": "Planes de vacaciones",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Creencias diferentes"
+            "text": "Planes de vacaciones"
         },
         {
             "type": "Media",
-            "file": "/images/Creencias_diferentes.jpg"
+            "file": "/images/Planes_de_vacaciones.jpg"
         }
     ]
 }

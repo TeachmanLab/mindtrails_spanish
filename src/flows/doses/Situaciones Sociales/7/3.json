@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Una cámara nueva",
+    "header_title": "Nervios en un momento importante",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Piensas que el asistente de ventas te encontró molesto?"
+            "Text": "¿Las sensaciones de temblor significan que no estás preparado para la presentación?"
         },
         {
             "type": "Buttons",
-            "name": "Una cámara nueva_Situaciones Sociales_comp_question",
+            "name": "Nervios en un momento importante_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,

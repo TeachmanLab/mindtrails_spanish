@@ -1,14 +1,14 @@
 {
-    "name": "Vacacionando en avión270",
-    "title": "Vacacionando en avión",
+    "header_text": "Resultados de análisis de sangre",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Vacacionando en avión"
+            "text": "Resultados de análisis de sangre"
         },
         {
             "type": "Media",
-            "file": "/images/Vacacionando_en_avión.jpg"
+            "file": "/images/Resultados_de_análisis_de_sangre.jpg"
         }
     ]
 }

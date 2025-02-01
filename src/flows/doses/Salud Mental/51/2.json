@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Día caluroso",
+    "header_text": "Boca seca",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Regresando a casa en un día muy caluroso, te tomas un vaso grande de agua rápidamente. Pronto te sientes anormalmente lleno y un poco enfermo del..."
+            "text": "Has sentido sequedad en la boca durante unos días. Esto es algo que no has sentido antes. La probabilidad de que la sequedad de boca signifique un problema de salud grave es..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Día caluroso_Salud Mental_puzzle1",
+            "name": "Boca seca_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "estómago"
+                "baja"
             ],
             "missing_letter_count": 2
         }

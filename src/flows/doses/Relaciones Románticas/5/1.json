@@ -1,14 +1,14 @@
 {
-    "name": "La cita3",
-    "title": "La cita",
+    "header_text": "Invitando a alguien a salir",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "La cita"
+            "text": "Invitando a alguien a salir"
         },
         {
             "type": "Media",
-            "file": "/images/La_cita.jpg"
+            "file": "/images/Invitando_a_alguien_a_salir.jpg"
         }
     ]
 }

@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Confianza en las redes sociales",
+    "header_text": "Casa bilingüe",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Conoces a un nuevo compañero de trabajo atractivo durante una reunión. Después del trabajo, te solicitan seguirte en las redes sociales. Antes de dejar que te sigan, revisas tu propio feed y te sientes..."
+            "text": "Estás cenando con un compañero de trabajo. Mientras comen juntos, recibes una llamada telefónica de un miembro de tu familia y cambias entre español y otro idioma. Nunca le dijiste a tu compañero de trabajo que tus familiares son bilingües. Piensas en la reacción de tu compañero y crees que le parecerá..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Confianza en las redes sociales_Situaciones Sociales_puzzle1",
+            "name": "Casa bilingüe_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "seguro"
+                "interesante"
             ],
             "missing_letter_count": 2
         }

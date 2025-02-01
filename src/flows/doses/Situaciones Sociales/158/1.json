@@ -1,14 +1,14 @@
 {
-    "name": "Invitación a cenar165",
-    "title": "Invitación a cenar",
+    "header_text": "Comentarios de redes sociales",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Invitación a cenar"
+            "text": "Comentarios de redes sociales"
         },
         {
             "type": "Media",
-            "file": "/images/Invitación_a_cenar.jpg"
+            "file": "/images/Comentarios_de_redes_sociales.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Cómodo sofá37",
-    "title": "Cómodo sofá",
+    "header_text": "Un vuelo internacional",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cómodo sofá"
+            "text": "Un vuelo internacional"
         },
         {
             "type": "Media",
-            "file": "/images/Cómodo_sofá.jpg"
+            "file": "/images/Un_vuelo_internacional.jpg"
         }
     ]
 }

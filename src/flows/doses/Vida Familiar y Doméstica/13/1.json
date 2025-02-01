@@ -1,14 +1,14 @@
 {
-    "name": "Tu primer hijo11",
-    "title": "Tu primer hijo",
+    "header_text": "Creencias diferentes",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tu primer hijo"
+            "text": "Creencias diferentes"
         },
         {
             "type": "Media",
-            "file": "/images/Tu_primer_hijo.jpg"
+            "file": "/images/Creencias_diferentes.jpg"
         }
     ]
 }

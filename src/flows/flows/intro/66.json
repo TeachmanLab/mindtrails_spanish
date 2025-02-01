@@ -1,0 +1,21 @@
+{
+    "title": "El almuerzo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "EL ALMUERZO: Tu amiga te mira...\n\nPorque piensa que eres un vago."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Muy diferente",
+                "Diferente",
+                "Similar",
+                "Muy similar",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "IBM_lunch_interpretation_1"
+        }
+    ]
+}

@@ -1,14 +1,14 @@
 {
-    "name": "Decidir compartir una imagen370",
-    "title": "Decidir compartir una imagen",
+    "header_text": "Vaso de agua",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Decidir compartir una imagen"
+            "text": "Vaso de agua"
         },
         {
             "type": "Media",
-            "file": "/images/Decidir_compartir_una_imagen.jpg"
+            "file": "/images/Vaso_de_agua.jpg"
         }
     ]
 }

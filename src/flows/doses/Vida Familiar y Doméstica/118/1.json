@@ -1,14 +1,14 @@
 {
-    "name": "Casa bilingüe130",
-    "title": "Casa bilingüe",
+    "header_text": "Nueva oportunidad",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Casa bilingüe"
+            "text": "Nueva oportunidad"
         },
         {
             "type": "Media",
-            "file": "/images/Casa_bilingüe.jpg"
+            "file": "/images/Nueva_oportunidad.jpg"
         }
     ]
 }

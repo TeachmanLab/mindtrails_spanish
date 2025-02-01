@@ -1,6 +1,6 @@
 {
-    "name": "Charla de oficina201",
-    "title": "Charla de oficina",
+    "header_text": "Charla de oficina",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",

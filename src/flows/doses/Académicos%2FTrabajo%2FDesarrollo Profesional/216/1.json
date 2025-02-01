@@ -1,10 +1,14 @@
 {
-    "title": "Recurso: Académicos/Trabajo/Desarrollo Profesional",
-    "name": "CareerOneStop: Reempleo del trabajador",
+    "header_text": "Ingresos adicionales",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "CareerOneStop: Reempleo del trabajador\n\nEl portal de reempleo del trabajador incluye información estatal, capacitaciones, ayuda con la búsqueda de empleo, y más beneficios.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "type": "Label",
+            "text": "Ingresos adicionales"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Ingresos_adicionales.jpg"
         }
     ]
 }

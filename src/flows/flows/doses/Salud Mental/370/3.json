@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Sentirse llamado",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cuando termina la reunión, tu jefe te confronta y te recuerda que no saques tu teléfono durante una reunión. Piensas que están siendo... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Sentirse llamado_Salud Mental_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "amables"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

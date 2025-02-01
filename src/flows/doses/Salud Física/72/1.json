@@ -1,14 +1,14 @@
 {
-    "name": "Un golpe accidental63",
-    "title": "Un golpe accidental",
+    "header_text": "Corriendo con un amigo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un golpe accidental"
+            "text": "Corriendo con un amigo"
         },
         {
             "type": "Media",
-            "file": "/images/Un_golpe_accidental.jpg"
+            "file": "/images/Corriendo_con_un_amigo.jpg"
         }
     ]
 }

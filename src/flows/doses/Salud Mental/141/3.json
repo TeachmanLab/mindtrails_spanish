@@ -1,6 +1,6 @@
 {
-    "name": "Question",
-    "title": "Redes sociales",
+    "header_title": "Redes sociales",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {

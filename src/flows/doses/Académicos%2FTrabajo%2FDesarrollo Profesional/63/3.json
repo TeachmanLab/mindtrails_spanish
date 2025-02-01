@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Revisando tu trabajo",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Multitud del discurso",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Es probable que su jefe sienta que..."
+            "text": "Después del discurso, te das cuenta de que a menudo las personas parecen inexpresivas y fruncen el ceño cuando están concentradas y se esfuerzan mucho. Piensas que es muy probable que tu jefe estuviera..."
         },
         {
-            "type": "Buttons",
-            "name": "Revisando tu trabajo_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "Multitud del discurso_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "La mayor parte de tu trabajo ha sido de muy alta calidad.",
-                "Tus errores han sido graves e inaceptables."
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "impresionado"
             ],
-            "columnCount": 1,
-            "answer": "La mayor parte de tu trabajo ha sido de muy alta calidad."
+            "missing_letter_count": 2
         }
     ]
 }

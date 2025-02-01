@@ -1,10 +1,11 @@
 {
-    "title": "¡Escribe El Tuyo!",
+    "header_text": "Maneja tus sentimientos: Relaciones Románticas",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
+            "text": "Leer la mente puede ser tentador cuando no te estás de acuerdo con una pareja. En lugar de asumir que sabes lo que tu pareja está pensando, trata de hacer preguntas sobre su perspectiva. "
         }
-    ],
-    "name": "Write Your Own"
+    ]
 }

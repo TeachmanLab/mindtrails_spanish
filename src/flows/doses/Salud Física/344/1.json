@@ -1,14 +1,14 @@
 {
-    "name": "Tos después de salir381",
-    "title": "Tos después de salir",
+    "header_text": "Ruido repentino",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tos después de salir"
+            "text": "Ruido repentino"
         },
         {
             "type": "Media",
-            "file": "/images/Tos_después_de_salir.jpg"
+            "file": "/images/Ruido_repentino.jpg"
         }
     ]
 }

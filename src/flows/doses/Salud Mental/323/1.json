@@ -1,14 +1,14 @@
 {
-    "name": "Broma interna361",
-    "title": "Broma interna",
+    "header_text": "Comparándote con otros",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Broma interna"
+            "text": "Comparándote con otros"
         },
         {
             "type": "Media",
-            "file": "/images/Broma_interna.jpg"
+            "file": "/images/Comparándote_con_otros.jpg"
         }
     ]
 }

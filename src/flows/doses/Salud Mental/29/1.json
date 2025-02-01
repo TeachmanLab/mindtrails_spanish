@@ -1,14 +1,14 @@
 {
-    "name": "Puntos de vista hacia la terapia25",
-    "title": "Puntos de vista hacia la terapia",
+    "header_text": "Tu primer hijo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Puntos de vista hacia la terapia"
+            "text": "Tu primer hijo"
         },
         {
             "type": "Media",
-            "file": "/images/Puntos_de_vista_hacia_la_terapia.jpg"
+            "file": "/images/Tu_primer_hijo.jpg"
         }
     ]
 }

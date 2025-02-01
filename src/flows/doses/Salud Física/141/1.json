@@ -1,6 +1,6 @@
 {
-    "name": "Amigo tosiendo151",
-    "title": "Amigo tosiendo",
+    "header_text": "Amigo tosiendo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",

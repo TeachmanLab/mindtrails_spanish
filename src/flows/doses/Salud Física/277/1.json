@@ -1,14 +1,14 @@
 {
-    "name": "Revisión física anual296",
-    "title": "Revisión física anual",
+    "header_text": "Película intermitente",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Revisión física anual"
+            "text": "Película intermitente"
         },
         {
             "type": "Media",
-            "file": "/images/Revisión_física_anual.jpg"
+            "file": "/images/Película_intermitente.jpg"
         }
     ]
 }

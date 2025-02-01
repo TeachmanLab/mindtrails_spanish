@@ -1,14 +1,14 @@
 {
-    "name": "Revisando tus cualificaciones34",
-    "title": "Revisando tus cualificaciones",
+    "header_text": "Trabajando para salir adelante",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Revisando tus cualificaciones"
+            "text": "Trabajando para salir adelante"
         },
         {
             "type": "Media",
-            "file": "/images/Revisando_tus_cualificaciones.jpg"
+            "file": "/images/Trabajando_para_salir_adelante.jpg"
         }
     ]
 }

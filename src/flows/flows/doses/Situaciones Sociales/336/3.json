@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Gente fiestera",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "La fiesta probablemente será..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Gente fiestera_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Emocionante porque tienes la oportunidad de conocer gente nueva.",
+                "Incómodo porque no conoces a muchas personas."
+            ],
+            "columnCount": 1,
+            "answer": "Emocionante porque tienes la oportunidad de conocer gente nueva."
+        }
+    ]
+}

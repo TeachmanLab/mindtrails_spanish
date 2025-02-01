@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Pensamientos del grupo de teatro",
+    "header_title": "Corrección rápida",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Tienes ideas innovadoras."
+            "Text": "¿Está bien responder incorrectamente de vez en cuando a una pregunta de su jefe?"
         },
         {
             "type": "Buttons",
-            "name": "Pensamientos del grupo de teatro_Situaciones Sociales_comp_question",
+            "name": "Corrección rápida_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Tienes ideas terribles.",
-                ""
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "answer": "Tienes ideas terribles."
+            "answer": "Si"
         }
     ]
 }

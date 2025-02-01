@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Dependencia financiera",
+    "header_title": "Permitirse la educación",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Podrán tus hijos ser financieramente independientes?"
+            "Text": "Te imaginas que cuando te jubiles, probablemente ..."
         },
         {
             "type": "Buttons",
-            "name": "Dependencia financiera_Finanzas_comp_question",
+            "name": "Permitirse la educación_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "seguirás agobiado por tus préstamos",
+                "estarás financieramente estable con tus préstamos pagados."
             ],
             "columnCount": 1,
-            "answer": "Sí"
+            "answer": "seguirás agobiado por tus préstamos"
         }
     ]
 }

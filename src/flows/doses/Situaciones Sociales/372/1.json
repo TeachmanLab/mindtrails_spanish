@@ -1,14 +1,14 @@
 {
-    "name": "Genio cómico405",
-    "title": "Genio cómico",
+    "header_text": "No invitado a cenar",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Genio cómico"
+            "text": "No invitado a cenar"
         },
         {
             "type": "Media",
-            "file": "/images/Genio_cómico.jpg"
+            "file": "/images/No_invitado_a_cenar.jpg"
         }
     ]
 }

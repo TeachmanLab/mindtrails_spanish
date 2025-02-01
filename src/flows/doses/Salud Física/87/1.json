@@ -1,14 +1,14 @@
 {
-    "name": "Sensaciones desconocidas77",
-    "title": "Sensaciones desconocidas",
+    "header_text": "Clase de baile",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sensaciones desconocidas"
+            "text": "Clase de baile"
         },
         {
             "type": "Media",
-            "file": "/images/Sensaciones_desconocidas.jpg"
+            "file": "/images/Clase_de_baile.jpg"
         }
     ]
 }

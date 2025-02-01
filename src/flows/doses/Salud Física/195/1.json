@@ -1,14 +1,11 @@
 {
-    "name": "Vecino amigable199",
-    "title": "Vecino amigable",
+    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Vecino amigable"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Vecino_amigable.jpg"
+            "type": "Text",
+            "text": "Piense en momentos de su pasado en los que estuvo preocupado por un aspecto de su salud física que terminó siendo perfectamente normal."
         }
     ]
 }

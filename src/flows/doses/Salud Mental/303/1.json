@@ -1,14 +1,11 @@
 {
-    "name": "Revisando tu trabajo319",
-    "title": "Revisando tu trabajo",
+    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Revisando tu trabajo"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Revisando_tu_trabajo.jpg"
+            "type": "Text",
+            "text": "Intente escribir sobre sus sentimientos y pensamientos para comprenderlos más claramente."
         }
     ]
 }

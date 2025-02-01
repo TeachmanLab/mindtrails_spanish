@@ -1,14 +1,11 @@
 {
-    "name": "Haciendo un brindis150",
-    "title": "Haciendo un brindis",
+    "header_text": "Recurso: Situaciones Sociales",
+    "header_icon": "assets/subtitle.png",
+    "name": "Alianza Americas: Caja de herramientas",
     "elements": [
         {
-            "type": "Label",
-            "text": "Haciendo un brindis"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Haciendo_un_brindis.jpg"
+            "type": "Text",
+            "text": "Alianza Americas: Caja de herramientas\n\nLa misión de Alianza Americas, una organización transnacional, es crear una vida “más inclusiva, equitativa, y sostenible” para inmigrantes latinoamericanos en los Estados Unidos. Su Caja de herramientas contiene toolkits (guías) informativas y enlaces a recursos para temas de interés a personas latinoamericanas.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

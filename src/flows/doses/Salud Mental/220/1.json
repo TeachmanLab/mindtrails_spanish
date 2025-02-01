@@ -1,14 +1,14 @@
 {
-    "name": "Práctica de presentación245",
-    "title": "Práctica de presentación",
+    "header_text": "Nuevo atuendo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Práctica de presentación"
+            "text": "Nuevo atuendo"
         },
         {
             "type": "Media",
-            "file": "/images/Práctica_de_presentación.jpg"
+            "file": "/images/Nuevo_atuendo.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Nueva ciudad, nuevos amigos25",
-    "title": "Nueva ciudad, nuevos amigos",
+    "header_text": "Breve introducción",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nueva ciudad, nuevos amigos"
+            "text": "Breve introducción"
         },
         {
             "type": "Media",
-            "file": "/images/Nueva_ciudad,_nuevos_amigos.jpg"
+            "file": "/images/Breve_introducción.jpg"
         }
     ]
 }

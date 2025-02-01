@@ -1,14 +1,14 @@
 {
-    "name": "Alergias de primavera391",
-    "title": "Alergias de primavera",
+    "header_text": "Nadando en la playa",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Alergias de primavera"
+            "text": "Nadando en la playa"
         },
         {
             "type": "Media",
-            "file": "/images/Alergias_de_primavera.jpg"
+            "file": "/images/Nadando_en_la_playa.jpg"
         }
     ]
 }

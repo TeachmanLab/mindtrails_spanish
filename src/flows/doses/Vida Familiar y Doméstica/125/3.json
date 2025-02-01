@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Publicar sobre la familia",
+    "header_title": "Padres molestos",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Están tus hijos molestos porque los etiquetó en una foto familiar?"
+            "Text": "¿Están enojados contigo?"
         },
         {
             "type": "Buttons",
-            "name": "Publicar sobre la familia_Vida Familiar y Doméstica_comp_question",
+            "name": "Padres molestos_Vida Familiar y Doméstica_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,

@@ -1,14 +1,12 @@
 {
-    "name": "Ruidos del exterior90",
-    "title": "Ruidos del exterior",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
-            "type": "Label",
-            "text": "Ruidos del exterior"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Ruidos_del_exterior.jpg"
+            "type": "Text",
+            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
         }
     ]
 }

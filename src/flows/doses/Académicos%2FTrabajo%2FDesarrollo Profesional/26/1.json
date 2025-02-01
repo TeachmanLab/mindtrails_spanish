@@ -1,14 +1,14 @@
 {
-    "name": "Fecha límite cercana22",
-    "title": "Fecha límite cercana",
+    "header_text": "Obtener una oportunidad",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Fecha límite cercana"
+            "text": "Obtener una oportunidad"
         },
         {
             "type": "Media",
-            "file": "/images/Fecha_límite_cercana.jpg"
+            "file": "/images/Obtener_una_oportunidad.jpg"
         }
     ]
 }

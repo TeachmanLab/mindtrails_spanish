@@ -1,14 +1,11 @@
 {
-    "name": "Manchas de sudor150",
-    "title": "Manchas de sudor",
+    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Manchas de sudor"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Manchas_de_sudor.jpg"
+            "type": "Text",
+            "text": "Dormir lo suficiente puede marcar una gran diferencia en cómo te sientes tanto física como mentalmente. Verifique su horario de sueño y vea si hay formas de aumentar el sueño. "
         }
     ]
 }

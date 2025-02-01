@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Nadando vueltas",
+    "header_text": "Paracaidismo por primera vez",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Es domingo por la mañana y estás nadando en la piscina. Después de un par de vueltas te quedas sin aliento y decides descansar un minuto al final del carril. Respirar con dificultad te hace sentir ansioso y quieres parar de..."
+            "text": "Estás tomando una clase de paracaidismo. Cuando piensas en saltar del avión, tu cuerpo comienza a temblar. Esto es..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Nadando vueltas_Salud Física_puzzle1",
+            "name": "Paracaidismo por primera vez_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "nadar"
+                "divertido"
             ],
             "missing_letter_count": 1
         }

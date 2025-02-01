@@ -1,14 +1,14 @@
 {
-    "name": "Tomando el mando72",
-    "title": "Tomando el mando",
+    "header_text": "Equilibrio de trabajo y amistades",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tomando el mando"
+            "text": "Equilibrio de trabajo y amistades"
         },
         {
             "type": "Media",
-            "file": "/images/Tomando_el_mando.jpg"
+            "file": "/images/Equilibrio_de_trabajo_y_amistades.jpg"
         }
     ]
 }

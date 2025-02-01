@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Corriendo en el frío",
+    "header_title": "Despertándote mareado",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando llegue el momento de reservar el viaje, probablemente..."
+            "Text": "¿Tu visión borrosa temporariamente significa que te estás quedando siego?"
         },
         {
             "type": "Buttons",
-            "name": "Corriendo en el frío_Salud Física_comp_question",
+            "name": "Despertándote mareado_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Tendrás que cancelar debido a problemas de dinero.",
-                "Podrás elegir un hotel bastante bonito."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "answer": "Tendrás que cancelar debido a problemas de dinero."
+            "answer": "No"
         }
     ]
 }

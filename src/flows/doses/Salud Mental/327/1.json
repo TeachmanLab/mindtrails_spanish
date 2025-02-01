@@ -1,14 +1,14 @@
 {
-    "name": "Boca seca364",
-    "title": "Boca seca",
+    "header_text": "Tu nueva publicación",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Boca seca"
+            "text": "Tu nueva publicación"
         },
         {
             "type": "Media",
-            "file": "/images/Boca_seca.jpg"
+            "file": "/images/Tu_nueva_publicación.jpg"
         }
     ]
 }

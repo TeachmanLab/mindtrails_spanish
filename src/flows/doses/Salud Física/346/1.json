@@ -1,14 +1,14 @@
 {
-    "name": "Ruido repentino382",
-    "title": "Ruido repentino",
+    "header_text": "Exposure Guilt",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ruido repentino"
+            "text": "Exposure Guilt"
         },
         {
             "type": "Media",
-            "file": "/images/Ruido_repentino.jpg"
+            "file": "/images/Exposure_Guilt.jpg"
         }
     ]
 }

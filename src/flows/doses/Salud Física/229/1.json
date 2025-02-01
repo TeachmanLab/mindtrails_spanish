@@ -1,14 +1,14 @@
 {
-    "name": "Subiendo una montaña252",
-    "title": "Subiendo una montaña",
+    "header_text": "Nadando en la playa",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Subiendo una montaña"
+            "text": "Nadando en la playa"
         },
         {
             "type": "Media",
-            "file": "/images/Subiendo_una_montaña.jpg"
+            "file": "/images/Nadando_en_la_playa.jpg"
         }
     ]
 }

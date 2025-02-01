@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Montar a caballo durante el fin de semana",
+    "header_text": "Explorando una cueva estrecha",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás yendo a montar a caballo durante el fin de semana. Cuando llegas allí, el instructor te da un caballo grande para montar. Pronto, el caballo comienza a correr rápidamente y te sientes..."
+            "text": "Has decidido hacer un recorrido por una cueva, a pesar de que te sientes nervioso por estar en un espacio tan cerrado. A medida que te adentras en la primera cueva, crees que las posibilidades de quedar atrapado son..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Montar a caballo durante el fin de semana_Salud Física_puzzle1",
+            "name": "Explorando una cueva estrecha_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "emocionado"
+                "pequeñas"
             ],
             "missing_letter_count": 2
         }

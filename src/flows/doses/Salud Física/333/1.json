@@ -1,14 +1,14 @@
 {
-    "name": "Viendo a un viejo amigo371",
-    "title": "Viendo a un viejo amigo",
+    "header_text": "Problemas de visión",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Viendo a un viejo amigo"
+            "text": "Problemas de visión"
         },
         {
             "type": "Media",
-            "file": "/images/Viendo_a_un_viejo_amigo.jpg"
+            "file": "/images/Problemas_de_visión.jpg"
         }
     ]
 }

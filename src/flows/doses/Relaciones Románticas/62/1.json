@@ -1,14 +1,14 @@
 {
-    "name": "Abrirse54",
-    "title": "Abrirse",
+    "header_text": "Estrés en tu relación",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Abrirse"
+            "text": "Estrés en tu relación"
         },
         {
             "type": "Media",
-            "file": "/images/Abrirse.jpg"
+            "file": "/images/Estrés_en_tu_relación.jpg"
         }
     ]
 }

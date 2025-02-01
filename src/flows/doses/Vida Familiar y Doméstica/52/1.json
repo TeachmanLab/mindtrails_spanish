@@ -1,14 +1,14 @@
 {
-    "name": "Equilibrar la vida familiar y los amigos46",
-    "title": "Equilibrar la vida familiar y los amigos",
+    "header_text": "Cena en una casa de amigos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Equilibrar la vida familiar y los amigos"
+            "text": "Cena en una casa de amigos"
         },
         {
             "type": "Media",
-            "file": "/images/Equilibrar_la_vida_familiar_y_los_amigos.jpg"
+            "file": "/images/Cena_en_una_casa_de_amigos.jpg"
         }
     ]
 }

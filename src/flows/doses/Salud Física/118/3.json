@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle 2",
-    "title": "Nadando en la playa",
+    "header_text": "Mascarillas con piel sensible",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "N/A/"
+            "text": "Después de pensarlo, te das cuenta de que tiendes a notar aspectos de ti mismo que los demás no notan. Te sientes bien al proteger a las personas al usar tu..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Nadando en la playa_Salud Física_puzzle_word2",
+            "name": "Mascarillas con piel sensible_Salud Física_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "N/A/"
+                "máscara"
             ],
             "missing_letter_count": 1
         }

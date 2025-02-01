@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Proyecto eliminado",
+    "header_title": "Mensajes de texto honestos",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Respiras hondo y decides contarle a tu jefe lo sucedido. Tú te sientes..."
+            "Text": "¿Estás contento con tu respuesta?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Proyecto eliminado_Salud Mental_puzzle_word2",
+            "type": "Buttons",
+            "name": "Mensajes de texto honestos_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "bien"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "Yes"
         }
     ]
 }

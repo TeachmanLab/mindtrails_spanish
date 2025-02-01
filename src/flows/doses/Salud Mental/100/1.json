@@ -1,14 +1,11 @@
 {
-    "name": "Fiesta con amigos89",
-    "title": "Fiesta con amigos",
+    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Fiesta con amigos"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Fiesta_con_amigos.jpg"
+            "type": "Text",
+            "text": "Todas las emociones tienen un propósito. Nos cuentan lo que sucede en nuestras vidas y nos ayudan a motivarnos. Incluso los sentimientos negativos, como el miedo y la ansiedad, nos ayudan a navegar por el mundo que nos rodea."
         }
     ]
 }

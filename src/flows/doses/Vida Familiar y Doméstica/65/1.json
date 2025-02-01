@@ -1,14 +1,14 @@
 {
-    "name": "Desacuerdos con tu hermana57",
-    "title": "Desacuerdos con tu hermana",
+    "header_text": "Compañero de cuarto ausente",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Desacuerdos con tu hermana"
+            "text": "Compañero de cuarto ausente"
         },
         {
             "type": "Media",
-            "file": "/images/Desacuerdos_con_tu_hermana.jpg"
+            "file": "/images/Compañero_de_cuarto_ausente.jpg"
         }
     ]
 }

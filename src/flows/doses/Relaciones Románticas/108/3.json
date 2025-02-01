@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Tu apariencia",
+    "header_title": "Equilibrar un significativo otro y amigos",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Importa si a tu pareja le gusta tu apariencia?"
+            "Text": "¿Tus amigos te odiarán por tratar de equilibrar?"
         },
         {
             "type": "Buttons",
-            "name": "Tu apariencia_Relaciones Románticas_comp_question",
+            "name": "Equilibrar un significativo otro y amigos_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,

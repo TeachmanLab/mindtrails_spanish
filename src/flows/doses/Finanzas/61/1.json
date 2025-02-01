@@ -1,14 +1,14 @@
 {
-    "name": "Ir a la quiebra53",
-    "title": "Ir a la quiebra",
+    "header_text": "Iniciando un negocio pequeño",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ir a la quiebra"
+            "text": "Iniciando un negocio pequeño"
         },
         {
             "type": "Media",
-            "file": "/images/Ir_a_la_quiebra.jpg"
+            "file": "/images/Iniciando_un_negocio_pequeño.jpg"
         }
     ]
 }

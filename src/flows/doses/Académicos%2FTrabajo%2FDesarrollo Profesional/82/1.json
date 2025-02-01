@@ -1,14 +1,14 @@
 {
-    "name": "Limitaciones futuras72",
-    "title": "Limitaciones futuras",
+    "header_text": "Hilo de pensamientos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Limitaciones futuras"
+            "text": "Hilo de pensamientos"
         },
         {
             "type": "Media",
-            "file": "/images/Limitaciones_futuras.jpg"
+            "file": "/images/Hilo_de_pensamientos.jpg"
         }
     ]
 }

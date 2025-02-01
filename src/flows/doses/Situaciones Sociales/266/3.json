@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Una audiencia captada",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Nuevo ambiente",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Tus compañeros probablemente estaban callados porque..."
+            "text": "Piensas un poco más en el paseo de acampar, y te das cuenta de que disfrutarás tanto de la experiencia que el miedo se disipará. Te sientes más..."
         },
         {
-            "type": "Buttons",
-            "name": "Una audiencia captada_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Nuevo ambiente_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Estaban enfocados en tu presentación.",
-                "Estaban aburridos con tu presentación."
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "tranquilo"
             ],
-            "columnCount": 1,
-            "answer": "Estaban enfocados en tu presentación."
+            "missing_letter_count": 2
         }
     ]
 }

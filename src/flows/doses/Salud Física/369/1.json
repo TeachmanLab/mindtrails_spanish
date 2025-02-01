@@ -1,14 +1,14 @@
 {
-    "name": "Día caluroso402",
-    "title": "Día caluroso",
+    "header_text": "Demasiada atención",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Día caluroso"
+            "text": "Demasiada atención"
         },
         {
             "type": "Media",
-            "file": "/images/Día_caluroso.jpg"
+            "file": "/images/Demasiada_atención.jpg"
         }
     ]
 }

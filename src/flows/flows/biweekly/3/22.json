@@ -1,0 +1,18 @@
+{
+    "title": "Conociendo a un amigo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Tu amigo se detuvo?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "selectable": true,
+            "name": "IBM_friend"
+        }
+    ]
+}

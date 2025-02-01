@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "El escaparate de danza",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Tensión familiar",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Si invitas a tus amigos y familiares, probablemente pensarán que..."
+            "text": "Después de pensarlo, decides que el tema del desacuerdo sigue siendo importante para ti. Optas por evitar al miembro de la familia para evitar encontrarte en una situación..."
         },
         {
-            "type": "Buttons",
-            "name": "El escaparate de danza_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Tensión familiar_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Parecías muy tonto y esperan que no los vuelvan a invitar.",
-                "Hiciste un buen trabajo y esperan que los invites a futuras presentaciones."
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "incómoda"
             ],
-            "columnCount": 1,
-            "answer": "Parecías muy tonto y esperan que no los vuelvan a invitar."
+            "missing_letter_count": 1
         }
     ]
 }

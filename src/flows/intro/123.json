@@ -1,6 +1,6 @@
 {
-    "name": "Question",
-    "title": "Una pastel de cumpleaños",
+    "header_title": "Una pastel de cumpleaños",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {

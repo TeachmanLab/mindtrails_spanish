@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Puerta cerrada",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Comentarios sobre tu trabajo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Durante el fin de semana vas a..."
+            "text": "Durante la reunión, te das cuenta de que tu jefe se esfuerza mucho en brindarle comentarios útiles y que ve esto como una forma de brindarle una valiosa oportunidad de..."
         },
         {
-            "type": "Buttons",
-            "name": "Puerta cerrada_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "Comentarios sobre tu trabajo_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Descansar y pasar tiempo con amigos o familiares.",
-                "Preocúpate por si cerraste la puerta con llave."
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "aprendizaje"
             ],
-            "columnCount": 1,
-            "answer": "Descansar y pasar tiempo con amigos o familiares."
+            "missing_letter_count": 1
         }
     ]
 }

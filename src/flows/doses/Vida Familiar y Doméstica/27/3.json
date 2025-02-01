@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Opiniones de otros",
+    "header_title": "Pasando tiempo con familia",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu amigo está decepcionado porque no obtuviste el ascenso?"
+            "Text": "A medida que tu familia pasa menos tiempo juntos, piensas que..."
         },
         {
             "type": "Buttons",
-            "name": "Opiniones de otros_Vida Familiar y Doméstica_comp_question",
+            "name": "Pasando tiempo con familia_Vida Familiar y Doméstica_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Encontrarás formas de mantenerte en contacto y permanecer conectado.",
+                "Tu relación con ellos se volverá tensa."
             ],
             "columnCount": 1,
-            "answer": "No"
+            "answer": "Encontrarás formas de mantenerte en contacto y permanecer conectado."
         }
     ]
 }

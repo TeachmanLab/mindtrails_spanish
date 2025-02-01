@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Cita con alguien nuevo",
+    "header_title": "Casarse con tu pareja",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu cita encontró interesante lo que hablaron en la última conversación?"
+            "Text": "Cuando te imaginas un matrimonio con tu pareja ..."
         },
         {
             "type": "Buttons",
-            "name": "Cita con alguien nuevo_Relaciones Románticas_comp_question",
+            "name": "Casarse con tu pareja_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Ves que la relación finalmente se rompe.",
+                "Ves a los dos creciendo juntos por el resto de sus vidas."
             ],
             "columnCount": 1,
-            "answer": "Si"
+            "answer": "Ves que la relación finalmente se rompe."
         }
     ]
 }

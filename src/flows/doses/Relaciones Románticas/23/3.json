@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Relación a distancia",
+    "header_title": "Día especial",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando imaginas el futuro de tu relación con tu pareja, no crees que la distancia terminará tu relación, y crees que los dos permanecerán... "
+            "Text": "Probablemente te sientes nervioso porque ..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Relación a distancia_Relaciones Románticas_puzzle_word2",
+            "type": "Buttons",
+            "name": "Día especial_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "juntos"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Nunca has salido con esta persona antes.",
+                "Eres desagradable."
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "Nunca has salido con esta persona antes."
         }
     ]
 }

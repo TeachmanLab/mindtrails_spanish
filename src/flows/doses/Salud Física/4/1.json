@@ -1,14 +1,14 @@
 {
-    "name": "Tajada de fruta2",
-    "title": "Tajada de fruta",
+    "header_text": "Vacacionando en avión",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tajada de fruta"
+            "text": "Vacacionando en avión"
         },
         {
             "type": "Media",
-            "file": "/images/Tajada_de_fruta.jpg"
+            "file": "/images/Vacacionando_en_avión.jpg"
         }
     ]
 }

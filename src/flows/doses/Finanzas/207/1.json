@@ -1,14 +1,11 @@
 {
-    "name": "Planes divertidos209",
-    "title": "Planes divertidos",
+    "header_text": "Maneja tus sentimientos: Finanzas",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Planes divertidos"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Planes_divertidos.jpg"
+            "type": "Text",
+            "text": "Cuando trabajes con tu presupuesto, tómate un momento para concentrarte en otra cosa, como escuchar tu canción favorita."
         }
     ]
 }

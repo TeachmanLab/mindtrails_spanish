@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Gente fiestera",
+    "header_text": "Presentación importante",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Llegas a una fiesta grande y te das cuenta rápidamente de que hay muchas personas que no conoces allí. Te sientes ansioso y consideras irte a casa. Mirando a tu alrededor, decides..."
+            "text": "Te han pedido que hagas una presentación sobre algunos de tus últimos proyectos en una conferencia importante. Esta es una gran oportunidad para resaltar el buen trabajo que has estado haciendo, pero te sientes nervioso al hablar frente a un grupo tan grande de..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Gente fiestera_Situaciones Sociales_puzzle1",
+            "name": "Presentación importante_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "quedarte"
+                "compañeros"
             ],
             "missing_letter_count": 1
         }

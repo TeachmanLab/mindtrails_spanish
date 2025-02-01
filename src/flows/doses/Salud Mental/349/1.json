@@ -1,14 +1,14 @@
 {
-    "name": "Larga caminata afuera384",
-    "title": "Larga caminata afuera",
+    "header_text": "Tomando transporte",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Larga caminata afuera"
+            "text": "Tomando transporte"
         },
         {
             "type": "Media",
-            "file": "/images/Larga_caminata_afuera.jpg"
+            "file": "/images/Tomando_transporte.jpg"
         }
     ]
 }

@@ -1,14 +1,11 @@
 {
-    "name": "Entrega Responsable379",
-    "title": "Entrega Responsable",
+    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Entrega Responsable"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Entrega_Responsable.jpg"
+            "type": "Text",
+            "text": "Permítete dar un paso atrás de las amistades o relaciones que sientes que te están afectando negativamente. "
         }
     ]
 }

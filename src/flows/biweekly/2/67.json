@@ -1,5 +1,6 @@
 {
-    "title": "El análisis de sangre",
+    "header_text": "El análisis de sangre",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

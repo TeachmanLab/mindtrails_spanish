@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Académicos/Trabajo/Desarrollo Profesional",
-    "name": "Consejo para la regulación de las emociones",
+    "header_text": "Aplicando a trabajos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Prueba el método Pomodoro: tómate un descanso de 5 minutos cada 30 minutos de trabajo para que tu mente rejuvenezca."
+            "type": "Label",
+            "text": "Aplicando a trabajos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Aplicando_a_trabajos.jpg"
         }
     ]
 }

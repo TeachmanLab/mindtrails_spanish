@@ -1,14 +1,14 @@
 {
-    "name": "Tu primer hijo74",
-    "title": "Tu primer hijo",
+    "header_text": "Inicio Presentaciones",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tu primer hijo"
+            "text": "Inicio Presentaciones"
         },
         {
             "type": "Media",
-            "file": "/images/Tu_primer_hijo.jpg"
+            "file": "/images/Inicio_Presentaciones.jpg"
         }
     ]
 }

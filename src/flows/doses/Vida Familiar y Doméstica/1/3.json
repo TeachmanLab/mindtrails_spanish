@@ -1,6 +1,6 @@
 {
-    "name": "Question",
-    "title": "Reconciliándote con tu amigo",
+    "header_title": "Reconciliándote con tu amigo",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {

@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Cambiar tus planes",
+    "header_title": "La música ruidosa",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás contento con tu decisión de cambiar de departamento?"
+            "Text": "¿Tu pareja se molestará cuando les pides que bajen el volumen de la música."
         },
         {
             "type": "Buttons",
-            "name": "Cambiar tus planes_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "La música ruidosa_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "Sí"
+            "answer": "No"
         }
     ]
 }

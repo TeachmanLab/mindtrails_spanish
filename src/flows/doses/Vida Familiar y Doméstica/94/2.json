@@ -1,14 +1,14 @@
 {
-    "name": "Puzzle",
-    "title": "Presentando a tus amigos",
+    "header_text": "Decisiones de viaje",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Invitaste a tu cónyuge a encontrarse con tus amigos del trabajo esta noche. Sabes que a menudo pueden contar historias vergonzosas sobre ti a otras personas. Piensas en lo que van a hacer esta noche y te sientes..."
+            "text": "Estás considerando varias opciones para donde ir de vacaciones. Solo tienes un poco de información sobre cada destino potencial antes de tomar tu decisión. Cuando decides, te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Presentando a tus amigos_Vida Familiar y Doméstica_entry1"
+            "name": "Decisiones de viaje_Vida Familiar y Doméstica_entry1"
         }
     ]
 }

@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Alzar la voz en una clase",
+    "header_title": "Un trago de agua",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te da vergüenza haber levantado la mano?"
+            "Text": "Cuando sientes ansiedad durante una presentación..."
         },
         {
             "type": "Buttons",
-            "name": "Alzar la voz en una clase_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Un trago de agua_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Tienes la capacidad de continuar con tu exposición.",
+                "Tienes que parar tu exposición y huir de la situación."
             ],
             "columnCount": 1,
-            "answer": "No"
+            "answer": "Tienes la capacidad de continuar con tu exposición."
         }
     ]
 }

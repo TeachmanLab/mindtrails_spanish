@@ -1,14 +1,14 @@
 {
-    "name": "Puerta con seguro43",
-    "title": "Puerta con seguro",
+    "header_text": "Costos inesperados",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Puerta con seguro"
+            "text": "Costos inesperados"
         },
         {
             "type": "Media",
-            "file": "/images/Puerta_con_seguro.jpg"
+            "file": "/images/Costos_inesperados.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Puzzle 2",
-    "title": "Opinión importante",
+    "header_text": "Corrección rápida",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Al final, te das cuenta de que señalaron el error para que pudieras mejorarlo antes de enviarlo. Corriges la sección incompleta y crees que tu jefe piensa que estás..."
+            "text": "Al final, recuerdas que cometer errores ocasionalmente no te hace un mal empleado. Tu jefe te corregió amablemente, porque es su trabajo, y sientes que toda la interacción estuvo..."
         },
         {
             "type": "Entry",
-            "name": "Opinión importante_Académicos/Trabajo/Desarrollo Profesional_entry2"
+            "name": "Corrección rápida_Académicos/Trabajo/Desarrollo Profesional_entry2"
         }
     ]
 }

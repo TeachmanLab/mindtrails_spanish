@@ -1,14 +1,11 @@
 {
-    "name": "Usando algo viejo369",
-    "title": "Usando algo viejo",
+    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Usando algo viejo"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Usando_algo_viejo.jpg"
+            "type": "Text",
+            "text": "Si tienes dificultades para iniciar una conversación con alguien, piensa en un cumplido o una palabra amable para compartir con esa persona. "
         }
     ]
 }

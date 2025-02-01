@@ -1,14 +1,14 @@
 {
-    "name": "Expresándote48",
-    "title": "Expresándote",
+    "header_text": "Comentarios de publicaciones de Instagram",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Expresándote"
+            "text": "Comentarios de publicaciones de Instagram"
         },
         {
             "type": "Media",
-            "file": "/images/Expresándote.jpg"
+            "file": "/images/Comentarios_de_publicaciones_de_Instagram.jpg"
         }
     ]
 }

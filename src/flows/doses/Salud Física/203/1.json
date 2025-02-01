@@ -1,14 +1,14 @@
 {
-    "name": "Resultados del chequeo anual205",
-    "title": "Resultados del chequeo anual",
+    "header_text": "Seguridad de la trampolina",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Resultados del chequeo anual"
+            "text": "Seguridad de la trampolina"
         },
         {
             "type": "Media",
-            "file": "/images/Resultados_del_chequeo_anual.jpg"
+            "file": "/images/Seguridad_de_la_trampolina.jpg"
         }
     ]
 }

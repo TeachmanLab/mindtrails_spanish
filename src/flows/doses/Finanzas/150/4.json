@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Preocuparse por los ahorros",
+    "header_title": "Traje de fiesta",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa no ahorrar en este momento?"
+            "Text": "¿Necesitabas gastar dinero en ropa nueva?"
         },
         {
             "type": "Buttons",
-            "name": "Preocuparse por los ahorros_Finanzas_comp_question",
+            "name": "Traje de fiesta_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,

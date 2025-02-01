@@ -1,14 +1,11 @@
 {
-    "name": "Amgio del trabajo79",
-    "title": "Amgio del trabajo",
+    "header_text": "Maneja tus sentimientos: Relaciones Románticas",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Amgio del trabajo"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Amgio_del_trabajo.jpg"
+            "type": "Text",
+            "text": "Usa frases en primera persona (Yo siento ___ porque ___) cuando comuniques tus emociones a tu pareja. Y, trate de no usar declaraciones \"tú\" (Estás siendo). "
         }
     ]
 }

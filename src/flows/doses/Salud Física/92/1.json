@@ -1,10 +1,14 @@
 {
-    "title": "Recurso: Salud Física",
-    "name": "SmokeFree - ES",
+    "header_text": "Larga caminata afuera",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "SmokeFree - ES\n\nSmokeFree ofrece consejos y apoyo para dejar de fumar. Brinda formas alternativas de lidiar con el estrés, lidiar con los factores desencadenantes del tabaquismo y puede ayudar a los Texters a contar cuánto tiempo han estado sin fumar\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "type": "Label",
+            "text": "Larga caminata afuera"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Larga_caminata_afuera.jpg"
         }
     ]
 }

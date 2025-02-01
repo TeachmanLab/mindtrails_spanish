@@ -1,14 +1,14 @@
 {
-    "name": "Evaluación importante313",
-    "title": "Evaluación importante",
+    "header_text": "Manchas de sudor",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Evaluación importante"
+            "text": "Manchas de sudor"
         },
         {
             "type": "Media",
-            "file": "/images/Evaluación_importante.jpg"
+            "file": "/images/Manchas_de_sudor.jpg"
         }
     ]
 }

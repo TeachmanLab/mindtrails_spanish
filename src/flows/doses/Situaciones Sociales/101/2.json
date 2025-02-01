@@ -1,14 +1,12 @@
 {
-    "name": "Puzzle",
-    "title": "Miedo a perderse algo",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando llegas al trabajo, escuchas a algunos colegas hablando sobre la noche divertida que pasaron juntos anoche. No recuerdas haber sido invitado a salir con ellos. Piensas en perderte la diversión y consideras que no fuiste invitado porque estás..."
-        },
-        {
-            "type": "Entry",
-            "name": "Miedo a perderse algo_Situaciones Sociales_entry1"
+            "text": "Piensa en una situación que te genera ansiedad y que te haya ocurrido en el pasado, o que te preocupa que suceda en el futuro. Escribe tu propia historia de entrenamiento basada en esta situación, asegurándote de incluir un final positivo o no amenazante en la oración final de la historia."
         }
     ]
 }

@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Puerta cerrada",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Durante el fin de semana vas a..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Puerta cerrada_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Descansar y pasar tiempo con amigos o familiares.",
+                "Preocúpate por si cerraste la puerta con llave."
+            ],
+            "columnCount": 1,
+            "answer": "Descansar y pasar tiempo con amigos o familiares."
+        }
+    ]
+}

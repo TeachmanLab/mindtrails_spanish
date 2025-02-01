@@ -1,14 +1,14 @@
 {
-    "name": "Un panel de entrevista20",
-    "title": "Un panel de entrevista",
+    "header_text": "Quedando atrás",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un panel de entrevista"
+            "text": "Quedando atrás"
         },
         {
             "type": "Media",
-            "file": "/images/Un_panel_de_entrevista.jpg"
+            "file": "/images/Quedando_atrás.jpg"
         }
     ]
 }

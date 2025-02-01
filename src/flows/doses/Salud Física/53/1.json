@@ -1,14 +1,14 @@
 {
-    "name": "Visión borrosa47",
-    "title": "Visión borrosa",
+    "header_text": "Sentirse mareado",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Visión borrosa"
+            "text": "Sentirse mareado"
         },
         {
             "type": "Media",
-            "file": "/images/Visión_borrosa.jpg"
+            "file": "/images/Sentirse_mareado.jpg"
         }
     ]
 }

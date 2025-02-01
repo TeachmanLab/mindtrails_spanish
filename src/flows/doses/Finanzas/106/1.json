@@ -1,10 +1,15 @@
 {
-    "title": "¡Escribe El Tuyo!",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_icon": "assets/subtitle.png",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
+            "text": "Piensas en una situación que enfrentas regularmente que te cause algo de ansiedad. ¿Qué te sueles decir a ti mismo? ¿Hay otro pensamiento que puedas decirte a ti mismo que pueda hacer que sea menos provacador de ansiedad? "
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #12_entry"
         }
-    ],
-    "name": "Write Your Own"
+    ]
 }

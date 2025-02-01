@@ -1,10 +1,12 @@
 {
-    "title": "Recurso: Salud Física",
-    "name": "División de Nutrición, Actividad Física y Obesidad (DNPAO) de los CDC",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "División de Nutrición, Actividad Física y Obesidad (DNPAO) de los CDC\n\nOfrece información sobre actividad física, peso saludable, lactancia materna y nutrición para bebés y niños pequeños.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Aceptando elogios264",
-    "title": "Aceptando elogios",
+    "header_text": "Taller de escritura",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Aceptando elogios"
+            "text": "Taller de escritura"
         },
         {
             "type": "Media",
-            "file": "/images/Aceptando_elogios.jpg"
+            "file": "/images/Taller_de_escritura.jpg"
         }
     ]
 }

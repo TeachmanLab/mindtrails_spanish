@@ -1,14 +1,14 @@
 {
-    "name": "Almuerzo maloliente271",
-    "title": "Almuerzo maloliente",
+    "header_text": "La nueva ciudad",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Almuerzo maloliente"
+            "text": "La nueva ciudad"
         },
         {
             "type": "Media",
-            "file": "/images/Almuerzo_maloliente.jpg"
+            "file": "/images/La_nueva_ciudad.jpg"
         }
     ]
 }

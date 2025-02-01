@@ -1,14 +1,14 @@
 {
-    "name": "Ahorrar dinero57",
-    "title": "Ahorrar dinero",
+    "header_text": "Pago de reparaciones",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ahorrar dinero"
+            "text": "Pago de reparaciones"
         },
         {
             "type": "Media",
-            "file": "/images/Ahorrar_dinero.jpg"
+            "file": "/images/Pago_de_reparaciones.jpg"
         }
     ]
 }

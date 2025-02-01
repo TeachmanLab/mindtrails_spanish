@@ -1,14 +1,14 @@
 {
-    "name": "Dolor de garganta en la cena408",
-    "title": "Dolor de garganta en la cena",
+    "header_text": "Escuchando tu nombre",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dolor de garganta en la cena"
+            "text": "Escuchando tu nombre"
         },
         {
             "type": "Media",
-            "file": "/images/Dolor_de_garganta_en_la_cena.jpg"
+            "file": "/images/Escuchando_tu_nombre.jpg"
         }
     ]
 }

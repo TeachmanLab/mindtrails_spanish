@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Vacacionando en avión",
+    "header_title": "Resultados de análisis de sangre",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tienes miedo de que no puedas respirar correctamente?"
+            "Text": "¿Tus nervios son insoportables mientras esperas tus resultados?"
         },
         {
             "type": "Buttons",
-            "name": "Vacacionando en avión_Salud Física_comp_question",
+            "name": "Resultados de análisis de sangre_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,

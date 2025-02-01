@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Montar a caballo durante el fin de semana",
-    "show_buttons": "WhenCorrect",
+    "header_text": "en un barco",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es divertido intentar montar al caballo?"
+            "text": "La sensación en tus piernas probablemente....."
         },
         {
-            "type": "Buttons",
-            "name": "Montar a caballo durante el fin de semana_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "en un barco_Salud Física_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "es"
             ],
-            "columnCount": 1,
-            "answer": "Si"
+            "missing_letter_count": 2
         }
     ]
 }

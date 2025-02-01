@@ -1,14 +1,14 @@
 {
-    "name": "Sin planes para el fin de semana48",
-    "title": "Sin planes para el fin de semana",
+    "header_text": "Conversación con un desconocido",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sin planes para el fin de semana"
+            "text": "Conversación con un desconocido"
         },
         {
             "type": "Media",
-            "file": "/images/Sin_planes_para_el_fin_de_semana.jpg"
+            "file": "/images/Conversación_con_un_desconocido.jpg"
         }
     ]
 }

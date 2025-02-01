@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Nueva oportunidad",
+    "header_text": "Conversación durante la cena",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Aplicaste a un nuevo trabajo en un país extranjero, pero nadie en tu familia ha estado en el extranjero. Piensas en cómo reaccionará tu familia cuando les cuentes tu decisión y es posible que no les guste la idea de que vivas en otro país. Mientras te imaginas contándoles, sientes..."
+            "text": "Estás en casa de tu amigo para cenar y te preguntan sobre tus padres. No estás seguro de cómo responder porque tus padres están divorciados y no has visto a tu madre durante mucho tiempo. Piensas en qué dirás y te sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Nueva oportunidad_Vida Familiar y Doméstica_puzzle1",
+            "name": "Conversación durante la cena_Vida Familiar y Doméstica_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "entusiasmo"
+                "seguro"
             ],
             "missing_letter_count": 1
         }

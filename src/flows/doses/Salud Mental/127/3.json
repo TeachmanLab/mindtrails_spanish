@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Nerviosismo de cumpleaños",
+    "header_title": "Correo electrónico perspicaz",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Recuerdas que todos vienen a celebrarte. Esto te hace sentir..."
+            "Text": "¿Valía la pena compartir tu pensamiento?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Nerviosismo de cumpleaños_Salud Mental_puzzle_word2",
+            "type": "Buttons",
+            "name": "Correo electrónico perspicaz_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "emocionado"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "Si"
         }
     ]
 }

@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Encontrando equilibrio",
+    "header_title": "Quedarse sin batería",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes abrumado por todo lo que tienes que lograr?"
+            "Text": "¿Estarás bien el viaje en auto sin tu teléfono?"
         },
         {
             "type": "Buttons",
-            "name": "Encontrando equilibrio_Vida Familiar y Doméstica_comp_question",
+            "name": "Quedarse sin batería_Vida Familiar y Doméstica_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "No"
+            "answer": "Si"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Conversaciones incómodas64",
-    "title": "Conversaciones incómodas",
+    "header_text": "Invitando a alguien a salir",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Conversaciones incómodas"
+            "text": "Invitando a alguien a salir"
         },
         {
             "type": "Media",
-            "file": "/images/Conversaciones_incómodas.jpg"
+            "file": "/images/Invitando_a_alguien_a_salir.jpg"
         }
     ]
 }

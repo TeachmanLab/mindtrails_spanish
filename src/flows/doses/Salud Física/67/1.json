@@ -1,14 +1,11 @@
 {
-    "name": "Estar cerca de alguien enfermo59",
-    "title": "Estar cerca de alguien enfermo",
+    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Estar cerca de alguien enfermo"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Estar_cerca_de_alguien_enfermo.jpg"
+            "type": "Text",
+            "text": "Antes de volver a buscar la misma pregunta sobre su salud en línea, pregúntese si realmente está buscando nueva información o simplemente está volviendo a verificar algo. Reduzca el tiempo dedicado a volver a comprobar."
         }
     ]
 }

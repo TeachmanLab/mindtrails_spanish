@@ -1,14 +1,14 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "header_text": "Planes de vacaciones",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Imaginas que estás impartiendo un taller sobre cómo pensar de manera flexible sobre situaciones ambiguas y potencialmente amenzantes. ¿Cuál sería tu mensaje para los participantes?"
+            "type": "Label",
+            "text": "Planes de vacaciones"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #6_entry"
+            "type": "Media",
+            "file": "/images/Planes_de_vacaciones.jpg"
         }
     ]
 }

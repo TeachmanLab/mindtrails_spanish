@@ -1,14 +1,14 @@
 {
-    "name": "Lograr tus objetivos248",
-    "title": "Lograr tus objetivos",
+    "header_text": "Probando un dicho divertido",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Lograr tus objetivos"
+            "text": "Probando un dicho divertido"
         },
         {
             "type": "Media",
-            "file": "/images/Lograr_tus_objetivos.jpg"
+            "file": "/images/Probando_un_dicho_divertido.jpg"
         }
     ]
 }

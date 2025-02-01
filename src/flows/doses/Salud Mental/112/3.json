@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Probando un dicho divertido",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Nadando vueltas",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa lo que pensarán tus compañeros acerca de tu chiste?"
+            "text": "Decides que puedes tolerar estas sensaciones, y sigues..."
         },
         {
-            "type": "Buttons",
-            "name": "Probando un dicho divertido_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Nadando vueltas_Salud Mental_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "nadando"
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 1
         }
     ]
 }

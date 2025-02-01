@@ -1,14 +1,14 @@
 {
-    "name": "Conversación con un desconocido384",
-    "title": "Conversación con un desconocido",
+    "header_text": "Nuevo atuendo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Conversación con un desconocido"
+            "text": "Nuevo atuendo"
         },
         {
             "type": "Media",
-            "file": "/images/Conversación_con_un_desconocido.jpg"
+            "file": "/images/Nuevo_atuendo.jpg"
         }
     ]
 }

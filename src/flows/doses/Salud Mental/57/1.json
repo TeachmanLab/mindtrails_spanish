@@ -1,6 +1,6 @@
 {
-    "name": "Puerta con seguro51",
-    "title": "Puerta con seguro",
+    "header_text": "Puerta con seguro",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",

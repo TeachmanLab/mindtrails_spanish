@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Conociendo alguien nuevo",
+    "header_text": "Conocido sin mascarilla",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en una fiesta de cumpleaños para un amigo. Comienzas a sentir un nudo en el estómago mientras hablas con un desconocido. Esto probablemente significa que estás..."
+            "text": "Llegas a una reunión con tu mascarilla puesta. Te das cuenta de que uno de tus colegas no está usando una mascarilla. Piensas que probablemente se le..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Conociendo alguien nuevo_Salud Física_puzzle1",
+            "name": "Conocido sin mascarilla_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "emocionado"
+                "olvidó"
             ],
             "missing_letter_count": 2
         }

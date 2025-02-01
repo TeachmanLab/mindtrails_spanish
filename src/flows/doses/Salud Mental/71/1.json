@@ -1,14 +1,14 @@
 {
-    "name": "Una oportunidad perdida62",
-    "title": "Una oportunidad perdida",
+    "header_text": "Gestión de responsabilidades",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una oportunidad perdida"
+            "text": "Gestión de responsabilidades"
         },
         {
             "type": "Media",
-            "file": "/images/Una_oportunidad_perdida.jpg"
+            "file": "/images/Gestión_de_responsabilidades.jpg"
         }
     ]
 }

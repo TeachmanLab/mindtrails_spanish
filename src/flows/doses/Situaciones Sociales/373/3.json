@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Nervios en un momento importante",
+    "header_title": "Dolor de garganta en la cena",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Las sensaciones de temblor significan que no estás preparado para la presentación?"
+            "Text": "¿Crees que el hormigueo en la garganta de tu amigo es una señal de COVID?"
         },
         {
             "type": "Buttons",
-            "name": "Nervios en un momento importante_Situaciones Sociales_comp_question",
+            "name": "Dolor de garganta en la cena_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,

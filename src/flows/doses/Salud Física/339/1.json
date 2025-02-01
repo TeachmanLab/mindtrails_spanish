@@ -1,14 +1,14 @@
 {
-    "name": "Exposición reciente376",
-    "title": "Exposición reciente",
+    "header_text": "Tomar precauciones",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Exposición reciente"
+            "text": "Tomar precauciones"
         },
         {
             "type": "Media",
-            "file": "/images/Exposición_reciente.jpg"
+            "file": "/images/Tomar_precauciones.jpg"
         }
     ]
 }

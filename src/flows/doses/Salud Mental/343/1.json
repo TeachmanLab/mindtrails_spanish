@@ -1,14 +1,14 @@
 {
-    "name": "Yendo de vacaciones379",
-    "title": "Yendo de vacaciones",
+    "header_text": "Respondiendo a preguntas inesperadas",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Yendo de vacaciones"
+            "text": "Respondiendo a preguntas inesperadas"
         },
         {
             "type": "Media",
-            "file": "/images/Yendo_de_vacaciones.jpg"
+            "file": "/images/Respondiendo_a_preguntas_inesperadas.jpg"
         }
     ]
 }

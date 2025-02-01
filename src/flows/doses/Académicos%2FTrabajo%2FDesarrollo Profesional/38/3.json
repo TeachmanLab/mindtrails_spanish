@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Discutir la evaluación",
+    "header_title": "Llegando tarde",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Pasas tu tiempo preocupándote por reunirte con tu jefe?"
+            "Text": "¿Estás ansioso por el resto de la reunión porque llegaste tarde?"
         },
         {
             "type": "Buttons",
-            "name": "Discutir la evaluación_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Llegando tarde_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,

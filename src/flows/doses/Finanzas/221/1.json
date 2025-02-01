@@ -1,14 +1,14 @@
 {
-    "name": "Trabajos bien pagados246",
-    "title": "Trabajos bien pagados",
+    "header_text": "Ahorro para reparaciones",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trabajos bien pagados"
+            "text": "Ahorro para reparaciones"
         },
         {
             "type": "Media",
-            "file": "/images/Trabajos_bien_pagados.jpg"
+            "file": "/images/Ahorro_para_reparaciones.jpg"
         }
     ]
 }

@@ -1,6 +1,6 @@
 {
-    "name": "Aprendiendo a esquíar51",
-    "title": "Aprendiendo a esquíar",
+    "header_text": "Aprendiendo a esquíar",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",

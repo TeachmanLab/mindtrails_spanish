@@ -1,14 +1,14 @@
 {
-    "name": "Mascarillas para invitados185",
-    "title": "Mascarillas para invitados",
+    "header_text": "Cancelación de concierto",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mascarillas para invitados"
+            "text": "Cancelación de concierto"
         },
         {
             "type": "Media",
-            "file": "/images/Mascarillas_para_invitados.jpg"
+            "file": "/images/Cancelación_de_concierto.jpg"
         }
     ]
 }

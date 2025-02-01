@@ -1,14 +1,14 @@
 {
-    "name": "Visitar a una familia anciana406",
-    "title": "Visitar a una familia anciana",
+    "header_text": "Comunicación tardía",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Visitar a una familia anciana"
+            "text": "Comunicación tardía"
         },
         {
             "type": "Media",
-            "file": "/images/Visitar_a_una_familia_anciana.jpg"
+            "file": "/images/Comunicación_tardía.jpg"
         }
     ]
 }

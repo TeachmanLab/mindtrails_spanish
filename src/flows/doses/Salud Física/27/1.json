@@ -1,14 +1,14 @@
 {
-    "name": "Caminata con un amigo23",
-    "title": "Caminata con un amigo",
+    "header_text": "Quemadura",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Caminata con un amigo"
+            "text": "Quemadura"
         },
         {
             "type": "Media",
-            "file": "/images/Caminata_con_un_amigo.jpg"
+            "file": "/images/Quemadura.jpg"
         }
     ]
 }

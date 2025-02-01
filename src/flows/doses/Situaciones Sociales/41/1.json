@@ -1,14 +1,14 @@
 {
-    "name": "Tu fiesta de cumpleaños36",
-    "title": "Tu fiesta de cumpleaños",
+    "header_text": "Proyecto de grupo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tu fiesta de cumpleaños"
+            "text": "Proyecto de grupo"
         },
         {
             "type": "Media",
-            "file": "/images/Tu_fiesta_de_cumpleaños.jpg"
+            "file": "/images/Proyecto_de_grupo.jpg"
         }
     ]
 }

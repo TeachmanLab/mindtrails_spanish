@@ -1,14 +1,14 @@
 {
-    "name": "Broma interna291",
-    "title": "Broma interna",
+    "header_text": "Tu primer hijo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Broma interna"
+            "text": "Tu primer hijo"
         },
         {
             "type": "Media",
-            "file": "/images/Broma_interna.jpg"
+            "file": "/images/Tu_primer_hijo.jpg"
         }
     ]
 }

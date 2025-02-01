@@ -1,6 +1,6 @@
 {
-    "name": "Question",
-    "title": "Planes de viajar",
+    "header_title": "Planes de viajar",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {

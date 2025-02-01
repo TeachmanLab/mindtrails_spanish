@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Salud Mental",
-    "name": "Consejo para la regulación de las emociones",
+    "header_text": "Expectativas diferentes",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Acepta las emociones que tienes en lugar de juzgarte por tenerlas."
+            "type": "Label",
+            "text": "Expectativas diferentes"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Expectativas_diferentes.jpg"
         }
     ]
 }

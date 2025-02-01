@@ -1,14 +1,14 @@
 {
-    "name": "Seguridad de la trampolina52",
-    "title": "Seguridad de la trampolina",
+    "header_text": "Un pastel de cumpleaños",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Seguridad de la trampolina"
+            "text": "Un pastel de cumpleaños"
         },
         {
             "type": "Media",
-            "file": "/images/Seguridad_de_la_trampolina.jpg"
+            "file": "/images/Un_pastel_de_cumpleaños.jpg"
         }
     ]
 }

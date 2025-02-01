@@ -1,14 +1,14 @@
 {
-    "name": "Pago de reparaciones45",
-    "title": "Pago de reparaciones",
+    "header_text": "Decidiendo algo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pago de reparaciones"
+            "text": "Decidiendo algo"
         },
         {
             "type": "Media",
-            "file": "/images/Pago_de_reparaciones.jpg"
+            "file": "/images/Decidiendo_algo.jpg"
         }
     ]
 }

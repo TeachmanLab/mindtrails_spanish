@@ -1,14 +1,14 @@
 {
-    "name": "Sentirse mareado174",
-    "title": "Sentirse mareado",
+    "header_text": "Tomar un descanso",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sentirse mareado"
+            "text": "Tomar un descanso"
         },
         {
             "type": "Media",
-            "file": "/images/Sentirse_mareado.jpg"
+            "file": "/images/Tomar_un_descanso.jpg"
         }
     ]
 }

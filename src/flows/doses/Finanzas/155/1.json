@@ -1,14 +1,14 @@
 {
-    "name": "Elegir entre oportunidades162",
-    "title": "Elegir entre oportunidades",
+    "header_text": "Mantener a la familia",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Elegir entre oportunidades"
+            "text": "Mantener a la familia"
         },
         {
             "type": "Media",
-            "file": "/images/Elegir_entre_oportunidades.jpg"
+            "file": "/images/Mantener_a_la_familia.jpg"
         }
     ]
 }

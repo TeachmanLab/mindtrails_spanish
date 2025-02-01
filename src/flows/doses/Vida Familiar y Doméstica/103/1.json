@@ -1,10 +1,12 @@
 {
-    "title": "Recurso: Vida Familiar y Doméstica",
-    "name": "Kid's Health",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Kid's Health\n\nKid's Health es una organización sin fines de lucro que ofrece información revisada por doctores y con fuentes sustentadas. Hay secciones para padres, niños, y adolescentes.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
         }
     ]
 }

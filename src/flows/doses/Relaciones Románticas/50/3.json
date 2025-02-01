@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Temas difíciles",
+    "header_title": "Presencia en redes sociales",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Todas las conversaciones en una relación tienen que ser fáciles?"
+            "Text": "¿Ellos piensan que está bien que no tienes redes sociales?"
         },
         {
             "type": "Buttons",
-            "name": "Temas difíciles_Relaciones Románticas_comp_question",
+            "name": "Presencia en redes sociales_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "No"
+            "answer": "Si"
         }
     ]
 }

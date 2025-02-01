@@ -1,14 +1,14 @@
 {
-    "name": "Primera vez pantinaje sobre hielo315",
-    "title": "Primera vez pantinaje sobre hielo",
+    "header_text": "Evaluación de salud",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Primera vez pantinaje sobre hielo"
+            "text": "Evaluación de salud"
         },
         {
             "type": "Media",
-            "file": "/images/Primera_vez_pantinaje_sobre_hielo.jpg"
+            "file": "/images/Evaluación_de_salud.jpg"
         }
     ]
 }

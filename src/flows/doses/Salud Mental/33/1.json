@@ -1,14 +1,11 @@
 {
-    "name": "Mensajes de texto honestos29",
-    "title": "Mensajes de texto honestos",
+    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Mensajes de texto honestos"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Mensajes_de_texto_honestos.jpg"
+            "type": "Text",
+            "text": "Trate de poner una etiqueta específica a sus sentimientos (¿está triste, enojado, disgustado, nervioso, aterrorizado, etc.?); los sentimientos son más fáciles de manejar cuando podemos describirlos completamente."
         }
     ]
 }

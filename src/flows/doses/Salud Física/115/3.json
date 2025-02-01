@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Dando positivo en una prueba de enfermedad",
+    "header_title": "Problemas de computadora",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Podrás recuperarte de la enfermedad?"
+            "Text": "¿Está relacionado tu dolor de cabeza con mirar la computadora por demasiado tiempo?"
         },
         {
             "type": "Buttons",
-            "name": "Dando positivo en una prueba de enfermedad_Salud Física_comp_question",
+            "name": "Problemas de computadora_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,

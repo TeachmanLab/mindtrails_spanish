@@ -1,14 +1,11 @@
 {
-    "name": "Carrera matutina del domingo269",
-    "title": "Carrera matutina del domingo",
+    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Carrera matutina del domingo"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Carrera_matutina_del_domingo.jpg"
+            "type": "Text",
+            "text": "Cada cuerpo es diferente. Tómate un momento para apreciar todo lo que tu cuerpo hace para apoyarte durante la vida."
         }
     ]
 }

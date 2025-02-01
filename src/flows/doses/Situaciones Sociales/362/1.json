@@ -1,14 +1,14 @@
 {
-    "name": "Zambullirte397",
-    "title": "Zambullirte",
+    "header_text": "Fiesta sensacional",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Zambullirte"
+            "text": "Fiesta sensacional"
         },
         {
             "type": "Media",
-            "file": "/images/Zambullirte.jpg"
+            "file": "/images/Fiesta_sensacional.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Fecha límite cercana144",
-    "title": "Fecha límite cercana",
+    "header_text": "Conversación durante la cena",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Fecha límite cercana"
+            "text": "Conversación durante la cena"
         },
         {
             "type": "Media",
-            "file": "/images/Fecha_límite_cercana.jpg"
+            "file": "/images/Conversación_durante_la_cena.jpg"
         }
     ]
 }

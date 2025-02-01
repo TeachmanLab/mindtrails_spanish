@@ -1,14 +1,14 @@
 {
-    "name": "Sentirse ansioso42",
-    "title": "Sentirse ansioso",
+    "header_text": "Planes de viajar",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sentirse ansioso"
+            "text": "Planes de viajar"
         },
         {
             "type": "Media",
-            "file": "/images/Sentirse_ansioso.jpg"
+            "file": "/images/Planes_de_viajar.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Saludando gente en bibliotecas31",
-    "title": "Saludando gente en bibliotecas",
+    "header_text": "Gestión de facturas",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Saludando gente en bibliotecas"
+            "text": "Gestión de facturas"
         },
         {
             "type": "Media",
-            "file": "/images/Saludando_gente_en_bibliotecas.jpg"
+            "file": "/images/Gestión_de_facturas.jpg"
         }
     ]
 }

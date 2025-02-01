@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Quedando atrás",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Siendo padre",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Mejorarás en tu trabajo?"
+            "text": "Cuando piensas en tu relación con ella a medida que crece, no crees que será tensa, y te visualizas siendo..."
         },
         {
-            "type": "Buttons",
-            "name": "Quedando atrás_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Siendo padre_Salud Mental_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "paciente"
             ],
-            "columnCount": 1,
-            "answer": "Si"
+            "missing_letter_count": 2
         }
     ]
 }

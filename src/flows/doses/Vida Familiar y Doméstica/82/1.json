@@ -1,14 +1,14 @@
 {
-    "name": "Desacuerdos con tu hermana72",
-    "title": "Desacuerdos con tu hermana",
+    "header_text": "Tu primer hijo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Desacuerdos con tu hermana"
+            "text": "Tu primer hijo"
         },
         {
             "type": "Media",
-            "file": "/images/Desacuerdos_con_tu_hermana.jpg"
+            "file": "/images/Tu_primer_hijo.jpg"
         }
     ]
 }

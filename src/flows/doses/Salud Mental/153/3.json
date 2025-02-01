@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Quedando atrás",
+    "header_title": "Tu propio estilo",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Mejorarás en tu trabajo?"
+            "Text": "¿Te cambias de ropa por lo que visten tus amigos?"
         },
         {
             "type": "Buttons",
-            "name": "Quedando atrás_Salud Mental_comp_question",
+            "name": "Tu propio estilo_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "Si"
+            "answer": "No"
         }
     ]
 }

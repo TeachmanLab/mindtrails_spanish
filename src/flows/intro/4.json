@@ -1,5 +1,6 @@
 {
-    "title": "Demografía",
+    "header_text": "Demografía",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

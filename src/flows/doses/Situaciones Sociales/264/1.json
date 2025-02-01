@@ -1,14 +1,14 @@
 {
-    "name": "Amigos del club de lectura284",
-    "title": "Amigos del club de lectura",
+    "header_text": "Una audiencia captada",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Amigos del club de lectura"
+            "text": "Una audiencia captada"
         },
         {
             "type": "Media",
-            "file": "/images/Amigos_del_club_de_lectura.jpg"
+            "file": "/images/Una_audiencia_captada.jpg"
         }
     ]
 }

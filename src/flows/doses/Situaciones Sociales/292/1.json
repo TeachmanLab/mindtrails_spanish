@@ -1,14 +1,11 @@
 {
-    "name": "Viejos amigos309",
-    "title": "Viejos amigos",
+    "header_text": "Recurso: Situaciones Sociales",
+    "header_icon": "assets/subtitle.png",
+    "name": "La Unión Americana de Libertades Civiles (American Civil Liberties Union)",
     "elements": [
         {
-            "type": "Label",
-            "text": "Viejos amigos"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Viejos_amigos.jpg"
+            "type": "Text",
+            "text": "La Unión Americana de Libertades Civiles (American Civil Liberties Union)\n\nProporciona información y recursos acerca de los derechos de las personas estadunidenses en una variedad de situaciones: libertad religiosa, libertad de expresión, derechos de inmigrantes, derechos de las personas LGBT y más.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

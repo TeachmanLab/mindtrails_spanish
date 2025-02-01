@@ -1,0 +1,21 @@
+{
+    "title": "El raspado",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "EL RASPÓN: El rasguno duele un poco...\n\nPero sabes que estarás bien."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Muy diferente",
+                "Diferente",
+                "Similar",
+                "Muy similar",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "IBM_scrape_interpretation_3"
+        }
+    ]
+}

@@ -1,14 +1,11 @@
 {
-    "name": "Controles en el dentista.289",
-    "title": "Controles en el dentista.",
+    "header_text": "Recurso: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "name": "Planned Parenthood",
     "elements": [
         {
-            "type": "Label",
-            "text": "Controles en el dentista."
-        },
-        {
-            "type": "Media",
-            "file": "/images/Controles_en_el_dentista..jpg"
+            "type": "Text",
+            "text": "Planned Parenthood\n\nBrinda atención a la salud reproductiva, educación sexual e información a adultos y jóvenes.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

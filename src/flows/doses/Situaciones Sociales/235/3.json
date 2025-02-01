@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Silencio en un viaje en coche",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Tocando el piano",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu amigo se siente incómodo contigo cuando hay silencio durante el viaje?"
+            "text": "Acercándote al piano, piensas para ti mismo: \"Esto no es motivo de preocupación, estas personas van a estar..."
         },
         {
-            "type": "Buttons",
-            "name": "Silencio en un viaje en coche_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Tocando el piano_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "contentas\""
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 1
         }
     ]
 }

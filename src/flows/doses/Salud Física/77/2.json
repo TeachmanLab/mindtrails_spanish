@@ -1,14 +1,14 @@
 {
-    "name": "Puzzle",
-    "title": "Subiendo escaleras",
+    "header_text": "Serpientes venenosas",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "El ascensor en tu edificio está roto de nuevo y tienes que subir por unas cuantas plantas de escaleras para llegar a donde necesitas ir. Sientes que tu pecho se aprieta y te quedas sin aliento al llegar a la última escalera. Te sientes..."
+            "text": "Tu amigo te convence a dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque y comienzas a sentirte preocupados. Piensas que las posibilidades de que veas ese tipo de serpiente son..."
         },
         {
             "type": "Entry",
-            "name": "Subiendo escaleras_Salud Física_entry1"
+            "name": "Serpientes venenosas_Salud Física_entry1"
         }
     ]
 }

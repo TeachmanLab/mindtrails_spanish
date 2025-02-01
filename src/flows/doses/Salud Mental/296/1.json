@@ -1,14 +1,14 @@
 {
-    "name": "Proyecto eliminado312",
-    "title": "Proyecto eliminado",
+    "header_text": "Preocupaciones por el ritmo cardíaco",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Proyecto eliminado"
+            "text": "Preocupaciones por el ritmo cardíaco"
         },
         {
             "type": "Media",
-            "file": "/images/Proyecto_eliminado.jpg"
+            "file": "/images/Preocupaciones_por_el_ritmo_cardíaco.jpg"
         }
     ]
 }

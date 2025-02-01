@@ -1,14 +1,14 @@
 {
-    "name": "Un vuelo internacional308",
-    "title": "Un vuelo internacional",
+    "header_text": "Resultados del chequeo anual",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un vuelo internacional"
+            "text": "Resultados del chequeo anual"
         },
         {
             "type": "Media",
-            "file": "/images/Un_vuelo_internacional.jpg"
+            "file": "/images/Resultados_del_chequeo_anual.jpg"
         }
     ]
 }

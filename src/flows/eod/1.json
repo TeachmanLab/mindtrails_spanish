@@ -1,5 +1,6 @@
 {
-    "title": "Encuesta nocturna",
+    "header_text": "Encuesta nocturna",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

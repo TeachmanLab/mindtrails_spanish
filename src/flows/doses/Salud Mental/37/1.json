@@ -1,14 +1,14 @@
 {
-    "name": "Cambio de planes32",
-    "title": "Cambio de planes",
+    "header_text": "Revisando tus cualificaciones",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cambio de planes"
+            "text": "Revisando tus cualificaciones"
         },
         {
             "type": "Media",
-            "file": "/images/Cambio_de_planes.jpg"
+            "file": "/images/Revisando_tus_cualificaciones.jpg"
         }
     ]
 }

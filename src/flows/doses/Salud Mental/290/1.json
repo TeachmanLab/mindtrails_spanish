@@ -1,14 +1,14 @@
 {
-    "name": "Reunión uno a uno307",
-    "title": "Reunión uno a uno",
+    "header_text": "Siendo padre",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Reunión uno a uno"
+            "text": "Siendo padre"
         },
         {
             "type": "Media",
-            "file": "/images/Reunión_uno_a_uno.jpg"
+            "file": "/images/Siendo_padre.jpg"
         }
     ]
 }

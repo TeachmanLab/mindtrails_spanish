@@ -1,0 +1,22 @@
+{
+    "title": "Escala de estrés",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "En el último mes, ¿con qué frecuencia ha sentido que no podía controlar las cosas importantes de su vida?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Nunca",
+                "Casi nunca",
+                "A veces",
+                "Bastante a menudo",
+                "Muy a menudo",
+                "^Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "PSS-4_control"
+        }
+    ]
+}

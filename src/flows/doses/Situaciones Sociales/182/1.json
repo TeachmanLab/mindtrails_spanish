@@ -1,14 +1,14 @@
 {
-    "name": "Sábado sin planes187",
-    "title": "Sábado sin planes",
+    "header_text": "Foto con amigos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sábado sin planes"
+            "text": "Foto con amigos"
         },
         {
             "type": "Media",
-            "file": "/images/Sábado_sin_planes.jpg"
+            "file": "/images/Foto_con_amigos.jpg"
         }
     ]
 }

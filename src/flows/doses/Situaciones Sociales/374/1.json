@@ -1,14 +1,14 @@
 {
-    "name": "No invitado a cenar407",
-    "title": "No invitado a cenar",
+    "header_text": "Temprano en la mañana",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "No invitado a cenar"
+            "text": "Temprano en la mañana"
         },
         {
             "type": "Media",
-            "file": "/images/No_invitado_a_cenar.jpg"
+            "file": "/images/Temprano_en_la_mañana.jpg"
         }
     ]
 }

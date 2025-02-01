@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Despertándote mareado",
+    "header_text": "Dando positivo en una prueba de enfermedad",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando te despiertas en la mañana, te sientas rápidamente. Tu visión se vuelve borrosa y luego todo se pone negro por un momento. Tu visión regresa despues de ese momento, y te convences que te estás quedando... "
+            "text": "Unos días despues de ir a un cumpleaños con mucha gente, notas que te duele la garganta. Te haces una prueba de una enfermedad seria y sale positiva. Has tenido mucho cuidado debido a tus condiciones de salud subyacentes. Piensas en cómo afectará tu salúd y crees que podrás manejar los desafíos a medida que se..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Despertándote mareado_Salud Física_puzzle1",
+            "name": "Dando positivo en una prueba de enfermedad_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "siego"
+                "presenten"
             ],
             "missing_letter_count": 1
         }

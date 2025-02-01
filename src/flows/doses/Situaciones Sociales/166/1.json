@@ -1,14 +1,14 @@
 {
-    "name": "Ver a otros salir172",
-    "title": "Ver a otros salir",
+    "header_text": "Mascarillas para invitados",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ver a otros salir"
+            "text": "Mascarillas para invitados"
         },
         {
             "type": "Media",
-            "file": "/images/Ver_a_otros_salir.jpg"
+            "file": "/images/Mascarillas_para_invitados.jpg"
         }
     ]
 }

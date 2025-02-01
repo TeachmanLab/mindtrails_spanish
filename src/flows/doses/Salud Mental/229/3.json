@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Larga caminata afuera",
+    "header_title": "Presentación de tu trabajo",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Recuerdas que es la primera vez en unas semanas que caminas una distancia larga. Probablemente sientes que el latido de tu corazón se acelera debido a la..."
+            "Text": "¿Impresionará tu trabajo a la gente en el evento?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Larga caminata afuera_Salud Mental_puzzle_word2",
+            "type": "Buttons",
+            "name": "Presentación de tu trabajo_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "cuesta"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "Sí"
         }
     ]
 }

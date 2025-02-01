@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Pagando la tarjeta de crédito",
+    "header_title": "Ahorrando dinero",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes pagar la factura de tu tarjeta de crédito?"
+            "Text": "Cuando llegue el momento de reservar el viaje, probablemente..."
         },
         {
             "type": "Buttons",
-            "name": "Pagando la tarjeta de crédito_Finanzas_comp_question",
+            "name": "Ahorrando dinero_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Tendrás que cancelar debido a problemas de dinero.",
+                "Podrás elegir un hotel bastante bonito."
             ],
             "columnCount": 1,
-            "answer": "Si"
+            "answer": "Tendrás que cancelar debido a problemas de dinero."
         }
     ]
 }

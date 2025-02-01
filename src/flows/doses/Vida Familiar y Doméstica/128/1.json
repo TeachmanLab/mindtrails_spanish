@@ -1,14 +1,11 @@
 {
-    "name": "Compartir las tradiciones familiares139",
-    "title": "Compartir las tradiciones familiares",
+    "header_text": "Recurso: Vida Familiar y Doméstica",
+    "header_icon": "assets/subtitle.png",
+    "name": "Departamento de Educación",
     "elements": [
         {
-            "type": "Label",
-            "text": "Compartir las tradiciones familiares"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Compartir_las_tradiciones_familiares.jpg"
+            "type": "Text",
+            "text": "Departamento de Educación\n\nRecursos en Español acerca de información escolar y derechos educativos.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

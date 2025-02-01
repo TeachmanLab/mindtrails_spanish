@@ -1,14 +1,14 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "header_text": "Nuevo atuendo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Piensas en algo que te causó ansiedad la primera vez que lo hiciste. ¿Qué estrategias te ayudaron a superar eso?"
+            "type": "Label",
+            "text": "Nuevo atuendo"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #1_entry"
+            "type": "Media",
+            "file": "/images/Nuevo_atuendo.jpg"
         }
     ]
 }

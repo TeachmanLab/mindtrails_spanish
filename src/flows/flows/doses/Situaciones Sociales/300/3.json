@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Devolución de chaqueta",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Al final, te das cuenta de que la persona en el mostrador estaba muy estresada debido a un cliente anterior, y cuando empezaron a ayudarte, fueron muy..."
+        },
+        {
+            "type": "Entry",
+            "name": "Devolución de chaqueta_Situaciones Sociales_entry2"
+        }
+    ]
+}

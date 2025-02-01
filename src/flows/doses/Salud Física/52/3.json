@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Una mesa sucia",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Asustado en tu caminata",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Mientras almuerzas con tu amigo, tu ..."
+            "text": "Al notar estos pensamientos, decides que podrás afrontar la situación, así que sigues..."
         },
         {
-            "type": "Buttons",
-            "name": "Una mesa sucia_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Asustado en tu caminata_Salud Física_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "eres capaces de disfrutar la conversación.",
-                "Estás insoportablemente ansiosos."
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "caminando"
             ],
-            "columnCount": 1,
-            "answer": "eres capaces de disfrutar la conversación."
+            "missing_letter_count": 2
         }
     ]
 }

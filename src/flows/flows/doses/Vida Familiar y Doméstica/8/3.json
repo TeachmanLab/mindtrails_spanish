@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Quedarse sin batería",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Después de preocuparte por unos minutos, te das cuenta de que puedes aprovechar este tiempo para hablar con tu familia. Te sientes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Quedarse sin batería_Vida Familiar y Doméstica_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "mejor"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

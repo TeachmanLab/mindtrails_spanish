@@ -1,14 +1,11 @@
 {
-    "name": "Pensamientos intrusivos19",
-    "title": "Pensamientos intrusivos",
+    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Pensamientos intrusivos"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Pensamientos_intrusivos.jpg"
+            "type": "Text",
+            "text": "Si se siente ansioso o nervioso, pregúntese: \"¿Qué me dice mi cerebro ansioso?\" Una vez que puedas identificar ese pensamiento, pregúntate: \"¿Es esto realista?\""
         }
     ]
 }

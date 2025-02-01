@@ -1,14 +1,14 @@
 {
-    "name": "Planificación de pagos37",
-    "title": "Planificación de pagos",
+    "header_text": "Limitaciones financieras",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Planificación de pagos"
+            "text": "Limitaciones financieras"
         },
         {
             "type": "Media",
-            "file": "/images/Planificación_de_pagos.jpg"
+            "file": "/images/Limitaciones_financieras.jpg"
         }
     ]
 }

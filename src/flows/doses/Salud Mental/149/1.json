@@ -1,14 +1,14 @@
 {
-    "name": "Día caluroso157",
-    "title": "Día caluroso",
+    "header_text": "Sentirse ansioso",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Día caluroso"
+            "text": "Sentirse ansioso"
         },
         {
             "type": "Media",
-            "file": "/images/Día_caluroso.jpg"
+            "file": "/images/Sentirse_ansioso.jpg"
         }
     ]
 }

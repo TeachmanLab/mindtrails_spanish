@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Comparar su trabajo con el de otros",
+    "header_text": "Expresándote",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente recibiste comentarios negativos sobre una presentación. Tu colega, que hizo una presentación similar, recibió comentarios maravillosos. Crees que tu próxima presentación será..."
+            "text": "En el trabajo, tu jefe te da la responsabilidad de resolver un problema complicado. Tienes una idea que crees que podría funcionar, pero te preguntas si es demasiado simplista. Mientras consideras compartir tu idea, decides..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Comparar su trabajo con el de otros_Salud Mental_puzzle1",
+            "name": "Expresándote_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "mejor"
+                "intentarlo"
             ],
             "missing_letter_count": 1
         }

@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Tus habilidades con los bolos",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Dentro de unos años, cuando juegues a los bolos con tus amigos, probablemente notarás..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Tus habilidades con los bolos_Salud Mental_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Lo poco que han seguido mejorando tus habilidades.",
+                "Cuánto has mejorado desde que empezaste."
+            ],
+            "columnCount": 1,
+            "answer": "Lo poco que han seguido mejorando tus habilidades."
+        }
+    ]
+}

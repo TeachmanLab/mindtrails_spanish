@@ -1,14 +1,14 @@
 {
-    "name": "Entrega Responsable394",
-    "title": "Entrega Responsable",
+    "header_text": "Conociendo alguien nuevo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Entrega Responsable"
+            "text": "Conociendo alguien nuevo"
         },
         {
             "type": "Media",
-            "file": "/images/Entrega_Responsable.jpg"
+            "file": "/images/Conociendo_alguien_nuevo.jpg"
         }
     ]
 }

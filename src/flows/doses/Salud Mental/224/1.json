@@ -1,14 +1,11 @@
 {
-    "name": "Cena cara249",
-    "title": "Cena cara",
+    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Cena cara"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Cena_cara.jpg"
+            "type": "Text",
+            "text": "¿Hay algún momento durante los próximos dos días en el que cree que se sentirá ansioso? Considere configurar una alarma para recordar que debe practicar el pensamiento flexible en ese momento."
         }
     ]
 }

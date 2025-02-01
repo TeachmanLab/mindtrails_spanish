@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Encontrando un campo para sentarte",
+    "header_title": "Asistir a una boda solo",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "\n¿Eran amables las personas del grupo?"
+            "Text": "¿Disfrutas de tu tiempo en el matrimonio?"
         },
         {
             "type": "Buttons",
-            "name": "Encontrando un campo para sentarte_Situaciones Sociales_comp_question",
+            "name": "Asistir a una boda solo_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,

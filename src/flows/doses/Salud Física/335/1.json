@@ -1,14 +1,14 @@
 {
-    "name": "Problemas de visión372",
-    "title": "Problemas de visión",
+    "header_text": "Conociendo alguien nuevo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Problemas de visión"
+            "text": "Conociendo alguien nuevo"
         },
         {
             "type": "Media",
-            "file": "/images/Problemas_de_visión.jpg"
+            "file": "/images/Conociendo_alguien_nuevo.jpg"
         }
     ]
 }

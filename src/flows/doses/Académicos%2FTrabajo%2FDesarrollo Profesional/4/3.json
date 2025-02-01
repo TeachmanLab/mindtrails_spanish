@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Una presentación grande",
+    "header_title": "Un tropiezo repentino",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes emocionado por la presentación?"
+            "Text": "Tu jefe probablemente pensará que..."
         },
         {
             "type": "Buttons",
-            "name": "Una presentación grande_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Un tropiezo repentino_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Estás listo para enfrentar desafíos.",
+                "Eres una persona torpe."
             ],
             "columnCount": 1,
-            "answer": "Si"
+            "answer": "Estás listo para enfrentar desafíos."
         }
     ]
 }

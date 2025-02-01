@@ -1,14 +1,14 @@
 {
-    "name": "Cena cara283",
-    "title": "Cena cara",
+    "header_text": "Redes sociales",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cena cara"
+            "text": "Redes sociales"
         },
         {
             "type": "Media",
-            "file": "/images/Cena_cara.jpg"
+            "file": "/images/Redes_sociales.jpg"
         }
     ]
 }

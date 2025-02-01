@@ -1,14 +1,14 @@
 {
-    "name": "Costear los gastos206",
-    "title": "Costear los gastos",
+    "header_text": "Estabilidad laboral",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Costear los gastos"
+            "text": "Estabilidad laboral"
         },
         {
             "type": "Media",
-            "file": "/images/Costear_los_gastos.jpg"
+            "file": "/images/Estabilidad_laboral.jpg"
         }
     ]
 }

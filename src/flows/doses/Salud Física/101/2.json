@@ -1,14 +1,12 @@
 {
-    "name": "Puzzle",
-    "title": "Distanciamiento social adentro",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Eres inmunocomprometido y has estado tomando precauciones para protegerte de enfermedades. Cuando llegas a una reunión un día, notas a un colega que está tosiendo sin cubrirse la boca. Le pides que se cubra la..."
-        },
-        {
-            "type": "Entry",
-            "name": "Distanciamiento social adentro_Salud Física_entry1"
+            "text": "Piensa en una situación que te genera ansiedad y que te haya ocurrido en el pasado, o que te preocupa que suceda en el futuro. Escribe tu propia historia de entrenamiento basada en esta situación, asegurándote de incluir un final positivo o no amenazante en la oración final de la historia."
         }
     ]
 }

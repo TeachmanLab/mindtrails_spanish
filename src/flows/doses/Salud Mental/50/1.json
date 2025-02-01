@@ -1,14 +1,14 @@
 {
-    "name": "Planes de viajar44",
-    "title": "Planes de viajar",
+    "header_text": "Cancelar con amigos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Planes de viajar"
+            "text": "Cancelar con amigos"
         },
         {
             "type": "Media",
-            "file": "/images/Planes_de_viajar.jpg"
+            "file": "/images/Cancelar_con_amigos.jpg"
         }
     ]
 }

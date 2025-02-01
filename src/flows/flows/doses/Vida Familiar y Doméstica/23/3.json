@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Salud y envejecimiento",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Tu amigo probablemente ..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Salud y envejecimiento_Vida Familiar y Doméstica_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Manténgase saludable en el futuro.",
+                "Enferme más en el futuro."
+            ],
+            "columnCount": 1,
+            "answer": "Manténgase saludable en el futuro."
+        }
+    ]
+}

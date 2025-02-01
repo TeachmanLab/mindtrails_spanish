@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Gustos musicales diferentes",
+    "header_title": "Esta reunión",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Después de hablar sobre los pros y los contras de diferentes estilos de música, te das cuenta de que probablemente a ella no le importa que tengan gustos diferentes y simplemente te ve como alguien entendido en..."
+            "Text": "¿Te da miedo que tu mente se quedó en blanco antes de tu reunión?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Gustos musicales diferentes_Situaciones Sociales_puzzle_word2",
+            "type": "Buttons",
+            "name": "Esta reunión_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "música"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "No"
         }
     ]
 }

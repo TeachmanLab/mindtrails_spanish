@@ -1,14 +1,14 @@
 {
-    "name": "Una presentación grande2",
-    "title": "Una presentación grande",
+    "header_text": "Un tropiezo repentino",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una presentación grande"
+            "text": "Un tropiezo repentino"
         },
         {
             "type": "Media",
-            "file": "/images/Una_presentación_grande.jpg"
+            "file": "/images/Un_tropiezo_repentino.jpg"
         }
     ]
 }

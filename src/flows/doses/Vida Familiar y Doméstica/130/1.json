@@ -1,14 +1,14 @@
 {
-    "name": "Celebraciones culturales familiares141",
-    "title": "Celebraciones culturales familiares",
+    "header_text": "Inicio Presentaciones",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Celebraciones culturales familiares"
+            "text": "Inicio Presentaciones"
         },
         {
             "type": "Media",
-            "file": "/images/Celebraciones_culturales_familiares.jpg"
+            "file": "/images/Inicio_Presentaciones.jpg"
         }
     ]
 }

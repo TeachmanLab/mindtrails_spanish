@@ -1,14 +1,14 @@
 {
-    "name": "Sentirse mareado35",
-    "title": "Sentirse mareado",
+    "header_text": "Cómodo sofá",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sentirse mareado"
+            "text": "Cómodo sofá"
         },
         {
             "type": "Media",
-            "file": "/images/Sentirse_mareado.jpg"
+            "file": "/images/Cómodo_sofá.jpg"
         }
     ]
 }

@@ -1,14 +1,12 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en una situación desafiante que se avecina pronto. ¿Cuáles son algunas de las maneras en que podrías aplicar lo que aprendiste en esta capacitación para manejar tu propia situación? "
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #7_entry"
+            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
         }
     ]
 }

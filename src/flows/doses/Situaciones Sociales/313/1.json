@@ -1,14 +1,14 @@
 {
-    "name": "Recogiendo a un viejo amigo328",
-    "title": "Recogiendo a un viejo amigo",
+    "header_text": "Esta reunión",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Recogiendo a un viejo amigo"
+            "text": "Esta reunión"
         },
         {
             "type": "Media",
-            "file": "/images/Recogiendo_a_un_viejo_amigo.jpg"
+            "file": "/images/Esta_reunión.jpg"
         }
     ]
 }

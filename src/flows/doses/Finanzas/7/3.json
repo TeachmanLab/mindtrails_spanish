@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Ir a la quiebra",
+    "header_title": "Solicitar una subvención",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te arruinarás una vez que regreses a la escuela?"
+            "Text": "¿Eres capaz de hacer esta investigación?"
         },
         {
             "type": "Buttons",
-            "name": "Ir a la quiebra_Finanzas_comp_question",
+            "name": "Solicitar una subvención_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,

@@ -1,14 +1,14 @@
 {
-    "name": "Sentado en una reunión147",
-    "title": "Sentado en una reunión",
+    "header_text": "Revisando tu trabajo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sentado en una reunión"
+            "text": "Revisando tu trabajo"
         },
         {
             "type": "Media",
-            "file": "/images/Sentado_en_una_reunión.jpg"
+            "file": "/images/Revisando_tu_trabajo.jpg"
         }
     ]
 }

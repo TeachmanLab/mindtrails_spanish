@@ -1,14 +1,14 @@
 {
-    "name": "Boca seca365",
-    "title": "Boca seca",
+    "header_text": "Poniéndose al día con los amigos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Boca seca"
+            "text": "Poniéndose al día con los amigos"
         },
         {
             "type": "Media",
-            "file": "/images/Boca_seca.jpg"
+            "file": "/images/Poniéndose_al_día_con_los_amigos.jpg"
         }
     ]
 }

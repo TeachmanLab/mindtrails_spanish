@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Enviar mensajes de texto a otras personas",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Encontrandote con alguien",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿A tu pareja le gusta pasar tiempo contigo?"
+            "text": "Al pensar en ir a tu cita, no crees que vayas a dar una mala impresión, y crees que tu cita te encontrará..."
         },
         {
-            "type": "Buttons",
-            "name": "Enviar mensajes de texto a otras personas_Relaciones Románticas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Encontrandote con alguien_Relaciones Románticas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "interesante"
             ],
-            "columnCount": 1,
-            "answer": "Sí"
+            "missing_letter_count": 2
         }
     ]
 }

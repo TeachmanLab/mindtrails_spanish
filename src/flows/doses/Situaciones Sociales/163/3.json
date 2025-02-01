@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Prestando de un amigo",
-    "show_buttons": "WhenCorrect",
+    "header_text": "en un barco",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu amigo pensará que tomaste su cargador a propósito?"
+            "text": "La sensación en tus piernas probablemente....."
         },
         {
-            "type": "Buttons",
-            "name": "Prestando de un amigo_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "en un barco_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "es"
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 2
         }
     ]
 }

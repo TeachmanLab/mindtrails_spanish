@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Gestión de facturas",
+    "header_title": "Inicio Presentaciones",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Piensas que tus finanzas estarán..."
+            "Text": "¿Tus amigos juzgarán tu casa?"
         },
         {
             "type": "Buttons",
-            "name": "Gestión de facturas_Finanzas_comp_question",
+            "name": "Inicio Presentaciones_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "manejable",
-                "fuera de control"
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "answer": "manejable"
+            "answer": "No"
         }
     ]
 }

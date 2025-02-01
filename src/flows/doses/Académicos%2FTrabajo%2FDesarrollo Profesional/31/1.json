@@ -1,14 +1,14 @@
 {
-    "name": "Tartamudeo en la oficina27",
-    "title": "Tartamudeo en la oficina",
+    "header_text": "Presentación estresante",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tartamudeo en la oficina"
+            "text": "Presentación estresante"
         },
         {
             "type": "Media",
-            "file": "/images/Tartamudeo_en_la_oficina.jpg"
+            "file": "/images/Presentación_estresante.jpg"
         }
     ]
 }

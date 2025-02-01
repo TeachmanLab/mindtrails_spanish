@@ -1,14 +1,14 @@
 {
-    "name": "Solicitar una subvención354",
-    "title": "Solicitar una subvención",
+    "header_text": "Una presentación importante",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Solicitar una subvención"
+            "text": "Una presentación importante"
         },
         {
             "type": "Media",
-            "file": "/images/Solicitar_una_subvención.jpg"
+            "file": "/images/Una_presentación_importante.jpg"
         }
     ]
 }

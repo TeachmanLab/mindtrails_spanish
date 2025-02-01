@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Probando comidas nuevas",
+    "header_title": "Un momento de olvido",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Respondes a la comida picante..."
+            "Text": "¿Los pensamientos preocupantes le impidieron continuar con tu día?"
         },
         {
             "type": "Buttons",
-            "name": "Probando comidas nuevas_Salud Mental_comp_question",
+            "name": "Un momento de olvido_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Tolerando tu corazón acelerado y enfocandote en la conversación.",
-                "Continuando a preocuparte que tienes un problema médico."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "answer": "Tolerando tu corazón acelerado y enfocandote en la conversación."
+            "answer": "No"
         }
     ]
 }

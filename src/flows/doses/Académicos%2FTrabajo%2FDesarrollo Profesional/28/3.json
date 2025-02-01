@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Obtener una oportunidad",
+    "header_title": "Apoyándose en sus compañeros",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Tus calificaciones..."
+            "Text": "¿Tus compañeros te juzgarán por obtener resultados de evaluación más negativos que ellos?"
         },
         {
             "type": "Buttons",
-            "name": "Obtener una oportunidad_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Apoyándose en sus compañeros_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Te ponen en una buena posición para conseguir una entrevista.",
-                "Probablemente no sean lo suficientemente fuertes como para hacerte destacar."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "answer": "Te ponen en una buena posición para conseguir una entrevista."
+            "answer": "No"
         }
     ]
 }

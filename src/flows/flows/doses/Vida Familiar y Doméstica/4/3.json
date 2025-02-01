@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Decisiones de viaje",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "¿Estás contento con tu decisión sobre dónde ir de vacaciones?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Decisiones de viaje_Vida Familiar y Doméstica_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "columnCount": 1,
+            "answer": "Si"
+        }
+    ]
+}

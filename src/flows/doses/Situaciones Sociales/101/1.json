@@ -1,14 +1,12 @@
 {
-    "name": "Miedo a perderse algo90",
-    "title": "Miedo a perderse algo",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
-            "type": "Label",
-            "text": "Miedo a perderse algo"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Miedo_a_perderse_algo.jpg"
+            "type": "Text",
+            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
         }
     ]
 }

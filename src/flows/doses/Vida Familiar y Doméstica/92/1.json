@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Vida Familiar y Doméstica",
-    "name": "Consejo para la regulación de las emociones",
+    "header_text": "Presentando a tus amigos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "A menudo, establecer límites mejora las relaciones."
+            "type": "Label",
+            "text": "Presentando a tus amigos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Presentando_a_tus_amigos.jpg"
         }
     ]
 }

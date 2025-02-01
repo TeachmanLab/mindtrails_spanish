@@ -1,14 +1,14 @@
 {
-    "name": "Usando tecnología diferente53",
-    "title": "Usando tecnología diferente",
+    "header_text": "Temprano en la mañana",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Usando tecnología diferente"
+            "text": "Temprano en la mañana"
         },
         {
             "type": "Media",
-            "file": "/images/Usando_tecnología_diferente.jpg"
+            "file": "/images/Temprano_en_la_mañana.jpg"
         }
     ]
 }

@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Tensión familiar",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Después de pensarlo, decides que el tema del desacuerdo sigue siendo importante para ti. Optas por evitar al miembro de la familia para evitar encontrarte en una situación..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Tensión familiar_Vida Familiar y Doméstica_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "incómoda"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

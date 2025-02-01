@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Cambio de planes",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "¿Tus compañeros de trabajo estarán decepcionados debido a tu nuevo trabajo?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Cambio de planes_Salud Mental_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "columnCount": 1,
+            "answer": "No"
+        }
+    ]
+}

@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Preocupándote por gastar",
+    "header_title": "Gestión de crédito",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás cómodo no ir a esta cena?"
+            "Text": "Obtener una nueva tarjeta de crédito probablemente"
         },
         {
             "type": "Buttons",
-            "name": "Preocupándote por gastar_Finanzas_comp_question",
+            "name": "Gestión de crédito_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "no cambiaría mucho la forma cuidadosa en que gastas",
+                "lo perjudicaría financieramente al endeudarse"
             ],
             "columnCount": 1,
-            "answer": "Si"
+            "answer": "no cambiaría mucho la forma cuidadosa en que gastas"
         }
     ]
 }

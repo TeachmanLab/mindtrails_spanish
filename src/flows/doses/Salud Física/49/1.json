@@ -1,14 +1,14 @@
 {
-    "name": "Controles en el dentista.43",
-    "title": "Controles en el dentista.",
+    "header_text": "Revisión física anual",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Controles en el dentista."
+            "text": "Revisión física anual"
         },
         {
             "type": "Media",
-            "file": "/images/Controles_en_el_dentista..jpg"
+            "file": "/images/Revisión_física_anual.jpg"
         }
     ]
 }

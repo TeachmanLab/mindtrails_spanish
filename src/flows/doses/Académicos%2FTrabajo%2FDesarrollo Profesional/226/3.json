@@ -1,6 +1,6 @@
 {
-    "name": "Question",
-    "title": "Esperando grandes noticias",
+    "header_title": "Esperando grandes noticias",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {

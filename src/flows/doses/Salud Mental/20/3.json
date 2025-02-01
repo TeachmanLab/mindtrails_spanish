@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Siendo padre",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Pensamientos intrusivos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando piensas en tu hija creciendo, piensas que..."
+            "text": "Después de un tiempo, te das cuenta de que son solo pensamientos y que no significan nada acerca de ti como persona. Piensas que no estás volviéndote loco y que eres una buena..."
         },
         {
-            "type": "Buttons",
-            "name": "Siendo padre_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Pensamientos intrusivos_Salud Mental_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "La apoyarás.",
-                "Perderás tu paciencia con ella frequentamente."
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "persona"
             ],
-            "columnCount": 1,
-            "answer": "La apoyarás."
+            "missing_letter_count": 1
         }
     ]
 }

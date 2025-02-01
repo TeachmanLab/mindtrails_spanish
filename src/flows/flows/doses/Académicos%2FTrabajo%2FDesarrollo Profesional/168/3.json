@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Revisando tu trabajo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mientras te preparas para la revisión, no crees que tu jefe olvide tu buen trabajo y crees que su reunión probablemente se centrará en tus..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Revisando tu trabajo_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "logros"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Ayudando un vecino mayor",
+    "header_title": "Presentación de recaudación de fondos",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando llegas a casa, te das cuenta de que tu vecino probablemente estaba teniendo un mal día y que fue apropiado ofrecer tu ayuda. Tu vecino probablemente piensa que eres..."
+            "Text": "Los compañeros de trabajo probablemente están pensando..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Ayudando un vecino mayor_Situaciones Sociales_puzzle_word2",
+            "type": "Buttons",
+            "name": "Presentación de recaudación de fondos_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "amable"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Que quieren ayudarte con la recaudación de fondos.",
+                "Que no quieren ayudarte con la recaudación de fondos."
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "Que quieren ayudarte con la recaudación de fondos."
         }
     ]
 }

@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Mantenerse al día con los amigos",
+    "header_title": "Cambiar tus planes",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Probablemente, tu amigo..."
+            "Text": "¿Estás contento con tu decisión de cambiar de departamento?"
         },
         {
             "type": "Buttons",
-            "name": "Mantenerse al día con los amigos_Situaciones Sociales_comp_question",
+            "name": "Cambiar tus planes_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Comprende que a veces las cosas se ponen muy ocupadas.",
-                "Esta molesto contigo por no permanecer en contacto."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "answer": "Comprende que a veces las cosas se ponen muy ocupadas."
+            "answer": "Sí"
         }
     ]
 }

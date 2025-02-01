@@ -1,14 +1,14 @@
 {
-    "name": "Recuerdo conduciendo15",
-    "title": "Recuerdo conduciendo",
+    "header_text": "Siendo padre",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Recuerdo conduciendo"
+            "text": "Siendo padre"
         },
         {
             "type": "Media",
-            "file": "/images/Recuerdo_conduciendo.jpg"
+            "file": "/images/Siendo_padre.jpg"
         }
     ]
 }

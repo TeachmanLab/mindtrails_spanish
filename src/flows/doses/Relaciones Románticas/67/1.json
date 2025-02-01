@@ -1,14 +1,11 @@
 {
-    "name": "Prepararse para una cita59",
-    "title": "Prepararse para una cita",
+    "header_text": "Recurso: Relaciones Románticas",
+    "header_icon": "assets/subtitle.png",
+    "name": "Love is Respect (El Amor es Respeto)",
     "elements": [
         {
-            "type": "Label",
-            "text": "Prepararse para una cita"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Prepararse_para_una_cita.jpg"
+            "type": "Text",
+            "text": "Love is Respect (El Amor es Respeto)\n\nLove is Respect incluye mucha información apropiada para edades diversas acerca del consentimiento y relaciones sanas. También ofrece una línea de ayuda.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

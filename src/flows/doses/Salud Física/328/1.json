@@ -1,14 +1,14 @@
 {
-    "name": "Un golpe accidental366",
-    "title": "Un golpe accidental",
+    "header_text": "Boca seca",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un golpe accidental"
+            "text": "Boca seca"
         },
         {
             "type": "Media",
-            "file": "/images/Un_golpe_accidental.jpg"
+            "file": "/images/Boca_seca.jpg"
         }
     ]
 }

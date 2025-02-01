@@ -1,14 +1,14 @@
 {
-    "name": "Tu mejor amigo380",
-    "title": "Tu mejor amigo",
+    "header_text": "Conexión perdida",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tu mejor amigo"
+            "text": "Conexión perdida"
         },
         {
             "type": "Media",
-            "file": "/images/Tu_mejor_amigo.jpg"
+            "file": "/images/Conexión_perdida.jpg"
         }
     ]
 }

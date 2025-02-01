@@ -1,14 +1,14 @@
 {
-    "name": "Un momento de olvido24",
-    "title": "Un momento de olvido",
+    "header_text": "Clima lluvioso",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un momento de olvido"
+            "text": "Clima lluvioso"
         },
         {
             "type": "Media",
-            "file": "/images/Un_momento_de_olvido.jpg"
+            "file": "/images/Clima_lluvioso.jpg"
         }
     ]
 }

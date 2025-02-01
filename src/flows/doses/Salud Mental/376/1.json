@@ -1,14 +1,11 @@
 {
-    "name": "Tu nueva publicación408",
-    "title": "Tu nueva publicación",
+    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Tu nueva publicación"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Tu_nueva_publicación.jpg"
+            "type": "Text",
+            "text": "Todos los sentimientos pasan. Cuando sienta que un sentimiento negativo (como la tristeza o el miedo) nunca terminará, recuérdese suavemente que este sentimiento eventualmente pasará."
         }
     ]
 }

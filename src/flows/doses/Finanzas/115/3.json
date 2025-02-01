@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Costos inesperados",
+    "header_title": "Estabilidad laboral",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Considerando la posibilidad de comprar, decides elaborar un presupuesto para comprar una casa y piensas que manejar la incertidumbre de tus estimaciones será..."
+            "Text": "¿Puedes controlar si mantienes tu trabajo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Costos inesperados_Finanzas_puzzle_word2",
+            "type": "Buttons",
+            "name": "Estabilidad laboral_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "factible"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "No"
         }
     ]
 }

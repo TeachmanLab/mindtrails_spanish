@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Saliendo de noche",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "¿Crees que te ves bien?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Saliendo de noche_Salud Mental_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "columnCount": 1,
+            "answer": "Si"
+        }
+    ]
+}

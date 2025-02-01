@@ -1,14 +1,14 @@
 {
-    "name": "Un pastel de cumpleaños54",
-    "title": "Un pastel de cumpleaños",
+    "header_text": "Recuperando el aliento",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un pastel de cumpleaños"
+            "text": "Recuperando el aliento"
         },
         {
             "type": "Media",
-            "file": "/images/Un_pastel_de_cumpleaños.jpg"
+            "file": "/images/Recuperando_el_aliento.jpg"
         }
     ]
 }

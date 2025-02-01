@@ -1,14 +1,14 @@
 {
-    "name": "Decisiones de viaje85",
-    "title": "Decisiones de viaje",
+    "header_text": "Calentador",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Decisiones de viaje"
+            "text": "Calentador"
         },
         {
             "type": "Media",
-            "file": "/images/Decisiones_de_viaje.jpg"
+            "file": "/images/Calentador.jpg"
         }
     ]
 }

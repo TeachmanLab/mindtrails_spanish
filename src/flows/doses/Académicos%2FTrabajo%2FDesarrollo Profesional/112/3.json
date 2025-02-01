@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Tomar un descanso",
+    "header_title": "Tomando notas",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Deberías hacer tu trabajo ahora mismo?"
+            "Text": "¿Tus compañeros de trabajo te juzgan negativamente mientras compartes tu idea?"
         },
         {
             "type": "Buttons",
-            "name": "Tomar un descanso_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Tomando notas_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,

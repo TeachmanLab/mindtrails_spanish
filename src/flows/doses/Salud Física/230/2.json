@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "El malestar de estómago",
+    "header_text": "Dolor de cabeza en la oficina médica",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te has estado sintiendo mal del estómago durante unos días. Tú haces una cita con su médico. Las náuseas probablemente significan que usted está..."
+            "text": "Estás en el doctor y te preguntan si tienes algún síntoma de COVID. Mencionan los dolores de cabeza como un posible síntoma, algo que has estado sintiendo pero no reconociste como un problema, y eso te asusta porque recuerdas lo enfermos que se pusieron tus amigos con COVID. Recuerdas que puedes enfocarte en tu salud y descansar hasta que te sientas..."
         },
         {
             "type": "WordPuzzle",
-            "name": "El malestar de estómago_Salud Física_puzzle1",
+            "name": "Dolor de cabeza en la oficina médica_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "enfermo"
+                "mejor"
             ],
             "missing_letter_count": 1
         }

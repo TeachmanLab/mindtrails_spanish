@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Estando soltero",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Planes de vacaciones",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te molesta estar soltero?"
+            "text": "Cuando piensas en decirles a tus padres que te gustaría pasar los días festivos con tu pareja, no esperas que se molesten y crees que se tomarán bien la... "
         },
         {
-            "type": "Buttons",
-            "name": "Estando soltero_Relaciones Románticas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Planes de vacaciones_Relaciones Románticas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "noticia"
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 1
         }
     ]
 }

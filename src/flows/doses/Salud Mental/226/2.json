@@ -1,6 +1,6 @@
 {
-    "name": "Puzzle",
-    "title": "Correo electrónico perspicaz",
+    "header_text": "Correo electrónico perspicaz",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

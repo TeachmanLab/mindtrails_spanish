@@ -1,10 +1,11 @@
 {
-    "title": "¡Escribe El Tuyo!",
+    "header_text": "Maneja tus sentimientos: Finanzas",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
+            "text": "Dedica unos momentos a centrarte en las cosas que te sientes afortunado de tener."
         }
-    ],
-    "name": "Write Your Own"
+    ]
 }

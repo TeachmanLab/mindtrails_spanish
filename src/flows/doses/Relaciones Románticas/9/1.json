@@ -1,14 +1,14 @@
 {
-    "name": "Cita con alguien nuevo7",
-    "title": "Cita con alguien nuevo",
+    "header_text": "Casarse con tu pareja",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cita con alguien nuevo"
+            "text": "Casarse con tu pareja"
         },
         {
             "type": "Media",
-            "file": "/images/Cita_con_alguien_nuevo.jpg"
+            "file": "/images/Casarse_con_tu_pareja.jpg"
         }
     ]
 }

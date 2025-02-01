@@ -1,14 +1,14 @@
 {
-    "name": "Manejando el estrés364",
-    "title": "Manejando el estrés",
+    "header_text": "Un golpe accidental",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Manejando el estrés"
+            "text": "Un golpe accidental"
         },
         {
             "type": "Media",
-            "file": "/images/Manejando_el_estrés.jpg"
+            "file": "/images/Un_golpe_accidental.jpg"
         }
     ]
 }

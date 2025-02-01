@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Situaciones Sociales",
-    "name": "Consejo para la regulación de las emociones",
+    "header_text": "Evaluación importante",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Si tienes dificultades para iniciar una conversación con alguien, piensa en un cumplido o una palabra amable para compartir con esa persona. "
+            "type": "Label",
+            "text": "Evaluación importante"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Evaluación_importante.jpg"
         }
     ]
 }

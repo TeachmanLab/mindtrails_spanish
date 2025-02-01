@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Obtener una oportunidad",
+    "header_title": "Mal rumor",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Con sus calificaciones, no cree que rechacen su solicitud y espera obtener una..."
+            "Text": "Crees que tu supervisor podría ser ..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Obtener una oportunidad_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
+            "type": "Buttons",
+            "name": "Mal rumor_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "entrevista"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Planeando despedir a alguien más.",
+                "Planeando despedirte."
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "Planeando despedir a alguien más."
         }
     ]
 }

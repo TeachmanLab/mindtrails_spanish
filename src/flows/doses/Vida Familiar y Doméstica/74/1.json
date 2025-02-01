@@ -1,14 +1,14 @@
 {
-    "name": "Ir a terapia65",
-    "title": "Ir a terapia",
+    "header_text": "Reconciliándote con tu amigo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ir a terapia"
+            "text": "Reconciliándote con tu amigo"
         },
         {
             "type": "Media",
-            "file": "/images/Ir_a_terapia.jpg"
+            "file": "/images/Reconciliándote_con_tu_amigo.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Opinión importante65",
-    "title": "Opinión importante",
+    "header_text": "Corrección rápida",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Opinión importante"
+            "text": "Corrección rápida"
         },
         {
             "type": "Media",
-            "file": "/images/Opinión_importante.jpg"
+            "file": "/images/Corrección_rápida.jpg"
         }
     ]
 }

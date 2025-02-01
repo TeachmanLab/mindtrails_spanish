@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Tensión familiar",
+    "header_text": "El torneo de fútbol",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y un miembro de la familia tuvieron una conversación tensa hace unos meses. No han hablado desde esa interacción, pero se acerca un evento festivo al que ambos asistirán. Te preguntas si te enfrentarán..."
+            "text": "Después de no jugar por un tiempo, te uníste a un equipo de futbol recreativo. Hay un torneo al final de la... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Tensión familiar_Situaciones Sociales_puzzle1",
+            "name": "El torneo de fútbol_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "nuevamente"
+                "temporada"
             ],
             "missing_letter_count": 1
         }

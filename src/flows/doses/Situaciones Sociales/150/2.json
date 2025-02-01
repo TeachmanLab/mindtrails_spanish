@@ -1,22 +1,14 @@
 {
-    "name": "Puzzle",
-    "title": "Una perspectiva diferente",
+    "header_text": "Permitiendo que otros vean tu trabajo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Estás cenando con unos amigos. Durante la comida, un amigo dice algo con lo que realmente no estás de acuerdo. Cuando expresas tu opinión, tus amigos se callan porque están..."
+            "type": "Label",
+            "text": "Permitiendo que otros vean tu trabajo"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Una perspectiva diferente_Situaciones Sociales_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "impresionados"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "file": "/images/Permitiendo_que_otros_vean_tu_trabajo.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Presentación estresante188",
-    "title": "Presentación estresante",
+    "header_text": "Mostrar tu experiencia",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Presentación estresante"
+            "text": "Mostrar tu experiencia"
         },
         {
             "type": "Media",
-            "file": "/images/Presentación_estresante.jpg"
+            "file": "/images/Mostrar_tu_experiencia.jpg"
         }
     ]
 }

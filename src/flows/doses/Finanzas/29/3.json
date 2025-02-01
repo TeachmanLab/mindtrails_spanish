@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Ahorrar dinero",
+    "header_title": "Costear los gastos",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Eres duro contigo mismo porque no compras el almuerzo como tus amigos?"
+            "Text": "En el próximo mes, te ves..."
         },
         {
             "type": "Buttons",
-            "name": "Ahorrar dinero_Finanzas_comp_question",
+            "name": "Costear los gastos_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Atrasado en el pago de tu alquiler.",
+                "Pagando tu factura de alquiler en su totalidad."
             ],
             "columnCount": 1,
-            "answer": "No"
+            "answer": "Atrasado en el pago de tu alquiler."
         }
     ]
 }

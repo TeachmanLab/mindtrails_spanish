@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Nuevo ambiente",
+    "header_title": "Reconciliándote con tu amigo",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas un poco más en el paseo de acampar, y te das cuenta de que disfrutarás tanto de la experiencia que el miedo se disipará. Te sientes más..."
+            "Text": "¿Tu amigo canceló la reunion porque están..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Nuevo ambiente_Situaciones Sociales_puzzle_word2",
+            "type": "Buttons",
+            "name": "Reconciliándote con tu amigo_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "tranquilo"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Cansados de una semana ocupada.",
+                "Enojados con tí."
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "answer": "Cansados de una semana ocupada."
         }
     ]
 }

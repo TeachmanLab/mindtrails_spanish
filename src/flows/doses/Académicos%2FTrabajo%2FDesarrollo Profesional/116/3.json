@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Preparándote para la evaluación",
+    "header_title": "Vecinos ruidosos",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Probablemente recibirás una buena evaluación?"
+            "Text": "¿Estás listo para tu presentación?"
         },
         {
             "type": "Buttons",
-            "name": "Preparándote para la evaluación_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Vecinos ruidosos_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "Si"
+            "answer": "Sí"
         }
     ]
 }

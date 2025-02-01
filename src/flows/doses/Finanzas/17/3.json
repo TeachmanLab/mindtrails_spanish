@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Gestión de crédito",
+    "header_title": "Costear los gastos",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Obtener una nueva tarjeta de crédito probablemente"
+            "Text": "Asumir los turnos adicionales..."
         },
         {
             "type": "Buttons",
-            "name": "Gestión de crédito_Finanzas_comp_question",
+            "name": "Costear los gastos_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "no cambiaría mucho la forma cuidadosa en que gastas",
-                "lo perjudicaría financieramente al endeudarse"
+                "Significará que ahorrarás lo suficiente para pagar el alquiler.",
+                "Aún te dejará corto y te retrasarás en el pago del alquiler."
             ],
             "columnCount": 1,
-            "answer": "no cambiaría mucho la forma cuidadosa en que gastas"
+            "answer": "Significará que ahorrarás lo suficiente para pagar el alquiler."
         }
     ]
 }

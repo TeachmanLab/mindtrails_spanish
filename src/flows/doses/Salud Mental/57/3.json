@@ -1,6 +1,6 @@
 {
-    "name": "Question",
-    "title": "Puerta con seguro",
+    "header_title": "Puerta con seguro",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {

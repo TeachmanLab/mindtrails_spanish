@@ -1,14 +1,14 @@
 {
-    "name": "Gente fiestera375",
-    "title": "Gente fiestera",
+    "header_text": "Presentación importante",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Gente fiestera"
+            "text": "Presentación importante"
         },
         {
             "type": "Media",
-            "file": "/images/Gente_fiestera.jpg"
+            "file": "/images/Presentación_importante.jpg"
         }
     ]
 }

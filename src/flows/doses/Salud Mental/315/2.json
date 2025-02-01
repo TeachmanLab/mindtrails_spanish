@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Invitar gente",
+    "header_text": "Resultados de la evaluación",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Notas que tu casa es más pequeña y no tan espaciosa como las casas de otras personas que conoces. Tus compañeros de trabajo nunca han estado en tu casa, pero quieren venir. Crees que su reacción hacia tu hogar será..."
+            "text": "El tiempo para las evaluaciones del trabajo acaba de cerrar y no estás seguro de si saliste bien o no. Te sientes nervioso al pensar en cómo te calificaron otras personas. Piensas que estar nervioso es..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Invitar gente_Salud Mental_puzzle1",
+            "name": "Resultados de la evaluación_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "respetuosa"
+                "manejable"
             ],
             "missing_letter_count": 1
         }

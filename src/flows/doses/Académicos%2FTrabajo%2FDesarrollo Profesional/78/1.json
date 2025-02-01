@@ -1,14 +1,15 @@
 {
-    "name": "Opiniones de otros69",
-    "title": "Opiniones de otros",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_icon": "assets/subtitle.png",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
-            "type": "Label",
-            "text": "Opiniones de otros"
+            "type": "Text",
+            "text": "¿Hay alguna situación que antes te daba miedo o te provocaba ansiedad, pero en la que ahora te sientes cómodo? ¿Qué te decías a ti mismo en esa situación? ¿Qué piensas ahora?"
         },
         {
-            "type": "Media",
-            "file": "/images/Opiniones_de_otros.jpg"
+            "type": "Entry",
+            "name": "Consejo #3_entry"
         }
     ]
 }

@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Pensamientos acelerados",
+    "header_text": "Compartir con alguien nuevo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás planeando un evento del cual estás extremadamente emocionado. Mientras piensas en lo que necesitas hacer para que el evento sea un éxito, tus pensamientos parecen acelerarse. Esto es..."
+            "text": "Estás hablando con un compañero de trabajo sobre una presentación en la que estás trabajando y parece que están muy interesados. Ellos preguntan si pueden mirarlo, y  tú estás de acuerdo. Antes de enciarles las diapositivas, lo miras y te sientes... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Pensamientos acelerados_Salud Mental_puzzle1",
+            "name": "Compartir con alguien nuevo_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "útil"
+                "bien"
             ],
             "missing_letter_count": 2
         }

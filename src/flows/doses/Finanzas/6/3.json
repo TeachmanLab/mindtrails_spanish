@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Planes divertidos",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Sintiéndote preocupado por las noticias",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus amigos se molestarán porque no puedes salir a cenar?"
+            "text": "Notas que tu pareja no parece molesto al escuchar las noticias. Piensas que todo estará..."
         },
         {
-            "type": "Buttons",
-            "name": "Planes divertidos_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Sintiéndote preocupado por las noticias_Finanzas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "bien"
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 1
         }
     ]
 }

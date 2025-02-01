@@ -1,14 +1,14 @@
 {
-    "name": "Larga caminata afuera252",
-    "title": "Larga caminata afuera",
+    "header_text": "Presentación de tu trabajo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Larga caminata afuera"
+            "text": "Presentación de tu trabajo"
         },
         {
             "type": "Media",
-            "file": "/images/Larga_caminata_afuera.jpg"
+            "file": "/images/Presentación_de_tu_trabajo.jpg"
         }
     ]
 }

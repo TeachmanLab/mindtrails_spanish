@@ -1,14 +1,14 @@
 {
-    "name": "Noticias decepcionantes54",
-    "title": "Noticias decepcionantes",
+    "header_text": "Puntos de vista hacia la terapia",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Noticias decepcionantes"
+            "text": "Puntos de vista hacia la terapia"
         },
         {
             "type": "Media",
-            "file": "/images/Noticias_decepcionantes.jpg"
+            "file": "/images/Puntos_de_vista_hacia_la_terapia.jpg"
         }
     ]
 }

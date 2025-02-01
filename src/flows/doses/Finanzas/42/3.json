@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Planificación de pagos",
+    "header_title": "Limitaciones financieras",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Tu selección de plan de jubilación probablemente significa que..."
+            "Text": "¿Todavía podrás disfrutar de una noche fuera?"
         },
         {
             "type": "Buttons",
-            "name": "Planificación de pagos_Finanzas_comp_question",
+            "name": "Limitaciones financieras_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Tendrás que preocuparte por el dinero más adelante en la vida.",
-                "Tendras un futuro financiero cómodo."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "answer": "Tendrás que preocuparte por el dinero más adelante en la vida."
+            "answer": "Si"
         }
     ]
 }

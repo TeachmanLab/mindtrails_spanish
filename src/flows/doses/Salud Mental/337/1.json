@@ -1,14 +1,14 @@
 {
-    "name": "Fiesta con amigos373",
-    "title": "Fiesta con amigos",
+    "header_text": "Un comentario grosero",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Fiesta con amigos"
+            "text": "Un comentario grosero"
         },
         {
             "type": "Media",
-            "file": "/images/Fiesta_con_amigos.jpg"
+            "file": "/images/Un_comentario_grosero.jpg"
         }
     ]
 }

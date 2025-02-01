@@ -1,14 +1,14 @@
 {
-    "name": "Pasando tiempo con familia126",
-    "title": "Pasando tiempo con familia",
+    "header_text": "Expectativas",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pasando tiempo con familia"
+            "text": "Expectativas"
         },
         {
             "type": "Media",
-            "file": "/images/Pasando_tiempo_con_familia.jpg"
+            "file": "/images/Expectativas.jpg"
         }
     ]
 }

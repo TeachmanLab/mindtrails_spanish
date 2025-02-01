@@ -1,14 +1,14 @@
 {
-    "name": "Dejado sin respuesta285",
-    "title": "Dejado sin respuesta",
+    "header_text": "Inicio Presentaciones",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dejado sin respuesta"
+            "text": "Inicio Presentaciones"
         },
         {
             "type": "Media",
-            "file": "/images/Dejado_sin_respuesta.jpg"
+            "file": "/images/Inicio_Presentaciones.jpg"
         }
     ]
 }

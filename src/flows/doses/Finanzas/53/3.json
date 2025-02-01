@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Decidiendo algo",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Planificación de pagos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás ansioso por tu decisión?"
+            "text": "No te ves cometiendo un gran error y piensas que el plan que elijas te dejará en una posición financiera..."
         },
         {
-            "type": "Buttons",
-            "name": "Decidiendo algo_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Planificación de pagos_Finanzas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "sólida"
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 2
         }
     ]
 }

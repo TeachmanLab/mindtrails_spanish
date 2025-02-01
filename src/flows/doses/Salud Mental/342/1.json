@@ -1,14 +1,11 @@
 {
-    "name": "Tiempo para ti mismo378",
-    "title": "Tiempo para ti mismo",
+    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Tiempo para ti mismo"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Tiempo_para_ti_mismo.jpg"
+            "type": "Text",
+            "text": "Intenta identificar los TEB en tu situación: ¿qué PENSAMIENTOS tienes? ¿Qué EMOCIONES estás sintiendo? ¿Qué COMPORTAMIENTOS estás realizando? Después de eso, piensa si puedes cambiar tus pensamientos o tu comportamiento para sentirte mejor."
         }
     ]
 }

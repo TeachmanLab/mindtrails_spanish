@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Ver a otros salir",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás triste porque no te invitaron a pasar el rato con tus colegas. Tu respuesta a esta situación es..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Ver a otros salir_Situaciones Sociales_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "normal"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

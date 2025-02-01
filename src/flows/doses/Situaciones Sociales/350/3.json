@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Nuevo atuendo",
+    "header_title": "El escaparate de danza",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿A todos en la fiesta les gustó tu ropa nueva?"
+            "Text": "Si invitas a tus amigos y familiares, probablemente pensarán que..."
         },
         {
             "type": "Buttons",
-            "name": "Nuevo atuendo_Situaciones Sociales_comp_question",
+            "name": "El escaparate de danza_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Parecías muy tonto y esperan que no los vuelvan a invitar.",
+                "Hiciste un buen trabajo y esperan que los invites a futuras presentaciones."
             ],
             "columnCount": 1,
-            "answer": "Si"
+            "answer": "Parecías muy tonto y esperan que no los vuelvan a invitar."
         }
     ]
 }

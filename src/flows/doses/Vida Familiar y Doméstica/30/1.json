@@ -1,14 +1,14 @@
 {
-    "name": "Nueva oportunidad26",
-    "title": "Nueva oportunidad",
+    "header_text": "Conversación durante la cena",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nueva oportunidad"
+            "text": "Conversación durante la cena"
         },
         {
             "type": "Media",
-            "file": "/images/Nueva_oportunidad.jpg"
+            "file": "/images/Conversación_durante_la_cena.jpg"
         }
     ]
 }

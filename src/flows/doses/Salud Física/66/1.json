@@ -1,14 +1,14 @@
 {
-    "name": "Clima frío58",
-    "title": "Clima frío",
+    "header_text": "El dolor de muelas",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Clima frío"
+            "text": "El dolor de muelas"
         },
         {
             "type": "Media",
-            "file": "/images/Clima_frío.jpg"
+            "file": "/images/El_dolor_de_muelas.jpg"
         }
     ]
 }

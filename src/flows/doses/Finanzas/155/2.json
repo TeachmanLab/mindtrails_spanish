@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Elegir entre oportunidades",
+    "header_text": "Mantener a la familia",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes la oportunidad de recibir formación especializada en un tema de tu interés. Sabe que esta capacitación será útil para su carrera, pero te preocupa cómo aprovechar esta oportunidad podría afectar tu trabajo actual. Cuando piensas en equilibrar tu trabajo y la formación, crees que será..."
+            "text": "Quieres que tu familia tenga buenas oportunidades educativas. Tú quieres que tus hijos puedan asistir a buenas universidades, pero comprendas que esto tiene un precio..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Elegir entre oportunidades_Finanzas_puzzle1",
+            "name": "Mantener a la familia_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "manejable"
+                "alto"
             ],
             "missing_letter_count": 2
         }

@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Límite de tarjeta de crédito",
+    "header_title": "Financiar buenos hábitos",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Maximizarás tu tarjeta de crédito?"
+            "Text": "¿Necesitas renunciar a tu nuevo hobby?"
         },
         {
             "type": "Buttons",
-            "name": "Límite de tarjeta de crédito_Finanzas_comp_question",
+            "name": "Financiar buenos hábitos_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,

@@ -1,14 +1,14 @@
 {
-    "name": "Practicando la presentación2",
-    "title": "Practicando la presentación",
+    "header_text": "Mantenerse al día con los amigos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Practicando la presentación"
+            "text": "Mantenerse al día con los amigos"
         },
         {
             "type": "Media",
-            "file": "/images/Practicando_la_presentación.jpg"
+            "file": "/images/Mantenerse_al_día_con_los_amigos.jpg"
         }
     ]
 }

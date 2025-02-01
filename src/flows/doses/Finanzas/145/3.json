@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Encontrando un compañero de cuarto",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Mantener a la familia",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu pareja se quedará devastado si no compran la casa que le gusta?"
+            "text": "Cuando piensas en tus hijos, no crees que perderán oportunidades educativas por falta de dinero y crees que apoyar su educación universitaria será..."
         },
         {
-            "type": "Buttons",
-            "name": "Encontrando un compañero de cuarto_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Mantener a la familia_Finanzas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "asequible"
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 2
         }
     ]
 }

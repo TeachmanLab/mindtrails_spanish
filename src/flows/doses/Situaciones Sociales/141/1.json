@@ -1,6 +1,6 @@
 {
-    "name": "Chistes de compras151",
-    "title": "Chistes de compras",
+    "header_text": "Chistes de compras",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",

@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Tu fiesta de cumpleaños",
+    "header_title": "Proyecto de grupo",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás emocionado de tener gente allí para celebrar tu cumpleaños?"
+            "Text": "Tus colegas probablemente..."
         },
         {
             "type": "Buttons",
-            "name": "Tu fiesta de cumpleaños_Situaciones Sociales_comp_question",
+            "name": "Proyecto de grupo_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Agradecidos de que hayas comunicado tus preocupaciones educadamente.",
+                "Molestos de que les estés diciendo qué hacer."
             ],
             "columnCount": 1,
-            "answer": "Sí"
+            "answer": "Agradecidos de que hayas comunicado tus preocupaciones educadamente."
         }
     ]
 }

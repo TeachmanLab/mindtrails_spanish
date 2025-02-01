@@ -1,14 +1,14 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "header_text": "Presentación importante",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Cuando te encuentras saltando al peor de los casos sin toda la información, ¿cualés son algunas cosas que podrías decirte a ti mismo? Piensas en algunas habilidades de las historias que has leído que podrían ser útiles para ti. "
+            "type": "Label",
+            "text": "Presentación importante"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #4_entry"
+            "type": "Media",
+            "file": "/images/Presentación_importante.jpg"
         }
     ]
 }

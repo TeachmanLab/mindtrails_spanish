@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Citas en línea",
+    "header_title": "Una respuesta tardía",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Pensando en tus posibilidades de encontrar a alguien en línea, no crees que tendrás un problema y crees que tus posibilidades de conocer a alguien pronto son... "
+            "Text": "¿Tu pareja está enojada contigo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Citas en línea_Relaciones Románticas_puzzle_word2",
+            "type": "Buttons",
+            "name": "Una respuesta tardía_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "altas"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "answer": "No"
         }
     ]
 }

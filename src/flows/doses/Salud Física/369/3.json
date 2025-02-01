@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Día caluroso",
+    "header_title": "Demasiada atención",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Esta sensación es sorprendente e incómoda, pero te das cuenta de que es algo que simplemente puedes..."
+            "Text": "¿Tus amigos y familiares notan lo ansioso que te sientes?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Día caluroso_Salud Física_puzzle_word2",
+            "type": "Buttons",
+            "name": "Demasiada atención_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "observar"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "answer": "No"
         }
     ]
 }

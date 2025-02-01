@@ -1,14 +1,14 @@
 {
-    "name": "El torneo de fútbol366",
-    "title": "El torneo de fútbol",
+    "header_text": "Apartamento nuevo para ti",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "El torneo de fútbol"
+            "text": "Apartamento nuevo para ti"
         },
         {
             "type": "Media",
-            "file": "/images/El_torneo_de_fútbol.jpg"
+            "file": "/images/Apartamento_nuevo_para_ti.jpg"
         }
     ]
 }

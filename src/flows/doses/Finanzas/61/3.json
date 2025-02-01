@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Ir a la quiebra",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Iniciando un negocio pequeño",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te arruinarás una vez que regreses a la escuela?"
+            "text": "Pensando en el futuro de tu negocio, tu empresa no fracasará y será un..."
         },
         {
-            "type": "Buttons",
-            "name": "Ir a la quiebra_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Iniciando un negocio pequeño_Finanzas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "éxito"
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 2
         }
     ]
 }

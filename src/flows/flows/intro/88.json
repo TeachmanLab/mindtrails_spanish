@@ -1,0 +1,21 @@
+{
+    "title": "Escala de tristeza",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Durante las últimas 2 semanas, ¿con qué frecuencia le han molestado alguno de los siguientes problemas?\n\nSentirse deprimido, deprimido o desesperado."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "De nada",
+                "Varios dias",
+                "Más de la mitad de los días",
+                "Casi todos los dias",
+                "^Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "OASIS_depressed"
+        }
+    ]
+}

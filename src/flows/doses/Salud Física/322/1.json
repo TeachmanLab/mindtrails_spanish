@@ -1,14 +1,14 @@
 {
-    "name": "Dando vueltas361",
-    "title": "Dando vueltas",
+    "header_text": "Larga caminata afuera",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dando vueltas"
+            "text": "Larga caminata afuera"
         },
         {
             "type": "Media",
-            "file": "/images/Dando_vueltas.jpg"
+            "file": "/images/Larga_caminata_afuera.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Cita con el doctor168",
-    "title": "Cita con el doctor",
+    "header_text": "Paracaidismo por primera vez",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cita con el doctor"
+            "text": "Paracaidismo por primera vez"
         },
         {
             "type": "Media",
-            "file": "/images/Cita_con_el_doctor.jpg"
+            "file": "/images/Paracaidismo_por_primera_vez.jpg"
         }
     ]
 }

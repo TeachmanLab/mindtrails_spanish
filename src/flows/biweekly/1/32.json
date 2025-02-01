@@ -1,5 +1,6 @@
 {
-    "title": "El ascensor",
+    "header_text": "El ascensor",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

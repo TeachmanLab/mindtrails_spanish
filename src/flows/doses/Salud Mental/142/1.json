@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Salud Mental",
-    "name": "Consejo para la regulación de las emociones",
+    "header_text": "Amigos en las relaciones",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "La tristeza es una respuesta natural cuando no podemos controlar una situación o hemos experimentado una pérdida. Si se siente triste, intente descubrir qué está causando ese sentimiento."
+            "type": "Label",
+            "text": "Amigos en las relaciones"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Amigos_en_las_relaciones.jpg"
         }
     ]
 }

@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Sintiéndote abandonado por un amigo cercano",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Ayudando un vecino mayor",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te molesta que tu amigo no te djio de esta persona?"
+            "text": "Cuando llegas a casa, te das cuenta de que tu vecino probablemente estaba teniendo un mal día y que fue apropiado ofrecer tu ayuda. Tu vecino probablemente piensa que eres..."
         },
         {
-            "type": "Buttons",
-            "name": "Sintiéndote abandonado por un amigo cercano_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Ayudando un vecino mayor_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "amable"
             ],
-            "columnCount": 1,
-            "answer": "Si"
+            "missing_letter_count": 1
         }
     ]
 }

@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Mal rumor",
+    "header_title": "No sentirte preparado",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Crees que tu supervisor podría ser ..."
+            "Text": "¿Tus compañeros están más prepaados que ti?"
         },
         {
             "type": "Buttons",
-            "name": "Mal rumor_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "No sentirte preparado_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Planeando despedir a alguien más.",
-                "Planeando despedirte."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "answer": "Planeando despedir a alguien más."
+            "answer": "Si"
         }
     ]
 }

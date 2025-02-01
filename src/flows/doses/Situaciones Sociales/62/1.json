@@ -1,14 +1,14 @@
 {
-    "name": "Confianza en las redes sociales54",
-    "title": "Confianza en las redes sociales",
+    "header_text": "Casa bilingüe",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Confianza en las redes sociales"
+            "text": "Casa bilingüe"
         },
         {
             "type": "Media",
-            "file": "/images/Confianza_en_las_redes_sociales.jpg"
+            "file": "/images/Casa_bilingüe.jpg"
         }
     ]
 }

@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Conducción segura",
+    "header_title": "Sentirse ansioso",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es probable que tengan un accidente?"
+            "Text": "¿Siempre sentirás ansiedad?"
         },
         {
             "type": "Buttons",
-            "name": "Conducción segura_Salud Mental_comp_question",
+            "name": "Sentirse ansioso_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,

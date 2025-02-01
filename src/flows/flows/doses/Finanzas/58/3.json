@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Costos inesperados",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Considerando la posibilidad de comprar, decides elaborar un presupuesto para comprar una casa y piensas que manejar la incertidumbre de tus estimaciones será..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Costos inesperados_Finanzas_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "factible"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

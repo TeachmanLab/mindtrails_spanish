@@ -1,10 +1,11 @@
 {
-    "title": "¡Escribe El Tuyo!",
+    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
+            "text": "Si se siente ansioso o nervioso, pregúntese: \"¿Qué me dice mi cerebro ansioso?\" Una vez que puedas identificar ese pensamiento, pregúntate: \"¿Es esto realista?\""
         }
-    ],
-    "name": "Write Your Own"
+    ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Fiesta de cumpleaños55",
-    "title": "Fiesta de cumpleaños",
+    "header_text": "Preocupaciones por el ritmo cardíaco",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Fiesta de cumpleaños"
+            "text": "Preocupaciones por el ritmo cardíaco"
         },
         {
             "type": "Media",
-            "file": "/images/Fiesta_de_cumpleaños.jpg"
+            "file": "/images/Preocupaciones_por_el_ritmo_cardíaco.jpg"
         }
     ]
 }

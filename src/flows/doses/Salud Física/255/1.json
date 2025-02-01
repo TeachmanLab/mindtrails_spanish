@@ -1,14 +1,14 @@
 {
-    "name": "Prueba de enfermedad276",
-    "title": "Prueba de enfermedad",
+    "header_text": "Dolor de estómago",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Prueba de enfermedad"
+            "text": "Dolor de estómago"
         },
         {
             "type": "Media",
-            "file": "/images/Prueba_de_enfermedad.jpg"
+            "file": "/images/Dolor_de_estómago.jpg"
         }
     ]
 }

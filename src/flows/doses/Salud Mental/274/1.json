@@ -1,14 +1,14 @@
 {
-    "name": "Revisando tus cualificaciones293",
-    "title": "Revisando tus cualificaciones",
+    "header_text": "Comprometerse con las actividades",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Revisando tus cualificaciones"
+            "text": "Comprometerse con las actividades"
         },
         {
             "type": "Media",
-            "file": "/images/Revisando_tus_cualificaciones.jpg"
+            "file": "/images/Comprometerse_con_las_actividades.jpg"
         }
     ]
 }

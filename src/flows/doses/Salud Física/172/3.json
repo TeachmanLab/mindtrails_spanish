@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Explorando una cueva estrecha",
+    "header_title": "Corriendo una maratón",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Mientras estés en la cueva, probablemente..."
+            "Text": "Crees que terminar un maratón será..."
         },
         {
             "type": "Buttons",
-            "name": "Explorando una cueva estrecha_Salud Física_comp_question",
+            "name": "Corriendo una maratón_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Aprenderás cosas interesantes.",
-                "No podrás encontrar la salida."
+                "Un objetivo a tu alcance.",
+                "Más allá de tus capacidades."
             ],
             "columnCount": 1,
-            "answer": "Aprenderás cosas interesantes."
+            "answer": "Un objetivo a tu alcance."
         }
     ]
 }

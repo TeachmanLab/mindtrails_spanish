@@ -1,14 +1,14 @@
 {
-    "name": "Costos inesperados52",
-    "title": "Costos inesperados",
+    "header_text": "Mantener a la familia",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Costos inesperados"
+            "text": "Mantener a la familia"
         },
         {
             "type": "Media",
-            "file": "/images/Costos_inesperados.jpg"
+            "file": "/images/Mantener_a_la_familia.jpg"
         }
     ]
 }

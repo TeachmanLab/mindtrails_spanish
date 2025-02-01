@@ -1,14 +1,14 @@
 {
-    "name": "Broma interna291",
-    "title": "Broma interna",
+    "header_text": "Expresando tus ideas",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Broma interna"
+            "text": "Expresando tus ideas"
         },
         {
             "type": "Media",
-            "file": "/images/Broma_interna.jpg"
+            "file": "/images/Expresando_tus_ideas.jpg"
         }
     ]
 }

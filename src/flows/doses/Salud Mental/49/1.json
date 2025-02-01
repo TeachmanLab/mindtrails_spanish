@@ -1,14 +1,14 @@
 {
-    "name": "Revisando tu trabajo43",
-    "title": "Revisando tu trabajo",
+    "header_text": "Día caluroso",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Revisando tu trabajo"
+            "text": "Día caluroso"
         },
         {
             "type": "Media",
-            "file": "/images/Revisando_tu_trabajo.jpg"
+            "file": "/images/Día_caluroso.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Equilibrio de trabajo y amistades74",
-    "title": "Equilibrio de trabajo y amistades",
+    "header_text": "Recogiendo a un viejo amigo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Equilibrio de trabajo y amistades"
+            "text": "Recogiendo a un viejo amigo"
         },
         {
             "type": "Media",
-            "file": "/images/Equilibrio_de_trabajo_y_amistades.jpg"
+            "file": "/images/Recogiendo_a_un_viejo_amigo.jpg"
         }
     ]
 }

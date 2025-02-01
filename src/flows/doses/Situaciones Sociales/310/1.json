@@ -1,14 +1,14 @@
 {
-    "name": "Un conocido325",
-    "title": "Un conocido",
+    "header_text": "Corriendo con un amigo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un conocido"
+            "text": "Corriendo con un amigo"
         },
         {
             "type": "Media",
-            "file": "/images/Un_conocido.jpg"
+            "file": "/images/Corriendo_con_un_amigo.jpg"
         }
     ]
 }

@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Tocando el piano",
+    "header_title": "Compañero de cuarto ausente",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Acercándote al piano, piensas para ti mismo: \"Esto no es motivo de preocupación, estas personas van a estar..."
+            "Text": "¿Te molesta la ausencia de tu hermana?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Tocando el piano_Situaciones Sociales_puzzle_word2",
+            "type": "Buttons",
+            "name": "Compañero de cuarto ausente_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "contentas\""
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "No"
         }
     ]
 }

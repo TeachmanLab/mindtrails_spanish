@@ -1,6 +1,6 @@
 {
-    "name": "Question",
-    "title": "Sintiéndote Preparado",
+    "header_title": "Sintiéndote Preparado",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {

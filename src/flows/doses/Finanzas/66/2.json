@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Visitar a un nuevo amigo",
+    "header_text": "Limitaciones financieras",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te han invitado a pasar unas vacaciones en casa de un amigo y quieres llevarle un regalo, pero no puedes permitirte comprarlo. Decides escribir un poema y recitarlo para la familia de tu amigo. Cuando te imaginas leyéndolo, te..."
+            "text": "El mes pasado, saliste a cenar más a menudo de lo que sueles hacer y lo disfrutaste. Sin embargo, al mirar tu cuenta bancaria ahora, no estás seguro si puedes mantener ese estilo de vida y pagar por comestibles, facturas, etc. Decides limitarte a una comida fuera por semana y te sientes seguro con este..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Visitar a un nuevo amigo_Finanzas_puzzle1",
+            "name": "Limitaciones financieras_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "emocionas"
+                "presupuesto"
             ],
             "missing_letter_count": 2
         }

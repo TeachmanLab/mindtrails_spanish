@@ -1,14 +1,14 @@
 {
-    "name": "Una pregunta personal155",
-    "title": "Una pregunta personal",
+    "header_text": "Mente va en blanco",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una pregunta personal"
+            "text": "Mente va en blanco"
         },
         {
             "type": "Media",
-            "file": "/images/Una_pregunta_personal.jpg"
+            "file": "/images/Mente_va_en_blanco.jpg"
         }
     ]
 }

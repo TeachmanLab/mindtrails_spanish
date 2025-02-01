@@ -1,14 +1,11 @@
 {
-    "name": "Amigos del club de lectura259",
-    "title": "Amigos del club de lectura",
+    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Amigos del club de lectura"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Amigos_del_club_de_lectura.jpg"
+            "type": "Text",
+            "text": "Cuando tengas ganas de compararte con otras personas en tu vida, trata de hacerte un cumplido. "
         }
     ]
 }

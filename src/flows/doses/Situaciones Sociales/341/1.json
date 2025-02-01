@@ -1,14 +1,14 @@
 {
-    "name": "Confianza creativa378",
-    "title": "Confianza creativa",
+    "header_text": "Tu mejor amigo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Confianza creativa"
+            "text": "Tu mejor amigo"
         },
         {
             "type": "Media",
-            "file": "/images/Confianza_creativa.jpg"
+            "file": "/images/Tu_mejor_amigo.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Presentación de clase84",
-    "title": "Presentación de clase",
+    "header_text": "Viendo a un viejo amigo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Presentación de clase"
+            "text": "Viendo a un viejo amigo"
         },
         {
             "type": "Media",
-            "file": "/images/Presentación_de_clase.jpg"
+            "file": "/images/Viendo_a_un_viejo_amigo.jpg"
         }
     ]
 }

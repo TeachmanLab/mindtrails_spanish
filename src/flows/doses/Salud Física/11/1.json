@@ -1,14 +1,11 @@
 {
-    "name": "Evaluación de salud9",
-    "title": "Evaluación de salud",
+    "header_text": "Recurso: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "name": "BecomeAnEX (ES)",
     "elements": [
         {
-            "type": "Label",
-            "text": "Evaluación de salud"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Evaluación_de_salud.jpg"
+            "type": "Text",
+            "text": "BecomeAnEX (ES)\n\nBecomeAnEX te brinda orientación y apoyo comunitario para dejar la nicotina, incluyendo el fumar, vapear, o masticar tabaco.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

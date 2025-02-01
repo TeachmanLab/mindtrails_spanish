@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Confiar en los padres",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Gestión de crédito",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Está bien no poder mantenerte a tí mismo por ahora?"
+            "text": "Al pensar en lo que harías con la tarjeta de crédito, no te imaginas que de repente gastarás imprudentemente, y piensas que probablemente gastarías el dinero... "
         },
         {
-            "type": "Buttons",
-            "name": "Confiar en los padres_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Gestión de crédito_Finanzas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "sabiamente"
             ],
-            "columnCount": 1,
-            "answer": "Sí"
+            "missing_letter_count": 2
         }
     ]
 }

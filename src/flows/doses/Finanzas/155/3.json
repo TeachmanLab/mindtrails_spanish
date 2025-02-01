@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Elegir entre oportunidades",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Mantener a la familia",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Deberías asumir que no podrás manejar tanto el trabajo como la capacitación?"
+            "text": "Cuando piensas en tus hijos, no crees que perderán oportunidades educativas por falta de dinero y crees que apoyar su educación universitaria será..."
         },
         {
-            "type": "Buttons",
-            "name": "Elegir entre oportunidades_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Mantener a la familia_Finanzas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "asequible"
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 2
         }
     ]
 }

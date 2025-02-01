@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Pasando tiempo con familia",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Nerviosismo de cumpleaños",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "A medida que tu familia pasa menos tiempo juntos, piensas que..."
+            "text": "Recuerdas que todos vienen a celebrarte. Esto te hace sentir..."
         },
         {
-            "type": "Buttons",
-            "name": "Pasando tiempo con familia_Vida Familiar y Doméstica_comp_question",
+            "type": "WordPuzzle",
+            "name": "Nerviosismo de cumpleaños_Vida Familiar y Doméstica_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Encontrarás formas de mantenerte en contacto y permanecer conectado.",
-                "Tu relación con ellos se volverá tensa."
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "emocionado"
             ],
-            "columnCount": 1,
-            "answer": "Encontrarás formas de mantenerte en contacto y permanecer conectado."
+            "missing_letter_count": 1
         }
     ]
 }

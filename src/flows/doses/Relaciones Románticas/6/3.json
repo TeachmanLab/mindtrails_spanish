@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Relaciones futuras",
+    "header_title": "Planes de vacaciones",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Después de tu separación, piensas que..."
+            "Text": "Es probable que tus padres piensen que..."
         },
         {
             "type": "Buttons",
-            "name": "Relaciones futuras_Relaciones Románticas_comp_question",
+            "name": "Planes de vacaciones_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Eventualmente conocerás a la persona adecuada para ti.",
-                "Probablemente nunca encuentres a alguien bueno para ti."
+                "Solo estás emocionado de pasar los días festivos con tu pareja y no lo tomarán como algo personal.",
+                "A ti no te importan o que no quieres verlos."
             ],
             "columnCount": 1,
-            "answer": "Eventualmente conocerás a la persona adecuada para ti."
+            "answer": "Solo estás emocionado de pasar los días festivos con tu pareja y no lo tomarán como algo personal."
         }
     ]
 }

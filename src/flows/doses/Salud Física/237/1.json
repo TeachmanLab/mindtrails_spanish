@@ -1,14 +1,14 @@
 {
-    "name": "Un dolor de garganta260",
-    "title": "Un dolor de garganta",
+    "header_text": "Sala de espera del hospital",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un dolor de garganta"
+            "text": "Sala de espera del hospital"
         },
         {
             "type": "Media",
-            "file": "/images/Un_dolor_de_garganta.jpg"
+            "file": "/images/Sala_de_espera_del_hospital.jpg"
         }
     ]
 }

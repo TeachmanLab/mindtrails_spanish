@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Puntos de vista hacia la terapia",
+    "header_title": "Tu primer hijo",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Aceptará tu familia que vayas a terapia?"
+            "Text": "Crees que hay muchas posibilidades de que cuando su hijo sea adulto..."
         },
         {
             "type": "Buttons",
-            "name": "Puntos de vista hacia la terapia_Salud Mental_comp_question",
+            "name": "Tu primer hijo_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Ustedes dos casi nunca se verán",
+                "Ustedes dos hablarán regularmente."
             ],
             "columnCount": 1,
-            "answer": "Si"
+            "answer": "Ustedes dos casi nunca se verán"
         }
     ]
 }

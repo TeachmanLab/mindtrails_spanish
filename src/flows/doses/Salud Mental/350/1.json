@@ -1,14 +1,14 @@
 {
-    "name": "Usando tecnología diferente385",
-    "title": "Usando tecnología diferente",
+    "header_text": "Boca seca",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Usando tecnología diferente"
+            "text": "Boca seca"
         },
         {
             "type": "Media",
-            "file": "/images/Usando_tecnología_diferente.jpg"
+            "file": "/images/Boca_seca.jpg"
         }
     ]
 }

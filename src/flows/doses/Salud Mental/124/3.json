@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Trabajo inacabado",
+    "header_title": "Reunión uno a uno",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Podrás hacer todo?"
+            "Text": "¿Eres capaz de tolerar tu ansiedad mientras te reúnes con tu jefe?"
         },
         {
             "type": "Buttons",
-            "name": "Trabajo inacabado_Salud Mental_comp_question",
+            "name": "Reunión uno a uno_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,

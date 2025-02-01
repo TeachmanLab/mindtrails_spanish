@@ -1,14 +1,14 @@
 {
-    "name": "Ir al cine solo31",
-    "title": "Ir al cine solo",
+    "header_text": "Futuras amistades",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ir al cine solo"
+            "text": "Futuras amistades"
         },
         {
             "type": "Media",
-            "file": "/images/Ir_al_cine_solo.jpg"
+            "file": "/images/Futuras_amistades.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Tus habilidades con los bolos263",
-    "title": "Tus habilidades con los bolos",
+    "header_text": "Expresándote",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tus habilidades con los bolos"
+            "text": "Expresándote"
         },
         {
             "type": "Media",
-            "file": "/images/Tus_habilidades_con_los_bolos.jpg"
+            "file": "/images/Expresándote.jpg"
         }
     ]
 }

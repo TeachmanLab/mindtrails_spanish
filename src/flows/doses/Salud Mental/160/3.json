@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Siendo padre",
+    "header_title": "Compartir con alguien nuevo",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Pensando en tu futura relación con tu hija, te visualizas..."
+            "Text": "¿Te preocupa lo que tu compañero de trabajo piensa de tu presentación?"
         },
         {
             "type": "Buttons",
-            "name": "Siendo padre_Salud Mental_comp_question",
+            "name": "Compartir con alguien nuevo_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sintiéndote estresado por ella.",
-                "Teniendo una relación amorosa con ella."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "answer": "Sintiéndote estresado por ella."
+            "answer": "No"
         }
     ]
 }

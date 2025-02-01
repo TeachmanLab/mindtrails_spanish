@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Tu mejor amigo",
+    "header_text": "Conexión perdida",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tu mejor amigo se han conocido por muchos años. Ahora trabajan en profesiones diferentes y tienen intereses distintos, y te preocupa que no se relacionarán a medida que envejecen. Cuando piensas en próximos eventos importantes de la vida, esperas que te..."
+            "text": "Estás sentado en una cafetería cuando ves a tu amigo. Pasa junto a ti y se sienta al lado de otra persona. Deben haber estado..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Tu mejor amigo_Situaciones Sociales_puzzle1",
+            "name": "Conexión perdida_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "apoyen"
+                "distraídos"
             ],
             "missing_letter_count": 1
         }

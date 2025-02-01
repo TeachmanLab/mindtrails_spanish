@@ -1,14 +1,14 @@
 {
-    "name": "Vecino sin mascarilla385",
-    "title": "Vecino sin mascarilla",
+    "header_text": "Despertándote mareado",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Vecino sin mascarilla"
+            "text": "Despertándote mareado"
         },
         {
             "type": "Media",
-            "file": "/images/Vecino_sin_mascarilla.jpg"
+            "file": "/images/Despertándote_mareado.jpg"
         }
     ]
 }

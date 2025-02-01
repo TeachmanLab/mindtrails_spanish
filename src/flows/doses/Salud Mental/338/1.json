@@ -1,14 +1,14 @@
 {
-    "name": "Comprometerse con las actividades374",
-    "title": "Comprometerse con las actividades",
+    "header_text": "Club de lectura",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comprometerse con las actividades"
+            "text": "Club de lectura"
         },
         {
             "type": "Media",
-            "file": "/images/Comprometerse_con_las_actividades.jpg"
+            "file": "/images/Club_de_lectura.jpg"
         }
     ]
 }

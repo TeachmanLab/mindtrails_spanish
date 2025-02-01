@@ -1,14 +1,14 @@
 {
-    "name": "Mente va en blanco25",
-    "title": "Mente va en blanco",
+    "header_text": "Tartamudeo en la oficina",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mente va en blanco"
+            "text": "Tartamudeo en la oficina"
         },
         {
             "type": "Media",
-            "file": "/images/Mente_va_en_blanco.jpg"
+            "file": "/images/Tartamudeo_en_la_oficina.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Nadando en la playa392",
-    "title": "Nadando en la playa",
+    "header_text": "Entrega Responsable",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nadando en la playa"
+            "text": "Entrega Responsable"
         },
         {
             "type": "Media",
-            "file": "/images/Nadando_en_la_playa.jpg"
+            "file": "/images/Entrega_Responsable.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "La nueva ciudad272",
-    "title": "La nueva ciudad",
+    "header_text": "Tu mejor amigo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "La nueva ciudad"
+            "text": "Tu mejor amigo"
         },
         {
             "type": "Media",
-            "file": "/images/La_nueva_ciudad.jpg"
+            "file": "/images/Tu_mejor_amigo.jpg"
         }
     ]
 }

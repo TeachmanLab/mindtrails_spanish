@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Suministros para la cena",
+    "header_title": "Corriendo una maratón",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Podrías aceptar tu corazón acelerado como algo ni bueno ni malo?"
+            "Text": "Piensas que si te apuntas a una maratón, el día de la carrera es probable que..."
         },
         {
             "type": "Buttons",
-            "name": "Suministros para la cena_Salud Física_comp_question",
+            "name": "Corriendo una maratón_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Colapsaras antes de cruzar la línea de meta.",
+                "Te sentirás orgulloso de haber logrado para lo que entrenaste."
             ],
             "columnCount": 1,
-            "answer": "Si"
+            "answer": "Colapsaras antes de cruzar la línea de meta."
         }
     ]
 }

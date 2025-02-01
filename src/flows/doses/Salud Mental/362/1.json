@@ -1,14 +1,14 @@
 {
-    "name": "Quedando atrás396",
-    "title": "Quedando atrás",
+    "header_text": "Siendo padre",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Quedando atrás"
+            "text": "Siendo padre"
         },
         {
             "type": "Media",
-            "file": "/images/Quedando_atrás.jpg"
+            "file": "/images/Siendo_padre.jpg"
         }
     ]
 }

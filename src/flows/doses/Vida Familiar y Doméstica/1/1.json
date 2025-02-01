@@ -1,6 +1,6 @@
 {
-    "name": "Reconciliándote con tu amigo1",
-    "title": "Reconciliándote con tu amigo",
+    "header_text": "Reconciliándote con tu amigo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",

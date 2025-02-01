@@ -1,14 +1,14 @@
 {
-    "name": "Temprano en la mañana55",
-    "title": "Temprano en la mañana",
+    "header_text": "Una invitación",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Temprano en la mañana"
+            "text": "Una invitación"
         },
         {
             "type": "Media",
-            "file": "/images/Temprano_en_la_mañana.jpg"
+            "file": "/images/Una_invitación.jpg"
         }
     ]
 }

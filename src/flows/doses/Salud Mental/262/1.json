@@ -1,14 +1,14 @@
 {
-    "name": "Comentarios de publicaciones de Instagram282",
-    "title": "Comentarios de publicaciones de Instagram",
+    "header_text": "Pensamientos acelerados",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comentarios de publicaciones de Instagram"
+            "text": "Pensamientos acelerados"
         },
         {
             "type": "Media",
-            "file": "/images/Comentarios_de_publicaciones_de_Instagram.jpg"
+            "file": "/images/Pensamientos_acelerados.jpg"
         }
     ]
 }

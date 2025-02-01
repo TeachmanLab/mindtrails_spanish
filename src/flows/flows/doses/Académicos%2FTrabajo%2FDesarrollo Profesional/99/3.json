@@ -1,0 +1,14 @@
+{
+    "name": "Puzzle 2",
+    "title": "Sentado en una reunión",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tomas un poco de agua y comienzas a sentirte más despierto, recordando que anoche no dormiste tanto como de costumbre. Decides que simplemente estás..."
+        },
+        {
+            "type": "Entry",
+            "name": "Sentado en una reunión_Académicos/Trabajo/Desarrollo Profesional_entry2"
+        }
+    ]
+}

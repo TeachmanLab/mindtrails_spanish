@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Opiniones de otros",
+    "header_text": "Pasando tiempo con familia",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te negaron un ascenso este año y sabes que tu amigo te estaba apoyando para que obtuvieras un ascenso. Fruncen el ceño cuando les cuentas que no han conseguido uno. Les dices que trabajaste muy duro a pesar de no conseguir un ascenso y ellos están orgullosos del esfuerzo que hiciste durante todo el..."
+            "text": "Estás yendo a ver a tu familia para unas vacaciones. Disfrutas de ver a tu familia, pero recientemente ha sido más difícil salir a verlos. Cuando imaginas la cantidad de tiempo que pasarás con tus familiares en los próximos años, no estás preocupado de que tu relación se deteriore, y crees que tu familia se mantendrá..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Opiniones de otros_Vida Familiar y Doméstica_puzzle1",
+            "name": "Pasando tiempo con familia_Vida Familiar y Doméstica_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "año"
+                "conectada"
             ],
             "missing_letter_count": 1
         }

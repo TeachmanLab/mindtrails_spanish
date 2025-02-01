@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Conversación durante la cena",
+    "header_title": "Celebraciones culturales familiares",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes hablar sobre tus padres divorciados?"
+            "Text": "¿Te da vergüenza decirles a tus colegas que no puedes ir a la conferencia?"
         },
         {
             "type": "Buttons",
-            "name": "Conversación durante la cena_Vida Familiar y Doméstica_comp_question",
+            "name": "Celebraciones culturales familiares_Vida Familiar y Doméstica_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "Si"
+            "answer": "No"
         }
     ]
 }

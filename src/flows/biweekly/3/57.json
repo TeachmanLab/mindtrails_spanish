@@ -1,5 +1,6 @@
 {
-    "title": "El raspado",
+    "header_text": "El raspado",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

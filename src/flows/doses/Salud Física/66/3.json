@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Clima frío",
+    "header_title": "El dolor de muelas",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Sigues caminando, y te sientes un poco incómodo pero decides que la respuesta de tu cuerpo al frío es..."
+            "Text": "¿Puedes soportar ir al dentista?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Clima frío_Salud Física_puzzle_word2",
+            "type": "Buttons",
+            "name": "El dolor de muelas_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "manejable"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "answer": "Sí"
         }
     ]
 }

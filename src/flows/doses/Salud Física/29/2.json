@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Quemadura",
+    "header_text": "Controles en el dentista.",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras preparas la cena, accidentalmente tocas un sartén muy caliente. Rápidamente pones tu dedo bajo agua fría y ya puedes ver que tu piel se está poniendo roja. Después de unos minutos, piensas que la quemadura es..."
+            "text": "Tienes una cita de rutina con el dentista y descubres que necesitas algunas pruebas para comprobar la salud de tus encías y dientes. Después de que el dentista realiza las pruebas, continúas recostado en el sillón del dentista mientras esperas los resultados. Crees que tus dientes y encías probablemente estén..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Quemadura_Salud Física_puzzle1",
+            "name": "Controles en el dentista._Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "leve"
+                "enfermos"
             ],
             "missing_letter_count": 1
         }

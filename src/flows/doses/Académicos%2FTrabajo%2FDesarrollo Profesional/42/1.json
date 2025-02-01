@@ -1,14 +1,14 @@
 {
-    "name": "Taller de escritura37",
-    "title": "Taller de escritura",
+    "header_text": "Visitas importantes",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Taller de escritura"
+            "text": "Visitas importantes"
         },
         {
             "type": "Media",
-            "file": "/images/Taller_de_escritura.jpg"
+            "file": "/images/Visitas_importantes.jpg"
         }
     ]
 }

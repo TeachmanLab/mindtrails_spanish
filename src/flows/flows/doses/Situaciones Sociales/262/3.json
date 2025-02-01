@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Amigos del club de lectura",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Si los miembros del club de lectura acepten tu invitación a cenar, ellos probablemente..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Amigos del club de lectura_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Se sentirán decepcionado de tu compañía.",
+                "Disfrutarán de la reunión durante la cena."
+            ],
+            "columnCount": 1,
+            "answer": "Se sentirán decepcionado de tu compañía."
+        }
+    ]
+}

@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Opinión importante",
+    "header_title": "Comparar su trabajo con el de otros",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Al final, te das cuenta de que señalaron el error para que pudieras mejorarlo antes de enviarlo. Corriges la sección incompleta y crees que tu jefe piensa que estás..."
+            "Text": "¿Puedes mejorar tu presentación?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Opinión importante_Salud Mental_puzzle_word2",
+            "type": "Buttons",
+            "name": "Comparar su trabajo con el de otros_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "aprendiendo"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "Si"
         }
     ]
 }

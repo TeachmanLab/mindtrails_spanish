@@ -1,14 +1,14 @@
 {
-    "name": "Factura por una reparación2",
-    "title": "Factura por una reparación",
+    "header_text": "Planes divertidos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Factura por una reparación"
+            "text": "Planes divertidos"
         },
         {
             "type": "Media",
-            "file": "/images/Factura_por_una_reparación.jpg"
+            "file": "/images/Planes_divertidos.jpg"
         }
     ]
 }

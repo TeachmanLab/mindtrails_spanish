@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Reorganización después de la exposición",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "¿Su supervisor lo penalizará por estar expuesto?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Reorganización después de la exposición_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "columnCount": 1,
+            "answer": "No"
+        }
+    ]
+}

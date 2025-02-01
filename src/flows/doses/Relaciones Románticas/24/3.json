@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Día especial",
+    "header_title": "Invitando tu Amigo a una Cita",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Probablemente te sientes nervioso porque ..."
+            "Text": "Si le preguntas a tu amigo en una cita, probablemente..."
         },
         {
             "type": "Buttons",
-            "name": "Día especial_Relaciones Románticas_comp_question",
+            "name": "Invitando tu Amigo a una Cita_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Nunca has salido con esta persona antes.",
-                "Eres desagradable."
+                "Harás que tu amigo se sienta bien.",
+                "Pondrás a tu amigo en una posición incómoda."
             ],
             "columnCount": 1,
-            "answer": "Nunca has salido con esta persona antes."
+            "answer": "Harás que tu amigo se sienta bien."
         }
     ]
 }

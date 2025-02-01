@@ -1,14 +1,14 @@
 {
-    "name": "Desacuerdos con tu hermana140",
-    "title": "Desacuerdos con tu hermana",
+    "header_text": "Celebraciones culturales familiares",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Desacuerdos con tu hermana"
+            "text": "Celebraciones culturales familiares"
         },
         {
             "type": "Media",
-            "file": "/images/Desacuerdos_con_tu_hermana.jpg"
+            "file": "/images/Celebraciones_culturales_familiares.jpg"
         }
     ]
 }

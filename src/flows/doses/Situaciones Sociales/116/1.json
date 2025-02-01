@@ -1,14 +1,14 @@
 {
-    "name": "Compartir redes sociales con un nuevo amigo128",
-    "title": "Compartir redes sociales con un nuevo amigo",
+    "header_text": "Tiempo para ti mismo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Compartir redes sociales con un nuevo amigo"
+            "text": "Tiempo para ti mismo"
         },
         {
             "type": "Media",
-            "file": "/images/Compartir_redes_sociales_con_un_nuevo_amigo.jpg"
+            "file": "/images/Tiempo_para_ti_mismo.jpg"
         }
     ]
 }

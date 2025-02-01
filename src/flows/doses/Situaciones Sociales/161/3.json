@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Opinión diferente",
+    "header_title": "Prestando de un amigo",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Al reencontrarse, piensas que..."
+            "Text": "¿Tu amigo pensará que tomaste su cargador a propósito?"
         },
         {
             "type": "Buttons",
-            "name": "Opinión diferente_Situaciones Sociales_comp_question",
+            "name": "Prestando de un amigo_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Otros miembros estarán emocionados de escuchar sus valiosas contribuciones.",
-                "Otros miembros te excluirán debido a tus opiniones."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "answer": "Otros miembros estarán emocionados de escuchar sus valiosas contribuciones."
+            "answer": "No"
         }
     ]
 }

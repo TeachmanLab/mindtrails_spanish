@@ -1,14 +1,14 @@
 {
-    "name": "Visitar a una familia anciana34",
-    "title": "Visitar a una familia anciana",
+    "header_text": "Creencias diferentes",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Visitar a una familia anciana"
+            "text": "Creencias diferentes"
         },
         {
             "type": "Media",
-            "file": "/images/Visitar_a_una_familia_anciana.jpg"
+            "file": "/images/Creencias_diferentes.jpg"
         }
     ]
 }

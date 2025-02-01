@@ -1,14 +1,14 @@
 {
-    "name": "Oportunidad nueva3",
-    "title": "Oportunidad nueva",
+    "header_text": "Mostrar tu experiencia",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Oportunidad nueva"
+            "text": "Mostrar tu experiencia"
         },
         {
             "type": "Media",
-            "file": "/images/Oportunidad_nueva.jpg"
+            "file": "/images/Mostrar_tu_experiencia.jpg"
         }
     ]
 }

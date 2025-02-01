@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Salud y envejecimiento",
+    "header_title": "Un sonido fuerte",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Tu amigo probablemente ..."
+            "Text": "¿Deberías tener miedo cuando escuchas un ruido por la noche?"
         },
         {
             "type": "Buttons",
-            "name": "Salud y envejecimiento_Vida Familiar y Doméstica_comp_question",
+            "name": "Un sonido fuerte_Vida Familiar y Doméstica_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Manténgase saludable en el futuro.",
-                "Enferme más en el futuro."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "answer": "Manténgase saludable en el futuro."
+            "answer": "Si"
         }
     ]
 }

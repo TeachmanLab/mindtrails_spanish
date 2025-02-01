@@ -1,14 +1,14 @@
 {
-    "name": "Conducción segura41",
-    "title": "Conducción segura",
+    "header_text": "Sentirse ansioso",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Conducción segura"
+            "text": "Sentirse ansioso"
         },
         {
             "type": "Media",
-            "file": "/images/Conducción_segura.jpg"
+            "file": "/images/Sentirse_ansioso.jpg"
         }
     ]
 }

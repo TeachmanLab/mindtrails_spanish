@@ -1,14 +1,15 @@
 {
-    "name": "Expectativas diferentes179",
-    "title": "Expectativas diferentes",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_icon": "assets/subtitle.png",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
-            "type": "Label",
-            "text": "Expectativas diferentes"
+            "type": "Text",
+            "text": "Para una situación reciente que te hizo ansioso, pregúntate: ¿Cómo podría haberlo pensado en otro momento, en otro estado de ánimo? ¿La forma en que pensaste al respecto se alineó con lo que realmente sucedió? ¿Hay alternativas? "
         },
         {
-            "type": "Media",
-            "file": "/images/Expectativas_diferentes.jpg"
+            "type": "Entry",
+            "name": "Consejo #8_entry"
         }
     ]
 }

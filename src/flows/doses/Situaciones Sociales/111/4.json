@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Esperando una respuesta",
+    "header_title": "Gustos musicales diferentes",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿No recibir una respuesta rápida significa que a tu amigo no le gustas?"
+            "Text": "¿Tu suegra piensa que no sabes nada sobre música?"
         },
         {
             "type": "Buttons",
-            "name": "Esperando una respuesta_Situaciones Sociales_comp_question",
+            "name": "Gustos musicales diferentes_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,

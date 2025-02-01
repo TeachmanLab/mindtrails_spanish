@@ -1,14 +1,14 @@
 {
-    "name": "Lidiar con la vergüenza88",
-    "title": "Lidiar con la vergüenza",
+    "header_text": "Ruidos del exterior",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Lidiar con la vergüenza"
+            "text": "Ruidos del exterior"
         },
         {
             "type": "Media",
-            "file": "/images/Lidiar_con_la_vergüenza.jpg"
+            "file": "/images/Ruidos_del_exterior.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Atascado en el medio86",
-    "title": "Atascado en el medio",
+    "header_text": "Enseñando a otros",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Atascado en el medio"
+            "text": "Enseñando a otros"
         },
         {
             "type": "Media",
-            "file": "/images/Atascado_en_el_medio.jpg"
+            "file": "/images/Enseñando_a_otros.jpg"
         }
     ]
 }

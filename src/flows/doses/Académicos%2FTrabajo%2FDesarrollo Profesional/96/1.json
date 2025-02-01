@@ -1,14 +1,14 @@
 {
-    "name": "Proyecto de grupo85",
-    "title": "Proyecto de grupo",
+    "header_text": "Tu Currículum",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Proyecto de grupo"
+            "text": "Tu Currículum"
         },
         {
             "type": "Media",
-            "file": "/images/Proyecto_de_grupo.jpg"
+            "file": "/images/Tu_Currículum.jpg"
         }
     ]
 }

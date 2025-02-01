@@ -1,5 +1,6 @@
 {
-    "title": "Discriminación ",
+    "header_text": "Discriminación ",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Comentarios de redes sociales",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Sentirse llamado",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa lo que esa persona piensa de ti?"
+            "text": "Cuando termina la reunión, tu jefe te confronta y te recuerda que no saques tu teléfono durante una reunión. Piensas que están siendo... "
         },
         {
-            "type": "Buttons",
-            "name": "Comentarios de redes sociales_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Sentirse llamado_Salud Mental_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "amables"
             ],
-            "columnCount": 1,
-            "answer": "Si"
+            "missing_letter_count": 2
         }
     ]
 }

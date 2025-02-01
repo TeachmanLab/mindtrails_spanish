@@ -1,14 +1,14 @@
 {
-    "name": "Práctica de presentación260",
-    "title": "Práctica de presentación",
+    "header_text": "Revisando tu trabajo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Práctica de presentación"
+            "text": "Revisando tu trabajo"
         },
         {
             "type": "Media",
-            "file": "/images/Práctica_de_presentación.jpg"
+            "file": "/images/Revisando_tu_trabajo.jpg"
         }
     ]
 }

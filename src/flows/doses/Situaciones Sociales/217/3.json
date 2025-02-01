@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Presentación estresante",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Corriendo con un amigo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Eres capaz de tolerar tu ansiedad?"
+            "text": "Crees que mañana no te quedarás atrás, y las posibilidades de que puedas seguir el ritmo de tu amigo son..."
         },
         {
-            "type": "Buttons",
-            "name": "Presentación estresante_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Corriendo con un amigo_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "altas"
             ],
-            "columnCount": 1,
-            "answer": "Si"
+            "missing_letter_count": 1
         }
     ]
 }

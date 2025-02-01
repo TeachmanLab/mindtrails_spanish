@@ -1,14 +1,11 @@
 {
-    "name": "Puerta cerrada199",
-    "title": "Puerta cerrada",
+    "header_text": "Recurso: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "name": "Técnicas de relajación",
     "elements": [
         {
-            "type": "Label",
-            "text": "Puerta cerrada"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Puerta_cerrada.jpg"
+            "type": "Text",
+            "text": "Técnicas de relajación\n\nMedlinePlus.Gov ofrece información de todo tipo. Esta página ofrece ideas para técnicas de relajación para lidiar con el estrés.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Sala de espera del hospital",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Sintiéndote enfermo en un día caluroso",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Si te lavas las manos, lo más probable es que..."
+            "text": "Aunque no disfrutas de esta sensación, te das cuenta de que es algo que pasará naturalmente con..."
         },
         {
-            "type": "Buttons",
-            "name": "Sala de espera del hospital_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Sintiéndote enfermo en un día caluroso_Salud Física_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Te enfermas de todos modos.",
-                "Te mantienes sano."
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "tiempo"
             ],
-            "columnCount": 1,
-            "answer": "Te enfermas de todos modos."
+            "missing_letter_count": 1
         }
     ]
 }

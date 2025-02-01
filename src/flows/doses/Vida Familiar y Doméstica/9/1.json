@@ -1,14 +1,14 @@
 {
-    "name": "Visitando familia7",
-    "title": "Visitando familia",
+    "header_text": "Atascado en el medio",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Visitando familia"
+            "text": "Atascado en el medio"
         },
         {
             "type": "Media",
-            "file": "/images/Visitando_familia.jpg"
+            "file": "/images/Atascado_en_el_medio.jpg"
         }
     ]
 }

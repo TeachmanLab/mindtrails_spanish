@@ -1,14 +1,14 @@
 {
-    "name": "Permitirse la educación247",
-    "title": "Permitirse la educación",
+    "header_text": "Visita médica inesperada",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Permitirse la educación"
+            "text": "Visita médica inesperada"
         },
         {
             "type": "Media",
-            "file": "/images/Permitirse_la_educación.jpg"
+            "file": "/images/Visita_médica_inesperada.jpg"
         }
     ]
 }

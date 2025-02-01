@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "La nueva ciudad",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Tu mejor amigo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Al pensar en la vida futura en su nuevo hogar, imagina:"
+            "text": "Cuando piensas en eventos importantes de la vida, crees que tu amigo no se distanciará, sino que esperas que sean..."
         },
         {
-            "type": "Buttons",
-            "name": "La nueva ciudad_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Tu mejor amigo_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Tener un nuevo grupo de amigos en el que puedes confiar.",
-                "Necesidad de hacerlo todo usted mismo."
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "comprensivos"
             ],
-            "columnCount": 1,
-            "answer": "Tener un nuevo grupo de amigos en el que puedes confiar."
+            "missing_letter_count": 2
         }
     ]
 }

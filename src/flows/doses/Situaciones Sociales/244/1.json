@@ -1,14 +1,14 @@
 {
-    "name": "Taller de escritura266",
-    "title": "Taller de escritura",
+    "header_text": "Expresar tus sentimientos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Taller de escritura"
+            "text": "Expresar tus sentimientos"
         },
         {
             "type": "Media",
-            "file": "/images/Taller_de_escritura.jpg"
+            "file": "/images/Expresar_tus_sentimientos.jpg"
         }
     ]
 }

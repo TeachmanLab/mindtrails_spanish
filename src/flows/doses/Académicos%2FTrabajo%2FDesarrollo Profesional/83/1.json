@@ -1,14 +1,14 @@
 {
-    "name": "Breve introducción73",
-    "title": "Breve introducción",
+    "header_text": "Trabajo inacabado",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Breve introducción"
+            "text": "Trabajo inacabado"
         },
         {
             "type": "Media",
-            "file": "/images/Breve_introducción.jpg"
+            "file": "/images/Trabajo_inacabado.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Trabajo placentero163",
-    "title": "Trabajo placentero",
+    "header_text": "Trabajando para salir adelante",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trabajo placentero"
+            "text": "Trabajando para salir adelante"
         },
         {
             "type": "Media",
-            "file": "/images/Trabajo_placentero.jpg"
+            "file": "/images/Trabajando_para_salir_adelante.jpg"
         }
     ]
 }

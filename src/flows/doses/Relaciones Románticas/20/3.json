@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Comparándote con otros",
+    "header_title": "Citas en línea",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu pareja se siente atraída a ti?"
+            "Text": "Crees que las personas en el sitio probablemente .."
         },
         {
             "type": "Buttons",
-            "name": "Comparándote con otros_Relaciones Románticas_comp_question",
+            "name": "Citas en línea_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Responderán bien a tu perfil",
+                "Te ignorarán por completo."
             ],
             "columnCount": 1,
-            "answer": "Si"
+            "answer": "Responderán bien a tu perfil"
         }
     ]
 }

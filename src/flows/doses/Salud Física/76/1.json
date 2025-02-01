@@ -1,14 +1,14 @@
 {
-    "name": "Sintiéndote mareado67",
-    "title": "Sintiéndote mareado",
+    "header_text": "Corriendo una milla",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sintiéndote mareado"
+            "text": "Corriendo una milla"
         },
         {
             "type": "Media",
-            "file": "/images/Sintiéndote_mareado.jpg"
+            "file": "/images/Corriendo_una_milla.jpg"
         }
     ]
 }

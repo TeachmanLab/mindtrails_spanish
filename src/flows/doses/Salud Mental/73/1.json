@@ -1,14 +1,14 @@
 {
-    "name": "Gestión de responsabilidades64",
-    "title": "Gestión de responsabilidades",
+    "header_text": "Amigo en el hospital",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Gestión de responsabilidades"
+            "text": "Amigo en el hospital"
         },
         {
             "type": "Media",
-            "file": "/images/Gestión_de_responsabilidades.jpg"
+            "file": "/images/Amigo_en_el_hospital.jpg"
         }
     ]
 }

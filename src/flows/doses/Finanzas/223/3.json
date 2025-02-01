@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Ahorro para reparaciones",
+    "header_title": "Regalos de días festivos",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tomaste la decisión correcta?"
+            "Text": "¿A tu familia le gustará tu regalo?"
         },
         {
             "type": "Buttons",
-            "name": "Ahorro para reparaciones_Finanzas_comp_question",
+            "name": "Regalos de días festivos_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "Sí"
+            "answer": "Si"
         }
     ]
 }

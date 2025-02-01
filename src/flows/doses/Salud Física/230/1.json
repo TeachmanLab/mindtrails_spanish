@@ -1,14 +1,14 @@
 {
-    "name": "El malestar de estómago253",
-    "title": "El malestar de estómago",
+    "header_text": "Dolor de cabeza en la oficina médica",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "El malestar de estómago"
+            "text": "Dolor de cabeza en la oficina médica"
         },
         {
             "type": "Media",
-            "file": "/images/El_malestar_de_estómago.jpg"
+            "file": "/images/Dolor_de_cabeza_en_la_oficina_médica.jpg"
         }
     ]
 }

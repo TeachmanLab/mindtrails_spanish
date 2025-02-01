@@ -1,14 +1,14 @@
 {
-    "name": "Sensaciones de dormir246",
-    "title": "Sensaciones de dormir",
+    "header_text": "Subiendo escaleras",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sensaciones de dormir"
+            "text": "Subiendo escaleras"
         },
         {
             "type": "Media",
-            "file": "/images/Sensaciones_de_dormir.jpg"
+            "file": "/images/Subiendo_escaleras.jpg"
         }
     ]
 }

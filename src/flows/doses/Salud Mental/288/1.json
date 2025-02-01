@@ -1,14 +1,14 @@
 {
-    "name": "Lograr tus objetivos305",
-    "title": "Lograr tus objetivos",
+    "header_text": "Reunión uno a uno",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Lograr tus objetivos"
+            "text": "Reunión uno a uno"
         },
         {
             "type": "Media",
-            "file": "/images/Lograr_tus_objetivos.jpg"
+            "file": "/images/Reunión_uno_a_uno.jpg"
         }
     ]
 }

@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Iniciando un negocio pequeño",
+    "header_title": "Costos de alimentos",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Pensando en el futuro de tu negocio, tu empresa no fracasará y será un..."
+            "Text": "¿Vas a gastar todo tu dinero ordenando comida?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Iniciando un negocio pequeño_Finanzas_puzzle_word2",
+            "type": "Buttons",
+            "name": "Costos de alimentos_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "éxito"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "No"
         }
     ]
 }

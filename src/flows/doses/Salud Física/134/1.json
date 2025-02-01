@@ -1,14 +1,14 @@
 {
-    "name": "Entrega Responsable144",
-    "title": "Entrega Responsable",
+    "header_text": "Corriendo con un amigo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Entrega Responsable"
+            "text": "Corriendo con un amigo"
         },
         {
             "type": "Media",
-            "file": "/images/Entrega_Responsable.jpg"
+            "file": "/images/Corriendo_con_un_amigo.jpg"
         }
     ]
 }

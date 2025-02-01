@@ -1,14 +1,14 @@
 {
-    "name": "Película intermitente31",
-    "title": "Película intermitente",
+    "header_text": "Dedos hormigueando",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Película intermitente"
+            "text": "Dedos hormigueando"
         },
         {
             "type": "Media",
-            "file": "/images/Película_intermitente.jpg"
+            "file": "/images/Dedos_hormigueando.jpg"
         }
     ]
 }

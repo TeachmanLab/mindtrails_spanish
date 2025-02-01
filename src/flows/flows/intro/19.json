@@ -1,0 +1,25 @@
+{
+    "title": "Cuestionario de tratamiento y salud mental",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Te ha resultado útil lo que has especificado en \"otro\"? \n\n1 = Nada útil\n4 = Algo útil\n7=Extremadamente útil"
+        },
+        {
+            "type": "Slider",
+            "min": "1",
+            "max": "7",
+            "others": [
+                "^Prefiero no responder"
+            ],
+            "name": "other_helpful"
+        }
+    ],
+    "conditions": [
+        {
+            "variable": "HelpReceived",
+            "comparator": "=",
+            "value": "Otro"
+        }
+    ]
+}

@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Una salida organizada",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Sin planes para el fin de semana",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Tus amigos no disfrutaron la excursión porque ..."
+            "text": "Entiendes que todos tienen vidas ocupadas y que es más difícil pasar tiempo juntos. Han sido buenos amigos por mucho tiempo y solamente un tiempo de separación no es suficiente para dañar estas amistades. Decides..."
         },
         {
-            "type": "Buttons",
-            "name": "Una salida organizada_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Sin planes para el fin de semana_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "El clima era desagradable.",
-                "Lo planeaste mal."
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "contactarlos"
             ],
-            "columnCount": 1,
-            "answer": "El clima era desagradable."
+            "missing_letter_count": 2
         }
     ]
 }

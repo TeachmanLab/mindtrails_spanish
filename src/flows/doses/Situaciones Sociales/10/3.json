@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Desconectandote",
+    "header_title": "Compartir con alguien nuevo",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes cómodo pidiéndole a la jefa de tu departamento que repita su pregunta?"
+            "Text": "¿Te preocupa lo que tu compañero de trabajo piensa de tu presentación?"
         },
         {
             "type": "Buttons",
-            "name": "Desconectandote_Situaciones Sociales_comp_question",
+            "name": "Compartir con alguien nuevo_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "Si"
+            "answer": "No"
         }
     ]
 }

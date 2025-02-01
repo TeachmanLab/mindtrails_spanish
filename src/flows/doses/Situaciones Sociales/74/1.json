@@ -1,14 +1,14 @@
 {
-    "name": "Visitar a un nuevo amigo65",
-    "title": "Visitar a un nuevo amigo",
+    "header_text": "Mensajes en redes sociales",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Visitar a un nuevo amigo"
+            "text": "Mensajes en redes sociales"
         },
         {
             "type": "Media",
-            "file": "/images/Visitar_a_un_nuevo_amigo.jpg"
+            "file": "/images/Mensajes_en_redes_sociales.jpg"
         }
     ]
 }

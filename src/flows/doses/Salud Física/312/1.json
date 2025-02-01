@@ -1,14 +1,14 @@
 {
-    "name": "Carrera en un día frío327",
-    "title": "Carrera en un día frío",
+    "header_text": "El dolor de muelas",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Carrera en un día frío"
+            "text": "El dolor de muelas"
         },
         {
             "type": "Media",
-            "file": "/images/Carrera_en_un_día_frío.jpg"
+            "file": "/images/El_dolor_de_muelas.jpg"
         }
     ]
 }

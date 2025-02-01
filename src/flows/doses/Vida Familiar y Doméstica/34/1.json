@@ -1,14 +1,14 @@
 {
-    "name": "Celebraciones culturales familiares30",
-    "title": "Celebraciones culturales familiares",
+    "header_text": "Casa bilingüe",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Celebraciones culturales familiares"
+            "text": "Casa bilingüe"
         },
         {
             "type": "Media",
-            "file": "/images/Celebraciones_culturales_familiares.jpg"
+            "file": "/images/Casa_bilingüe.jpg"
         }
     ]
 }

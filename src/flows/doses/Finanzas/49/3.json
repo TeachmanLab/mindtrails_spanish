@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Costear los gastos",
+    "header_title": "Pago de reparaciones",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Pensando en tu capacidad para hacer el pago, no esperas atrasarte en el pago del alquiler y tus fondos serán... "
+            "Text": "¿Te declararás en bancarrota después de pagar las reparaciones del coche?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Costear los gastos_Finanzas_puzzle_word2",
+            "type": "Buttons",
+            "name": "Pago de reparaciones_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "suficientes"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "answer": "No"
         }
     ]
 }

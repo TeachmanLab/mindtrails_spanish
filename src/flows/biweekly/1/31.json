@@ -1,5 +1,6 @@
 {
-    "title": "Algunas preguntas",
+    "header_text": "Algunas preguntas",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

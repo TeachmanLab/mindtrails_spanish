@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Tu primer hijo",
+    "header_text": "Sentirse ansioso",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Acabas de tener tu primer hijo. Quieres tener una buena relación durante toda la vida de su hijo, pero te preocupa cometer errores como padre. Cuando tu hijo sea adulto, crees que la relación será..."
+            "text": "Tienes una gran presentación pendiente. Cuando piensas en pararte frente de gente y hablar, te sientes ansioso. Crees que esto probablemente sea..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Tu primer hijo_Salud Mental_puzzle1",
+            "name": "Sentirse ansioso_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "tensa"
+                "temporal"
             ],
             "missing_letter_count": 2
         }

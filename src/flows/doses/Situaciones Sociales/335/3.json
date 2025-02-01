@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Tiempo para ti mismo",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Fotos en redes sociales",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás bién con comer solo?"
+            "text": "Al final, te das cuenta de que muchas personas se sienten avergonzadas al ver su propia foto en público. Otras personas probablemente disfrutarán viendo tu foto en el sitio de redes..."
         },
         {
-            "type": "Buttons",
-            "name": "Tiempo para ti mismo_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Fotos en redes sociales_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "sociales"
             ],
-            "columnCount": 1,
-            "answer": "Sí"
+            "missing_letter_count": 1
         }
     ]
 }

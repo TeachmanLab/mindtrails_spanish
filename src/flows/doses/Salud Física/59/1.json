@@ -1,14 +1,14 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "header_text": "Visitando a los vecinos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Piensas en una situación en la que te encantaría estar, pero tienes demasiado miedo o ansiedad para ponerte en ella, aunque pueda llevar al crecimiento personal. ¿Qué estrategias podrías poner en práctica para ayudarte a llegar allí?"
+            "type": "Label",
+            "text": "Visitando a los vecinos"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #10_entry"
+            "type": "Media",
+            "file": "/images/Visitando_a_los_vecinos.jpg"
         }
     ]
 }

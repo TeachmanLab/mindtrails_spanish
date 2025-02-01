@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Nueva oportunidad",
+    "header_title": "Expectativas diferentes",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa decirle a tu familia que quieres trabajar y vivir en otro país?"
+            "Text": "¿Habrán consecuencias terribles por no obtener este aumento?"
         },
         {
             "type": "Buttons",
-            "name": "Nueva oportunidad_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Expectativas diferentes_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,

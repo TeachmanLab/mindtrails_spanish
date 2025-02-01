@@ -1,14 +1,14 @@
 {
-    "name": "Mantener a la familia20",
-    "title": "Mantener a la familia",
+    "header_text": "Permitirse la educación",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mantener a la familia"
+            "text": "Permitirse la educación"
         },
         {
             "type": "Media",
-            "file": "/images/Mantener_a_la_familia.jpg"
+            "file": "/images/Permitirse_la_educación.jpg"
         }
     ]
 }

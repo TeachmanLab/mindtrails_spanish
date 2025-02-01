@@ -1,14 +1,14 @@
 {
-    "name": "Invitar gente353",
-    "title": "Invitar gente",
+    "header_text": "Resultados de la evaluación",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Invitar gente"
+            "text": "Resultados de la evaluación"
         },
         {
             "type": "Media",
-            "file": "/images/Invitar_gente.jpg"
+            "file": "/images/Resultados_de_la_evaluación.jpg"
         }
     ]
 }

@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Sin aliento",
+    "header_title": "Tu primer hijo",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Te recuerdas a ti mismo que es normal necesitar recuperar el aliento después de correr y que la gente sólo te mirará durante unos segundos. Encuentras tu asiento y empiezas a..."
+            "Text": "Esperas que la relación con tu hijo adulto sea..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Sin aliento_Salud Mental_puzzle_word2",
+            "type": "Buttons",
+            "name": "Tu primer hijo_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "relajarte"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Cariñoso y cercano",
+                "Distanciado"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "Cariñoso y cercano"
         }
     ]
 }

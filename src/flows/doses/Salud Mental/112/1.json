@@ -1,14 +1,14 @@
 {
-    "name": "Probando un dicho divertido124",
-    "title": "Probando un dicho divertido",
+    "header_text": "Nadando vueltas",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Probando un dicho divertido"
+            "text": "Nadando vueltas"
         },
         {
             "type": "Media",
-            "file": "/images/Probando_un_dicho_divertido.jpg"
+            "file": "/images/Nadando_vueltas.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Plato típico15",
-    "title": "Plato típico",
+    "header_text": "Sentirse diferente",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Plato típico"
+            "text": "Sentirse diferente"
         },
         {
             "type": "Media",
-            "file": "/images/Plato_típico.jpg"
+            "file": "/images/Sentirse_diferente.jpg"
         }
     ]
 }

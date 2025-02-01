@@ -1,14 +1,15 @@
 {
-    "name": "Foto con amigos189",
-    "title": "Foto con amigos",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_icon": "assets/subtitle.png",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
-            "type": "Label",
-            "text": "Foto con amigos"
+            "type": "Text",
+            "text": "Cuando te encuentras saltando al peor de los casos sin toda la información, ¿cualés son algunas cosas que podrías decirte a ti mismo? Piensas en algunas habilidades de las historias que has leído que podrían ser útiles para ti. "
         },
         {
-            "type": "Media",
-            "file": "/images/Foto_con_amigos.jpg"
+            "type": "Entry",
+            "name": "Consejo #4_entry"
         }
     ]
 }

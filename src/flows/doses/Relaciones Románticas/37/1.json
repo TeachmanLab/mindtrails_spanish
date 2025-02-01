@@ -1,14 +1,14 @@
 {
-    "name": "Una respuesta tardía32",
-    "title": "Una respuesta tardía",
+    "header_text": "Relación a largo plazo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una respuesta tardía"
+            "text": "Relación a largo plazo"
         },
         {
             "type": "Media",
-            "file": "/images/Una_respuesta_tardía.jpg"
+            "file": "/images/Relación_a_largo_plazo.jpg"
         }
     ]
 }

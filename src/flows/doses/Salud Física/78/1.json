@@ -1,14 +1,11 @@
 {
-    "name": "Corriendo una milla69",
-    "title": "Corriendo una milla",
+    "header_text": "Recurso: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "name": "Alcohólicos Anónimos",
     "elements": [
         {
-            "type": "Label",
-            "text": "Corriendo una milla"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Corriendo_una_milla.jpg"
+            "type": "Text",
+            "text": "Alcohólicos Anónimos\n\nProporciona apoyo para personas que luchan contra el alcoholismo usando un programa de 12 pasos, incluyendo asistencia regular a reuniones en grupo.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

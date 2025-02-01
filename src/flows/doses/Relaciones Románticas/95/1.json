@@ -1,14 +1,14 @@
 {
-    "name": "Conocer a los padres84",
-    "title": "Conocer a los padres",
+    "header_text": "Citas en línea",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Conocer a los padres"
+            "text": "Citas en línea"
         },
         {
             "type": "Media",
-            "file": "/images/Conocer_a_los_padres.jpg"
+            "file": "/images/Citas_en_línea.jpg"
         }
     ]
 }

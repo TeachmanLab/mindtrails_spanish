@@ -1,14 +1,14 @@
 {
-    "name": "Trabajo inacabado77",
-    "title": "Trabajo inacabado",
+    "header_text": "Comentarios de redes sociales",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trabajo inacabado"
+            "text": "Comentarios de redes sociales"
         },
         {
             "type": "Media",
-            "file": "/images/Trabajo_inacabado.jpg"
+            "file": "/images/Comentarios_de_redes_sociales.jpg"
         }
     ]
 }

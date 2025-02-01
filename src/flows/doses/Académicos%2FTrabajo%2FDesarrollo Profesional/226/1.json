@@ -1,6 +1,6 @@
 {
-    "name": "Esperando grandes noticias251",
-    "title": "Esperando grandes noticias",
+    "header_text": "Esperando grandes noticias",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",

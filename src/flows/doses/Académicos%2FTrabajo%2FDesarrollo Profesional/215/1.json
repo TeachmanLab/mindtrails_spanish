@@ -1,14 +1,14 @@
 {
-    "name": "Obtener una oportunidad241",
-    "title": "Obtener una oportunidad",
+    "header_text": "Mal rumor",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Obtener una oportunidad"
+            "text": "Mal rumor"
         },
         {
             "type": "Media",
-            "file": "/images/Obtener_una_oportunidad.jpg"
+            "file": "/images/Mal_rumor.jpg"
         }
     ]
 }

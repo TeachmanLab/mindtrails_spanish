@@ -1,14 +1,14 @@
 {
-    "name": "Reloj favorito304",
-    "title": "Reloj favorito",
+    "header_text": "Respondiendo a preguntas inesperadas",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Reloj favorito"
+            "text": "Respondiendo a preguntas inesperadas"
         },
         {
             "type": "Media",
-            "file": "/images/Reloj_favorito.jpg"
+            "file": "/images/Respondiendo_a_preguntas_inesperadas.jpg"
         }
     ]
 }

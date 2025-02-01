@@ -1,14 +1,14 @@
 {
-    "name": "Permitirse la educación36",
-    "title": "Permitirse la educación",
+    "header_text": "Factura por una reparación",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Permitirse la educación"
+            "text": "Factura por una reparación"
         },
         {
             "type": "Media",
-            "file": "/images/Permitirse_la_educación.jpg"
+            "file": "/images/Factura_por_una_reparación.jpg"
         }
     ]
 }

@@ -1,14 +1,11 @@
 {
-    "name": "Preguntas de la familia89",
-    "title": "Preguntas de la familia",
+    "header_text": "Maneja tus sentimientos: Relaciones Románticas",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Preguntas de la familia"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Preguntas_de_la_familia.jpg"
+            "type": "Text",
+            "text": "Si tienes un desacuerdo con tu pareja, considera reconocer tus diferencias y cómo pueden afectar la forma en que reaccionas ante las situaciones. "
         }
     ]
 }

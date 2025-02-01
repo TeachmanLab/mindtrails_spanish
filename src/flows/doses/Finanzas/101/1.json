@@ -1,14 +1,12 @@
 {
-    "name": "Regalos de días festivos90",
-    "title": "Regalos de días festivos",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
-            "type": "Label",
-            "text": "Regalos de días festivos"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Regalos_de_días_festivos.jpg"
+            "type": "Text",
+            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
         }
     ]
 }

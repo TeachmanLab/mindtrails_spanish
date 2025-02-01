@@ -1,14 +1,14 @@
 {
-    "name": "Apartamento nuevo para ti58",
-    "title": "Apartamento nuevo para ti",
+    "header_text": "Persona de apoyo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Apartamento nuevo para ti"
+            "text": "Persona de apoyo"
         },
         {
             "type": "Media",
-            "file": "/images/Apartamento_nuevo_para_ti.jpg"
+            "file": "/images/Persona_de_apoyo.jpg"
         }
     ]
 }

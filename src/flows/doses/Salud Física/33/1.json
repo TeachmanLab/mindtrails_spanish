@@ -1,14 +1,11 @@
 {
-    "name": "Un pastel de cumpleaños29",
-    "title": "Un pastel de cumpleaños",
+    "header_text": "Recurso: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "name": "SmokeFree - ES",
     "elements": [
         {
-            "type": "Label",
-            "text": "Un pastel de cumpleaños"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Un_pastel_de_cumpleaños.jpg"
+            "type": "Text",
+            "text": "SmokeFree - ES\n\nSmokeFree ofrece consejos y apoyo para dejar de fumar. Brinda formas alternativas de lidiar con el estrés, lidiar con los factores desencadenantes del tabaquismo y puede ayudar a los Texters a contar cuánto tiempo han estado sin fumar\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

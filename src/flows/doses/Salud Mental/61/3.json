@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Usando tecnología diferente",
+    "header_title": "Temprano en la mañana",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes capaz de completar el trabajo de este proyecto?"
+            "Text": "¿Tus amigos te juzgan por no salir con ellos?"
         },
         {
             "type": "Buttons",
-            "name": "Usando tecnología diferente_Salud Mental_comp_question",
+            "name": "Temprano en la mañana_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "Si"
+            "answer": "No"
         }
     ]
 }

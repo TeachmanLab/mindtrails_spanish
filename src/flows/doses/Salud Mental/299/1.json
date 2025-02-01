@@ -1,14 +1,14 @@
 {
-    "name": "Mensajes de texto honestos315",
-    "title": "Mensajes de texto honestos",
+    "header_text": "Revisando tus cualificaciones",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mensajes de texto honestos"
+            "text": "Revisando tus cualificaciones"
         },
         {
             "type": "Media",
-            "file": "/images/Mensajes_de_texto_honestos.jpg"
+            "file": "/images/Revisando_tus_cualificaciones.jpg"
         }
     ]
 }

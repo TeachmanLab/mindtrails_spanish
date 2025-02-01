@@ -1,14 +1,14 @@
 {
-    "name": "Un comentario grosero376",
-    "title": "Un comentario grosero",
+    "header_text": "Yendo de vacaciones",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un comentario grosero"
+            "text": "Yendo de vacaciones"
         },
         {
             "type": "Media",
-            "file": "/images/Un_comentario_grosero.jpg"
+            "file": "/images/Yendo_de_vacaciones.jpg"
         }
     ]
 }

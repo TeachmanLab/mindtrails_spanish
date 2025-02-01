@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Revisando tu trabajo",
+    "header_text": "Día caluroso",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te han llamado para una evaluación de desempeño con tu jefe. En general, haces un buen trabajo, pero sabes que tu jefe ha notado algunos errores recientemente. Mientras te preparas para la revisión, piensas que tu reunión probablemente se centrará en tus..."
+            "text": "Regresando a casa en un día muy caluroso, te tomas un vaso grande de agua rápidamente. Pronto te sientes anormalmente lleno y un poco enfermo del..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Revisando tu trabajo_Salud Mental_puzzle1",
+            "name": "Día caluroso_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "defectos"
+                "estómago"
             ],
             "missing_letter_count": 2
         }

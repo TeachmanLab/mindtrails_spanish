@@ -1,14 +1,14 @@
 {
-    "name": "Yendo de vacaciones16",
-    "title": "Yendo de vacaciones",
+    "header_text": "Nueva receta",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Yendo de vacaciones"
+            "text": "Nueva receta"
         },
         {
             "type": "Media",
-            "file": "/images/Yendo_de_vacaciones.jpg"
+            "file": "/images/Nueva_receta.jpg"
         }
     ]
 }

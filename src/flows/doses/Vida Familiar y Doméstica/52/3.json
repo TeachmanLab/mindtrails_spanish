@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Equilibrar la vida familiar y los amigos",
+    "header_title": "Cena en una casa de amigos",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás tranquilo acerca de que tu colega venga esta tarde?"
+            "Text": "¿Eres capaz de mantener la calma aunque no sepas qué decir?"
         },
         {
             "type": "Buttons",
-            "name": "Equilibrar la vida familiar y los amigos_Vida Familiar y Doméstica_comp_question",
+            "name": "Cena en una casa de amigos_Vida Familiar y Doméstica_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "No"
+            "answer": "Sí"
         }
     ]
 }

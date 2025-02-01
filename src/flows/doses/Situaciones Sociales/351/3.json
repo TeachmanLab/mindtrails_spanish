@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Experiencia en el supermercado",
+    "header_title": "Conversación durante la cena",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Al final, te das cuenta de que probablemente las personas simplemente se sorprendieron por el ruido y dieron vuelta reflejamente. Los compradores vieron que nadie resultó herido y probablemente se sintieron..."
+            "Text": "¿Puedes hablar sobre tus padres divorciados?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Experiencia en el supermercado_Situaciones Sociales_puzzle_word2",
+            "type": "Buttons",
+            "name": "Conversación durante la cena_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "aliviados"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "Si"
         }
     ]
 }

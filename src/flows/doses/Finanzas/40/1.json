@@ -1,14 +1,14 @@
 {
-    "name": "Cena cara35",
-    "title": "Cena cara",
+    "header_text": "Planificación de pagos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cena cara"
+            "text": "Planificación de pagos"
         },
         {
             "type": "Media",
-            "file": "/images/Cena_cara.jpg"
+            "file": "/images/Planificación_de_pagos.jpg"
         }
     ]
 }

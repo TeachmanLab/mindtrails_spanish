@@ -1,14 +1,14 @@
 {
-    "name": "Amigos en las relaciones152",
-    "title": "Amigos en las relaciones",
+    "header_text": "Una nueva relación",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Amigos en las relaciones"
+            "text": "Una nueva relación"
         },
         {
             "type": "Media",
-            "file": "/images/Amigos_en_las_relaciones.jpg"
+            "file": "/images/Una_nueva_relación.jpg"
         }
     ]
 }

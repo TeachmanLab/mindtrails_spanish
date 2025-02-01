@@ -1,14 +1,14 @@
 {
-    "name": "Preocupaciones por el ritmo cardíaco262",
-    "title": "Preocupaciones por el ritmo cardíaco",
+    "header_text": "Hora para dormir",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Preocupaciones por el ritmo cardíaco"
+            "text": "Hora para dormir"
         },
         {
             "type": "Media",
-            "file": "/images/Preocupaciones_por_el_ritmo_cardíaco.jpg"
+            "file": "/images/Hora_para_dormir.jpg"
         }
     ]
 }

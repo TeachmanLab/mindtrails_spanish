@@ -1,14 +1,14 @@
 {
-    "name": "Una lectura larga62",
-    "title": "Una lectura larga",
+    "header_text": "Contribuir a una discusión",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una lectura larga"
+            "text": "Contribuir a una discusión"
         },
         {
             "type": "Media",
-            "file": "/images/Una_lectura_larga.jpg"
+            "file": "/images/Contribuir_a_una_discusión.jpg"
         }
     ]
 }

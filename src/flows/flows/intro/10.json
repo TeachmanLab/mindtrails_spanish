@@ -1,0 +1,24 @@
+{
+    "title": "Demografía",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Cómo se enteró de Hoos Think Calmly? (Seleccione todas las que correspondan)"
+        },
+        {
+            "type": "buttons",
+            "buttons": [
+                "Del sitio web de un recurso comunitario de la UVA (por ejemplo, Servicios de asesoramiento y psicología)",
+                "De un boletín informativo asociado con un recurso comunitario de la UVA",
+                "De un folleto sobre Grounds",
+                "Un amigo o colega",
+                "Lo recomendó un profesional de salud mental",
+                "^Prefiero no responder",
+                "!Otro:"
+            ],
+            "selectable": true,
+            "multi_select": true,
+            "name": "learn_abt_HTC"
+        }
+    ]
+}

@@ -1,22 +1,22 @@
 {
-    "name": "Puzzle",
-    "title": "Comparar su trabajo con el de otros",
+    "header_text": "Trabajando para salir adelante",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente recibiste comentarios negativos sobre una presentación. Tu colega, que hizo una presentación similar, recibió comentarios maravillosos. Crees que tu próxima presentación será..."
+            "text": "Te acaban de dar un trabajo en una oficina que realmente admiras. Para finalmente recibir el ascenso que deseas, sabes que tendrás que trabajar muy duro durante varios años y el resultado es incierto. Cuando imaginas tu probable puesto en la empresa en el futuro, espera que se te otorgue el trabajo que..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Comparar su trabajo con el de otros_Salud Mental_puzzle1",
+            "name": "Trabajando para salir adelante_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "mejor"
+                "deseas"
             ],
-            "missing_letter_count": 1
+            "missing_letter_count": 2
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Dando vueltas281",
-    "title": "Dando vueltas",
+    "header_text": "Corriendo una maratón",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dando vueltas"
+            "text": "Corriendo una maratón"
         },
         {
             "type": "Media",
-            "file": "/images/Dando_vueltas.jpg"
+            "file": "/images/Corriendo_una_maratón.jpg"
         }
     ]
 }

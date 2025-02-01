@@ -1,6 +1,6 @@
 {
-    "name": "Question",
-    "title": "Aprendiendo a esquíar",
+    "header_title": "Aprendiendo a esquíar",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {

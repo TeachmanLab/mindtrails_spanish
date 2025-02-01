@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Puerta con seguro",
+    "header_text": "Pensamientos acelerados",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Una mañana sales de tu casa y comienzas a dirigirte al trabajo. Unos 10 minutos después de salir, te preguntas si recordaste cerrar la puerta de tu casa. A medida que continúas con tu viaje, confías en ti mismo y te sientes..."
+            "text": "Estás planeando un evento del cual estás extremadamente emocionado. Mientras piensas en lo que necesitas hacer para que el evento sea un éxito, tus pensamientos parecen acelerarse. Esto es..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Puerta con seguro_Salud Mental_puzzle1",
+            "name": "Pensamientos acelerados_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "relajado"
+                "útil"
             ],
             "missing_letter_count": 1
         }

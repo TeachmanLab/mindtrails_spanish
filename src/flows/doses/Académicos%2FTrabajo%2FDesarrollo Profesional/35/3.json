@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Equilibrio de trabajo y amistades",
+    "header_title": "Trabajando en grupo",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Sabes que tendrás más flexibilidad en las próximas semanas para ver a tu amigo y que ellos entenderán que necesitas..."
+            "Text": "¿Te preocupa completar la presentación?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Equilibrio de trabajo y amistades_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
+            "type": "Buttons",
+            "name": "Trabajando en grupo_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "trabajar"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "answer": "Si"
         }
     ]
 }

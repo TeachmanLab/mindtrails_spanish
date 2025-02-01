@@ -1,14 +1,14 @@
 {
-    "name": "Viaje despues de COVID207",
-    "title": "Viaje despues de COVID",
+    "header_text": "Planes divertidos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Viaje despues de COVID"
+            "text": "Planes divertidos"
         },
         {
             "type": "Media",
-            "file": "/images/Viaje_despues_de_COVID.jpg"
+            "file": "/images/Planes_divertidos.jpg"
         }
     ]
 }

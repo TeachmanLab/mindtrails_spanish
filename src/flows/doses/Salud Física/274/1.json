@@ -1,14 +1,14 @@
 {
-    "name": "Sintiendo mareos293",
-    "title": "Sintiendo mareos",
+    "header_text": "Desconectandote",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sintiendo mareos"
+            "text": "Desconectandote"
         },
         {
             "type": "Media",
-            "file": "/images/Sintiendo_mareos.jpg"
+            "file": "/images/Desconectandote.jpg"
         }
     ]
 }

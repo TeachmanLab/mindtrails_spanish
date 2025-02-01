@@ -1,10 +1,11 @@
 {
-    "title": "¡Escribe El Tuyo!",
+    "header_text": "Recurso: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "name": "Yana app",
     "elements": [
         {
             "type": "Text",
-            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
+            "text": "Yana app\n\nYana ofrece herramientas para mejorar la salud mental, incluyendo afirmaciones personales, técnicas de relajación, diario para registrar las emociones, y un chat para trabajar en metas o combatir pensamientos intrusivos.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
-    ],
-    "name": "Write Your Own"
+    ]
 }

@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Finanzas",
-    "name": "Consejo para la regulación de las emociones",
+    "header_text": "Gestión de crédito",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Cuando trabajes con tu presupuesto, tómate un momento para concentrarte en otra cosa, como escuchar tu canción favorita."
+            "type": "Label",
+            "text": "Gestión de crédito"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Gestión_de_crédito.jpg"
         }
     ]
 }

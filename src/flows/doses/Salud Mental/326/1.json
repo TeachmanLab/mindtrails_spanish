@@ -1,14 +1,14 @@
 {
-    "name": "Comparándote con otros363",
-    "title": "Comparándote con otros",
+    "header_text": "Tomando transporte",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comparándote con otros"
+            "text": "Tomando transporte"
         },
         {
             "type": "Media",
-            "file": "/images/Comparándote_con_otros.jpg"
+            "file": "/images/Tomando_transporte.jpg"
         }
     ]
 }

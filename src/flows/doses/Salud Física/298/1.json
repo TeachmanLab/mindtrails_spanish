@@ -1,14 +1,14 @@
 {
-    "name": "Recuperando el aliento314",
-    "title": "Recuperando el aliento",
+    "header_text": "Serpientes venenosas",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Recuperando el aliento"
+            "text": "Serpientes venenosas"
         },
         {
             "type": "Media",
-            "file": "/images/Recuperando_el_aliento.jpg"
+            "file": "/images/Serpientes_venenosas.jpg"
         }
     ]
 }

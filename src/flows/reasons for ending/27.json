@@ -1,5 +1,6 @@
 {
-    "title": "Razones para terminar",
+    "header_text": "Razones para terminar",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

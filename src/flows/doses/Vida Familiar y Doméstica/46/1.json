@@ -1,14 +1,14 @@
 {
-    "name": "El coche de tu familia41",
-    "title": "El coche de tu familia",
+    "header_text": "Fecha límite cercana",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "El coche de tu familia"
+            "text": "Fecha límite cercana"
         },
         {
             "type": "Media",
-            "file": "/images/El_coche_de_tu_familia.jpg"
+            "file": "/images/Fecha_límite_cercana.jpg"
         }
     ]
 }

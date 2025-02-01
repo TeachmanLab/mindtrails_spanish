@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Pensamientos acelerados",
+    "header_title": "Una oportunidad perdida",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Lo encuentras útil cuando tus pensamientos parecen acelerarse?"
+            "Text": "Reflexionando sobre el partido de fútbol, piensas que..."
         },
         {
             "type": "Buttons",
-            "name": "Pensamientos acelerados_Salud Mental_comp_question",
+            "name": "Una oportunidad perdida_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Intentaste lo mejor posible y jugaste bien.",
+                "Jugaste mal."
             ],
             "columnCount": 1,
-            "answer": "Si"
+            "answer": "Intentaste lo mejor posible y jugaste bien."
         }
     ]
 }

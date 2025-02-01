@@ -1,14 +1,14 @@
 {
-    "name": "Decidiendo algo67",
-    "title": "Decidiendo algo",
+    "header_text": "Mercado de trabajo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Decidiendo algo"
+            "text": "Mercado de trabajo"
         },
         {
             "type": "Media",
-            "file": "/images/Decidiendo_algo.jpg"
+            "file": "/images/Mercado_de_trabajo.jpg"
         }
     ]
 }

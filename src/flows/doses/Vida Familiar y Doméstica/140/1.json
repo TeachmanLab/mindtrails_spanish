@@ -1,14 +1,11 @@
 {
-    "name": "Invitar a alguien150",
-    "title": "Invitar a alguien",
+    "header_text": "Recurso: Vida Familiar y Doméstica",
+    "header_icon": "assets/subtitle.png",
+    "name": "Entendiendo Experiencias Infantiles Adversas (ACE)",
     "elements": [
         {
-            "type": "Label",
-            "text": "Invitar a alguien"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Invitar_a_alguien.jpg"
+            "type": "Text",
+            "text": "Entendiendo Experiencias Infantiles Adversas (ACE)\n\nEsta guía explica lo que son las experiencias infantiles adversas y cómo estas influyen en el desarrollo. Ofrece breves consejos para cuidadores y guardianes.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

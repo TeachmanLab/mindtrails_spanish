@@ -1,14 +1,14 @@
 {
-    "name": "Pensamientos acelerados284",
-    "title": "Pensamientos acelerados",
+    "header_text": "Compartir con alguien nuevo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pensamientos acelerados"
+            "text": "Compartir con alguien nuevo"
         },
         {
             "type": "Media",
-            "file": "/images/Pensamientos_acelerados.jpg"
+            "file": "/images/Compartir_con_alguien_nuevo.jpg"
         }
     ]
 }

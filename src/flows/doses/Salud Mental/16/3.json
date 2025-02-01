@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Cambio de planes",
+    "header_title": "Recuerdo conduciendo",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus compañeros de trabajo estarán decepcionados debido a tu nuevo trabajo?"
+            "Text": "Cuando te sientes desorientado, es útil..."
         },
         {
             "type": "Buttons",
-            "name": "Cambio de planes_Salud Mental_comp_question",
+            "name": "Recuerdo conduciendo_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Simplemente observar y aceptar los sentimientos.",
+                "Ponerte ansioso por sentirte desorientado."
             ],
             "columnCount": 1,
-            "answer": "No"
+            "answer": "Simplemente observar y aceptar los sentimientos."
         }
     ]
 }

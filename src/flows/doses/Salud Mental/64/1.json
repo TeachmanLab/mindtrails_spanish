@@ -1,14 +1,14 @@
 {
-    "name": "Reloj favorito56",
-    "title": "Reloj favorito",
+    "header_text": "Tiempo para ti mismo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Reloj favorito"
+            "text": "Tiempo para ti mismo"
         },
         {
             "type": "Media",
-            "file": "/images/Reloj_favorito.jpg"
+            "file": "/images/Tiempo_para_ti_mismo.jpg"
         }
     ]
 }

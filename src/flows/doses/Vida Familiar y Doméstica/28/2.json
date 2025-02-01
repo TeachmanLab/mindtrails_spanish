@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "La música ruidosa",
+    "header_text": "Nueva oportunidad",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu pareja está actualmente escuchando música animada muy fuerte y necesitas prepararte para una tarea importante. No quieres que piensen que eres grosero si les pides que bajen el volumen de la música para que puedas prepararte. Te acercas a ellos y te sientes..."
+            "text": "Aplicaste a un nuevo trabajo en un país extranjero, pero nadie en tu familia ha estado en el extranjero. Piensas en cómo reaccionará tu familia cuando les cuentes tu decisión y es posible que no les guste la idea de que vivas en otro país. Mientras te imaginas contándoles, sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "La música ruidosa_Vida Familiar y Doméstica_puzzle1",
+            "name": "Nueva oportunidad_Vida Familiar y Doméstica_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "nervioso"
+                "entusiasmo"
             ],
             "missing_letter_count": 1
         }

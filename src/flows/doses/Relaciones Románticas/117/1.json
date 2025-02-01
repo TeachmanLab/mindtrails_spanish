@@ -1,14 +1,15 @@
 {
-    "name": "relación a distancia129",
-    "title": "relación a distancia",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_icon": "assets/subtitle.png",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
-            "type": "Label",
-            "text": "relación a distancia"
+            "type": "Text",
+            "text": "Piensas en una situación desafiante que se avecina pronto. ¿Cuáles son algunas de las maneras en que podrías aplicar lo que aprendiste en esta capacitación para manejar tu propia situación? "
         },
         {
-            "type": "Media",
-            "file": "/images/relación_a_distancia.jpg"
+            "type": "Entry",
+            "name": "Consejo #7_entry"
         }
     ]
 }

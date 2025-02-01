@@ -1,5 +1,6 @@
 {
-    "title": "Comprensión / Compromiso",
+    "header_text": "Comprensión / Compromiso",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

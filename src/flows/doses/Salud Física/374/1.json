@@ -1,14 +1,14 @@
 {
-    "name": "Prueba positiva407",
-    "title": "Prueba positiva",
+    "header_text": "Corriendo con un amigo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Prueba positiva"
+            "text": "Corriendo con un amigo"
         },
         {
             "type": "Media",
-            "file": "/images/Prueba_positiva.jpg"
+            "file": "/images/Corriendo_con_un_amigo.jpg"
         }
     ]
 }

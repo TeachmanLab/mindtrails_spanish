@@ -1,14 +1,14 @@
 {
-    "name": "Controles en el dentista.266",
-    "title": "Controles en el dentista.",
+    "header_text": "Tajada de fruta",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Controles en el dentista."
+            "text": "Tajada de fruta"
         },
         {
             "type": "Media",
-            "file": "/images/Controles_en_el_dentista..jpg"
+            "file": "/images/Tajada_de_fruta.jpg"
         }
     ]
 }

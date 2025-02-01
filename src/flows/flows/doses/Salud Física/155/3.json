@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "De prisa",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "¿Es necesario salir del carro porque sientes que tu corazón este latiendo rápidamente?"
+        },
+        {
+            "type": "Buttons",
+            "name": "De prisa_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "columnCount": 1,
+            "answer": "No"
+        }
+    ]
+}

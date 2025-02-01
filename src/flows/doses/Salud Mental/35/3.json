@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Ir a terapia",
+    "header_title": "Cambio de planes",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Aceptará tu familia que vayas a terapia?"
+            "Text": "¿Tus compañeros de trabajo estarán decepcionados debido a tu nuevo trabajo?"
         },
         {
             "type": "Buttons",
-            "name": "Ir a terapia_Salud Mental_comp_question",
+            "name": "Cambio de planes_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "Si"
+            "answer": "No"
         }
     ]
 }

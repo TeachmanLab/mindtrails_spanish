@@ -1,14 +1,14 @@
 {
-    "name": "Primera vez pantinaje sobre hielo64",
-    "title": "Primera vez pantinaje sobre hielo",
+    "header_text": "Corriendo una maratón",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Primera vez pantinaje sobre hielo"
+            "text": "Corriendo una maratón"
         },
         {
             "type": "Media",
-            "file": "/images/Primera_vez_pantinaje_sobre_hielo.jpg"
+            "file": "/images/Corriendo_una_maratón.jpg"
         }
     ]
 }

@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Una presentación importante",
+    "header_title": "Deprimido",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras te sientes molesto, te das cuenta de que es natural cometer errores. Piensas que tu jefe no se... "
+            "Text": "Te sientes normal?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Una presentación importante_Salud Mental_puzzle_word2",
+            "type": "Buttons",
+            "name": "Deprimido_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "acordará"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "answer": "Si"
         }
     ]
 }

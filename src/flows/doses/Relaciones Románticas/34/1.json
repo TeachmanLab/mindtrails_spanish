@@ -1,14 +1,14 @@
 {
-    "name": "Primera reunión30",
-    "title": "Primera reunión",
+    "header_text": "Citas en línea",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Primera reunión"
+            "text": "Citas en línea"
         },
         {
             "type": "Media",
-            "file": "/images/Primera_reunión.jpg"
+            "file": "/images/Citas_en_línea.jpg"
         }
     ]
 }

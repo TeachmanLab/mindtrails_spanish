@@ -1,5 +1,6 @@
 {
-    "title": "Gran trabajo",
+    "header_text": "Gran trabajo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

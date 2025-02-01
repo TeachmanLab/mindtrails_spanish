@@ -1,14 +1,15 @@
 {
-    "name": "Evaluaciones entre compañeros50",
-    "title": "Evaluaciones entre compañeros",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_icon": "assets/subtitle.png",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
-            "type": "Label",
-            "text": "Evaluaciones entre compañeros"
+            "type": "Text",
+            "text": "Piensas en algo que te causó ansiedad la primera vez que lo hiciste. ¿Qué estrategias te ayudaron a superar eso?"
         },
         {
-            "type": "Media",
-            "file": "/images/Evaluaciones_entre_compañeros.jpg"
+            "type": "Entry",
+            "name": "Consejo #1_entry"
         }
     ]
 }

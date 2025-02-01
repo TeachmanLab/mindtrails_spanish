@@ -1,14 +1,14 @@
 {
-    "name": "Nueva oportunidad para amigos248",
-    "title": "Nueva oportunidad para amigos",
+    "header_text": "Tocando el piano",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nueva oportunidad para amigos"
+            "text": "Tocando el piano"
         },
         {
             "type": "Media",
-            "file": "/images/Nueva_oportunidad_para_amigos.jpg"
+            "file": "/images/Tocando_el_piano.jpg"
         }
     ]
 }

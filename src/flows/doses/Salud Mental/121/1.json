@@ -1,14 +1,14 @@
 {
-    "name": "Puerta con seguro132",
-    "title": "Puerta con seguro",
+    "header_text": "Dolor de estómago",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Puerta con seguro"
+            "text": "Dolor de estómago"
         },
         {
             "type": "Media",
-            "file": "/images/Puerta_con_seguro.jpg"
+            "file": "/images/Dolor_de_estómago.jpg"
         }
     ]
 }

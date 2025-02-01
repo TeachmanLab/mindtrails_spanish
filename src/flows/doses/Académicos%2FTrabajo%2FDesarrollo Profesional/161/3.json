@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Primeras impresiones",
+    "header_title": "Mal rumor",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu nuevo supervisor tiene una buena opinión de ti?"
+            "Text": "Crees que tu supervisor podría ser ..."
         },
         {
             "type": "Buttons",
-            "name": "Primeras impresiones_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Mal rumor_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Planeando despedir a alguien más.",
+                "Planeando despedirte."
             ],
             "columnCount": 1,
-            "answer": "Si"
+            "answer": "Planeando despedir a alguien más."
         }
     ]
 }

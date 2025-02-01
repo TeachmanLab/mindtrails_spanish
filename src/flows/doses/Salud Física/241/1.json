@@ -1,14 +1,14 @@
 {
-    "name": "Nadando vueltas263",
-    "title": "Nadando vueltas",
+    "header_text": "Paracaidismo por primera vez",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nadando vueltas"
+            "text": "Paracaidismo por primera vez"
         },
         {
             "type": "Media",
-            "file": "/images/Nadando_vueltas.jpg"
+            "file": "/images/Paracaidismo_por_primera_vez.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Trabajo inacabado75",
-    "title": "Trabajo inacabado",
+    "header_text": "Esperando grandes noticias",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trabajo inacabado"
+            "text": "Esperando grandes noticias"
         },
         {
             "type": "Media",
-            "file": "/images/Trabajo_inacabado.jpg"
+            "file": "/images/Esperando_grandes_noticias.jpg"
         }
     ]
 }

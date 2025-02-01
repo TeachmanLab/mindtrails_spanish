@@ -1,14 +1,14 @@
 {
-    "name": "Amigos en las relaciones276",
-    "title": "Amigos en las relaciones",
+    "header_text": "Probando comidas diferentes",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Amigos en las relaciones"
+            "text": "Probando comidas diferentes"
         },
         {
             "type": "Media",
-            "file": "/images/Amigos_en_las_relaciones.jpg"
+            "file": "/images/Probando_comidas_diferentes.jpg"
         }
     ]
 }

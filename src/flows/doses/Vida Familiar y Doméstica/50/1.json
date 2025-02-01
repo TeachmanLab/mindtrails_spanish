@@ -1,14 +1,14 @@
 {
-    "name": "Mantener a la familia44",
-    "title": "Mantener a la familia",
+    "header_text": "Equilibrar la vida familiar y los amigos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mantener a la familia"
+            "text": "Equilibrar la vida familiar y los amigos"
         },
         {
             "type": "Media",
-            "file": "/images/Mantener_a_la_familia.jpg"
+            "file": "/images/Equilibrar_la_vida_familiar_y_los_amigos.jpg"
         }
     ]
 }

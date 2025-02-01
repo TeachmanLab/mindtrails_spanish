@@ -1,14 +1,14 @@
 {
-    "name": "Hablando sobre televisión367",
-    "title": "Hablando sobre televisión",
+    "header_text": "Usando algo viejo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Hablando sobre televisión"
+            "text": "Usando algo viejo"
         },
         {
             "type": "Media",
-            "file": "/images/Hablando_sobre_televisión.jpg"
+            "file": "/images/Usando_algo_viejo.jpg"
         }
     ]
 }

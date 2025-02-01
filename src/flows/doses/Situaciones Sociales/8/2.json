@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Cambiar tus planes",
+    "header_text": "Desconectandote",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has decidido aceptar un trabajo en otro departamento. Todos sus amigos cercanos están solicitando a los comités dentro de su departamento actual. Cuando piensas en tu decisión de cambiar de departamento, te sientes... "
+            "text": "Estás en una reunión en Zoom y te desconectas por un minuto. Tu jefa te hace una pregunta y no la escuchaste. Le pides que repita su pregunta y esto te hace sentir..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Cambiar tus planes_Situaciones Sociales_puzzle1",
+            "name": "Desconectandote_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "satisfecho"
+                "bien"
             ],
             "missing_letter_count": 1
         }

@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Situaciones Sociales",
-    "name": "Consejo para la regulación de las emociones",
+    "header_text": "Interrumpiendo el silencio",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Trata de imaginarte a ti mismo como un extraño observando tu conversación. Pregúntate si pensarían en cómo te está yendo de la misma manera que a ti. "
+            "type": "Label",
+            "text": "Interrumpiendo el silencio"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Interrumpiendo_el_silencio.jpg"
         }
     ]
 }

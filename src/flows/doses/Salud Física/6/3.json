@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Vacacionando en avión",
+    "header_title": "Sala de espera del hospital",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tienes miedo de que no puedas respirar correctamente?"
+            "Text": "Si te lavas las manos, lo más probable es que..."
         },
         {
             "type": "Buttons",
-            "name": "Vacacionando en avión_Salud Física_comp_question",
+            "name": "Sala de espera del hospital_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Te enfermas de todos modos.",
+                "Te mantienes sano."
             ],
             "columnCount": 1,
-            "answer": "No"
+            "answer": "Te enfermas de todos modos."
         }
     ]
 }

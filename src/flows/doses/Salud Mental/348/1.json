@@ -1,14 +1,14 @@
 {
-    "name": "Comparar su trabajo con el de otros383",
-    "title": "Comparar su trabajo con el de otros",
+    "header_text": "Expectativas diferentes",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comparar su trabajo con el de otros"
+            "text": "Expectativas diferentes"
         },
         {
             "type": "Media",
-            "file": "/images/Comparar_su_trabajo_con_el_de_otros.jpg"
+            "file": "/images/Expectativas_diferentes.jpg"
         }
     ]
 }

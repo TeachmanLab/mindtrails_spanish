@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Seguridad de la trampolina",
+    "header_title": "Un pastel de cumpleaños",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "A medida que continúes viendo a sus hijos en el trampolín probablemente..."
+            "Text": "Si te comes el pastel, probablemente..."
         },
         {
             "type": "Buttons",
-            "name": "Seguridad de la trampolina_Salud Física_comp_question",
+            "name": "Un pastel de cumpleaños_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "disfrutarás viéndolos",
-                "te preocuparás de que se lastimen"
+                "Te enfermarás.",
+                "No te enfermarás."
             ],
             "columnCount": 1,
-            "answer": "disfrutarás viéndolos"
+            "answer": "Te enfermarás."
         }
     ]
 }

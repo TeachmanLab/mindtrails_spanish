@@ -1,14 +1,11 @@
 {
-    "name": "Manejando tu tarjeta de crédito150",
-    "title": "Manejando tu tarjeta de crédito",
+    "header_text": "Recurso: Finanzas",
+    "header_icon": "assets/subtitle.png",
+    "name": "Deudores Anónimos",
     "elements": [
         {
-            "type": "Label",
-            "text": "Manejando tu tarjeta de crédito"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Manejando_tu_tarjeta_de_crédito.jpg"
+            "type": "Text",
+            "text": "Deudores Anónimos\n\nOfrece programa de 12 pasos para personas que quieren dejar de incurrir en deudas.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

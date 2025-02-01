@@ -1,5 +1,6 @@
 {
-    "title": "Tu primera sesión",
+    "header_text": "Tu primera sesión",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

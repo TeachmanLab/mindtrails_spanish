@@ -1,14 +1,14 @@
 {
-    "name": "Viejo amigo365",
-    "title": "Viejo amigo",
+    "header_text": "Hablando sobre televisión",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Viejo amigo"
+            "text": "Hablando sobre televisión"
         },
         {
             "type": "Media",
-            "file": "/images/Viejo_amigo.jpg"
+            "file": "/images/Hablando_sobre_televisión.jpg"
         }
     ]
 }

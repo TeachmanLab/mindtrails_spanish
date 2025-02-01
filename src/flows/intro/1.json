@@ -1,5 +1,6 @@
 {
-    "title": "¡Bienvenido!",
+    "header_text": "¡Bienvenido!",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

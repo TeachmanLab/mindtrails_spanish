@@ -1,14 +1,14 @@
 {
-    "name": "Corriendo tu primera carrera291",
-    "title": "Corriendo tu primera carrera",
+    "header_text": "Alergias de primavera",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Corriendo tu primera carrera"
+            "text": "Alergias de primavera"
         },
         {
             "type": "Media",
-            "file": "/images/Corriendo_tu_primera_carrera.jpg"
+            "file": "/images/Alergias_de_primavera.jpg"
         }
     ]
 }

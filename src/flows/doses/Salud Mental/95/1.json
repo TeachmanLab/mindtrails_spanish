@@ -1,14 +1,14 @@
 {
-    "name": "Estar a cargo84",
-    "title": "Estar a cargo",
+    "header_text": "Atascado en el medio",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Estar a cargo"
+            "text": "Atascado en el medio"
         },
         {
             "type": "Media",
-            "file": "/images/Estar_a_cargo.jpg"
+            "file": "/images/Atascado_en_el_medio.jpg"
         }
     ]
 }

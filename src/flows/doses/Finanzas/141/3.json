@@ -1,6 +1,6 @@
 {
-    "name": "Question",
-    "title": "Comparando situaciones financieras",
+    "header_title": "Comparando situaciones financieras",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {

@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "El malestar de estómago",
+    "header_title": "Dolor de cabeza en la oficina médica",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Te reúnes con el médico y te dice lo que probablemente está pasando. Lo piensas y te das cuenta de que enfermarse a veces es..."
+            "Text": "¿Tu dolor de cabeza significa que te pondrás tan enfermo como tus amigos?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "El malestar de estómago_Salud Física_puzzle_word2",
+            "type": "Buttons",
+            "name": "Dolor de cabeza en la oficina médica_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "normal"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "No"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Asistiendo a un espectáculo125",
-    "title": "Asistiendo a un espectáculo",
+    "header_text": "Costos inesperados",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Asistiendo a un espectáculo"
+            "text": "Costos inesperados"
         },
         {
             "type": "Media",
-            "file": "/images/Asistiendo_a_un_espectáculo.jpg"
+            "file": "/images/Costos_inesperados.jpg"
         }
     ]
 }

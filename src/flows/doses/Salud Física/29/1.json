@@ -1,14 +1,14 @@
 {
-    "name": "Quemadura25",
-    "title": "Quemadura",
+    "header_text": "Controles en el dentista.",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Quemadura"
+            "text": "Controles en el dentista."
         },
         {
             "type": "Media",
-            "file": "/images/Quemadura.jpg"
+            "file": "/images/Controles_en_el_dentista..jpg"
         }
     ]
 }

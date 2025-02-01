@@ -1,14 +1,14 @@
 {
-    "name": "Estar cerca de alguien enfermo328",
-    "title": "Estar cerca de alguien enfermo",
+    "header_text": "Recuperando el aliento",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Estar cerca de alguien enfermo"
+            "text": "Recuperando el aliento"
         },
         {
             "type": "Media",
-            "file": "/images/Estar_cerca_de_alguien_enfermo.jpg"
+            "file": "/images/Recuperando_el_aliento.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Sugerencia para volver a encontrarnos11",
-    "title": "Sugerencia para volver a encontrarnos",
+    "header_text": "Trabajando en grupo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sugerencia para volver a encontrarnos"
+            "text": "Trabajando en grupo"
         },
         {
             "type": "Media",
-            "file": "/images/Sugerencia_para_volver_a_encontrarnos.jpg"
+            "file": "/images/Trabajando_en_grupo.jpg"
         }
     ]
 }

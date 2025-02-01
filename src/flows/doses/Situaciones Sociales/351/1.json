@@ -1,14 +1,14 @@
 {
-    "name": "Experiencia en el supermercado387",
-    "title": "Experiencia en el supermercado",
+    "header_text": "Conversación durante la cena",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Experiencia en el supermercado"
+            "text": "Conversación durante la cena"
         },
         {
             "type": "Media",
-            "file": "/images/Experiencia_en_el_supermercado.jpg"
+            "file": "/images/Conversación_durante_la_cena.jpg"
         }
     ]
 }

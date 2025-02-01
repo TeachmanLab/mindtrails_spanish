@@ -1,5 +1,6 @@
 {
-    "title": "El ruido fuerte",
+    "header_text": "El ruido fuerte",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

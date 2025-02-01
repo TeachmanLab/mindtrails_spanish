@@ -1,0 +1,16 @@
+{
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Parte 2: Resuelve la incertidumbre de forma no amenazante con la sentencia final"
+        },
+        {
+            "type": "Entry",
+            "name": "Parte2_WYO"
+        }
+    ]
+}

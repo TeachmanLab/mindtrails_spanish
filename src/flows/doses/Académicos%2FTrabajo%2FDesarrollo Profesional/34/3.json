@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Discutir la evaluación",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Equilibrio de trabajo y amistades",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Pasas tu tiempo preocupándote por reunirte con tu jefe?"
+            "text": "Sabes que tendrás más flexibilidad en las próximas semanas para ver a tu amigo y que ellos entenderán que necesitas..."
         },
         {
-            "type": "Buttons",
-            "name": "Discutir la evaluación_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "Equilibrio de trabajo y amistades_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "trabajar"
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 2
         }
     ]
 }

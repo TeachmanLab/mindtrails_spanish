@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Mascarillas con piel sensible",
+    "header_title": "Corriendo en el frío",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Después de pensarlo, te das cuenta de que tiendes a notar aspectos de ti mismo que los demás no notan. Te sientes bien al proteger a las personas al usar tu..."
+            "Text": "Cuando llegue el momento de reservar el viaje, probablemente..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Mascarillas con piel sensible_Salud Física_puzzle_word2",
+            "type": "Buttons",
+            "name": "Corriendo en el frío_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "máscara"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Tendrás que cancelar debido a problemas de dinero.",
+                "Podrás elegir un hotel bastante bonito."
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "answer": "Tendrás que cancelar debido a problemas de dinero."
         }
     ]
 }

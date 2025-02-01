@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Finanzas",
-    "name": "Consejo para la regulación de las emociones",
+    "header_text": "Planificación de pagos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Si se enfrenta a dificultades financieras, dé un paso atrás y trate de identificar sobre qué tiene control (y sobre qué no). Por ejemplo, puede crear un presupuesto y realizar un seguimiento de sus gastos en el futuro, aunque es posible que no pueda devolver algo que ya compró."
+            "type": "Label",
+            "text": "Planificación de pagos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Planificación_de_pagos.jpg"
         }
     ]
 }

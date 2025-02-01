@@ -1,14 +1,14 @@
 {
-    "name": "Amigo en el hospital66",
-    "title": "Amigo en el hospital",
+    "header_text": "Siendo padre",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Amigo en el hospital"
+            "text": "Siendo padre"
         },
         {
             "type": "Media",
-            "file": "/images/Amigo_en_el_hospital.jpg"
+            "file": "/images/Siendo_padre.jpg"
         }
     ]
 }

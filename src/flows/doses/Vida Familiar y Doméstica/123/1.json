@@ -1,14 +1,14 @@
 {
-    "name": "La música ruidosa134",
-    "title": "La música ruidosa",
+    "header_text": "Publicar sobre la familia",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "La música ruidosa"
+            "text": "Publicar sobre la familia"
         },
         {
             "type": "Media",
-            "file": "/images/La_música_ruidosa.jpg"
+            "file": "/images/Publicar_sobre_la_familia.jpg"
         }
     ]
 }

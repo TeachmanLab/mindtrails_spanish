@@ -1,14 +1,14 @@
 {
-    "name": "Nadando vueltas126",
-    "title": "Nadando vueltas",
+    "header_text": "Resultados de la evaluación",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nadando vueltas"
+            "text": "Resultados de la evaluación"
         },
         {
             "type": "Media",
-            "file": "/images/Nadando_vueltas.jpg"
+            "file": "/images/Resultados_de_la_evaluación.jpg"
         }
     ]
 }

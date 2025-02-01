@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Relación a largo plazo",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "No te preocupas por tu relación y ves que tu relación se..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Relación a largo plazo_Relaciones Románticas_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "fortalece"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

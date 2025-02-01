@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Amigos en las relaciones",
+    "header_title": "Probando comidas diferentes",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Después de un tiempo, te das cuenta de que es muy normal no estar en una relación. Piensas que disfrutas estar soltero y que la persona adecuada aparecerá cuando estés... "
+            "Text": "¿Deberías evitar probar nuevas comidas porque tus colegas no lo están ordenando?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Amigos en las relaciones_Salud Mental_puzzle_word2",
+            "type": "Buttons",
+            "name": "Probando comidas diferentes_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "listo"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "answer": "No"
         }
     ]
 }

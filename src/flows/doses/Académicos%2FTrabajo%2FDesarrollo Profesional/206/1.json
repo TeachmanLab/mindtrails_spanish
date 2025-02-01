@@ -1,14 +1,14 @@
 {
-    "name": "Participación208",
-    "title": "Participación",
+    "header_text": "Reunión uno a uno",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Participación"
+            "text": "Reunión uno a uno"
         },
         {
             "type": "Media",
-            "file": "/images/Participación.jpg"
+            "file": "/images/Reunión_uno_a_uno.jpg"
         }
     ]
 }

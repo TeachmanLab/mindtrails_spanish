@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Visitando a los vecinos",
+    "header_title": "Truco o trato",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu vecino mayor probablemente ha estado enfermo?"
+            "Text": "¿La gente del trabajo piensa que eres soso por ir a truco o trato?"
         },
         {
             "type": "Buttons",
-            "name": "Visitando a los vecinos_Situaciones Sociales_comp_question",
+            "name": "Truco o trato_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,

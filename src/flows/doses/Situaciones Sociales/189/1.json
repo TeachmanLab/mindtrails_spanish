@@ -1,14 +1,14 @@
 {
-    "name": "Conversación durante la cena193",
-    "title": "Conversación durante la cena",
+    "header_text": "Tu mejor amigo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Conversación durante la cena"
+            "text": "Tu mejor amigo"
         },
         {
             "type": "Media",
-            "file": "/images/Conversación_durante_la_cena.jpg"
+            "file": "/images/Tu_mejor_amigo.jpg"
         }
     ]
 }

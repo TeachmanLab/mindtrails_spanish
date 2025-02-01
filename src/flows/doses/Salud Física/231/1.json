@@ -1,14 +1,14 @@
 {
-    "name": "Nadando en la playa254",
-    "title": "Nadando en la playa",
+    "header_text": "Corriendo con un amigo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nadando en la playa"
+            "text": "Corriendo con un amigo"
         },
         {
             "type": "Media",
-            "file": "/images/Nadando_en_la_playa.jpg"
+            "file": "/images/Corriendo_con_un_amigo.jpg"
         }
     ]
 }

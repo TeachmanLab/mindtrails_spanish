@@ -1,14 +1,14 @@
 {
-    "name": "Tu propio estilo192",
-    "title": "Tu propio estilo",
+    "header_text": "Usando tecnología diferente",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tu propio estilo"
+            "text": "Usando tecnología diferente"
         },
         {
             "type": "Media",
-            "file": "/images/Tu_propio_estilo.jpg"
+            "file": "/images/Usando_tecnología_diferente.jpg"
         }
     ]
 }

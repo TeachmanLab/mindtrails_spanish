@@ -1,14 +1,14 @@
 {
-    "name": "Planes para el fin de semana26",
-    "title": "Planes para el fin de semana",
+    "header_text": "Mantenerse al día con los amigos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Planes para el fin de semana"
+            "text": "Mantenerse al día con los amigos"
         },
         {
             "type": "Media",
-            "file": "/images/Planes_para_el_fin_de_semana.jpg"
+            "file": "/images/Mantenerse_al_día_con_los_amigos.jpg"
         }
     ]
 }

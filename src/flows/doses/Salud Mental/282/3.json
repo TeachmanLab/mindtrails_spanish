@@ -1,6 +1,6 @@
 {
-    "name": "Puzzle",
-    "title": "Usando tecnología diferente",
+    "header_text": "Usando tecnología diferente",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

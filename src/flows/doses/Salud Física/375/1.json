@@ -1,14 +1,14 @@
 {
-    "name": "Comunicación tardía408",
-    "title": "Comunicación tardía",
+    "header_text": "Planes para visitar a la familia",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comunicación tardía"
+            "text": "Planes para visitar a la familia"
         },
         {
             "type": "Media",
-            "file": "/images/Comunicación_tardía.jpg"
+            "file": "/images/Planes_para_visitar_a_la_familia.jpg"
         }
     ]
 }

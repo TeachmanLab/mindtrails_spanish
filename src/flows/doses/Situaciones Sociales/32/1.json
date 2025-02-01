@@ -1,14 +1,14 @@
 {
-    "name": "Mantenerse al día con los amigos28",
-    "title": "Mantenerse al día con los amigos",
+    "header_text": "Un trago de agua",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mantenerse al día con los amigos"
+            "text": "Un trago de agua"
         },
         {
             "type": "Media",
-            "file": "/images/Mantenerse_al_día_con_los_amigos.jpg"
+            "file": "/images/Un_trago_de_agua.jpg"
         }
     ]
 }

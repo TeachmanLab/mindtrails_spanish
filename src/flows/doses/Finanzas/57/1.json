@@ -1,6 +1,6 @@
 {
-    "name": "Preocupándote por gastar51",
-    "title": "Preocupándote por gastar",
+    "header_text": "Preocupándote por gastar",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",

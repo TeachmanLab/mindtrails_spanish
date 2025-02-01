@@ -1,14 +1,14 @@
 {
-    "name": "Sintiéndote ansioso75",
-    "title": "Sintiéndote ansioso",
+    "header_text": "Trabajo inacabado",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sintiéndote ansioso"
+            "text": "Trabajo inacabado"
         },
         {
             "type": "Media",
-            "file": "/images/Sintiéndote_ansioso.jpg"
+            "file": "/images/Trabajo_inacabado.jpg"
         }
     ]
 }

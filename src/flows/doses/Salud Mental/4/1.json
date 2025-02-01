@@ -1,14 +1,14 @@
 {
-    "name": "Puerta con seguro2",
-    "title": "Puerta con seguro",
+    "header_text": "Pensamientos acelerados",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Puerta con seguro"
+            "text": "Pensamientos acelerados"
         },
         {
             "type": "Media",
-            "file": "/images/Puerta_con_seguro.jpg"
+            "file": "/images/Pensamientos_acelerados.jpg"
         }
     ]
 }

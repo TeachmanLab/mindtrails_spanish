@@ -1,14 +1,14 @@
 {
-    "name": "Un comentario grosero37",
-    "title": "Un comentario grosero",
+    "header_text": "Tus habilidades con los bolos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un comentario grosero"
+            "text": "Tus habilidades con los bolos"
         },
         {
             "type": "Media",
-            "file": "/images/Un_comentario_grosero.jpg"
+            "file": "/images/Tus_habilidades_con_los_bolos.jpg"
         }
     ]
 }

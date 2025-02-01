@@ -1,6 +1,6 @@
 {
-    "name": "Question",
-    "title": "Entrando a una discoteca",
+    "header_title": "Entrando a una discoteca",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {

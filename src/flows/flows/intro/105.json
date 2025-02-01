@@ -1,0 +1,11 @@
+{
+    "title": "Imágenes ansiosas principales",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Juega esta situación en tu cabeza durante los próximos 20 segundos. \n\nLa pantalla cambiará en 20 segundos."
+        }
+    ],
+    "timeout": 20,
+    "show_buttons": "Never"
+}

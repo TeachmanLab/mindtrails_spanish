@@ -1,6 +1,6 @@
 {
-    "name": "Puzzle 2",
-    "title": "Cafetería",
+    "header_text": "Cafetería",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

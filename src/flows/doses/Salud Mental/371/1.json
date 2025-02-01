@@ -1,14 +1,14 @@
 {
-    "name": "Expectativas diferentes403",
-    "title": "Expectativas diferentes",
+    "header_text": "Sintiéndote ansioso",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Expectativas diferentes"
+            "text": "Sintiéndote ansioso"
         },
         {
             "type": "Media",
-            "file": "/images/Expectativas_diferentes.jpg"
+            "file": "/images/Sintiéndote_ansioso.jpg"
         }
     ]
 }

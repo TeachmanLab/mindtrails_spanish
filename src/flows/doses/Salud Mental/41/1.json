@@ -1,14 +1,14 @@
 {
-    "name": "Trabajando para salir adelante36",
-    "title": "Trabajando para salir adelante",
+    "header_text": "Aceptando elogios",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trabajando para salir adelante"
+            "text": "Aceptando elogios"
         },
         {
             "type": "Media",
-            "file": "/images/Trabajando_para_salir_adelante.jpg"
+            "file": "/images/Aceptando_elogios.jpg"
         }
     ]
 }

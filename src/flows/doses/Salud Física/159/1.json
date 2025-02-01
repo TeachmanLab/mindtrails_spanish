@@ -1,14 +1,14 @@
 {
-    "name": "Vacacionando en avión166",
-    "title": "Vacacionando en avión",
+    "header_text": "Cita con el doctor",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Vacacionando en avión"
+            "text": "Cita con el doctor"
         },
         {
             "type": "Media",
-            "file": "/images/Vacacionando_en_avión.jpg"
+            "file": "/images/Cita_con_el_doctor.jpg"
         }
     ]
 }

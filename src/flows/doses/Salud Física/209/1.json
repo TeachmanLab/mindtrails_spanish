@@ -1,10 +1,11 @@
 {
-    "title": "¡Escribe El Tuyo!",
+    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
+            "text": "Si nota que no se siente bien, recuerde que hay una variedad de razones de bajo riesgo por las cuales podría sentirse así (por ejemplo, puede estar cansado, puede haber comido algo malo, etc.)."
         }
-    ],
-    "name": "Write Your Own"
+    ]
 }

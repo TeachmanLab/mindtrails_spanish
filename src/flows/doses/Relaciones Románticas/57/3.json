@@ -1,6 +1,6 @@
 {
-    "name": "Question",
-    "title": "Preocupaciones por el COVID",
+    "header_title": "Preocupaciones por el COVID",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {

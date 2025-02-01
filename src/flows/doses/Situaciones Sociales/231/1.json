@@ -1,14 +1,14 @@
 {
-    "name": "No tener mucho que decir254",
-    "title": "No tener mucho que decir",
+    "header_text": "Una invitación",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "No tener mucho que decir"
+            "text": "Una invitación"
         },
         {
             "type": "Media",
-            "file": "/images/No_tener_mucho_que_decir.jpg"
+            "file": "/images/Una_invitación.jpg"
         }
     ]
 }

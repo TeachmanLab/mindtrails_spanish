@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Llamada telefónica del lunes",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Padres visitando",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus padres no pueden hablar porque están enfermos?"
+            "text": "Respiras profundamente y te enfocas de nuevo en organizar la fiesta de nacimiento. Decides que no puedes controlar el comportamiento de tus..."
         },
         {
-            "type": "Buttons",
-            "name": "Llamada telefónica del lunes_Vida Familiar y Doméstica_comp_question",
+            "type": "WordPuzzle",
+            "name": "Padres visitando_Vida Familiar y Doméstica_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "padres"
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 1
         }
     ]
 }

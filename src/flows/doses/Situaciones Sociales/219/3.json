@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Corriendo con un amigo",
+    "header_title": "Evaluaciones entre compañeros",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Crees que mañana no te quedarás atrás, y las posibilidades de que puedas seguir el ritmo de tu amigo son..."
+            "Text": "¿Estás preocupado por el debate?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Corriendo con un amigo_Situaciones Sociales_puzzle_word2",
+            "type": "Buttons",
+            "name": "Evaluaciones entre compañeros_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "altas"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "No"
         }
     ]
 }

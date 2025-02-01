@@ -1,14 +1,11 @@
 {
-    "name": "El escaparate de danza89",
-    "title": "El escaparate de danza",
+    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "El escaparate de danza"
-        },
-        {
-            "type": "Media",
-            "file": "/images/El_escaparate_de_danza.jpg"
+            "type": "Text",
+            "text": "Cuando estés enojado o molesto por cualquier situación, dejas que esa emoción vaya y venga. En lugar de tratar de alejarlo, permítete reconocer y sentir profundamente tus emociones de manera segura. "
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Montar a caballo durante el fin de semana275",
-    "title": "Montar a caballo durante el fin de semana",
+    "header_text": "Explorando una cueva estrecha",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Montar a caballo durante el fin de semana"
+            "text": "Explorando una cueva estrecha"
         },
         {
             "type": "Media",
-            "file": "/images/Montar_a_caballo_durante_el_fin_de_semana.jpg"
+            "file": "/images/Explorando_una_cueva_estrecha.jpg"
         }
     ]
 }

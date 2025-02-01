@@ -1,6 +1,6 @@
 {
-    "name": "Question",
-    "title": "Celebraciones culturales familiares",
+    "header_title": "Celebraciones culturales familiares",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {

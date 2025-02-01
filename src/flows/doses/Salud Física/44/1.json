@@ -1,14 +1,15 @@
 {
-    "name": "Un vuelo internacional39",
-    "title": "Un vuelo internacional",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_icon": "assets/subtitle.png",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
-            "type": "Label",
-            "text": "Un vuelo internacional"
+            "type": "Text",
+            "text": "Imaginas que estás impartiendo un taller sobre cómo pensar de manera flexible sobre situaciones ambiguas y potencialmente amenzantes. ¿Cuál sería tu mensaje para los participantes?"
         },
         {
-            "type": "Media",
-            "file": "/images/Un_vuelo_internacional.jpg"
+            "type": "Entry",
+            "name": "Consejo #6_entry"
         }
     ]
 }

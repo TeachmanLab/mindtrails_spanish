@@ -1,0 +1,21 @@
+{
+    "title": "El viaje de compras",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "EL VIAJE DE COMPRAS: Piensas en tu salud reciente...\n\nY crees que es poco probable que contraigas la extrana enfermedad."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Muy diferente",
+                "Diferente",
+                "Similar",
+                "Muy similar",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "IBM_shopping_interpretation_2"
+        }
+    ]
+}

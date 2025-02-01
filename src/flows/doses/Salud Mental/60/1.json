@@ -1,14 +1,14 @@
 {
-    "name": "Lograr tus objetivos52",
-    "title": "Lograr tus objetivos",
+    "header_text": "Ejercicio con un amigo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Lograr tus objetivos"
+            "text": "Ejercicio con un amigo"
         },
         {
             "type": "Media",
-            "file": "/images/Lograr_tus_objetivos.jpg"
+            "file": "/images/Ejercicio_con_un_amigo.jpg"
         }
     ]
 }

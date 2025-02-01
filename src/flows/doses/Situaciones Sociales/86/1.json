@@ -1,14 +1,14 @@
 {
-    "name": "Recogiendo a un viejo amigo76",
-    "title": "Recogiendo a un viejo amigo",
+    "header_text": "Comunicación tardía",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Recogiendo a un viejo amigo"
+            "text": "Comunicación tardía"
         },
         {
             "type": "Media",
-            "file": "/images/Recogiendo_a_un_viejo_amigo.jpg"
+            "file": "/images/Comunicación_tardía.jpg"
         }
     ]
 }

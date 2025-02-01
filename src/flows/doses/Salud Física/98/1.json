@@ -1,14 +1,14 @@
 {
-    "name": "Manejando con una amigo87",
-    "title": "Manejando con una amigo",
+    "header_text": "Exposición reciente",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Manejando con una amigo"
+            "text": "Exposición reciente"
         },
         {
             "type": "Media",
-            "file": "/images/Manejando_con_una_amigo.jpg"
+            "file": "/images/Exposición_reciente.jpg"
         }
     ]
 }

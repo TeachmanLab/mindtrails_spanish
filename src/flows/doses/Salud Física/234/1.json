@@ -1,14 +1,14 @@
 {
-    "name": "Amigo en el hospital257",
-    "title": "Amigo en el hospital",
+    "header_text": "Evaluación de salud",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Amigo en el hospital"
+            "text": "Evaluación de salud"
         },
         {
             "type": "Media",
-            "file": "/images/Amigo_en_el_hospital.jpg"
+            "file": "/images/Evaluación_de_salud.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Fecha límite cercana42",
-    "title": "Fecha límite cercana",
+    "header_text": "Mantener a la familia",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Fecha límite cercana"
+            "text": "Mantener a la familia"
         },
         {
             "type": "Media",
-            "file": "/images/Fecha_límite_cercana.jpg"
+            "file": "/images/Mantener_a_la_familia.jpg"
         }
     ]
 }

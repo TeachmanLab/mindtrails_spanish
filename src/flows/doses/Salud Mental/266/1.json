@@ -1,14 +1,14 @@
 {
-    "name": "Compartir con alguien nuevo286",
-    "title": "Compartir con alguien nuevo",
+    "header_text": "Planes para el fin de semana",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Compartir con alguien nuevo"
+            "text": "Planes para el fin de semana"
         },
         {
             "type": "Media",
-            "file": "/images/Compartir_con_alguien_nuevo.jpg"
+            "file": "/images/Planes_para_el_fin_de_semana.jpg"
         }
     ]
 }

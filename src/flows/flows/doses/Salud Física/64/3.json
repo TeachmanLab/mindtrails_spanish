@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Clima frío",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sigues caminando, y te sientes un poco incómodo pero decides que la respuesta de tu cuerpo al frío es..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Clima frío_Salud Física_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "manejable"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Revisando tu trabajo",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Crees que durante tu evaluación de desempeño, es probable que su jefe diga..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Revisando tu trabajo_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "\"¡Estos errores son simplemente inaceptables en este momento!\"",
+                "\"Todavía estoy muy contento con el trabajo que has estado haciendo\"."
+            ],
+            "columnCount": 1,
+            "answer": "\"¡Estos errores son simplemente inaceptables en este momento!\""
+        }
+    ]
+}

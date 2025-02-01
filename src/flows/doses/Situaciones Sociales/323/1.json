@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Situaciones Sociales",
-    "name": "Consejo para la regulación de las emociones",
+    "header_text": "Una presentación grande",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Ponte el reto de hablar con alguien nuevo hoy."
+            "type": "Label",
+            "text": "Una presentación grande"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Una_presentación_grande.jpg"
         }
     ]
 }

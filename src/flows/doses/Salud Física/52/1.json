@@ -1,14 +1,14 @@
 {
-    "name": "Una mesa sucia46",
-    "title": "Una mesa sucia",
+    "header_text": "Asustado en tu caminata",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una mesa sucia"
+            "text": "Asustado en tu caminata"
         },
         {
             "type": "Media",
-            "file": "/images/Una_mesa_sucia.jpg"
+            "file": "/images/Asustado_en_tu_caminata.jpg"
         }
     ]
 }

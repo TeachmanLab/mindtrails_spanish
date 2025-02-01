@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Controles en el dentista.",
+    "header_text": "Revisión física anual",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes una cita de rutina con el dentista y descubres que necesitas algunas pruebas para comprobar la salud de tus encías y dientes. Después de que el dentista realiza las pruebas, continúas recostado en el sillón del dentista mientras esperas los resultados. Crees que tus dientes y encías probablemente estén..."
+            "text": "Estás recibiendo tu revisión médica anual. Después de un examen inicial, tu médico indica que algo parece inusual y dice que necesitarán obtener una segunda opinión. Cuando se trata de manejar tu ansiedad mientras esperas en la sala de examen, eres..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Controles en el dentista._Salud Física_puzzle1",
+            "name": "Revisión física anual_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "enfermos"
+                "capaz"
             ],
             "missing_letter_count": 2
         }

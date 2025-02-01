@@ -1,14 +1,14 @@
 {
-    "name": "Tiempo en silencio87",
-    "title": "Tiempo en silencio",
+    "header_text": "El escaparate de danza",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tiempo en silencio"
+            "text": "El escaparate de danza"
         },
         {
             "type": "Media",
-            "file": "/images/Tiempo_en_silencio.jpg"
+            "file": "/images/El_escaparate_de_danza.jpg"
         }
     ]
 }

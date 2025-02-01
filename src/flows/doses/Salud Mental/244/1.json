@@ -1,14 +1,14 @@
 {
-    "name": "Proyecto eliminado266",
-    "title": "Proyecto eliminado",
+    "header_text": "Mensajes de texto honestos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Proyecto eliminado"
+            "text": "Mensajes de texto honestos"
         },
         {
             "type": "Media",
-            "file": "/images/Proyecto_eliminado.jpg"
+            "file": "/images/Mensajes_de_texto_honestos.jpg"
         }
     ]
 }

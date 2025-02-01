@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Gestión de crédito",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Obtener una nueva tarjeta de crédito probablemente"
+        },
+        {
+            "type": "Buttons",
+            "name": "Gestión de crédito_Finanzas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "no cambiaría mucho la forma cuidadosa en que gastas",
+                "lo perjudicaría financieramente al endeudarse"
+            ],
+            "columnCount": 1,
+            "answer": "no cambiaría mucho la forma cuidadosa en que gastas"
+        }
+    ]
+}

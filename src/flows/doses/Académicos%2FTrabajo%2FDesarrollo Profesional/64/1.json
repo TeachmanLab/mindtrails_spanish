@@ -1,14 +1,14 @@
 {
-    "name": "Complicaciones en terminar56",
-    "title": "Complicaciones en terminar",
+    "header_text": "Mercado de trabajo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Complicaciones en terminar"
+            "text": "Mercado de trabajo"
         },
         {
             "type": "Media",
-            "file": "/images/Complicaciones_en_terminar.jpg"
+            "file": "/images/Mercado_de_trabajo.jpg"
         }
     ]
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Razón 2:"
+        },
+        {
+            "type": "Entry",
+            "name": "Razón2_WYO"
+        }
+    ]
+}

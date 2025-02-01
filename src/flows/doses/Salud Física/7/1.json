@@ -1,14 +1,14 @@
 {
-    "name": "Cargando bolsas de compras5",
-    "title": "Cargando bolsas de compras",
+    "header_text": "Cita con el doctor",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cargando bolsas de compras"
+            "text": "Cita con el doctor"
         },
         {
             "type": "Media",
-            "file": "/images/Cargando_bolsas_de_compras.jpg"
+            "file": "/images/Cita_con_el_doctor.jpg"
         }
     ]
 }

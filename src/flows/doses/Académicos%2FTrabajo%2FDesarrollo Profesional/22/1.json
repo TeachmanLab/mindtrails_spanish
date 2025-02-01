@@ -1,14 +1,11 @@
 {
-    "name": "Visitas importantes19",
-    "title": "Visitas importantes",
+    "header_text": "Maneja tus sentimientos: Académicos/Trabajo/Desarrollo Profesional",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Visitas importantes"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Visitas_importantes.jpg"
+            "type": "Text",
+            "text": "Si ha pospuesto una tarea porque le parece abrumadora, intente dividirla en pasos más pequeños y manejables."
         }
     ]
 }

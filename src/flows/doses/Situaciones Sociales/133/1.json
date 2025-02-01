@@ -1,14 +1,14 @@
 {
-    "name": "Pensamientos del grupo de teatro143",
-    "title": "Pensamientos del grupo de teatro",
+    "header_text": "Redes sociales",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pensamientos del grupo de teatro"
+            "text": "Redes sociales"
         },
         {
             "type": "Media",
-            "file": "/images/Pensamientos_del_grupo_de_teatro.jpg"
+            "file": "/images/Redes_sociales.jpg"
         }
     ]
 }

@@ -1,14 +1,11 @@
 {
-    "name": "Boca seca388",
-    "title": "Boca seca",
+    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Boca seca"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Boca_seca.jpg"
+            "type": "Text",
+            "text": "Todas las emociones tienen un propósito. Nos cuentan lo que sucede en nuestras vidas y nos ayudan a motivarnos. Incluso los sentimientos negativos, como el miedo y la ansiedad, nos ayudan a navegar por el mundo que nos rodea."
         }
     ]
 }

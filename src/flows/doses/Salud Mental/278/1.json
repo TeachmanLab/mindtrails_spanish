@@ -1,14 +1,14 @@
 {
-    "name": "Un momento de olvido297",
-    "title": "Un momento de olvido",
+    "header_text": "Cambio de planes",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un momento de olvido"
+            "text": "Cambio de planes"
         },
         {
             "type": "Media",
-            "file": "/images/Un_momento_de_olvido.jpg"
+            "file": "/images/Cambio_de_planes.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Sintiéndote preocupado por las noticias143",
-    "title": "Sintiéndote preocupado por las noticias",
+    "header_text": "Mantener a la familia",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sintiéndote preocupado por las noticias"
+            "text": "Mantener a la familia"
         },
         {
             "type": "Media",
-            "file": "/images/Sintiéndote_preocupado_por_las_noticias.jpg"
+            "file": "/images/Mantener_a_la_familia.jpg"
         }
     ]
 }

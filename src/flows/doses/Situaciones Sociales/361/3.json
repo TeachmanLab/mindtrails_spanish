@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Contacto alternativo",
+    "header_title": "Fin de semana largo solo",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu conocido se quedó callado porque te estaban juzgando?"
+            "Text": "¿Estás triste por el fin de semana largo?"
         },
         {
             "type": "Buttons",
-            "name": "Contacto alternativo_Situaciones Sociales_comp_question",
+            "name": "Fin de semana largo solo_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "",
+                ""
             ],
             "columnCount": 1,
-            "answer": "No"
+            "answer": ""
         }
     ]
 }

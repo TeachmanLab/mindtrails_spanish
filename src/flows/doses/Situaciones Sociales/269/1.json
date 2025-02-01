@@ -1,14 +1,11 @@
 {
-    "name": "Faltando una reunión289",
-    "title": "Faltando una reunión",
+    "header_text": "Recurso: Situaciones Sociales",
+    "header_icon": "assets/subtitle.png",
+    "name": "Personas de la tercera edad",
     "elements": [
         {
-            "type": "Label",
-            "text": "Faltando una reunión"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Faltando_una_reunión.jpg"
+            "type": "Text",
+            "text": "Personas de la tercera edad\n\nEste sitio Web ilumina situaciones diversas en cuáles las personas de tercera edad podrían necesitar ayuda. Ofrece recursos y guías informativas.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

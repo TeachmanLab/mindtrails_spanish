@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Nuevo estilo",
+    "header_title": "Práctica de presentación",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Después de luchar contigo mismo en el vestidor, te sientes seguro y quieres ponertelo para salir, así que compras el nuevo..."
+            "Text": "¿Crees que estás bien preparado?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Nuevo estilo_Salud Mental_puzzle_word2",
+            "type": "Buttons",
+            "name": "Práctica de presentación_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "conjunto"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "Si"
         }
     ]
 }

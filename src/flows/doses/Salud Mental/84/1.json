@@ -1,14 +1,14 @@
 {
-    "name": "Respondiendo a preguntas inesperadas74",
-    "title": "Respondiendo a preguntas inesperadas",
+    "header_text": "Probando comidas nuevas",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Respondiendo a preguntas inesperadas"
+            "text": "Probando comidas nuevas"
         },
         {
             "type": "Media",
-            "file": "/images/Respondiendo_a_preguntas_inesperadas.jpg"
+            "file": "/images/Probando_comidas_nuevas.jpg"
         }
     ]
 }

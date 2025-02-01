@@ -1,14 +1,14 @@
 {
-    "name": "Usando tecnología diferente194",
-    "title": "Usando tecnología diferente",
+    "header_text": "Sentirse entumecido",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Usando tecnología diferente"
+            "text": "Sentirse entumecido"
         },
         {
             "type": "Media",
-            "file": "/images/Usando_tecnología_diferente.jpg"
+            "file": "/images/Sentirse_entumecido.jpg"
         }
     ]
 }

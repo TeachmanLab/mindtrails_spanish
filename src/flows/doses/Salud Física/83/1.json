@@ -1,14 +1,14 @@
 {
-    "name": "Tomando transporte73",
-    "title": "Tomando transporte",
+    "header_text": "Poniéndose al día con los amigos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tomando transporte"
+            "text": "Poniéndose al día con los amigos"
         },
         {
             "type": "Media",
-            "file": "/images/Tomando_transporte.jpg"
+            "file": "/images/Poniéndose_al_día_con_los_amigos.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Respondiendo a preguntas inesperadas381",
-    "title": "Respondiendo a preguntas inesperadas",
+    "header_text": "Comparar su trabajo con el de otros",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Respondiendo a preguntas inesperadas"
+            "text": "Comparar su trabajo con el de otros"
         },
         {
             "type": "Media",
-            "file": "/images/Respondiendo_a_preguntas_inesperadas.jpg"
+            "file": "/images/Comparar_su_trabajo_con_el_de_otros.jpg"
         }
     ]
 }

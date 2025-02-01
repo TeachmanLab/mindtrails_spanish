@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Salud Mental",
-    "name": "Consejo para la regulación de las emociones",
+    "header_text": "Comprometerse con las actividades",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Pruebe el método STOPP: S-Stop y pausa por un momento. T- Toma un respiro. O- Observa lo que estás sintiendo. P- Retroceder y poner la situación en perspectiva. P- Practica lo que funciona, haz algo que disfrutes/algo que te calme."
+            "type": "Label",
+            "text": "Comprometerse con las actividades"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Comprometerse_con_las_actividades.jpg"
         }
     ]
 }

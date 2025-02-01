@@ -1,14 +1,14 @@
 {
-    "name": "Miedo a la decepción244",
-    "title": "Miedo a la decepción",
+    "header_text": "Trabajos bien pagados",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Miedo a la decepción"
+            "text": "Trabajos bien pagados"
         },
         {
             "type": "Media",
-            "file": "/images/Miedo_a_la_decepción.jpg"
+            "file": "/images/Trabajos_bien_pagados.jpg"
         }
     ]
 }

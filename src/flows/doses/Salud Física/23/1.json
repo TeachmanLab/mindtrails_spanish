@@ -1,14 +1,14 @@
 {
-    "name": "Prueba de enfermedad20",
-    "title": "Prueba de enfermedad",
+    "header_text": "Explorando una cueva estrecha",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Prueba de enfermedad"
+            "text": "Explorando una cueva estrecha"
         },
         {
             "type": "Media",
-            "file": "/images/Prueba_de_enfermedad.jpg"
+            "file": "/images/Explorando_una_cueva_estrecha.jpg"
         }
     ]
 }

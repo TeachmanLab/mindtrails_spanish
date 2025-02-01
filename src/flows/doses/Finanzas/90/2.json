@@ -1,14 +1,14 @@
 {
-    "name": "Visitar a un nuevo amigo80",
-    "title": "Visitar a un nuevo amigo",
+    "header_text": "Ir a la quiebra",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Visitar a un nuevo amigo"
+            "text": "Ir a la quiebra"
         },
         {
             "type": "Media",
-            "file": "/images/Visitar_a_un_nuevo_amigo.jpg"
+            "file": "/images/Ir_a_la_quiebra.jpg"
         }
     ]
 }

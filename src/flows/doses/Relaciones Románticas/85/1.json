@@ -1,14 +1,14 @@
 {
-    "name": "Escuchando un desacuerdo75",
-    "title": "Escuchando un desacuerdo",
+    "header_text": "Relaciones futuras",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Escuchando un desacuerdo"
+            "text": "Relaciones futuras"
         },
         {
             "type": "Media",
-            "file": "/images/Escuchando_un_desacuerdo.jpg"
+            "file": "/images/Relaciones_futuras.jpg"
         }
     ]
 }

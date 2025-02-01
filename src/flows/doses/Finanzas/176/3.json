@@ -1,0 +1,14 @@
+{
+    "header_text": "Planificación de pagos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "No te ves cometiendo un gran error y piensas que el plan que elijas te dejará en una posición financiera..."
+        },
+        {
+            "type": "Entry",
+            "name": "Planificación de pagos_Finanzas_entry2"
+        }
+    ]
+}

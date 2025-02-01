@@ -1,6 +1,6 @@
 {
-    "name": "Pasando tiempo con familia124",
-    "title": "Pasando tiempo con familia",
+    "header_text": "Pasando tiempo con familia",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",

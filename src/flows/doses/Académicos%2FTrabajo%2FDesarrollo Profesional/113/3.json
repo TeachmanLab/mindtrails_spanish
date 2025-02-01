@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Completando trabajos",
+    "header_title": "El curso difícil",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Podrás hacer trabajo este fin de semana?"
+            "Text": "Lo más probable es que vas a..."
         },
         {
             "type": "Buttons",
-            "name": "Completando trabajos_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "El curso difícil_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Salir del programa porque lo estás haciendo mal.",
+                "Completes el programa y aprendas algunas habilidades útiles en ciencia de datos."
             ],
             "columnCount": 1,
-            "answer": "Si"
+            "answer": "Salir del programa porque lo estás haciendo mal."
         }
     ]
 }

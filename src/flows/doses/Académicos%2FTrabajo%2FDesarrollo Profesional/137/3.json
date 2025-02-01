@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Sentirse diferente",
+    "header_title": "Trabajando duro",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es malo que te sientas diferente a los demás en tu campo?"
+            "Text": "¿Tendrás éxito con tu nueva carga de trabajo?"
         },
         {
             "type": "Buttons",
-            "name": "Sentirse diferente_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Trabajando duro_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "No"
+            "answer": "Si"
         }
     ]
 }

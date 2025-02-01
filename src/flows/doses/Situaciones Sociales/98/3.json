@@ -1,14 +1,14 @@
 {
-    "name": "Puzzle 2",
-    "title": "Tiempo en silencio",
+    "header_text": "El escaparate de danza",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Esa noche, te das cuenta de que es completamente normal tener pausas de silencio durante las conversaciones. Crees que tu amigo piensa que fue mejor quedarse en silencio que inventar cosas que decir y probablemente lo..."
+            "text": "Mientras decides si invitas o no gente a tu programa, piensas que no tendrás un mal desempeño y te ves bailando..."
         },
         {
             "type": "Entry",
-            "name": "Tiempo en silencio_Situaciones Sociales_entry2"
+            "name": "El escaparate de danza_Situaciones Sociales_entry2"
         }
     ]
 }

@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Breve introducción",
+    "header_title": "Apartamento nuevo para ti",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Al final, te das cuenta de que todos tienen estos momentos, y te recuperas rápidamente. Mientras terminas de presentarte, ves que los demás están escuchando con gran..."
+            "Text": "¿Estás aburrido viviendo solo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Breve introducción_Situaciones Sociales_puzzle_word2",
+            "type": "Buttons",
+            "name": "Apartamento nuevo para ti_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "interés"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "No"
         }
     ]
 }

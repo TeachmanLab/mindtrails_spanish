@@ -1,14 +1,14 @@
 {
-    "name": "Ingresos adicionales44",
-    "title": "Ingresos adicionales",
+    "header_text": "Gestión de crédito",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ingresos adicionales"
+            "text": "Gestión de crédito"
         },
         {
             "type": "Media",
-            "file": "/images/Ingresos_adicionales.jpg"
+            "file": "/images/Gestión_de_crédito.jpg"
         }
     ]
 }

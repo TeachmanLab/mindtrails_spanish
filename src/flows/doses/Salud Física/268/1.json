@@ -1,14 +1,14 @@
 {
-    "name": "Celebraciones en un juego deportivo288",
-    "title": "Celebraciones en un juego deportivo",
+    "header_text": "Boca seca",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Celebraciones en un juego deportivo"
+            "text": "Boca seca"
         },
         {
             "type": "Media",
-            "file": "/images/Celebraciones_en_un_juego_deportivo.jpg"
+            "file": "/images/Boca_seca.jpg"
         }
     ]
 }

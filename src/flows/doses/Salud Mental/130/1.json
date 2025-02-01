@@ -1,14 +1,14 @@
 {
-    "name": "Una invitación141",
-    "title": "Una invitación",
+    "header_text": "Recibir reconocimiento",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una invitación"
+            "text": "Recibir reconocimiento"
         },
         {
             "type": "Media",
-            "file": "/images/Una_invitación.jpg"
+            "file": "/images/Recibir_reconocimiento.jpg"
         }
     ]
 }

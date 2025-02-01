@@ -1,14 +1,14 @@
 {
-    "name": "Paracaidismo por primera vez265",
-    "title": "Paracaidismo por primera vez",
+    "header_text": "Amigo tosiendo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Paracaidismo por primera vez"
+            "text": "Amigo tosiendo"
         },
         {
             "type": "Media",
-            "file": "/images/Paracaidismo_por_primera_vez.jpg"
+            "file": "/images/Amigo_tosiendo.jpg"
         }
     ]
 }

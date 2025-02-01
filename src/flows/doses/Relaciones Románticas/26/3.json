@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Invitando tu Amigo a una Cita",
+    "header_title": "Consejos para un amigo",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Si le preguntas a tu amigo en una cita, probablemente..."
+            "Text": "¿Tu amigo pensó que le diste buenos consejos sobre las relaciones?"
         },
         {
             "type": "Buttons",
-            "name": "Invitando tu Amigo a una Cita_Relaciones Románticas_comp_question",
+            "name": "Consejos para un amigo_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Harás que tu amigo se sienta bien.",
-                "Pondrás a tu amigo en una posición incómoda."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "answer": "Harás que tu amigo se sienta bien."
+            "answer": "Si"
         }
     ]
 }

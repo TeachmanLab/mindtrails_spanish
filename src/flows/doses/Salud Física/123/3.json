@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Prueba positiva",
+    "header_title": "Cancelación de concierto",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Pruebas positivo?"
+            "Text": "¿Te preocupa que cancelen el concierto?"
         },
         {
             "type": "Buttons",
-            "name": "Prueba positiva_Salud Física_comp_question",
+            "name": "Cancelación de concierto_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "Sí"
+            "answer": "No"
         }
     ]
 }

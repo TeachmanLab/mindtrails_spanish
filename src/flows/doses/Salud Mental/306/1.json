@@ -1,10 +1,12 @@
 {
-    "title": "Recurso: Salud Mental",
-    "name": "Cuaderno: Guía de salud mental",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Cuaderno: Guía de salud mental\n\nEsta guía cubre todo tipo de información acerca de la salud mental, incluyendo secciones sobre trastornos, recursos, y consejos para sobrellevar síntomas y estrés.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
         }
     ]
 }

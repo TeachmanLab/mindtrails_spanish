@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Tus habilidades con los bolos",
+    "header_title": "Obteniendo ayuda",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Crees que a medida que sigas jugando a los bolos..."
+            "Text": "¿Buscar ayuda te ayudará sentir mejor?"
         },
         {
             "type": "Buttons",
-            "name": "Tus habilidades con los bolos_Salud Mental_comp_question",
+            "name": "Obteniendo ayuda_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Eventualmente te convertirás en un jugador de bolos fuerte.",
-                "Nunca te convertirás en un buen jugador de bolos."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "answer": "Eventualmente te convertirás en un jugador de bolos fuerte."
+            "answer": "Si"
         }
     ]
 }

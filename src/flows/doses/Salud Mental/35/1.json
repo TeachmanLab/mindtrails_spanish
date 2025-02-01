@@ -1,14 +1,14 @@
 {
-    "name": "Ir a terapia31",
-    "title": "Ir a terapia",
+    "header_text": "Cambio de planes",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ir a terapia"
+            "text": "Cambio de planes"
         },
         {
             "type": "Media",
-            "file": "/images/Ir_a_terapia.jpg"
+            "file": "/images/Cambio_de_planes.jpg"
         }
     ]
 }

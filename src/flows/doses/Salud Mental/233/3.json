@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Temprano en la mañana",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Nuevo estilo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus amigos te juzgan por no salir con ellos?"
+            "text": "Después de luchar contigo mismo en el vestidor, te sientes seguro y quieres ponertelo para salir, así que compras el nuevo..."
         },
         {
-            "type": "Buttons",
-            "name": "Temprano en la mañana_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Nuevo estilo_Salud Mental_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "conjunto"
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 1
         }
     ]
 }

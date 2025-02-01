@@ -1,14 +1,14 @@
 {
-    "name": "Calentador87",
-    "title": "Calentador",
+    "header_text": "Planes de vacaciones",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Calentador"
+            "text": "Planes de vacaciones"
         },
         {
             "type": "Media",
-            "file": "/images/Calentador.jpg"
+            "file": "/images/Planes_de_vacaciones.jpg"
         }
     ]
 }

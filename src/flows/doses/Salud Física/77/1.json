@@ -1,14 +1,14 @@
 {
-    "name": "Subiendo escaleras68",
-    "title": "Subiendo escaleras",
+    "header_text": "Serpientes venenosas",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Subiendo escaleras"
+            "text": "Serpientes venenosas"
         },
         {
             "type": "Media",
-            "file": "/images/Subiendo_escaleras.jpg"
+            "file": "/images/Serpientes_venenosas.jpg"
         }
     ]
 }

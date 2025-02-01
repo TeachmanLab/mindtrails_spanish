@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Una oportunidad perdida",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Reflexionando sobre el partido de fútbol, piensas que..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Una oportunidad perdida_Salud Mental_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Intentaste lo mejor posible y jugaste bien.",
+                "Jugaste mal."
+            ],
+            "columnCount": 1,
+            "answer": "Intentaste lo mejor posible y jugaste bien."
+        }
+    ]
+}

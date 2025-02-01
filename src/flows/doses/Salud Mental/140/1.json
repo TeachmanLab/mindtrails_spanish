@@ -1,14 +1,11 @@
 {
-    "name": "Revisión física anual150",
-    "title": "Revisión física anual",
+    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Revisión física anual"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Revisión_física_anual.jpg"
+            "type": "Text",
+            "text": "Observe los pensamientos que tiene cuando siente una emoción negativa y determine si esos pensamientos reflejan con precisión la realidad de la situación."
         }
     ]
 }

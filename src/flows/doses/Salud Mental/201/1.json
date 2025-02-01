@@ -1,14 +1,14 @@
 {
-    "name": "Pensamientos intrusivos203",
-    "title": "Pensamientos intrusivos",
+    "header_text": "Ponerse ahí fuera",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pensamientos intrusivos"
+            "text": "Ponerse ahí fuera"
         },
         {
             "type": "Media",
-            "file": "/images/Pensamientos_intrusivos.jpg"
+            "file": "/images/Ponerse_ahí_fuera.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Tomar tu propia trayectoria profesional44",
-    "title": "Tomar tu propia trayectoria profesional",
+    "header_text": "La audición",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tomar tu propia trayectoria profesional"
+            "text": "La audición"
         },
         {
             "type": "Media",
-            "file": "/images/Tomar_tu_propia_trayectoria_profesional.jpg"
+            "file": "/images/La_audición.jpg"
         }
     ]
 }

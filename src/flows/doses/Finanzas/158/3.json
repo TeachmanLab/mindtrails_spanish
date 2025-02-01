@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Dependencia financiera",
+    "header_title": "Tomando un descanso",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Podrán tus hijos ser financieramente independientes?"
+            "Text": "¿Es importante hacer pausas a veces?"
         },
         {
             "type": "Buttons",
-            "name": "Dependencia financiera_Finanzas_comp_question",
+            "name": "Tomando un descanso_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "Sí"
+            "answer": "Si"
         }
     ]
 }

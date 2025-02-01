@@ -1,14 +1,14 @@
 {
-    "name": "Compartiendo programas favoritos316",
-    "title": "Compartiendo programas favoritos",
+    "header_text": "Devolución de chaqueta",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Compartiendo programas favoritos"
+            "text": "Devolución de chaqueta"
         },
         {
             "type": "Media",
-            "file": "/images/Compartiendo_programas_favoritos.jpg"
+            "file": "/images/Devolución_de_chaqueta.jpg"
         }
     ]
 }

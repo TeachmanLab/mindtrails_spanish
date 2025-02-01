@@ -1,22 +1,22 @@
 {
-    "name": "Puzzle",
-    "title": "Dando vueltas",
+    "header_text": "Película intermitente",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vas a dar una vuelta en una atracción de un carnaval. Cuando bajas, te sientes mareado. Estás..."
+            "text": "Estás viendo una película en el cine. Hay muchos planos de cámara rápidos que te hacen sentir mareado. Esta sensación te parece..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Dando vueltas_Salud Física_puzzle1",
+            "name": "Película intermitente_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "encantado"
+                "curioso"
             ],
-            "missing_letter_count": 1
+            "missing_letter_count": 2
         }
     ]
 }

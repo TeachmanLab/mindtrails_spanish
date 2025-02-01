@@ -1,14 +1,14 @@
 {
-    "name": "Visitando familia84",
-    "title": "Visitando familia",
+    "header_text": "Costos inesperados",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Visitando familia"
+            "text": "Costos inesperados"
         },
         {
             "type": "Media",
-            "file": "/images/Visitando_familia.jpg"
+            "file": "/images/Costos_inesperados.jpg"
         }
     ]
 }

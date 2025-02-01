@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Finanzas",
-    "name": "Consejo para la regulación de las emociones",
+    "header_text": "Ir a la quiebra",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Haga una lista de actividades que disfrute y que no cuesten dinero."
+            "type": "Label",
+            "text": "Ir a la quiebra"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Ir_a_la_quiebra.jpg"
         }
     ]
 }

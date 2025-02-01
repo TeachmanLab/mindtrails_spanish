@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Proyecto de escritura",
+    "header_title": "Certidumbre de estar en lo correcto",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Es probable que tu supervisor te haya encontrado..."
+            "Text": "¿Te sientes inseguro acerca de tu respuesta?"
         },
         {
             "type": "Buttons",
-            "name": "Proyecto de escritura_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Certidumbre de estar en lo correcto_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Incapaz.",
-                "Capaz."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "answer": "Incapaz."
+            "answer": "No"
         }
     ]
 }

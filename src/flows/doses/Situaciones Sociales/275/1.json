@@ -1,14 +1,14 @@
 {
-    "name": "Usando lo que tienes294",
-    "title": "Usando lo que tienes",
+    "header_text": "Pensamientos del grupo de teatro",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Usando lo que tienes"
+            "text": "Pensamientos del grupo de teatro"
         },
         {
             "type": "Media",
-            "file": "/images/Usando_lo_que_tienes.jpg"
+            "file": "/images/Pensamientos_del_grupo_de_teatro.jpg"
         }
     ]
 }

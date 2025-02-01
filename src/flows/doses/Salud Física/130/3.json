@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Corriendo con un amigo",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Sintiendo mareos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Mañana, probablemente..."
+            "text": "En vez de entrar en pánico, decides respirar profundamente. Lentamente, tu mareo desaparece y tu estómago se siente..."
         },
         {
-            "type": "Buttons",
-            "name": "Corriendo con un amigo_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Sintiendo mareos_Salud Física_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Podrás seguir el ritmo de tu amigo.",
-                "Te quedarás atras de tu amigo durante tu carrera."
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "mejor"
             ],
-            "columnCount": 1,
-            "answer": "Podrás seguir el ritmo de tu amigo."
+            "missing_letter_count": 1
         }
     ]
 }

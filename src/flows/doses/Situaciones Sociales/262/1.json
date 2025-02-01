@@ -1,14 +1,14 @@
 {
-    "name": "Un corte de pelo diferente282",
-    "title": "Un corte de pelo diferente",
+    "header_text": "Amigos del club de lectura",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un corte de pelo diferente"
+            "text": "Amigos del club de lectura"
         },
         {
             "type": "Media",
-            "file": "/images/Un_corte_de_pelo_diferente.jpg"
+            "file": "/images/Amigos_del_club_de_lectura.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Hablando con tu jefe208",
-    "title": "Hablando con tu jefe",
+    "header_text": "Sintiéndote ansioso",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Hablando con tu jefe"
+            "text": "Sintiéndote ansioso"
         },
         {
             "type": "Media",
-            "file": "/images/Hablando_con_tu_jefe.jpg"
+            "file": "/images/Sintiéndote_ansioso.jpg"
         }
     ]
 }

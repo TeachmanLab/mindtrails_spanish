@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "La familia no aprueba a su pareja",
+    "header_title": "Inseguridades de la Mascarilla",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu familia será escéptica con respecto a tu pareja para siempre?"
+            "Text": "Todavia eres divertido para hablar sin la mascara?"
         },
         {
             "type": "Buttons",
-            "name": "La familia no aprueba a su pareja_Relaciones Románticas_comp_question",
+            "name": "Inseguridades de la Mascarilla_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "No"
+            "answer": "Si"
         }
     ]
 }

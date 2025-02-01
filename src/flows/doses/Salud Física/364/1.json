@@ -1,14 +1,11 @@
 {
-    "name": "Confrontación de COVID399",
-    "title": "Confrontación de COVID",
+    "header_text": "Recurso: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "name": "Cuidado de Salud (Healthcare.gov)",
     "elements": [
         {
-            "type": "Label",
-            "text": "Confrontación de COVID"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Confrontación_de_COVID.jpg"
+            "type": "Text",
+            "text": "Cuidado de Salud (Healthcare.gov)\n\nProporciona servicios relacionados con obtener seguro médico a través del Affordable Care Act\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

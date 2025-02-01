@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Pensamientos del grupo de teatro",
+    "header_title": "Redes sociales",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Probablemente todos creen....."
+            "Text": "¿Puedes manejar que a veces tus amigos pasan tiempo sin ti?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Pensamientos del grupo de teatro_Situaciones Sociales_puzzle_word2",
+            "type": "Buttons",
+            "name": "Redes sociales_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "que"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "Si"
         }
     ]
 }

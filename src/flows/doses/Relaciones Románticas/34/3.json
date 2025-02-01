@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Primera reunión",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Citas en línea",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que causarás una mala impresión a tu nuevo compañero de trabajo?"
+            "text": "Pensando en tus posibilidades de encontrar a alguien en línea, no crees que tendrás un problema y crees que tus posibilidades de conocer a alguien pronto son... "
         },
         {
-            "type": "Buttons",
-            "name": "Primera reunión_Relaciones Románticas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Citas en línea_Relaciones Románticas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "altas"
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 2
         }
     ]
 }

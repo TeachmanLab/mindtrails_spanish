@@ -1,6 +1,6 @@
 {
-    "name": "Question",
-    "title": "Exposición reciente",
+    "header_title": "Exposición reciente",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {

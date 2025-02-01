@@ -1,14 +1,14 @@
 {
-    "name": "Correo electrónico importante255",
-    "title": "Correo electrónico importante",
+    "header_text": "Participación en las redes sociales",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Correo electrónico importante"
+            "text": "Participación en las redes sociales"
         },
         {
             "type": "Media",
-            "file": "/images/Correo_electrónico_importante.jpg"
+            "file": "/images/Participación_en_las_redes_sociales.jpg"
         }
     ]
 }

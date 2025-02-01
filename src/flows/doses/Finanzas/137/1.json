@@ -1,14 +1,14 @@
 {
-    "name": "Pagando la cena147",
-    "title": "Pagando la cena",
+    "header_text": "Costos inesperados",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pagando la cena"
+            "text": "Costos inesperados"
         },
         {
             "type": "Media",
-            "file": "/images/Pagando_la_cena.jpg"
+            "file": "/images/Costos_inesperados.jpg"
         }
     ]
 }

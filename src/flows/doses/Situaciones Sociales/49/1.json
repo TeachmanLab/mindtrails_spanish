@@ -1,14 +1,14 @@
 {
-    "name": "Segundo encuentro43",
-    "title": "Segundo encuentro",
+    "header_text": "Invitar gente",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Segundo encuentro"
+            "text": "Invitar gente"
         },
         {
             "type": "Media",
-            "file": "/images/Segundo_encuentro.jpg"
+            "file": "/images/Invitar_gente.jpg"
         }
     ]
 }

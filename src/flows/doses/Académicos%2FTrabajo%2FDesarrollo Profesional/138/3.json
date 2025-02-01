@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Practicando la presentación",
+    "header_title": "Despertándote listo",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Después de la presentación, te das cuenta de que estos errores son comunes. El supervisor probablemente piensa que tu recuperación y capacidad para continuar presentado fue muy... "
+            "Text": "¿Estás ancioso sobre tu plan de terminar tus tareas en la mañana?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Practicando la presentación_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
+            "type": "Buttons",
+            "name": "Despertándote listo_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "admirable"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "No"
         }
     ]
 }

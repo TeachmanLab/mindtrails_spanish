@@ -1,14 +1,14 @@
 {
-    "name": "Casa bilingüe31",
-    "title": "Casa bilingüe",
+    "header_text": "Presentando a tus amigos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Casa bilingüe"
+            "text": "Presentando a tus amigos"
         },
         {
             "type": "Media",
-            "file": "/images/Casa_bilingüe.jpg"
+            "file": "/images/Presentando_a_tus_amigos.jpg"
         }
     ]
 }

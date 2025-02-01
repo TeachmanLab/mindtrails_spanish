@@ -1,14 +1,14 @@
 {
-    "name": "Vacacionando en avión4",
-    "title": "Vacacionando en avión",
+    "header_text": "Sala de espera del hospital",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Vacacionando en avión"
+            "text": "Sala de espera del hospital"
         },
         {
             "type": "Media",
-            "file": "/images/Vacacionando_en_avión.jpg"
+            "file": "/images/Sala_de_espera_del_hospital.jpg"
         }
     ]
 }

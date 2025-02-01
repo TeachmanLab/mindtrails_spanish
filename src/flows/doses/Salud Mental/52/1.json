@@ -1,14 +1,14 @@
 {
-    "name": "Cancelar con amigos46",
-    "title": "Cancelar con amigos",
+    "header_text": "Expresándote",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cancelar con amigos"
+            "text": "Expresándote"
         },
         {
             "type": "Media",
-            "file": "/images/Cancelar_con_amigos.jpg"
+            "file": "/images/Expresándote.jpg"
         }
     ]
 }

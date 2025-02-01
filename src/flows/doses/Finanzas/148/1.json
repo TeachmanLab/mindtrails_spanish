@@ -1,14 +1,14 @@
 {
-    "name": "Ir al dentista156",
-    "title": "Ir al dentista",
+    "header_text": "Preocuparse por los ahorros",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ir al dentista"
+            "text": "Preocuparse por los ahorros"
         },
         {
             "type": "Media",
-            "file": "/images/Ir_al_dentista.jpg"
+            "file": "/images/Preocuparse_por_los_ahorros.jpg"
         }
     ]
 }

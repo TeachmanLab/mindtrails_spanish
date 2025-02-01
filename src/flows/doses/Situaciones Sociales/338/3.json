@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Gente fiestera",
+    "header_title": "Presentación importante",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "La fiesta probablemente será..."
+            "Text": "Después de tu presentación, la gente del público probablemente pensará en..."
         },
         {
             "type": "Buttons",
-            "name": "Gente fiestera_Situaciones Sociales_comp_question",
+            "name": "Presentación importante_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Emocionante porque tienes la oportunidad de conocer gente nueva.",
-                "Incómodo porque no conoces a muchas personas."
+                "Cuántos problemas tuviste para dar la charla.",
+                "Que bien lo hiciste en tu charla."
             ],
             "columnCount": 1,
-            "answer": "Emocionante porque tienes la oportunidad de conocer gente nueva."
+            "answer": "Cuántos problemas tuviste para dar la charla."
         }
     ]
 }

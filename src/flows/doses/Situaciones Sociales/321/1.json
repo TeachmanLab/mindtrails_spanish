@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Situaciones Sociales",
-    "name": "Consejo para la regulación de las emociones",
+    "header_text": "Participación",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Renovar viejas amistades puede ser tan gratificante como comenzar otras nuevas. "
+            "type": "Label",
+            "text": "Participación"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Participación.jpg"
         }
     ]
 }

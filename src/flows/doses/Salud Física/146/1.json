@@ -1,14 +1,14 @@
 {
-    "name": "Tajada de fruta154",
-    "title": "Tajada de fruta",
+    "header_text": "Demasiada atención",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tajada de fruta"
+            "text": "Demasiada atención"
         },
         {
             "type": "Media",
-            "file": "/images/Tajada_de_fruta.jpg"
+            "file": "/images/Demasiada_atención.jpg"
         }
     ]
 }

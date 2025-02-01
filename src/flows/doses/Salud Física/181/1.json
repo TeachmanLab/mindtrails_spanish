@@ -1,6 +1,6 @@
 {
-    "name": "Vacaciones reprogramadas186",
-    "title": "Vacaciones reprogramadas",
+    "header_text": "Vacaciones reprogramadas",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",

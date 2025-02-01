@@ -1,14 +1,11 @@
 {
-    "name": "Clase de baile79",
-    "title": "Clase de baile",
+    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Clase de baile"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Clase_de_baile.jpg"
+            "type": "Text",
+            "text": "Cuando experimente una sensación corporal incómoda (por ejemplo, corazón acelerado o palmas sudorosas), simplemente siéntese con esa sensación por un momento antes de reaccionar. Estas sensaciones suelen pasar rápidamente sin ninguna intervención."
         }
     ]
 }

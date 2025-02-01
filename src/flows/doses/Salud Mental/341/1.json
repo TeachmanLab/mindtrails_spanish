@@ -1,14 +1,14 @@
 {
-    "name": "Club de lectura377",
-    "title": "Club de lectura",
+    "header_text": "Reloj favorito",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Club de lectura"
+            "text": "Reloj favorito"
         },
         {
             "type": "Media",
-            "file": "/images/Club_de_lectura.jpg"
+            "file": "/images/Reloj_favorito.jpg"
         }
     ]
 }

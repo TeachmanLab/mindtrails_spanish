@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Problemas de amigos",
+    "header_title": "Cumpleaños de un amigo cercano",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Te das cuenta de que les dijiste a tus amigos que tenías muchas otras cosas que hacer esta noche. Esto te hace sentir..."
+            "Text": "Piensas que tu amigo probablemente considere tu regalo como"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Problemas de amigos_Situaciones Sociales_puzzle_word2",
+            "type": "Buttons",
+            "name": "Cumpleaños de un amigo cercano_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "aliviado"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Un buen gesto para su cumpleaños.",
+                "No lo suficientemente bueno."
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "answer": "Un buen gesto para su cumpleaños."
         }
     ]
 }

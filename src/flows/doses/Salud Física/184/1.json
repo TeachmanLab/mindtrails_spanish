@@ -1,14 +1,15 @@
 {
-    "name": "Funciones normales189",
-    "title": "Funciones normales",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_icon": "assets/subtitle.png",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
-            "type": "Label",
-            "text": "Funciones normales"
+            "type": "Text",
+            "text": "Piensas en algo que te causó ansiedad la primera vez que lo hiciste. ¿Qué estrategias te ayudaron a superar eso?"
         },
         {
-            "type": "Media",
-            "file": "/images/Funciones_normales.jpg"
+            "type": "Entry",
+            "name": "Consejo #1_entry"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Siendo padre83",
-    "title": "Siendo padre",
+    "header_text": "Compartiendo programas favoritos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Siendo padre"
+            "text": "Compartiendo programas favoritos"
         },
         {
             "type": "Media",
-            "file": "/images/Siendo_padre.jpg"
+            "file": "/images/Compartiendo_programas_favoritos.jpg"
         }
     ]
 }

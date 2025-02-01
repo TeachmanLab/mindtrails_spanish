@@ -1,14 +1,14 @@
 {
-    "name": "Sentirse entumecido133",
-    "title": "Sentirse entumecido",
+    "header_text": "Trabajo inacabado",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sentirse entumecido"
+            "text": "Trabajo inacabado"
         },
         {
             "type": "Media",
-            "file": "/images/Sentirse_entumecido.jpg"
+            "file": "/images/Trabajo_inacabado.jpg"
         }
     ]
 }

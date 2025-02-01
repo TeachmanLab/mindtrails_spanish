@@ -1,14 +1,14 @@
 {
-    "name": "Sala de espera del hospital167",
-    "title": "Sala de espera del hospital",
+    "header_text": "Hora para dormir",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sala de espera del hospital"
+            "text": "Hora para dormir"
         },
         {
             "type": "Media",
-            "file": "/images/Sala_de_espera_del_hospital.jpg"
+            "file": "/images/Hora_para_dormir.jpg"
         }
     ]
 }

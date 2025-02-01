@@ -1,10 +1,14 @@
 {
-    "title": "Recurso: Salud Mental",
-    "name": "Cuidado de Salud (Healthcare.gov)\n",
+    "header_text": "Solicitar una subvención",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Cuidado de Salud (Healthcare.gov)\n\n\nProporciona servicios relacionados con obtener seguro médico a través del Affordable Care Act.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "type": "Label",
+            "text": "Solicitar una subvención"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Solicitar_una_subvención.jpg"
         }
     ]
 }

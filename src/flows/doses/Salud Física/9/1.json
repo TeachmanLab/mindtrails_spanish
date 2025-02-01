@@ -1,14 +1,14 @@
 {
-    "name": "Cita con el doctor7",
-    "title": "Cita con el doctor",
+    "header_text": "Evaluación de salud",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cita con el doctor"
+            "text": "Evaluación de salud"
         },
         {
             "type": "Media",
-            "file": "/images/Cita_con_el_doctor.jpg"
+            "file": "/images/Evaluación_de_salud.jpg"
         }
     ]
 }

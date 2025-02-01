@@ -1,14 +1,14 @@
 {
-    "name": "Errores tipográficos problemáticos63",
-    "title": "Errores tipográficos problemáticos",
+    "header_text": "Opinión importante",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Errores tipográficos problemáticos"
+            "text": "Opinión importante"
         },
         {
             "type": "Media",
-            "file": "/images/Errores_tipográficos_problemáticos.jpg"
+            "file": "/images/Opinión_importante.jpg"
         }
     ]
 }

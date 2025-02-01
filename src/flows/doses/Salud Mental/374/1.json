@@ -1,14 +1,14 @@
 {
-    "name": "Sintiéndote ansioso406",
-    "title": "Sintiéndote ansioso",
+    "header_text": "Sentirse mareado",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sintiéndote ansioso"
+            "text": "Sentirse mareado"
         },
         {
             "type": "Media",
-            "file": "/images/Sintiéndote_ansioso.jpg"
+            "file": "/images/Sentirse_mareado.jpg"
         }
     ]
 }

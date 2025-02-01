@@ -1,14 +1,14 @@
 {
-    "name": "Ahorrando dinero88",
-    "title": "Ahorrando dinero",
+    "header_text": "Regalos de días festivos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ahorrando dinero"
+            "text": "Regalos de días festivos"
         },
         {
             "type": "Media",
-            "file": "/images/Ahorrando_dinero.jpg"
+            "file": "/images/Regalos_de_días_festivos.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Presentación importante264",
-    "title": "Presentación importante",
+    "header_text": "Cafetería",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Presentación importante"
+            "text": "Cafetería"
         },
         {
             "type": "Media",
-            "file": "/images/Presentación_importante.jpg"
+            "file": "/images/Cafetería.jpg"
         }
     ]
 }

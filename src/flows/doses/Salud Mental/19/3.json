@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Puerta cerrada",
+    "header_title": "Probando comidas diferentes",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Durante el fin de semana vas a..."
+            "Text": "¿Deberías evitar probar nuevas comidas porque tus colegas no lo están ordenando?"
         },
         {
             "type": "Buttons",
-            "name": "Puerta cerrada_Salud Mental_comp_question",
+            "name": "Probando comidas diferentes_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Descansar y pasar tiempo con amigos o familiares.",
-                "Preocúpate por si cerraste la puerta con llave."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "answer": "Descansar y pasar tiempo con amigos o familiares."
+            "answer": "No"
         }
     ]
 }

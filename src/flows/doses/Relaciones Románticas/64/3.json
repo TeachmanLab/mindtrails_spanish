@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Estrés en tu relación",
+    "header_title": "Los celos",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Pensando en tu futuro con tu pareja, te imaginas..."
+            "Text": "¿Tu amigo seguirá estando cerca para ti?"
         },
         {
             "type": "Buttons",
-            "name": "Estrés en tu relación_Relaciones Románticas_comp_question",
+            "name": "Los celos_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Discutiendo más.",
-                "Principalmente cooperando."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "answer": "Discutiendo más."
+            "answer": "Sí"
         }
     ]
 }

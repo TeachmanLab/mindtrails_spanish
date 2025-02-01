@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Planes cancelados",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Experiencia en el supermercado",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Tu amigo probablemente canceló los planes porque..."
+            "text": "Al final, te das cuenta de que probablemente las personas simplemente se sorprendieron por el ruido y dieron vuelta reflejamente. Los compradores vieron que nadie resultó herido y probablemente se sintieron..."
         },
         {
-            "type": "Buttons",
-            "name": "Planes cancelados_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Experiencia en el supermercado_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Recordaron que tenían una reunión importante en el trabajo al mismo tiempo.",
-                "Están enojados contigo debido a su desacuerdo anterior."
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "aliviados"
             ],
-            "columnCount": 1,
-            "answer": "Recordaron que tenían una reunión importante en el trabajo al mismo tiempo."
+            "missing_letter_count": 1
         }
     ]
 }

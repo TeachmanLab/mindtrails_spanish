@@ -1,14 +1,14 @@
 {
-    "name": "Una mesa sucia204",
-    "title": "Una mesa sucia",
+    "header_text": "Un golpe accidental",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una mesa sucia"
+            "text": "Un golpe accidental"
         },
         {
             "type": "Media",
-            "file": "/images/Una_mesa_sucia.jpg"
+            "file": "/images/Un_golpe_accidental.jpg"
         }
     ]
 }

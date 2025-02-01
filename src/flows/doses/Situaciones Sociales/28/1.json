@@ -1,14 +1,14 @@
 {
-    "name": "Viendo un amigo24",
-    "title": "Viendo un amigo",
+    "header_text": "Planes para el fin de semana",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Viendo un amigo"
+            "text": "Planes para el fin de semana"
         },
         {
             "type": "Media",
-            "file": "/images/Viendo_un_amigo.jpg"
+            "file": "/images/Planes_para_el_fin_de_semana.jpg"
         }
     ]
 }

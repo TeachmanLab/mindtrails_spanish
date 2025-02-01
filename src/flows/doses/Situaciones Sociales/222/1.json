@@ -1,14 +1,14 @@
 {
-    "name": "Truco o trato247",
-    "title": "Truco o trato",
+    "header_text": "Planes de vacaciones",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Truco o trato"
+            "text": "Planes de vacaciones"
         },
         {
             "type": "Media",
-            "file": "/images/Truco_o_trato.jpg"
+            "file": "/images/Planes_de_vacaciones.jpg"
         }
     ]
 }

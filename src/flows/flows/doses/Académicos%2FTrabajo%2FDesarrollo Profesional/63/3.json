@@ -1,0 +1,22 @@
+{
+    "name": "Puzzle 2",
+    "title": "Multitud del discurso",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Después del discurso, te das cuenta de que a menudo las personas parecen inexpresivas y fruncen el ceño cuando están concentradas y se esfuerzan mucho. Piensas que es muy probable que tu jefe estuviera..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Multitud del discurso_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "impresionado"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

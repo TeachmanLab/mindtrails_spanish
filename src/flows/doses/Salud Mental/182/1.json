@@ -1,14 +1,14 @@
 {
-    "name": "Tus habilidades con los bolos187",
-    "title": "Tus habilidades con los bolos",
+    "header_text": "Trabajando para salir adelante",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tus habilidades con los bolos"
+            "text": "Trabajando para salir adelante"
         },
         {
             "type": "Media",
-            "file": "/images/Tus_habilidades_con_los_bolos.jpg"
+            "file": "/images/Trabajando_para_salir_adelante.jpg"
         }
     ]
 }

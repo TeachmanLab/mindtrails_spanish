@@ -1,14 +1,14 @@
 {
-    "name": "Mascarillas con piel sensible393",
-    "title": "Mascarillas con piel sensible",
+    "header_text": "Corriendo en el frío",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mascarillas con piel sensible"
+            "text": "Corriendo en el frío"
         },
         {
             "type": "Media",
-            "file": "/images/Mascarillas_con_piel_sensible.jpg"
+            "file": "/images/Corriendo_en_el_frío.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Preocupaciones por el ritmo cardíaco57",
-    "title": "Preocupaciones por el ritmo cardíaco",
+    "header_text": "Estar cerca de alguien enfermo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Preocupaciones por el ritmo cardíaco"
+            "text": "Estar cerca de alguien enfermo"
         },
         {
             "type": "Media",
-            "file": "/images/Preocupaciones_por_el_ritmo_cardíaco.jpg"
+            "file": "/images/Estar_cerca_de_alguien_enfermo.jpg"
         }
     ]
 }

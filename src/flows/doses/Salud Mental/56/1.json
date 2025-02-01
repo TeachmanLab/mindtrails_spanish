@@ -1,14 +1,11 @@
 {
-    "name": "Comentarios de publicaciones de Instagram50",
-    "title": "Comentarios de publicaciones de Instagram",
+    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Comentarios de publicaciones de Instagram"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Comentarios_de_publicaciones_de_Instagram.jpg"
+            "type": "Text",
+            "text": "Intenta identificar los TEB en tu situación: ¿qué PENSAMIENTOS tienes? ¿Qué EMOCIONES estás sintiendo? ¿Qué COMPORTAMIENTOS estás realizando? Después de eso, piensa si puedes cambiar tus pensamientos o tu comportamiento para sentirte mejor."
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Inicio Presentaciones52",
-    "title": "Inicio Presentaciones",
+    "header_text": "Noticias decepcionantes",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Inicio Presentaciones"
+            "text": "Noticias decepcionantes"
         },
         {
             "type": "Media",
-            "file": "/images/Inicio_Presentaciones.jpg"
+            "file": "/images/Noticias_decepcionantes.jpg"
         }
     ]
 }

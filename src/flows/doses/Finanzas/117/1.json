@@ -1,14 +1,11 @@
 {
-    "name": "Estabilidad laboral129",
-    "title": "Estabilidad laboral",
+    "header_text": "Maneja tus sentimientos: Finanzas",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Estabilidad laboral"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Estabilidad_laboral.jpg"
+            "type": "Text",
+            "text": "Cada semana, disfrute de una actividad divertida que no requiera dinero, como salir a caminar."
         }
     ]
 }

@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Boca seca",
+    "header_title": "Poniéndose al día con los amigos",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu boca seca indica que estás enfermo?"
+            "Text": "¿Tienes miedo al sentirte un poco desorientado después de tu breve trote?"
         },
         {
             "type": "Buttons",
-            "name": "Boca seca_Salud Física_comp_question",
+            "name": "Poniéndose al día con los amigos_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,

@@ -1,14 +1,14 @@
 {
-    "name": "Tomando una llamada164",
-    "title": "Tomando una llamada",
+    "header_text": "Tomando notas",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tomando una llamada"
+            "text": "Tomando notas"
         },
         {
             "type": "Media",
-            "file": "/images/Tomando_una_llamada.jpg"
+            "file": "/images/Tomando_notas.jpg"
         }
     ]
 }

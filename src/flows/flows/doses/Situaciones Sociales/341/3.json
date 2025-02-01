@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Tu mejor amigo",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Cuando piensas en los eventos próximos en tu vida..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Tu mejor amigo_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Esperas que tu mejor amigo trate de entender lo que estás pasando.",
+                "Piensas que tu mejor amigo no empatizará con tus experiencias."
+            ],
+            "columnCount": 1,
+            "answer": "Esperas que tu mejor amigo trate de entender lo que estás pasando."
+        }
+    ]
+}

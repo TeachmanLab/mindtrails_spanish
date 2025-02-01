@@ -1,5 +1,6 @@
 {
-    "title": "Escala de ansiedad",
+    "header_text": "Escala de ansiedad",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

@@ -1,6 +1,6 @@
 {
-    "name": "Question",
-    "title": "Gestión de facturas",
+    "header_title": "Gestión de facturas",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {

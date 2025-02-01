@@ -1,14 +1,14 @@
 {
-    "name": "Sentirse diferente17",
-    "title": "Sentirse diferente",
+    "header_text": "Decepción de aniversario",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sentirse diferente"
+            "text": "Decepción de aniversario"
         },
         {
             "type": "Media",
-            "file": "/images/Sentirse_diferente.jpg"
+            "file": "/images/Decepción_de_aniversario.jpg"
         }
     ]
 }

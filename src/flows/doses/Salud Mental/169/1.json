@@ -1,14 +1,14 @@
 {
-    "name": "Gestión de responsabilidades175",
-    "title": "Gestión de responsabilidades",
+    "header_text": "Tus habilidades con los bolos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Gestión de responsabilidades"
+            "text": "Tus habilidades con los bolos"
         },
         {
             "type": "Media",
-            "file": "/images/Gestión_de_responsabilidades.jpg"
+            "file": "/images/Tus_habilidades_con_los_bolos.jpg"
         }
     ]
 }

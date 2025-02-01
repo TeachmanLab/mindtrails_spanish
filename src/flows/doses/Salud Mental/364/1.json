@@ -1,14 +1,11 @@
 {
-    "name": "Día especial398",
-    "title": "Día especial",
+    "header_text": "Recurso: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "name": "Cuidado de Salud (Healthcare.gov)\n",
     "elements": [
         {
-            "type": "Label",
-            "text": "Día especial"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Día_especial.jpg"
+            "type": "Text",
+            "text": "Cuidado de Salud (Healthcare.gov)\n\n\nProporciona servicios relacionados con obtener seguro médico a través del Affordable Care Act.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

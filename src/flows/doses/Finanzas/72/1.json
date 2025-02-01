@@ -1,14 +1,14 @@
 {
-    "name": "Iniciando un negocio pequeño63",
-    "title": "Iniciando un negocio pequeño",
+    "header_text": "Permitirse la educación",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Iniciando un negocio pequeño"
+            "text": "Permitirse la educación"
         },
         {
             "type": "Media",
-            "file": "/images/Iniciando_un_negocio_pequeño.jpg"
+            "file": "/images/Permitirse_la_educación.jpg"
         }
     ]
 }

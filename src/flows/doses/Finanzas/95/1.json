@@ -1,14 +1,14 @@
 {
-    "name": "Inicio Presentaciones84",
-    "title": "Inicio Presentaciones",
+    "header_text": "Costear los gastos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Inicio Presentaciones"
+            "text": "Costear los gastos"
         },
         {
             "type": "Media",
-            "file": "/images/Inicio_Presentaciones.jpg"
+            "file": "/images/Costear_los_gastos.jpg"
         }
     ]
 }

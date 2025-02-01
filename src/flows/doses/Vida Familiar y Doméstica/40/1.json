@@ -1,14 +1,14 @@
 {
-    "name": "Tu primer hijo35",
-    "title": "Tu primer hijo",
+    "header_text": "Cambio de planes",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tu primer hijo"
+            "text": "Cambio de planes"
         },
         {
             "type": "Media",
-            "file": "/images/Tu_primer_hijo.jpg"
+            "file": "/images/Cambio_de_planes.jpg"
         }
     ]
 }

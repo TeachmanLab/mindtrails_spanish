@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Manchas de sudor",
+    "header_title": "Conocido sin mascarilla",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus amigos se burlarán de las manchas en tu camiseta?"
+            "Text": "¿Tu colega olvidó su mascarilla?"
         },
         {
             "type": "Buttons",
-            "name": "Manchas de sudor_Salud Física_comp_question",
+            "name": "Conocido sin mascarilla_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "No"
+            "answer": "Si"
         }
     ]
 }

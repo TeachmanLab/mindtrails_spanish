@@ -1,14 +1,14 @@
 {
-    "name": "Mantenerse al día con los amigos4",
-    "title": "Mantenerse al día con los amigos",
+    "header_text": "Cambiar tus planes",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mantenerse al día con los amigos"
+            "text": "Cambiar tus planes"
         },
         {
             "type": "Media",
-            "file": "/images/Mantenerse_al_día_con_los_amigos.jpg"
+            "file": "/images/Cambiar_tus_planes.jpg"
         }
     ]
 }

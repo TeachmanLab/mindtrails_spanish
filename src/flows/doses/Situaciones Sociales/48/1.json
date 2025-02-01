@@ -1,14 +1,14 @@
 {
-    "name": "Asistir a una boda solo42",
-    "title": "Asistir a una boda solo",
+    "header_text": "Comportamiento de riesgo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Asistir a una boda solo"
+            "text": "Comportamiento de riesgo"
         },
         {
             "type": "Media",
-            "file": "/images/Asistir_a_una_boda_solo.jpg"
+            "file": "/images/Comportamiento_de_riesgo.jpg"
         }
     ]
 }

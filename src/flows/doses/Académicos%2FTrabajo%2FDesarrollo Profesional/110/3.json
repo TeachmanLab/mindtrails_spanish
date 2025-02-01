@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Recuperándote despues de un error",
+    "header_title": "Tomar un descanso",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Más tarde ese día, te das cuenta de que es normal cometer errores al presentar. Probablemente la audiencia pensó que tu presenación después de comenzar de nuevo fue..."
+            "Text": "¿Deberías hacer tu trabajo ahora mismo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Recuperándote despues de un error_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
+            "type": "Buttons",
+            "name": "Tomar un descanso_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "admirable"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "answer": "No"
         }
     ]
 }

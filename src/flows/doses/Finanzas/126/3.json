@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Ahorrando dinero",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Ahorrando dinero",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando llegue el momento de reservar el viaje, probablemente..."
+            "text": "Al pensar en reducir tus gastos, no te imaginas gastando demasiado otra vez, y crees que ahorrar lo suficiente para tu viaje es..."
         },
         {
-            "type": "Buttons",
-            "name": "Ahorrando dinero_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Ahorrando dinero_Finanzas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Tendrás que cancelar debido a problemas de dinero.",
-                "Podrás elegir un hotel bastante bonito."
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "factible"
             ],
-            "columnCount": 1,
-            "answer": "Tendrás que cancelar debido a problemas de dinero."
+            "missing_letter_count": 1
         }
     ]
 }

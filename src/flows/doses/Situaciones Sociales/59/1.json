@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Situaciones Sociales",
-    "name": "Consejo para la regulación de las emociones",
+    "header_text": "Alzar la voz en una clase",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Cuando estés enojado o molesto por cualquier situación, dejas que esa emoción vaya y venga. En lugar de tratar de alejarlo, permítete reconocer y sentir profundamente tus emociones de manera segura. "
+            "type": "Label",
+            "text": "Alzar la voz en una clase"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Alzar_la_voz_en_una_clase.jpg"
         }
     ]
 }

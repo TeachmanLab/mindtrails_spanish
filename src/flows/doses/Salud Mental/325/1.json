@@ -1,14 +1,14 @@
 {
-    "name": "Nadando vueltas362",
-    "title": "Nadando vueltas",
+    "header_text": "Trabajo placentero",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nadando vueltas"
+            "text": "Trabajo placentero"
         },
         {
             "type": "Media",
-            "file": "/images/Nadando_vueltas.jpg"
+            "file": "/images/Trabajo_placentero.jpg"
         }
     ]
 }

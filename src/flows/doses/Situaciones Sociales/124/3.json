@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Tu mejor amigo",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Malentendido",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Años en el futuro, esperas que tú y tu amigo..."
+            "text": "Después de explicar lo que sucedió al jefe de tu departamento, él dice que entiende. Sientes que aún podrás causar una buena..."
         },
         {
-            "type": "Buttons",
-            "name": "Tu mejor amigo_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Malentendido_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Se habrán distanciado y realmente no se entenderán mutuamente.",
-                "Habrán permanecido cercanos aunque hayan desarrollado algunos intereses diferentes."
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "impresión"
             ],
-            "columnCount": 1,
-            "answer": "Se habrán distanciado y realmente no se entenderán mutuamente."
+            "missing_letter_count": 1
         }
     ]
 }

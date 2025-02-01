@@ -1,14 +1,14 @@
 {
-    "name": "Costear los gastos56",
-    "title": "Costear los gastos",
+    "header_text": "Visitar a un nuevo amigo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Costear los gastos"
+            "text": "Visitar a un nuevo amigo"
         },
         {
             "type": "Media",
-            "file": "/images/Costear_los_gastos.jpg"
+            "file": "/images/Visitar_a_un_nuevo_amigo.jpg"
         }
     ]
 }

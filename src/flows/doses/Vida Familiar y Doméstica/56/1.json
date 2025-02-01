@@ -1,14 +1,11 @@
 {
-    "name": "Publicar sobre la familia50",
-    "title": "Publicar sobre la familia",
+    "header_text": "Maneja tus sentimientos: Vida Familiar y Doméstica",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Publicar sobre la familia"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Publicar_sobre_la_familia.jpg"
+            "type": "Text",
+            "text": "Está bien si necesitas un descanso de tus seres queridos. Date el espacio que necesitas para recargar energías."
         }
     ]
 }

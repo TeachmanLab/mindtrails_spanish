@@ -1,14 +1,14 @@
 {
-    "name": "Trabajando para salir adelante271",
-    "title": "Trabajando para salir adelante",
+    "header_text": "Redes sociales",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trabajando para salir adelante"
+            "text": "Redes sociales"
         },
         {
             "type": "Media",
-            "file": "/images/Trabajando_para_salir_adelante.jpg"
+            "file": "/images/Redes_sociales.jpg"
         }
     ]
 }

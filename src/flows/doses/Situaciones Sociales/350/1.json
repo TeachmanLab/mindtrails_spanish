@@ -1,14 +1,14 @@
 {
-    "name": "Nuevo atuendo386",
-    "title": "Nuevo atuendo",
+    "header_text": "El escaparate de danza",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nuevo atuendo"
+            "text": "El escaparate de danza"
         },
         {
             "type": "Media",
-            "file": "/images/Nuevo_atuendo.jpg"
+            "file": "/images/El_escaparate_de_danza.jpg"
         }
     ]
 }

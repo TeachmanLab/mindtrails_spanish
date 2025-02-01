@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Nerviosismo de cumpleaños",
+    "header_text": "Padres molestos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus amigos están organizando una fiesta de cumpleaños para ti en su casa. Invitaron a mucha gente que estarán ahí para ti. Cuando piensas en toda la gente que vendrá, te sientes... "
+            "text": "Cuando llamas a uno de tus padres, parecen enojados pero no sabes qué es el asunto. Te dan una respuesta corta cuando intentas hablar con ellos al respecto. Consideras por qué están enojados y te das cuenta de que no eres la..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Nerviosismo de cumpleaños_Vida Familiar y Doméstica_puzzle1",
+            "name": "Padres molestos_Vida Familiar y Doméstica_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "nervioso"
+                "causa"
             ],
             "missing_letter_count": 1
         }

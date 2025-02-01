@@ -1,14 +1,14 @@
 {
-    "name": "Tu primer hijo27",
-    "title": "Tu primer hijo",
+    "header_text": "Mensajes de texto honestos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tu primer hijo"
+            "text": "Mensajes de texto honestos"
         },
         {
             "type": "Media",
-            "file": "/images/Tu_primer_hijo.jpg"
+            "file": "/images/Mensajes_de_texto_honestos.jpg"
         }
     ]
 }

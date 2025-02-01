@@ -1,14 +1,15 @@
 {
-    "name": "Problemas con los amigos39",
-    "title": "Problemas con los amigos",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_icon": "assets/subtitle.png",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
-            "type": "Label",
-            "text": "Problemas con los amigos"
+            "type": "Text",
+            "text": "Piensas en las lecciones que aprendiste de las historias que lees hoy. Mirando hacia atrás a una situación reciente que te hizo ansioso, ¿cómo podrías haberlo pensado de una manera diferente para que fuera más fácil de manejar?"
         },
         {
-            "type": "Media",
-            "file": "/images/Problemas_con_los_amigos.jpg"
+            "type": "Entry",
+            "name": "Consejo #5_entry"
         }
     ]
 }

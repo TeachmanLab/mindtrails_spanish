@@ -1,14 +1,14 @@
 {
-    "name": "Charla de oficina7",
-    "title": "Charla de oficina",
+    "header_text": "Pensando en volar",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Charla de oficina"
+            "text": "Pensando en volar"
         },
         {
             "type": "Media",
-            "file": "/images/Charla_de_oficina.jpg"
+            "file": "/images/Pensando_en_volar.jpg"
         }
     ]
 }

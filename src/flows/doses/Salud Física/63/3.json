@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Fiesta de cumpleaños",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Preocupaciones por el ritmo cardíaco",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Las personas probablemente..."
+            "text": "Cuando el evento se vuelve más ruidoso a medida que llega más gente, consideras irte, pero decides que puedes manejar estos sentimientos y seguir..."
         },
         {
-            "type": "Buttons",
-            "name": "Fiesta de cumpleaños_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Preocupaciones por el ritmo cardíaco_Salud Física_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "No te verán sudar ya que la habitación está poco iluminada.",
-                "Notarán que estás sudando."
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "socializando"
             ],
-            "columnCount": 1,
-            "answer": "No te verán sudar ya que la habitación está poco iluminada."
+            "missing_letter_count": 2
         }
     ]
 }

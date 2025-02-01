@@ -1,14 +1,14 @@
 {
-    "name": "Nueva receta127",
-    "title": "Nueva receta",
+    "header_text": "Opiniones opuestas",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nueva receta"
+            "text": "Opiniones opuestas"
         },
         {
             "type": "Media",
-            "file": "/images/Nueva_receta.jpg"
+            "file": "/images/Opiniones_opuestas.jpg"
         }
     ]
 }

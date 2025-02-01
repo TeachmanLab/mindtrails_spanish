@@ -1,14 +1,14 @@
 {
-    "name": "Pánico de presentación293",
-    "title": "Pánico de presentación",
+    "header_text": "Fiesta sensacional",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pánico de presentación"
+            "text": "Fiesta sensacional"
         },
         {
             "type": "Media",
-            "file": "/images/Pánico_de_presentación.jpg"
+            "file": "/images/Fiesta_sensacional.jpg"
         }
     ]
 }

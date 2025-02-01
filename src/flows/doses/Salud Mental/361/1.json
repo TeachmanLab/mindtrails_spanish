@@ -1,14 +1,14 @@
 {
-    "name": "Correo electrónico importante395",
-    "title": "Correo electrónico importante",
+    "header_text": "Día especial",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Correo electrónico importante"
+            "text": "Día especial"
         },
         {
             "type": "Media",
-            "file": "/images/Correo_electrónico_importante.jpg"
+            "file": "/images/Día_especial.jpg"
         }
     ]
 }

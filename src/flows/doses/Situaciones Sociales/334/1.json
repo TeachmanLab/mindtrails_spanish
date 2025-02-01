@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Situaciones Sociales",
-    "name": "Consejo para la regulación de las emociones",
+    "header_text": "La nueva ciudad",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Piensa en un momento del pasado en el que un evento social individual salió bien. "
+            "type": "Label",
+            "text": "La nueva ciudad"
+        },
+        {
+            "type": "Media",
+            "file": "/images/La_nueva_ciudad.jpg"
         }
     ]
 }

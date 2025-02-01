@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Vecinos ruidosos",
+    "header_title": "Presentación importante",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás listo para tu presentación?"
+            "Text": "¿Crees que tus compañeros pensarán que te veías nervioso?"
         },
         {
             "type": "Buttons",
-            "name": "Vecinos ruidosos_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Presentación importante_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "Sí"
+            "answer": "No"
         }
     ]
 }

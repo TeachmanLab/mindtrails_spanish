@@ -1,14 +1,14 @@
 {
-    "name": "Un hallazgo afortunado14",
-    "title": "Un hallazgo afortunado",
+    "header_text": "Yendo de vacaciones",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un hallazgo afortunado"
+            "text": "Yendo de vacaciones"
         },
         {
             "type": "Media",
-            "file": "/images/Un_hallazgo_afortunado.jpg"
+            "file": "/images/Yendo_de_vacaciones.jpg"
         }
     ]
 }

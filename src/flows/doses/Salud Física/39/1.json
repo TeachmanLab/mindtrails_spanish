@@ -1,14 +1,14 @@
 {
-    "name": "Corriendo tu primera carrera34",
-    "title": "Corriendo tu primera carrera",
+    "header_text": "Preocupaciones por el ritmo cardíaco",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Corriendo tu primera carrera"
+            "text": "Preocupaciones por el ritmo cardíaco"
         },
         {
             "type": "Media",
-            "file": "/images/Corriendo_tu_primera_carrera.jpg"
+            "file": "/images/Preocupaciones_por_el_ritmo_cardíaco.jpg"
         }
     ]
 }

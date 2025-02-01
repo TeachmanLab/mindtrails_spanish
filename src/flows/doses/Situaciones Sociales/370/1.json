@@ -1,14 +1,14 @@
 {
-    "name": "Interrumpiendo el silencio403",
-    "title": "Interrumpiendo el silencio",
+    "header_text": "Genio cómico",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Interrumpiendo el silencio"
+            "text": "Genio cómico"
         },
         {
             "type": "Media",
-            "file": "/images/Interrumpiendo_el_silencio.jpg"
+            "file": "/images/Genio_cómico.jpg"
         }
     ]
 }

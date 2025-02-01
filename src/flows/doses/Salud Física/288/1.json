@@ -1,14 +1,14 @@
 {
-    "name": "Aprendiendo a esquíar305",
-    "title": "Aprendiendo a esquíar",
+    "header_text": "Controles en el dentista.",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Aprendiendo a esquíar"
+            "text": "Controles en el dentista."
         },
         {
             "type": "Media",
-            "file": "/images/Aprendiendo_a_esquíar.jpg"
+            "file": "/images/Controles_en_el_dentista..jpg"
         }
     ]
 }

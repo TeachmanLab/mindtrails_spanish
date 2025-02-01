@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Problemas de salud mental",
+    "header_title": "relación a distancia",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu pareja será comprensiva?"
+            "Text": "Puedes ver a tu pareja diciendo:"
         },
         {
             "type": "Buttons",
-            "name": "Problemas de salud mental_Relaciones Románticas_comp_question",
+            "name": "relación a distancia_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "\"No creo que esto esté funcionanado.\"",
+                "\"Estoy muy contento de que podamos hacer esto juntos.\""
             ],
             "columnCount": 1,
-            "answer": "Si"
+            "answer": "\"No creo que esto esté funcionanado.\""
         }
     ]
 }

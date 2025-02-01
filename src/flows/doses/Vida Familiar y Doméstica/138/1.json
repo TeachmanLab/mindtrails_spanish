@@ -1,14 +1,14 @@
 {
-    "name": "Planes de vacaciones148",
-    "title": "Planes de vacaciones",
+    "header_text": "Invitar a alguien",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Planes de vacaciones"
+            "text": "Invitar a alguien"
         },
         {
             "type": "Media",
-            "file": "/images/Planes_de_vacaciones.jpg"
+            "file": "/images/Invitar_a_alguien.jpg"
         }
     ]
 }

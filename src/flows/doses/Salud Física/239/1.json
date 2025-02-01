@@ -1,10 +1,14 @@
 {
-    "title": "Recurso: Salud Física",
-    "name": "Planned Parenthood",
+    "header_text": "Nadando vueltas",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Planned Parenthood\n\nBrinda atención a la salud reproductiva, educación sexual e información a adultos y jóvenes.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "type": "Label",
+            "text": "Nadando vueltas"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Nadando_vueltas.jpg"
         }
     ]
 }

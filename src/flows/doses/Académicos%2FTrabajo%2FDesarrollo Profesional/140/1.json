@@ -1,14 +1,11 @@
 {
-    "name": "Despertándote listo150",
-    "title": "Despertándote listo",
+    "header_text": "Maneja tus sentimientos: Académicos/Trabajo/Desarrollo Profesional",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Despertándote listo"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Despertándote_listo.jpg"
+            "type": "Text",
+            "text": "Cuando te sientas estancado, elige un pequeño paso que creas que puedes dar y comienza con eso."
         }
     ]
 }

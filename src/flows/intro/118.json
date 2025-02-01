@@ -1,6 +1,6 @@
 {
-    "name": "Puzzle 2",
-    "title": "Atención en una tienda",
+    "header_text": "Atención en una tienda",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

@@ -1,6 +1,6 @@
 {
-    "name": "Question",
-    "title": "Esta reunión",
+    "header_title": "Esta reunión",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {

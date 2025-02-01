@@ -1,14 +1,14 @@
 {
-    "name": "Controles en el dentista.27",
-    "title": "Controles en el dentista.",
+    "header_text": "Un pastel de cumpleaños",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Controles en el dentista."
+            "text": "Un pastel de cumpleaños"
         },
         {
             "type": "Media",
-            "file": "/images/Controles_en_el_dentista..jpg"
+            "file": "/images/Un_pastel_de_cumpleaños.jpg"
         }
     ]
 }

@@ -1,10 +1,14 @@
 {
-    "title": "Recurso: Situaciones Sociales",
-    "name": "Personas de la tercera edad",
+    "header_text": "Conociendo gente nueva",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Personas de la tercera edad\n\nEste sitio Web ilumina situaciones diversas en cuáles las personas de tercera edad podrían necesitar ayuda. Ofrece recursos y guías informativas.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "type": "Label",
+            "text": "Conociendo gente nueva"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Conociendo_gente_nueva.jpg"
         }
     ]
 }

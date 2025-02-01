@@ -1,0 +1,16 @@
+{
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Parte 1: Plantea la situación incierta en 1 o 2 frases"
+        },
+        {
+            "type": "Entry",
+            "name": "Parte1_WYO"
+        }
+    ]
+}

@@ -1,14 +1,14 @@
 {
-    "name": "Saliendo de noche404",
-    "title": "Saliendo de noche",
+    "header_text": "Trabajo placentero",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Saliendo de noche"
+            "text": "Trabajo placentero"
         },
         {
             "type": "Media",
-            "file": "/images/Saliendo_de_noche.jpg"
+            "file": "/images/Trabajo_placentero.jpg"
         }
     ]
 }

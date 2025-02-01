@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Salud Mental",
-    "name": "Consejo para la regulación de las emociones",
+    "header_text": "Participación en las redes sociales",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "¿Hay algún momento durante los próximos dos días en el que cree que se sentirá ansioso? Considere configurar una alarma para recordar que debe practicar el pensamiento flexible en ese momento."
+            "type": "Label",
+            "text": "Participación en las redes sociales"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Participación_en_las_redes_sociales.jpg"
         }
     ]
 }

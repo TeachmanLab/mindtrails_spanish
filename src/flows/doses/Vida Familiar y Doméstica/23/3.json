@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Padres divorciados",
+    "header_title": "Salud y envejecimiento",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Eres capaz de soportar las peleas de tus padres?"
+            "Text": "Tu amigo probablemente ..."
         },
         {
             "type": "Buttons",
-            "name": "Padres divorciados_Vida Familiar y Doméstica_comp_question",
+            "name": "Salud y envejecimiento_Vida Familiar y Doméstica_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Manténgase saludable en el futuro.",
+                "Enferme más en el futuro."
             ],
             "columnCount": 1,
-            "answer": "Si"
+            "answer": "Manténgase saludable en el futuro."
         }
     ]
 }

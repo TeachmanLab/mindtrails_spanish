@@ -1,14 +1,14 @@
 {
-    "name": "Enviar mensajes de texto a otras personas45",
-    "title": "Enviar mensajes de texto a otras personas",
+    "header_text": "Encontrandote con alguien",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Enviar mensajes de texto a otras personas"
+            "text": "Encontrandote con alguien"
         },
         {
             "type": "Media",
-            "file": "/images/Enviar_mensajes_de_texto_a_otras_personas.jpg"
+            "file": "/images/Encontrandote_con_alguien.jpg"
         }
     ]
 }

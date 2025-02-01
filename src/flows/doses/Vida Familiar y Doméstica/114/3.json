@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Pasando tiempo con familia",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Expectativas",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando piensas en pasar menos tiempo con tu familia..."
+            "text": "Piensas en por qué quieren que te desempeñes bien. Sabes que es porque quieren que te vaya bien, eso te..."
         },
         {
-            "type": "Buttons",
-            "name": "Pasando tiempo con familia_Vida Familiar y Doméstica_comp_question",
+            "type": "WordPuzzle",
+            "name": "Expectativas_Vida Familiar y Doméstica_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Te preocupa perderlos de tu vida.",
-                "También piensas en lo mucho que disfrutas verlos y crees que siempre tendrás relación cercana con ellos."
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "asegura"
             ],
-            "columnCount": 1,
-            "answer": "Te preocupa perderlos de tu vida."
+            "missing_letter_count": 1
         }
     ]
 }

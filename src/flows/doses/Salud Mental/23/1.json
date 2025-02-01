@@ -1,14 +1,14 @@
 {
-    "name": "Resultados de análisis de sangre20",
-    "title": "Resultados de análisis de sangre",
+    "header_text": "Tomar un descanso",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Resultados de análisis de sangre"
+            "text": "Tomar un descanso"
         },
         {
             "type": "Media",
-            "file": "/images/Resultados_de_análisis_de_sangre.jpg"
+            "file": "/images/Tomar_un_descanso.jpg"
         }
     ]
 }

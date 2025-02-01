@@ -1,14 +1,12 @@
 {
-    "name": "Distanciamiento social adentro90",
-    "title": "Distanciamiento social adentro",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
-            "type": "Label",
-            "text": "Distanciamiento social adentro"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Distanciamiento_social_adentro.jpg"
+            "type": "Text",
+            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
         }
     ]
 }

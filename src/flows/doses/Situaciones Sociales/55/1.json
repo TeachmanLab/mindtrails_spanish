@@ -1,14 +1,11 @@
 {
-    "name": "Recuperándote despues de un error49",
-    "title": "Recuperándote despues de un error",
+    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Recuperándote despues de un error"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Recuperándote_despues_de_un_error.jpg"
+            "type": "Text",
+            "text": "Cuando sientas que los demás te están juzando negativamente, observa si los hechos de la situación apoyan esa emoción (por ejemplo, probablemente te estén mirando porque están escuchando lo que estás diciendo, no proque piensen que eres feo)"
         }
     ]
 }

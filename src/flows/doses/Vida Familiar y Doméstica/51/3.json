@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Costos inesperados",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Traer un nuevo amigo a casa",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Comprar una casa va a..."
+            "text": "Considera que vive en una situación diferente a la de su colega. También sabes que tu colega es muy amable, por lo que lo..."
         },
         {
-            "type": "Buttons",
-            "name": "Costos inesperados_Vida Familiar y Doméstica_comp_question",
+            "type": "WordPuzzle",
+            "name": "Traer un nuevo amigo a casa_Vida Familiar y Doméstica_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Ser asequible y salir bien.",
-                "Ser más allá de tus posibilidades, incluso con tu trabajo."
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "aceptará"
             ],
-            "columnCount": 1,
-            "answer": "Ser asequible y salir bien."
+            "missing_letter_count": 2
         }
     ]
 }

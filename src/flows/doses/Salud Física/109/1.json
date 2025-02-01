@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Salud Física",
-    "name": "Consejo para la regulación de las emociones",
+    "header_text": "Dando una presentación",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Recuerde que investigar sus síntomas de salud en Internet a menudo puede provocar una espiral de ansiedad. Intente preguntarle a un amigo cercano si puede confiarle cómo se siente."
+            "type": "Label",
+            "text": "Dando una presentación"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Dando_una_presentación.jpg"
         }
     ]
 }

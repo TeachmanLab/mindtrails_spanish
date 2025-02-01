@@ -1,14 +1,11 @@
 {
-    "name": "Padres molestos149",
-    "title": "Padres molestos",
+    "header_text": "Maneja tus sentimientos: Vida Familiar y Doméstica",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Padres molestos"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Padres_molestos.jpg"
+            "type": "Text",
+            "text": "Cuando enfrente una situación difícil, trate de encontrar una manera de manejarla que le parezca adecuada, independientemente de cómo resulten las cosas."
         }
     ]
 }

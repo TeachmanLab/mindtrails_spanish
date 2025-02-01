@@ -1,5 +1,6 @@
 {
-    "title": "¡Hazlo tuyo!",
+    "header_text": "¡Hazlo tuyo!",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

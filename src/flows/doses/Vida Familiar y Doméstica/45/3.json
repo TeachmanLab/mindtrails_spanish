@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Opiniones opuestas",
+    "header_text": "El coche de tu familia",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu familia tiene opiniones firmes con las que no siempre estás de acuerdo. Al escuchar a tu familia hablar, sientes que eres muy diferente a ellos. Sientes que tener tus propios puntos de vista únicos está... "
+            "text": "Al salir del coche en frente de tu trabajo, ves a algunos de tus colegas. Sonríen y te saludan con la mano, y te sientes... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Opiniones opuestas_Vida Familiar y Doméstica_puzzle1",
+            "name": "El coche de tu familia_Vida Familiar y Doméstica_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "bien"
+                "aliviado"
             ],
             "missing_letter_count": 2
         }

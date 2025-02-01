@@ -1,14 +1,14 @@
 {
-    "name": "Una gran risa182",
-    "title": "Una gran risa",
+    "header_text": "Cambio de planes",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una gran risa"
+            "text": "Cambio de planes"
         },
         {
             "type": "Media",
-            "file": "/images/Una_gran_risa.jpg"
+            "file": "/images/Cambio_de_planes.jpg"
         }
     ]
 }

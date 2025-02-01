@@ -1,14 +1,14 @@
 {
-    "name": "Una presentación importante178",
-    "title": "Una presentación importante",
+    "header_text": "Deprimido",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una presentación importante"
+            "text": "Deprimido"
         },
         {
             "type": "Media",
-            "file": "/images/Una_presentación_importante.jpg"
+            "file": "/images/Deprimido.jpg"
         }
     ]
 }

@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Aplicando a trabajos",
+    "header_title": "Nueva oportunidad",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te ofrecerán otro trabajo en el futuro?"
+            "Text": "¿Te preocupa decirle a tu familia que quieres trabajar y vivir en otro país?"
         },
         {
             "type": "Buttons",
-            "name": "Aplicando a trabajos_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Nueva oportunidad_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "Si"
+            "answer": "No"
         }
     ]
 }

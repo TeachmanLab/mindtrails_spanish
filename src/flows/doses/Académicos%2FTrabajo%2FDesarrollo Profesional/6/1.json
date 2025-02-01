@@ -1,14 +1,14 @@
 {
-    "name": "Un tropiezo repentino4",
-    "title": "Un tropiezo repentino",
+    "header_text": "Puerta cerrada",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un tropiezo repentino"
+            "text": "Puerta cerrada"
         },
         {
             "type": "Media",
-            "file": "/images/Un_tropiezo_repentino.jpg"
+            "file": "/images/Puerta_cerrada.jpg"
         }
     ]
 }

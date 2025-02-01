@@ -1,14 +1,14 @@
 {
-    "name": "Puzzle",
-    "title": "Tomando transporte",
+    "header_text": "Poniéndose al día con los amigos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en el aeropuerto corriendo para alcanzar un avión. Sientes que tu corazón late rápidamente mientras te subes al avión y te sientas. Comienzas a sudar y a respirar rápido, temiendo que puedas tener un ataque de..."
+            "text": "Ves a tus amigos al otro lado de la calle y corres hacia ellos. Te sientes un poco desorientado y mareado al llegar a ellos. Consideras lo que esto significa y te das cuenta de que probablemente signifique que corriste..."
         },
         {
             "type": "Entry",
-            "name": "Tomando transporte_Salud Física_entry1"
+            "name": "Poniéndose al día con los amigos_Salud Física_entry1"
         }
     ]
 }

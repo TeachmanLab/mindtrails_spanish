@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Inseguridades de la Mascarilla",
+    "header_title": "Problemas con los amigos",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Todavia eres divertido para hablar sin la mascara?"
+            "Text": "¿Tus amigos lo entenderán?"
         },
         {
             "type": "Buttons",
-            "name": "Inseguridades de la Mascarilla_Relaciones Románticas_comp_question",
+            "name": "Problemas con los amigos_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "Si"
+            "answer": "Sí"
         }
     ]
 }

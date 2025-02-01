@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Fin de semana largo solo",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Viendo a un viejo amigo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás triste por el fin de semana largo?"
+            "text": "Ves a un viejo amigo con el que no has hablado en años. Tu corazón da un vuelco. Te sientes..."
         },
         {
-            "type": "Buttons",
-            "name": "Fin de semana largo solo_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Viendo a un viejo amigo_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "",
-                ""
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "emocionado"
             ],
-            "columnCount": 1,
-            "answer": ""
+            "missing_letter_count": 2
         }
     ]
 }

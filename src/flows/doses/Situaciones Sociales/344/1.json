@@ -1,14 +1,14 @@
 {
-    "name": "Conexión perdida381",
-    "title": "Conexión perdida",
+    "header_text": "Llamada breve",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Conexión perdida"
+            "text": "Llamada breve"
         },
         {
             "type": "Media",
-            "file": "/images/Conexión_perdida.jpg"
+            "file": "/images/Llamada_breve.jpg"
         }
     ]
 }

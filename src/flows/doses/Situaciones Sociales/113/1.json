@@ -1,14 +1,14 @@
 {
-    "name": "Gustos musicales diferentes125",
-    "title": "Gustos musicales diferentes",
+    "header_text": "Esta reunión",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Gustos musicales diferentes"
+            "text": "Esta reunión"
         },
         {
             "type": "Media",
-            "file": "/images/Gustos_musicales_diferentes.jpg"
+            "file": "/images/Esta_reunión.jpg"
         }
     ]
 }

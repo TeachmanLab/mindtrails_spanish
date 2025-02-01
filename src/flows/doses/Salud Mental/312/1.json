@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Salud Mental",
-    "name": "Consejo para la regulación de las emociones",
+    "header_text": "Invitar gente",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Intenta identificar los TEB en tu situación: ¿qué PENSAMIENTOS tienes? ¿Qué EMOCIONES estás sintiendo? ¿Qué COMPORTAMIENTOS estás realizando? Después de eso, piensa si puedes cambiar tus pensamientos o tu comportamiento para sentirte mejor."
+            "type": "Label",
+            "text": "Invitar gente"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Invitar_gente.jpg"
         }
     ]
 }

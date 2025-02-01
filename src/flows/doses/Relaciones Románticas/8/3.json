@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Planes de vacaciones",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Priorización de responsabilidades",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Es probable que tus padres piensen que..."
+            "text": "Sabes que tienes un compromiso con tu trabajo. Estás feliz de ser..."
         },
         {
-            "type": "Buttons",
-            "name": "Planes de vacaciones_Relaciones Románticas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Priorización de responsabilidades_Relaciones Románticas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Solo estás emocionado de pasar los días festivos con tu pareja y no lo tomarán como algo personal.",
-                "A ti no te importan o que no quieres verlos."
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "responsable"
             ],
-            "columnCount": 1,
-            "answer": "Solo estás emocionado de pasar los días festivos con tu pareja y no lo tomarán como algo personal."
+            "missing_letter_count": 1
         }
     ]
 }

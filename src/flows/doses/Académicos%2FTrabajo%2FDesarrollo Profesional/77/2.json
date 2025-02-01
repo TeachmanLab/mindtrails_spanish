@@ -1,14 +1,14 @@
 {
-    "name": "Puzzle",
-    "title": "Presentación opcional",
+    "header_text": "Participación",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu jefe ha contratado a algunos pasantes para el verano. Tu jefe te pide que te quedes después del trabajo para darles una breve presentación sobre los objetivos y valores de la universidad, pero te dice que esto es completamente opcional. Te sientes un poco nervioso por dar la presentación, y decides... "
+            "text": "Consideras asistir a un taller práctico en el que se requerirá tu opinión con frecuencia, a pesar de que no te gusta hablar frente a los demás. Después de asistir al taller, te das cuenta de que fue una decisión..."
         },
         {
             "type": "Entry",
-            "name": "Presentación opcional_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Participación_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ]
 }

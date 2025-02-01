@@ -1,5 +1,6 @@
 {
-    "title": "El viaje de compras",
+    "header_text": "El viaje de compras",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

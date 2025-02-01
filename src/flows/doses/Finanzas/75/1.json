@@ -1,14 +1,14 @@
 {
-    "name": "Gestión de facturas66",
-    "title": "Gestión de facturas",
+    "header_text": "Mantener a la familia",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Gestión de facturas"
+            "text": "Mantener a la familia"
         },
         {
             "type": "Media",
-            "file": "/images/Gestión_de_facturas.jpg"
+            "file": "/images/Mantener_a_la_familia.jpg"
         }
     ]
 }

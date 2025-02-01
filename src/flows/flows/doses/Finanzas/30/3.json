@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "Iniciando un negocio pequeño",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Piensas que trabajar duro en tu negocio..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Iniciando un negocio pequeño_Finanzas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Tendrá un papel crucial en el eventual éxito de tu empresa.",
+                "Todavía no será suficiente para que tu empresa sobreviva."
+            ],
+            "columnCount": 1,
+            "answer": "Tendrá un papel crucial en el eventual éxito de tu empresa."
+        }
+    ]
+}

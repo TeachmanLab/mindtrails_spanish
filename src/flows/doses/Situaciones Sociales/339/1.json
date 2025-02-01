@@ -1,14 +1,14 @@
 {
-    "name": "Pedido de un niño376",
-    "title": "Pedido de un niño",
+    "header_text": "Confianza creativa",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pedido de un niño"
+            "text": "Confianza creativa"
         },
         {
             "type": "Media",
-            "file": "/images/Pedido_de_un_niño.jpg"
+            "file": "/images/Confianza_creativa.jpg"
         }
     ]
 }

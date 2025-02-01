@@ -1,14 +1,14 @@
 {
-    "name": "Reunión de mañana262",
-    "title": "Reunión de mañana",
+    "header_text": "Aceptando elogios",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Reunión de mañana"
+            "text": "Aceptando elogios"
         },
         {
             "type": "Media",
-            "file": "/images/Reunión_de_mañana.jpg"
+            "file": "/images/Aceptando_elogios.jpg"
         }
     ]
 }

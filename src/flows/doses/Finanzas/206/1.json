@@ -1,14 +1,14 @@
 {
-    "name": "Estabilidad laboral208",
-    "title": "Estabilidad laboral",
+    "header_text": "Oportunidad de espectáculo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Estabilidad laboral"
+            "text": "Oportunidad de espectáculo"
         },
         {
             "type": "Media",
-            "file": "/images/Estabilidad_laboral.jpg"
+            "file": "/images/Oportunidad_de_espectáculo.jpg"
         }
     ]
 }

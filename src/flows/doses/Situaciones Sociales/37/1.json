@@ -1,14 +1,14 @@
 {
-    "name": "Futuras amistades32",
-    "title": "Futuras amistades",
+    "header_text": "Confrontación de COVID",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Futuras amistades"
+            "text": "Confrontación de COVID"
         },
         {
             "type": "Media",
-            "file": "/images/Futuras_amistades.jpg"
+            "file": "/images/Confrontación_de_COVID.jpg"
         }
     ]
 }

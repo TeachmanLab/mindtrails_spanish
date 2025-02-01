@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Cancelar con amigos",
+    "header_title": "Expresándote",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te alegras de haber cancelado tus planes de descansar?"
+            "Text": "¿Compartarás tu idea?"
         },
         {
             "type": "Buttons",
-            "name": "Cancelar con amigos_Salud Mental_comp_question",
+            "name": "Expresándote_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "Sí"
+            "answer": "Si"
         }
     ]
 }

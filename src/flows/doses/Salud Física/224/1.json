@@ -1,14 +1,11 @@
 {
-    "name": "Vecino amigable249",
-    "title": "Vecino amigable",
+    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Vecino amigable"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Vecino_amigable.jpg"
+            "type": "Text",
+            "text": "Si ha tenido dificultades para dormir recientemente, intente guardar su teléfono media hora antes de acostarse."
         }
     ]
 }

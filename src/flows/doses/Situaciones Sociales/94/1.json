@@ -1,14 +1,14 @@
 {
-    "name": "Nuevo atuendo83",
-    "title": "Nuevo atuendo",
+    "header_text": "Una presentación grande",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nuevo atuendo"
+            "text": "Una presentación grande"
         },
         {
             "type": "Media",
-            "file": "/images/Nuevo_atuendo.jpg"
+            "file": "/images/Una_presentación_grande.jpg"
         }
     ]
 }

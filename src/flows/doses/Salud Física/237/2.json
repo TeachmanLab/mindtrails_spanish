@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Un dolor de garganta",
+    "header_text": "Sala de espera del hospital",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Al levantarte esta mañana, notas que te pica la garganta más de lo normal. Piensas en por qué puede ser. Decides que probablemente es porque tienes..."
+            "text": "Vas al hospital a visitar a un amigo. En la sala de espera, alguien detrás de ti tose. Si te lavas las manos, la probabilidad de enfermarte es..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Un dolor de garganta_Salud Física_puzzle1",
+            "name": "Sala de espera del hospital_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "sed"
+                "mínima"
             ],
             "missing_letter_count": 1
         }

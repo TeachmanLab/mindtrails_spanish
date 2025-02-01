@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Carrera matutina del domingo",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Cargando bolsas de compras",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Debes..."
+            "text": "Incierto de si son buenas o malas, decides simplemente..."
         },
         {
-            "type": "Buttons",
-            "name": "Carrera matutina del domingo_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Cargando bolsas de compras_Salud Física_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Tomarte una botella de ague y comerte un bocado despues del ejecicio.",
-                "Hacer una llamada de emergencia porque esto es señal de algo grave."
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "aceptarlas"
             ],
-            "columnCount": 1,
-            "answer": "Tomarte una botella de ague y comerte un bocado despues del ejecicio."
+            "missing_letter_count": 1
         }
     ]
 }

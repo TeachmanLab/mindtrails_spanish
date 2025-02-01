@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Sentirse mareado",
+    "header_title": "Cómodo sofá",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Decides prestar atención a las sensaciones sin juzgarlas como buenas o malas. Esto reduce tu preocupación y te hace sentir más..."
+            "Text": "Te sientes extraño porque ..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Sentirse mareado_Salud Física_puzzle_word2",
+            "type": "Buttons",
+            "name": "Cómodo sofá_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "tranquilo"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sólo tomaste un vaso de agua hoy.",
+                "Te estás enfermando de gripe."
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "answer": "Sólo tomaste un vaso de agua hoy."
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Corriendo con un amigo65",
-    "title": "Corriendo con un amigo",
+    "header_text": "Sintiéndote mareado",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Corriendo con un amigo"
+            "text": "Sintiéndote mareado"
         },
         {
             "type": "Media",
-            "file": "/images/Corriendo_con_un_amigo.jpg"
+            "file": "/images/Sintiéndote_mareado.jpg"
         }
     ]
 }

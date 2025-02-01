@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Enviar mensajes de texto a alguien que te gusta",
+    "header_title": "Prepararse para una cita",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "No parecen preguntarte por razones mundanas y probablemente usarán tu número de teléfono para invitarte a..."
+            "Text": "¿Tienes que impresionar a esta persona?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Enviar mensajes de texto a alguien que te gusta_Relaciones Románticas_puzzle_word2",
+            "type": "Buttons",
+            "name": "Prepararse para una cita_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "salir"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "answer": "No"
         }
     ]
 }

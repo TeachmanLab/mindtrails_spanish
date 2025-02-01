@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Planificación de pagos",
+    "header_title": "Costos inesperados",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando se trata de elegir un plan de jubilación, piensas que..."
+            "Text": "Comprar una casa va a..."
         },
         {
             "type": "Buttons",
-            "name": "Planificación de pagos_Finanzas_comp_question",
+            "name": "Costos inesperados_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Tomarás una buena decisión porque has investigado.",
-                "Es muy probable que cometas un error, dado lo poco que sabes sobre cómo funcionan."
+                "Ser asequible y salir bien.",
+                "Ser más allá de tus posibilidades, incluso con tu trabajo."
             ],
             "columnCount": 1,
-            "answer": "Tomarás una buena decisión porque has investigado."
+            "answer": "Ser asequible y salir bien."
         }
     ]
 }

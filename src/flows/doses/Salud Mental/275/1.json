@@ -1,14 +1,14 @@
 {
-    "name": "Sentirse ansioso294",
-    "title": "Sentirse ansioso",
+    "header_text": "Reunión uno a uno",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sentirse ansioso"
+            "text": "Reunión uno a uno"
         },
         {
             "type": "Media",
-            "file": "/images/Sentirse_ansioso.jpg"
+            "file": "/images/Reunión_uno_a_uno.jpg"
         }
     ]
 }

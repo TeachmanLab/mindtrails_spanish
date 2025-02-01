@@ -1,14 +1,14 @@
 {
-    "name": "Una llamada crucial267",
-    "title": "Una llamada crucial",
+    "header_text": "Una presentación grande",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una llamada crucial"
+            "text": "Una presentación grande"
         },
         {
             "type": "Media",
-            "file": "/images/Una_llamada_crucial.jpg"
+            "file": "/images/Una_presentación_grande.jpg"
         }
     ]
 }

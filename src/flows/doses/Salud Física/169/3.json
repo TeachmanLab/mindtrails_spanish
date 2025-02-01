@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Comportamiento de riesgo",
+    "header_title": "Montar a caballo durante el fin de semana",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa que decirle a tu jefe cómo te sientes te cause problemas?"
+            "Text": "¿Es divertido intentar montar al caballo?"
         },
         {
             "type": "Buttons",
-            "name": "Comportamiento de riesgo_Salud Física_comp_question",
+            "name": "Montar a caballo durante el fin de semana_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "Sí"
+            "answer": "Si"
         }
     ]
 }

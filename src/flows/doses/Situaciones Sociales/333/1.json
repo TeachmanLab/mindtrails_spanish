@@ -1,14 +1,14 @@
 {
-    "name": "Desconectandote371",
-    "title": "Desconectandote",
+    "header_text": "Tiempo para ti mismo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Desconectandote"
+            "text": "Tiempo para ti mismo"
         },
         {
             "type": "Media",
-            "file": "/images/Desconectandote.jpg"
+            "file": "/images/Tiempo_para_ti_mismo.jpg"
         }
     ]
 }

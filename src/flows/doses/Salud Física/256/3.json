@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Explorando una cueva estrecha",
-    "show_buttons": "WhenCorrect",
+    "header_text": "en un barco",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Mientras estés en la cueva, probablemente..."
+            "text": "La sensación en tus piernas probablemente....."
         },
         {
-            "type": "Buttons",
-            "name": "Explorando una cueva estrecha_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "en un barco_Salud Física_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Aprenderás cosas interesantes.",
-                "No podrás encontrar la salida."
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "es"
             ],
-            "columnCount": 1,
-            "answer": "Aprenderás cosas interesantes."
+            "missing_letter_count": 2
         }
     ]
 }

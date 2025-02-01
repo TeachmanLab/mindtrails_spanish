@@ -1,14 +1,14 @@
 {
-    "name": "Hilo de pensamientos74",
-    "title": "Hilo de pensamientos",
+    "header_text": "Usando tecnología diferente",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Hilo de pensamientos"
+            "text": "Usando tecnología diferente"
         },
         {
             "type": "Media",
-            "file": "/images/Hilo_de_pensamientos.jpg"
+            "file": "/images/Usando_tecnología_diferente.jpg"
         }
     ]
 }

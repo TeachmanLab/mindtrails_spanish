@@ -1,14 +1,14 @@
 {
-    "name": "Mantener a la familia82",
-    "title": "Mantener a la familia",
+    "header_text": "Visitando familia",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mantener a la familia"
+            "text": "Visitando familia"
         },
         {
             "type": "Media",
-            "file": "/images/Mantener_a_la_familia.jpg"
+            "file": "/images/Visitando_familia.jpg"
         }
     ]
 }

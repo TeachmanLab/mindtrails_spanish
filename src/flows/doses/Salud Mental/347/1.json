@@ -1,14 +1,14 @@
 {
-    "name": "Manejando tareas382",
-    "title": "Manejando tareas",
+    "header_text": "Usando tecnología diferente",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Manejando tareas"
+            "text": "Usando tecnología diferente"
         },
         {
             "type": "Media",
-            "file": "/images/Manejando_tareas.jpg"
+            "file": "/images/Usando_tecnología_diferente.jpg"
         }
     ]
 }

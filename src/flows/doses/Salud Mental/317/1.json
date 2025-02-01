@@ -1,14 +1,14 @@
 {
-    "name": "Comparar su trabajo con el de otros355",
-    "title": "Comparar su trabajo con el de otros",
+    "header_text": "Expresándote",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comparar su trabajo con el de otros"
+            "text": "Expresándote"
         },
         {
             "type": "Media",
-            "file": "/images/Comparar_su_trabajo_con_el_de_otros.jpg"
+            "file": "/images/Expresándote.jpg"
         }
     ]
 }

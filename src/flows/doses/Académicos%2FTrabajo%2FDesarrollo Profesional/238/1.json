@@ -1,14 +1,14 @@
 {
-    "name": "Mente va en blanco261",
-    "title": "Mente va en blanco",
+    "header_text": "Cambiando tu trayectoria",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mente va en blanco"
+            "text": "Cambiando tu trayectoria"
         },
         {
             "type": "Media",
-            "file": "/images/Mente_va_en_blanco.jpg"
+            "file": "/images/Cambiando_tu_trayectoria.jpg"
         }
     ]
 }

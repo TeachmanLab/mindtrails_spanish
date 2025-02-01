@@ -1,14 +1,14 @@
 {
-    "name": "Trabajo placentero407",
-    "title": "Trabajo placentero",
+    "header_text": "Deprimido",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trabajo placentero"
+            "text": "Deprimido"
         },
         {
             "type": "Media",
-            "file": "/images/Trabajo_placentero.jpg"
+            "file": "/images/Deprimido.jpg"
         }
     ]
 }

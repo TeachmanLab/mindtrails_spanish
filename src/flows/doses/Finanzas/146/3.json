@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Sentir presión al salir",
+    "header_title": "Ir al dentista",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Repasarás tu presupuesto este mes?"
+            "Text": "¿Puedes pagar para arreglar tu caries?"
         },
         {
             "type": "Buttons",
-            "name": "Sentir presión al salir_Finanzas_comp_question",
+            "name": "Ir al dentista_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "No"
+            "answer": "Si"
         }
     ]
 }

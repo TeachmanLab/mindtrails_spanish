@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Juzgando tu desempeño",
+    "header_title": "Un trago de agua",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "En este momento no estás contento, pero piensas en la presentación general de tu grupo. Te das cuenta de que estuvo..."
+            "Text": "Cuando sientes ansiedad durante una presentación..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Juzgando tu desempeño_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
+            "type": "Buttons",
+            "name": "Un trago de agua_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "bien"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Tienes la capacidad de continuar con tu exposición.",
+                "Tienes que parar tu exposición y huir de la situación."
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "answer": "Tienes la capacidad de continuar con tu exposición."
         }
     ]
 }

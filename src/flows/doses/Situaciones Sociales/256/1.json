@@ -1,14 +1,14 @@
 {
-    "name": "Almuerzo con un amigo277",
-    "title": "Almuerzo con un amigo",
+    "header_text": "Plato típico",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Almuerzo con un amigo"
+            "text": "Plato típico"
         },
         {
             "type": "Media",
-            "file": "/images/Almuerzo_con_un_amigo.jpg"
+            "file": "/images/Plato_típico.jpg"
         }
     ]
 }

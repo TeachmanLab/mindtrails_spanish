@@ -1,14 +1,14 @@
 {
-    "name": "Lidiar con la vergüenza10",
-    "title": "Lidiar con la vergüenza",
+    "header_text": "Tu primer hijo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Lidiar con la vergüenza"
+            "text": "Tu primer hijo"
         },
         {
             "type": "Media",
-            "file": "/images/Lidiar_con_la_vergüenza.jpg"
+            "file": "/images/Tu_primer_hijo.jpg"
         }
     ]
 }

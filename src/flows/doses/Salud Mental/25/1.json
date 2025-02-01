@@ -1,10 +1,14 @@
 {
-    "title": "Maneja tus sentimientos: Salud Mental",
-    "name": "Consejo para la regulación de las emociones",
+    "header_text": "Foto con amigos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Trate de poner una etiqueta específica a sus sentimientos (¿está triste, enojado, disgustado, nervioso, aterrorizado, etc.?); los sentimientos son más fáciles de manejar cuando podemos describirlos completamente."
+            "type": "Label",
+            "text": "Foto con amigos"
+        },
+        {
+            "type": "Media",
+            "file": "/images/Foto_con_amigos.jpg"
         }
     ]
 }

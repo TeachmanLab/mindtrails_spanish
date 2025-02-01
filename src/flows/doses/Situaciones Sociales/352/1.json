@@ -1,14 +1,14 @@
 {
-    "name": "El escaparate de danza388",
-    "title": "El escaparate de danza",
+    "header_text": "Un trago de agua",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "El escaparate de danza"
+            "text": "Un trago de agua"
         },
         {
             "type": "Media",
-            "file": "/images/El_escaparate_de_danza.jpg"
+            "file": "/images/Un_trago_de_agua.jpg"
         }
     ]
 }

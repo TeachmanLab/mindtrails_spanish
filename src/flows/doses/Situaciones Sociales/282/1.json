@@ -1,6 +1,6 @@
 {
-    "name": "Fin de semana largo solo Instructions",
-    "title": "Instrucciones",
+    "header_text": "Instrucciones",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",

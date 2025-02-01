@@ -1,14 +1,14 @@
 {
-    "name": "Opiniones opuestas298",
-    "title": "Opiniones opuestas",
+    "header_text": "Día especial",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Opiniones opuestas"
+            "text": "Día especial"
         },
         {
             "type": "Media",
-            "file": "/images/Opiniones_opuestas.jpg"
+            "file": "/images/Día_especial.jpg"
         }
     ]
 }

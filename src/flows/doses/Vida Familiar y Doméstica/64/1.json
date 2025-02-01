@@ -1,14 +1,14 @@
 {
-    "name": "Puntos de vista hacia la terapia56",
-    "title": "Puntos de vista hacia la terapia",
+    "header_text": "Apartamento nuevo para ti",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Puntos de vista hacia la terapia"
+            "text": "Apartamento nuevo para ti"
         },
         {
             "type": "Media",
-            "file": "/images/Puntos_de_vista_hacia_la_terapia.jpg"
+            "file": "/images/Apartamento_nuevo_para_ti.jpg"
         }
     ]
 }

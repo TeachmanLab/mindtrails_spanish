@@ -1,14 +1,14 @@
 {
-    "name": "Hablando sobre vivienda55",
-    "title": "Hablando sobre vivienda",
+    "header_text": "Desacuerdos con tu hermana",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Hablando sobre vivienda"
+            "text": "Desacuerdos con tu hermana"
         },
         {
             "type": "Media",
-            "file": "/images/Hablando_sobre_vivienda.jpg"
+            "file": "/images/Desacuerdos_con_tu_hermana.jpg"
         }
     ]
 }

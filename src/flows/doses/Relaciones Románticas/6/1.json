@@ -1,14 +1,14 @@
 {
-    "name": "Relaciones futuras4",
-    "title": "Relaciones futuras",
+    "header_text": "Planes de vacaciones",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Relaciones futuras"
+            "text": "Planes de vacaciones"
         },
         {
             "type": "Media",
-            "file": "/images/Relaciones_futuras.jpg"
+            "file": "/images/Planes_de_vacaciones.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "name": "Corte de dedo274",
-    "title": "Corte de dedo",
+    "header_text": "Prueba de enfermedad",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Corte de dedo"
+            "text": "Prueba de enfermedad"
         },
         {
             "type": "Media",
-            "file": "/images/Corte_de_dedo.jpg"
+            "file": "/images/Prueba_de_enfermedad.jpg"
         }
     ]
 }

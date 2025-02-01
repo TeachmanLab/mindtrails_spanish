@@ -1,14 +1,14 @@
 {
-    "name": "Costear la terapia184",
-    "title": "Costear la terapia",
+    "header_text": "Permitirse la educación",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Costear la terapia"
+            "text": "Permitirse la educación"
         },
         {
             "type": "Media",
-            "file": "/images/Costear_la_terapia.jpg"
+            "file": "/images/Permitirse_la_educación.jpg"
         }
     ]
 }

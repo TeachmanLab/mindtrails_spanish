@@ -1,14 +1,14 @@
 {
-    "name": "Boca seca47",
-    "title": "Boca seca",
+    "header_text": "Ponerse ahí fuera",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Boca seca"
+            "text": "Ponerse ahí fuera"
         },
         {
             "type": "Media",
-            "file": "/images/Boca_seca.jpg"
+            "file": "/images/Ponerse_ahí_fuera.jpg"
         }
     ]
 }

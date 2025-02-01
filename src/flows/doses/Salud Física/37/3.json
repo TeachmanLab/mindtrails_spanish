@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Dedos hormigueando",
+    "header_title": "Corriendo tu primera carrera",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te hacen sentir nervioso los hormigueos en los dedos?"
+            "Text": "Piensas que el dolor en tu cadera es..."
         },
         {
             "type": "Buttons",
-            "name": "Dedos hormigueando_Salud Física_comp_question",
+            "name": "Corriendo tu primera carrera_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Temporario.",
+                "Una señal de lesión grave."
             ],
             "columnCount": 1,
-            "answer": "No"
+            "answer": "Temporario."
         }
     ]
 }

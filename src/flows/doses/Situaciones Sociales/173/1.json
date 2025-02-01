@@ -1,14 +1,15 @@
 {
-    "name": "Cumpleaños de un amigo cercano179",
-    "title": "Cumpleaños de un amigo cercano",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_icon": "assets/subtitle.png",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
-            "type": "Label",
-            "text": "Cumpleaños de un amigo cercano"
+            "type": "Text",
+            "text": "¿Hay alguna situación que antes te daba miedo o te provocaba ansiedad, pero en la que ahora te sientes cómodo? ¿Qué te decías a ti mismo en esa situación? ¿Qué piensas ahora?"
         },
         {
-            "type": "Media",
-            "file": "/images/Cumpleaños_de_un_amigo_cercano.jpg"
+            "type": "Entry",
+            "name": "Consejo #3_entry"
         }
     ]
 }

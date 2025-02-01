@@ -1,14 +1,14 @@
 {
-    "name": "Presentación opcional47",
-    "title": "Presentación opcional",
+    "header_text": "Recuperándote despues de un error",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Presentación opcional"
+            "text": "Recuperándote despues de un error"
         },
         {
             "type": "Media",
-            "file": "/images/Presentación_opcional.jpg"
+            "file": "/images/Recuperándote_despues_de_un_error.jpg"
         }
     ]
 }

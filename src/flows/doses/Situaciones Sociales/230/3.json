@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Plato típico",
+    "header_title": "Temprano en la mañana",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Los otros invitados probablemente pensarán que tu comida..."
+            "Text": "¿Tus amigos te juzgan por no salir con ellos?"
         },
         {
             "type": "Buttons",
-            "name": "Plato típico_Situaciones Sociales_comp_question",
+            "name": "Temprano en la mañana_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "Es deliciosa.",
-                "Sabe terrible."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "answer": "Es deliciosa."
+            "answer": "No"
         }
     ]
 }

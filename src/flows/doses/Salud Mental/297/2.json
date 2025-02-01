@@ -1,14 +1,14 @@
 {
-    "name": "Puzzle",
-    "title": "Despertándote listo",
+    "header_text": "Mensajes de texto honestos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando estás terminando un proyecto a medianoche, te das cuenta de que todavía te quedan un par de tareas. Planeas levantarte un poco temprano para terminarlas antes de la fecha límite importante a las 9 a.m. Mientras pones la alarma y piensas en tu plan, tienes..."
+            "text": "Obtuviste el número de alguien de una aplicación de citas y le has estado enviando mensajes de texto por algunos días. No te sientes muy interesado en ellos, pero hoy te envían un mensaje de texto diciendo que están muy interesados en ti y que quieren encontrarse para una cita y te preocupa que se enojen si rechazas su oferta. Decides ser sincero acerca de no sentir lo mismo y decirles que no ves que tu relación desarolle... "
         },
         {
             "type": "Entry",
-            "name": "Despertándote listo_Salud Mental_entry1"
+            "name": "Mensajes de texto honestos_Salud Mental_entry1"
         }
     ]
 }

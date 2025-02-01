@@ -1,22 +1,24 @@
 {
-    "name": "Puzzle 2",
-    "title": "Ejercicio con un amigo",
+    "header_title": "Manchas de sudor",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando comienzas a tener pensamientos ansiosos de desmayarte, decides simplemente..."
+            "Text": "¿Tus amigos se burlarán de las manchas en tu camiseta?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Ejercicio con un amigo_Salud Física_puzzle_word2",
+            "type": "Buttons",
+            "name": "Manchas de sudor_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "cause_navigation": true,
-            "words": [
-                "notarlos"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "answer": "No"
         }
     ]
 }

@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Recibir reconocimiento",
+    "header_title": "Comparándote con otros",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Deberías dejar pasar la promoción?"
+            "Text": "¿Tu pareja se siente atraída a ti?"
         },
         {
             "type": "Buttons",
-            "name": "Recibir reconocimiento_Salud Mental_comp_question",
+            "name": "Comparándote con otros_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "No"
+            "answer": "Si"
         }
     ]
 }

@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle",
-    "title": "Trabajando para salir adelante",
+    "header_text": "Redes sociales",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te acaban de dar un trabajo en una oficina que realmente admiras. Para finalmente recibir el ascenso que deseas, sabes que tendrás que trabajar muy duro durante varios años y el resultado es incierto. Cuando imaginas tu probable puesto en la empresa en el futuro, espera que se te otorgue el trabajo que..."
+            "text": "Mientras te desplazas por tus redes sociales, ves una foto de todos tus amigos pasándolo bien en una llamada de video. No te invitaron a pasar el rato con ellos en línea. Lo piensas y decides que puedes sobrellevar tus..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Trabajando para salir adelante_Salud Mental_puzzle1",
+            "name": "Redes sociales_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "deseas"
+                "sentimientos"
             ],
             "missing_letter_count": 2
         }

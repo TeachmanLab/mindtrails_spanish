@@ -1,24 +1,24 @@
 {
-    "name": "Question",
-    "title": "Mantenerse al día con los amigos",
+    "header_title": "Un trago de agua",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Como no has estado en contacto, tu amigo probablemente esté pensando..."
+            "Text": "Cuando sientes ansiedad durante una presentación..."
         },
         {
             "type": "Buttons",
-            "name": "Mantenerse al día con los amigos_Situaciones Sociales_comp_question",
+            "name": "Un trago de agua_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
             "buttons": [
-                "\"Supongo que esta amistad no vale mucho\".",
-                "\"Estoy seguro de que las cosas están muy ocupadas en este momento\"."
+                "Tienes la capacidad de continuar con tu exposición.",
+                "Tienes que parar tu exposición y huir de la situación."
             ],
             "columnCount": 1,
-            "answer": "\"Supongo que esta amistad no vale mucho\"."
+            "answer": "Tienes la capacidad de continuar con tu exposición."
         }
     ]
 }

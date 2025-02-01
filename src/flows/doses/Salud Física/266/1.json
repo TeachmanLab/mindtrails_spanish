@@ -1,6 +1,6 @@
 {
-    "name": "Celebraciones en un juego deportivo286",
-    "title": "Celebraciones en un juego deportivo",
+    "header_text": "Celebraciones en un juego deportivo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",

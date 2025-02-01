@@ -1,14 +1,11 @@
 {
-    "name": "Tropezar en público79",
-    "title": "Tropezar en público",
+    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Tropezar en público"
-        },
-        {
-            "type": "Media",
-            "file": "/images/Tropezar_en_público.jpg"
+            "type": "Text",
+            "text": "Antes de pasar el rato con alguien, plantifiques algunos temas de conversación para mencionar durante tu conversación."
         }
     ]
 }

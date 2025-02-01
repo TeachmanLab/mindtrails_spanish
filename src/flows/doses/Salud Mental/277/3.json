@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Reunión uno a uno",
+    "header_title": "Opiniones opuestas",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Eres capaz de tolerar tu ansiedad mientras te reúnes con tu jefe?"
+            "Text": "¿Está bien tener puntos de vista diferentes a los de tu familia?"
         },
         {
             "type": "Buttons",
-            "name": "Reunión uno a uno_Salud Mental_comp_question",
+            "name": "Opiniones opuestas_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "Si"
+            "answer": "Sí"
         }
     ]
 }

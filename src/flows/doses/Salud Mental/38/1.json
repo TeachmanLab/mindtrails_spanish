@@ -1,14 +1,14 @@
 {
-    "name": "Sentirse llamado33",
-    "title": "Sentirse llamado",
+    "header_text": "Tus habilidades con los bolos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sentirse llamado"
+            "text": "Tus habilidades con los bolos"
         },
         {
             "type": "Media",
-            "file": "/images/Sentirse_llamado.jpg"
+            "file": "/images/Tus_habilidades_con_los_bolos.jpg"
         }
     ]
 }

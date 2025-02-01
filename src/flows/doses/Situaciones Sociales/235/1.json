@@ -1,14 +1,14 @@
 {
-    "name": "Silencio en un viaje en coche258",
-    "title": "Silencio en un viaje en coche",
+    "header_text": "Tocando el piano",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Silencio en un viaje en coche"
+            "text": "Tocando el piano"
         },
         {
             "type": "Media",
-            "file": "/images/Silencio_en_un_viaje_en_coche.jpg"
+            "file": "/images/Tocando_el_piano.jpg"
         }
     ]
 }

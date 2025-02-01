@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle 2",
-    "title": "Esperando una respuesta",
+    "header_text": "Gustos musicales diferentes",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Después de pensarlo, reconoces que tu amigo es una persona ocupada y que las personas a menudo se pierden las notificaciones. Reenvías tu mensaje y descubres que tu amigo olvidó responder, pero está muy entusiasmado por hacer planes..."
+            "text": "Después de hablar sobre los pros y los contras de diferentes estilos de música, te das cuenta de que probablemente a ella no le importa que tengan gustos diferentes y simplemente te ve como alguien entendido en..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Esperando una respuesta_Situaciones Sociales_puzzle_word2",
+            "name": "Gustos musicales diferentes_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "contigo"
+                "música"
             ],
             "missing_letter_count": 1
         }

@@ -1,0 +1,24 @@
+{
+    "name": "Question",
+    "title": "El escaparate de danza",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Según cómo te veas bailando, invitar a tus amigos y familiares probablemente será..."
+        },
+        {
+            "type": "Buttons",
+            "name": "El escaparate de danza_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Una buena idea.",
+                "Una mala idea."
+            ],
+            "columnCount": 1,
+            "answer": "Una buena idea."
+        }
+    ]
+}

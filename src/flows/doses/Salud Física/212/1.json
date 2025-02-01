@@ -1,10 +1,12 @@
 {
-    "title": "Maneja tus sentimientos: Salud Física",
-    "name": "Consejo para la regulación de las emociones",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Cada cuerpo es diferente. Tómate un momento para apreciar todo lo que tu cuerpo hace para apoyarte durante la vida."
+            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
         }
     ]
 }

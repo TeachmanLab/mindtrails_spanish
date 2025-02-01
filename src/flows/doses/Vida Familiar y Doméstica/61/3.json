@@ -1,15 +1,15 @@
 {
-    "name": "Question",
-    "title": "Invitar a alguien",
+    "header_title": "Hablando sobre vivienda",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás ansioso cuando llega tu compañero de trabajo?"
+            "Text": "¿Resolverás lo de la vivienda?"
         },
         {
             "type": "Buttons",
-            "name": "Invitar a alguien_Vida Familiar y Doméstica_comp_question",
+            "name": "Hablando sobre vivienda_Vida Familiar y Doméstica_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "No"
+            "answer": "Si"
         }
     ]
 }

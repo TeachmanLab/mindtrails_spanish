@@ -1,14 +1,14 @@
 {
-    "name": "Saludando a alguien308",
-    "title": "Saludando a alguien",
+    "header_text": "Opinión importante",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Saludando a alguien"
+            "text": "Opinión importante"
         },
         {
             "type": "Media",
-            "file": "/images/Saludando_a_alguien.jpg"
+            "file": "/images/Opinión_importante.jpg"
         }
     ]
 }

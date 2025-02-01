@@ -1,10 +1,11 @@
 {
-    "title": "¡Escribe El Tuyo!",
+    "header_text": "Recurso: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "name": "Oficina para la Salud de la Mujer",
     "elements": [
         {
             "type": "Text",
-            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
+            "text": "Oficina para la Salud de la Mujer\n\nLa Oficina para la Salud de la Mujer es la oficina gubernamental encargada de preservar y promover la buena salud y el bienestar de las mujeres. Ofrecen información y recursos.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
-    ],
-    "name": "Write Your Own"
+    ]
 }

@@ -1,24 +1,22 @@
 {
-    "name": "Question",
-    "title": "Decisiones de viaje",
-    "show_buttons": "WhenCorrect",
+    "header_text": "Encontrando equilibrio",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás contento con tu decisión sobre dónde ir de vacaciones?"
+            "text": "Escuchas música calmante mientras haces tus quehaceres. Mientras empiezas con tu lista de trabajos, tienes..."
         },
         {
-            "type": "Buttons",
-            "name": "Decisiones de viaje_Vida Familiar y Doméstica_comp_question",
+            "type": "WordPuzzle",
+            "name": "Encontrando equilibrio_Vida Familiar y Doméstica_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "cause_navigation": true,
+            "words": [
+                "confianza"
             ],
-            "columnCount": 1,
-            "answer": "Si"
+            "missing_letter_count": 1
         }
     ]
 }

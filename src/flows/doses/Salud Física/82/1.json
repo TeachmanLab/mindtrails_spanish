@@ -1,14 +1,14 @@
 {
-    "name": "Problemas de visión72",
-    "title": "Problemas de visión",
+    "header_text": "Dolor de estómago",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Problemas de visión"
+            "text": "Dolor de estómago"
         },
         {
             "type": "Media",
-            "file": "/images/Problemas_de_visión.jpg"
+            "file": "/images/Dolor_de_estómago.jpg"
         }
     ]
 }

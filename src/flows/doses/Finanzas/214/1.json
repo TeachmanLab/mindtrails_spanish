@@ -1,14 +1,14 @@
 {
-    "title": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "name": "¡Consejo para aplicar!",
+    "header_text": "Planes divertidos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Piensas en las lecciones que aprendiste de las historias que lees hoy. Mirando hacia atrás a una situación reciente que te hizo ansioso, ¿cómo podrías haberlo pensado de una manera diferente para que fuera más fácil de manejar?"
+            "type": "Label",
+            "text": "Planes divertidos"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #5_entry"
+            "type": "Media",
+            "file": "/images/Planes_divertidos.jpg"
         }
     ]
 }

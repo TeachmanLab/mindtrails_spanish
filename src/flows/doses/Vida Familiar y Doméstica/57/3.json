@@ -1,6 +1,6 @@
 {
-    "name": "Question",
-    "title": "Conducción segura",
+    "header_title": "Conducción segura",
+    "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {

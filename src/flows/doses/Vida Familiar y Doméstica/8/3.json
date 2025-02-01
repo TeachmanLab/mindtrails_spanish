@@ -1,20 +1,20 @@
 {
-    "name": "Puzzle 2",
-    "title": "Encontrando equilibrio",
+    "header_text": "Quedarse sin batería",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Escuchas música calmante mientras haces tus quehaceres. Mientras empiezas con tu lista de trabajos, tienes..."
+            "text": "Después de preocuparte por unos minutos, te das cuenta de que puedes aprovechar este tiempo para hablar con tu familia. Te sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Encontrando equilibrio_Vida Familiar y Doméstica_puzzle_word2",
+            "name": "Quedarse sin batería_Vida Familiar y Doméstica_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "cause_navigation": true,
             "words": [
-                "confianza"
+                "mejor"
             ],
             "missing_letter_count": 1
         }
