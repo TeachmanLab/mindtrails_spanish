@@ -31,20 +31,20 @@ with open(f"{dir_csv}/MTSpanish_on-demand.csv", "r", encoding="utf-8") as read_o
 
 for groupname in get_groupnames():
 
-    shutil.rmtree(f"{dir_out}/{groupname}/flows/resources",ignore_errors=True)
+    shutil.rmtree(f"{dir_out}/{groupname}/resources",ignore_errors=True)
 
     # Write resource Pages
     for domain, subdomains in domains.items():
-        dir_dom = f"{dir_out}/{groupname}/flows/resources/{dir_safe(domain)}"
+        dir_dom = f"{dir_out}/{groupname}/resources/{dir_safe(domain)}"
         Path(dir_dom).mkdir(parents=True)
         for subdomain, resources in subdomains.items():
             with open(f"{dir_dom}/{dir_safe(subdomain)}.json", 'w+', encoding='utf-8') as outfile:
                 json.dump(create_subdomain_page(subdomain, resources), outfile, indent=4, ensure_ascii=False)
 
     # Configure Flow Guides
-    with open(f"{dir_out}/{groupname}/flows/resources/__flow__.json", 'w+', encoding='utf-8') as outfile:
+    with open(f"{dir_out}/{groupname}/resources/__flow__.json", 'w+', encoding='utf-8') as outfile:
         json.dump({"mode":"select"}, outfile, indent=4, ensure_ascii=False)
 
     for domain, subdomains in domains.items():
-        with open(f"{dir_out}/{groupname}/flows/resources/{dir_safe(domain)}/__flow__.json", 'w+', encoding='utf-8') as outfile:
+        with open(f"{dir_out}/{groupname}/resources/{dir_safe(domain)}/__flow__.json", 'w+', encoding='utf-8') as outfile:
             json.dump({"mode":"select"}, outfile, indent=4, ensure_ascii=False)

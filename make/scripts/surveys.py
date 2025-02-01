@@ -16,10 +16,10 @@ dir_out  = f"{dir_root}/~out"
 Path(dir_out).mkdir(parents=True,exist_ok=True)
 
 def get_relflows(groupname):
-    return f"{groupname}/flows"
+    return f"{groupname}"
 
 def get_relpages(groupname,flowname):
-    return f"{groupname}/flows/{flowname}"
+    return f"{groupname}/{flowname}"
 
 def get_flownames():
     yield 'intro'
@@ -167,7 +167,7 @@ with open(f"{dir_csv}/MTSpanish_survey_questions.csv", "r", encoding="utf-8") as
 #Create the surveys
 for groupname,flowname in product(get_groupnames(),get_flownames()):
 
-    root_dir = f"{dir_out}/{groupname}/flows"
+    root_dir = f"{dir_out}/{groupname}"
     pages_dir = f"{root_dir}/biweekly/{int(flowname[-1])//2}" if "biweekly" in flowname else f"{root_dir}/{flowname}"
 
     shutil.rmtree(pages_dir,ignore_errors=True)
@@ -179,7 +179,7 @@ for groupname,flowname in product(get_groupnames(),get_flownames()):
 
 #Configure biweekly so they only get one survey at a time
 for groupname in get_groupnames():
-    biweekly_config_path = f"{dir_out}/{groupname}/flows/biweekly/__flow__.json"
+    biweekly_config_path = f"{dir_out}/{groupname}/biweekly/__flow__.json"
     biweekly_config_json = {"mode":"sequential","size":1}
     with open(biweekly_config_path, 'w', encoding='utf-8') as f:
         json.dump(biweekly_config_json, f, indent=4, ensure_ascii=False)

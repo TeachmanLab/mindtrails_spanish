@@ -12,7 +12,7 @@ from helpers_utilities import get_resources, get_ER, get_tips, clean_up_unicode,
 dir_root = "./make"
 dir_csv   = f"{dir_root}/CSV"
 dir_out   = f"{dir_root}/~out"
-dir_flows = f"{dir_out}/treatment/flows"
+dir_flows = f"{dir_out}/treatment"
 dir_doses = f"{dir_flows}/doses"
 
 Path(dir_out).mkdir(parents=True,exist_ok=True)
