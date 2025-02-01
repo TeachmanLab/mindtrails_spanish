@@ -365,3 +365,9 @@ def create_video_page(video_number):
             {"type": "Media", "file": f"/videos/video{video_number}.mp4", "Frame": True}
         ]
     }
+
+def create_write_your_own_page(text, input_1, title, input_name):
+    page = create_survey_page(text=text, input_1=input_1, title=title, input_name=input_name)
+    page["header_text"] = title or "Escribe El tuyo"
+    page["header_icon"] = "assets/subtitle.png",
+    return page

@@ -6,7 +6,7 @@ from collections import defaultdict
 from itertools import islice, cycle
 from pathlib import Path
 
-from helpers_pages import create_discrimination_page, create_scenario_pages, create_survey_page,create_resource_page, create_long_pages
+from helpers_pages import create_discrimination_page, create_scenario_pages, create_survey_page,create_resource_page, create_long_pages, create_write_your_own_page
 from helpers_utilities import get_resources, get_ER, get_tips, clean_up_unicode, has_value, create_puzzle, dir_safe, shuffle
 
 dir_root = "./make"
@@ -168,10 +168,7 @@ def create_write_your_own_dose():
                 title = row[1]
                 input_1 = row[5]
                 input_name = row[18]
-                page = create_survey_page(text=text, input_1=input_1, title=title, input_name=input_name)
-                page["name"] = "Write Your Own"
-                page["title"] = title or "Escribe El tuyo"
-                pages.append(page)
+                pages.append(create_write_your_own_page(text, input_1, title, input_name))
     return pages
 
 def create_resource_dose_creator():
