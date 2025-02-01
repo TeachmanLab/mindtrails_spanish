@@ -95,9 +95,9 @@ def create_long_pages(label, scenario_description, unique_image, thoughts, feeli
             pages.append({
                 "header_text": title,
                 "header_icon": "assets/subtitle.png",
-                "elements": list(filter(None,[text,media,input])), 
-                **show_buttons, 
-                **timeout 
+                "elements": list(filter(None,[text,media,input])),
+                **show_buttons,
+                **timeout
             })
 
     return pages
@@ -195,8 +195,8 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
 
     if has_value(word_2) and has_value(puzzle_text_2):
         pages.append({
-            "name": "Puzzle 2",
-            "title": label,
+            "header_text": label,
+            "header_icon": "assets/subtitle.png",
             "elements": [
                 {"type": "Text", "text": puzzle_text_2},
                 {
@@ -219,8 +219,8 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
 
     if letters_missing != "all":
         pages.append({
-            "name": "Question",
-            "title": label,
+            "header_title": label,
+            "header_icon": "assets/subtitle.png",
             "show_buttons": "WhenCorrect",
             "elements": [
                 { "type": "Text", "Text": comp_question},
@@ -280,7 +280,7 @@ def create_resource_page(resources_lookup, tips, ER_lookup, domain):
     text = { "type": "Text", "text": text }
     elements = [text,input] if input else [text]
 
-    return {"title": title, "name": name, "elements": elements }
+    return {"header_text": title, "header_icon": "assets/subtitle.png", "name": name, "elements": elements }
 
 def create_discrimination_page(conditions, text, items, input_1,
                                input_name, title):
@@ -292,7 +292,7 @@ def create_discrimination_page(conditions, text, items, input_1,
     if input: input["name"] = input_name
 
     elements = [text,input] if input else [text]
-    page = { "title": title, "elements": elements }
+    page = { "header_text": title, "header_icon": "assets/subtitle.png", "elements": elements }
 
     if condition: page["conditions"] = [condition]
 
@@ -346,7 +346,7 @@ def create_survey_page(text=None, media=None, image_framed=None, items=None, inp
     condition    = {"conditions" : [condition]  } if condition else {}
 
     elements = list(filter(None, [textinput, mediainput, input1, input2] ))
-    page     = { "title": title, "elements": elements, **timeout, **show_buttons, **condition }
+    page     = { "header_text": title, "header_icon": "assets/subtitle.png", "elements": elements, **timeout, **show_buttons, **condition }
 
     return page
 
