@@ -5,7 +5,6 @@ import json
 from collections import defaultdict
 from itertools import islice, chain, product
 from pathlib import Path
-import numpy as np
 
 from helpers_pages import create_scenario_pages, create_survey_page, create_video_page
 from helpers_utilities import clean_up_unicode, create_puzzle, get_groupnames, shuffle
