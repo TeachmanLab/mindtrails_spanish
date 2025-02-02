@@ -218,7 +218,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
 
     if letters_missing != "all":
         pages.append({
-            "header_title": label,
+            "header_text": label,
             "header_icon": "assets/subtitle.png",
             "show_buttons": "WhenCorrect",
             "elements": [
