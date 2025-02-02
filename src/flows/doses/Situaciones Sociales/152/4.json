@@ -1,5 +1,5 @@
 {
-    "header_title": "Noticias controvertidas",
+    "header_text": "Noticias controvertidas",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [

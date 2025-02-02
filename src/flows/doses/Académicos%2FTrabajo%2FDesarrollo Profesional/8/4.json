@@ -1,5 +1,5 @@
 {
-    "header_title": "Comentarios sobre tu trabajo",
+    "header_text": "Comentarios sobre tu trabajo",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [

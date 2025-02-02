@@ -1,5 +1,5 @@
 {
-    "header_title": "Pedido de un niño",
+    "header_text": "Pedido de un niño",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [

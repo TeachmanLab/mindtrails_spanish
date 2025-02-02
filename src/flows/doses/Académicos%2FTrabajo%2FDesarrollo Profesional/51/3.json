@@ -1,5 +1,5 @@
 {
-    "header_title": "Correo electrónico importante",
+    "header_text": "Correo electrónico importante",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [

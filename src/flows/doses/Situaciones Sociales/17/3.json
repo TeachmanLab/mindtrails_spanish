@@ -1,5 +1,5 @@
 {
-    "header_title": "Exposición reciente",
+    "header_text": "Exposición reciente",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [

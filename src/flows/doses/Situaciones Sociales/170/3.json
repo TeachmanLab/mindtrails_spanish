@@ -1,5 +1,5 @@
 {
-    "header_title": "Rechazar una bebida",
+    "header_text": "Rechazar una bebida",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [

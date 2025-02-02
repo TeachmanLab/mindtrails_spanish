@@ -1,5 +1,5 @@
 {
-    "header_title": "Una pregunta personal",
+    "header_text": "Una pregunta personal",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [

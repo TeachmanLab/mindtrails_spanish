@@ -1,5 +1,5 @@
 {
-    "header_title": "Día especial",
+    "header_text": "Día especial",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [

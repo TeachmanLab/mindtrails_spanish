@@ -1,5 +1,5 @@
 {
-    "header_title": "Cita con el doctor",
+    "header_text": "Cita con el doctor",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [

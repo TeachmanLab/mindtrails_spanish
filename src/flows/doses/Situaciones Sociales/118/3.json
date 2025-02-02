@@ -1,5 +1,5 @@
 {
-    "header_title": "Conexión perdida",
+    "header_text": "Conexión perdida",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [

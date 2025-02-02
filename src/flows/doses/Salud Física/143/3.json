@@ -1,5 +1,5 @@
 {
-    "header_title": "Suministros para la cena",
+    "header_text": "Suministros para la cena",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [

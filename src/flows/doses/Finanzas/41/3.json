@@ -1,5 +1,5 @@
 {
-    "header_title": "Factura por una reparación",
+    "header_text": "Factura por una reparación",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [

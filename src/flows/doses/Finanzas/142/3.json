@@ -1,5 +1,5 @@
 {
-    "header_title": "Comparando salarios",
+    "header_text": "Comparando salarios",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [

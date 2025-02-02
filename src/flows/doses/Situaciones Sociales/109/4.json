@@ -1,5 +1,5 @@
 {
-    "header_title": "Esperando una respuesta",
+    "header_text": "Esperando una respuesta",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [

@@ -1,5 +1,5 @@
 {
-    "header_title": "Costos de la sesión",
+    "header_text": "Costos de la sesión",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [

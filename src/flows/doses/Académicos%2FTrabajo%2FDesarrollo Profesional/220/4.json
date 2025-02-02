@@ -1,5 +1,5 @@
 {
-    "header_title": "Corrección rápida",
+    "header_text": "Corrección rápida",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [

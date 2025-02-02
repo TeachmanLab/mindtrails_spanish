@@ -1,5 +1,5 @@
 {
-    "header_title": "Planificación de pagos",
+    "header_text": "Planificación de pagos",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [

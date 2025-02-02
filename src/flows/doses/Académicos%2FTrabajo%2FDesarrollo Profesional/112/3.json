@@ -1,5 +1,5 @@
 {
-    "header_title": "Tomando notas",
+    "header_text": "Tomando notas",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [

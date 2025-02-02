@@ -1,5 +1,5 @@
 {
-    "header_title": "Un panel de entrevista",
+    "header_text": "Un panel de entrevista",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [

@@ -1,5 +1,5 @@
 {
-    "header_title": "Nueva receta",
+    "header_text": "Nueva receta",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [

@@ -1,5 +1,5 @@
 {
-    "header_title": "Planes cancelados",
+    "header_text": "Planes cancelados",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [

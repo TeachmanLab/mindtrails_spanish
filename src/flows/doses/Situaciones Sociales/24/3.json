@@ -1,5 +1,5 @@
 {
-    "header_title": "Escuchando tu nombre",
+    "header_text": "Escuchando tu nombre",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [

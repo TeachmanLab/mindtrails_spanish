@@ -1,5 +1,5 @@
 {
-    "header_title": "Hora para dormir",
+    "header_text": "Hora para dormir",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [

@@ -1,5 +1,5 @@
 {
-    "header_title": "Reloj favorito",
+    "header_text": "Reloj favorito",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [

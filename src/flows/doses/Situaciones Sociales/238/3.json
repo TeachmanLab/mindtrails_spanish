@@ -1,5 +1,5 @@
 {
-    "header_title": "Reunión de mañana",
+    "header_text": "Reunión de mañana",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [

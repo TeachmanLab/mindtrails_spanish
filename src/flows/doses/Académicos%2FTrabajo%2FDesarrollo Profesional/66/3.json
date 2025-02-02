@@ -1,5 +1,5 @@
 {
-    "header_title": "Tomar una decisión",
+    "header_text": "Tomar una decisión",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
