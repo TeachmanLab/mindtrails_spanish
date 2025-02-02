@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Visitas_importantes.jpg"
+            "url": "/images/Visitas_importantes.jpg"
         }
     ]
 }

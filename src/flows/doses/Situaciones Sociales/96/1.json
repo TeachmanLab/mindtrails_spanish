@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Tiempo_en_silencio.jpg"
+            "url": "/images/Tiempo_en_silencio.jpg"
         }
     ]
 }

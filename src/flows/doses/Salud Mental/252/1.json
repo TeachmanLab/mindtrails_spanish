@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Recibir_reconocimiento.jpg"
+            "url": "/images/Recibir_reconocimiento.jpg"
         }
     ]
 }

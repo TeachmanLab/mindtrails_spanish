@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Pagando_facturas.jpg"
+            "url": "/images/Pagando_facturas.jpg"
         }
     ]
 }

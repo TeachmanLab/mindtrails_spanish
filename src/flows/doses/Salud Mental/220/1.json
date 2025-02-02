@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Nuevo_atuendo.jpg"
+            "url": "/images/Nuevo_atuendo.jpg"
         }
     ]
 }

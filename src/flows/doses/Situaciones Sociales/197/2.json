@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Charla_de_oficina.jpg"
+            "url": "/images/Charla_de_oficina.jpg"
         }
     ]
 }

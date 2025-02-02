@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Funciones_normales.jpg"
+            "url": "/images/Funciones_normales.jpg"
         }
     ]
 }

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Amigo_importante.jpg"
+            "url": "/images/Amigo_importante.jpg"
         }
     ]
 }

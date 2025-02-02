@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Reloj_favorito.jpg"
+            "url": "/images/Reloj_favorito.jpg"
         }
     ]
 }

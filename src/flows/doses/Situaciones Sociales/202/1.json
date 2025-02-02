@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Fotos_divertidas.jpg"
+            "url": "/images/Fotos_divertidas.jpg"
         }
     ]
 }

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Llamada_telefónica_del_lunes.jpg"
+            "url": "/images/Llamada_telefónica_del_lunes.jpg"
         }
     ]
 }

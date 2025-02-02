@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Nueva_receta.jpg"
+            "url": "/images/Nueva_receta.jpg"
         }
     ]
 }

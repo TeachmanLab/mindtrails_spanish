@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Sala_de_espera_del_hospital.jpg"
+            "url": "/images/Sala_de_espera_del_hospital.jpg"
         }
     ]
 }

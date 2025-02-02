@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Noticias_decepcionantes.jpg"
+            "url": "/images/Noticias_decepcionantes.jpg"
         }
     ]
 }

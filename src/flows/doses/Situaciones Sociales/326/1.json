@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/El_torneo_de_fútbol.jpg"
+            "url": "/images/El_torneo_de_fútbol.jpg"
         }
     ]
 }

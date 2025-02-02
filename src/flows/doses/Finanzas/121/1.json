@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Evento_social.jpg"
+            "url": "/images/Evento_social.jpg"
         }
     ]
 }

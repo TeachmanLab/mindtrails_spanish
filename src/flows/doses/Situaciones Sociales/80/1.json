@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Tomando_el_mando.jpg"
+            "url": "/images/Tomando_el_mando.jpg"
         }
     ]
 }

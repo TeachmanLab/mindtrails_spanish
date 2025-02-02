@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Almuerzo_maloliente.jpg"
+            "url": "/images/Almuerzo_maloliente.jpg"
         }
     ]
 }

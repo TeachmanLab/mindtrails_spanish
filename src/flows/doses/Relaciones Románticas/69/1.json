@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Sin_notificaciones.jpg"
+            "url": "/images/Sin_notificaciones.jpg"
         }
     ]
 }

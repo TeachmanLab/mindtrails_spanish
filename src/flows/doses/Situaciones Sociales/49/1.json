@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Invitar_gente.jpg"
+            "url": "/images/Invitar_gente.jpg"
         }
     ]
 }

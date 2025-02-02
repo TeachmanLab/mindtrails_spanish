@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Experiencias_pasadas.jpg"
+            "url": "/images/Experiencias_pasadas.jpg"
         }
     ]
 }

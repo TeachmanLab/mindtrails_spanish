@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Saludando_a_alguien.jpg"
+            "url": "/images/Saludando_a_alguien.jpg"
         }
     ]
 }

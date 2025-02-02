@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Expectativas.jpg"
+            "url": "/images/Expectativas.jpg"
         }
     ]
 }

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Día_especial.jpg"
+            "url": "/images/Día_especial.jpg"
         }
     ]
 }

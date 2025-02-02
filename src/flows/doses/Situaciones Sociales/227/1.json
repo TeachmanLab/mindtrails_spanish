@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Una_cámara_nueva.jpg"
+            "url": "/images/Una_cámara_nueva.jpg"
         }
     ]
 }

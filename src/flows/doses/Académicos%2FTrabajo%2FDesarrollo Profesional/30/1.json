@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/WiFi_inestable.jpg"
+            "url": "/images/WiFi_inestable.jpg"
         }
     ]
 }

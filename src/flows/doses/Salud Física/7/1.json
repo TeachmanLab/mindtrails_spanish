@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Cita_con_el_doctor.jpg"
+            "url": "/images/Cita_con_el_doctor.jpg"
         }
     ]
 }

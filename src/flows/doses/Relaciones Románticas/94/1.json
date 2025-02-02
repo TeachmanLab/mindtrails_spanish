@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Por_primera_vez.jpg"
+            "url": "/images/Por_primera_vez.jpg"
         }
     ]
 }

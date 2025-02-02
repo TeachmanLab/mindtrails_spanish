@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Dando_la_mano.jpg"
+            "url": "/images/Dando_la_mano.jpg"
         }
     ]
 }

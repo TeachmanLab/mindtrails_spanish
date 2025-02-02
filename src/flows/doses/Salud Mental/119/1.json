@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Puerta_con_seguro.jpg"
+            "url": "/images/Puerta_con_seguro.jpg"
         }
     ]
 }

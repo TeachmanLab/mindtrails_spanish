@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Mal_rumor.jpg"
+            "url": "/images/Mal_rumor.jpg"
         }
     ]
 }

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Presentación_de_clase.jpg"
+            "url": "/images/Presentación_de_clase.jpg"
         }
     ]
 }

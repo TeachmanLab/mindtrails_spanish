@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Deprimido.jpg"
+            "url": "/images/Deprimido.jpg"
         }
     ]
 }

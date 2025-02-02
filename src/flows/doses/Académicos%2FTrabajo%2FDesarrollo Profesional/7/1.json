@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Listo_para_trabajar.jpg"
+            "url": "/images/Listo_para_trabajar.jpg"
         }
     ]
 }

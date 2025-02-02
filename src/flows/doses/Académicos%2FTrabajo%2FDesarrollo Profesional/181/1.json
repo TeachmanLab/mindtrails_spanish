@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Presentación_estresante.jpg"
+            "url": "/images/Presentación_estresante.jpg"
         }
     ]
 }

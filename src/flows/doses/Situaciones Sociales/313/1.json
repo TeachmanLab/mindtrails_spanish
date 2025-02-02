@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Esta_reunión.jpg"
+            "url": "/images/Esta_reunión.jpg"
         }
     ]
 }

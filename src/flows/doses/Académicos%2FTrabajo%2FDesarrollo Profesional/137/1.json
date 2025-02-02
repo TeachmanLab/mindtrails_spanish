@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Trabajando_duro.jpg"
+            "url": "/images/Trabajando_duro.jpg"
         }
     ]
 }

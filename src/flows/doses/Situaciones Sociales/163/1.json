@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/en_un_barco.jpg"
+            "url": "/images/en_un_barco.jpg"
         }
     ]
 }

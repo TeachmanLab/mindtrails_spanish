@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Fiesta_con_amigos.jpg"
+            "url": "/images/Fiesta_con_amigos.jpg"
         }
     ]
 }

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Planes_cancelados.jpg"
+            "url": "/images/Planes_cancelados.jpg"
         }
     ]
 }

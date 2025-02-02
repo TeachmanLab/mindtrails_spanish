@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Calentador.jpg"
+            "url": "/images/Calentador.jpg"
         }
     ]
 }

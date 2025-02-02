@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Viejos_amigos.jpg"
+            "url": "/images/Viejos_amigos.jpg"
         }
     ]
 }

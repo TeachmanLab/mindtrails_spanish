@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Atención_en_la_tienda.jpg"
+            "url": "/images/Atención_en_la_tienda.jpg"
         }
     ]
 }

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/El_coche_de_tu_familia.jpg"
+            "url": "/images/El_coche_de_tu_familia.jpg"
         }
     ]
 }

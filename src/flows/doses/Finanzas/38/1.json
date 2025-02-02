@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Cena_cara.jpg"
+            "url": "/images/Cena_cara.jpg"
         }
     ]
 }

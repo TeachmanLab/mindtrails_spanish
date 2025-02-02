@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Estando_soltero.jpg"
+            "url": "/images/Estando_soltero.jpg"
         }
     ]
 }

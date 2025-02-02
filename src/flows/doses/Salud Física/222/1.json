@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Vecino_amigable.jpg"
+            "url": "/images/Vecino_amigable.jpg"
         }
     ]
 }

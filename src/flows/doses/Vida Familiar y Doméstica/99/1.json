@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/images/Ruidos_del_exterior.jpg"
+            "url": "/images/Ruidos_del_exterior.jpg"
         }
     ]
 }
