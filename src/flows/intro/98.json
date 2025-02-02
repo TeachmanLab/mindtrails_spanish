@@ -8,8 +8,8 @@
         },
         {
             "type": "Media",
-            "path": "https://github.com/TeachmanLab/MindtrailsMobile_Resources/raw/main/HTC/protocols/protocol1/media/images/lemon/pic4.jpg",
-            "frame": true
+            "url": "https://github.com/TeachmanLab/MindtrailsMobile_Resources/raw/main/HTC/protocols/protocol1/media/images/lemon/pic4.jpg",
+            "border": true
         }
     ],
     "timeout": 2,

@@ -6,8 +6,8 @@
         },
         {
             "type": "Media",
-            "file": "/videos/video3.mp4",
-            "Frame": true
+            "url": "/videos/video3.mp4",
+            "border": true
         }
     ]
 }

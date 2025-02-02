@@ -12,7 +12,6 @@
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "cause_navigation": true,
             "words": [
                 "difícil"
             ],

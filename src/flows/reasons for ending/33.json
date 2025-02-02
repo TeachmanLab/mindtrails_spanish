@@ -7,7 +7,7 @@
             "text": "Durante este programa, ¿cambió alguna dosis de medicamento, terapia u otra intervención para ayudar a su salud mental? Por favor marque todos los que apliquen."
         },
         {
-            "type": "buttons",
+            "type": "Buttons",
             "buttons": [
                 "Busco más terapia presencial ahora",
                 "Ahora busco menos terapia en persona",

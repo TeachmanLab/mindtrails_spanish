@@ -7,7 +7,7 @@
             "text": "¿Cómo se enteró de Hoos Think Calmly? (Seleccione todas las que correspondan)"
         },
         {
-            "type": "buttons",
+            "type": "Buttons",
             "buttons": [
                 "Del sitio web de un recurso comunitario de la UVA (por ejemplo, Servicios de asesoramiento y psicología)",
                 "De un boletín informativo asociado con un recurso comunitario de la UVA",

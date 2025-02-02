@@ -7,7 +7,7 @@
             "text": "Hay muchas razones por las que las personas no reciben ayuda. ¿Por qué no recibe tratamiento de salud mental? Por favor seleccione todas las respuestas válidas."
         },
         {
-            "type": "buttons",
+            "type": "Buttons",
             "buttons": [
                 "No creo que un medicamento recetado me ayude",
                 "No me gusta la idea de tomar medicamentos recetados",

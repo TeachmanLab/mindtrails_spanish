@@ -7,7 +7,7 @@
             "text": "¿Qué espera obtener del programa Hoos Think Calmly? Seleccione todas las que correspondan."
         },
         {
-            "type": "buttons",
+            "type": "Buttons",
             "buttons": [
                 "Quiero pensar con más flexibilidad y menos negativamente.",
                 "Quiero poder gestionar situaciones estresantes de forma más eficaz.",

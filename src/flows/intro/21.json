@@ -7,7 +7,7 @@
             "text": "En los últimos dos meses, ¿ha habido algún cambio en su tratamiento de salud mental? Marque todo lo que corresponda."
         },
         {
-            "type": "buttons",
+            "type": "Buttons",
             "buttons": [
                 "Empecé terapia",
                 "Terminé la terapia",

@@ -7,7 +7,7 @@
             "text": "¿Está actualmente luchando con alguno de los siguientes trastornos mentales? Por favor seleccione todas las respuestas válidas."
         },
         {
-            "type": "buttons",
+            "type": "Buttons",
             "buttons": [
                 "Trastorno de ansiedad generalizada (TAG)",
                 "Trastorno obsesivo-compulsivo (TOC)",

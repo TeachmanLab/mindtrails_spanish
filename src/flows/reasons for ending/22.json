@@ -7,7 +7,7 @@
             "text": "¿Se comunicó con alguno de los siguientes recursos o referencias en algún momento desde que comenzó a usar Hoos Think Calmly? Por favor seleccione todas las respuestas válidas."
         },
         {
-            "type": "buttons",
+            "type": "Buttons",
             "buttons": [
                 "Clubes y organizaciones (por ejemplo, grupos culturales, voluntariado)",
                 "Servicios de Consejería y Psicología (CAPS)",

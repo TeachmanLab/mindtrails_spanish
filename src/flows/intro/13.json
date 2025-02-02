@@ -7,7 +7,7 @@
             "text": "¿Recibes actualmente alguna ayuda por temas relacionados con la salud mental? Seleccione todo lo que corresponda o \"No recibo ayuda\"."
         },
         {
-            "type": "buttons",
+            "type": "Buttons",
             "buttons": [
                 "Terapia::Terapia (hablar con un profesional capacitado)\n\nEjemplos: psicólogo, profesional de salud mental autorizado (LMHC), consejero escolar, trabajador social, terapeuta matrimonial y familiar, terapeuta de grupo",
                 "Prescripción:: Medicamentos recetados\n\nEjemplos: psiquiatra, médico",

@@ -11,7 +11,6 @@
             "right_feedback": "Correcto!",
             "wrong_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "wrong_delay": 5000,
-            "cause_navigation": true,
             "words": [
                 "reír"
             ],

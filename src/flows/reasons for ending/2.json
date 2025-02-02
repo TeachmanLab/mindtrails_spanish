@@ -7,7 +7,7 @@
             "text": "¿Por qué decidiste terminar el programa? Por favor marque todos los que apliquen."
         },
         {
-            "type": "buttons",
+            "type": "Buttons",
             "buttons": [
                 "No tuve tiempo suficiente para completar el programa",
                 "No encontré el programa útil para reducir mi ansiedad",

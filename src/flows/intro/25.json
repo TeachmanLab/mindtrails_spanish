@@ -7,7 +7,7 @@
             "text": "¿Cuáles de los siguientes recursos en la UVA has utilizado anteriormente? Por favor seleccione todas las respuestas válidas."
         },
         {
-            "type": "buttons",
+            "type": "Buttons",
             "buttons": [
                 "Clubes y organizaciones (por ejemplo, grupos culturales, voluntariado)",
                 "Servicios de Consejería y Psicología (CAPS)",
