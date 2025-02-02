@@ -26,20 +26,21 @@ def create_input(tipe, items=None, min=None, max=None, text=None):
     if items: items = clean_up_unicode(items).split("; ")
     if items == [""]: items = None
 
+    tipe = tipe.lower()
+
     ## Based on what the input is, create input "add"
-    if tipe == "Picker"   : return {"type": "Picker", "items": items}
-    if tipe == "Slider"   : return {"type": "Slider", "min": min, "max": max, "others": items or ["^Prefiero no responder"]} # changed
-    if tipe == "Entry"    : return {"type": "Entry" }
-    if tipe == "Buttons"  : return {"type": "Buttons", "buttons": items, "selectable": True, **({"ColumnCount": 2} if is_yesno(items) else {}) }
-    if tipe == "Scheduler": return {"type": "scheduler", "message": "¡Es hora de practicar el pensamiento flexible! Dirígete a MindTrails Español para tu sesión programada."}
-    if tipe == "Checkbox" : return {"type": "buttons", "buttons": items, "selectable": True, "multi_select": True }
-    if tipe == "TimedText": return {"type": "TimedText", "text": text,  "Duration": 15 }
-    if tipe == "Puzzle"   : return {
+    if tipe == "picker"   : return {"type": "Picker", "items": items}
+    if tipe == "slider"   : return {"type": "Slider", "min": min, "max": max, "others": items or ["^Prefiero no responder"]} # changed
+    if tipe == "entry"    : return {"type": "Entry" }
+    if tipe == "buttons"  : return {"type": "Buttons", "buttons": items, "selectable": True, **({"ColumnCount": 2} if is_yesno(items) else {}) }
+    if tipe == "scheduler": return {"type": "Scheduler", "message": "¡Es hora de practicar el pensamiento flexible! Dirígete a MindTrails Español para tu sesión programada."}
+    if tipe == "checkbox" : return {"type": "Buttons", "buttons": items, "selectable": True, "multi_select": True }
+    if tipe == "timedtext": return {"type": "TimedText", "text": text,  "Duration": 15 }
+    if tipe == "puzzle"   : return {
         "type": "WordPuzzle",
         "right_feedback": "Correcto!",  # changed
         "wrong_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",  # changed
         "wrong_delay": 5000,
-        "cause_navigation": True,
         "words": items
     }
     return None
@@ -61,7 +62,7 @@ def create_long_pages(label, scenario_description, unique_image, thoughts, feeli
     with open(f"{dir_csv}/Spanish htc_long_scenarios_structure.csv","r", encoding="utf-8") as csvfile:
         for row in islice(csv.reader(csvfile),1,None):
 
-            input_1, is_image, timeout = row[6], row[10]=="TRUE", row[13]
+            input_1, is_image, timeout = row[6], row[10].lower() == "true", row[13]
 
             title = row[0].replace("[Scenario_Name]", label)
             descr = clean_up_unicode(row[4].replace("[Scenario_Description]", scenario_description))
@@ -72,7 +73,7 @@ def create_long_pages(label, scenario_description, unique_image, thoughts, feeli
                 image_url = f"/images/{label.replace(' ', '_')}.jpg"
 
             text  = {"type": "Text", "text": descr}
-            media = {"type": "Media", "frame": True, "path": image_url} if is_image else None
+            media = {"type": "Media", "border": True, "url": image_url} if is_image else None
 
             timeout = {"timeout": int(timeout) } if timeout else {}
 
@@ -125,6 +126,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
     :return:
     """
 
+    letters_missing = str(letters_missing)
     is_first_scenario = (int(row_num) - 1) % 10 == 0
     pages = []
 
@@ -138,7 +140,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
             ]
         })
 
-    if letters_missing == "all" and is_first_scenario:
+    if letters_missing.lower() == "all" and is_first_scenario:
         # if all letters missing, and it's the first scenario, add an instructions page
         pages.append({
             "header_text": "Instrucciones",  # changed
@@ -179,10 +181,8 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                 "type": "WordPuzzle",
                 "name": f"{label}_{domain}_puzzle1",
                 "correct_feedback": "Correcto!",  # changed
-                "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento "
-                                      "y intenta de nuevo.",  # changed
+                "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",  # changed
                 "incorrect_delay": 5000,
-                "cause_navigation": True,
                 "words": [word_1]
             }
         ]
@@ -190,7 +190,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
 
     if letters_missing in ["1","2"]:
         pages[-1]["elements"][-1]["missing_letter_count"] = int(letters_missing)
-    elif letters_missing == "all":
+    elif letters_missing.lower() == "all":
         pages[-1]["elements"][-1] = {"type": "Entry", "name": f"{label}_{domain}_entry1" }
 
     if has_value(word_2) and has_value(puzzle_text_2):
@@ -203,18 +203,17 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                     "type": "WordPuzzle",
                     "name": f"{label}_{domain}_puzzle_word2",
                     "correct_feedback": "Correcto!",  # changed
-                    "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento "
-                                          "y intenta de nuevo.",  # changed
+                    "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",  # changed
                     "incorrect_delay": 5000,
-                    "cause_navigation": True,
                     "words": [word_2]
                 }
             ]
         })
 
+
         if letters_missing in ["1","2"]:
             pages[-1]["elements"][-1]["missing_letter_count"] = int(letters_missing)
-        elif letters_missing == "all":
+        elif letters_missing.lower() == "all":
             pages[-1]["elements"][-1] = {"type": "Entry", "name": f"{label}_{domain}_entry2" }
 
     if letters_missing != "all":
@@ -228,8 +227,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                     "type": "Buttons",
                     "name": f"{label}_{domain}_comp_question",
                     "correct_feedback": "Correcto!",  # changed
-                    "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento "
-                                          "y intenta de nuevo.",  # changed
+                    "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",  # changed
                     "incorrect_dealy": 5000,
                     "buttons": answers,
                     "columnCount": 1,
@@ -328,7 +326,7 @@ def create_survey_page(text=None, media=None, image_framed=None, items=None, inp
     """
 
     textinput  = {"type": "Text", "text": text} if has_value(text) else None
-    mediainput = {"type": "Media", "path": media, "frame": image_framed == "TRUE"} if media else None
+    mediainput = {"type": "Media", "url": media, "border": image_framed.lower() == "true"} if media else None
 
     input1 = create_input(input_1, items, minimum, maximum)
     input2 = create_input(input_2, items, minimum, maximum)
@@ -362,7 +360,7 @@ def create_video_page(video_number):
     return {
         "elements": [
             {"type": "Text" , "text": "¡Presione play en el video de entrenamiento a continuación para obtener más información!"},
-            {"type": "Media", "file": f"/videos/video{video_number}.mp4", "Frame": True}
+            {"type": "Media", "url": f"/videos/video{video_number}.mp4", "border": True}
         ]
     }
 
