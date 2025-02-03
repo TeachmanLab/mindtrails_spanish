@@ -113,10 +113,9 @@ def create_short_doses(i):
                 domain_ndoses[domain_1] += 10 #bump the dose count by 10 (because the dose size of a long scenario = 10)
                 continue
 
-            domain_rindex[domain_1] += 1
-            domain_ndoses[domain_1] += 1
-
             puzzle1,puzzle2 = map(create_puzzle,row[i:i+2])
+
+            if puzzle1 == (None,None): continue
 
             comp_question, choices, answer  = row[i+2], row[i+3:i+5], row[i+3]
 
@@ -139,6 +138,9 @@ def create_short_doses(i):
                                          lessons_learned=lessons_learned,
                                          unique_image=unique_image,
                                          row_num=domain_ndoses[domain_1])
+
+            domain_rindex[domain_1] += 1
+            domain_ndoses[domain_1] += 1
 
             short_doses[domain_1].append(dose)
 

@@ -231,7 +231,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                     "incorrect_dealy": 5000,
                     "buttons": answers,
                     "columnCount": 1,
-                    "answer": correct_answer
+                    "correct_value": correct_answer
                 }
             ]
         })
