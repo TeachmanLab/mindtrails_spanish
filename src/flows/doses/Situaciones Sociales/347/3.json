@@ -12,7 +12,7 @@
             "name": "Planes cancelados_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
+            "incorrect_delay": 5000,
             "buttons": [
                 "Recordaron que tenían una reunión importante en el trabajo al mismo tiempo.",
                 "Están enojados contigo debido a su desacuerdo anterior."

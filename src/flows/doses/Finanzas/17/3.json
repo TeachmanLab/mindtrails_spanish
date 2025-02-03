@@ -12,7 +12,7 @@
             "name": "Costear los gastos_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
+            "incorrect_delay": 5000,
             "buttons": [
                 "Significará que ahorrarás lo suficiente para pagar el alquiler.",
                 "Aún te dejará corto y te retrasarás en el pago del alquiler."

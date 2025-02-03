@@ -12,7 +12,7 @@
             "name": "Invitando tu Amigo a una Cita_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
+            "incorrect_delay": 5000,
             "buttons": [
                 "Harás que tu amigo se sienta bien.",
                 "Pondrás a tu amigo en una posición incómoda."
