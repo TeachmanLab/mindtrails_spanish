@@ -1,14 +1,14 @@
 {
-    "header_text": "Puntos de vista hacia la terapia",
+    "header_text": "Opinión importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Puntos de vista hacia la terapia"
+            "text": "Opinión importante"
         },
         {
             "type": "Media",
-            "url": "/images/Puntos_de_vista_hacia_la_terapia.jpg"
+            "url": "/images/Opinión_importante.jpg"
         }
     ]
 }

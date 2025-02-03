@@ -3,12 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Conociendo alguien nuevo"
+            "type": "Text",
+            "text": "Estás en una fiesta de cumpleaños para un amigo de un amigo. Te das cuenta de que estás ruborizado y un poco sudado. Parado allí, piensas que estas sensaciones son..."
         },
         {
-            "type": "Media",
-            "url": "/images/Conociendo_alguien_nuevo.jpg"
+            "type": "Entry",
+            "name": "Conociendo alguien nuevo_Salud Física_entry1"
         }
     ]
 }

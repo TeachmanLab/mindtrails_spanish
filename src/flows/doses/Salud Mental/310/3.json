@@ -1,24 +1,21 @@
 {
-    "header_text": "Puntos de vista hacia la terapia",
+    "header_text": "Opinión importante",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Aceptará tu familia que vayas a terapia?"
+            "text": "Al final, te das cuenta de que señalaron el error para que pudieras mejorarlo antes de enviarlo. Corriges la sección incompleta y crees que tu jefe piensa que estás..."
         },
         {
-            "type": "Buttons",
-            "name": "Puntos de vista hacia la terapia_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Opinión importante_Salud Mental_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "words": [
+                "aprendiendo"
             ],
-            "columnCount": 1,
-            "answer": "Si"
+            "missing_letter_count": 1
         }
     ]
 }

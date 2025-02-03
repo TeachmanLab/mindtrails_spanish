@@ -1,14 +1,14 @@
 {
-    "header_text": "Pensamientos acelerados",
+    "header_text": "Amigo en el hospital",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pensamientos acelerados"
+            "text": "Amigo en el hospital"
         },
         {
             "type": "Media",
-            "url": "/images/Pensamientos_acelerados.jpg"
+            "url": "/images/Amigo_en_el_hospital.jpg"
         }
     ]
 }

@@ -18,7 +18,7 @@
                 "Jugaste mal."
             ],
             "columnCount": 1,
-            "answer": "Intentaste lo mejor posible y jugaste bien."
+            "correct_value": "Intentaste lo mejor posible y jugaste bien."
         }
     ]
 }

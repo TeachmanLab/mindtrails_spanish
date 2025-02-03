@@ -1,24 +1,21 @@
 {
     "header_text": "Encontrando un campo para sentarte",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "\n¿Eran amables las personas del grupo?"
+            "text": "Estás en tu primera reunión de personal en un nuevo departamento y llegas temprano. Un grupo de personas se calla después de que les preguntas si puedes sentarte en su mesa. Piensas que probablemente sean..."
         },
         {
-            "type": "Buttons",
-            "name": "Encontrando un campo para sentarte_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Encontrando un campo para sentarte_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "words": [
+                "amables"
             ],
-            "columnCount": 1,
-            "answer": "Si"
+            "missing_letter_count": 2
         }
     ]
 }

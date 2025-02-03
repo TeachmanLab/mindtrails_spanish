@@ -3,12 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Permitirse un viaje"
+            "type": "Text",
+            "text": "Tu hijo realmente quiere ir a un parque temático de vacaciones este año. Has estado investigando el costo del viaje, y no crees que puedas pagarlo. Tu piensas que puedes encontrar un viaje alternativo que tu hijo todavía... "
         },
         {
-            "type": "Media",
-            "url": "/images/Permitirse_un_viaje.jpg"
+            "type": "Entry",
+            "name": "Permitirse un viaje_Finanzas_entry1"
         }
     ]
 }

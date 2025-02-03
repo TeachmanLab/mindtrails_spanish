@@ -1,15 +1,15 @@
 {
-    "header_text": "Comentarios de redes sociales",
+    "header_text": "Expectativas diferentes",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa lo que esa persona piensa de ti?"
+            "Text": "¿Habrán consecuencias terribles por no obtener este aumento?"
         },
         {
             "type": "Buttons",
-            "name": "Comentarios de redes sociales_Salud Mental_comp_question",
+            "name": "Expectativas diferentes_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_dealy": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "answer": "Si"
+            "correct_value": "No"
         }
     ]
 }

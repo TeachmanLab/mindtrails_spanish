@@ -1,11 +1,15 @@
 {
-    "header_text": "Recurso: Situaciones Sociales",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
     "header_icon": "assets/subtitle.png",
-    "name": "Sobre Conversaciones Interseccionales - The Trevor Project",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "Sobre Conversaciones Interseccionales - The Trevor Project\n\nEste PDF hecho por Trevor Project informa sobre la importancia de conversaciones interseccionales y cómo la identidad queer/cuir se conecta a la identidad de raza y etnia.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "Piensas en las lecciones que aprendiste de las historias que lees hoy. Mirando hacia atrás a una situación reciente que te hizo ansioso, ¿cómo podrías haberlo pensado de una manera diferente para que fuera más fácil de manejar?"
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #5_entry"
         }
     ]
 }

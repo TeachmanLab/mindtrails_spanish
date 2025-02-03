@@ -18,7 +18,7 @@
                 "Una señal de lesión grave."
             ],
             "columnCount": 1,
-            "answer": "Temporario."
+            "correct_value": "Temporario."
         }
     ]
 }

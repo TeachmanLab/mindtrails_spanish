@@ -1,24 +1,21 @@
 {
-    "header_text": "Broma interna",
+    "header_text": "Nadando vueltas",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Otros te juzgan por el comentario de tu amigo en tu publicación?"
+            "text": "Es domingo por la mañana y estás nadando en la piscina. Después de un par de vueltas te quedas sin aliento y decides descansar un minuto al final del carril. Respirar con dificultad te hace sentir ansioso y quieres parar de..."
         },
         {
-            "type": "Buttons",
-            "name": "Broma interna_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Nadando vueltas_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "words": [
+                "nadar"
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 1
         }
     ]
 }

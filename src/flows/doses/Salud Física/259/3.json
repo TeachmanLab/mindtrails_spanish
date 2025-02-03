@@ -1,24 +1,21 @@
 {
     "header_text": "Dando vueltas",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te divierte sentirte mareado después de las atracciones de feria que dan vuelta?"
+            "text": "Vas a dar una vuelta en una atracción de un carnaval. Cuando bajas, te sientes mareado. Estás..."
         },
         {
-            "type": "Buttons",
-            "name": "Dando vueltas_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Dando vueltas_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "words": [
+                "encantado"
             ],
-            "columnCount": 1,
-            "answer": "Si"
+            "missing_letter_count": 2
         }
     ]
 }

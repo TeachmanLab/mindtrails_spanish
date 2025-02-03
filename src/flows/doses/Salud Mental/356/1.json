@@ -1,14 +1,14 @@
 {
-    "header_text": "Lunes por la mañana",
+    "header_text": "Atascado en el medio",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Lunes por la mañana"
+            "text": "Atascado en el medio"
         },
         {
             "type": "Media",
-            "url": "/images/Lunes_por_la_mañana.jpg"
+            "url": "/images/Atascado_en_el_medio.jpg"
         }
     ]
 }

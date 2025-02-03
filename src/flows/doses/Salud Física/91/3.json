@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Llegas a la cima de las montañas y tus amigos están tomando fotos. Aunque estás ansioso, miras alrededor y..."
+            "text": "Estás en una caminata con un grupo de amigos y todos quieren subir una montaña bastante alta. Mientras escalas la montaña, miras hacia abajo y sientes cómo se te cae el estómago. Piensas que esta caminata será..."
         },
         {
             "type": "Entry",
-            "name": "Subiendo una montaña_Salud Física_entry2"
+            "name": "Subiendo una montaña_Salud Física_entry1"
         }
     ]
 }

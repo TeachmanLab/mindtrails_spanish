@@ -18,7 +18,7 @@
                 "Completes el programa y aprendas algunas habilidades útiles en ciencia de datos."
             ],
             "columnCount": 1,
-            "answer": "Salir del programa porque lo estás haciendo mal."
+            "correct_value": "Salir del programa porque lo estás haciendo mal."
         }
     ]
 }

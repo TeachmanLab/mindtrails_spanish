@@ -3,12 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Fin de semana largo solo"
+            "type": "Text",
+            "text": "Tienes libre el lunes por un feriado y sabes que la gente hará planes para el fin de semana largo. Después de que un amigo cercano te dijo que estaban fuera de la ciudad durante el fin de semana, te das cuenta de que no tienes a nadie con quien pasar el fin de semana largo. Esto te hace optimista acerca de hacer nuevos amigos la próxima..."
         },
         {
-            "type": "Media",
-            "url": "/images/Fin_de_semana_largo_solo.jpg"
+            "type": "Entry",
+            "name": "Fin de semana largo solo_Situaciones Sociales_entry1"
         }
     ]
 }

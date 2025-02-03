@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Crees que mañana no te quedarás atrás, y las posibilidades de que puedas seguir el ritmo de tu amigo son..."
+            "text": "Tienes planeado correr mañana con un amigo que corre todos los días. No has corrido en bastante tiempo y te preocupa si podrás mantener el ritmo o..."
         },
         {
             "type": "Entry",
-            "name": "Corriendo con un amigo_Salud Física_entry2"
+            "name": "Corriendo con un amigo_Salud Física_entry1"
         }
     ]
 }

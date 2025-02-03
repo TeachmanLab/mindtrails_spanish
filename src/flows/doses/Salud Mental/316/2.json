@@ -1,19 +1,19 @@
 {
-    "header_text": "Una presentación importante",
+    "header_text": "Expresándote",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu jefe está viendo tu presentación en tu reunión de hoy. Durante la presentación, tropiezas mucho con tus palabras. Te sientes...  "
+            "text": "En el trabajo, tu jefe te da la responsabilidad de resolver un problema complicado. Tienes una idea que crees que podría funcionar, pero te preguntas si es demasiado simplista. Mientras consideras compartir tu idea, decides..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Una presentación importante_Salud Mental_puzzle1",
+            "name": "Expresándote_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "derrotado"
+                "intentarlo"
             ],
             "missing_letter_count": 1
         }

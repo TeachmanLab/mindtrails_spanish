@@ -1,24 +1,21 @@
 {
     "header_text": "Planes divertidos",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus amigos se molestarán porque no puedes salir a cenar?"
+            "text": "Tus amigos te piden que salgas a cenar a un restaurante de lujo con ellos este fin de semana. Es muy caro y sabes que no podrás pagarlo. Cuando te imaginas diciéndole a tus amigos que no puedes ir, te sientes... "
         },
         {
-            "type": "Buttons",
-            "name": "Planes divertidos_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Planes divertidos_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "words": [
+                "nervioso"
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 1
         }
     ]
 }

@@ -1,24 +1,21 @@
 {
     "header_text": "Reconciliándote con tu amigo",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu amigo canceló la reunion porque están..."
+            "text": "Unos días después de un pleito con tu amigo, decides romper el hielo y le propones que vayan a tomar un café. Te alistas y cuando estás por irte, te llaman para decirte que después de todo no pueden llegar. Cuando cuelgas, piensas que cancelaron debido a que están... "
         },
         {
-            "type": "Buttons",
-            "name": "Reconciliándote con tu amigo_Vida Familiar y Doméstica_comp_question",
+            "type": "WordPuzzle",
+            "name": "Reconciliándote con tu amigo_Vida Familiar y Doméstica_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Cansados de una semana ocupada.",
-                "Enojados con tí."
+            "incorrect_delay": 5000,
+            "words": [
+                "cansados"
             ],
-            "columnCount": 1,
-            "answer": "Cansados de una semana ocupada."
+            "missing_letter_count": 1
         }
     ]
 }

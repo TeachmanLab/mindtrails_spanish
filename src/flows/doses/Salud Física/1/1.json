@@ -1,14 +1,14 @@
 {
-    "header_text": "Amigo tosiendo",
+    "header_text": "Lecciones Aprendidas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Amigo tosiendo"
+            "type": "Text",
+            "Text": "¡Excelente trabajo! ¡Estás haciendo un gran progreso al probar nuevas perspectivas relacionadas con la salud física! Tómate unos minutos para reflexionar sobre los cuentos cortos que has leído hasta ahora. ¿Qué has aprendido? ¿Cuáles son tus principales conclusiones? Por ejemplo, podrías notar que sensaciones incómodas en tu cuerpo, como un corazón acelerado, a menudo no son peligrosas."
         },
         {
-            "type": "Media",
-            "url": "/images/Amigo_tosiendo.jpg"
+            "type": "Entry",
+            "name": "lessons_learned_Salud Física_0"
         }
     ]
 }

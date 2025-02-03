@@ -18,7 +18,7 @@
                 "Estás mejorando."
             ],
             "columnCount": 1,
-            "answer": "\nEstás seriamente lesionado."
+            "correct_value": "\nEstás seriamente lesionado."
         }
     ]
 }

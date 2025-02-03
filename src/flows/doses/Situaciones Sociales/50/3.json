@@ -18,7 +18,7 @@
                 "Lo planeaste mal."
             ],
             "columnCount": 1,
-            "answer": "El clima era desagradable."
+            "correct_value": "El clima era desagradable."
         }
     ]
 }

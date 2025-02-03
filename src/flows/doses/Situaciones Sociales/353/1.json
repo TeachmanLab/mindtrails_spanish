@@ -1,15 +1,11 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
     "header_icon": "assets/subtitle.png",
-    "name": "¡Consejo para aplicar!",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "Think about a scenario in your daily or weekly routine that makes you anxious. What strategies can you apply from this training to help calm your anxiety? Piensas en un escenario de tu rutina diaria o semanal que te ponga ansioso. ¿Qué estrategias puedes aplicar a partir de esta formación para ayudar a calmar tu ansiedad? "
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #11_entry"
+            "text": "Permítete dar un paso atrás de las amistades o relaciones que sientes que te están afectando negativamente. "
         }
     ]
 }

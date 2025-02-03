@@ -1,14 +1,14 @@
 {
-    "header_text": "Tu nueva publicación",
+    "header_text": "Sentirse mareado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tu nueva publicación"
+            "text": "Sentirse mareado"
         },
         {
             "type": "Media",
-            "url": "/images/Tu_nueva_publicación.jpg"
+            "url": "/images/Sentirse_mareado.jpg"
         }
     ]
 }

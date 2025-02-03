@@ -18,7 +18,7 @@
                 "Te ignorarán por completo."
             ],
             "columnCount": 1,
-            "answer": "Responderán bien a tu perfil"
+            "correct_value": "Responderán bien a tu perfil"
         }
     ]
 }

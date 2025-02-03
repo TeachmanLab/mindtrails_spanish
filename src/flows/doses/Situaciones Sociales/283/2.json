@@ -3,12 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "En el trabajo, te asignan a un nuevo proyecto en el que no conoces a nadie más. El primer día de reunión, te esfuerzas por hacer nuevos amigos. Cuando piensas en preguntarle a algunos colegas si quieren tomar café después del trabajo, esperas que digan que..."
+            "type": "Label",
+            "text": "Conociendo nuevos amigos"
         },
         {
-            "type": "Entry",
-            "name": "Conociendo nuevos amigos_Situaciones Sociales_entry1"
+            "type": "Media",
+            "url": "/images/Conociendo_nuevos_amigos.jpg"
         }
     ]
 }

@@ -18,7 +18,7 @@
                 "Pondrás a tu amigo en una posición incómoda."
             ],
             "columnCount": 1,
-            "answer": "Harás que tu amigo se sienta bien."
+            "correct_value": "Harás que tu amigo se sienta bien."
         }
     ]
 }

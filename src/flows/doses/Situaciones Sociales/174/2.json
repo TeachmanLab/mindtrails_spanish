@@ -3,12 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "No sentirse apoyado"
+            "type": "Text",
+            "text": "Acabas de recibir un premio por un proyecto en el que trabajaste. Solo has recibido felicitaciones de unas pocas personas y ahora pensabas que tendrías más reacciones. Te preguntas si la gente no te felicita porque no creen que te lo..."
         },
         {
-            "type": "Media",
-            "url": "/images/No_sentirse_apoyado.jpg"
+            "type": "Entry",
+            "name": "No sentirse apoyado_Situaciones Sociales_entry1"
         }
     ]
 }

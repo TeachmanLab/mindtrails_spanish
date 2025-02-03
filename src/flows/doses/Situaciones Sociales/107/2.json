@@ -3,19 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Un amigo se está quedando en tu casa por un tiempo y te das cuenta de que a menudo ignoran sus tareas. Un día, llegas a la casa y vez la pila llena de trastes sucios. Ellos ya salieron pero decides llamarlo para resolver este... "
+            "type": "Label",
+            "text": "Amigo descuidando las tareas"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Amigo descuidando las tareas_Situaciones Sociales_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "words": [
-                "problema"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "/images/Amigo_descuidando_las_tareas.jpg"
         }
     ]
 }

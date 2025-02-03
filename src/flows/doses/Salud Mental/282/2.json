@@ -3,12 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Usando tecnología diferente"
+            "type": "Text",
+            "text": "Recientemente reemplazaste tu computadora portátil y tuviste que optar por una opción más económica. Tu jefe te pide que completes un proyecto que requerirá una aplicación que tu nueva computadora no tiene. Cuando piensas en completar tu trabajo para este proyecto, te sientes..."
         },
         {
-            "type": "Media",
-            "url": "/images/Usando_tecnología_diferente.jpg"
+            "type": "Entry",
+            "name": "Usando tecnología diferente_Salud Mental_entry1"
         }
     ]
 }

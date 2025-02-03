@@ -1,14 +1,14 @@
 {
-    "header_text": "Día especial",
+    "header_text": "Siendo padre",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Día especial"
+            "text": "Siendo padre"
         },
         {
             "type": "Media",
-            "url": "/images/Día_especial.jpg"
+            "url": "/images/Siendo_padre.jpg"
         }
     ]
 }

@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Sientes que no eres un mal candidato y que tus posibilidades de conseguir este nuevo trabajo son..."
+            "text": "Te gustarías postularse para un puesto más alto en tu trabajo y mejorar tus habilidades. Sabes que el proceso de selección es riguroso, pero sientes mucha pasión por lograr este objetivo y has trabajado duro para convertirse en un buen..."
         },
         {
             "type": "Entry",
-            "name": "Lograr tus objetivos_Salud Mental_entry2"
+            "name": "Lograr tus objetivos_Salud Mental_entry1"
         }
     ]
 }

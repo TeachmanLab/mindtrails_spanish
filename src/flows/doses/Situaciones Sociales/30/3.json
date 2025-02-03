@@ -18,7 +18,7 @@
                 "\"Estoy seguro de que las cosas están muy ocupadas en este momento\"."
             ],
             "columnCount": 1,
-            "answer": "\"Supongo que esta amistad no vale mucho\"."
+            "correct_value": "\"Supongo que esta amistad no vale mucho\"."
         }
     ]
 }

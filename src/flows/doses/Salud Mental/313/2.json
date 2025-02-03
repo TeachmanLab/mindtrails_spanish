@@ -1,19 +1,19 @@
 {
-    "header_text": "Solicitar una subvención",
+    "header_text": "Comparar su trabajo con el de otros",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Quieres iniciar un nuevo proyecto de investigación en tu laboratorio, por lo que solicitas una subvención de financiación. Sin esta financiación, no podrás realizar la investigación que esperas realizar, pero no sabes si tu propuesta es lo suficientemente buena. Crees que no obtendrás la..."
+            "text": "Recientemente recibiste comentarios negativos sobre una presentación. Tu colega, que hizo una presentación similar, recibió comentarios maravillosos. Crees que tu próxima presentación será..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Solicitar una subvención_Salud Mental_puzzle1",
+            "name": "Comparar su trabajo con el de otros_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "financiación"
+                "mejor"
             ],
             "missing_letter_count": 1
         }

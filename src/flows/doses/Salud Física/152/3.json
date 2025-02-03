@@ -1,24 +1,21 @@
 {
     "header_text": "Clase de baile",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿La persona que conociste en la clase de baile pensó que estabas ansioso?"
+            "text": "Estás tomando una clase de baile y, durante un descanso, te encuentras hablando con otro participante que viene llagando sobre tu trabajo. Mientras hablan, te das cuenta de que estás sudando. Ellos probablemente piensan que esto es resultado del..."
         },
         {
-            "type": "Buttons",
-            "name": "Clase de baile_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Clase de baile_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "words": [
+                "baile"
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 2
         }
     ]
 }

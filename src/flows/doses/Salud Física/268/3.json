@@ -18,7 +18,7 @@
                 "Una enfermedad seria."
             ],
             "columnCount": 1,
-            "answer": "Una medicacion nueva."
+            "correct_value": "Una medicacion nueva."
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Comparar su trabajo con el de otros",
+    "header_text": "Larga caminata afuera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comparar su trabajo con el de otros"
+            "text": "Larga caminata afuera"
         },
         {
             "type": "Media",
-            "url": "/images/Comparar_su_trabajo_con_el_de_otros.jpg"
+            "url": "/images/Larga_caminata_afuera.jpg"
         }
     ]
 }

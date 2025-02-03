@@ -1,14 +1,21 @@
 {
-    "header_text": "Pensando en preguntas",
+    "header_text": "Broma interna",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Pensando en preguntas"
+            "type": "Text",
+            "text": "Publicas un video corto. Tu mejor amigo comenta algo realmente vergonzoso. Tus seguidores pensarán que tú y tu amigo sois..."
         },
         {
-            "type": "Media",
-            "url": "/images/Pensando_en_preguntas.jpg"
+            "type": "WordPuzzle",
+            "name": "Broma interna_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "words": [
+                "cercanos"
+            ],
+            "missing_letter_count": 1
         }
     ]
 }

@@ -1,21 +1,24 @@
 {
     "header_text": "Traje de fiesta",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes una fiesta de cumpleaños y tus amigos están discutiendo cuándo quieren ir a comprar ropa. El dinero esta escaso en este momento y te preocupa poder comprar un atuendo para un evento. Decides ponerte algo que ya tienes en tu armario y te sientes..."
+            "Text": "¿Necesitabas gastar dinero en ropa nueva?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Traje de fiesta_Finanzas_puzzle1",
+            "type": "Buttons",
+            "name": "Traje de fiesta_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "words": [
-                "satisfecha"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

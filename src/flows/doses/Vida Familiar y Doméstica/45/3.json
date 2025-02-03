@@ -4,16 +4,16 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Al salir del coche en frente de tu trabajo, ves a algunos de tus colegas. Sonríen y te saludan con la mano, y te sientes... "
+            "text": "Tu familia comparte un coche viejo que tiene una gran abolladura en la parte delantera. Hoy lo estás conduciendo al trabajo. Cuando piensas en tus colegas viendo tu coche, te sientes... "
         },
         {
             "type": "WordPuzzle",
-            "name": "El coche de tu familia_Vida Familiar y Doméstica_puzzle_word2",
+            "name": "El coche de tu familia_Vida Familiar y Doméstica_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "aliviado"
+                "nervioso"
             ],
             "missing_letter_count": 2
         }

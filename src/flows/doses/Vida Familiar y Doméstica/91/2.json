@@ -3,12 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Quieres que tu familia tenga buenas oportunidades educativas. Tú quieres que tus hijos puedan asistir a buenas universidades, pero comprendas que esto tiene un precio..."
+            "type": "Label",
+            "text": "Mantener a la familia"
         },
         {
-            "type": "Entry",
-            "name": "Mantener a la familia_Vida Familiar y Doméstica_entry1"
+            "type": "Media",
+            "url": "/images/Mantener_a_la_familia.jpg"
         }
     ]
 }

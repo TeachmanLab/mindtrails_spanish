@@ -18,7 +18,7 @@
                 "Disfrutarán de la reunión durante la cena."
             ],
             "columnCount": 1,
-            "answer": "Se sentirán decepcionado de tu compañía."
+            "correct_value": "Se sentirán decepcionado de tu compañía."
         }
     ]
 }

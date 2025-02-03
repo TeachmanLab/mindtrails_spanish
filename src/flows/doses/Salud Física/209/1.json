@@ -1,11 +1,11 @@
 {
-    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_text": "Recurso: Salud Física",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
+    "name": "Substance Abuse and Mental Health Services Administration (SAMHSA) - Lista de Recursos bilingües en español",
     "elements": [
         {
             "type": "Text",
-            "text": "Si nota que no se siente bien, recuerde que hay una variedad de razones de bajo riesgo por las cuales podría sentirse así (por ejemplo, puede estar cansado, puede haber comido algo malo, etc.)."
+            "text": "Substance Abuse and Mental Health Services Administration (SAMHSA) - Lista de Recursos bilingües en español\n\nSAMHSA tiene sitio Web, pero no todo está traducido. La organización ofrece esta página de recursos que tienen servicios bilingües o tienen traducción.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

@@ -1,24 +1,21 @@
 {
     "header_text": "Obtener una oportunidad",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te invitarán a una entrevista?"
+            "text": "Con sus calificaciones, no cree que rechacen su solicitud y espera obtener una..."
         },
         {
-            "type": "Buttons",
-            "name": "Obtener una oportunidad_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "Obtener una oportunidad_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "words": [
+                "entrevista"
             ],
-            "columnCount": 1,
-            "answer": "Si"
+            "missing_letter_count": 1
         }
     ]
 }

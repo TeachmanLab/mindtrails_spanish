@@ -1,14 +1,14 @@
 {
-    "header_text": "Correo electrónico importante",
+    "header_text": "Quedando atrás",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Correo electrónico importante"
+            "text": "Quedando atrás"
         },
         {
             "type": "Media",
-            "url": "/images/Correo_electrónico_importante.jpg"
+            "url": "/images/Quedando_atrás.jpg"
         }
     ]
 }

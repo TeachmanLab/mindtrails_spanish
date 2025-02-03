@@ -3,12 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Factura por una reparación"
+            "type": "Text",
+            "text": "Tu techo tiene una fuga, y agua entra en la casa cada vez que llueve. Piensas que va a ser caro contratar a alguien para arreglarlo. Al pensar en pagar la factura para arreglar el techo, sientes que estarás... "
         },
         {
-            "type": "Media",
-            "url": "/images/Factura_por_una_reparación.jpg"
+            "type": "Entry",
+            "name": "Factura por una reparación_Finanzas_entry1"
         }
     ]
 }

@@ -1,15 +1,11 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Recurso: Salud Física",
     "header_icon": "assets/subtitle.png",
-    "name": "¡Consejo para aplicar!",
+    "name": "Alianza Nacional para la Salud Hispana",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando te encuentras saltando al peor de los casos sin toda la información, ¿cualés son algunas cosas que podrías decirte a ti mismo? Piensas en algunas habilidades de las historias que has leído que podrían ser útiles para ti. "
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #4_entry"
+            "text": "Alianza Nacional para la Salud Hispana\n\nAlianza Nacional para la Salud Hispana ofrece información y recursos bilingües acerca de la salud física y mental. También tienen una línea telefónica (1-866-783-2645) que ofrece información de salud gratuita, confiable, y confidencial.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

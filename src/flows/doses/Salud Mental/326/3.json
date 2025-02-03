@@ -1,21 +1,24 @@
 {
-    "header_text": "Tomando transporte",
+    "header_text": "Tu nueva publicación",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Sientes un impulso fuerte de bajarte del avión y volver a casa, pero te sientas en el asiento más cercano. En lugar de salir, decides observar estas sensaciones y quedarte..."
+            "Text": "¿La gente ignoró tu publicación?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Tomando transporte_Salud Mental_puzzle_word2",
+            "type": "Buttons",
+            "name": "Tu nueva publicación_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "words": [
-                "sentado"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

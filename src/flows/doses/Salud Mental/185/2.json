@@ -3,12 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Aplicando a trabajos"
+            "type": "Text",
+            "text": "Aplicaste a un trabajo hace algunas semanas y acabas de recibir una respuesta. Te dicen que ya llenaron el puesto y sientes que no eres lo suficientemente inteligente. Aun así, crees que en el futuro conseguirás un..."
         },
         {
-            "type": "Media",
-            "url": "/images/Aplicando_a_trabajos.jpg"
+            "type": "Entry",
+            "name": "Aplicando a trabajos_Salud Mental_entry1"
         }
     ]
 }

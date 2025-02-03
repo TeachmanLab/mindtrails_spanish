@@ -18,7 +18,7 @@
                 "Planeando despedirte."
             ],
             "columnCount": 1,
-            "answer": "Planeando despedir a alguien más."
+            "correct_value": "Planeando despedir a alguien más."
         }
     ]
 }

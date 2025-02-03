@@ -18,7 +18,7 @@
                 "Estará más allá de tus posibilidades."
             ],
             "columnCount": 1,
-            "answer": "Será alcanzable."
+            "correct_value": "Será alcanzable."
         }
     ]
 }

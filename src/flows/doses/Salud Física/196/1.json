@@ -1,11 +1,11 @@
 {
-    "header_text": "Recurso: Salud Física",
+    "header_text": "Maneja tus sentimientos: Salud Física",
     "header_icon": "assets/subtitle.png",
-    "name": "Partnership to End Addiction",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "Partnership to End Addiction\n\nProporciona información y apoyo para familias lidiando con problemas de jóvenes con abuso de sustancias.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "Si nota que no se siente bien, recuerde que hay una variedad de razones de bajo riesgo por las cuales podría sentirse así (por ejemplo, puede estar cansado, puede haber comido algo malo, etc.)."
         }
     ]
 }

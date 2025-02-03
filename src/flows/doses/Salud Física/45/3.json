@@ -1,24 +1,21 @@
 {
     "header_text": "Resultados del chequeo anual",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Son tolerables tus preocupaciones sobre los resultados?"
+            "text": "Te extraen sangre para su examen físico anual. Tu médico te dice que tendrá que esperar unos días para recibir los resultados y te preocupas por lo que dirán los resultados. Durante los próximos días, las preocupaciones son..."
         },
         {
-            "type": "Buttons",
-            "name": "Resultados del chequeo anual_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Resultados del chequeo anual_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "words": [
+                "soportables"
             ],
-            "columnCount": 1,
-            "answer": "Sí"
+            "missing_letter_count": 2
         }
     ]
 }

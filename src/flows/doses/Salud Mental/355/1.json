@@ -1,14 +1,14 @@
 {
-    "header_text": "Deprimido",
+    "header_text": "Lunes por la mañana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Deprimido"
+            "text": "Lunes por la mañana"
         },
         {
             "type": "Media",
-            "url": "/images/Deprimido.jpg"
+            "url": "/images/Lunes_por_la_mañana.jpg"
         }
     ]
 }

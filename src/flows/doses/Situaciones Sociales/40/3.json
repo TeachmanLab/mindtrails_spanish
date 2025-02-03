@@ -18,7 +18,7 @@
                 "Que quieren ayudarte con la recaudación de fondos."
             ],
             "columnCount": 1,
-            "answer": "Que no quieren ayudarte con la recaudación de fondos."
+            "correct_value": "Que no quieren ayudarte con la recaudación de fondos."
         }
     ]
 }

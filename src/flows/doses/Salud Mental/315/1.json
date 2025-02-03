@@ -1,14 +1,14 @@
 {
-    "header_text": "Resultados de la evaluación",
+    "header_text": "Una presentación importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Resultados de la evaluación"
+            "text": "Una presentación importante"
         },
         {
             "type": "Media",
-            "url": "/images/Resultados_de_la_evaluación.jpg"
+            "url": "/images/Una_presentación_importante.jpg"
         }
     ]
 }

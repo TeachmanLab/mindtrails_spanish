@@ -18,7 +18,7 @@
                 "No les caes bien."
             ],
             "columnCount": 1,
-            "answer": "No te escucharon."
+            "correct_value": "No te escucharon."
         }
     ]
 }

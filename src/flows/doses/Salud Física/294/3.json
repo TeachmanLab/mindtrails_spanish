@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Decides tomar un respiro lento y profundo. Al empezar a hablar de nuevo, te das cuenta de que lo que sentiste era..."
+            "text": "Estás dando una presentación que has estado realmente nervioso por dar. Mientras hablas, sientes un nudo en la garganta y comienzas a toser. Estos sentimientos probablemente significan que estás entrando en..."
         },
         {
             "type": "Entry",
-            "name": "Pánico de presentación_Salud Física_entry2"
+            "name": "Pánico de presentación_Salud Física_entry1"
         }
     ]
 }

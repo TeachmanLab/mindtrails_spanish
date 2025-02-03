@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Respiras y te das cuenta de que tu visión completamente. Luego, recuerdas que a veces esto pasa cuando te sientas demasiado... "
+            "text": "Cuando te despiertas en la mañana, te sientas rápidamente. Tu visión se vuelve borrosa y luego todo se pone negro por un momento. Tu visión regresa despues de ese momento, y te convences que te estás quedando... "
         },
         {
             "type": "Entry",
-            "name": "Problemas de visión_Salud Física_entry2"
+            "name": "Problemas de visión_Salud Física_entry1"
         }
     ]
 }

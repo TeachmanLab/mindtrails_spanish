@@ -18,7 +18,7 @@
                 "Por debajo del promedio"
             ],
             "columnCount": 1,
-            "answer": "Por encima del promedio"
+            "correct_value": "Por encima del promedio"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Expectativas diferentes",
+    "header_text": "Tomando transporte",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Expectativas diferentes"
+            "text": "Tomando transporte"
         },
         {
             "type": "Media",
-            "url": "/images/Expectativas_diferentes.jpg"
+            "url": "/images/Tomando_transporte.jpg"
         }
     ]
 }

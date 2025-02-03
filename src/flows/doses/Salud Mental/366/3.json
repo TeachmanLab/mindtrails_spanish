@@ -1,24 +1,21 @@
 {
-    "header_text": "Revisión física anual",
+    "header_text": "Comentarios de redes sociales",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Eres capaz de manejar tu ansiedad mientras esperas al doctor?"
+            "text": "Decides enviar un correo electrónico a tu departamento promocionando algo importante para ti. Alguien responde de manera grosera porque malinterpretaron lo que escribiste. Te preguntas qué piensa esta persona sobre ti y te sientes..."
         },
         {
-            "type": "Buttons",
-            "name": "Revisión física anual_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Comentarios de redes sociales_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "words": [
+                "preocupado"
             ],
-            "columnCount": 1,
-            "answer": "Si"
+            "missing_letter_count": 2
         }
     ]
 }

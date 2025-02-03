@@ -1,24 +1,21 @@
 {
     "header_text": "Conducción segura",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es probable que tengan un accidente?"
+            "text": "Tu amigo es un buen conductor, pero hoy está lloviendo fuertemente. Están conduciendo muy rápido, así que les pides que disminuyan la velocidad. Respiras profundamente, porque las posibilidades de sufrir un accidente son... "
         },
         {
-            "type": "Buttons",
-            "name": "Conducción segura_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Conducción segura_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "words": [
+                "pequeñas"
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 2
         }
     ]
 }

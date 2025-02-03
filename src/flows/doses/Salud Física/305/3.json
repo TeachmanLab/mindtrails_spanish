@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Sientes una necesidad de bajarte del bús y regresar a casa, pero te sientas en el asiento más cercano. En lugar de salir, decides observar estas sensaciones y quedarte..."
+            "text": "Es lunes por la mañana y acabas de correr por la calle para coger el autobús. Sientes que tu corazón se acelera cuando te subes al bús y te sientas. Al empezar a sudar y respirar rápidamente, temes sufrir un ataque de..."
         },
         {
             "type": "Entry",
-            "name": "Tomándo el autobús_Salud Física_entry2"
+            "name": "Tomándo el autobús_Salud Física_entry1"
         }
     ]
 }

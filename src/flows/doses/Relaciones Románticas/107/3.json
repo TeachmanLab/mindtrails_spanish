@@ -1,24 +1,21 @@
 {
     "header_text": "Tu apariencia",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Importa si a tu pareja le gusta tu apariencia?"
+            "text": "Estás yendo a una cita con tu pareja. Te miras en el espejo antes de salir y te preguntas si les gustará tu apariencia. Te das cuenta de que la única opinión que importa sobre tu apariencia es la..."
         },
         {
-            "type": "Buttons",
-            "name": "Tu apariencia_Relaciones Románticas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Tu apariencia_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "words": [
+                "tuya"
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 1
         }
     ]
 }

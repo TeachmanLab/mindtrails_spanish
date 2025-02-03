@@ -1,14 +1,14 @@
 {
-    "header_text": "Foto con amigos",
+    "header_text": "Día especial",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Foto con amigos"
+            "text": "Día especial"
         },
         {
             "type": "Media",
-            "url": "/images/Foto_con_amigos.jpg"
+            "url": "/images/Día_especial.jpg"
         }
     ]
 }

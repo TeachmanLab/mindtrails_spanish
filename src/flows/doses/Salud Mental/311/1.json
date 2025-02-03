@@ -1,14 +1,14 @@
 {
-    "header_text": "Opinión importante",
+    "header_text": "Invitar gente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Opinión importante"
+            "text": "Invitar gente"
         },
         {
             "type": "Media",
-            "url": "/images/Opinión_importante.jpg"
+            "url": "/images/Invitar_gente.jpg"
         }
     ]
 }

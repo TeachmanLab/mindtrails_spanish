@@ -3,19 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Buscas en línea si te seleccionaron para un aumento y ves que no lo hicieron, a pesar de que esperabas que sí. Piensas en lo que esto significará para tu futuro y sabes que todo estará..."
+            "type": "Label",
+            "text": "Expectativas diferentes"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Expectativas diferentes_Salud Mental_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "words": [
-                "bien"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "/images/Expectativas_diferentes.jpg"
         }
     ]
 }

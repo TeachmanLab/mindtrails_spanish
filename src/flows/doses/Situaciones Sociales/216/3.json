@@ -18,7 +18,7 @@
                 "Permanecen una parte importante de tu vida."
             ],
             "columnCount": 1,
-            "answer": "Desaparecen de tu vida con el tiempo."
+            "correct_value": "Desaparecen de tu vida con el tiempo."
         }
     ]
 }

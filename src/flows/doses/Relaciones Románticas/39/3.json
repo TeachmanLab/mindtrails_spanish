@@ -18,7 +18,7 @@
                 "Tu matrimonio ha terminado."
             ],
             "columnCount": 1,
-            "answer": "Los dos juntos y felices."
+            "correct_value": "Los dos juntos y felices."
         }
     ]
 }

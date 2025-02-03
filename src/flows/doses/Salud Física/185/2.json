@@ -3,12 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Manejando el estrés"
+            "type": "Text",
+            "text": "Tienes que hacer una presentación para tus compañeros de trabajo hoy. Cuando te pones de pie frente a tus compañeros, sientes que te arden las mejillas y te tiemblan las manos. Crees que estas sensaciones serán..."
         },
         {
-            "type": "Media",
-            "url": "/images/Manejando_el_estrés.jpg"
+            "type": "Entry",
+            "name": "Manejando el estrés_Salud Física_entry1"
         }
     ]
 }

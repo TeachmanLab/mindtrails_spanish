@@ -1,14 +1,14 @@
 {
-    "header_text": "Comentarios de redes sociales",
+    "header_text": "Expectativas diferentes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comentarios de redes sociales"
+            "text": "Expectativas diferentes"
         },
         {
             "type": "Media",
-            "url": "/images/Comentarios_de_redes_sociales.jpg"
+            "url": "/images/Expectativas_diferentes.jpg"
         }
     ]
 }

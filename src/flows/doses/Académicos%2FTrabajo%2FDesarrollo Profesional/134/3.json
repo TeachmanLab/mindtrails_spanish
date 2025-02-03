@@ -18,7 +18,7 @@
                 "Serás despedido."
             ],
             "columnCount": 1,
-            "answer": "Aprenderás cosas nuevas."
+            "correct_value": "Aprenderás cosas nuevas."
         }
     ]
 }

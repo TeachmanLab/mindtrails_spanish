@@ -18,7 +18,7 @@
                 "Eres estupido y incompetente."
             ],
             "columnCount": 1,
-            "answer": "Eres pensativo y recogido."
+            "correct_value": "Eres pensativo y recogido."
         }
     ]
 }

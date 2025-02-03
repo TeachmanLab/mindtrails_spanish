@@ -1,24 +1,21 @@
 {
     "header_text": "Noticias controvertidas",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "La próxima vez que se encuentren, tu compañero probablemente... "
+            "text": "Al final de la conversación, te das cuenta de que aunque la discusión fue intensa, tu compañero probablemente piensa que ambos tienen convicciones fuertes. Te has ganado el respeto de tu compañero de..."
         },
         {
-            "type": "Buttons",
-            "name": "Noticias controvertidas_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Noticias controvertidas_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Iniciará una conversación.",
-                "Evitará hablar contigo."
+            "incorrect_delay": 5000,
+            "words": [
+                "trabajo"
             ],
-            "columnCount": 1,
-            "answer": "Iniciará una conversación."
+            "missing_letter_count": 2
         }
     ]
 }

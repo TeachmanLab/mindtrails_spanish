@@ -3,12 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Picadura de araña"
+            "type": "Text",
+            "text": "Mientras estás caminando, te pica una araña. Tu amigo te asegura que la araña no era venenosa y que estarás bien. Te preocupa que podría haber sido una araña mortal, pero continúas con la caminata de todos modos, y tus preocupaciones durante el resto de la caminata son..."
         },
         {
-            "type": "Media",
-            "url": "/images/Picadura_de_araña.jpg"
+            "type": "Entry",
+            "name": "Picadura de araña_Salud Física_entry1"
         }
     ]
 }

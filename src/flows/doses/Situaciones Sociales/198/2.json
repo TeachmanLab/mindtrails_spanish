@@ -3,12 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Después de no jugar por un tiempo, te uníste a un equipo de futbol recreativo. Hay un torneo al final de la... "
+            "type": "Label",
+            "text": "El torneo de fútbol"
         },
         {
-            "type": "Entry",
-            "name": "El torneo de fútbol_Situaciones Sociales_entry1"
+            "type": "Media",
+            "url": "/images/El_torneo_de_fútbol.jpg"
         }
     ]
 }

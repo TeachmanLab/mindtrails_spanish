@@ -18,7 +18,7 @@
                 "No podrás encontrar la salida."
             ],
             "columnCount": 1,
-            "answer": "Aprenderás cosas interesantes."
+            "correct_value": "Aprenderás cosas interesantes."
         }
     ]
 }

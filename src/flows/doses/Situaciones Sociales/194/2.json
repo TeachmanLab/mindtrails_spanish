@@ -3,12 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Genio cómico"
+            "type": "Text",
+            "text": "Sales a almorzar con un grupo de amigos. Haces una broma que crees que es muy divertida, pero nadie se ríe realmente. Probablemente estaban..."
         },
         {
-            "type": "Media",
-            "url": "/images/Genio_cómico.jpg"
+            "type": "Entry",
+            "name": "Genio cómico_Situaciones Sociales_entry1"
         }
     ]
 }

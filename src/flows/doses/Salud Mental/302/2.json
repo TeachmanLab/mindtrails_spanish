@@ -3,12 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Tiempo para ti mismo"
+            "type": "Text",
+            "text": "Tu parte favorita del día es relajarte para cenar. Cuando empiezas a preparar la cena, te das cuenta de que has estado comiendo solo mucho recientemente, y te sientes triste. Decides que estás bien con este hecho, ya que te da tiempo para reflexionar sobre tu... "
         },
         {
-            "type": "Media",
-            "url": "/images/Tiempo_para_ti_mismo.jpg"
+            "type": "Entry",
+            "name": "Tiempo para ti mismo_Salud Mental_entry1"
         }
     ]
 }

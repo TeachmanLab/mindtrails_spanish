@@ -1,14 +1,14 @@
 {
-    "header_text": "Expectativas diferentes",
+    "header_text": "Saliendo de noche",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Expectativas diferentes"
+            "text": "Saliendo de noche"
         },
         {
             "type": "Media",
-            "url": "/images/Expectativas_diferentes.jpg"
+            "url": "/images/Saliendo_de_noche.jpg"
         }
     ]
 }

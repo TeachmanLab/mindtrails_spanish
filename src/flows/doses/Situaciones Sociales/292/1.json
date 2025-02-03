@@ -1,11 +1,15 @@
 {
-    "header_text": "Recurso: Situaciones Sociales",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
     "header_icon": "assets/subtitle.png",
-    "name": "La Unión Americana de Libertades Civiles (American Civil Liberties Union)",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "La Unión Americana de Libertades Civiles (American Civil Liberties Union)\n\nProporciona información y recursos acerca de los derechos de las personas estadunidenses en una variedad de situaciones: libertad religiosa, libertad de expresión, derechos de inmigrantes, derechos de las personas LGBT y más.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "Piensas en una situación próxima que quieras evitar porque te pone ansioso. ¿Cómo puedes pensarlo de manera diferente para que se sienta menos aterrador? "
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #9_entry"
         }
     ]
 }

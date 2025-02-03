@@ -3,12 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Decides crear una publicación creativa que es muy diferente de lo que sueles publicar. Compartes algo nuevo y aún no recibes ninguna respuesta. Cuando piensas en el desafío de crear contenido creativo, te sientes..."
+            "type": "Label",
+            "text": "Publicando nuevo contenido"
         },
         {
-            "type": "Entry",
-            "name": "Publicando nuevo contenido_Situaciones Sociales_entry1"
+            "type": "Media",
+            "url": "/images/Publicando_nuevo_contenido.jpg"
         }
     ]
 }

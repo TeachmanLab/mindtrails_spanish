@@ -3,12 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Tienes que entregar un proyecto importante hoy. Cuando abres tu computadora, no puedes encontrar el archivo en ninguna parte. El proyecto debe haber sido..."
+            "type": "Label",
+            "text": "Proyecto eliminado"
         },
         {
-            "type": "Entry",
-            "name": "Proyecto eliminado_Salud Mental_entry1"
+            "type": "Media",
+            "url": "/images/Proyecto_eliminado.jpg"
         }
     ]
 }

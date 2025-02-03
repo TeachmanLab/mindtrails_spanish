@@ -18,7 +18,7 @@
                 "Te fuiste debido a tu ansiedad."
             ],
             "columnCount": 1,
-            "answer": "Manejaste tu ansiedad y te quedaste."
+            "correct_value": "Manejaste tu ansiedad y te quedaste."
         }
     ]
 }

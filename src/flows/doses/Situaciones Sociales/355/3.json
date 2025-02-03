@@ -18,7 +18,7 @@
                 "Sirviéndose una segunda vez."
             ],
             "columnCount": 1,
-            "answer": "Dejando sus porciones en sus platos."
+            "correct_value": "Dejando sus porciones en sus platos."
         }
     ]
 }

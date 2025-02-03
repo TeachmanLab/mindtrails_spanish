@@ -18,7 +18,7 @@
                 "Salgarán a tomar un café y lo pasarán bien."
             ],
             "columnCount": 1,
-            "answer": "Nunca se volverán a ver."
+            "correct_value": "Nunca se volverán a ver."
         }
     ]
 }

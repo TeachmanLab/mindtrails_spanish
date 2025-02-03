@@ -1,24 +1,21 @@
 {
     "header_text": "Tomar precauciones",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que tus hijos se contagiarán de COVID?"
+            "text": "Tus hijos están de vuelta en persona en la escuela. Te preocupa que un compañero de clase pueda darles COVID, y que sus hijos puedan enfermarse realmente. Tú decides que te asegurarás de que se queden enmascarados y aprenderás a lavarse siempre las manos para mantenerlas... "
         },
         {
-            "type": "Buttons",
-            "name": "Tomar precauciones_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Tomar precauciones_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "words": [
+                "seguras"
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 1
         }
     ]
 }

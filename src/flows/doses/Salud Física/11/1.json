@@ -1,11 +1,11 @@
 {
-    "header_text": "Recurso: Salud Física",
+    "header_text": "Maneja tus sentimientos: Salud Física",
     "header_icon": "assets/subtitle.png",
-    "name": "BecomeAnEX (ES)",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "BecomeAnEX (ES)\n\nBecomeAnEX te brinda orientación y apoyo comunitario para dejar la nicotina, incluyendo el fumar, vapear, o masticar tabaco.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "Si nota que su corazón se acelera o tiene problemas para respirar, pregúntese si podría haber una explicación perfectamente inofensiva de por qué su cuerpo reacciona de esa manera (por ejemplo, ¿acaba de subir un tramo de escaleras?)"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Sentirse mareado",
+    "header_text": "Deprimido",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sentirse mareado"
+            "text": "Deprimido"
         },
         {
             "type": "Media",
-            "url": "/images/Sentirse_mareado.jpg"
+            "url": "/images/Deprimido.jpg"
         }
     ]
 }

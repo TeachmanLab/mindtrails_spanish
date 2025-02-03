@@ -1,11 +1,15 @@
 {
-    "header_text": "Recurso: Salud Física",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
     "header_icon": "assets/subtitle.png",
-    "name": "SmokeFree - ES",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "SmokeFree - ES\n\nSmokeFree ofrece consejos y apoyo para dejar de fumar. Brinda formas alternativas de lidiar con el estrés, lidiar con los factores desencadenantes del tabaquismo y puede ayudar a los Texters a contar cuánto tiempo han estado sin fumar\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "Piensas en las lecciones que aprendiste de las historias que lees hoy. Mirando hacia atrás a una situación reciente que te hizo ansioso, ¿cómo podrías haberlo pensado de una manera diferente para que fuera más fácil de manejar?"
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #5_entry"
         }
     ]
 }

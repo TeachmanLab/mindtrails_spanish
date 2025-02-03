@@ -1,24 +1,21 @@
 {
     "header_text": "El coche de tu familia",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus colegas juzgan tu coche?"
+            "text": "Al salir del coche en frente de tu trabajo, ves a algunos de tus colegas. Sonríen y te saludan con la mano, y te sientes... "
         },
         {
-            "type": "Buttons",
-            "name": "El coche de tu familia_Vida Familiar y Doméstica_comp_question",
+            "type": "WordPuzzle",
+            "name": "El coche de tu familia_Vida Familiar y Doméstica_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "words": [
+                "aliviado"
             ],
-            "columnCount": 1,
-            "answer": "No"
+            "missing_letter_count": 2
         }
     ]
 }

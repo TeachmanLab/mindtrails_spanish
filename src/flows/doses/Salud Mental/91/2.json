@@ -3,12 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Estás en una reunión importante y necesitas prestar atención. En medio de la reunión te das cuenta de que te has desconectado y no sabes qué está pasando. Piensas que algo debe estar mal..."
+            "type": "Label",
+            "text": "Sentado en una reunión"
         },
         {
-            "type": "Entry",
-            "name": "Sentado en una reunión_Salud Mental_entry1"
+            "type": "Media",
+            "url": "/images/Sentado_en_una_reunión.jpg"
         }
     ]
 }

@@ -18,7 +18,7 @@
                 "Eres una persona torpe."
             ],
             "columnCount": 1,
-            "answer": "Estás listo para enfrentar desafíos."
+            "correct_value": "Estás listo para enfrentar desafíos."
         }
     ]
 }

@@ -1,21 +1,24 @@
 {
     "header_text": "Una noche libre",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes un gran proyecto pendiente al final de la semana. Tu trabajo no ha terminado, pero consideras tomarte un descanso para salir con amigos. Tomarse la noche libre sería..."
+            "Text": "¿Está bien que hayas dejado de trabajar para salir con amigos?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Una noche libre_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "type": "Buttons",
+            "name": "Una noche libre_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "words": [
-                "razonable"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Si"
         }
     ]
 }

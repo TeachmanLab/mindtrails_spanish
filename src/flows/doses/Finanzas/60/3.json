@@ -18,7 +18,7 @@
                 "\"Te ayudaré a ir a una buena escuela\"."
             ],
             "columnCount": 1,
-            "answer": "\"No creo que podamos permitirnos enviarte a esa escuela\"."
+            "correct_value": "\"No creo que podamos permitirnos enviarte a esa escuela\"."
         }
     ]
 }

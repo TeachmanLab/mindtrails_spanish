@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Al notar estos pensamientos, decides que podrás afrontar la situación, así que sigues..."
+            "text": "Estás caminando hacia el trabajo cuando de repente escuchas un ruido detrás de ti. Cuando giras rápidamente la cabeza para ver qué es, te sientes mareado y empiezas a preocuparte de que perderás el..."
         },
         {
             "type": "Entry",
-            "name": "Ruido repentino_Salud Física_entry2"
+            "name": "Ruido repentino_Salud Física_entry1"
         }
     ]
 }

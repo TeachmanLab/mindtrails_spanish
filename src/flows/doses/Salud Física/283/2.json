@@ -3,12 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Tienes planeado correr mañana con un amigo que corre todos los días. No has corrido en bastante tiempo y te preocupa si podrás mantener el ritmo o..."
+            "type": "Label",
+            "text": "Corriendo con un amigo"
         },
         {
-            "type": "Entry",
-            "name": "Corriendo con un amigo_Salud Física_entry1"
+            "type": "Media",
+            "url": "/images/Corriendo_con_un_amigo.jpg"
         }
     ]
 }

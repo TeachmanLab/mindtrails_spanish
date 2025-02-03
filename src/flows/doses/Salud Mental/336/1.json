@@ -1,14 +1,14 @@
 {
-    "header_text": "Sintiéndote ansioso",
+    "header_text": "Un comentario grosero",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sintiéndote ansioso"
+            "text": "Un comentario grosero"
         },
         {
             "type": "Media",
-            "url": "/images/Sintiéndote_ansioso.jpg"
+            "url": "/images/Un_comentario_grosero.jpg"
         }
     ]
 }

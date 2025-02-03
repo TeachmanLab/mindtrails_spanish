@@ -18,7 +18,7 @@
                 "No te enfermarás."
             ],
             "columnCount": 1,
-            "answer": "Te enfermarás."
+            "correct_value": "Te enfermarás."
         }
     ]
 }

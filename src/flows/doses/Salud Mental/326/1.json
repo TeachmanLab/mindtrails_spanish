@@ -1,14 +1,14 @@
 {
-    "header_text": "Tomando transporte",
+    "header_text": "Tu nueva publicación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tomando transporte"
+            "text": "Tu nueva publicación"
         },
         {
             "type": "Media",
-            "url": "/images/Tomando_transporte.jpg"
+            "url": "/images/Tu_nueva_publicación.jpg"
         }
     ]
 }

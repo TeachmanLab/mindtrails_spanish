@@ -1,21 +1,24 @@
 {
     "header_text": "Un comentario grosero",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Publicas una foto en la que estás realmente seguro. Ves un comentario realmente grosero cuando regresas para revisar tus comentarios. Respiras profundamente y decides no sentirte..."
+            "Text": "¿Te molesta mucho el comentario grosero en tu publicación?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Un comentario grosero_Situaciones Sociales_puzzle1",
+            "type": "Buttons",
+            "name": "Un comentario grosero_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "words": [
-                "molesto"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

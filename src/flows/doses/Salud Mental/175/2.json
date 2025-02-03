@@ -3,12 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Te han llamado para una evaluación de desempeño con tu jefe. En general, haces un buen trabajo, pero sabes que tu jefe ha notado algunos errores..."
+            "type": "Label",
+            "text": "Revisando tu trabajo"
         },
         {
-            "type": "Entry",
-            "name": "Revisando tu trabajo_Salud Mental_entry1"
+            "type": "Media",
+            "url": "/images/Revisando_tu_trabajo.jpg"
         }
     ]
 }

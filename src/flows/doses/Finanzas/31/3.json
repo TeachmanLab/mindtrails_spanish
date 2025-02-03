@@ -18,7 +18,7 @@
                 "Bajas, porque es poco probable que ahorres suficiente dinero."
             ],
             "columnCount": 1,
-            "answer": "Altas, porque podrás ahorrar más dinero en los próximos meses."
+            "correct_value": "Altas, porque podrás ahorrar más dinero en los próximos meses."
         }
     ]
 }

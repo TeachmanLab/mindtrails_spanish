@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Quieres ir a algún lugar privado para estar lejos de los demás. Decides quedarte donde estás y respirar..."
+            "text": "Terminas de correr una larga distancia. Te das cuenta de que tu corazón late muy rápido y sientes presión en el pecho. Piensas que estás a punto de entrar en..."
         },
         {
             "type": "Entry",
-            "name": "Corriendo fuerte_Salud Física_entry2"
+            "name": "Corriendo fuerte_Salud Física_entry1"
         }
     ]
 }

@@ -1,11 +1,11 @@
 {
-    "header_text": "Recurso: Salud Física",
+    "header_text": "Maneja tus sentimientos: Salud Física",
     "header_icon": "assets/subtitle.png",
-    "name": "División de Nutrición, Actividad Física y Obesidad (DNPAO) de los CDC",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "División de Nutrición, Actividad Física y Obesidad (DNPAO) de los CDC\n\nOfrece información sobre actividad física, peso saludable, lactancia materna y nutrición para bebés y niños pequeños.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "Es posible que en este momento sientas algo de dolor en tu cuerpo. Recuerde que el dolor fluye y refluye y que probablemente no será tan intenso para siempre."
         }
     ]
 }

@@ -1,24 +1,21 @@
 {
     "header_text": "Participación",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás contento de haber asistido al taller?"
+            "text": "Consideras asistir a un taller práctico en el que se requerirá tu opinión con frecuencia, a pesar de que no te gusta hablar frente a los demás. Después de asistir al taller, te das cuenta de que fue una decisión..."
         },
         {
-            "type": "Buttons",
-            "name": "Participación_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Participación_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "incorrect_delay": 5000,
+            "words": [
+                "excelente"
             ],
-            "columnCount": 1,
-            "answer": "Si"
+            "missing_letter_count": 1
         }
     ]
 }

@@ -1,24 +1,21 @@
 {
     "header_text": "Una audiencia captada",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Tus compañeros probablemente estaban callados porque..."
+            "text": "Tienes que dar una presentación a un grupo de colegas de trabajo que conoces bien. Todos están callados durante tu presentación. Mientras lo piensas más tarde en casa, crees que tus colegas encontraron tu presentación..."
         },
         {
-            "type": "Buttons",
-            "name": "Una audiencia captada_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "Una audiencia captada_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Estaban enfocados en tu presentación.",
-                "Estaban aburridos con tu presentación."
+            "incorrect_delay": 5000,
+            "words": [
+                "interesante"
             ],
-            "columnCount": 1,
-            "answer": "Estaban enfocados en tu presentación."
+            "missing_letter_count": 2
         }
     ]
 }

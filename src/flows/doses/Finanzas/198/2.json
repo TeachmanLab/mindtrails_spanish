@@ -3,12 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Tu banco te has puesto en contacto con tú para solicitar una tarjeta de crédito con una tasa de interés muy baja. Eres un gastador responsable, pero te preocupa acumular deudas si te inscribes en una nueva tarjeta de... "
+            "type": "Label",
+            "text": "Gestión de crédito"
         },
         {
-            "type": "Entry",
-            "name": "Gestión de crédito_Finanzas_entry1"
+            "type": "Media",
+            "url": "/images/Gestión_de_crédito.jpg"
         }
     ]
 }

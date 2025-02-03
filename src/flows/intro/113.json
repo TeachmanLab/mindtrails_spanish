@@ -18,7 +18,7 @@
                 "No le gustan tus ideas."
             ],
             "columnCount": 1,
-            "answer": "Apoye sus ideas."
+            "correct_value": "Apoye sus ideas."
         }
     ]
 }

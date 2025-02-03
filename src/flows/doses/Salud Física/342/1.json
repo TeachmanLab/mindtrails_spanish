@@ -1,11 +1,15 @@
 {
-    "header_text": "Recurso: Salud Física",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
     "header_icon": "assets/subtitle.png",
-    "name": "MiBuscadorDeSalud",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "MiBuscadorDeSalud\n\nOperado por el Departamento de Salud de los EE. UU., brinda información, artículos sobre cuestiones de salud, servicios de búsqueda para recursos de salud nacionales y locales.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "Piensas en las lecciones que aprendiste de las historias que lees hoy. Mirando hacia atrás a una situación reciente que te hizo ansioso, ¿cómo podrías haberlo pensado de una manera diferente para que fuera más fácil de manejar?"
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #5_entry"
         }
     ]
 }

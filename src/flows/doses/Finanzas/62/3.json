@@ -18,7 +18,7 @@
                 "Aún te dejará corto y te retrasarás en el pago del alquiler."
             ],
             "columnCount": 1,
-            "answer": "Significará que ahorrarás lo suficiente para pagar el alquiler."
+            "correct_value": "Significará que ahorrarás lo suficiente para pagar el alquiler."
         }
     ]
 }

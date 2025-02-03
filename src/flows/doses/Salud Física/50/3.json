@@ -18,7 +18,7 @@
                 "Estás insoportablemente ansiosos."
             ],
             "columnCount": 1,
-            "answer": "eres capaces de disfrutar la conversación."
+            "correct_value": "eres capaces de disfrutar la conversación."
         }
     ]
 }

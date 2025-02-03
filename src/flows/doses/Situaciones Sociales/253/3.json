@@ -18,7 +18,7 @@
                 "Rechacen cortésmente tu invitación."
             ],
             "columnCount": 1,
-            "answer": "Estén de acuerdo en que tomar café es una buena idea."
+            "correct_value": "Estén de acuerdo en que tomar café es una buena idea."
         }
     ]
 }

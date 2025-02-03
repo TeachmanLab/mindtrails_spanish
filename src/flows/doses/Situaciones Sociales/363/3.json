@@ -1,21 +1,24 @@
 {
     "header_text": "Viendo a un viejo amigo",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Ves a un viejo amigo con el que no has hablado en años. Tu corazón da un vuelco. Te sientes..."
+            "Text": "¿Está bien que sientas que tu corazón da un vuelco?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Viendo a un viejo amigo_Situaciones Sociales_puzzle1",
+            "type": "Buttons",
+            "name": "Viendo a un viejo amigo_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "words": [
-                "emocionado"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Si"
         }
     ]
 }

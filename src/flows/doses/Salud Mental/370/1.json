@@ -1,14 +1,14 @@
 {
-    "header_text": "Sentirse llamado",
+    "header_text": "Sintiéndote ansioso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sentirse llamado"
+            "text": "Sintiéndote ansioso"
         },
         {
             "type": "Media",
-            "url": "/images/Sentirse_llamado.jpg"
+            "url": "/images/Sintiéndote_ansioso.jpg"
         }
     ]
 }

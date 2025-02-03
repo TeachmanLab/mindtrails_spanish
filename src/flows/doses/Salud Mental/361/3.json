@@ -1,24 +1,21 @@
 {
-    "header_text": "Día especial",
+    "header_text": "Siendo padre",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Probablemente te sientes nervioso porque ..."
+            "text": "Cuando piensas en tu relación con ella a medida que crece, no crees que será tensa, y te visualizas siendo..."
         },
         {
-            "type": "Buttons",
-            "name": "Día especial_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Siendo padre_Salud Mental_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_dealy": 5000,
-            "buttons": [
-                "Nunca has salido con esta persona antes.",
-                "Eres desagradable."
+            "incorrect_delay": 5000,
+            "words": [
+                "paciente"
             ],
-            "columnCount": 1,
-            "answer": "Nunca has salido con esta persona antes."
+            "missing_letter_count": 2
         }
     ]
 }

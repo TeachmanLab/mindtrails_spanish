@@ -1,11 +1,11 @@
 {
-    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
+    "header_text": "Recurso: Situaciones Sociales",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
+    "name": "Personas de la tercera edad",
     "elements": [
         {
             "type": "Text",
-            "text": "Trata de imaginarte a ti mismo como un extraño observando tu conversación. Pregúntate si pensarían en cómo te está yendo de la misma manera que a ti. "
+            "text": "Personas de la tercera edad\n\nEste sitio Web ilumina situaciones diversas en cuáles las personas de tercera edad podrían necesitar ayuda. Ofrece recursos y guías informativas.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

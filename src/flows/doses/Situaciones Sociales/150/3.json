@@ -1,21 +1,24 @@
 {
     "header_text": "Permitiendo que otros vean tu trabajo",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Un amigo sugiere que una a una organización de escritura creativa. Te dice que otros miembros del grupo leerán y criticarán tu escritura. Mientras escuchas a tu amigo hablar, la idea de que otras personas lean tu escritura te hace sentir... "
+            "Text": "¿Esperas sentirte incómodo si otros ven tu escritura?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Permitiendo que otros vean tu trabajo_Situaciones Sociales_puzzle1",
+            "type": "Buttons",
+            "name": "Permitiendo que otros vean tu trabajo_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "words": [
-                "entusiasmo"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

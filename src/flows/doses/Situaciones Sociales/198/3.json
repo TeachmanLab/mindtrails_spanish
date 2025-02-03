@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Crees que no defraudarás a tus compañeros y contribuirás al éxito del..."
+            "text": "Después de no jugar por un tiempo, te uníste a un equipo de futbol recreativo. Hay un torneo al final de la... "
         },
         {
             "type": "Entry",
-            "name": "El torneo de fútbol_Situaciones Sociales_entry2"
+            "name": "El torneo de fútbol_Situaciones Sociales_entry1"
         }
     ]
 }

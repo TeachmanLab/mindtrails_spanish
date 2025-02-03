@@ -1,21 +1,24 @@
 {
     "header_text": "Discute con tu pareja",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente tuviste una pelea con tu pareja. Se trataba de un tema grave y te preocupas por qué tu pareja no estuvo de acuerdo con tú Crees que tú y tu pareja eventualmente se..."
+            "Text": "¿Es esta pelea un factor decisivo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Discute con tu pareja_Relaciones Románticas_puzzle1",
+            "type": "Buttons",
+            "name": "Discute con tu pareja_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "words": [
-                "reconciliarán"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

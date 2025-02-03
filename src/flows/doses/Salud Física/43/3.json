@@ -1,21 +1,24 @@
 {
     "header_text": "Pensamientos en la estación de tren",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en una parada de metro esperando un tren. Parado en el borde, te das cuenta de que nunca has pensado en la distancia de la caída hasta las vías debajo. Te sientes..."
+            "Text": "Mientras esperas el tren, piensas en cómo..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Pensamientos en la estación de tren_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Pensamientos en la estación de tren_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "words": [
-                "fascinado"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Estás seguro parado encima de las vías.",
+                "Estás en peligro de caerte."
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Estás seguro parado encima de las vías."
         }
     ]
 }

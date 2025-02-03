@@ -18,7 +18,7 @@
                 "estarás financieramente estable con tus préstamos pagados."
             ],
             "columnCount": 1,
-            "answer": "seguirás agobiado por tus préstamos"
+            "correct_value": "seguirás agobiado por tus préstamos"
         }
     ]
 }

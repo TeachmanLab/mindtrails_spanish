@@ -3,12 +3,19 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Un comentario grosero"
+            "type": "Text",
+            "text": "Publicas una foto en la que estás realmente seguro. Ves un comentario realmente grosero cuando regresas para revisar tus comentarios. Respiras profundamente y decides no sentirte..."
         },
         {
-            "type": "Media",
-            "url": "/images/Un_comentario_grosero.jpg"
+            "type": "WordPuzzle",
+            "name": "Un comentario grosero_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "words": [
+                "molesto"
+            ],
+            "missing_letter_count": 2
         }
     ]
 }

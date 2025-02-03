@@ -1,14 +1,14 @@
 {
-    "header_text": "Saliendo de noche",
+    "header_text": "Sentirse llamado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Saliendo de noche"
+            "text": "Sentirse llamado"
         },
         {
             "type": "Media",
-            "url": "/images/Saliendo_de_noche.jpg"
+            "url": "/images/Sentirse_llamado.jpg"
         }
     ]
 }

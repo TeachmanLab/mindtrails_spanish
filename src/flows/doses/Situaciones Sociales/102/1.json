@@ -1,15 +1,11 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
     "header_icon": "assets/subtitle.png",
-    "name": "¡Consejo para aplicar!",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en una situación en la que te encantaría estar, pero tienes demasiado miedo o ansiedad para ponerte en ella, aunque pueda llevar al crecimiento personal. ¿Qué estrategias podrías poner en práctica para ayudarte a llegar allí?"
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #10_entry"
+            "text": "Cuando estés enojado o molesto por cualquier situación, dejas que esa emoción vaya y venga. En lugar de tratar de alejarlo, permítete reconocer y sentir profundamente tus emociones de manera segura. "
         }
     ]
 }

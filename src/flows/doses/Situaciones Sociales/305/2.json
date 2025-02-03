@@ -3,12 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Durante el fin de semana, decides publicar un video y algunas fotos en tus redes sociales. Cuando llegas al trabajo el lunes, escuchas a tus compañeros de trabajo chismeando sobre tus imágenes y videos. Probablemente piensan que eres..."
+            "type": "Label",
+            "text": "Hablando de ti"
         },
         {
-            "type": "Entry",
-            "name": "Hablando de ti_Situaciones Sociales_entry1"
+            "type": "Media",
+            "url": "/images/Hablando_de_ti.jpg"
         }
     ]
 }

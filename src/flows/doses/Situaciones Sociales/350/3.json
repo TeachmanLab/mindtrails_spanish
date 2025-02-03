@@ -18,7 +18,7 @@
                 "Hiciste un buen trabajo y esperan que los invites a futuras presentaciones."
             ],
             "columnCount": 1,
-            "answer": "Parecías muy tonto y esperan que no los vuelvan a invitar."
+            "correct_value": "Parecías muy tonto y esperan que no los vuelvan a invitar."
         }
     ]
 }

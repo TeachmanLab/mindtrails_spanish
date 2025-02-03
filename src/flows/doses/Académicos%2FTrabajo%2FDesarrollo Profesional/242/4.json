@@ -18,7 +18,7 @@
                 "Está molesto."
             ],
             "columnCount": 1,
-            "answer": "No está molesto."
+            "correct_value": "No está molesto."
         }
     ]
 }

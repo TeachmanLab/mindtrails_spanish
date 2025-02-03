@@ -1,14 +1,14 @@
 {
-    "header_text": "Yendo de vacaciones",
+    "header_text": "Reloj favorito",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Yendo de vacaciones"
+            "text": "Reloj favorito"
         },
         {
             "type": "Media",
-            "url": "/images/Yendo_de_vacaciones.jpg"
+            "url": "/images/Reloj_favorito.jpg"
         }
     ]
 }

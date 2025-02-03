@@ -1,14 +1,14 @@
 {
-    "header_text": "Manejando tareas",
+    "header_text": "Comparar su trabajo con el de otros",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Manejando tareas"
+            "text": "Comparar su trabajo con el de otros"
         },
         {
             "type": "Media",
-            "url": "/images/Manejando_tareas.jpg"
+            "url": "/images/Comparar_su_trabajo_con_el_de_otros.jpg"
         }
     ]
 }

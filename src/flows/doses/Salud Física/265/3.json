@@ -18,7 +18,7 @@
                 "\nPermanecerá muy dolorosa."
             ],
             "columnCount": 1,
-            "answer": "Dolerá mucho menos."
+            "correct_value": "Dolerá mucho menos."
         }
     ]
 }

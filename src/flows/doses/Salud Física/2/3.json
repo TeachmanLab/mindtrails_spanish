@@ -18,7 +18,7 @@
                 "Se infectará."
             ],
             "columnCount": 1,
-            "answer": "Sanará rápidamente."
+            "correct_value": "Sanará rápidamente."
         }
     ]
 }

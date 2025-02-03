@@ -3,19 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Te estás quedando tarde para terminar unos trabajos y notas a dos compañeros. Se van juntos y te saludan mientras pasan. Te sientes..."
+            "type": "Label",
+            "text": "Saludando gente en bibliotecas"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Saludando gente en bibliotecas_Situaciones Sociales_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "words": [
-                "avergonzado"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "/images/Saludando_gente_en_bibliotecas.jpg"
         }
     ]
 }

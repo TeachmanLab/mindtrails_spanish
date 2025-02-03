@@ -3,12 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Palabra tropiezo"
+            "type": "Text",
+            "text": "Tienes que hacer una presentación sobre tu trabajo a tus compañeros y a tu jefe. Al empezar, te topas con las primeras palabras. Siguiendo con ello, crees que tu desempeño será evaluado..."
         },
         {
-            "type": "Media",
-            "url": "/images/Palabra_tropiezo.jpg"
+            "type": "Entry",
+            "name": "Palabra tropiezo_Situaciones Sociales_entry1"
         }
     ]
 }

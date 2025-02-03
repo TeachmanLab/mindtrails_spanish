@@ -1,14 +1,14 @@
 {
-    "header_text": "Atascado en el medio",
+    "header_text": "Vaso de agua",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Atascado en el medio"
+            "text": "Vaso de agua"
         },
         {
             "type": "Media",
-            "url": "/images/Atascado_en_el_medio.jpg"
+            "url": "/images/Vaso_de_agua.jpg"
         }
     ]
 }

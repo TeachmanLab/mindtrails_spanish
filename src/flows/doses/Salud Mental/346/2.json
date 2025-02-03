@@ -1,19 +1,19 @@
 {
-    "header_text": "Larga caminata afuera",
+    "header_text": "Usando tecnología diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hace frío afuera y sales a caminar para calmar tu mente. Tus manos empiezan a temblar y tu corazón late rápidamente mientras subes una cuesta. Tienes..."
+            "text": "Recientemente reemplazaste tu computadora portátil y tuviste que optar por una opción más económica. Tu jefe te pide que completes un proyecto que requerirá una aplicación que tu nueva computadora no tiene. Cuando piensas en completar tu trabajo para este proyecto, te sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Larga caminata afuera_Salud Mental_puzzle1",
+            "name": "Usando tecnología diferente_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "miedo"
+                "capaz"
             ],
             "missing_letter_count": 2
         }

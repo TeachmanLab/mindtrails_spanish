@@ -1,11 +1,11 @@
 {
-    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_text": "Recurso: Salud Física",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
+    "name": "MiBuscadorDeSalud",
     "elements": [
         {
             "type": "Text",
-            "text": "Antes de volver a buscar la misma pregunta sobre su salud en línea, pregúntese si realmente está buscando nueva información o simplemente está volviendo a verificar algo. Reduzca el tiempo dedicado a volver a comprobar."
+            "text": "MiBuscadorDeSalud\n\nOperado por el Departamento de Salud de los EE. UU., brinda información, artículos sobre cuestiones de salud, servicios de búsqueda para recursos de salud nacionales y locales.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

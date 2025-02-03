@@ -3,12 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Aplicaste a un trabajo hace algunas semanas y acabas de recibir una respuesta. Te dicen que ya llenaron el puesto y sientes que no eres lo suficientemente inteligente. Aun así, crees que en el futuro conseguirás un..."
+            "type": "Label",
+            "text": "Aplicando a trabajos"
         },
         {
-            "type": "Entry",
-            "name": "Aplicando a trabajos_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "type": "Media",
+            "url": "/images/Aplicando_a_trabajos.jpg"
         }
     ]
 }

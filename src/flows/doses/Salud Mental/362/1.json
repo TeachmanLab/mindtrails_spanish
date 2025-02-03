@@ -1,14 +1,14 @@
 {
-    "header_text": "Siendo padre",
+    "header_text": "Planes para el fin de semana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Siendo padre"
+            "text": "Planes para el fin de semana"
         },
         {
             "type": "Media",
-            "url": "/images/Siendo_padre.jpg"
+            "url": "/images/Planes_para_el_fin_de_semana.jpg"
         }
     ]
 }

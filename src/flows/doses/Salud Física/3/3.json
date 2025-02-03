@@ -18,7 +18,7 @@
                 "Hacer una llamada de emergencia porque esto es señal de algo grave."
             ],
             "columnCount": 1,
-            "answer": "Tomarte una botella de ague y comerte un bocado despues del ejecicio."
+            "correct_value": "Tomarte una botella de ague y comerte un bocado despues del ejecicio."
         }
     ]
 }

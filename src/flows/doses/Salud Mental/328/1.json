@@ -1,14 +1,14 @@
 {
-    "header_text": "Enfrentando a un amigo",
+    "header_text": "Dolor de estómago",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Enfrentando a un amigo"
+            "text": "Dolor de estómago"
         },
         {
             "type": "Media",
-            "url": "/images/Enfrentando_a_un_amigo.jpg"
+            "url": "/images/Dolor_de_estómago.jpg"
         }
     ]
 }

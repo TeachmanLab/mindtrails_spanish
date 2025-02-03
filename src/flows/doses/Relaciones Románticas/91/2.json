@@ -3,12 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Tú y tu pareja han tenido una relación de larga distancia por un tiempo y estarán viviendo en el mismo lugar en tan solo unos meses. Nunca han vivido en el mismo lugar antes y no estás completamente seguro de cómo este cambio podría afectar su relación. Aunque te sientes un poco nervioso, sabes que es..."
+            "type": "Label",
+            "text": "Terminando a large distancia"
         },
         {
-            "type": "Entry",
-            "name": "Terminando a large distancia_Relaciones Románticas_entry1"
+            "type": "Media",
+            "url": "/images/Terminando_a_large_distancia.jpg"
         }
     ]
 }

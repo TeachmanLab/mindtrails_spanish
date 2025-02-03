@@ -1,21 +1,24 @@
 {
-    "header_text": "Pensando en preguntas",
+    "header_text": "Broma interna",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en una charla sobre un tema complicado que te emociona mucho. Tienes muchas ideas sobre el tema, pero sientes que las preguntas que hacen los demás son más inteligentes que las tuyas. Piensas en cómo todos probablemente se ponen nerviosos al hablar también, y sabes que no están allí para..."
+            "Text": "¿Otros te juzgan por el comentario de tu amigo en tu publicación?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Pensando en preguntas_Salud Mental_puzzle1",
+            "type": "Buttons",
+            "name": "Broma interna_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "words": [
-                "juzgar"
+            "incorrect_dealy": 5000,
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

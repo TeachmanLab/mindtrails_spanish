@@ -18,7 +18,7 @@
                 "Tienes un problema muy grande con tu salud."
             ],
             "columnCount": 1,
-            "answer": "Tienes buena salud."
+            "correct_value": "Tienes buena salud."
         }
     ]
 }

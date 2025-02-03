@@ -18,7 +18,7 @@
                 "Asumiste que algo malo te está pasando."
             ],
             "columnCount": 1,
-            "answer": "Toleraste la respuesta normal de tu cuerpo al frío."
+            "correct_value": "Toleraste la respuesta normal de tu cuerpo al frío."
         }
     ]
 }

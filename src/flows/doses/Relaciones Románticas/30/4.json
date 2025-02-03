@@ -18,7 +18,7 @@
                 "Significa que eres torpe y descuidado."
             ],
             "columnCount": 1,
-            "answer": "No es gran cosa."
+            "correct_value": "No es gran cosa."
         }
     ]
 }

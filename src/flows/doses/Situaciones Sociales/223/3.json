@@ -18,7 +18,7 @@
                 "Pensarán que necesitas practicar más."
             ],
             "columnCount": 1,
-            "answer": "Pensarán que eres talentoso."
+            "correct_value": "Pensarán que eres talentoso."
         }
     ]
 }

@@ -3,12 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Familia grande"
+            "type": "Text",
+            "text": "Tu prometido tiene hijos, mientras que tú no. Estás tratando de adaptarte a vivir con niños más pequeños y a cómo tener relación con ellos. Piensas que serás capaz de desarrollar una rutina y adaptarte a esta nueva dinámica... "
         },
         {
-            "type": "Media",
-            "url": "/images/Familia_grande.jpg"
+            "type": "Entry",
+            "name": "Familia grande_Relaciones Románticas_entry1"
         }
     ]
 }

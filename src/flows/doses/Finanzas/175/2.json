@@ -3,12 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Te despiertas sintiéndote un poco mal y decides ir al médico. Te escriben una receta pero cuando llegas a la farmacia el precio es un poco más alto de lo que esperabas. Crees que puede ser..."
+            "type": "Label",
+            "text": "Medicina asequible"
         },
         {
-            "type": "Entry",
-            "name": "Medicina asequible_Finanzas_entry1"
+            "type": "Media",
+            "url": "/images/Medicina_asequible.jpg"
         }
     ]
 }

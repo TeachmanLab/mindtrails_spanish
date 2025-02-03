@@ -3,12 +3,12 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Evaluación de salud"
+            "type": "Text",
+            "text": "En tu cita médica anual, tu doctor decide hacerte unas pruebas para evaluar tu salud en funcion del historial médico de tu familia. Tus resultados estarán listos en una semana. Mientras esperas los resultados, crees que probablemente estás..."
         },
         {
-            "type": "Media",
-            "url": "/images/Evaluación_de_salud.jpg"
+            "type": "Entry",
+            "name": "Evaluación de salud_Salud Física_entry1"
         }
     ]
 }

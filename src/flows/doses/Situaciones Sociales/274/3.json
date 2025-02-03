@@ -18,7 +18,7 @@
                 "Notarán que estás sudando."
             ],
             "columnCount": 1,
-            "answer": "No te verán sudar ya que la habitación está poco iluminada."
+            "correct_value": "No te verán sudar ya que la habitación está poco iluminada."
         }
     ]
 }

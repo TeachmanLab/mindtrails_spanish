@@ -1,14 +1,14 @@
 {
-    "header_text": "Decidir compartir una imagen",
+    "header_text": "Atascado en el medio",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Decidir compartir una imagen"
+            "text": "Atascado en el medio"
         },
         {
             "type": "Media",
-            "url": "/images/Decidir_compartir_una_imagen.jpg"
+            "url": "/images/Atascado_en_el_medio.jpg"
         }
     ]
 }

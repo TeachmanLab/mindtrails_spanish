@@ -1,19 +1,19 @@
 {
-    "header_text": "Comparar su trabajo con el de otros",
+    "header_text": "Resultados de la evaluación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente recibiste comentarios negativos sobre una presentación. Tu colega, que hizo una presentación similar, recibió comentarios maravillosos. Crees que tu próxima presentación será..."
+            "text": "El tiempo para las evaluaciones del trabajo acaba de cerrar y no estás seguro de si saliste bien o no. Te sientes nervioso al pensar en cómo te calificaron otras personas. Piensas que estar nervioso es..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Comparar su trabajo con el de otros_Salud Mental_puzzle1",
+            "name": "Resultados de la evaluación_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "mejor"
+                "manejable"
             ],
             "missing_letter_count": 1
         }

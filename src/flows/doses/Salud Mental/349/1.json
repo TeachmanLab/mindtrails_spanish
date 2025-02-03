@@ -1,14 +1,14 @@
 {
-    "header_text": "Tomando transporte",
+    "header_text": "Boca seca",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tomando transporte"
+            "text": "Boca seca"
         },
         {
             "type": "Media",
-            "url": "/images/Tomando_transporte.jpg"
+            "url": "/images/Boca_seca.jpg"
         }
     ]
 }

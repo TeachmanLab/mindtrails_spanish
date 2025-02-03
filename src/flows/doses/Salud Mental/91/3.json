@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tomas un poco de agua y comienzas a sentirte más despierto, recordando que anoche no dormiste tanto como de costumbre. Decides que simplemente estás..."
+            "text": "Estás en una reunión importante y necesitas prestar atención. En medio de la reunión te das cuenta de que te has desconectado y no sabes qué está pasando. Piensas que algo debe estar mal..."
         },
         {
             "type": "Entry",
-            "name": "Sentado en una reunión_Salud Mental_entry2"
+            "name": "Sentado en una reunión_Salud Mental_entry1"
         }
     ]
 }
