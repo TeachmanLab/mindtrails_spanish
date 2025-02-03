@@ -228,7 +228,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                     "name": f"{label}_{domain}_comp_question",
                     "correct_feedback": "Correcto!",  # changed
                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",  # changed
-                    "incorrect_dealy": 5000,
+                    "incorrect_delay": 5000,
                     "buttons": answers,
                     "columnCount": 1,
                     "correct_value": correct_answer
