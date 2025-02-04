@@ -108,22 +108,9 @@ def get_tips(file_path):
             tips.append([f"Consejo #{i}", row[1]]) # changed
     return tips
 
-
-def get_lessons_learned_text(file_path):
-    """
-    A function that reads in the file that has the text for each lesson learned.
-
-    :param file_path: file path for lessons learned text (.csv)
-    :return: lessons learned dictionary, key = domain, field = lessons learned text for that domain
-
-    https://docs.google.com/spreadsheets/d/1kM80BHglwtsBgxntJDRdfNj-cusgGGJ0sx814ctB1pk/edit#gid=0
-    """
-    with open(file_path, 'r', encoding='utf-8') as read_obj:
-        return { row[0]:row[1] for row in islice(csv.reader(read_obj),1,None) }
-
 def create_puzzle(scenario):
 
-    if scenario.strip() in ["",None,"N/A"]: return None, None
+    if not has_value(scenario): return None, None
     punctuation_marks = "?.!"
 
     puzzle_text = scenario

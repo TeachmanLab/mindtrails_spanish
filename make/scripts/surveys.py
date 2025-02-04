@@ -30,7 +30,7 @@ def get_flownames():
     yield 'eod'
     yield 'reasons for ending'
 
-def get_flowpages(flowname,groupname,survey_pages):
+def get_flowpages(flow_name,group_name,survey_pages):
 
     #this part gets a little messy and has to be hard coded
     #all the possible options we care about are below
@@ -44,30 +44,30 @@ def get_flowpages(flowname,groupname,survey_pages):
 
     flat = chain.from_iterable
 
-    if flowname == "intro" and groupname == "treatment":
+    if flow_name == "intro" and group_name == "treatment":
         yield from flat(survey_pages[("1","dose")].values())
         return
 
-    if flowname == "intro" and groupname == "control":
+    if flow_name == "intro" and group_name == "control":
         yield from flat(survey_pages[("1","control_dose")].values())
         return
 
-    if flowname == "eod":
+    if flow_name == "eod" and group_name=="control":
         yield from flat(survey_pages[("all","eod")].values())
         return
 
-    if flowname == "reasons for ending":
+    if flow_name == "reasons for ending":
         yield from flat(survey_pages[("all","reasonsforending")].values())
         return
 
-    if flowname.startswith("biweekly") and groupname == "treatment":
+    if flow_name.startswith("biweekly") and group_name == "treatment":
         yield from flat(survey_pages[("all","biweekly")].values())
-        yield from flat(survey_pages[(flowname[-1],"biweekly")].values())
+        yield from flat(survey_pages[(flow_name[-1],"biweekly")].values())
         return
 
-    if flowname.startswith("biweekly") and groupname == "control":
-        yield from flat(survey_pages[("all","biweekly")].values())
-        yield from flat(survey_pages[(flowname[-1],"biweekly_control")].values())
+    if flow_name.startswith("biweekly") and group_name == "control":
+        yield from flat(survey_pages[(flow_name[-1],"biweekly_control")].values())
+        return
 
 def _create_practice_pages():
     with open(f"{dir_csv}/Spanish_dose1_scenarios.csv", "r", encoding="utf-8") as dose1_read_obj:  # scenarios for first dose in file
@@ -103,7 +103,7 @@ def _create_practice_pages():
                                             "¡mosaico de la página de inicio de MindTrails Español!"  # changed
 
                 page = create_survey_page(text=make_it_your_own_text, title="¡Hazlo tuyo!")  # changed
-                page["name"] = "Make it your own!"
+
                 yield page
 
             dose1_scenario_num += 1

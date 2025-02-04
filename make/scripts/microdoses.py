@@ -48,6 +48,18 @@ def domain_selection_text():
         "¡Pensar con flexibilidad en todas las áreas de tu vida!"
     )
 
+def create_lessons_learned():
+    """
+    A function that reads in the file that has the text for each lesson learned.
+
+    :param file_path: file path for lessons learned text (.csv)
+    :return: lessons learned dictionary, key = domain, field = lessons learned text for that domain
+
+    https://docs.google.com/spreadsheets/d/1kM80BHglwtsBgxntJDRdfNj-cusgGGJ0sx814ctB1pk/edit#gid=0
+    """
+    with open(f"{dir_csv}/Spanish lessons_learned_text.csv", 'r', encoding='utf-8') as read_obj:
+        return { row[0]:row[1] for row in islice(csv.reader(read_obj),1,None) }
+
 def create_long_doses(i):
     long_doses = defaultdict(list)
 
@@ -98,6 +110,8 @@ def create_short_doses(i):
 
     unique_image = False
 
+    lessons_learned_dict = create_lessons_learned()
+
     with open(f"{dir_csv}/Spanish_Short_Scenarios.csv","r", encoding="utf-8", newline='') as read_obj:
 
         for row in islice(csv.reader(read_obj),1,None):
@@ -136,6 +150,7 @@ def create_short_doses(i):
                                          puzzle_text_2=puzzle2[0],
                                          letters_missing=letters_missing,
                                          lessons_learned=lessons_learned,
+                                         lessons_learned_dict=lessons_learned_dict,
                                          unique_image=unique_image,
                                          row_num=domain_ndoses[domain_1])
 

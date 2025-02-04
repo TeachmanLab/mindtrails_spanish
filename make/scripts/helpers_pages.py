@@ -3,15 +3,12 @@ import random
 
 from itertools import islice
 
-from helpers_utilities import get_lessons_learned_text, clean_up_unicode, has_value, is_yesno, is_int
+from helpers_utilities import clean_up_unicode, has_value, is_yesno, is_int
 
 random.seed(1) #give a fixed seed so that diffs don't make it look like we changed a lot every time we generate
 
 dir_root = "./make"
 dir_csv  = f"{dir_root}/CSV"
-file_path = f"{dir_csv}/Spanish lessons_learned_text.csv"
-
-lessons_learned_dict = get_lessons_learned_text(file_path)
 
 def create_condition(args):
     if args == [''] or not args: return None
@@ -106,7 +103,7 @@ def create_long_pages(label, scenario_description, unique_image, thoughts, feeli
 def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, comp_question,
                           answers, correct_answer, unique_image, row_num, word_2=None,
                           puzzle_text_2=None, letters_missing=1, lessons_learned=False,
-                          lessons_learned_dict=lessons_learned_dict):
+                          lessons_learned_dict=None):
     """
     :param unique_image: Bool, False means that the photos for each group are all the sameunique
     :param domain: domain (e.g., "Romantic Relationships" or "Physical Health")
