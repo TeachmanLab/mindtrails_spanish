@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "file": "/videos/video2.mp4"
+            "url": "/videos/video2.mp4"
         },
         {
             "type": "Text",
@@ -21,7 +21,7 @@
         },
         {
             "type": "Media",
-            "file": "/videos/video3.mp4"
+            "url": "/videos/video3.mp4"
         },
         {
             "type": "Text",

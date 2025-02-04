@@ -7,7 +7,7 @@
 		},
 		{
 			"type": "Media",
-			"file": "/videos/video1.mp4"
+			"url": "/videos/video1.mp4"
 		},
 		{
 			"type": "Text",
