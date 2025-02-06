@@ -50,7 +50,7 @@
 			{
 				"text": "<INTRO>",
 				"icon": "/assets/menu_mindtrails.png",
-				"action": "flow://flows/sessions/__first__"
+				"action": "flow://flows/sessions/intro"
 			},
 			{
 				"text": "Instrucciones",
