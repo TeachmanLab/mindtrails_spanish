@@ -304,12 +304,13 @@ for pop,s,l in populations:
     # Define folders
     folders = {}
     folders['control/sessions/__intro__'] = flat(surveys["Control_Dose_1"])
-    folders['treatment/sessions/__flow__.json'] = {"mode":"select", "text": domain_selection_text(), "title":"MindTrails Español"}
+    folders['treatment/sessions/__flow__.json'] = {"mode":"select", "column_count":2, "text": domain_selection_text(), "title":"MindTrails Español"}
     folders['treatment/sessions/__first__'] = flat(surveys["Dose_1"])
     folders['treatment/sessions/__before__'] = flat(surveys["BeforeDomain_All"])
     folders['treatment/sessions/__after__'] = flat(surveys["AfterDomain_All"])
     folders['treatment/sessions/Discriminación'] = discrim_dose
     for domain, doses in domain_doses.items():
+        folders[f'treatment/sessions/{dir_safe(domain)}/__flow__.json'] ={"mode":"sequential", "size":1, "repeat":True}
         for i, dose in enumerate(doses,1):
             folders[f'treatment/sessions/{dir_safe(domain)}/{i}'] = dose
 
