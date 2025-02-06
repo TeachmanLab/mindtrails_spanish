@@ -52,7 +52,7 @@ def create_long_pages(label, scenario_description, unique_image, thoughts, feeli
     :param behaviors: list of behaviors to show for long scenarios
     :return: a page group for the long scenario
     """
-    
+
     pages = []
     label = label.strip()
 
@@ -244,7 +244,7 @@ def create_resource_page(resources_lookup, tips, ER_lookup, domain):
     :param domain: the domain
     :return: a page group for a resource, ER strategy, or tip
     """
-    
+
     resource_type = random.choice(["Resource", "Tip", "ER Strategy"])
 
     if resource_type == "Resource":

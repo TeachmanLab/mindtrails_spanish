@@ -20,7 +20,7 @@ def validate_dir(dir):
             continue
 
         with open(p, encoding='utf-8') as f:
-            
+
             bad_links = list(validate_file(json.load(f)))
 
             if bad_links:

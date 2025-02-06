@@ -1,6 +1,27 @@
 import csv
+import json
 
+from pathlib import Path
 from itertools import islice
+
+def write_output(dir_out, structure):
+    for path, content in structure.items():
+        path = Path(f"{dir_out}/{path}")
+
+        if path.suffix == ".json" and isinstance(content,dict):
+            path.parent.mkdir(parents=True, exist_ok=True)
+            with open(path, 'w', encoding='utf-8') as f:
+                json.dump(content, f, indent=4, ensure_ascii=False)
+            continue
+
+        if path.suffix != ".json" and isinstance(content,list):
+            path.mkdir(parents=True, exist_ok=True)
+            for i,page in enumerate(content,1):
+                with open(f"{path}/{i}.json", 'w', encoding='utf-8') as f:
+                    json.dump(page, f, indent=4, ensure_ascii=False)
+            continue
+
+        raise Exception()
 
 def get_groupnames():
     yield 'treatment'
@@ -130,8 +151,8 @@ def shuffle(items):
     # Therefore, I've commented it out so that
     # git diffs are don't make it look like
     # something changed when nothing did. The
-    # misleading git diffs don't cause problems. 
-    # They simply make it a little harder to  
+    # misleading git diffs don't cause problems.
+    # They simply make it a little harder to
     # see which changes are reall differences and
     # which are just due to randomness but don't
     # fundamentally change anything.

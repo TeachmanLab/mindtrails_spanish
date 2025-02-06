@@ -3,19 +3,65 @@ import shutil
 import json
 
 from collections import defaultdict
-from itertools import islice, cycle
+from itertools import islice, cycle, chain
 from pathlib import Path
 
-from helpers_pages import create_discrimination_page, create_scenario_pages, create_survey_page,create_resource_page, create_long_pages, create_write_your_own_page
-from helpers_utilities import get_resources, get_ER, get_tips, clean_up_unicode, has_value, create_puzzle, dir_safe, shuffle
+from helpers_pages import create_discrimination_page, create_scenario_pages, create_survey_page,create_resource_page
+from helpers_pages import create_long_pages, create_write_your_own_page, create_video_page
+from helpers_utilities import get_resources, get_ER, get_tips, clean_up_unicode, has_value, create_puzzle, dir_safe, shuffle, write_output
 
 dir_root = "./make"
-dir_csv   = f"{dir_root}/CSV"
-dir_out   = f"{dir_root}/~out"
-dir_flows = f"{dir_out}/treatment"
-dir_doses = f"{dir_flows}/doses"
+dir_csv    = f"{dir_root}/CSV"
+dir_out    = f"{dir_root}/~out"
+dir_flows  = f"{dir_out}/treatment"
+dir_doses  = f"{dir_flows}/doses"
+dir_before = f"{dir_doses}/__before__"
+dir_after  = f"{dir_doses}/__after__"
+dir_after  = f"{dir_doses}/__first__"
 
 Path(dir_out).mkdir(parents=True,exist_ok=True)
+
+def flat(dictionary):
+    return list(chain.from_iterable(dictionary.values()))
+
+def _create_practice_pages():
+    with open(f"{dir_csv}/Spanish_dose1_scenarios.csv", "r", encoding="utf-8") as dose1_read_obj:  # scenarios for first dose in file
+        dose1_scenario_num = 0
+        for row_1 in islice(csv.reader(dose1_read_obj),1,None):
+
+            # First, add the video that goes before each scenario
+            yield create_video_page(dose1_scenario_num+1)
+
+            domain, label = row_1[0].strip(), row_1[3]
+            puzzle1,puzzle2 = map(create_puzzle,row_1[4:6])
+            question, choices, answer = row_1[6], row_1[7:9], row_1[7]
+
+            shuffle(choices)
+
+            # Create scenario page group for the practice
+            yield from create_scenario_pages(domain=domain, label=label, scenario_num=dose1_scenario_num,
+                                                    puzzle_text_1=puzzle1[0], word_1=puzzle1[1],
+                                                    comp_question=question, answers=choices,
+                                                    correct_answer=answer, word_2=puzzle2[1],
+                                                    puzzle_text_2=puzzle2[0], unique_image=False,
+                                                    row_num=dose1_scenario_num)
+
+            if dose1_scenario_num == 0:
+                make_it_your_own_text =  "Queremos que MindTrails Español satisfaga sus necesidades. Cuando complete " \
+                                            "sesiones de capacitación en la aplicación o buscar recursos en " \
+                                            "biblioteca de recursos bajo demanda, verá un botón que parece " \
+                                            "como una estrella en la esquina superior derecha de la pantalla. Por " \
+                                            "haciendo clic en la estrella, puedes agregar la información que más te parezca " \
+                                            "útil (por ejemplo, historias cortas, consejos para controlar el estrés) para su " \
+                                            "propia página personal de Favoritos. Luego podrás volver a visitar tu favorito " \
+                                            "partes de la aplicación cuando quieras eligiendo Favoritos " \
+                                            "¡mosaico de la página de inicio de MindTrails Español!"  # changed
+
+                page = create_survey_page(text=make_it_your_own_text, title="¡Hazlo tuyo!")  # changed
+
+                yield page
+
+            dose1_scenario_num += 1
 
 def _create_survey_page(row):
     text = clean_up_unicode(row[4])
@@ -64,7 +110,6 @@ def create_long_doses(i):
     long_doses = defaultdict(list)
 
     with open(f"{dir_csv}/Spanish_Long_Scenarios.csv", "r",encoding="utf-8") as read_file:
-        i = groups[group_name][1]  # 4  # changed
         for row in islice(csv.reader(read_file),2,None):
 
             if not row: continue # Skip empty lines
@@ -94,7 +139,7 @@ def create_long_doses(i):
     # participants. Also, shuffling now makes github
     # commits show diffs where nothing really changed.
     # This isn't a problem, it just makes it a little
-    # harder to make sure you didn't introduce an 
+    # harder to make sure you didn't introduce an
     # unintentional change.
     # ----------------------------------------------
     # shuffle each list of long scenario page groups
@@ -165,15 +210,21 @@ def create_surveys():
     # The keys in this dictionary correspond to the HTC_survey_questions.csv lookup codes ([Subject]_[Doses])
     # You can see all the lookup codes and their meanings below:
     # https://docs.google.com/spreadsheets/d/1Z_syG-HbyFT2oqMsHnAbidRtlH97IVxnBqbNKZWbwLY/edit#gid=0
-    surveys = { "BeforeDomain_All": defaultdict(list), "AfterDomain_All": defaultdict(list) }
+    surveys = { "BeforeDomain_All": defaultdict(list), "AfterDomain_All": defaultdict(list), "Dose_1": defaultdict(list), "Control_Dose_1": defaultdict(list) }
 
     # Open the file with all the content
     with open(f"{dir_csv}/MTSpanish_survey_questions.csv", "r", encoding="utf-8") as read_obj:
         for row in islice(csv.reader(read_obj),1,None):
             lookup_id = f"{row[3]}_{row[2]}"
             subgroup_id = row[0]
+
             if lookup_id not in surveys: continue
-            if row[2]: surveys[lookup_id][subgroup_id].append(_create_survey_page(row))
+
+            elif row[0] == "Práctica CBM-I":
+                surveys[lookup_id][subgroup_id].extend(_create_practice_pages())
+            elif row[2]:
+                surveys[lookup_id][subgroup_id].append(_create_survey_page(row))
+
     return surveys
 
 def create_write_your_own_dose():
@@ -195,15 +246,15 @@ def create_resource_dose_creator():
 
     return lambda domain: [create_resource_page(resources, tips, ER_lookup, domain)]
 
-def create_discrimination_dose(group_name):
+def create_discrimination_dose(pop):
     pages = []
     with open(f"{dir_csv}/Discrimination.csv", "r", encoding="utf-8") as f:
         for row in islice(csv.reader(f),1,None):
-            title, input_1, participant_group, input_name = row[0], row[2], row[3], row[15]
-            items, conditions = clean_up_unicode(row[7]).split("; "), row[14].split('; ')
+            title, input_1, population, input_name = row[0], row[2], row[3], row[15]
+            items, conditions = row[7], row[14].split('; ')
             text = f'Vaya a la libreria de recursos disponibles los enlaces a estos recursos.\n\n{clean_up_unicode(row[1])}' #changed
 
-            if group_name not in participant_group: continue  # checking if it corresponds to the group we're dealing with
+            if pop not in population: continue  # checking if it corresponds to the group we're dealing with
 
             pages.append(create_discrimination_page(conditions=conditions,
                                                     text=text,
@@ -212,24 +263,23 @@ def create_discrimination_dose(group_name):
                                                     input_name=input_name,
                                                     title=title))
 
-            return pages
+    return pages
 
-groups = { "Español": [4, 4] }
+populations = [ ["Español", 4, 4] ]
 
-for group_name, group in groups.items():
+for pop,s,l in populations:
 
     surveys      = create_surveys()
-    short_doses  = create_short_doses(group[0])             # dict of doses by domain
-    long_doses   = create_long_doses(group[1])              # dict of dose cycle by domain
-    wyo_dose     = create_write_your_own_dose()             # one dose used over and over again
-    resources    = create_resource_dose_creator()           # lambda that takes a domain and returns a dose
-    discrim_dose = create_discrimination_dose(group_name)   # one dose used over and over again
+    short_doses  = create_short_doses(s)             # dict of doses by domain
+    long_doses   = create_long_doses(l)              # dict of dose cycle by domain
+    wyo_dose     = create_write_your_own_dose()      # one dose used over and over again
+    resources    = create_resource_dose_creator()    # lambda that takes a domain and returns a dose
+    discrim_dose = create_discrimination_dose(pop)   # one dose used over and over again
 
     domains      = short_doses.keys()
     domain_doses = defaultdict(list)
-    domain_doses["Discrimination"].append(discrim_dose)
 
-    # Read dose content
+    # Create doses
     for domain in domains:
         dose_count = 1
         for short_dose in short_doses[domain]:
@@ -251,26 +301,21 @@ for group_name, group in groups.items():
 
             dose_count += 1
 
-    shutil.rmtree(dir_doses,ignore_errors=True)
-
-    # Write dose files
+    # Define folders
+    folders = {}
+    folders['control/sessions/__intro__'] = flat(surveys["Control_Dose_1"])
+    folders['treatment/sessions/__flow__.json'] = {"mode":"select", "text": domain_selection_text(), "title":"MindTrails Español"}
+    folders['treatment/sessions/__first__'] = flat(surveys["Dose_1"])
+    folders['treatment/sessions/__before__'] = flat(surveys["BeforeDomain_All"])
+    folders['treatment/sessions/__after__'] = flat(surveys["AfterDomain_All"])
+    folders['treatment/sessions/Discriminación'] = discrim_dose
     for domain, doses in domain_doses.items():
-        dir_domain = f"{dir_doses}/{dir_safe(domain)}"
-        Path(dir_domain).mkdir(parents=True)
+        for i, dose in enumerate(doses,1):
+            folders[f'treatment/sessions/{dir_safe(domain)}/{i}'] = dose
 
-        for i,dose in enumerate(doses,1):
-            dir_dose = f"{dir_domain}/{i}"
-            Path(dir_dose).mkdir(parents=True)
+    # Delete old JSON
+    shutil.rmtree(f"{dir_out}/control/sessions",ignore_errors=True)
+    shutil.rmtree(f"{dir_out}/treatment/sessions",ignore_errors=True)
 
-            for j,page in enumerate(dose,1):
-                with open(f"{dir_dose}/{j}.json", 'w+', encoding='utf-8') as outfile:
-                    json.dump(page, outfile, indent=4, ensure_ascii=False)
-
-    #Configure flows guides
-    with open(f"{dir_doses}/__flow__.json", 'w+', encoding='utf-8') as outfile:
-        json.dump({"mode":"select", "text":domain_selection_text(), "title":"MindTrails Español"}, outfile, indent=4, ensure_ascii=False)
-
-    for domain, doses in domain_doses.items():
-        dir_domain = f"{dir_doses}/{dir_safe(domain)}"
-        with open(f"{dir_domain}/__flow__.json", 'w+', encoding='utf-8') as outfile:
-            json.dump({"mode":"sequential", "size":1, "repeat":True}, outfile, indent=4, ensure_ascii=False)
+    # Write new JSON
+    write_output(dir_out, folders)
