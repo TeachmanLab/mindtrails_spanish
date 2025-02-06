@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "\n¿Eran amables las personas del grupo?"
+            "Text": "\r\n¿Eran amables las personas del grupo?"
         },
         {
             "type": "Buttons",

@@ -1,0 +1,19 @@
+{
+    "header_text": "Registro posterior a la sesión",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Con el programa, puedo manejar mis sentimientos actuales...\n\n1 = Nada efectivo\n\n7 = Muy efectivamente"
+        },
+        {
+            "type": "Slider",
+            "min": "1",
+            "max": "7",
+            "others": [
+                "^Prefiero no responder"
+            ],
+            "name": "post-EMA-3"
+        }
+    ]
+}

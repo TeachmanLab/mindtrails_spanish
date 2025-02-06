@@ -1,0 +1,19 @@
+{
+    "header_text": "Registro posterior a la sesión",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "El programa me ayudó a pensar en una situación estresante o perturbadora de una manera nueva o diferente\n\n1 = Para nada cierto\n\n7 = Muy cierto"
+        },
+        {
+            "type": "Slider",
+            "min": "1",
+            "max": "7",
+            "others": [
+                "^Prefiero no responder"
+            ],
+            "name": "post-EMA-2"
+        }
+    ]
+}
