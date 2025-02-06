@@ -50,7 +50,7 @@
 			{
 				"text": "<INTRO>",
 				"icon": "/assets/menu_mindtrails.png",
-				"action": "flow://flows/intro"
+				"action": "flow://flows/sessions/__first__"
 			},
 			{
 				"text": "Instrucciones",
@@ -89,7 +89,7 @@
 			}
 		]
 	},
-	"sessions": "flow://flows/doses",
+	"sessions": "flow://flows/sessions",
 	"triggers": [
 		{
 			"type": "timing",
