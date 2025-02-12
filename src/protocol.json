@@ -93,18 +93,17 @@
 	"triggers": [
 		{
 			"type": "timing",
-			"action": "notification",
-			"content": "flow://flows/eod",
 			"frequency": "1",
 			"time": "20:00"
+			"action": "notification",
+			"content": "flow://flows/eod",
 		},
 		{
 			"type": "timing",
-			"action": "notification",
-			"content": "flow://flows/biweekly",
 			"frequency": "14",
 			"time": "20:00",
-			"requires": ["sessions"]
+			"action": "notification",
+			"content": "flow://flows/biweekly",
 		}
 	]
 }
