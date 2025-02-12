@@ -93,14 +93,14 @@
 	"triggers": [
 		{
 			"type": "timing",
-			"action": "survey",
+			"action": "notification",
 			"content": "flow://flows/eod",
 			"frequency": "1",
 			"time": "20:00"
 		},
 		{
 			"type": "timing",
-			"action": "survey",
+			"action": "notification",
 			"content": "flow://flows/biweekly",
 			"frequency": "14",
 			"time": "20:00",
