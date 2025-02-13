@@ -134,17 +134,8 @@ def create_long_doses(i):
                 # if it also belongs to a second domain, add the page group to that list
                 if domain_2: long_doses[domain_2].append(dose)
 
-    # Shuffling here doesn't really make sense anymore
-    # since there is only one protocol shared by all
-    # participants. Also, shuffling now makes github
-    # commits show diffs where nothing really changed.
-    # This isn't a problem, it just makes it a little
-    # harder to make sure you didn't introduce an
-    # unintentional change.
-    # ----------------------------------------------
     # shuffle each list of long scenario page groups
-    # for domain in long_doses:
-    #     shuffle(long_doses[domain])
+    for domain in long_doses: shuffle(long_doses[domain])
 
     return {k:iter(cycle(v)) for k,v in long_doses.items()}
 

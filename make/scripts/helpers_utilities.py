@@ -154,6 +154,4 @@ def create_puzzle(scenario):
     return puzzle_text, puzzle_word
 
 def shuffle(items):
-
-    #-------------------------------------------
     rng.shuffle(items)
