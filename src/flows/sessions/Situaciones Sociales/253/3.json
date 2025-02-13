@@ -14,8 +14,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Estén de acuerdo en que tomar café es una buena idea.",
-                "Rechacen cortésmente tu invitación."
+                "Rechacen cortésmente tu invitación.",
+                "Estén de acuerdo en que tomar café es una buena idea."
             ],
             "columnCount": 1,
             "correct_value": "Estén de acuerdo en que tomar café es una buena idea."

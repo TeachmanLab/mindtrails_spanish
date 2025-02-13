@@ -14,8 +14,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Di que sí si sugieres volver a reunirnos",
-                "Di no si sugieres volver a reunirnos."
+                "Di no si sugieres volver a reunirnos.",
+                "Di que sí si sugieres volver a reunirnos"
             ],
             "columnCount": 1,
             "correct_value": "Di que sí si sugieres volver a reunirnos"

@@ -14,8 +14,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "\"No creo que esto esté funcionanado.\"",
-                "\"Estoy muy contento de que podamos hacer esto juntos.\""
+                "\"Estoy muy contento de que podamos hacer esto juntos.\"",
+                "\"No creo que esto esté funcionanado.\""
             ],
             "columnCount": 1,
             "correct_value": "\"No creo que esto esté funcionanado.\""
