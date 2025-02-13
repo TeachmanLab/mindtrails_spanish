@@ -4,6 +4,17 @@ import json
 from pathlib import Path
 from itertools import islice
 
+import numpy as np
+
+# leaving this seed unchanged means
+# that huge diff won't be generated
+# every time the output of these
+# scripts is deployed. This state 
+# needs to be global in order for 
+# participants to experience the
+# order of answers as random.
+rng = np.random.RandomState(1)
+
 def write_output(dir_out, structure):
     for path, content in structure.items():
         path = Path(f"{dir_out}/{path}")
@@ -143,20 +154,6 @@ def create_puzzle(scenario):
     return puzzle_text, puzzle_word
 
 def shuffle(items):
-    # Shuffling doesn't really make as much
-    # sense as it used to because this random
-    # order will be identical for all participants
-    # so it isn't really shuffled as far as
-    # statistical inference is concerned.
-    # Therefore, I've commented it out so that
-    # git diffs are don't make it look like
-    # something changed when nothing did. The
-    # misleading git diffs don't cause problems.
-    # They simply make it a little harder to
-    # see which changes are reall differences and
-    # which are just due to randomness but don't
-    # fundamentally change anything.
+
     #-------------------------------------------
-    # import np
-    # np.random.shuffle(items)
-    pass
+    rng.shuffle(items)
