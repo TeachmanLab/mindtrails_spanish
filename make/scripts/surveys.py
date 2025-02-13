@@ -77,7 +77,7 @@ folders = {
     "treatment/biweekly/4": flat(survey_pages[("all","biweekly")]) + flat(survey_pages[("8","biweekly")]),
     "control/eod": flat(survey_pages[("all","eod")]),
     "control/reasons for ending": flat(survey_pages[("all","reasonsforending")]),
-    "treatment/biweekly/__flow__.json": {"mode":"sequential","size":1},
+    "control/biweekly/__flow__.json": {"mode":"sequential","size":1},
     "control/biweekly/1": flat(survey_pages[("2","biweekly_control")]),
     "control/biweekly/2": flat(survey_pages[("4","biweekly_control")]),
     "control/biweekly/3": flat(survey_pages[("6","biweekly_control")]),
