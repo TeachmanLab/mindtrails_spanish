@@ -65,7 +65,7 @@
 			{
 				"text": "Recursos",
 				"icon": "/assets/menu_resources.png",
-				"action": "flow://flows/resources.json"
+				"action": "flow://flows/resources"
 			},
 			{
 				"text": "F.A.Q.",
