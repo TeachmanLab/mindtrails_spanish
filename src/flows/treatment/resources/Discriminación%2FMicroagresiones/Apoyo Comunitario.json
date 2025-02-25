@@ -1,0 +1,11 @@
+{
+    "header_text": "Apoyo Comunitario",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "html": true,
+            "text": "<b><font color=\"#9769ED\" size=6>Mijente</font></b>\n               <br/><br/>Mijente ayuda a personas a fomentar cambios positivos a través de campañas, conectando a personas en su red, aprendizaje, y apoyo y defensa. Temas de interés son el género, raza/etnia, economía, y cambios ambientales.<br/><br/>\n               <a href=\"https://bit.ly/35Jg2qh\">https://bit.ly/35Jg2qh</a>"
+        }
+    ]
+}

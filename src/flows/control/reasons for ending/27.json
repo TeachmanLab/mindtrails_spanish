@@ -1,0 +1,23 @@
+{
+    "header_text": "Razones para terminar",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "La aplicación era demasiado difícil de entender."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "No",
+                "Levemente",
+                "Un poco",
+                "Principalmente",
+                "Muy",
+                "^Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "hard_to_understand"
+        }
+    ]
+}

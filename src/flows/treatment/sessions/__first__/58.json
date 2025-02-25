@@ -1,0 +1,22 @@
+{
+    "header_text": "El ruido fuerte",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "EL RUIDO FUERTE: Mientras bajas las escaleras...\n\nTienes miedo y te preocupa no poder controlar el miedo."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Muy diferente",
+                "Diferente",
+                "Similar",
+                "Muy similar",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "IBM_loud_interpretation_2"
+        }
+    ]
+}

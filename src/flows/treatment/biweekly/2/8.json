@@ -1,0 +1,22 @@
+{
+    "header_text": "Escala de estrés",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "En el último mes, ¿con qué frecuencia has sentido que no podías controlar las cosas importantes de su vida?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Nunca",
+                "Casi nunca",
+                "A veces",
+                "Bastante a menudo",
+                "Muy a menudo"
+            ],
+            "selectable": true,
+            "name": "biweekly_control"
+        }
+    ]
+}

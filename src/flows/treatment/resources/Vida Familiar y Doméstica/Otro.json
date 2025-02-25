@@ -1,0 +1,11 @@
+{
+    "header_text": "Otro",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "html": true,
+            "text": "<b><font color=\"#9769ED\" size=6>Dougy Center</font></b>\n               <br/><br/>Brinda información sobre el duelo y formas de encontrar grupos de apoyo locales, especialmente para niños, adolescentes y sus familias. La página ofrecida por el enlace tiene recursos en español, pero el idioma de todo el sitio también puede ser cambiado al español usando la barra en la parte superior de la página.<br/><br/>\n               <a href=\"https://bit.ly/dc_esp\">https://bit.ly/dc_esp</a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>Guías de autoayuda: ¿Cómo afrontar el duelo?</font></b>\n               <br/><br/>El duelo puede ser una experiencia difícil y estresante. Esta guía da información sobre el duelo y cómo apoyar a seres queridos, o incluso a uno mismo, a sobrellevarlo.<br/><br/>\n               <a href=\"https://bit.ly/ad_espr\">https://bit.ly/ad_espr</a>"
+        }
+    ]
+}

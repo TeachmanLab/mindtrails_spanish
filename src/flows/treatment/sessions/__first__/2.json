@@ -1,0 +1,23 @@
+{
+    "header_text": "Demografía",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Cuál es tu identidad de género?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Mujer",
+                "Hombre",
+                "Mujer transgénera",
+                "Hombre transgénero",
+                "!Otra identidad",
+                "^Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "gender"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "header_text": "Mal rumor",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Crees que tu supervisor podría ser ..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Mal rumor_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Planeando despedir a alguien más.",
+                "Planeando despedirte."
+            ],
+            "columnCount": 1,
+            "correct_value": "Planeando despedir a alguien más."
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "header_text": "Razones para terminar",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "En la medida en que hayas completado el programa..."
+        }
+    ]
+}

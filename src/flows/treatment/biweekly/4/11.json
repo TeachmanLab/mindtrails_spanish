@@ -1,0 +1,22 @@
+{
+    "header_text": "Escala de estrés",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "En el último mes, ¿con qué frecuencia has sentido que las dificultades se acumulaban tanto que no podías superarlas?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Nunca",
+                "Casi nunca",
+                "A veces",
+                "Bastante a menudo",
+                "Muy a menudo"
+            ],
+            "selectable": true,
+            "name": "biweekly_difficulties"
+        }
+    ]
+}

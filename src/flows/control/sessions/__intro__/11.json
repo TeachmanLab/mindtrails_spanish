@@ -1,0 +1,10 @@
+{
+    "header_text": "Cuestionario de tratamiento y salud mental",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Nos gustaría hacerle algunas preguntas sobre su salud mental y su historial de tratamiento. Las respuestas a estas preguntas personales se mantienen confidenciales, pero nos ayudan a mejorar MindTrails Espanol al descubrir para quién funciona bien."
+        }
+    ]
+}

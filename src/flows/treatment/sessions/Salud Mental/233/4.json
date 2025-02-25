@@ -1,0 +1,24 @@
+{
+    "header_text": "Nuevo estilo",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "¿Estás emocionado de usar tu conjunto nuevo para una fiesta?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Nuevo estilo_Salud Mental_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "Sí"
+        }
+    ]
+}

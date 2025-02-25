@@ -1,0 +1,22 @@
+{
+    "header_text": "El almuerzo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "EL ALMUERZO: Tu amigo te mira...\n\nY tú frunces el ceno porque olvidaste llevar agua al almuerzo."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Muy diferente",
+                "Diferente",
+                "Similar",
+                "Muy similar",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "IBM_lunch_interpretation_2"
+        }
+    ]
+}

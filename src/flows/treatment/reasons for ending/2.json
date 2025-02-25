@@ -1,0 +1,27 @@
+{
+    "header_text": "Razones para terminar",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Por qué decidiste terminar el programa? Por favor marque todos los que apliquen."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "No tuve tiempo suficiente para completar el programa",
+                "No encontré el programa útil para reducir mi ansiedad",
+                "No encontré el programa interesante",
+                "No creía que un programa como este pudiera funcionar",
+                "Encontré el programa frustrante de usar",
+                "Ya no necesitaba el programa (es decir, ya no me sentía ansioso)",
+                "Creo que me asignaron la condición de control (es decir, la condición que no se esperaba que cambiara la ansiedad)",
+                "Otro",
+                "^Prefiero no responder"
+            ],
+            "selectable": true,
+            "multi_select": true,
+            "name": "reasons_for_ending"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "header_text": "Salud Física y Ejecicio",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "html": true,
+            "text": "<b><font color=\"#9769ED\" size=6>División de Nutrición, Actividad Física y Obesidad (DNPAO) de los CDC</font></b>\n               <br/><br/>Ofrece información sobre actividad física, peso saludable, lactancia materna y nutrición para bebés y niños pequeños.<br/><br/>\n               <a href=\"https://www.cdc.gov/nutrition/infantandtoddlernutrition/resources_es.html\">https://www.cdc.gov/nutrition/infantandtoddlernutrition/resources_es.html</a>"
+        }
+    ]
+}

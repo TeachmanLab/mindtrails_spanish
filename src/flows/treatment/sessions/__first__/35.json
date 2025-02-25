@@ -1,0 +1,19 @@
+{
+    "header_text": "Conociendo a un amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Tu amigo se detuvo?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "selectable": true,
+            "name": "IBM_friend"
+        }
+    ]
+}

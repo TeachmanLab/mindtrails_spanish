@@ -1,0 +1,19 @@
+{
+    "header_text": "El ascensor",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Pensaste en la seguridad del ascensor?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "selectable": true,
+            "name": "IBM_elevator"
+        }
+    ]
+}

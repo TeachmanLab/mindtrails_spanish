@@ -1,0 +1,11 @@
+{
+    "header_text": "Otro",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "html": true,
+            "text": "<b><font color=\"#9769ED\" size=6>Cómo manejar la soledad después de un divorcio o una separación</font></b>\n               <br/><br/>Esta página brinda información para personas que buscan sobrellevar la soledad después de un divorcio o separación. Contiene preguntas frecuentes y consejos para mejorar la salud mental mientras la persona se adapta a su nueva circunstancia.<br/><br/>\n               <a href=\"https://bit.ly/div_es\">https://bit.ly/div_es</a>"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "header_text": "La recepción de la boda",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿El público se ríe cuando hablas?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "selectable": true,
+            "name": "IBM_wedding"
+        }
+    ]
+}

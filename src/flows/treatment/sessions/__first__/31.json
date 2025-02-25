@@ -1,0 +1,19 @@
+{
+    "header_text": "El trabajo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Te quedarás pronto sin ingresos?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "selectable": true,
+            "name": "IBM_job"
+        }
+    ]
+}

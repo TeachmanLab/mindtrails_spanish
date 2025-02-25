@@ -1,0 +1,24 @@
+{
+    "header_text": "Mensajes de texto honestos",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "¿Estás contento con tu respuesta?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Mensajes de texto honestos_Salud Mental_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "Sí"
+        }
+    ]
+}

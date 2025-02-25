@@ -1,0 +1,24 @@
+{
+    "header_text": "Usando algo viejo",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "¿El anfitrión de la fiesta piensa que te ves mal?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Usando algo viejo_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Sí"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ]
+}

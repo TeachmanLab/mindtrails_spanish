@@ -1,0 +1,24 @@
+{
+    "header_text": "Un golpe accidental",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Piensas que el dolor de cabeza es señal que..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Un golpe accidental_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Estás mejorando.",
+                "\nEstás seriamente lesionado."
+            ],
+            "columnCount": 1,
+            "correct_value": "\nEstás seriamente lesionado."
+        }
+    ]
+}

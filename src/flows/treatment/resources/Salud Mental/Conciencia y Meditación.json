@@ -1,0 +1,11 @@
+{
+    "header_text": "Conciencia y Meditación",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "html": true,
+            "text": "<b><font color=\"#9769ED\" size=6>Calma (Calm)</font></b>\n               <br/><br/>La aplicación Calm proporcionó esta página que ofrece estrategias de afrontamiento, momentos meditativos, y más para lidiar con el estrés solo y acompañado.<br/><br/>\n               <a href=\"http://bit.ly/calm_espr\">http://bit.ly/calm_espr</a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>54321 Ejercicio Calmante</font></b>\n               <br/><br/>El ejercicio calmante 54321 te guía a través de cinco pasos para encontrar la calma.<br/><br/>\n               <a href=\"https://bit.ly/tec_espr\">https://bit.ly/tec_espr</a>"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "header_text": "Razones para terminar",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Algunas personas tienen problemas al intentar utilizar una aplicación móvil. Lea las siguientes declaraciones y díganos qué problema tuvo al intentar utilizar la aplicación."
+        }
+    ]
+}

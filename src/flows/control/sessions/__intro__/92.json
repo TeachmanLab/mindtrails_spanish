@@ -1,0 +1,10 @@
+{
+    "header_text": "Próximos pasos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¡Gracias por responder nuestras preguntas! En dos semanas, recibirás una notificación de la aplicación que te recordará que debes completar el siguiente conjunto de encuestas. Mientras tanto, puede explorar la página de inicio para obtener más información sobre MindTrails Espanol y encontrar recursos relacionados con diferentes áreas que pueden causar estrés. ¿Tiene alguna pregunta para nosotros? ¡Póngase en contacto con el equipo en mindtrailsespanol@gmail.com! Estaremos encantados de programar una llamada de Zoom para abordar cualquier pregunta o inquietud que pueda tener."
+        }
+    ]
+}

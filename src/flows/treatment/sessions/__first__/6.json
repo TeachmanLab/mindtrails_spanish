@@ -1,0 +1,32 @@
+{
+    "header_text": "Demografía",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Cuál es tu máximo nivel educativo?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Escuela primaria",
+                "Secundaria",
+                "Algún instituto",
+                "Graduado de preparatoria",
+                "Alguna educación superior",
+                "Grado asociado",
+                "Licenciatura",
+                "Alguna escuela de posgrado",
+                "Maestría",
+                "MBA",
+                "JD",
+                "MD.",
+                "Doctor",
+                "Otros Títulos Avanzados",
+                "^Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "education"
+        }
+    ]
+}

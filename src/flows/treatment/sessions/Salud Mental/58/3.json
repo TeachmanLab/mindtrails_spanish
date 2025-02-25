@@ -1,0 +1,24 @@
+{
+    "header_text": "Lograr tus objetivos",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Crees que probablemente tu..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Lograr tus objetivos_Salud Mental_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Consigas el trabajo y avanza aún más en tu carrera.",
+                "No terminaras cumpliendo tus sueños y sentirte decepcionado de dónde terminas."
+            ],
+            "columnCount": 1,
+            "correct_value": "No terminaras cumpliendo tus sueños y sentirte decepcionado de dónde terminas."
+        }
+    ]
+}

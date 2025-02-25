@@ -1,0 +1,27 @@
+{
+    "header_text": "Razones para terminar",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Durante este programa, ¿cambió alguna dosis de medicamento, terapia u otra intervención para ayudar a su salud mental? Por favor marque todos los que apliquen."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Busco más terapia presencial ahora",
+                "Ahora busco menos terapia en persona",
+                "Ahora uso más medicamentos recetados",
+                "Ahora uso menos medicamentos recetados",
+                "Ahora uso más programas informáticos en línea o aplicaciones móviles (aparte de MindTrails Espanol)",
+                "Ahora uso menos programas informáticos en línea o aplicaciones móviles (aparte de MindTrails Espanol)",
+                "Otro",
+                "^No cambié mis hábitos de intervención",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "multi_select": true,
+            "name": "change_mental_health"
+        }
+    ]
+}

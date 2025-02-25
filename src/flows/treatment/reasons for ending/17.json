@@ -1,0 +1,23 @@
+{
+    "header_text": "Razones para terminar",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Qué probabilidades hay de que recomiende MindTrails Espanol a otras personas con dificultades de ansiedad similares?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Nada",
+                "Levemente",
+                "Un poco",
+                "Principalmente",
+                "Muy",
+                "^Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "recommend"
+        }
+    ]
+}

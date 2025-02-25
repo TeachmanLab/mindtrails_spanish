@@ -1,0 +1,24 @@
+{
+    "header_text": "Estrés en tu relación",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Pensando en tu futuro con tu pareja, te imaginas..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Estrés en tu relación_Relaciones Románticas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Principalmente cooperando.",
+                "Discutiendo más."
+            ],
+            "columnCount": 1,
+            "correct_value": "Discutiendo más."
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "header_text": "Miedo de la decepción",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "¿Está bien tomar una decisión diferente a la que tomaría tu pareja?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Miedo de la decepción_Finanzas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "Sí"
+        }
+    ]
+}

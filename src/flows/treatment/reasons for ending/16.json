@@ -1,0 +1,23 @@
+{
+    "header_text": "Razones para terminar",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Qué tan útiles te parecieron las estrategias y consejos proporcionados por la aplicación?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Nada",
+                "Levemente",
+                "Un poco",
+                "Principalmente",
+                "Muy",
+                "^Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "tips_use"
+        }
+    ]
+}

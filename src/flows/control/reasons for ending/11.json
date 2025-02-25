@@ -1,0 +1,23 @@
+{
+    "header_text": "Razones para terminar",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Qué tan útil te pareció la encuesta nocturna que te permitió elegir cuándo completar el entrenamiento al día siguiente?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Nada",
+                "Levemente",
+                "Un poco",
+                "Principalmente",
+                "Muy",
+                "^Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "nightly_survey_use"
+        }
+    ]
+}

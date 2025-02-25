@@ -1,0 +1,22 @@
+{
+    "header_text": "Escala de tristeza",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Durante las últimas 2 semanas, ¿con qué frecuencia le han molestado alguno de los siguientes problemas?\n\nPoco interés o placer en hacer cosas."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "No",
+                "Varios dias",
+                "Más de la mitad de los días",
+                "Casi todos los dias",
+                "^Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "OASIS_little_interest"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "header_text": "Razones para terminar",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Cuánto te gustó el aspecto de MindTrails Espanol?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Nada",
+                "Levemente",
+                "Un poco",
+                "Principalmente",
+                "Muy",
+                "^Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "UI"
+        }
+    ]
+}

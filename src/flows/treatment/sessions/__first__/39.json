@@ -1,0 +1,19 @@
+{
+    "header_text": "El raspado",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Estás jugando fútbol con tu amigo?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "selectable": true,
+            "name": "IBM_scrape"
+        }
+    ]
+}

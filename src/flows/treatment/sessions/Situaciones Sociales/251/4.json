@@ -1,0 +1,24 @@
+{
+    "header_text": "Tu mejor amigo",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "¿Esperas que tu mejor amigo te apoye durante eventos importantes de la vida?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Tu mejor amigo_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "Sí"
+        }
+    ]
+}

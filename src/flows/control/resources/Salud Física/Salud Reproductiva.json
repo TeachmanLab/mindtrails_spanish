@@ -1,0 +1,11 @@
+{
+    "header_text": "Salud Reproductiva",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "html": true,
+            "text": "<b><font color=\"#9769ED\" size=6>Planned Parenthood</font></b>\n               <br/><br/>Brinda atención a la salud reproductiva, educación sexual e información a adultos y jóvenes.<br/><br/>\n               <a href=\"https://bit.ly/3j2qe56\">https://bit.ly/3j2qe56</a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>Línea de Apoyo de All Options</font></b>\n               <br/><br/>All Options es una organización que apoya a las personas embarazadas mientras deciden qué opción es mejor para su situación (por ejemplo, aborto, mantener el embarazo, etc.). La línea de ayuda tiene voluntarios bilingües que hablan español, aunque el sitio aún no es completamente bilingüe. Llama al 1-888-493-0092 o haz clic en el enlace para obtener más información.<br/><br/>\n               <a href=\"https://bit.ly/ao_espr\">https://bit.ly/ao_espr</a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>Consejos Para Madres Embarazadas</font></b>\n               <br/><br/>Este PDF ofrece información para madres embarazadas y describe cosas importantes que necesitan saber para un embarazo saludable.<br/><br/>\n               <a href=\"https://bit.ly/3j2TNDL\">https://bit.ly/3j2TNDL</a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>Guía de Métodos Anticonceptivos por el FDA</font></b>\n               <br/><br/>Guía de métodos anticonceptivos proporcionada por el FDA que compara todo tipo de anticonceptivos.<br/><br/>\n               <a href=\"https://www.fda.gov/media/150300/download\">https://www.fda.gov/media/150300/download</a>"
+        }
+    ]
+}
