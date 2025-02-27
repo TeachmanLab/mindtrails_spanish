@@ -4,7 +4,7 @@
 	"home": {
 		"title": "MindTrails",
 		"banner_text_1": "Comprende tu pensamiento.",
-		"banner_text_2": "Baja la ansiedad",
+		"banner_text_2": "Baja la ansiedad.",
 		"banner_icon": "/assets/home_banner.png",
 		"button_tl": {
 			"text": "¿Qué es MindTrails Español?",
@@ -29,7 +29,7 @@
 	},
 	"menu": {
 		"home": {
-			"text": "Inicio",
+			"text": "Home",
 			"icon": "/assets/menu_home.png"
 		},
 		"unenroll": {
