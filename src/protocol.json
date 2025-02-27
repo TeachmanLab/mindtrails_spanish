@@ -3,8 +3,8 @@
 	"icon": "/assets/home_mindtrails.png",
 	"home": {
 		"title": "MindTrails",
-		"banner_text_1": "Comprende tu pensamiento.",
-		"banner_text_2": "Baja la ansiedad.",
+		"banner_text_1": "Understand Your Thinking.",
+		"banner_text_2": "Feel Less Anxious.",
 		"banner_icon": "/assets/home_banner.png",
 		"button_tl": {
 			"text": "¿Qué es MindTrails Español?",
@@ -33,12 +33,12 @@
 			"icon": "/assets/menu_home.png"
 		},
 		"unenroll": {
-			"text": "Desenrollar",
+			"text": "Unenroll",
 			"icon": "/assets/menu_unenroll.png",
 			"action": "flow://flows/reasons for ending"
 		},
 		"log_out": {
-			"text": "Finalizar la sesión",
+			"text": "Log Out",
 			"icon": "/assets/menu_logout.png"
 		},
 		"custom": [
@@ -68,22 +68,22 @@
 				"action": "flow://flows/resources"
 			},
 			{
-				"text": "Preguntas frecuentes",
+				"text": "F.A.Q.",
 				"icon": "/assets/menu_faq.png",
 				"action": "flow://flows/faq.json"
 			},
 			{
-				"text": "Conoce al equipo",
+				"text": "Meet the Team",
 				"icon": "/assets/menu_team.png",
 				"action": "https://ert6g2.wixsite.com/hoosthinkcalmly/contact-the-team"
 			},
 			{
-				"text": "Ayuda",
+				"text": "Get Help",
 				"icon": "/assets/menu_help.png",
 				"action": "https://ert6g2.wixsite.com/hoosthinkcalmly/general-8"
 			},
 			{
-				"text": "Descargo de responsabilidad",
+				"text": "Disclaimer",
 				"icon": "/assets/menu_disclaimer.png",
 				"action": "flow://flows/disclaimer.json"
 			}
