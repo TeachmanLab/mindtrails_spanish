@@ -20,7 +20,7 @@
 		"button_br": {
 			"text": "Recursos",
 			"icon": "/assets/home_resources.png",
-			"action": "page://flows/resources"
+			"action": "page://flows/treatment/resources"
 		},
 		"button_bl": {
 			"text": "¿Qué es la Ansiedad?",
@@ -33,7 +33,7 @@
 		"unenroll": {
 			"text": "Unenroll",
 			"icon": "/assets/menu_unenroll.png",
-			"action": "flow://flows/reasons for ending"
+			"action": "flow://flows/treatment/reasons for ending"
 		},
 		"custom": [
 			{
@@ -44,7 +44,7 @@
 			{
 				"text": "<INTRO>",
 				"icon": "/assets/menu_mindtrails.png",
-				"action": "flow://flows/intro"
+				"action": "flow://flows/treatment/intro"
 			},
 			{
 				"text": "Instrucciones",
@@ -59,7 +59,7 @@
 			{
 				"text": "Recursos",
 				"icon": "/assets/menu_resources.png",
-				"action": "flow://flows/resources"
+				"action": "flow://flows/treatment/resources"
 			},
 			{
 				"text": "F.A.Q.",
@@ -84,7 +84,7 @@
 		]
 	},
 
-	"sessions": "flow://flows/sessions",
+	"sessions": "flow://flows/treatment/sessions",
 
 	"triggers": [
 		{
@@ -92,14 +92,14 @@
 			"frequency": "1",
 			"time": "20:00",
 			"action": "notification",
-			"content": "flow://flows/eod"
+			"content": "flow://flows/treatment/eod"
 		},
 		{
 			"type": "timing",
 			"frequency": "14",
 			"time": "20:00",
 			"action": "notification",
-			"content": "flow://flows/biweekly"
+			"content": "flow://flows/treatment/biweekly"
 		}
 	]
 }
