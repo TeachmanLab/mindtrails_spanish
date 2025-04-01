@@ -41,7 +41,7 @@
 		}
 	},
 	
-	"settings"{
+	"settings": {
 		"unenroll": "flow://flows/treatment/reasons for ending"
 	},
 
