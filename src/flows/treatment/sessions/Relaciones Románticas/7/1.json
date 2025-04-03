@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Cita_con_alguien_nuevo.jpg"
+            "url": "./images/Cita_con_alguien_nuevo.jpg"
         }
     ]
 }

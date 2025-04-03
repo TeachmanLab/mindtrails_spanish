@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Tu_propio_estilo.jpg"
+            "url": "./images/Tu_propio_estilo.jpg"
         }
     ]
 }

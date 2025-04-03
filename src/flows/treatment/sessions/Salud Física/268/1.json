@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Boca_seca.jpg"
+            "url": "./images/Boca_seca.jpg"
         }
     ]
 }

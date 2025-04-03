@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Planes_de_descanso.jpg"
+            "url": "./images/Planes_de_descanso.jpg"
         }
     ]
 }

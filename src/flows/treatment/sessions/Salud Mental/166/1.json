@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Sentirse_mareado.jpg"
+            "url": "./images/Sentirse_mareado.jpg"
         }
     ]
 }

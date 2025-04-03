@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Broma_interna.jpg"
+            "url": "./images/Broma_interna.jpg"
         }
     ]
 }

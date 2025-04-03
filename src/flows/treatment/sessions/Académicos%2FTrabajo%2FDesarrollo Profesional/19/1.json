@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Rendimiento_deficiente.jpg"
+            "url": "./images/Rendimiento_deficiente.jpg"
         }
     ]
 }

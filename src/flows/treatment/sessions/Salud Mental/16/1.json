@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Recuerdo_conduciendo.jpg"
+            "url": "./images/Recuerdo_conduciendo.jpg"
         }
     ]
 }

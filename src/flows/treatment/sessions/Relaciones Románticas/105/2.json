@@ -1,12 +1,21 @@
 {
-    "header_text": "¡Escribe El Tuyo!",
-    "header_icon": [
-        "assets/subtitle.png"
-    ],
+    "header_text": "Tu apariencia",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensa en una situación que te genera ansiedad y que te haya ocurrido en el pasado, o que te preocupa que suceda en el futuro. Escribe tu propia historia de entrenamiento basada en esta situación, asegurándote de incluir un final positivo o no amenazante en la oración final de la historia."
+            "text": "Estás yendo a una cita con tu pareja. Te miras en el espejo antes de salir y te preguntas si les gustará tu apariencia. Te das cuenta de que la única opinión que importa sobre tu apariencia es la..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Tu apariencia_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "words": [
+                "tuya"
+            ],
+            "missing_letter_count": 1
         }
     ]
 }

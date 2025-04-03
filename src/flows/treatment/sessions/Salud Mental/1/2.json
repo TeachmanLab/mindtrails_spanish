@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Planes_de_viajar.jpg"
+            "url": "./images/Planes_de_viajar.jpg"
         }
     ]
 }

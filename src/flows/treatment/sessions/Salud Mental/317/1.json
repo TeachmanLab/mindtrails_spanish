@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Clima_lluvioso.jpg"
+            "url": "./images/Clima_lluvioso.jpg"
         }
     ]
 }

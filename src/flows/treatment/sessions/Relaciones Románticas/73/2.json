@@ -1,14 +1,14 @@
 {
-    "header_text": "Invitando a alguien a salir",
+    "header_text": "Comparándote con otros",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en un largo viaje en tren y realmente conectas con una persona atractiva que está sentada a tu lado. A medida que el viaje termina, piensas en lo mucho que te gustaría volver a ver a esta persona, pero te preocupa que puedas parecer demasiado..."
+            "text": "Recientemente, tu pareja mencionó que encuentran atractiva a cierta celebridad. Esta celebridad no se parece en nada a ti, y te preguntas si tu pareja ha cambiado sus preferencias desde el comienzo de su relación. Piensas que aún se sienten atraída a..."
         },
         {
             "type": "Entry",
-            "name": "Invitando a alguien a salir_Relaciones Románticas_entry1"
+            "name": "Comparándote con otros_Relaciones Románticas_entry1"
         }
     ]
 }

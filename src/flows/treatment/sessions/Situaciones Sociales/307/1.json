@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/situación_de_embriaguez.jpg"
+            "url": "./images/situación_de_embriaguez.jpg"
         }
     ]
 }

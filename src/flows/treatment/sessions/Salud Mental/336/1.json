@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Un_comentario_grosero.jpg"
+            "url": "./images/Un_comentario_grosero.jpg"
         }
     ]
 }

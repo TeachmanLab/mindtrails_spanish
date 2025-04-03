@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Malentendido.jpg"
+            "url": "./images/Malentendido.jpg"
         }
     ]
 }

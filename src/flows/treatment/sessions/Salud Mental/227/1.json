@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Larga_caminata_afuera.jpg"
+            "url": "./images/Larga_caminata_afuera.jpg"
         }
     ]
 }

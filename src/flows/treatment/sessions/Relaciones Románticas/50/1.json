@@ -1,14 +1,14 @@
 {
-    "header_text": "Presencia en redes sociales",
+    "header_text": "Encontrandote con alguien",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Presencia en redes sociales"
+            "text": "Encontrandote con alguien"
         },
         {
             "type": "Media",
-            "url": "/images/Presencia_en_redes_sociales.jpg"
+            "url": "./images/Encontrandote_con_alguien.jpg"
         }
     ]
 }

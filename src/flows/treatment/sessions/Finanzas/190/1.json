@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Salir_a_almorzar.jpg"
+            "url": "./images/Salir_a_almorzar.jpg"
         }
     ]
 }

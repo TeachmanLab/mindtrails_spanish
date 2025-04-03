@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Palabra_tropiezo.jpg"
+            "url": "./images/Palabra_tropiezo.jpg"
         }
     ]
 }

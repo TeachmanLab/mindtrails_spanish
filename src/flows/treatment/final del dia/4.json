@@ -1,0 +1,18 @@
+{
+    "header_text": "Encuesta nocturna",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Le animamos a completar 2 programas cortos de MindTrails Espanol manana. Pensando en tu día manana, ¿hay momentos específicos en los que te gustaría recibir una notificación para completar un programa de ~5 minutos para ayudar a manejar una situación estresante o perturbadora?"
+        },
+        {
+            "type": "Scheduler",
+            "days_ahead": 1,
+            "flow": "flow://flows/sessions",
+            "count": 2,
+            "message": "¡Es hora de practicar el pensamiento flexible! Dirígete a MindTrails Español para tu sesión programada.",
+            "name": "schedule_session"
+        }
+    ]
+}

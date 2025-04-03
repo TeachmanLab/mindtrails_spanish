@@ -1,11 +1,15 @@
 {
-    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "Si nota que no se siente bien, recuerde que hay una variedad de razones de bajo riesgo por las cuales podría sentirse así (por ejemplo, puede estar cansado, puede haber comido algo malo, etc.)."
+            "text": "Piensas en algo que te causó ansiedad la primera vez que lo hiciste. ¿Qué estrategias te ayudaron a superar eso?"
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #1_entry"
         }
     ]
 }

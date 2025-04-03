@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Desordenado_para_vivir.jpg"
+            "url": "./images/Desordenado_para_vivir.jpg"
         }
     ]
 }

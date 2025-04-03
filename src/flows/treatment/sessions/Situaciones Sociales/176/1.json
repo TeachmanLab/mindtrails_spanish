@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Amigo_ruidoso.jpg"
+            "url": "./images/Amigo_ruidoso.jpg"
         }
     ]
 }

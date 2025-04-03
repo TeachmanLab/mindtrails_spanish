@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/La_nueva_ciudad.jpg"
+            "url": "./images/La_nueva_ciudad.jpg"
         }
     ]
 }

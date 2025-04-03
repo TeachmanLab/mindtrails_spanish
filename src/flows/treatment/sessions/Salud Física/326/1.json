@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Un_golpe_accidental.jpg"
+            "url": "./images/Un_golpe_accidental.jpg"
         }
     ]
 }

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Amigo_en_el_hospital.jpg"
+            "url": "./images/Amigo_en_el_hospital.jpg"
         }
     ]
 }

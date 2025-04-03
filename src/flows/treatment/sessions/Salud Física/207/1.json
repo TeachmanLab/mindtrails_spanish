@@ -1,11 +1,11 @@
 {
-    "header_text": "Recurso: Salud Física",
+    "header_text": "Maneja tus sentimientos: Salud Física",
     "header_icon": "assets/subtitle.png",
-    "name": "Partnership to End Addiction",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "Partnership to End Addiction\n\nProporciona información y apoyo para familias lidiando con problemas de jóvenes con abuso de sustancias.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "Es posible que en este momento sientas algo de dolor en tu cuerpo. Recuerde que el dolor fluye y refluye y que probablemente no será tan intenso para siempre."
         }
     ]
 }

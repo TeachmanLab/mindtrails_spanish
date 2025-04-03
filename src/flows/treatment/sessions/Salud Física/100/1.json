@@ -1,11 +1,11 @@
 {
-    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_text": "Recurso: Salud Física",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
+    "name": "Alcohólicos Anónimos",
     "elements": [
         {
             "type": "Text",
-            "text": "Establezca una hora/fecha en la que tomará una decisión sobre si necesita consultar a un médico (por ejemplo, si todavía me siento mal dentro de 3 días, programaré una cita)"
+            "text": "Alcohólicos Anónimos\n\nProporciona apoyo para personas que luchan contra el alcoholismo usando un programa de 12 pasos, incluyendo asistencia regular a reuniones en grupo.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

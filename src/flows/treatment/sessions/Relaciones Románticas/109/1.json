@@ -1,14 +1,14 @@
 {
-    "header_text": "Amigo de tu pareja",
+    "header_text": "La cita",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Amigo de tu pareja"
+            "text": "La cita"
         },
         {
             "type": "Media",
-            "url": "/images/Amigo_de_tu_pareja.jpg"
+            "url": "./images/La_cita.jpg"
         }
     ]
 }

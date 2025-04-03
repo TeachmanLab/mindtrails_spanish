@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Zambullirte.jpg"
+            "url": "./images/Zambullirte.jpg"
         }
     ]
 }

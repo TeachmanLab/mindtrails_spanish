@@ -1,11 +1,15 @@
 {
-    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "Intenta identificar los TEB en tu situación: ¿qué PENSAMIENTOS tienes? ¿Qué EMOCIONES estás sintiendo? ¿Qué COMPORTAMIENTOS estás realizando? Después de eso, piensa si puedes cambiar tus pensamientos o tu comportamiento para sentirte mejor."
+            "text": "Cuando te encuentras saltando al peor de los casos sin toda la información, ¿cualés son algunas cosas que podrías decirte a ti mismo? Piensas en algunas habilidades de las historias que has leído que podrían ser útiles para ti. "
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #4_entry"
         }
     ]
 }

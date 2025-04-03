@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Reconforto_sobre_la_vacunación.jpg"
+            "url": "./images/Reconforto_sobre_la_vacunación.jpg"
         }
     ]
 }

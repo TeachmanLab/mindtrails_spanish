@@ -1,14 +1,14 @@
 {
-    "header_text": "Ponerse ahí fuera",
+    "header_text": "Afecto desigual",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ponerse ahí fuera"
+            "text": "Afecto desigual"
         },
         {
             "type": "Media",
-            "url": "/images/Ponerse_ahí_fuera.jpg"
+            "url": "./images/Afecto_desigual.jpg"
         }
     ]
 }

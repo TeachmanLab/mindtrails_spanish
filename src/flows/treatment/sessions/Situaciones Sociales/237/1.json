@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Compañero_de_cuarto_ausente.jpg"
+            "url": "./images/Compañero_de_cuarto_ausente.jpg"
         }
     ]
 }

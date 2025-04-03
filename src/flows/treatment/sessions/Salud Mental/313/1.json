@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Comparar_su_trabajo_con_el_de_otros.jpg"
+            "url": "./images/Comparar_su_trabajo_con_el_de_otros.jpg"
         }
     ]
 }

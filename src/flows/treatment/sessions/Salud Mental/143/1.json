@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Estar_a_cargo.jpg"
+            "url": "./images/Estar_a_cargo.jpg"
         }
     ]
 }

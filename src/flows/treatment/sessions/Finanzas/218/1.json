@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Dependencia_financiera.jpg"
+            "url": "./images/Dependencia_financiera.jpg"
         }
     ]
 }

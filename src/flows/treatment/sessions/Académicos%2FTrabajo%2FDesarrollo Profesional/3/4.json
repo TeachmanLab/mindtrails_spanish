@@ -14,8 +14,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Nunca serás capaz.",
-                "Estarás listo para uno el próximo año."
+                "Estarás listo para uno el próximo año.",
+                "Nunca serás capaz."
             ],
             "columnCount": 1,
             "correct_value": "Estarás listo para uno el próximo año."

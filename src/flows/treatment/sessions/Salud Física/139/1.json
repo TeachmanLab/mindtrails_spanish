@@ -1,11 +1,15 @@
 {
-    "header_text": "Recurso: Salud Física",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
     "header_icon": "assets/subtitle.png",
-    "name": "Habilidades para afrontar las adicciones",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "Habilidades para afrontar las adicciones\n\nEste PDF comparte varias estrategias de afrontamiento que se pueden usar como parte de la recuperación de diversas adicciones, incluida la búsqueda y el desarrollo de apoyos sociales, el manejo de las emociones y el uso de distracciones.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "Piensas en una situación que enfrentas regularmente que te cause algo de ansiedad. ¿Qué te sueles decir a ti mismo? ¿Hay otro pensamiento que puedas decirte a ti mismo que pueda hacer que sea menos provacador de ansiedad? "
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #12_entry"
         }
     ]
 }

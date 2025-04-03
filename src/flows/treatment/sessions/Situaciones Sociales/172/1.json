@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Un_saludo_de_bienvenida.jpg"
+            "url": "./images/Un_saludo_de_bienvenida.jpg"
         }
     ]
 }

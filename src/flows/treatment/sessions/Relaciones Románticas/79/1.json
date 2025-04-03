@@ -1,14 +1,14 @@
 {
-    "header_text": "Encontrar al indicado",
+    "header_text": "Casarse con tu pareja",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Encontrar al indicado"
+            "text": "Casarse con tu pareja"
         },
         {
             "type": "Media",
-            "url": "/images/Encontrar_al_indicado.jpg"
+            "url": "./images/Casarse_con_tu_pareja.jpg"
         }
     ]
 }

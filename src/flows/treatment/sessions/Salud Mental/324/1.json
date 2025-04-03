@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Trabajo_placentero.jpg"
+            "url": "./images/Trabajo_placentero.jpg"
         }
     ]
 }

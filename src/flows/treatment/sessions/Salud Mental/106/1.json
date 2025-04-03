@@ -1,11 +1,15 @@
 {
-    "header_text": "Recurso: Salud Mental",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
     "header_icon": "assets/subtitle.png",
-    "name": "Creando rutinas saludables",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "Creando rutinas saludables\n\nEsta página de Mental Health America ofrece datos sobre la salud física, mental y la importancia de las rutinas. Contiene consejos y una guía con preguntas que ayudan a las personas a darle prioridad a lo más importante de sus vidas para poder crear rutinas saludables.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "Piensas en una situación próxima que quieras evitar porque te pone ansioso. ¿Cómo puedes pensarlo de manera diferente para que se sienta menos aterrador? "
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #9_entry"
         }
     ]
 }

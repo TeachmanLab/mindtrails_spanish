@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Nuevo_estilo.jpg"
+            "url": "./images/Nuevo_estilo.jpg"
         }
     ]
 }

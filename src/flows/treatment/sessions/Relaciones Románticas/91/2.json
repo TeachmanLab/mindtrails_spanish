@@ -1,14 +1,14 @@
 {
-    "header_text": "Terminando a large distancia",
+    "header_text": "sin notificaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Terminando a large distancia"
+            "text": "sin notificaciones"
         },
         {
             "type": "Media",
-            "url": "/images/Terminando_a_large_distancia.jpg"
+            "url": "./images/sin_notificaciones.jpg"
         }
     ]
 }

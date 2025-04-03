@@ -14,8 +14,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Disfrutando de tus años dorados con tu cónyuge.",
-                "Lamentar que tu cónyuge y tú no hayan podido hacer que las cosas funcionen."
+                "Lamentar que tu cónyuge y tú no hayan podido hacer que las cosas funcionen.",
+                "Disfrutando de tus años dorados con tu cónyuge."
             ],
             "columnCount": 1,
             "correct_value": "Lamentar que tu cónyuge y tú no hayan podido hacer que las cosas funcionen."

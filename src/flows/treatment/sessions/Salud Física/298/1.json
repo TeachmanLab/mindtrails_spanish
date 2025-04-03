@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Serpientes_venenosas.jpg"
+            "url": "./images/Serpientes_venenosas.jpg"
         }
     ]
 }

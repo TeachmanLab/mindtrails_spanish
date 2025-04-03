@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Rechazar_una_bebida.jpg"
+            "url": "./images/Rechazar_una_bebida.jpg"
         }
     ]
 }

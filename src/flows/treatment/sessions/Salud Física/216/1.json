@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Problemas_de_visión.jpg"
+            "url": "./images/Problemas_de_visión.jpg"
         }
     ]
 }

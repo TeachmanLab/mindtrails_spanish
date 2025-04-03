@@ -1,14 +1,14 @@
 {
-    "header_text": "No ",
+    "header_text": "Enviar mensajes de texto a alguien que te gusta",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "No "
+            "text": "Enviar mensajes de texto a alguien que te gusta"
         },
         {
             "type": "Media",
-            "url": "/images/No.jpg"
+            "url": "./images/Enviar_mensajes_de_texto_a_alguien_que_te_gusta.jpg"
         }
     ]
 }

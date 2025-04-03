@@ -1,14 +1,14 @@
 {
-    "header_text": "Equilibrar un significativo otro y amigos",
+    "header_text": "Amigo de tu pareja",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Equilibrar un significativo otro y amigos"
+            "text": "Amigo de tu pareja"
         },
         {
             "type": "Media",
-            "url": "/images/Equilibrar_un_significativo_otro_y_amigos.jpg"
+            "url": "./images/Amigo_de_tu_pareja.jpg"
         }
     ]
 }

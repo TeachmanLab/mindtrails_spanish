@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Comentarios_honestos.jpg"
+            "url": "./images/Comentarios_honestos.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Personalidades diferentes",
+    "header_text": "Yendo a una cita",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Personalidades diferentes"
+            "text": "Yendo a una cita"
         },
         {
             "type": "Media",
-            "url": "/images/Personalidades_diferentes.jpg"
+            "url": "./images/Yendo_a_una_cita.jpg"
         }
     ]
 }

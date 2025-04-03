@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Comprando_productos_de_oficina.jpg"
+            "url": "./images/Comprando_productos_de_oficina.jpg"
         }
     ]
 }

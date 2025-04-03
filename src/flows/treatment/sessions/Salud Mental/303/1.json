@@ -1,11 +1,15 @@
 {
-    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "Intente escribir sobre sus sentimientos y pensamientos para comprenderlos más claramente."
+            "text": "¿Hay alguna situación que antes te daba miedo o te provocaba ansiedad, pero en la que ahora te sientes cómodo? ¿Qué te decías a ti mismo en esa situación? ¿Qué piensas ahora?"
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #3_entry"
         }
     ]
 }

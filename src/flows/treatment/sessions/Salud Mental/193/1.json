@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Puerta_cerrada.jpg"
+            "url": "./images/Puerta_cerrada.jpg"
         }
     ]
 }

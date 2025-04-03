@@ -1,15 +1,11 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Maneja tus sentimientos: Salud Física",
     "header_icon": "assets/subtitle.png",
-    "name": "¡Consejo para aplicar!",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "Reflexionas sobre las historias que acabas de leer y cómo se resolvieron las situaciones que provocan ansiedad. ¿Qué ves como algunos de las principales conclusiones? ¿Cual de estas nuevas formas de pensar podrías verte a ti mismo aplicando a tu propia vida, y por qué?"
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #2_entry"
+            "text": "Antes de volver a buscar la misma pregunta sobre su salud en línea, pregúntese si realmente está buscando nueva información o simplemente está volviendo a verificar algo. Reduzca el tiempo dedicado a volver a comprobar."
         }
     ]
 }

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Quemadura.jpg"
+            "url": "./images/Quemadura.jpg"
         }
     ]
 }

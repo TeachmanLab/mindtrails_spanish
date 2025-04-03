@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Visita_médica_inesperada.jpg"
+            "url": "./images/Visita_médica_inesperada.jpg"
         }
     ]
 }

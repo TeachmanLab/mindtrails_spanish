@@ -1,11 +1,11 @@
 {
     "header_text": "Recurso: Situaciones Sociales",
     "header_icon": "assets/subtitle.png",
-    "name": "Personas de la tercera edad",
+    "name": "Mijente",
     "elements": [
         {
             "type": "Text",
-            "text": "Personas de la tercera edad\n\nEste sitio Web ilumina situaciones diversas en cuáles las personas de tercera edad podrían necesitar ayuda. Ofrece recursos y guías informativas.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "Mijente\n\nMijente ayuda a personas a fomentar cambios positivos a través de campañas, conectando a personas en su red, aprendizaje, y apoyo y defensa. Temas de interés son el género, raza/etnia, economía, y cambios ambientales.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

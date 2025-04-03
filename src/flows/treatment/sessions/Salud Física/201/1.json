@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Resultados_del_chequeo_anual.jpg"
+            "url": "./images/Resultados_del_chequeo_anual.jpg"
         }
     ]
 }

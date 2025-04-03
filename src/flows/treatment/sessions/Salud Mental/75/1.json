@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/siendo_padre.jpg"
+            "url": "./images/siendo_padre.jpg"
         }
     ]
 }

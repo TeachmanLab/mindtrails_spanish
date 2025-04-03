@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Permitirse_un_viaje.jpg"
+            "url": "./images/Permitirse_un_viaje.jpg"
         }
     ]
 }

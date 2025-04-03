@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Un_momento_de_olvido.jpg"
+            "url": "./images/Un_momento_de_olvido.jpg"
         }
     ]
 }

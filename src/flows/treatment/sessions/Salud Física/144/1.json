@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Tajada_de_fruta.jpg"
+            "url": "./images/Tajada_de_fruta.jpg"
         }
     ]
 }

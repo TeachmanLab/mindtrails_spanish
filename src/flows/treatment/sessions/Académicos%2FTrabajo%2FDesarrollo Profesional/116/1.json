@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Vecinos_ruidosos.jpg"
+            "url": "./images/Vecinos_ruidosos.jpg"
         }
     ]
 }

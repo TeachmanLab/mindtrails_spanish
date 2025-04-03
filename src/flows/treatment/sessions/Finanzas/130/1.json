@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Trabajos_bien_pagados.jpg"
+            "url": "./images/Trabajos_bien_pagados.jpg"
         }
     ]
 }

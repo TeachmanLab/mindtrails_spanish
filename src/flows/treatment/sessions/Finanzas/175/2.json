@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Medicina_asequible.jpg"
+            "url": "./images/Medicina_asequible.jpg"
         }
     ]
 }

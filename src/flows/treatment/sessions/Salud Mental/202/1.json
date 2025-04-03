@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Hablando_sobre_vivienda.jpg"
+            "url": "./images/Hablando_sobre_vivienda.jpg"
         }
     ]
 }

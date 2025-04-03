@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Participación.jpg"
+            "url": "./images/Participación.jpg"
         }
     ]
 }

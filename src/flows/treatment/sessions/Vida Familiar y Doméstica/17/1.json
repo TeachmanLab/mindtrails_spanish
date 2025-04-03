@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Yendo_de_vacaciones.jpg"
+            "url": "./images/Yendo_de_vacaciones.jpg"
         }
     ]
 }

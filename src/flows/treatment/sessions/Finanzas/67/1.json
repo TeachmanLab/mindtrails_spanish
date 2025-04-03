@@ -1,11 +1,11 @@
 {
-    "header_text": "Recurso: Finanzas",
+    "header_text": "Maneja tus sentimientos: Finanzas",
     "header_icon": "assets/subtitle.png",
-    "name": "211 (EEUU) en español",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "211 (EEUU) en español\n\n211 conecta a personas en EEUU con recursos económicos locales.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "Escriba dónde entra y sale su dinero y vea dónde se pueden hacer ajustes para que sus finanzas parezcan más manejables."
         }
     ]
 }

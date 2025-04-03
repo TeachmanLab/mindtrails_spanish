@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Hilo_de_pensamientos.jpg"
+            "url": "./images/Hilo_de_pensamientos.jpg"
         }
     ]
 }

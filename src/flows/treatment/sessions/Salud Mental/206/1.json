@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Decidir_compartir_una_imagen.jpg"
+            "url": "./images/Decidir_compartir_una_imagen.jpg"
         }
     ]
 }

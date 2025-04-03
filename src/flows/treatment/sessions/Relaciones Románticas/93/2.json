@@ -1,14 +1,14 @@
 {
-    "header_text": "Conocer a los padres",
+    "header_text": "Por primera vez",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus suegros están visitando y vas a cenar con ellos. Nunca los has conocido antes, pero sabes que tienen creencias políticas muy diferentes a las tuyas. Mientras piensas en conocerlos, sabes que serás... "
+            "text": "¡Te han invitado a salir en una cita por primera vez en mucho tiempo! Te sientes nervioso por esta experiencia un tanto nueva y temes hacer algo embarazoso. Cuando piensas en la cita, te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Conocer a los padres_Relaciones Románticas_entry1"
+            "name": "Por primera vez_Relaciones Románticas_entry1"
         }
     ]
 }

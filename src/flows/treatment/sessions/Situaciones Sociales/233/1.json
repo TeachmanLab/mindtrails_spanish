@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/silencio_en_un_viaje_en_coche.jpg"
+            "url": "./images/silencio_en_un_viaje_en_coche.jpg"
         }
     ]
 }

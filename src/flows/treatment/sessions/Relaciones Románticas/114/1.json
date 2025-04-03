@@ -1,14 +1,14 @@
 {
-    "header_text": "Planes de vacaciones",
+    "header_text": "relación a distancia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Planes de vacaciones"
+            "text": "relación a distancia"
         },
         {
             "type": "Media",
-            "url": "/images/Planes_de_vacaciones.jpg"
+            "url": "./images/relación_a_distancia.jpg"
         }
     ]
 }

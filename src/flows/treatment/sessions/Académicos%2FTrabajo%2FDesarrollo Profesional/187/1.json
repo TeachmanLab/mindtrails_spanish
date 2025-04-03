@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Fuera_de_tu_control.jpg"
+            "url": "./images/Fuera_de_tu_control.jpg"
         }
     ]
 }

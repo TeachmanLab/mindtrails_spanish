@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Decisiones_de_viaje.jpg"
+            "url": "./images/Decisiones_de_viaje.jpg"
         }
     ]
 }

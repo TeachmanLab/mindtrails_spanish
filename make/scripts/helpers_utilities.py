@@ -3,6 +3,7 @@ import json
 
 from pathlib import Path
 from itertools import islice
+from collections import defaultdict
 
 import numpy as np
 
@@ -13,7 +14,7 @@ import numpy as np
 # needs to be global in order for 
 # participants to experience the
 # order of answers as random.
-rng = np.random.RandomState(1)
+rng = defaultdict(lambda: np.random.RandomState(1))
 
 def write_output(dir_out, structure):
     for path, content in structure.items():
@@ -153,5 +154,5 @@ def create_puzzle(scenario):
 
     return puzzle_text, puzzle_word
 
-def shuffle(items):
-    rng.shuffle(items)
+def shuffle(items,key=None):
+    rng[key].shuffle(items)

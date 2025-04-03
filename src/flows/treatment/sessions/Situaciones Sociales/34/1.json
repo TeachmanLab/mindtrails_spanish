@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Ir_al_cine_solo.jpg"
+            "url": "./images/Ir_al_cine_solo.jpg"
         }
     ]
 }

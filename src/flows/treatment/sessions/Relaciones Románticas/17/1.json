@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Salud_Mental.jpg"
+            "url": "./images/Salud_Mental.jpg"
         }
     ]
 }

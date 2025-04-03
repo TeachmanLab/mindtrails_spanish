@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Amigos_en_las_relaciones.jpg"
+            "url": "./images/Amigos_en_las_relaciones.jpg"
         }
     ]
 }

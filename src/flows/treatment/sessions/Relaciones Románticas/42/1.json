@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Problemas_con_los_amigos.jpg"
+            "url": "./images/Problemas_con_los_amigos.jpg"
         }
     ]
 }

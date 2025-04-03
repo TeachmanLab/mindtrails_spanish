@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/La_cita.jpg"
+            "url": "./images/La_cita.jpg"
         }
     ]
 }

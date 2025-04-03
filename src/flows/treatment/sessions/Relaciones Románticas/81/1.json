@@ -1,14 +1,14 @@
 {
-    "header_text": "Planes de vacaciones",
+    "header_text": "Consejería para parejas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Planes de vacaciones"
+            "text": "Consejería para parejas"
         },
         {
             "type": "Media",
-            "url": "/images/Planes_de_vacaciones.jpg"
+            "url": "./images/Consejería_para_parejas.jpg"
         }
     ]
 }

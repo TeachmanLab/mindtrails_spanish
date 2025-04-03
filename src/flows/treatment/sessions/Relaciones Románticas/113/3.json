@@ -1,24 +1,21 @@
 {
-    "header_text": "Problemas de salud mental",
+    "header_text": "Planes de vacaciones",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu pareja será comprensiva?"
+            "text": "Cuando piensas en decirles a tus padres que te gustaría pasar los días festivos con tu pareja, no esperas que se molesten y crees que se tomarán bien la... "
         },
         {
-            "type": "Buttons",
-            "name": "Problemas de salud mental_Relaciones Románticas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Planes de vacaciones_Relaciones Románticas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "words": [
+                "noticia"
             ],
-            "columnCount": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 1
         }
     ]
 }

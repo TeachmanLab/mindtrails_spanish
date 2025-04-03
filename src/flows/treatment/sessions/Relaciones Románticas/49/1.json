@@ -1,14 +1,14 @@
 {
-    "header_text": "Enviar mensajes de texto a otras personas",
+    "header_text": "Presencia en redes sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Enviar mensajes de texto a otras personas"
+            "text": "Presencia en redes sociales"
         },
         {
             "type": "Media",
-            "url": "/images/Enviar_mensajes_de_texto_a_otras_personas.jpg"
+            "url": "./images/Presencia_en_redes_sociales.jpg"
         }
     ]
 }

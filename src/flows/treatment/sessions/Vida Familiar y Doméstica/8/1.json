@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Quedarse_sin_batería.jpg"
+            "url": "./images/Quedarse_sin_batería.jpg"
         }
     ]
 }

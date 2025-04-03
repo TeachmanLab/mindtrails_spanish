@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Casa_bilingüe.jpg"
+            "url": "./images/Casa_bilingüe.jpg"
         }
     ]
 }

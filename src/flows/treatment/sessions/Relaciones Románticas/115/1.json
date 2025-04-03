@@ -1,14 +1,14 @@
 {
-    "header_text": "relación a distancia",
+    "header_text": "Viendo a tu ex",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "relación a distancia"
+            "text": "Viendo a tu ex"
         },
         {
             "type": "Media",
-            "url": "/images/relación_a_distancia.jpg"
+            "url": "./images/Viendo_a_tu_ex.jpg"
         }
     ]
 }

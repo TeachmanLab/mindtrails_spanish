@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Citas_en_línea.jpg"
+            "url": "./images/Citas_en_línea.jpg"
         }
     ]
 }

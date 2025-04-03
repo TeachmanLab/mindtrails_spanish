@@ -1,11 +1,11 @@
 {
-    "header_text": "Recurso: Salud Mental",
+    "header_text": "Maneja tus sentimientos: Salud Mental",
     "header_icon": "assets/subtitle.png",
-    "name": "Calma (Calm)",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "Calma (Calm)\n\nLa aplicación Calm proporcionó esta página que ofrece estrategias de afrontamiento, momentos meditativos, y más para lidiar con el estrés solo y acompañado.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "Trate de poner una etiqueta específica a sus sentimientos (¿está triste, enojado, disgustado, nervioso, aterrorizado, etc.?); los sentimientos son más fáciles de manejar cuando podemos describirlos completamente."
         }
     ]
 }

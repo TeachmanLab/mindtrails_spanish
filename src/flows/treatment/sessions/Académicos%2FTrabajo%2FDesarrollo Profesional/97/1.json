@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Desconectandote.jpg"
+            "url": "./images/Desconectandote.jpg"
         }
     ]
 }

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Trabajando_para_salir_adelante.jpg"
+            "url": "./images/Trabajando_para_salir_adelante.jpg"
         }
     ]
 }

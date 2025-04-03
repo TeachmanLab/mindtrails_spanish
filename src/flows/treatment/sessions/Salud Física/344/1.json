@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Ruido_repentino.jpg"
+            "url": "./images/Ruido_repentino.jpg"
         }
     ]
 }

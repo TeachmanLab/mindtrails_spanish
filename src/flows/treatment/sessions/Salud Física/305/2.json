@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Tomándo_el_autobús.jpg"
+            "url": "./images/Tomándo_el_autobús.jpg"
         }
     ]
 }

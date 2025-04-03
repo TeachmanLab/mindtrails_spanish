@@ -1,11 +1,11 @@
 {
-    "header_text": "Recurso: Salud Mental",
+    "header_text": "Maneja tus sentimientos: Salud Mental",
     "header_icon": "assets/subtitle.png",
-    "name": "Yana app",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "Yana app\n\nYana ofrece herramientas para mejorar la salud mental, incluyendo afirmaciones personales, técnicas de relajación, diario para registrar las emociones, y un chat para trabajar en metas o combatir pensamientos intrusivos.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "Todas las emociones tienen un propósito. Nos cuentan lo que sucede en nuestras vidas y nos ayudan a motivarnos. Incluso los sentimientos negativos, como el miedo y la ansiedad, nos ayudan a navegar por el mundo que nos rodea."
         }
     ]
 }

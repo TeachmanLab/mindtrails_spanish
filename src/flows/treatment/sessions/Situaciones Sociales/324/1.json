@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Tensión_familiar.jpg"
+            "url": "./images/Tensión_familiar.jpg"
         }
     ]
 }

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Un_conocido.jpg"
+            "url": "./images/Un_conocido.jpg"
         }
     ]
 }

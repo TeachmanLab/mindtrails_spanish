@@ -1,14 +1,14 @@
 {
-    "header_text": "sintiendote apurado",
+    "header_text": "Estrés en tu relación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "sintiendote apurado"
+            "text": "Estrés en tu relación"
         },
         {
             "type": "Media",
-            "url": "/images/sintiendote_apurado.jpg"
+            "url": "./images/Estrés_en_tu_relación.jpg"
         }
     ]
 }

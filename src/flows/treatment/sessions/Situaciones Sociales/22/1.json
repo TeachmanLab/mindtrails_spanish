@@ -1,11 +1,15 @@
 {
-    "header_text": "Recurso: Situaciones Sociales",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
     "header_icon": "assets/subtitle.png",
-    "name": "Acceso Latino",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "Acceso Latino\n\nAcceso Latino, parte de la Fundación Carlos Slim, comparte ofrece páginas para orientación legal, información acerca de apoyos sociales, trámites legales, y más asesorías para inmigrantes en Estados Unidos. También contiene enlaces directos a los consulados de países latinoamericanos.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "Piensas en una situación desafiante que se avecina pronto. ¿Cuáles son algunas de las maneras en que podrías aplicar lo que aprendiste en esta capacitación para manejar tu propia situación? "
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #7_entry"
         }
     ]
 }

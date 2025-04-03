@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Vecino_sin_mascarilla.jpg"
+            "url": "./images/Vecino_sin_mascarilla.jpg"
         }
     ]
 }

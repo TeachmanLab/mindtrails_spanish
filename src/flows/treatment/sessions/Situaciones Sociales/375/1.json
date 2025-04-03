@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Escuchando_tu_nombre.jpg"
+            "url": "./images/Escuchando_tu_nombre.jpg"
         }
     ]
 }

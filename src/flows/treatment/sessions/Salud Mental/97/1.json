@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Enseñando_a_otros.jpg"
+            "url": "./images/Enseñando_a_otros.jpg"
         }
     ]
 }

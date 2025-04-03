@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Revisión_física_anual.jpg"
+            "url": "./images/Revisión_física_anual.jpg"
         }
     ]
 }

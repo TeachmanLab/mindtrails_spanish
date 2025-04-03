@@ -1,15 +1,11 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Recurso: Salud Mental",
     "header_icon": "assets/subtitle.png",
-    "name": "¡Consejo para aplicar!",
+    "name": "Cuaderno: Guía de salud mental",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en una situación que enfrentas regularmente que te cause algo de ansiedad. ¿Qué te sueles decir a ti mismo? ¿Hay otro pensamiento que puedas decirte a ti mismo que pueda hacer que sea menos provacador de ansiedad? "
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #12_entry"
+            "text": "Cuaderno: Guía de salud mental\n\nEsta guía cubre todo tipo de información acerca de la salud mental, incluyendo secciones sobre trastornos, recursos, y consejos para sobrellevar síntomas y estrés.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

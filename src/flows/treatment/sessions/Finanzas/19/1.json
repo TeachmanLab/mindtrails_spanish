@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Gestión_de_crédito.jpg"
+            "url": "./images/Gestión_de_crédito.jpg"
         }
     ]
 }

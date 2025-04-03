@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Esperando_grandes_noticias.jpg"
+            "url": "./images/Esperando_grandes_noticias.jpg"
         }
     ]
 }

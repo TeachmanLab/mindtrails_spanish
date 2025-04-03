@@ -14,8 +14,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "sirviéndose una segunda vez.",
-                "Dejando sus porciones en sus platos."
+                "Dejando sus porciones en sus platos.",
+                "sirviéndose una segunda vez."
             ],
             "columnCount": 1,
             "correct_value": "Dejando sus porciones en sus platos."

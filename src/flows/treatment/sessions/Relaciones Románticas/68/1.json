@@ -1,14 +1,14 @@
 {
-    "header_text": "Yendo a una cita",
+    "header_text": "sin notificaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Yendo a una cita"
+            "text": "sin notificaciones"
         },
         {
             "type": "Media",
-            "url": "/images/Yendo_a_una_cita.jpg"
+            "url": "./images/sin_notificaciones.jpg"
         }
     ]
 }

@@ -1,11 +1,15 @@
 {
-    "header_text": "Maneja tus sentimientos: Finanzas",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "Las personas provienen de diferentes orígenes socioeconómicos. Si se siente presionado a gastar tanto dinero como sus amigos, recuerde que no es necesario."
+            "text": "Reflexionas sobre las historias que acabas de leer y cómo se resolvieron las situaciones que provocan ansiedad. ¿Qué ves como algunos de las principales conclusiones? ¿Cual de estas nuevas formas de pensar podrías verte a ti mismo aplicando a tu propia vida, y por qué?"
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #2_entry"
         }
     ]
 }

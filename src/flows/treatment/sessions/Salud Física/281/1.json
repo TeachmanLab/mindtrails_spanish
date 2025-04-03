@@ -1,11 +1,11 @@
 {
-    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_text": "Recurso: Salud Física",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
+    "name": "Planned Parenthood",
     "elements": [
         {
             "type": "Text",
-            "text": "Antes de volver a buscar la misma pregunta sobre su salud en línea, pregúntese si realmente está buscando nueva información o simplemente está volviendo a verificar algo. Reduzca el tiempo dedicado a volver a comprobar."
+            "text": "Planned Parenthood\n\nBrinda atención a la salud reproductiva, educación sexual e información a adultos y jóvenes.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

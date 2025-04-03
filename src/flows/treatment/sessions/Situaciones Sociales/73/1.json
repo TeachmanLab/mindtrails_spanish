@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Viendo_una_película_con_amigos.jpg"
+            "url": "./images/Viendo_una_película_con_amigos.jpg"
         }
     ]
 }

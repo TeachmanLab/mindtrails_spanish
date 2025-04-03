@@ -1,0 +1,15 @@
+{
+    "header_text": "Ejercicio de limón",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¡Ese fue el Ejercicio del Limón! No te preocupes si no experimentaste todas las sensaciones con fuerza. Esto es completamente normal."
+        },
+        {
+            "type": "Media",
+            "url": "./images/lemon7.jpg",
+            "border": true
+        }
+    ]
+}

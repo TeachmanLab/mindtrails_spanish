@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Evaluación_importante.jpg"
+            "url": "./images/Evaluación_importante.jpg"
         }
     ]
 }

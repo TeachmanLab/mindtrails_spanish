@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Miedo_al_COVID.jpg"
+            "url": "./images/Miedo_al_COVID.jpg"
         }
     ]
 }

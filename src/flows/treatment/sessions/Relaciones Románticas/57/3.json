@@ -1,24 +1,21 @@
 {
-    "header_text": "Preocupaciones por el COVID",
+    "header_text": "Ponerse ahí fuera",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu pareja escuchará tus inquietudes?"
+            "text": "Decides abrirte y compartir, y ellos hacen lo mismo. Mientras hablas, te sientes... "
         },
         {
-            "type": "Buttons",
-            "name": "Preocupaciones por el COVID_Relaciones Románticas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Ponerse ahí fuera_Relaciones Románticas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "words": [
+                "entendido"
             ],
-            "columnCount": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 2
         }
     ]
 }

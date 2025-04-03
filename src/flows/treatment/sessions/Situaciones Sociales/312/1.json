@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Chistes_con_Amigos.jpg"
+            "url": "./images/Chistes_con_Amigos.jpg"
         }
     ]
 }

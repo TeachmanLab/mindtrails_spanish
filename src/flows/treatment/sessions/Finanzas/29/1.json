@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Costear_los_gastos.jpg"
+            "url": "./images/Costear_los_gastos.jpg"
         }
     ]
 }

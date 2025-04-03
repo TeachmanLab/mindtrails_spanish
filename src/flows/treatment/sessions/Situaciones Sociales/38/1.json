@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Un_regalo_casero.jpg"
+            "url": "./images/Un_regalo_casero.jpg"
         }
     ]
 }

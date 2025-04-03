@@ -1,11 +1,11 @@
 {
-    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_text": "Recurso: Salud Física",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
+    "name": "MiBuscadorDeSalud",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando experimente una sensación corporal incómoda (por ejemplo, corazón acelerado o palmas sudorosas), simplemente siéntese con esa sensación por un momento antes de reaccionar. Estas sensaciones suelen pasar rápidamente sin ninguna intervención."
+            "text": "MiBuscadorDeSalud\n\nOperado por el Departamento de Salud de los EE. UU., brinda información, artículos sobre cuestiones de salud, servicios de búsqueda para recursos de salud nacionales y locales.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

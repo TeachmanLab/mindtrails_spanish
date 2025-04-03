@@ -1,14 +1,14 @@
 {
-    "header_text": "Zambullirte",
+    "header_text": "Relación a largo plazo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Zambullirte"
+            "text": "Relación a largo plazo"
         },
         {
             "type": "Media",
-            "url": "/images/Zambullirte.jpg"
+            "url": "./images/Relación_a_largo_plazo.jpg"
         }
     ]
 }

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Buscando_una_casa.jpg"
+            "url": "./images/Buscando_una_casa.jpg"
         }
     ]
 }

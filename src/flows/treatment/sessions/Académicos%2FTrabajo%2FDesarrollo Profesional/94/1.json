@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Proyecto_de_grupo.jpg"
+            "url": "./images/Proyecto_de_grupo.jpg"
         }
     ]
 }

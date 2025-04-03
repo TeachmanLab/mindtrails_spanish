@@ -14,8 +14,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "lo perjudicaría financieramente al endeudarse",
-                "no cambiaría mucho la forma cuidadosa en que gastas"
+                "no cambiaría mucho la forma cuidadosa en que gastas",
+                "lo perjudicaría financieramente al endeudarse"
             ],
             "columnCount": 1,
             "correct_value": "no cambiaría mucho la forma cuidadosa en que gastas"

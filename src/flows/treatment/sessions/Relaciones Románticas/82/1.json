@@ -1,14 +1,14 @@
 {
-    "header_text": "Consejería para parejas",
+    "header_text": "Escuchando un desacuerdo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Consejería para parejas"
+            "text": "Escuchando un desacuerdo"
         },
         {
             "type": "Media",
-            "url": "/images/Consejería_para_parejas.jpg"
+            "url": "./images/Escuchando_un_desacuerdo.jpg"
         }
     ]
 }

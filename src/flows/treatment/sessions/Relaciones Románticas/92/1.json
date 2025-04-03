@@ -1,14 +1,14 @@
 {
-    "header_text": "sin notificaciones",
+    "header_text": "Conocer a los padres",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "sin notificaciones"
+            "text": "Conocer a los padres"
         },
         {
             "type": "Media",
-            "url": "/images/sin_notificaciones.jpg"
+            "url": "./images/Conocer_a_los_padres.jpg"
         }
     ]
 }

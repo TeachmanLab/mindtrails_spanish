@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Pago_de_reparaciones.jpg"
+            "url": "./images/Pago_de_reparaciones.jpg"
         }
     ]
 }

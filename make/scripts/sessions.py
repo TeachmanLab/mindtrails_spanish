@@ -35,6 +35,7 @@ def _create_practice_pages():
             domain, label = row_1[0].strip(), row_1[3]
             puzzle1,puzzle2 = map(create_puzzle,row_1[4:6])
             question, choices, answer = row_1[6], row_1[7:9], row_1[7]
+            image_url = row_1[9]
 
             shuffle(choices)
 
@@ -43,19 +44,19 @@ def _create_practice_pages():
                                                     puzzle_text_1=puzzle1[0], word_1=puzzle1[1],
                                                     comp_question=question, answers=choices,
                                                     correct_answer=answer, word_2=puzzle2[1],
-                                                    puzzle_text_2=puzzle2[0], unique_image=False,
+                                                    puzzle_text_2=puzzle2[0], image_url=image_url,
                                                     row_num=dose1_scenario_num)
 
             if dose1_scenario_num == 0:
-                make_it_your_own_text =  "Queremos que MindTrails Español satisfaga sus necesidades. Cuando complete " \
-                                            "sesiones de capacitación en la aplicación o buscar recursos en " \
-                                            "biblioteca de recursos bajo demanda, verá un botón que parece " \
-                                            "como una estrella en la esquina superior derecha de la pantalla. Por " \
-                                            "haciendo clic en la estrella, puedes agregar la información que más te parezca " \
-                                            "útil (por ejemplo, historias cortas, consejos para controlar el estrés) para su " \
-                                            "propia página personal de Favoritos. Luego podrás volver a visitar tu favorito " \
-                                            "partes de la aplicación cuando quieras eligiendo Favoritos " \
-                                            "¡mosaico de la página de inicio de MindTrails Español!"  # changed
+                make_it_your_own_text =  ("Queremos que MindTrails Español satisfaga sus necesidades. Cuando complete "
+                                          "sesiones de capacitación en la aplicación o buscar recursos en "
+                                          "biblioteca de recursos bajo demanda, verá un botón que parece "
+                                          "como una estrella en la esquina superior derecha de la pantalla. Por "
+                                          "haciendo clic en la estrella, puedes agregar la información que más te parezca "
+                                          "útil (por ejemplo, historias cortas, consejos para controlar el estrés) para su "
+                                          "propia página personal de Favoritos. Luego podrás volver a visitar tu favorito "
+                                          "partes de la aplicación cuando quieras eligiendo Favoritos "
+                                          "¡mosaico de la página de inicio de MindTrails Español!")  # changed
 
                 page = create_survey_page(text=make_it_your_own_text, title="¡Hazlo tuyo!")  # changed
 
@@ -118,16 +119,16 @@ def create_long_doses(i):
                 domain_1 = row[0].strip()
                 domain_2 = row[1].strip() if row[1] else None
                 label = row[3]
+                image_url = row[5]
                 scenario_description = row[i]
                 thoughts = row[i+2:i+7]
                 feelings = row[i+7:i+12]
                 behaviors = row[i+12:i+17]
-                unique_image = False
 
                 if not has_value(scenario_description) or not has_value(label): continue
 
                 dose = create_long_pages(label=label, scenario_description=scenario_description,
-                                          unique_image=unique_image, thoughts=thoughts,
+                                          image_url=image_url,thoughts=thoughts,
                                           feelings=feelings, behaviors=behaviors)
                 # add page group to correct domain's list
                 long_doses[domain_1].append(dose)
@@ -144,8 +145,6 @@ def create_short_doses(i):
     domain_rindex = defaultdict(int)
     domain_ndoses = defaultdict(int)
 
-    unique_image = False
-
     lessons_learned_dict = create_lessons_learned()
 
     with open(f"{dir_csv}/Spanish_Short_Scenarios.csv","r", encoding="utf-8", newline='') as read_obj:
@@ -153,6 +152,7 @@ def create_short_doses(i):
         for row in islice(csv.reader(read_obj),1,None):
             domain_1 = row[0].strip() #Broad domain 1
             label    = row[3]  # scenario name, Hoos TC title column
+            image_url = row[9]
 
             if not domain_1 or not label: continue
 
@@ -183,11 +183,10 @@ def create_short_doses(i):
                                          puzzle_text_1=puzzle1[0], word_1=puzzle1[1],
                                          comp_question=comp_question, answers=choices,
                                          correct_answer=answer, word_2=puzzle2[1],
-                                         puzzle_text_2=puzzle2[0],
+                                         puzzle_text_2=puzzle2[0], image_url=image_url,
                                          letters_missing=letters_missing,
                                          lessons_learned=lessons_learned,
                                          lessons_learned_dict=lessons_learned_dict,
-                                         unique_image=unique_image,
                                          row_num=domain_ndoses[domain_1])
 
             domain_rindex[domain_1] += 1
@@ -295,7 +294,7 @@ for pop,s,l in populations:
     # Define folders
     folders = {}
     folders['control/sessions/__first__'] = flat(surveys["Control_Dose_1"])
-    folders['treatment/sessions/__flow__.json'] = {"mode":"select", "column_count":2, "text": domain_selection_text(), "title":"MindTrails Español"}
+    folders['treatment/sessions/__flow__.json'] = {"mode":"select", "title_case": True, "column_count":2, "text": domain_selection_text(), "title":"MindTrails Español"}
     folders['treatment/sessions/__first__'] = flat(surveys["Dose_1"])
     folders['treatment/sessions/__before__'] = flat(surveys["BeforeDomain_All"])
     folders['treatment/sessions/__after__'] = flat(surveys["AfterDomain_All"])

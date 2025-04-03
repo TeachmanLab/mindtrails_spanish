@@ -14,8 +14,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "te preocuparás de que se lastimen",
-                "disfrutarás viéndolos"
+                "disfrutarás viéndolos",
+                "te preocuparás de que se lastimen"
             ],
             "columnCount": 1,
             "correct_value": "disfrutarás viéndolos"

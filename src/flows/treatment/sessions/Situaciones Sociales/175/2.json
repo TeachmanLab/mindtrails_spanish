@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Una_gran_risa.jpg"
+            "url": "./images/Una_gran_risa.jpg"
         }
     ]
 }

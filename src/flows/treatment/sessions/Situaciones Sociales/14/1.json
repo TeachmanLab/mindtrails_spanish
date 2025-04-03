@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Conversando_en_una_fiesta.jpg"
+            "url": "./images/Conversando_en_una_fiesta.jpg"
         }
     ]
 }

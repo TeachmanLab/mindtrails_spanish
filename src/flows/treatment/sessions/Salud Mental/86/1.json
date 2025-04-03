@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Una_nueva_oportunidad.jpg"
+            "url": "./images/Una_nueva_oportunidad.jpg"
         }
     ]
 }

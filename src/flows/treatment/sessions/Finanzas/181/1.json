@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Pidiendo_dinero.jpg"
+            "url": "./images/Pidiendo_dinero.jpg"
         }
     ]
 }

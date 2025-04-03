@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Problemas_de_computadora.jpg"
+            "url": "./images/Problemas_de_computadora.jpg"
         }
     ]
 }

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Sequedad.jpg"
+            "url": "./images/Sequedad.jpg"
         }
     ]
 }

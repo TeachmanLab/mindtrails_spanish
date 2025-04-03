@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Devolución_de_chaqueta.jpg"
+            "url": "./images/Devolución_de_chaqueta.jpg"
         }
     ]
 }

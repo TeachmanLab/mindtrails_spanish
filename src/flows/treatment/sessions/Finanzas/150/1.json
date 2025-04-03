@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Traje_de_fiesta.jpg"
+            "url": "./images/Traje_de_fiesta.jpg"
         }
     ]
 }

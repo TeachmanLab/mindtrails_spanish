@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Camiseta_nueva.jpg"
+            "url": "./images/Camiseta_nueva.jpg"
         }
     ]
 }

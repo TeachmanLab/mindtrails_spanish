@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Escándalo_de_ahorro.jpg"
+            "url": "./images/Escándalo_de_ahorro.jpg"
         }
     ]
 }

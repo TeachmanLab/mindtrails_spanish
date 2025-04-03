@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Corte_de_dedo.jpg"
+            "url": "./images/Corte_de_dedo.jpg"
         }
     ]
 }

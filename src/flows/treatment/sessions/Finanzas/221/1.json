@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Ahorro_para_reparaciones.jpg"
+            "url": "./images/Ahorro_para_reparaciones.jpg"
         }
     ]
 }

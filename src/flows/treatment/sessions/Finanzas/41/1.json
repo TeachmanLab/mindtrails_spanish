@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Factura_por_una_reparación.jpg"
+            "url": "./images/Factura_por_una_reparación.jpg"
         }
     ]
 }

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Sensaciones_de_dormir.jpg"
+            "url": "./images/Sensaciones_de_dormir.jpg"
         }
     ]
 }

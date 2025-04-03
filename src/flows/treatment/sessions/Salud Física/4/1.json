@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Vacacionando_en_avión.jpg"
+            "url": "./images/Vacacionando_en_avión.jpg"
         }
     ]
 }

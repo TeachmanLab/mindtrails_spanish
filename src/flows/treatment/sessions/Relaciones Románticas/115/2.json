@@ -1,19 +1,19 @@
 {
-    "header_text": "relación a distancia",
+    "header_text": "Viendo a tu ex",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu pareja ha decidido volver a estudiar en un programa prestigioso en otro estado. Amas mucho a tu pareja, pero sabes que las relaciones a larga distancia pueden ser difíciles. Cuando imaginas el futuro de tu relación con tu pareja, crees que se... "
+            "text": "Tú y tu pareja recientemente se divorciaron. Tu hijo tiene un evento en la escuela esta noche, y será la primera vez que ambos asistan como personas solteras. Piensas que se tratarán con respeto..."
         },
         {
             "type": "WordPuzzle",
-            "name": "relación a distancia_Relaciones Románticas_puzzle1",
+            "name": "Viendo a tu ex_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "divorciarán"
+                "mutuo"
             ],
             "missing_letter_count": 1
         }

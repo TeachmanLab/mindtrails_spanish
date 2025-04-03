@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Prueba_de_enfermedad.jpg"
+            "url": "./images/Prueba_de_enfermedad.jpg"
         }
     ]
 }

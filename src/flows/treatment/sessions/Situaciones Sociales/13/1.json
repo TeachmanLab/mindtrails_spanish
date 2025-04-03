@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Trabajando_en_grupo.jpg"
+            "url": "./images/Trabajando_en_grupo.jpg"
         }
     ]
 }

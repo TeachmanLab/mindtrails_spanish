@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Publicar_sobre_la_familia.jpg"
+            "url": "./images/Publicar_sobre_la_familia.jpg"
         }
     ]
 }

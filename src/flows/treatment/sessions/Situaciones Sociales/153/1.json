@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Arriesgándote.jpg"
+            "url": "./images/Arriesgándote.jpg"
         }
     ]
 }

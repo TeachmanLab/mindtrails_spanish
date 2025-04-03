@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Invitación_a_cenar.jpg"
+            "url": "./images/Invitación_a_cenar.jpg"
         }
     ]
 }

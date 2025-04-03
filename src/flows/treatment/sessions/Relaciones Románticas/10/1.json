@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Año_ocupado.jpg"
+            "url": "./images/Año_ocupado.jpg"
         }
     ]
 }

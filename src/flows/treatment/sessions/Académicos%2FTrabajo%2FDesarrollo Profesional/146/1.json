@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Error_en_una_tarea.jpg"
+            "url": "./images/Error_en_una_tarea.jpg"
         }
     ]
 }

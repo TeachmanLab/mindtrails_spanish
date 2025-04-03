@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Fin_de_semana_largo_solo.jpg"
+            "url": "./images/Fin_de_semana_largo_solo.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Comparándote con otros",
+    "header_text": "Aplicaciones de citas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comparándote con otros"
+            "text": "Aplicaciones de citas"
         },
         {
             "type": "Media",
-            "url": "/images/Comparándote_con_otros.jpg"
+            "url": "./images/Aplicaciones_de_citas.jpg"
         }
     ]
 }

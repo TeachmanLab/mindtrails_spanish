@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Manejando_con_una_amigo.jpg"
+            "url": "./images/Manejando_con_una_amigo.jpg"
         }
     ]
 }

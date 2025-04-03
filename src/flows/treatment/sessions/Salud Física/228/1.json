@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/El_malestar_de_estómago.jpg"
+            "url": "./images/El_malestar_de_estómago.jpg"
         }
     ]
 }

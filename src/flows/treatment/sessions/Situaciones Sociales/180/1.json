@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Sábado_sin_planes.jpg"
+            "url": "./images/Sábado_sin_planes.jpg"
         }
     ]
 }

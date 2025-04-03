@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Bromistas.jpg"
+            "url": "./images/Bromistas.jpg"
         }
     ]
 }

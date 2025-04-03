@@ -1,11 +1,11 @@
 {
-    "header_text": "Recurso: Finanzas",
+    "header_text": "Maneja tus sentimientos: Finanzas",
     "header_icon": "assets/subtitle.png",
-    "name": "Mi Dinero: Herramientas",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "Mi Dinero: Herramientas\n\nMi Dinero: Herramientas es una página que ofrece información y plantillas para ayudar con la educación y la planificación financiera. Cada sección tiene herramientas para temas como la elaboración de presupuestos, manejo de deudas, y más.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "Las personas provienen de diferentes orígenes socioeconómicos. Si se siente presionado a gastar tanto dinero como sus amigos, recuerde que no es necesario."
         }
     ]
 }

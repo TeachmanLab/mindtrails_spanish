@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Caminando_para_despejar_la_mente.jpg"
+            "url": "./images/Caminando_para_despejar_la_mente.jpg"
         }
     ]
 }

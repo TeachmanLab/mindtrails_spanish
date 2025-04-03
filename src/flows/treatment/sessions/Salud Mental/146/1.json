@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Obteniendo_ayuda.jpg"
+            "url": "./images/Obteniendo_ayuda.jpg"
         }
     ]
 }

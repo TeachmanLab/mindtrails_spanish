@@ -3,7 +3,7 @@ import random
 
 from itertools import islice
 
-from helpers_utilities import clean_up_unicode, has_value, is_yesno, is_int
+from helpers_utilities import clean_up_unicode, has_value, is_yesno, is_int, shuffle
 
 random.seed(1) #give a fixed seed so that diffs don't make it look like we changed a lot every time we generate
 
@@ -30,7 +30,7 @@ def create_input(tipe, items=None, min=None, max=None, text=None):
     if tipe == "slider"   : return {"type": "Slider", "min": min, "max": max, "others": items or ["^Prefiero no responder"]} # changed
     if tipe == "entry"    : return {"type": "Entry" }
     if tipe == "buttons"  : return {"type": "Buttons", "buttons": items, "selectable": True, **({"ColumnCount": 2} if is_yesno(items) else {}) }
-    if tipe == "scheduler": return {"type": "Scheduler", "message": "¡Es hora de practicar el pensamiento flexible! Dirígete a MindTrails Español para tu sesión programada."}
+    if tipe == "scheduler": return {"type": "Scheduler", "days_ahead": 1, "flow": "flow://flows/sessions", "count":2, "message": "¡Es hora de practicar el pensamiento flexible! Dirígete a MindTrails Español para tu sesión programada."}
     if tipe == "checkbox" : return {"type": "Buttons", "buttons": items, "selectable": True, "multi_select": True }
     if tipe == "timedtext": return {"type": "TimedText", "text": text,  "Duration": 15 }
     if tipe == "puzzle"   : return {
@@ -42,9 +42,8 @@ def create_input(tipe, items=None, min=None, max=None, text=None):
     }
     return None
 
-def create_long_pages(label, scenario_description, unique_image, thoughts, feelings, behaviors):
+def create_long_pages(label, scenario_description, image_url, thoughts, feelings, behaviors):
     """
-    :param unique_image: Bool, False means that the photos for each group are all the same
     :param label: The title of the long scenario
     :param scenario_description: The text for the scenario
     :param thoughts: list of thoughts to show for long scenarios
@@ -56,6 +55,10 @@ def create_long_pages(label, scenario_description, unique_image, thoughts, feeli
     pages = []
     label = label.strip()
 
+    thoughts  = [t.strip() for t in thoughts ]
+    feelings  = [f.strip() for f in feelings ]
+    behaviors = [b.strip() for b in behaviors]
+
     with open(f"{dir_csv}/Spanish htc_long_scenarios_structure.csv","r", encoding="utf-8") as csvfile:
         for row in islice(csv.reader(csvfile),1,None):
 
@@ -64,31 +67,29 @@ def create_long_pages(label, scenario_description, unique_image, thoughts, feeli
             title = row[0].replace("[Scenario_Name]", label)
             descr = clean_up_unicode(row[4].replace("[Scenario_Description]", scenario_description))
 
-            if unique_image:
-                image_url = f"/images/{label.replace(' ', '_')}.jpg"
-            else:
-                image_url = f"/images/{label.replace(' ', '_')}.jpg"
-
             text  = {"type": "Text", "text": descr}
             media = {"type": "Media", "url": image_url, "border": True} if is_image else None
 
             timeout = {"timeout": int(timeout) } if timeout else {}
 
             show_buttons = {}
-            if input_1 == "TimedText":
+            if input_1.lower() == "timedtext":
                 show_buttons = {"show_buttons": "WhenCorrect" }
             elif timeout:
                 show_buttons = {"show_buttons": "AfterTimeout" }
 
-            text = None
+            if input_1.lower() != "timedtext":
+                timedtext = None
             if "pensamientos" in descr:
-                text = thoughts
+                timedtext = thoughts
             elif "sentimientos" in descr:
-                text = feelings
+                timedtext = feelings
             elif "comportamientos" in descr:
-                text = behaviors
+                timedtext = behaviors
 
-            input = create_input(input_1,text=text)
+            if timedtext: shuffle(timedtext,"long_pages")
+
+            input = create_input(input_1,text=timedtext)
 
             pages.append({
                 "header_text": title,
@@ -101,11 +102,10 @@ def create_long_pages(label, scenario_description, unique_image, thoughts, feeli
     return pages
 
 def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, comp_question,
-                          answers, correct_answer, unique_image, row_num, word_2=None,
+                          answers, correct_answer, image_url, row_num, word_2=None,
                           puzzle_text_2=None, letters_missing=1, lessons_learned=False,
                           lessons_learned_dict=None):
     """
-    :param unique_image: Bool, False means that the photos for each group are all the sameunique
     :param domain: domain (e.g., "Romantic Relationships" or "Physical Health")
     :param label:
     :param scenario_num:
@@ -153,12 +153,6 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                         # changed
             }]
         })
-
-
-    if unique_image:
-        image_url = f"/images/{label.strip().replace(' ','_')}.jpg"
-    else:
-        image_url = f"/images/{label.strip().replace(' ', '_')}.jpg"
 
     pages.append({  # adding the image page
         "header_text": label,

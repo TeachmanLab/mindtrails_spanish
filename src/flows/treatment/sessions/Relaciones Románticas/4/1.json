@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Relaciones_futuras.jpg"
+            "url": "./images/Relaciones_futuras.jpg"
         }
     ]
 }

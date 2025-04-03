@@ -1,14 +1,14 @@
 {
-    "header_text": "Comunicación familiar",
+    "header_text": "Estando soltero",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comunicación familiar"
+            "text": "Estando soltero"
         },
         {
             "type": "Media",
-            "url": "/images/Comunicación_familiar.jpg"
+            "url": "./images/Estando_soltero.jpg"
         }
     ]
 }

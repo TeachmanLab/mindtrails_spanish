@@ -1,11 +1,11 @@
 {
-    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_text": "Recurso: Salud Mental",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
+    "name": "Yana app",
     "elements": [
         {
             "type": "Text",
-            "text": "Intenta identificar los TEB en tu situación: ¿qué PENSAMIENTOS tienes? ¿Qué EMOCIONES estás sintiendo? ¿Qué COMPORTAMIENTOS estás realizando? Después de eso, piensa si puedes cambiar tus pensamientos o tu comportamiento para sentirte mejor."
+            "text": "Yana app\n\nYana ofrece herramientas para mejorar la salud mental, incluyendo afirmaciones personales, técnicas de relajación, diario para registrar las emociones, y un chat para trabajar en metas o combatir pensamientos intrusivos.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

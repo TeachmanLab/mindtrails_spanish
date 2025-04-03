@@ -1,24 +1,21 @@
 {
-    "header_text": "Presencia en redes sociales",
+    "header_text": "Encontrandote con alguien",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Ellos piensan que está bien que no tienes redes sociales?"
+            "text": "Al pensar en ir a tu cita, no crees que vayas a dar una mala impresión, y crees que tu cita te encontrará..."
         },
         {
-            "type": "Buttons",
-            "name": "Presencia en redes sociales_Relaciones Románticas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Encontrandote con alguien_Relaciones Románticas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "words": [
+                "interesante"
             ],
-            "columnCount": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 2
         }
     ]
 }

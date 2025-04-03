@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Pánico_de_presentación.jpg"
+            "url": "./images/Pánico_de_presentación.jpg"
         }
     ]
 }

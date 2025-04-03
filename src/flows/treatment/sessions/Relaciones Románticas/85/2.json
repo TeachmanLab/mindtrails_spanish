@@ -1,14 +1,14 @@
 {
-    "header_text": "Relaciones futuras",
+    "header_text": "Experiencias pasadas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Acabas de romper con tu pareja, con quien estuviste por más tiempo que cualquier otra persona importante que hayas tenido antes. Crees que fue lo mejor, pero también te preocupa si alguna vez conocerás a alguien más por quien sientes tanta..."
+            "text": "Tu última relación no terminó muy bien. Estás entrando en una nueva relación, pero todavía estás lidiando con los sentimientos de tu relación pasada. Crees que puedes llegar a un compromiso... "
         },
         {
             "type": "Entry",
-            "name": "Relaciones futuras_Relaciones Románticas_entry1"
+            "name": "Experiencias pasadas_Relaciones Románticas_entry1"
         }
     ]
 }

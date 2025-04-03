@@ -1,19 +1,19 @@
 {
-    "header_text": "Tu apariencia",
+    "header_text": "Equilibrar un significativo otro y amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás yendo a una cita con tu pareja. Te miras en el espejo antes de salir y te preguntas si les gustará tu apariencia. Te das cuenta de que la única opinión que importa sobre tu apariencia es la..."
+            "text": "Recientemente empezaste una relación. Lo estás disfrutando, pero te resulta difícil equilibrar el tiempo con tus amigos y tu pareja. Te preocupa que tus amigos se molesten si no pasas suficiente tiempo con ellos, pero recuerdas que puedes dedicar tiempo a..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Tu apariencia_Relaciones Románticas_puzzle1",
+            "name": "Equilibrar un significativo otro y amigos_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "tuya"
+                "todos"
             ],
             "missing_letter_count": 1
         }

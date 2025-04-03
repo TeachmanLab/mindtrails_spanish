@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Ir_a_la_quiebra.jpg"
+            "url": "./images/Ir_a_la_quiebra.jpg"
         }
     ]
 }

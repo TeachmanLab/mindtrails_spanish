@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Evaluaciones_entre_compañeros.jpg"
+            "url": "./images/Evaluaciones_entre_compañeros.jpg"
         }
     ]
 }

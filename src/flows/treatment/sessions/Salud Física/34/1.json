@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Película_intermitente.jpg"
+            "url": "./images/Película_intermitente.jpg"
         }
     ]
 }

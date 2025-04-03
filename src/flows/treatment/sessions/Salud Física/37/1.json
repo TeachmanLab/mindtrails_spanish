@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Corriendo_tu_primera_carrera.jpg"
+            "url": "./images/Corriendo_tu_primera_carrera.jpg"
         }
     ]
 }

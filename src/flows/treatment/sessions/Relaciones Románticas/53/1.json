@@ -1,14 +1,14 @@
 {
-    "header_text": "Tiempo de calidad",
+    "header_text": "Pajera silenciosa",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tiempo de calidad"
+            "text": "Pajera silenciosa"
         },
         {
             "type": "Media",
-            "url": "/images/Tiempo_de_calidad.jpg"
+            "url": "./images/Pajera_silenciosa.jpg"
         }
     ]
 }

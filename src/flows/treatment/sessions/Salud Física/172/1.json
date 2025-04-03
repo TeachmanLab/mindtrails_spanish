@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Corriendo_una_maratón.jpg"
+            "url": "./images/Corriendo_una_maratón.jpg"
         }
     ]
 }

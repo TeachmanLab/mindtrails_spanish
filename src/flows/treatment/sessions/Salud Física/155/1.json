@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/De_prisa.jpg"
+            "url": "./images/De_prisa.jpg"
         }
     ]
 }

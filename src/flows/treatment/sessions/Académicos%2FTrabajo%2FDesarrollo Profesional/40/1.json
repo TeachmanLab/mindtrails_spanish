@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Taller_de_escritura.jpg"
+            "url": "./images/Taller_de_escritura.jpg"
         }
     ]
 }

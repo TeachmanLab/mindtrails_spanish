@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Ingresos_adicionales.jpg"
+            "url": "./images/Ingresos_adicionales.jpg"
         }
     ]
 }

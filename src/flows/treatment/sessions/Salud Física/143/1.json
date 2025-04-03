@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Suministros_para_la_cena.jpg"
+            "url": "./images/Suministros_para_la_cena.jpg"
         }
     ]
 }

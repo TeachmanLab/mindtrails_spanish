@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/El_partido_de_futból.jpg"
+            "url": "./images/El_partido_de_futból.jpg"
         }
     ]
 }

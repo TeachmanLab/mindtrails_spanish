@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Gustos_musicales_diferentes.jpg"
+            "url": "./images/Gustos_musicales_diferentes.jpg"
         }
     ]
 }

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Un_hallazgo_afortunado.jpg"
+            "url": "./images/Un_hallazgo_afortunado.jpg"
         }
     ]
 }

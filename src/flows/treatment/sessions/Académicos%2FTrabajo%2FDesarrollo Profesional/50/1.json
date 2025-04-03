@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/La_audición.jpg"
+            "url": "./images/La_audición.jpg"
         }
     ]
 }

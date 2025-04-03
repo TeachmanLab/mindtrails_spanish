@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Genio_cómico.jpg"
+            "url": "./images/Genio_cómico.jpg"
         }
     ]
 }

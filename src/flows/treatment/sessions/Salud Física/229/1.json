@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Nadando_en_la_playa.jpg"
+            "url": "./images/Nadando_en_la_playa.jpg"
         }
     ]
 }

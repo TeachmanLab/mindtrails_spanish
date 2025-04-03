@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Mantener_a_la_familia.jpg"
+            "url": "./images/Mantener_a_la_familia.jpg"
         }
     ]
 }

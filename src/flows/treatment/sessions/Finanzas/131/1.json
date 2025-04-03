@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Presiones_laborales.jpg"
+            "url": "./images/Presiones_laborales.jpg"
         }
     ]
 }

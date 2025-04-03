@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Expresándote.jpg"
+            "url": "./images/Expresándote.jpg"
         }
     ]
 }

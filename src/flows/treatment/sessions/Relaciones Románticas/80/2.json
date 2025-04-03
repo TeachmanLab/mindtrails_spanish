@@ -1,14 +1,14 @@
 {
-    "header_text": "Casarse con tu pareja",
+    "header_text": "Planes de vacaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Casarse con tu pareja"
+            "text": "Planes de vacaciones"
         },
         {
             "type": "Media",
-            "url": "/images/Casarse_con_tu_pareja.jpg"
+            "url": "./images/Planes_de_vacaciones.jpg"
         }
     ]
 }

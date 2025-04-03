@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Fiesta_de_cumpleaños.jpg"
+            "url": "./images/Fiesta_de_cumpleaños.jpg"
         }
     ]
 }

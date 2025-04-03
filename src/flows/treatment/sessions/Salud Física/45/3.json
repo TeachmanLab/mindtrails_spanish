@@ -1,5 +1,5 @@
 {
-    "header_text": "Te extraen sangre para tu examen físico anual. Tu médico te dice que tendrás que esperar unos días para recibir los resultados y te preocupas por lo que dirán los resultados. Durante los próximos días, las preocupaciones son soportables.",
+    "header_text": "Resultados del chequeo anual",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "Te extraen sangre para tu examen físico anual. Tu médico te dice que tendrás que esperar unos días para recibir los resultados y te preocupas por lo que dirán los resultados. Durante los próximos días, las preocupaciones son soportables._Salud Física_puzzle1",
+            "name": "Resultados del chequeo anual_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

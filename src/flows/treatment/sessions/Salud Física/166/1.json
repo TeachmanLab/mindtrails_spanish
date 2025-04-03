@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Un_dolor_de_garganta.jpg"
+            "url": "./images/Un_dolor_de_garganta.jpg"
         }
     ]
 }

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Ahorrar_dinero.jpg"
+            "url": "./images/Ahorrar_dinero.jpg"
         }
     ]
 }

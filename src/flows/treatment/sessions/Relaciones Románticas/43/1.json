@@ -1,14 +1,14 @@
 {
-    "header_text": "Recientemente tuviste una pelea con tu pareja. Se trataba de un tema grave y te preocupas por qué tu pareja no estuvo de acuerdo con tigo. Crees que ustedes eventualmente se reconciliarán.",
+    "header_text": "Ignorando",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Recientemente tuviste una pelea con tu pareja. Se trataba de un tema grave y te preocupas por qué tu pareja no estuvo de acuerdo con tigo. Crees que ustedes eventualmente se reconciliarán."
+            "text": "Ignorando"
         },
         {
             "type": "Media",
-            "url": "/images/Recientemente_tuviste_una_pelea_con_tu_pareja._Se_trataba_de_un_tema_grave_y_te_preocupas_por_qué_tu_pareja_no_estuvo_de_acuerdo_con_tigo._Crees_que_ustedes_eventualmente_se_reconciliarán..jpg"
+            "url": "./images/Ignorando.jpg"
         }
     ]
 }

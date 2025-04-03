@@ -1,11 +1,11 @@
 {
-    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_text": "Recurso: Salud Física",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
+    "name": "Habilidades para afrontar las adicciones",
     "elements": [
         {
             "type": "Text",
-            "text": "\nDormir lo suficiente puede marcar una gran diferencia en cómo te sientes tanto física como mentalmente. Verifique su horario de sueño y vea si hay formas de aumentar el sueño. "
+            "text": "Habilidades para afrontar las adicciones\n\nEste PDF comparte varias estrategias de afrontamiento que se pueden usar como parte de la recuperación de diversas adicciones, incluida la búsqueda y el desarrollo de apoyos sociales, el manejo de las emociones y el uso de distracciones.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

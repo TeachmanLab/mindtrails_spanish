@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Cómodo_sofá.jpg"
+            "url": "./images/Cómodo_sofá.jpg"
         }
     ]
 }

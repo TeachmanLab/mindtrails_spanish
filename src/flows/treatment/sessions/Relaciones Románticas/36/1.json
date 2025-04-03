@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Encontrandote_con_alguien.jpg"
+            "url": "./images/Encontrandote_con_alguien.jpg"
         }
     ]
 }

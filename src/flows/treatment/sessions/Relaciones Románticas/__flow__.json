@@ -1,5 +1,5 @@
 {
     "mode": "sequential",
-    "take": 1,
+    "size": 1,
     "repeat": true
 }

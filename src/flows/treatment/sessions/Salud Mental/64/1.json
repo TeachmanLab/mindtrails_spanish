@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Tiempo_para_ti_mismo.jpg"
+            "url": "./images/Tiempo_para_ti_mismo.jpg"
         }
     ]
 }

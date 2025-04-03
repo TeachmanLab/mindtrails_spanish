@@ -1,14 +1,14 @@
 {
-    "header_text": "Encontrandote con alguien",
+    "header_text": "sintiéndote inferior por estar soltero",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Encontrandote con alguien"
+            "text": "sintiéndote inferior por estar soltero"
         },
         {
             "type": "Media",
-            "url": "/images/Encontrandote_con_alguien.jpg"
+            "url": "./images/sintiéndote_inferior_por_estar_soltero.jpg"
         }
     ]
 }

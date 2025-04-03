@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Visión_borrosa.jpg"
+            "url": "./images/Visión_borrosa.jpg"
         }
     ]
 }

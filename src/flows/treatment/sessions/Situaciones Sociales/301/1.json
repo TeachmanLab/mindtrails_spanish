@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Almorzando_solo.jpg"
+            "url": "./images/Almorzando_solo.jpg"
         }
     ]
 }

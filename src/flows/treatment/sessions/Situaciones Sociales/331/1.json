@@ -1,11 +1,15 @@
 {
-    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "Si notas que repites una interacción desde temprando en el día una y otra vez, puede ser útil distraerte con una actividad agradable o relajante, como ver la televisión o jugar con una mascota. "
+            "text": "Piensas en una situación en la que te encantaría estar, pero tienes demasiado miedo o ansiedad para ponerte en ella, aunque pueda llevar al crecimiento personal. ¿Qué estrategias podrías poner en práctica para ayudarte a llegar allí?"
+        },
+        {
+            "type": "Entry",
+            "name": "Consejo #10_entry"
         }
     ]
 }

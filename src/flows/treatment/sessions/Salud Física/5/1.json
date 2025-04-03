@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Cargando_bolsas_de_compras.jpg"
+            "url": "./images/Cargando_bolsas_de_compras.jpg"
         }
     ]
 }

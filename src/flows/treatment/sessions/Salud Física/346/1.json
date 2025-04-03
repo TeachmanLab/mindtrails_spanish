@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Exposure_Guilt.jpg"
+            "url": "./images/Exposure_Guilt.jpg"
         }
     ]
 }

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Despertándote_mareado.jpg"
+            "url": "./images/Despertándote_mareado.jpg"
         }
     ]
 }

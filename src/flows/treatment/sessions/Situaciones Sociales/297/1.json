@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Manchas_de_sudor.jpg"
+            "url": "./images/Manchas_de_sudor.jpg"
         }
     ]
 }
