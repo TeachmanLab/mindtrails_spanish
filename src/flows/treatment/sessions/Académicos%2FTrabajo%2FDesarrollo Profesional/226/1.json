@@ -1,14 +1,14 @@
 {
-    "header_text": "Esperando grandes noticias",
+    "header_text": "Usando tecnología diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Esperando grandes noticias"
+            "text": "Usando tecnología diferente"
         },
         {
             "type": "Media",
-            "url": "./images/Esperando_grandes_noticias.jpg"
+            "url": "./images/Usando_tecnología_diferente.jpg"
         }
     ]
 }

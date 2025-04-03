@@ -1,14 +1,14 @@
 {
-    "header_text": "Fin de semana largo solo",
+    "header_text": "Zambullirte",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Fin de semana largo solo"
+            "text": "Zambullirte"
         },
         {
             "type": "Media",
-            "url": "./images/Fin_de_semana_largo_solo.jpg"
+            "url": "./images/Zambullirte.jpg"
         }
     ]
 }

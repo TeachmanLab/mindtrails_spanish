@@ -1,14 +1,14 @@
 {
-    "header_text": "Encontrando un compañero de cuarto",
+    "header_text": "Comparando situaciones financieras",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Encontrando un compañero de cuarto"
+            "text": "Comparando situaciones financieras"
         },
         {
             "type": "Media",
-            "url": "./images/Encontrando_un_compañero_de_cuarto.jpg"
+            "url": "./images/Comparando_situaciones_financieras.jpg"
         }
     ]
 }

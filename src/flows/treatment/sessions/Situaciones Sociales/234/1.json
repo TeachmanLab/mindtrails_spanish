@@ -1,14 +1,14 @@
 {
-    "header_text": "Amigos del club de lectura",
+    "header_text": "Temprano en la mañana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Amigos del club de lectura"
+            "text": "Temprano en la mañana"
         },
         {
             "type": "Media",
-            "url": "./images/Amigos_del_club_de_lectura.jpg"
+            "url": "./images/Temprano_en_la_mañana.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Demasiada atención",
+    "header_text": "Comentarios de redes sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Demasiada atención"
+            "text": "Comentarios de redes sociales"
         },
         {
             "type": "Media",
-            "url": "./images/Demasiada_atención.jpg"
+            "url": "./images/Comentarios_de_redes_sociales.jpg"
         }
     ]
 }

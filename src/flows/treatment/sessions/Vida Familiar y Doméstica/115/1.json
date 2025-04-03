@@ -1,14 +1,14 @@
 {
-    "header_text": "Opiniones opuestas",
+    "header_text": "Expectativas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Opiniones opuestas"
+            "text": "Expectativas"
         },
         {
             "type": "Media",
-            "url": "./images/Opiniones_opuestas.jpg"
+            "url": "./images/Expectativas.jpg"
         }
     ]
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Sentirse diferente",
+    "header_text": "Mal rumor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás participando en una conferencia en línea y miras el video de todos. Notas que entre el grupo de personas te ves diferente a los demás. Piensas en esto y te das cuenta de que está..."
+            "text": "Escuchaste un rumor de que tu supervisor planea despedir a alguien en tu puesto. Aunque normalmente eres un buen empleado, llegaste tarde a una reunión a principios de esta semana. sientes que la probabilidad de que te degraden es..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Sentirse diferente_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "name": "Mal rumor_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "bien"
+                "mínima"
             ],
             "missing_letter_count": 1
         }

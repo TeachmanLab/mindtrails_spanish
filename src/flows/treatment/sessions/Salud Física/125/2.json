@@ -1,19 +1,19 @@
 {
-    "header_text": "Exposure Guilt",
+    "header_text": "Tos después de salir",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Después de sentir que tu garganta te duele, decides hacerte prueba de COVID. Tu pareja casi no sale para protegerse y piensas que estará enojado por una posible transmisión. Esperas que te perdóne porque contraer COVID no está completamente bajo tu... "
+            "text": "Durante los últimos días, has empezado a tener una tos. Saliste el fin de semana pasado y te preguntas si podrías haber contraído COVID. Decides hacerte la..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Exposure Guilt_Salud Física_puzzle1",
+            "name": "Tos después de salir_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "control"
+                "prueba"
             ],
             "missing_letter_count": 1
         }

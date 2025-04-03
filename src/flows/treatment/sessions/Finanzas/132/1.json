@@ -1,14 +1,14 @@
 {
-    "header_text": "Mantener a la familia",
+    "header_text": "Presiones laborales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mantener a la familia"
+            "text": "Presiones laborales"
         },
         {
             "type": "Media",
-            "url": "./images/Mantener_a_la_familia.jpg"
+            "url": "./images/Presiones_laborales.jpg"
         }
     ]
 }

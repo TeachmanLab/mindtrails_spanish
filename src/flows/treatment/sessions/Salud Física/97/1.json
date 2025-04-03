@@ -1,14 +1,14 @@
 {
-    "header_text": "Conociendo alguien nuevo",
+    "header_text": "Manejando con una amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Conociendo alguien nuevo"
+            "text": "Manejando con una amigo"
         },
         {
             "type": "Media",
-            "url": "./images/Conociendo_alguien_nuevo.jpg"
+            "url": "./images/Manejando_con_una_amigo.jpg"
         }
     ]
 }

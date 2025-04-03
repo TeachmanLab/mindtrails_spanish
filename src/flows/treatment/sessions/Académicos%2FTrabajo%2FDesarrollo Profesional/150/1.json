@@ -1,14 +1,14 @@
 {
-    "header_text": "Emoción prospectiva",
+    "header_text": "Obtener una oportunidad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Emoción prospectiva"
+            "text": "Obtener una oportunidad"
         },
         {
             "type": "Media",
-            "url": "./images/Emoción_prospectiva.jpg"
+            "url": "./images/Obtener_una_oportunidad.jpg"
         }
     ]
 }

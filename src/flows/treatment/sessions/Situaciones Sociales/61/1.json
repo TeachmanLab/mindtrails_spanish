@@ -1,14 +1,14 @@
 {
-    "header_text": "Miedo al COVID",
+    "header_text": "Confianza en las redes sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Miedo al COVID"
+            "text": "Confianza en las redes sociales"
         },
         {
             "type": "Media",
-            "url": "./images/Miedo_al_COVID.jpg"
+            "url": "./images/Confianza_en_las_redes_sociales.jpg"
         }
     ]
 }

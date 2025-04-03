@@ -1,14 +1,14 @@
 {
-    "header_text": "Chistes con amigos",
+    "header_text": "Un país extranjero",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Chistes con amigos"
+            "text": "Un país extranjero"
         },
         {
             "type": "Media",
-            "url": "./images/Chistes_con_amigos.jpg"
+            "url": "./images/Un_país_extranjero.jpg"
         }
     ]
 }

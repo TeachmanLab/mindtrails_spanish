@@ -1,14 +1,14 @@
 {
-    "header_text": "Lograr tus objetivos",
+    "header_text": "Puerta con seguro",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Lograr tus objetivos"
+            "text": "Puerta con seguro"
         },
         {
             "type": "Media",
-            "url": "./images/Lograr_tus_objetivos.jpg"
+            "url": "./images/Puerta_con_seguro.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Ejercicio con un amigo",
+    "header_text": "Clase de baile",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ejercicio con un amigo"
+            "text": "Clase de baile"
         },
         {
             "type": "Media",
-            "url": "./images/Ejercicio_con_un_amigo.jpg"
+            "url": "./images/Clase_de_baile.jpg"
         }
     ]
 }

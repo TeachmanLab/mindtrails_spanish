@@ -1,14 +1,14 @@
 {
-    "header_text": "Sentirse mareado",
+    "header_text": "Vacaciones reprogramadas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sentirse mareado"
+            "text": "Vacaciones reprogramadas"
         },
         {
             "type": "Media",
-            "url": "./images/Sentirse_mareado.jpg"
+            "url": "./images/Vacaciones_reprogramadas.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Conociendo alguien nuevo",
+    "header_text": "Alergias de primavera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Conociendo alguien nuevo"
+            "text": "Alergias de primavera"
         },
         {
             "type": "Media",
-            "url": "./images/Conociendo_alguien_nuevo.jpg"
+            "url": "./images/Alergias_de_primavera.jpg"
         }
     ]
 }

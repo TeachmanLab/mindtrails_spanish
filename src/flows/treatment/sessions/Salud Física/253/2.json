@@ -1,19 +1,19 @@
 {
-    "header_text": "Prueba de enfermedad",
+    "header_text": "Problemas de visión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En tu cita médica anual, te piden que te hagas una prueba para detectar una enfermedad. Después de la prueba, esperas los resultados en la sala de espera por mucho tiempo. Crees que las posibilidades de que tienes la enfermedad son..."
+            "text": "Cuando te despiertas en la mañana, te sientas rápidamente. Tu visión se vuelve borrosa y luego todo se pone negro por un momento. Tu visión regresa despues de ese momento, y te convences que te estás quedando... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Prueba de enfermedad_Salud Física_puzzle1",
+            "name": "Problemas de visión_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "mínimas"
+                "siego"
             ],
             "missing_letter_count": 2
         }

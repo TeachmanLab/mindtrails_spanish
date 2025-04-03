@@ -1,14 +1,14 @@
 {
-    "header_text": "siendo padre",
+    "header_text": "Reloj favorito",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "siendo padre"
+            "text": "Reloj favorito"
         },
         {
             "type": "Media",
-            "url": "./images/siendo_padre.jpg"
+            "url": "./images/Reloj_favorito.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Equilibrio de trabajo y amistades",
+    "header_text": "Clase de baile",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Equilibrio de trabajo y amistades"
+            "text": "Clase de baile"
         },
         {
             "type": "Media",
-            "url": "./images/Equilibrio_de_trabajo_y_amistades.jpg"
+            "url": "./images/Clase_de_baile.jpg"
         }
     ]
 }

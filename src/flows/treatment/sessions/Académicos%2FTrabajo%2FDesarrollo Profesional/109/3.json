@@ -1,19 +1,19 @@
 {
-    "header_text": "Malentendido",
+    "header_text": "Recuperándote despues de un error",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Después de explicar lo que sucedió al jefe de tu departamento, él dice que entiende. sientes que aún podrás causar una buena..."
+            "text": "Más tarde ese día, te das cuenta de que es normal cometer errores al presentar. Probablemente la audiencia pensó que tu presenación después de comenzar de nuevo fue..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Malentendido_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
+            "name": "Recuperándote despues de un error_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "impresión"
+                "admirable"
             ],
             "missing_letter_count": 1
         }

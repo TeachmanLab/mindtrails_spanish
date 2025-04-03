@@ -1,21 +1,24 @@
 {
-    "header_text": "Practicando la presentación",
+    "header_text": "Sentirse diferente",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Después de la presentación, te das cuenta de que estos errores son comunes. El supervisor probablemente piensa que tu recuperación y capacidad para continuar presentado fue muy... "
+            "Text": "¿Es malo que te sientas diferente a los demás en tu campo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Practicando la presentación_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
+            "type": "Buttons",
+            "name": "Sentirse diferente_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "admirable"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

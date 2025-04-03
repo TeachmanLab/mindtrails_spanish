@@ -1,24 +1,24 @@
 {
-    "header_text": "Solicitar una subvención",
+    "header_text": "Contribuir a una discusión",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Eres capaz de hacer esta investigación?"
+            "Text": "Las personas en su oficina probablemente..."
         },
         {
             "type": "Buttons",
-            "name": "Solicitar una subvención_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Contribuir a una discusión_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "No les gusten tus ideas",
+                "Apoyen tus ideas"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Apoyen tus ideas"
         }
     ]
 }

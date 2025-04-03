@@ -1,14 +1,14 @@
 {
-    "header_text": "Opiniones fuertes",
+    "header_text": "Pensando en preguntas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Ha llegado la mañana de tu primera evaluación con tu nuevo jefe. Te dicen que tienen opiniones firmes sobre tu trabajo. Piensas que probablemente encuentran tu trabajo..."
+            "type": "Label",
+            "text": "Pensando en preguntas"
         },
         {
-            "type": "Entry",
-            "name": "Opiniones fuertes_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "type": "Media",
+            "url": "./images/Pensando_en_preguntas.jpg"
         }
     ]
 }

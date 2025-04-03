@@ -1,24 +1,21 @@
 {
-    "header_text": "Broma interna",
+    "header_text": "Nuevo ambiente",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Otros te juzgan por el comentario de tu amigo en tu publicación?"
+            "text": "Piensas un poco más en el paseo de acampar, y te das cuenta de que disfrutarás tanto de la experiencia que el miedo se disipará. Te sientes más..."
         },
         {
-            "type": "Buttons",
-            "name": "Broma interna_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Nuevo ambiente_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "words": [
+                "tranquilo"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ]
 }

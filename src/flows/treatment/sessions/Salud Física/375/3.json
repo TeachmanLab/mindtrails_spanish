@@ -1,24 +1,24 @@
 {
-    "header_text": "Planes para visitar a la familia",
+    "header_text": "Demasiada atención",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿siempre puedes reprogramar tu viaje para ver a tu familia?"
+            "Text": "¿Tus amigos y familiares notan lo ansioso que te sientes?"
         },
         {
             "type": "Buttons",
-            "name": "Planes para visitar a la familia_Salud Física_comp_question",
+            "name": "Demasiada atención_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "Sí"
+            "correct_value": "No"
         }
     ]
 }

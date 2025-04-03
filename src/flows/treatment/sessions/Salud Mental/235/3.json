@@ -1,15 +1,15 @@
 {
-    "header_text": "Práctica de presentación",
+    "header_text": "Temprano en la mañana",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que estás bien preparado?"
+            "Text": "¿Tus amigos te juzgan por no salir con ellos?"
         },
         {
             "type": "Buttons",
-            "name": "Práctica de presentación_Salud Mental_comp_question",
+            "name": "Temprano en la mañana_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "correct_value": "Sí"
+            "correct_value": "No"
         }
     ]
 }

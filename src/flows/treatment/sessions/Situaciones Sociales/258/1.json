@@ -1,11 +1,14 @@
 {
-    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
+    "header_text": "Almuerzo con un amigo",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Text",
-            "text": "Cuando tengas ganas de compararte con otras personas en tu vida, trata de hacerte un cumplido. "
+            "type": "Label",
+            "text": "Almuerzo con un amigo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/Almuerzo_con_un_amigo.jpg"
         }
     ]
 }

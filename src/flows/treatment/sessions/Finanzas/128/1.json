@@ -1,11 +1,14 @@
 {
-    "header_text": "Maneja tus sentimientos: Finanzas",
+    "header_text": "Miedo de la decepción",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Text",
-            "text": "Cada semana, disfrute de una actividad divertida que no requiera dinero, como salir a caminar."
+            "type": "Label",
+            "text": "Miedo de la decepción"
+        },
+        {
+            "type": "Media",
+            "url": "./images/Miedo_de_la_decepción.jpg"
         }
     ]
 }

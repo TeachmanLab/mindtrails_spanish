@@ -1,14 +1,14 @@
 {
-    "header_text": "Esta reunión",
+    "header_text": "El torneo de fútbol",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Esta reunión"
+            "text": "El torneo de fútbol"
         },
         {
             "type": "Media",
-            "url": "./images/Esta_reunión.jpg"
+            "url": "./images/El_torneo_de_fútbol.jpg"
         }
     ]
 }

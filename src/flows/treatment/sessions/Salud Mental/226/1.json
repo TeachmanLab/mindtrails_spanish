@@ -1,14 +1,14 @@
 {
-    "header_text": "Correo electrónico perspicaz",
+    "header_text": "Probando un dicho divertido",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Correo electrónico perspicaz"
+            "text": "Probando un dicho divertido"
         },
         {
             "type": "Media",
-            "url": "./images/Correo_electrónico_perspicaz.jpg"
+            "url": "./images/Probando_un_dicho_divertido.jpg"
         }
     ]
 }

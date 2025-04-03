@@ -1,14 +1,15 @@
 {
-    "header_text": "Arriesgándote",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
     "header_icon": "assets/subtitle.png",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
-            "type": "Label",
-            "text": "Arriesgándote"
+            "type": "Text",
+            "text": "Piensas en algo que te causó ansiedad la primera vez que lo hiciste. ¿Qué estrategias te ayudaron a superar eso?"
         },
         {
-            "type": "Media",
-            "url": "./images/Arriesgándote.jpg"
+            "type": "Entry",
+            "name": "Consejo #1_entry"
         }
     ]
 }

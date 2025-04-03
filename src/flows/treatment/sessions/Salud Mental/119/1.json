@@ -1,14 +1,14 @@
 {
-    "header_text": "Puerta con seguro",
+    "header_text": "Cancelar con amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Puerta con seguro"
+            "text": "Cancelar con amigos"
         },
         {
             "type": "Media",
-            "url": "./images/Puerta_con_seguro.jpg"
+            "url": "./images/Cancelar_con_amigos.jpg"
         }
     ]
 }

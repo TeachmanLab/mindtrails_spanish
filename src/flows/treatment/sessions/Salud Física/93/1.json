@@ -1,14 +1,14 @@
 {
-    "header_text": "Presentación de clase",
+    "header_text": "Larga caminata afuera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Presentación de clase"
+            "text": "Larga caminata afuera"
         },
         {
             "type": "Media",
-            "url": "./images/Presentación_de_clase.jpg"
+            "url": "./images/Larga_caminata_afuera.jpg"
         }
     ]
 }

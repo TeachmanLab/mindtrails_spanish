@@ -1,14 +1,14 @@
 {
-    "header_text": "Visitar a un nuevo amigo",
+    "header_text": "Comparación de puntuaciones en redes sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Visitar a un nuevo amigo"
+            "text": "Comparación de puntuaciones en redes sociales"
         },
         {
             "type": "Media",
-            "url": "./images/Visitar_a_un_nuevo_amigo.jpg"
+            "url": "./images/Comparación_de_puntuaciones_en_redes_sociales.jpg"
         }
     ]
 }

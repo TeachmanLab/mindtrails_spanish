@@ -1,14 +1,14 @@
 {
-    "header_text": "Miedo a perderse algo",
+    "header_text": "El escaparate de danza",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Miedo a perderse algo"
+            "text": "El escaparate de danza"
         },
         {
             "type": "Media",
-            "url": "./images/Miedo_a_perderse_algo.jpg"
+            "url": "./images/El_escaparate_de_danza.jpg"
         }
     ]
 }

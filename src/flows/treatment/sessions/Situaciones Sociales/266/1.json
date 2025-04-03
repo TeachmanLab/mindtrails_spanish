@@ -1,14 +1,14 @@
 {
-    "header_text": "Nuevo ambiente",
+    "header_text": "Amigos del club de lectura",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nuevo ambiente"
+            "text": "Amigos del club de lectura"
         },
         {
             "type": "Media",
-            "url": "./images/Nuevo_ambiente.jpg"
+            "url": "./images/Amigos_del_club_de_lectura.jpg"
         }
     ]
 }

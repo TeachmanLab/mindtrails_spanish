@@ -1,21 +1,24 @@
 {
-    "header_text": "Mente va en blanco",
+    "header_text": "Una pregunta personal",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Te das un momento para ordenar tus pensamientos y luego responder a la pregunta. Cuando piensas en la respuesta que diste, te sientes... "
+            "Text": "¿Tu amigo tiene una opinión más negativa de ti después de que compartiste información personal?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Mente va en blanco_Situaciones Sociales_puzzle_word2",
+            "type": "Buttons",
+            "name": "Una pregunta personal_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "bien"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

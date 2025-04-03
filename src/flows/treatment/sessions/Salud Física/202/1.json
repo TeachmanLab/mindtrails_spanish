@@ -1,14 +1,14 @@
 {
-    "header_text": "Un golpe accidental",
+    "header_text": "Día caluroso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un golpe accidental"
+            "text": "Día caluroso"
         },
         {
             "type": "Media",
-            "url": "./images/Un_golpe_accidental.jpg"
+            "url": "./images/Día_caluroso.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Regalos de días festivos",
+    "header_text": "Planificación de pagos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Regalos de días festivos"
+            "text": "Planificación de pagos"
         },
         {
             "type": "Media",
-            "url": "./images/Regalos_de_días_festivos.jpg"
+            "url": "./images/Planificación_de_pagos.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Confiar en los padres",
+    "header_text": "Visita médica inesperada",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Confiar en los padres"
+            "text": "Visita médica inesperada"
         },
         {
             "type": "Media",
-            "url": "./images/Confiar_en_los_padres.jpg"
+            "url": "./images/Visita_médica_inesperada.jpg"
         }
     ]
 }

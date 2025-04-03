@@ -1,11 +1,14 @@
 {
-    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_text": "Vecino amigable",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Text",
-            "text": "Cada cuerpo es diferente. Tómate un momento para apreciar todo lo que tu cuerpo hace para apoyarte durante la vida."
+            "type": "Label",
+            "text": "Vecino amigable"
+        },
+        {
+            "type": "Media",
+            "url": "./images/Vecino_amigable.jpg"
         }
     ]
 }

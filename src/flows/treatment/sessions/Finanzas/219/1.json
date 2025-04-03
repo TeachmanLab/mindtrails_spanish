@@ -1,14 +1,14 @@
 {
-    "header_text": "Trabajos bien pagados",
+    "header_text": "Planificación de pagos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trabajos bien pagados"
+            "text": "Planificación de pagos"
         },
         {
             "type": "Media",
-            "url": "./images/Trabajos_bien_pagados.jpg"
+            "url": "./images/Planificación_de_pagos.jpg"
         }
     ]
 }

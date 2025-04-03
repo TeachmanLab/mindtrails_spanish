@@ -1,19 +1,19 @@
 {
-    "header_text": "Dolor de estómago",
+    "header_text": "Funciones normales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado nervioso por una próxima evaluación en el trabajo. El día de la evaluación notas que te duele el estómago. Piensas que el dolor de estómago probablemente se deber a la..."
+            "text": "Estás tomando una clase de baile y, durante un descanso, sientes que tus piernas se vuelven inestables. Te enfocas en estas sensaciones mientras tomas un trago de agua. Piensas que las piernas inestables probablemente signifiquen que te estás..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Dolor de estómago_Salud Física_puzzle1",
+            "name": "Funciones normales_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "ansiedad"
+                "esforzando"
             ],
             "missing_letter_count": 1
         }

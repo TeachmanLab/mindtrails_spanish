@@ -1,14 +1,14 @@
 {
-    "header_text": "Experiencia en el supermercado",
+    "header_text": "Llamada breve",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Experiencia en el supermercado"
+            "text": "Llamada breve"
         },
         {
             "type": "Media",
-            "url": "./images/Experiencia_en_el_supermercado.jpg"
+            "url": "./images/Llamada_breve.jpg"
         }
     ]
 }

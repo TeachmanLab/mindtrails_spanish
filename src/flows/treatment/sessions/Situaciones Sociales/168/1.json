@@ -1,14 +1,14 @@
 {
-    "header_text": "Recibir mensajes explícitos en las redes sociales",
+    "header_text": "Mascarillas para invitados",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Recibir mensajes explícitos en las redes sociales"
+            "text": "Mascarillas para invitados"
         },
         {
             "type": "Media",
-            "url": "./images/Recibir_mensajes_explícitos_en_las_redes_sociales.jpg"
+            "url": "./images/Mascarillas_para_invitados.jpg"
         }
     ]
 }

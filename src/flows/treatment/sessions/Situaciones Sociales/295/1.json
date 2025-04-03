@@ -1,14 +1,14 @@
 {
-    "header_text": "Evaluación importante",
+    "header_text": "Viejos amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Evaluación importante"
+            "text": "Viejos amigos"
         },
         {
             "type": "Media",
-            "url": "./images/Evaluación_importante.jpg"
+            "url": "./images/Viejos_amigos.jpg"
         }
     ]
 }

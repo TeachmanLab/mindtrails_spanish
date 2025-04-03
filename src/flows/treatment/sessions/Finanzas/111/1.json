@@ -1,14 +1,14 @@
 {
-    "header_text": "Asistiendo a un espectáculo",
+    "header_text": "Permitirse la educación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Asistiendo a un espectáculo"
+            "text": "Permitirse la educación"
         },
         {
             "type": "Media",
-            "url": "./images/Asistiendo_a_un_espectáculo.jpg"
+            "url": "./images/Permitirse_la_educación.jpg"
         }
     ]
 }

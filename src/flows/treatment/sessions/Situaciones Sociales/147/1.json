@@ -1,14 +1,14 @@
 {
-    "header_text": "Mente va en blanco",
+    "header_text": "Una pregunta personal",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mente va en blanco"
+            "text": "Una pregunta personal"
         },
         {
             "type": "Media",
-            "url": "./images/Mente_va_en_blanco.jpg"
+            "url": "./images/Una_pregunta_personal.jpg"
         }
     ]
 }

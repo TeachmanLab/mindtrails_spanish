@@ -1,14 +1,14 @@
 {
-    "header_text": "Expectativas diferentes",
+    "header_text": "Planes para el fin de semana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Expectativas diferentes"
+            "text": "Planes para el fin de semana"
         },
         {
             "type": "Media",
-            "url": "./images/Expectativas_diferentes.jpg"
+            "url": "./images/Planes_para_el_fin_de_semana.jpg"
         }
     ]
 }

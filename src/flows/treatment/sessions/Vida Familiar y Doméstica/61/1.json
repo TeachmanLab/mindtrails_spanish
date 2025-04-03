@@ -1,14 +1,14 @@
 {
-    "header_text": "Hablando sobre vivienda",
+    "header_text": "Noticias decepcionantes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Hablando sobre vivienda"
+            "text": "Noticias decepcionantes"
         },
         {
             "type": "Media",
-            "url": "./images/Hablando_sobre_vivienda.jpg"
+            "url": "./images/Noticias_decepcionantes.jpg"
         }
     ]
 }

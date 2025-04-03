@@ -1,14 +1,14 @@
 {
-    "header_text": "Estar a cargo",
+    "header_text": "Boca seca",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Estar a cargo"
+            "text": "Boca seca"
         },
         {
             "type": "Media",
-            "url": "./images/Estar_a_cargo.jpg"
+            "url": "./images/Boca_seca.jpg"
         }
     ]
 }

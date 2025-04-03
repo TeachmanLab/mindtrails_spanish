@@ -1,14 +1,14 @@
 {
-    "header_text": "Día especial",
+    "header_text": "Reunión uno a uno",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Día especial"
+            "text": "Reunión uno a uno"
         },
         {
             "type": "Media",
-            "url": "./images/Día_especial.jpg"
+            "url": "./images/Reunión_uno_a_uno.jpg"
         }
     ]
 }

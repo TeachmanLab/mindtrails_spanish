@@ -1,14 +1,14 @@
 {
-    "header_text": "Dando una presentación",
+    "header_text": "Limitaciones futuras",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes mucho trabajo para la evaluación de tu trabajo. Una de tus tareas más importantes es hacer una presentación extensa y bien preparada para tus compañeros de trabajo. Cuando te imaginas dando tu presentación, te sientes..."
+            "text": "Esta mañana escuchas en las noticia que muchas empresas están reduciendo personal. Piensas en qué sucederá si pierdes tu trabajo. Decides que será posible encontrar otro..."
         },
         {
             "type": "Entry",
-            "name": "Dando una presentación_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Limitaciones futuras_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ]
 }

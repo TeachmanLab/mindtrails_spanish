@@ -1,0 +1,14 @@
+{
+    "header_text": "Conociendo gente nueva",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Decides tomar la iniciativa y pedirles sus números. Te sientes..."
+        },
+        {
+            "type": "Entry",
+            "name": "Conociendo gente nueva_Situaciones Sociales_entry2"
+        }
+    ]
+}

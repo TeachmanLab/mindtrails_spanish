@@ -1,14 +1,14 @@
 {
-    "header_text": "Desconectandote",
+    "header_text": "Corriendo tu primera carrera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Desconectandote"
+            "text": "Corriendo tu primera carrera"
         },
         {
             "type": "Media",
-            "url": "./images/Desconectandote.jpg"
+            "url": "./images/Corriendo_tu_primera_carrera.jpg"
         }
     ]
 }

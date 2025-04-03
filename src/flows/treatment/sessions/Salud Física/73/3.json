@@ -1,14 +1,14 @@
 {
-    "header_text": "Corriendo una maratón",
+    "header_text": "Corriendo con un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando consideras la idea de correr un maratón, no crees que sea demasiado para ti porque crees que probablemente serás lo suficientemente..."
+            "text": "Crees que mañana no te quedarás atrás, y las posibilidades de que puedas seguir el ritmo de tu amigo son..."
         },
         {
             "type": "Entry",
-            "name": "Corriendo una maratón_Salud Física_entry2"
+            "name": "Corriendo con un amigo_Salud Física_entry2"
         }
     ]
 }

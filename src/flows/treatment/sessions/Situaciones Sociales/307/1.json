@@ -1,14 +1,14 @@
 {
-    "header_text": "situación de embriaguez",
+    "header_text": "Palabra tropiezo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "situación de embriaguez"
+            "text": "Palabra tropiezo"
         },
         {
             "type": "Media",
-            "url": "./images/situación_de_embriaguez.jpg"
+            "url": "./images/Palabra_tropiezo.jpg"
         }
     ]
 }

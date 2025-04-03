@@ -1,14 +1,14 @@
 {
-    "header_text": "Foto con amigos",
+    "header_text": "Presentación de tu trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Foto con amigos"
+            "text": "Presentación de tu trabajo"
         },
         {
             "type": "Media",
-            "url": "./images/Foto_con_amigos.jpg"
+            "url": "./images/Presentación_de_tu_trabajo.jpg"
         }
     ]
 }

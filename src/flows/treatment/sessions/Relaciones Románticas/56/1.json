@@ -1,11 +1,10 @@
 {
-    "header_text": "Maneja tus sentimientos: Relaciones Románticas",
+    "header_text": "Persona atractiva en las redes sociales.",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "A veces es útil tomar unos minutos para refrescarse si estás molesto con tu pareja. Trate de tomar un descanso de discutir durante 5 minutos, y luego volver juntos para tratar de hablar sobre el tema de nuevo. "
+            "text": "A continuación, verá una situación que podría provocarle ansiedad. Mientras lees el cuento, imagínate en esa situación. Después de imaginarse a sí mismo en la situación, haga clic en \"Siguiente\" y luego verá ejemplos de pensamientos, sentimientos y comportamientos que podrían ocurrir en esa situación. \n\nAlgunos de los pensamientos, sentimientos y comportamientos serán útiles y otros no."
         }
     ]
 }

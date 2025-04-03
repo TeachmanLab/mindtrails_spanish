@@ -1,14 +1,14 @@
 {
-    "header_text": "Despertándote mareado",
+    "header_text": "Nadando en la playa",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Despertándote mareado"
+            "text": "Nadando en la playa"
         },
         {
             "type": "Media",
-            "url": "./images/Despertándote_mareado.jpg"
+            "url": "./images/Nadando_en_la_playa.jpg"
         }
     ]
 }

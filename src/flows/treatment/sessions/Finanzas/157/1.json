@@ -1,14 +1,14 @@
 {
-    "header_text": "Planificación de pagos",
+    "header_text": "Mantener a la familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Planificación de pagos"
+            "text": "Mantener a la familia"
         },
         {
             "type": "Media",
-            "url": "./images/Planificación_de_pagos.jpg"
+            "url": "./images/Mantener_a_la_familia.jpg"
         }
     ]
 }

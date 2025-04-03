@@ -1,19 +1,19 @@
 {
-    "header_text": "El torneo de fútbol",
+    "header_text": "Gustos musicales diferentes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Después de no jugar por un tiempo, te uníste a un equipo de futbol recreativo. Hay un torneo al final de la... "
+            "text": "Estás en el carro con tu suegra y pones la radio. Mientras discuten qué estación escuchar, te das cuenta de que tú y tu suegra tienen gustos musicales muy..."
         },
         {
             "type": "WordPuzzle",
-            "name": "El torneo de fútbol_Situaciones Sociales_puzzle1",
+            "name": "Gustos musicales diferentes_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "temporada"
+                "diferentes"
             ],
             "missing_letter_count": 1
         }

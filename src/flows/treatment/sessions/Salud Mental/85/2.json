@@ -1,14 +1,14 @@
 {
-    "header_text": "Trabajo inacabado",
+    "header_text": "Probando comidas nuevas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tuviste un día muy ocupado y no pudiste realizar todas sus tareas. En la cena, tu pareja habla orgullosamente de cómo terminó todo lo que tenía en la lista de tareas pendientes. Al pensar en si podrás completar tu trabajo mañana, te sientes..."
+            "text": "En la hora de almuerzo, tu compañero de trabajo trae una comida muy picante. Despues de probar un poquito, empiezas a sudar y sientes el latido de tu corazón. Estas sensaciones causan pensamientos ansiosos. Decides enfocarte en la conversación, y el resto del almuerzo lo es... "
         },
         {
             "type": "Entry",
-            "name": "Trabajo inacabado_Salud Mental_entry1"
+            "name": "Probando comidas nuevas_Salud Mental_entry1"
         }
     ]
 }

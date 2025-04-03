@@ -1,21 +1,14 @@
 {
-    "header_text": "Amigo de tu pareja",
+    "header_text": "Equilibrar un significativo otro y amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Tu pareja te llevó a pasar el rato con uno de sus buenos amigos. Al verlos interactuar, sientes que el amigo está románticamente interesado en tu pareja. Te recuerdas que tu pareja ve a esta persona como un... "
+            "type": "Label",
+            "text": "Equilibrar un significativo otro y amigos"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Amigo de tu pareja_Relaciones Románticas_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "words": [
-                "amigo"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/Equilibrar_un_significativo_otro_y_amigos.jpg"
         }
     ]
 }

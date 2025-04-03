@@ -1,14 +1,14 @@
 {
-    "header_text": "Caminata con amigos",
+    "header_text": "Un pastel de cumpleaños",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Caminata con amigos"
+            "text": "Un pastel de cumpleaños"
         },
         {
             "type": "Media",
-            "url": "./images/Caminata_con_amigos.jpg"
+            "url": "./images/Un_pastel_de_cumpleaños.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Permitiendo que otros vean tu trabajo",
+    "header_text": "Una perspectiva diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Permitiendo que otros vean tu trabajo"
+            "text": "Una perspectiva diferente"
         },
         {
             "type": "Media",
-            "url": "./images/Permitiendo_que_otros_vean_tu_trabajo.jpg"
+            "url": "./images/Una_perspectiva_diferente.jpg"
         }
     ]
 }

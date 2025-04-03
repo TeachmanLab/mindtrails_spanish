@@ -1,14 +1,14 @@
 {
-    "header_text": "Cambio de planes",
+    "header_text": "Comprometerse con las actividades",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cambio de planes"
+            "text": "Comprometerse con las actividades"
         },
         {
             "type": "Media",
-            "url": "./images/Cambio_de_planes.jpg"
+            "url": "./images/Comprometerse_con_las_actividades.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Entrega Responsable",
+    "header_text": "Fotos en redes sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Entrega Responsable"
+            "text": "Fotos en redes sociales"
         },
         {
             "type": "Media",
-            "url": "./images/Entrega_Responsable.jpg"
+            "url": "./images/Fotos_en_redes_sociales.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Planes para visitar a la familia",
+    "header_text": "Entrega Responsable",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Planes para visitar a la familia"
+            "text": "Entrega Responsable"
         },
         {
             "type": "Media",
-            "url": "./images/Planes_para_visitar_a_la_familia.jpg"
+            "url": "./images/Entrega_Responsable.jpg"
         }
     ]
 }

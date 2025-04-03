@@ -1,14 +1,14 @@
 {
-    "header_text": "Ahorrar dinero",
+    "header_text": "Chistes de compras",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Necesitas ahorrar dinero para llevar siempre la comida de casa. Cuando comes con tus amigos, notas que todos salen a comer cada almuerzo. Te das cuenta de que tienes una situación diferente a la de tus amigos y está..."
+            "text": "Estás solo en el supermercado. Observas a otros dos miembros de la facultad juntos en la otra parte de la tienda riéndose. Probablemente se estén riendo de un..."
         },
         {
             "type": "Entry",
-            "name": "Ahorrar dinero_Finanzas_entry1"
+            "name": "Chistes de compras_Finanzas_entry1"
         }
     ]
 }

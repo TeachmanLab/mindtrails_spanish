@@ -1,14 +1,14 @@
 {
-    "header_text": "Comunicación familiar",
+    "header_text": "La cita",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comunicación familiar"
+            "text": "La cita"
         },
         {
             "type": "Media",
-            "url": "./images/Comunicación_familiar.jpg"
+            "url": "./images/La_cita.jpg"
         }
     ]
 }

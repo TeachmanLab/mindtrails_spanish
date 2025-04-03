@@ -1,14 +1,14 @@
 {
-    "header_text": "Encontrar al indicado",
+    "header_text": "Amigos en las relaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Encontrar al indicado"
+            "text": "Amigos en las relaciones"
         },
         {
             "type": "Media",
-            "url": "./images/Encontrar_al_indicado.jpg"
+            "url": "./images/Amigos_en_las_relaciones.jpg"
         }
     ]
 }

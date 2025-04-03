@@ -1,14 +1,14 @@
 {
-    "header_text": "Consejos de padres",
+    "header_text": "Sonidos por la noche",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te das cuenta de que tus padres valoran tu opinión y te dieron ese consejo porque querían ayudarte. sientes que podrás decirles que no estás de acuerdo y que respetarán tu..."
+            "text": "Estás solo en casa y es de noche. Escuchas un ruido fuerte afuera. Piensas en qué podría ser, y crees que son tus..."
         },
         {
             "type": "Entry",
-            "name": "Consejos de padres_Vida Familiar y Doméstica_entry2"
+            "name": "Sonidos por la noche_Vida Familiar y Doméstica_entry1"
         }
     ]
 }

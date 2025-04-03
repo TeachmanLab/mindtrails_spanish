@@ -1,14 +1,14 @@
 {
-    "header_text": "Amigos en las relaciones",
+    "header_text": "Redes sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Amigos en las relaciones"
+            "text": "Redes sociales"
         },
         {
             "type": "Media",
-            "url": "./images/Amigos_en_las_relaciones.jpg"
+            "url": "./images/Redes_sociales.jpg"
         }
     ]
 }

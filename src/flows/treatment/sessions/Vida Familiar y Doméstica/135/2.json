@@ -1,19 +1,19 @@
 {
-    "header_text": "Nerviosismo de cumpleaños",
+    "header_text": "Conversación durante la cena",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus amigos están organizando una fiesta de cumpleaños para ti en su casa. Invitaron a mucha gente que estarán ahí para ti. Cuando piensas en toda la gente que vendrá, te sientes... "
+            "text": "Estás en casa de tu amigo para cenar y te preguntan sobre tus padres. No estás seguro de cómo responder porque tus padres están divorciados y no has visto a tu madre durante mucho tiempo. Piensas en qué dirás y te sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Nerviosismo de cumpleaños_Vida Familiar y Doméstica_puzzle1",
+            "name": "Conversación durante la cena_Vida Familiar y Doméstica_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "nervioso"
+                "seguro"
             ],
             "missing_letter_count": 1
         }

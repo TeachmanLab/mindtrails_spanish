@@ -1,19 +1,19 @@
 {
-    "header_text": "Inicio Presentaciones",
+    "header_text": "Conducción segura",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Notas que tu casa no es como la de tus compañeros. Tu mejor amigo nunca ha estado en tu casa, pero quiere venir a cenar una noche. Crees que tu reacción hacia tu hogar será..."
+            "text": "Tu amigo es un buen conductor, pero hoy está lloviendo fuertemente. Están conduciendo muy rápido, así que les pides que disminuyan la velocidad. Respiras profundamente, porque las posibilidades de sufrir un accidente son... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Inicio Presentaciones_Vida Familiar y Doméstica_puzzle1",
+            "name": "Conducción segura_Vida Familiar y Doméstica_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "respetuosa"
+                "pequeñas"
             ],
             "missing_letter_count": 2
         }

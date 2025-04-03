@@ -1,15 +1,14 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Respondiendo a preguntas inesperadas",
     "header_icon": "assets/subtitle.png",
-    "name": "¡Consejo para aplicar!",
     "elements": [
         {
-            "type": "Text",
-            "text": "Reflexionas sobre las historias que acabas de leer y cómo se resolvieron las situaciones que provocan ansiedad. ¿Qué ves como algunos de las principales conclusiones? ¿Cual de estas nuevas formas de pensar podrías verte a ti mismo aplicando a tu propia vida, y por qué?"
+            "type": "Label",
+            "text": "Respondiendo a preguntas inesperadas"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #2_entry"
+            "type": "Media",
+            "url": "./images/Respondiendo_a_preguntas_inesperadas.jpg"
         }
     ]
 }

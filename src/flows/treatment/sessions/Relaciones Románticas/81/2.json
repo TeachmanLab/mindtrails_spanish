@@ -1,14 +1,14 @@
 {
-    "header_text": "Consejería para parejas",
+    "header_text": "Planes de vacaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Tú y tu pareja han comenzado la terapia de parejas. Han asistido a algunas sesiones, pero aún tienen problemas. Piensas que el proceso simplemente tomará..."
+            "type": "Label",
+            "text": "Planes de vacaciones"
         },
         {
-            "type": "Entry",
-            "name": "Consejería para parejas_Relaciones Románticas_entry1"
+            "type": "Media",
+            "url": "./images/Planes_de_vacaciones.jpg"
         }
     ]
 }

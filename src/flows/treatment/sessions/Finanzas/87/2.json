@@ -1,14 +1,14 @@
 {
-    "header_text": "Costear los gastos",
+    "header_text": "Ahorrar dinero",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu alquiler se acerca pronto. Normalmente tienes tu alquiler presupuestado, pero algunos gastos inesperados te han dejado un poco corto y tienes que tomar algunos turnos extra en el... "
+            "text": "Necesitas ahorrar dinero para llevar siempre la comida de casa. Cuando comes con tus amigos, notas que todos salen a comer cada almuerzo. Te das cuenta de que tienes una situación diferente a la de tus amigos y está..."
         },
         {
             "type": "Entry",
-            "name": "Costear los gastos_Finanzas_entry1"
+            "name": "Ahorrar dinero_Finanzas_entry1"
         }
     ]
 }

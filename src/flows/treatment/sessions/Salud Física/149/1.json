@@ -1,14 +1,14 @@
 {
-    "header_text": "Conocido sin mascarilla",
+    "header_text": "Manchas de sudor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Conocido sin mascarilla"
+            "text": "Manchas de sudor"
         },
         {
             "type": "Media",
-            "url": "./images/Conocido_sin_mascarilla.jpg"
+            "url": "./images/Manchas_de_sudor.jpg"
         }
     ]
 }

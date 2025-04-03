@@ -1,14 +1,14 @@
 {
-    "header_text": "Montar a caballo durante el fin de semana",
+    "header_text": "Comportamiento de riesgo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Montar a caballo durante el fin de semana"
+            "text": "Comportamiento de riesgo"
         },
         {
             "type": "Media",
-            "url": "./images/Montar_a_caballo_durante_el_fin_de_semana.jpg"
+            "url": "./images/Comportamiento_de_riesgo.jpg"
         }
     ]
 }

@@ -1,21 +1,24 @@
 {
-    "header_text": "Permitirse un viaje",
+    "header_text": "Traje de fiesta",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente te has sentido muy abrumado y agotado y quieres ir de viaje para tomar un descanso. Cuando buscas vuelos, te das cuenta de que el costo de un viaje puede estar totalmente fuera de tu presupuesto. Te recuerdas que puedes hacer un viaje corto a algún lugar cercano y aún así..."
+            "Text": "¿Necesitabas gastar dinero en ropa nueva?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Permitirse un viaje_Finanzas_puzzle1",
+            "type": "Buttons",
+            "name": "Traje de fiesta_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "divertirte"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

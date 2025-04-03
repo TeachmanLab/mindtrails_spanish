@@ -1,14 +1,14 @@
 {
-    "header_text": "Nuevo atuendo",
+    "header_text": "Apoyándose en sus compañeros",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Llegas a una fiesta con ropa nueva. Todos se giran para mirarte mientras entras. Decides que deben pensar que luces con..."
+            "type": "Label",
+            "text": "Apoyándose en sus compañeros"
         },
         {
-            "type": "Entry",
-            "name": "Nuevo atuendo_Situaciones Sociales_entry1"
+            "type": "Media",
+            "url": "./images/Apoyándose_en_sus_compañeros.jpg"
         }
     ]
 }

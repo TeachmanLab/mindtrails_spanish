@@ -1,14 +1,14 @@
 {
-    "header_text": "Correo electrónico importante",
+    "header_text": "Amigo en el hospital",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Correo electrónico importante"
+            "text": "Amigo en el hospital"
         },
         {
             "type": "Media",
-            "url": "./images/Correo_electrónico_importante.jpg"
+            "url": "./images/Amigo_en_el_hospital.jpg"
         }
     ]
 }

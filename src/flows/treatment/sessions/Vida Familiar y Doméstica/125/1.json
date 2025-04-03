@@ -1,14 +1,14 @@
 {
-    "header_text": "Padres molestos",
+    "header_text": "Cambio de planes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Padres molestos"
+            "text": "Cambio de planes"
         },
         {
             "type": "Media",
-            "url": "./images/Padres_molestos.jpg"
+            "url": "./images/Cambio_de_planes.jpg"
         }
     ]
 }

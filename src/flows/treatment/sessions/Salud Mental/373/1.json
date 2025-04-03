@@ -1,14 +1,14 @@
 {
-    "header_text": "Sentirse mareado",
+    "header_text": "Expectativas diferentes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sentirse mareado"
+            "text": "Expectativas diferentes"
         },
         {
             "type": "Media",
-            "url": "./images/Sentirse_mareado.jpg"
+            "url": "./images/Expectativas_diferentes.jpg"
         }
     ]
 }

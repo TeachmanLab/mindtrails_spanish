@@ -1,19 +1,19 @@
 {
-    "header_text": "Costos de alimentos",
+    "header_text": "Estabilidad laboral",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente, solamente has querido pasar tiempo a solas y no tienes mucha motivación para levantarte de la cama. Ordenaste comida a tu casa varias noches seguidas y gastaste mucho más dinero en comida para llevar de lo que sueles hacer. Te das cuenta de que hay algunas comidas sencillas que puedes preparar la próxima semana y empiezas a..."
+            "text": "Recientemente, la economía no ha estado bien. Te encanta tu trabajo, pero te preguntas si podrás mantenerlo. Te das cuenta de que si te quedarás empleado en tu trabajo actual está fuera de tu..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Costos de alimentos_Finanzas_puzzle1",
+            "name": "Estabilidad laboral_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "planificar"
+                "control"
             ],
             "missing_letter_count": 1
         }

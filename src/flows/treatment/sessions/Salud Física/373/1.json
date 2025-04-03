@@ -1,14 +1,14 @@
 {
-    "header_text": "Comunicación tardía",
+    "header_text": "Día caluroso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comunicación tardía"
+            "text": "Día caluroso"
         },
         {
             "type": "Media",
-            "url": "./images/Comunicación_tardía.jpg"
+            "url": "./images/Día_caluroso.jpg"
         }
     ]
 }

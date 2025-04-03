@@ -1,14 +1,14 @@
 {
-    "header_text": "Almuerzo con un amigo",
+    "header_text": "Recuerdo conduciendo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Almuerzo con un amigo"
+            "text": "Recuerdo conduciendo"
         },
         {
             "type": "Media",
-            "url": "./images/Almuerzo_con_un_amigo.jpg"
+            "url": "./images/Recuerdo_conduciendo.jpg"
         }
     ]
 }

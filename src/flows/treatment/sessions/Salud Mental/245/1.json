@@ -1,14 +1,14 @@
 {
-    "header_text": "Sentirse ansioso",
+    "header_text": "Expresándote",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sentirse ansioso"
+            "text": "Expresándote"
         },
         {
             "type": "Media",
-            "url": "./images/Sentirse_ansioso.jpg"
+            "url": "./images/Expresándote.jpg"
         }
     ]
 }

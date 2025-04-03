@@ -1,14 +1,14 @@
 {
-    "header_text": "Plato típico",
+    "header_text": "El escaparate de danza",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Plato típico"
+            "text": "El escaparate de danza"
         },
         {
             "type": "Media",
-            "url": "./images/Plato_típico.jpg"
+            "url": "./images/El_escaparate_de_danza.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Cena con amigos",
+    "header_text": "Salir a almorzar",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus amigos te invitan a cenar con ellos. Te das cuenta de que salir a cenar podría hacer que sobrepases tu presupuesto para la cena. Declinas la invitación y piensas que tus amigos lo..."
+            "text": "Tu amigo te invitó a salir a almorzar mañana. Quieres ir y desarrollar tu relación con ese amigo, pero no quieres gastar más de tu presupuesto para la semana. Decides pedirle a tu amigo que pasen otro tiempo juntos sin gastar dinero, y crees que lo..."
         },
         {
             "type": "Entry",
-            "name": "Cena con amigos_Finanzas_entry1"
+            "name": "Salir a almorzar_Finanzas_entry1"
         }
     ]
 }

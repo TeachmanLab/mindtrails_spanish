@@ -1,14 +1,14 @@
 {
-    "header_text": "Explorando una cueva estrecha",
+    "header_text": "Resultados de análisis de sangre",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Explorando una cueva estrecha"
+            "text": "Resultados de análisis de sangre"
         },
         {
             "type": "Media",
-            "url": "./images/Explorando_una_cueva_estrecha.jpg"
+            "url": "./images/Resultados_de_análisis_de_sangre.jpg"
         }
     ]
 }

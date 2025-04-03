@@ -1,14 +1,14 @@
 {
-    "header_text": "Visita médica inesperada",
+    "header_text": "Reclamación del seguro",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Visita médica inesperada"
+            "text": "Reclamación del seguro"
         },
         {
             "type": "Media",
-            "url": "./images/Visita_médica_inesperada.jpg"
+            "url": "./images/Reclamación_del_seguro.jpg"
         }
     ]
 }

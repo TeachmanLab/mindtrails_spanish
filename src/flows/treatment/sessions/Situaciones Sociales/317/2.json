@@ -1,12 +1,14 @@
 {
-    "header_text": "¡Escribe El Tuyo!",
-    "header_icon": [
-        "assets/subtitle.png"
-    ],
+    "header_text": "Chistes con Amigos",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensa en una situación que te genera ansiedad y que te haya ocurrido en el pasado, o que te preocupa que suceda en el futuro. Escribe tu propia historia de entrenamiento basada en esta situación, asegurándote de incluir un final positivo o no amenazante en la oración final de la historia."
+            "text": "Un grupo de tus compañeros están susurrando y mirando en tu dirección. Algunos se están riendo mucho. No tienes tiempo de ir a saludarlos, y piensas que probablemente se estaban riendo de un... "
+        },
+        {
+            "type": "Entry",
+            "name": "Chistes con Amigos_Situaciones Sociales_entry1"
         }
     ]
 }

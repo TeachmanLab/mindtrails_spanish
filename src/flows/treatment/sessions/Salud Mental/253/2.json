@@ -1,19 +1,19 @@
 {
-    "header_text": "Amigos en las relaciones",
+    "header_text": "Redes sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Todos tus amigos están en relaciones. Actualmente no estás en una relación y te preguntas si hay algo malo en ti. Piensas que eres..."
+            "text": "Mientras te desplazas por tus redes sociales, ves una foto de todos tus amigos pasándolo bien en una llamada de video. No te invitaron a pasar el rato con ellos en línea. Lo piensas y decides que puedes sobrellevar tus..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Amigos en las relaciones_Salud Mental_puzzle1",
+            "name": "Redes sociales_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "indeseable"
+                "sentimientos"
             ],
             "missing_letter_count": 2
         }

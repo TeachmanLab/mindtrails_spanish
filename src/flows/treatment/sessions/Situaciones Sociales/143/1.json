@@ -1,14 +1,14 @@
 {
-    "header_text": "Conociendo nuevos amigos",
+    "header_text": "Chistes de compras",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Conociendo nuevos amigos"
+            "text": "Chistes de compras"
         },
         {
             "type": "Media",
-            "url": "./images/Conociendo_nuevos_amigos.jpg"
+            "url": "./images/Chistes_de_compras.jpg"
         }
     ]
 }

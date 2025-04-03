@@ -1,14 +1,14 @@
 {
-    "header_text": "Distanciamiento social adentro",
+    "header_text": "Exposición reciente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Distanciamiento social adentro"
+            "text": "Exposición reciente"
         },
         {
             "type": "Media",
-            "url": "./images/Distanciamiento_social_adentro.jpg"
+            "url": "./images/Exposición_reciente.jpg"
         }
     ]
 }

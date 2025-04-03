@@ -1,14 +1,14 @@
 {
-    "header_text": "Ahorrando dinero",
+    "header_text": "Iniciando un negocio pequeño",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ahorrando dinero"
+            "text": "Iniciando un negocio pequeño"
         },
         {
             "type": "Media",
-            "url": "./images/Ahorrando_dinero.jpg"
+            "url": "./images/Iniciando_un_negocio_pequeño.jpg"
         }
     ]
 }

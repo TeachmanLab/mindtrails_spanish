@@ -1,14 +1,14 @@
 {
-    "header_text": "Corriendo con un amigo",
+    "header_text": "Hablando de ti",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Tienes planeado correr mañana con un amigo que corre todos los días. No has corrido en bastante tiempo y te preocupa si podrás mantener el ritmo o no. Crees que las posibilidades de que puedas seguir el ritmo de tu amigo son..."
+            "type": "Label",
+            "text": "Hablando de ti"
         },
         {
-            "type": "Entry",
-            "name": "Corriendo con un amigo_Situaciones Sociales_entry1"
+            "type": "Media",
+            "url": "./images/Hablando_de_ti.jpg"
         }
     ]
 }

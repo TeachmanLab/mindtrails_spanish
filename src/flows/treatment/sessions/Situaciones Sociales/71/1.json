@@ -1,14 +1,14 @@
 {
-    "header_text": "Comparación de puntuaciones en redes sociales",
+    "header_text": "Preocupándote por gastar",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comparación de puntuaciones en redes sociales"
+            "text": "Preocupándote por gastar"
         },
         {
             "type": "Media",
-            "url": "./images/Comparación_de_puntuaciones_en_redes_sociales.jpg"
+            "url": "./images/Preocupándote_por_gastar.jpg"
         }
     ]
 }

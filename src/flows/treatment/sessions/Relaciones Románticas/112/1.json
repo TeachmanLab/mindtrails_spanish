@@ -1,14 +1,14 @@
 {
-    "header_text": "Problemas de salud mental",
+    "header_text": "Estando soltero",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Problemas de salud mental"
+            "text": "Estando soltero"
         },
         {
             "type": "Media",
-            "url": "./images/Problemas_de_salud_mental.jpg"
+            "url": "./images/Estando_soltero.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Dando una presentación",
+    "header_text": "Opinión importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes mucho trabajo para la evaluación de tu trabajo. Una de tus tareas más importantes es hacer una presentación extensa y bien preparada para tus compañeros de trabajo. Cuando te imaginas dando tu presentación, te sientes..."
+            "text": "Terminas una tarea que tienes que entregar la próxima semana para le pides la opinión a tu jefe. Te dicen que el trabajo está bien, excepto por una sección incompleta. sientes que piensan que eres..."
         },
         {
             "type": "Entry",
-            "name": "Dando una presentación_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Opinión importante_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ]
 }

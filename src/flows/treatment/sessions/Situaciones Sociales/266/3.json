@@ -1,21 +1,24 @@
 {
-    "header_text": "Nuevo ambiente",
+    "header_text": "Amigos del club de lectura",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas un poco más en el paseo de acampar, y te das cuenta de que disfrutarás tanto de la experiencia que el miedo se disipará. Te sientes más..."
+            "Text": "si los miembros del club de lectura acepten tu invitación a cenar, ellos probablemente..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Nuevo ambiente_Situaciones Sociales_puzzle_word2",
+            "type": "Buttons",
+            "name": "Amigos del club de lectura_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "tranquilo"
+            "buttons": [
+                "Se sentirán decepcionado de tu compañía.",
+                "Disfrutarán de la reunión durante la cena."
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Se sentirán decepcionado de tu compañía."
         }
     ]
 }

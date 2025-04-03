@@ -1,14 +1,14 @@
 {
-    "header_text": "Sequedad",
+    "header_text": "Vacaciones reprogramadas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sequedad"
+            "text": "Vacaciones reprogramadas"
         },
         {
             "type": "Media",
-            "url": "./images/Sequedad.jpg"
+            "url": "./images/Vacaciones_reprogramadas.jpg"
         }
     ]
 }

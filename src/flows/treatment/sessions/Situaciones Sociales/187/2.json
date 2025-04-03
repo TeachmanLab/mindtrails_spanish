@@ -1,14 +1,14 @@
 {
-    "header_text": "Conversación durante la cena",
+    "header_text": "Contribuir a una discusión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en casa de tu amigo para cenar y te preguntan sobre tus padres. No estás seguro de cómo responder porque tus padres están divorciados y no has visto a tu madre durante mucho tiempo. Piensas en qué dirás y te sientes..."
+            "text": "Tu jefe convoca a una reunión para discutir un nuevo proyecto que involucrará a la mayoría del personal de tu oficina. De repente se te pide que contribuya con tus ideas a la discusión. Rápidamente se te ocurren algunas ideas en el momento y piensas que tus colegas encontrarán que tus ideas son..."
         },
         {
             "type": "Entry",
-            "name": "Conversación durante la cena_Situaciones Sociales_entry1"
+            "name": "Contribuir a una discusión_Situaciones Sociales_entry1"
         }
     ]
 }

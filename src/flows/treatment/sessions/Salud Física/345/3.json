@@ -1,21 +1,24 @@
 {
-    "header_text": "Sentirse mareado",
+    "header_text": "Vacaciones reprogramadas",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Decides prestar atención a las sensaciones sin juzgarlas como buenas o malas. Esto reduce tu preocupación y te hace sentir más..."
+            "Text": "¿Te preocupa que el COVID vaya a cancelar tu viaje?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Sentirse mareado_Salud Física_puzzle_word2",
+            "type": "Buttons",
+            "name": "Vacaciones reprogramadas_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "tranquilo"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

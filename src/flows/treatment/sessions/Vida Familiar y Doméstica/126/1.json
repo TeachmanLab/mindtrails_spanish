@@ -1,14 +1,14 @@
 {
-    "header_text": "Compartir las tradiciones familiares",
+    "header_text": "Padres molestos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Compartir las tradiciones familiares"
+            "text": "Padres molestos"
         },
         {
             "type": "Media",
-            "url": "./images/Compartir_las_tradiciones_familiares.jpg"
+            "url": "./images/Padres_molestos.jpg"
         }
     ]
 }

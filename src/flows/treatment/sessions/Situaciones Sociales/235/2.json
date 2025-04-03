@@ -1,19 +1,19 @@
 {
-    "header_text": "Tocando el piano",
+    "header_text": "Una invitación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras estás en la casa de un amigo para una cena, tu amigo menciona que eres un buen pianista y te pide que toques algo en el piano para los demás invitados. Conoces algunas piezas que puedes tocar bien, pero te sientes nervioso tocando en el momento sin..."
+            "text": "Invitas a tu supervisor a un evento este fin de semana. Eres el único de tus amigos que es cercano a tu supervisor y no estás seguro de cómo te percibirán los demás. Mientras te preparas para el evento, te sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Tocando el piano_Situaciones Sociales_puzzle1",
+            "name": "Una invitación_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "práctica"
+                "feliz"
             ],
             "missing_letter_count": 1
         }

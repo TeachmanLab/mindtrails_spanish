@@ -1,14 +1,14 @@
 {
-    "header_text": "Planes de vacaciones",
+    "header_text": "Casarse con tu pareja",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Planes de vacaciones"
+            "type": "Text",
+            "text": "Tu pareja de cuatro años ha preguntado recientemente cómo te siente acerca del matrimonio. Te sientes muy enamorado de tu pareja, pero te preocupas por las altas tasas de divorcio y si eso te podría... "
         },
         {
-            "type": "Media",
-            "url": "./images/Planes_de_vacaciones.jpg"
+            "type": "Entry",
+            "name": "Casarse con tu pareja_Relaciones Románticas_entry1"
         }
     ]
 }

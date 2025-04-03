@@ -1,24 +1,24 @@
 {
-    "header_text": "Presentación importante",
+    "header_text": "Tiempo para ti mismo",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Después de tu presentación, la gente del público probablemente pensará en..."
+            "Text": "¿Estás bién con comer solo?"
         },
         {
             "type": "Buttons",
-            "name": "Presentación importante_Situaciones Sociales_comp_question",
+            "name": "Tiempo para ti mismo_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Que bien lo hiciste en tu charla.",
-                "Cuántos problemas tuviste para dar la charla."
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "Cuántos problemas tuviste para dar la charla."
+            "correct_value": "Sí"
         }
     ]
 }

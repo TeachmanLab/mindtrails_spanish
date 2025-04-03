@@ -1,19 +1,19 @@
 {
-    "header_text": "Proyecto de escritura",
+    "header_text": "Tomarse tu tiempo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu supervisor te pide que escribas un informe. El documento terminado es bastante breve, pero tomó mucho tiempo y esfuerzo. Basado en tu escritura, piensas que la opinión de tu supervisor de ti será..."
+            "text": "Tu jefe te llama para que respondas a una pregunta sobre la presentación que acabas de hacer. No sabes qué decir y tu mente se queda en blanco. Después de unos momentos, preparas tu respuesta y te sientes... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Proyecto de escritura_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "name": "Tomarse tu tiempo_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "positiva"
+                "bien"
             ],
             "missing_letter_count": 2
         }

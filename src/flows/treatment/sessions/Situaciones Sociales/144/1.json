@@ -1,14 +1,14 @@
 {
-    "header_text": "La nueva ciudad",
+    "header_text": "Planes de cena",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "La nueva ciudad"
+            "text": "Planes de cena"
         },
         {
             "type": "Media",
-            "url": "./images/La_nueva_ciudad.jpg"
+            "url": "./images/Planes_de_cena.jpg"
         }
     ]
 }

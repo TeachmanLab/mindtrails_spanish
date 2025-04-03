@@ -1,21 +1,24 @@
 {
-    "header_text": "Escuchando tu nombre",
+    "header_text": "Encontrarte con un viejo conocido",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Después, te das cuenta de que muchas personas chismean en la oficina de vez en cuando y que tus compañeros probablemente no quisieron hacerte sentir mal. De hecho, es posible que estaban diciendo algo..."
+            "Text": "¿Le contestas a tu conocido para encontrarse para un café?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Escuchando tu nombre_Situaciones Sociales_puzzle_word2",
+            "type": "Buttons",
+            "name": "Encontrarte con un viejo conocido_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "positivo"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Sí"
         }
     ]
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Dolor de garganta en la cena",
+    "header_text": "Hablando con tu jefe",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Haces planes para salir a cenar con un amigo, pero no estás seguro de si has estado con un grupo grande de personas recientemente. Cuando llegan a cenar, siguen tomando sorbos de agua y explican que les hace cosquillas en la garganta. Supones que probablemente sea por hablar mucho durante la..."
+            "text": "Hay una pregunta personal que has querido hacerle a tu jefe por un tiempo, pero no lo has hecho. Te imaginas haciéndola cuando se reunan la próxima vez. Mientras piensas en la pregunta, te sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Dolor de garganta en la cena_Situaciones Sociales_puzzle1",
+            "name": "Hablando con tu jefe_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "cena"
+                "preparado"
             ],
             "missing_letter_count": 2
         }

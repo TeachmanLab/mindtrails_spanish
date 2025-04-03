@@ -1,14 +1,14 @@
 {
-    "header_text": "Amigo tosiendo",
+    "header_text": "Nadando vueltas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Amigo tosiendo"
+            "text": "Nadando vueltas"
         },
         {
             "type": "Media",
-            "url": "./images/Amigo_tosiendo.jpg"
+            "url": "./images/Nadando_vueltas.jpg"
         }
     ]
 }

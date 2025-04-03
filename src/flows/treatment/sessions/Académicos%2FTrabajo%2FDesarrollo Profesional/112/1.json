@@ -1,14 +1,14 @@
 {
-    "header_text": "Tomando notas",
+    "header_text": "Completando trabajos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tomando notas"
+            "text": "Completando trabajos"
         },
         {
             "type": "Media",
-            "url": "./images/Tomando_notas.jpg"
+            "url": "./images/Completando_trabajos.jpg"
         }
     ]
 }

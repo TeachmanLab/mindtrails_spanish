@@ -1,19 +1,19 @@
 {
-    "header_text": "Nuevo atuendo",
+    "header_text": "Enseñando a otros",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te pones un traje nuevo por la mañana antes de partir por el día. A mitad del día, notas que te sientes un poco diferente con este nuevo conjunto. Te encanta este sentimiento y estás feliz de haber elegido usar el..."
+            "text": "Has sido seleccionado para dirigir una clase de capacitación para nuevos empleados. El líder anterior era muy querido y te preocupa no poder estar a la altura de las expectativas de los demás sobre el curso. Recuerdas que conoces bien el material y cuando piensas en liderar el curso, tienes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Nuevo atuendo_Salud Mental_puzzle1",
+            "name": "Enseñando a otros_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "atuendo"
+                "esperanzas"
             ],
             "missing_letter_count": 1
         }

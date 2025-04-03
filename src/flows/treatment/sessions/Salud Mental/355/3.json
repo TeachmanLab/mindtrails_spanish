@@ -1,24 +1,24 @@
 {
-    "header_text": "Lunes por la mañana",
+    "header_text": "Charla de oficina",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es necesario salir del carro porque sientes que tu corazón este latiendo rápidamente?"
+            "Text": "¿Puedes continuar la discusión con tu jefe?"
         },
         {
             "type": "Buttons",
-            "name": "Lunes por la mañana_Salud Mental_comp_question",
+            "name": "Charla de oficina_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Sí"
         }
     ]
 }

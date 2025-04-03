@@ -1,14 +1,14 @@
 {
-    "header_text": "Pensando en preguntas",
+    "header_text": "Presentación de tu trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pensando en preguntas"
+            "text": "Presentación de tu trabajo"
         },
         {
             "type": "Media",
-            "url": "./images/Pensando_en_preguntas.jpg"
+            "url": "./images/Presentación_de_tu_trabajo.jpg"
         }
     ]
 }

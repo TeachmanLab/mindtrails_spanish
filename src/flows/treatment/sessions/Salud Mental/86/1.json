@@ -1,14 +1,14 @@
 {
-    "header_text": "Una nueva oportunidad",
+    "header_text": "Trabajo inacabado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una nueva oportunidad"
+            "text": "Trabajo inacabado"
         },
         {
             "type": "Media",
-            "url": "./images/Una_nueva_oportunidad.jpg"
+            "url": "./images/Trabajo_inacabado.jpg"
         }
     ]
 }

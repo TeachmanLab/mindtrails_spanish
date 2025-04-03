@@ -1,19 +1,19 @@
 {
-    "header_text": "Revisión física anual",
+    "header_text": "Revisando tu trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás recibiendo tu revisión médica anual. Después de un examen inicial, tu médico indica que algo parece inusual y dice que necesitarán obtener una segunda opinión. Cuando se trata de manejar tu ansiedad mientras esperas en la sala de examen, eres..."
+            "text": "Te han llamado para una evaluación de desempeño con tu jefe. En general, haces un buen trabajo, pero sabes que tu jefe ha notado algunos errores recientemente. Mientras te preparas para la revisión, piensas que tu reunión probablemente se centrará en tus..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Revisión física anual_Salud Mental_puzzle1",
+            "name": "Revisando tu trabajo_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "capaz"
+                "defectos"
             ],
             "missing_letter_count": 1
         }

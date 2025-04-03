@@ -1,14 +1,14 @@
 {
-    "header_text": "Una noche libre",
+    "header_text": "Presentación importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una noche libre"
+            "text": "Presentación importante"
         },
         {
             "type": "Media",
-            "url": "./images/Una_noche_libre.jpg"
+            "url": "./images/Presentación_importante.jpg"
         }
     ]
 }

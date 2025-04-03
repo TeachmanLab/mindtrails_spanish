@@ -1,14 +1,14 @@
 {
-    "header_text": "Pasando tiempo con familia",
+    "header_text": "Salud y envejecimiento",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pasando tiempo con familia"
+            "text": "Salud y envejecimiento"
         },
         {
             "type": "Media",
-            "url": "./images/Pasando_tiempo_con_familia.jpg"
+            "url": "./images/Salud_y_envejecimiento.jpg"
         }
     ]
 }

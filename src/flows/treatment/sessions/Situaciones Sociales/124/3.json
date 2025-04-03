@@ -1,21 +1,24 @@
 {
-    "header_text": "Malentendido",
+    "header_text": "Reconforto sobre la vacunación",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Después de explicar lo que sucedió al jefe de tu departamento, él dice que entiende. sientes que aún podrás causar una buena..."
+            "Text": "¿Estás vacunado?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Malentendido_Situaciones Sociales_puzzle_word2",
+            "type": "Buttons",
+            "name": "Reconforto sobre la vacunación_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "impresión"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Sí"
         }
     ]
 }

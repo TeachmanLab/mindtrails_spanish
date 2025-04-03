@@ -1,24 +1,24 @@
 {
-    "header_text": "Plato típico",
+    "header_text": "El escaparate de danza",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando piensas en las reacciones a tu comida, te imaginas a los otros invitados..."
+            "Text": "si invitas a tus amigos y familiares, probablemente pensarán que..."
         },
         {
             "type": "Buttons",
-            "name": "Plato típico_Situaciones Sociales_comp_question",
+            "name": "El escaparate de danza_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Dejando sus porciones en sus platos.",
-                "sirviéndose una segunda vez."
+                "Parecías muy tonto y esperan que no los vuelvan a invitar.",
+                "Hiciste un buen trabajo y esperan que los invites a futuras presentaciones."
             ],
             "columnCount": 1,
-            "correct_value": "Dejando sus porciones en sus platos."
+            "correct_value": "Parecías muy tonto y esperan que no los vuelvan a invitar."
         }
     ]
 }

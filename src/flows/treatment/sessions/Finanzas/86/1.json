@@ -1,14 +1,14 @@
 {
-    "header_text": "Ahorrar dinero",
+    "header_text": "Chistes de compras",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ahorrar dinero"
+            "text": "Chistes de compras"
         },
         {
             "type": "Media",
-            "url": "./images/Ahorrar_dinero.jpg"
+            "url": "./images/Chistes_de_compras.jpg"
         }
     ]
 }

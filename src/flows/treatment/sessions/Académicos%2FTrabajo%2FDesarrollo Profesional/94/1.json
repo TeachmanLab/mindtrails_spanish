@@ -1,14 +1,14 @@
 {
-    "header_text": "Proyecto de grupo",
+    "header_text": "Lograr tus objetivos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Proyecto de grupo"
+            "text": "Lograr tus objetivos"
         },
         {
             "type": "Media",
-            "url": "./images/Proyecto_de_grupo.jpg"
+            "url": "./images/Lograr_tus_objetivos.jpg"
         }
     ]
 }

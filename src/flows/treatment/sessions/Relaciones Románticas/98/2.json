@@ -1,14 +1,14 @@
 {
-    "header_text": "Preocupaciones por las relaciones",
+    "header_text": "Preguntas de la familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recibes una llamada de un amigo tuyo, diciéndote que se va a divorciar. Reflexionas sobre tu propio matrimonio; y aunque amas a tu cónyuge, tu amigo y su esposa te dan la misma..."
+            "text": "Fuiste a la fiesta de cumpleaños de una prima y toda tu familia estuvo ahí. En el evento, tu familia no dejaba de hacerte preguntas sobre por qué sigues soltero y no estabas seguro de cómo responderlas. Cuando piensas en tu vida amorosa, estás contento de pasarla con... "
         },
         {
             "type": "Entry",
-            "name": "Preocupaciones por las relaciones_Relaciones Románticas_entry1"
+            "name": "Preguntas de la familia_Relaciones Románticas_entry1"
         }
     ]
 }

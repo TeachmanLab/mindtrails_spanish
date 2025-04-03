@@ -1,14 +1,14 @@
 {
-    "header_text": "Costos inesperados",
+    "header_text": "Decisiones de viaje",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Costos inesperados"
+            "text": "Decisiones de viaje"
         },
         {
             "type": "Media",
-            "url": "./images/Costos_inesperados.jpg"
+            "url": "./images/Decisiones_de_viaje.jpg"
         }
     ]
 }

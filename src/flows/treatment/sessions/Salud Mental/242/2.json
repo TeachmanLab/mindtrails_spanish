@@ -1,19 +1,19 @@
 {
-    "header_text": "Proyecto eliminado",
+    "header_text": "sin aliento",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes que entregar un proyecto importante hoy. Cuando abres tu computadora, no puedes encontrar el archivo en ninguna parte. El proyecto debe haber sido..."
+            "text": "Corres a una reunión en el trabajo porque crees que podrías llegar tarde. Llegas a tiempo a la sala de reuniones, pero respiras con dificultad y te sientes avergonzado porque la gente te está..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Proyecto eliminado_Salud Mental_puzzle1",
+            "name": "sin aliento_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "eliminado"
+                "mirando"
             ],
             "missing_letter_count": 1
         }

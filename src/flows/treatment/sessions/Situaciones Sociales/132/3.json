@@ -1,24 +1,21 @@
 {
-    "header_text": "No recibir una invitación",
+    "header_text": "Pensamientos del grupo de teatro",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿No te invitó porque estabas ocupado?"
+            "text": "Probablemente todos creen....."
         },
         {
-            "type": "Buttons",
-            "name": "No recibir una invitación_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Pensamientos del grupo de teatro_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "words": [
+                "que"
             ],
-            "columnCount": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 1
         }
     ]
 }

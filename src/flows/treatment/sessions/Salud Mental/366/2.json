@@ -1,14 +1,21 @@
 {
-    "header_text": "Comentarios de redes sociales",
+    "header_text": "siendo padre",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Comentarios de redes sociales"
+            "type": "Text",
+            "text": "Estás pasando tiempo con tu hija pequeña durante el fin de semana. Tu hija es muy dulce, pero a veces te frustras con ella y te preguntas cómo se llevarán ustedes dos en el..."
         },
         {
-            "type": "Media",
-            "url": "./images/Comentarios_de_redes_sociales.jpg"
+            "type": "WordPuzzle",
+            "name": "siendo padre_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "words": [
+                "futuro"
+            ],
+            "missing_letter_count": 2
         }
     ]
 }

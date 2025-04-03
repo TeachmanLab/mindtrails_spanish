@@ -1,14 +1,14 @@
 {
-    "header_text": "sintiendo mareos",
+    "header_text": "Corriendo con un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Decides girar rápidamente en una silla de oficina. sientes mariposas en el estómago y te mareas cuando la silla se desacelera. Estas sensaciones probablemente significan que vas a..."
+            "text": "Tienes planeado correr mañana con un amigo que corre todos los días. No has corrido en bastante tiempo y te preocupa si podrás mantener el ritmo o no. Crees que las posibilidades de que puedas seguir el ritmo de tu amigo son..."
         },
         {
             "type": "Entry",
-            "name": "sintiendo mareos_Salud Física_entry1"
+            "name": "Corriendo con un amigo_Salud Física_entry1"
         }
     ]
 }

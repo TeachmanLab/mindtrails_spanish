@@ -1,14 +1,14 @@
 {
-    "header_text": "Ir al dentista",
+    "header_text": "Sentir presión al salir",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ir al dentista"
+            "text": "Sentir presión al salir"
         },
         {
             "type": "Media",
-            "url": "./images/Ir_al_dentista.jpg"
+            "url": "./images/Sentir_presión_al_salir.jpg"
         }
     ]
 }

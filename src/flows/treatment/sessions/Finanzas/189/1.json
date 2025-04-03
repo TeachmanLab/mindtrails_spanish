@@ -1,14 +1,14 @@
 {
-    "header_text": "Tratar a un amigo",
+    "header_text": "Ahorro para reparaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tratar a un amigo"
+            "text": "Ahorro para reparaciones"
         },
         {
             "type": "Media",
-            "url": "./images/Tratar_a_un_amigo.jpg"
+            "url": "./images/Ahorro_para_reparaciones.jpg"
         }
     ]
 }

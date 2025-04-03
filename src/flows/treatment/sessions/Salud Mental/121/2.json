@@ -1,19 +1,19 @@
 {
-    "header_text": "Dolor de estómago",
+    "header_text": "Sentirse entumecido",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado nervioso por una próxima evaluación en el trabajo. El día de la evaluación notas que te duele el estómago. Piensas que el dolor de estómago probablemente se deber a la..."
+            "text": "Has estado lidiando con algunas situaciones estresantes recientemente. Estás reflexionando sobre las últimas semanas y te das cuenta de que no has estado muy emocional, lo que te hace pensar que te has vuelto insensible. Recuerdas que lo has sobrellevado bien y probablemente simplemente has mantenido sus emociones..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Dolor de estómago_Salud Mental_puzzle1",
+            "name": "Sentirse entumecido_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "ansiedad"
+                "estables"
             ],
             "missing_letter_count": 1
         }

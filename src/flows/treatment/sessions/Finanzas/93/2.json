@@ -1,14 +1,14 @@
 {
-    "header_text": "Inicio Presentaciones",
+    "header_text": "Permitirse la educación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Notas que tu casa no es como la de tus compañeros. Tu mejor amigo nunca ha estado en tu casa, pero quiere venir a cenar una noche. Crees que tu reacción hacia tu hogar será..."
+            "text": "Tus hijos están pensando en ir a la universidad, pero tú piensas que tendrías que pedir un préstamo para ayudar a enviarlos. Recuerdas historias que has escuchado de personas que todavía pagan sus préstamos cuando están jubilados. Imagínate a ti mismo en la jubilación, piensas que tus préstamos estarán... "
         },
         {
             "type": "Entry",
-            "name": "Inicio Presentaciones_Finanzas_entry1"
+            "name": "Permitirse la educación_Finanzas_entry1"
         }
     ]
 }

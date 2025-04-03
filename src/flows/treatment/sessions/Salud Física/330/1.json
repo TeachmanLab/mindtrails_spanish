@@ -1,14 +1,14 @@
 {
-    "header_text": "Yendo a dormir",
+    "header_text": "Boca seca",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Yendo a dormir"
+            "text": "Boca seca"
         },
         {
             "type": "Media",
-            "url": "./images/Yendo_a_dormir.jpg"
+            "url": "./images/Boca_seca.jpg"
         }
     ]
 }

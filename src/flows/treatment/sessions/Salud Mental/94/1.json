@@ -1,14 +1,14 @@
 {
-    "header_text": "Compartiendo programas favoritos",
+    "header_text": "Estar a cargo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Compartiendo programas favoritos"
+            "text": "Estar a cargo"
         },
         {
             "type": "Media",
-            "url": "./images/Compartiendo_programas_favoritos.jpg"
+            "url": "./images/Estar_a_cargo.jpg"
         }
     ]
 }

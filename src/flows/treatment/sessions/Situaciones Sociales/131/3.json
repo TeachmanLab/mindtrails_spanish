@@ -1,21 +1,24 @@
 {
-    "header_text": "Pensamientos del grupo de teatro",
+    "header_text": "Un estilo diferente",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Probablemente todos creen....."
+            "Text": "¿Tu amigo pensó que tu nuevo traje se veía ridículo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Pensamientos del grupo de teatro_Situaciones Sociales_puzzle_word2",
+            "type": "Buttons",
+            "name": "Un estilo diferente_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "que"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

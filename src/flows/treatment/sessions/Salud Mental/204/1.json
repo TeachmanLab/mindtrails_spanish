@@ -1,14 +1,14 @@
 {
-    "header_text": "Solicitar una subvención",
+    "header_text": "Ponerse ahí fuera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Solicitar una subvención"
+            "text": "Ponerse ahí fuera"
         },
         {
             "type": "Media",
-            "url": "./images/Solicitar_una_subvención.jpg"
+            "url": "./images/Ponerse_ahí_fuera.jpg"
         }
     ]
 }

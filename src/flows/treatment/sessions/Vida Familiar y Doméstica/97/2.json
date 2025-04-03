@@ -1,14 +1,14 @@
 {
-    "header_text": "Lidiar con la vergüenza",
+    "header_text": "Calentador",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu pareja te está dejando en un evento de trabajo. Mientras te deja, está siendo muy ruidoso y te hace sentir avergonzado. Cuando sales del coche, te sientes..."
+            "text": "Saliste corriendo de tu casa esta mañana. Una vez en el trabajo, te preguntas si olvidaste apagar el calentador. La probabilidad de que el calentador provoque un incendio es..."
         },
         {
             "type": "Entry",
-            "name": "Lidiar con la vergüenza_Vida Familiar y Doméstica_entry1"
+            "name": "Calentador_Vida Familiar y Doméstica_entry1"
         }
     ]
 }

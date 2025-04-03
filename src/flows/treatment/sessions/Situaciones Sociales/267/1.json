@@ -1,14 +1,14 @@
 {
-    "header_text": "Faltando una reunión",
+    "header_text": "Dejado sin respuesta",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Faltando una reunión"
+            "text": "Dejado sin respuesta"
         },
         {
             "type": "Media",
-            "url": "./images/Faltando_una_reunión.jpg"
+            "url": "./images/Dejado_sin_respuesta.jpg"
         }
     ]
 }

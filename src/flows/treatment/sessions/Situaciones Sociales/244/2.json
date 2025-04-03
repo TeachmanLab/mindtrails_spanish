@@ -1,19 +1,19 @@
 {
-    "header_text": "Expresar tus sentimientos",
+    "header_text": "Aceptando elogios",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu pareja te lleva a cenar y están hablando mientras esperan la comida. Mencionan algo que te molesta, pero te preocupa que si les enfrentas al respecto, se enojarán. Finalmente, decides decirles que lo que dijeron te molestó y ellos se..."
+            "text": "Durante el fin de semana, pasaste tiempo con algunos viejos amigos. Les contaste sobre el trabajo que estás haciendo y hacen comentarios sobre lo inteligente que debes ser, pero tú no consideras que el trabajo sea tan especial. De todos modos, te permites sentirte orgulloso de lo que estás..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Expresar tus sentimientos_Situaciones Sociales_puzzle1",
+            "name": "Aceptando elogios_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "disculpan"
+                "haciendo"
             ],
             "missing_letter_count": 1
         }

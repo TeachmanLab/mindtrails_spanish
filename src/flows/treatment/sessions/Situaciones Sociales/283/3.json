@@ -1,14 +1,24 @@
 {
-    "header_text": "Conociendo nuevos amigos",
+    "header_text": "Exponer a un amigo",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "En el trabajo, te asignan a un nuevo proyecto en el que no conoces a nadie más. El primer día de reunión, te esfuerzas por hacer nuevos amigos. Cuando piensas en preguntarle a algunos colegas si quieren tomar café después del trabajo, esperas que digan que..."
+            "Text": "¿Tu amiga se enojará contigo por exponerla?"
         },
         {
-            "type": "Entry",
-            "name": "Conociendo nuevos amigos_Situaciones Sociales_entry1"
+            "type": "Buttons",
+            "name": "Exponer a un amigo_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Sí"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Planes de vacaciones",
+    "header_text": "Lidiar con la vergüenza",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Planes de vacaciones"
+            "text": "Lidiar con la vergüenza"
         },
         {
             "type": "Media",
-            "url": "./images/Planes_de_vacaciones.jpg"
+            "url": "./images/Lidiar_con_la_vergüenza.jpg"
         }
     ]
 }

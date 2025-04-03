@@ -1,14 +1,14 @@
 {
-    "header_text": "Hablando sobre televisión",
+    "header_text": "Participación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Hablando sobre televisión"
+            "text": "Participación"
         },
         {
             "type": "Media",
-            "url": "./images/Hablando_sobre_televisión.jpg"
+            "url": "./images/Participación.jpg"
         }
     ]
 }

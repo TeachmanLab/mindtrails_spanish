@@ -1,24 +1,21 @@
 {
-    "header_text": "Corriendo con un amigo",
+    "header_text": "Subiendo una montaña",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Imaginas que la carrera será..."
+            "text": "Llegas a la cima de las montañas y tus amigos están tomando fotos. Aunque estás ansioso, miras alrededor y..."
         },
         {
-            "type": "Buttons",
-            "name": "Corriendo con un amigo_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Subiendo una montaña_Salud Física_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Demasiado rápida para ti, sin importar cuánto te esfuerces.",
-                "A un ritmo que puedes lograr si te esfuerzas mucho."
+            "words": [
+                "sonríes"
             ],
-            "columnCount": 1,
-            "correct_value": "Demasiado rápida para ti, sin importar cuánto te esfuerces."
+            "missing_letter_count": 1
         }
     ]
 }

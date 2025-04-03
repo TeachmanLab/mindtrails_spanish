@@ -1,19 +1,19 @@
 {
-    "header_text": "Recibir reconocimiento",
+    "header_text": "Una invitación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente recibiste un ascenso increíble en tu trabajo. De repente sientes que no trabajaste lo suficiente para ganarte la oportunidad. Crees que mereces el..."
+            "text": "Invitas a tu supervisor a un evento este fin de semana. Eres el único de tus amigos que es cercano a tu supervisor y no estás seguro de cómo te percibirán los demás. Mientras te preparas para el evento, te sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Recibir reconocimiento_Salud Mental_puzzle1",
+            "name": "Una invitación_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "ascenso"
+                "feliz"
             ],
             "missing_letter_count": 1
         }

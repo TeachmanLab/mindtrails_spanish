@@ -1,24 +1,24 @@
 {
-    "header_text": "Clima frío",
+    "header_text": "Preocupaciones por el ritmo cardíaco",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Antes de volver adentro..."
+            "Text": "Cuando tu corazón comenzó a latir muy rápido..."
         },
         {
             "type": "Buttons",
-            "name": "Clima frío_Salud Física_comp_question",
+            "name": "Preocupaciones por el ritmo cardíaco_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Asumiste que algo malo te está pasando.",
-                "Toleraste la respuesta normal de tu cuerpo al frío."
+                "Te fuiste debido a tu ansiedad.",
+                "Manejaste tu ansiedad y te quedaste."
             ],
             "columnCount": 1,
-            "correct_value": "Toleraste la respuesta normal de tu cuerpo al frío."
+            "correct_value": "Manejaste tu ansiedad y te quedaste."
         }
     ]
 }

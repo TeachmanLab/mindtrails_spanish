@@ -1,14 +1,14 @@
 {
-    "header_text": "Montar a caballo durante el fin de semana",
+    "header_text": "Resultados de análisis de sangre",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Montar a caballo durante el fin de semana"
+            "text": "Resultados de análisis de sangre"
         },
         {
             "type": "Media",
-            "url": "./images/Montar_a_caballo_durante_el_fin_de_semana.jpg"
+            "url": "./images/Resultados_de_análisis_de_sangre.jpg"
         }
     ]
 }

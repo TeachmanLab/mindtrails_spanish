@@ -1,14 +1,14 @@
 {
-    "header_text": "Regalos de días festivos",
+    "header_text": "Permitirse la educación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Regalos de días festivos"
+            "text": "Permitirse la educación"
         },
         {
             "type": "Media",
-            "url": "./images/Regalos_de_días_festivos.jpg"
+            "url": "./images/Permitirse_la_educación.jpg"
         }
     ]
 }

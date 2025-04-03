@@ -1,14 +1,14 @@
 {
-    "header_text": "Tiempo para ti mismo",
+    "header_text": "Apartamento nuevo para ti",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tiempo para ti mismo"
+            "text": "Apartamento nuevo para ti"
         },
         {
             "type": "Media",
-            "url": "./images/Tiempo_para_ti_mismo.jpg"
+            "url": "./images/Apartamento_nuevo_para_ti.jpg"
         }
     ]
 }

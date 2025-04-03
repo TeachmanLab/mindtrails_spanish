@@ -1,14 +1,11 @@
 {
-    "header_text": "Tomarse tu tiempo",
+    "header_text": "Maneja tus sentimientos: Académicos/Trabajo/Desarrollo Profesional",
     "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Tomarse tu tiempo"
-        },
-        {
-            "type": "Media",
-            "url": "./images/Tomarse_tu_tiempo.jpg"
+            "type": "Text",
+            "text": "Cuando te sientas estancado, elige un pequeño paso que creas que puedes dar y comienza con eso."
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Trabajando para salir adelante",
+    "header_text": "Tu propio estilo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trabajando para salir adelante"
+            "text": "Tu propio estilo"
         },
         {
             "type": "Media",
-            "url": "./images/Trabajando_para_salir_adelante.jpg"
+            "url": "./images/Tu_propio_estilo.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Cena con amigos",
+    "header_text": "Salir a almorzar",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cena con amigos"
+            "text": "Salir a almorzar"
         },
         {
             "type": "Media",
-            "url": "./images/Cena_con_amigos.jpg"
+            "url": "./images/Salir_a_almorzar.jpg"
         }
     ]
 }

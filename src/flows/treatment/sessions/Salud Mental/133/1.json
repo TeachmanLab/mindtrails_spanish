@@ -1,14 +1,14 @@
 {
-    "header_text": "Tu primer hijo",
+    "header_text": "Expresar tu opinión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tu primer hijo"
+            "text": "Expresar tu opinión"
         },
         {
             "type": "Media",
-            "url": "./images/Tu_primer_hijo.jpg"
+            "url": "./images/Expresar_tu_opinión.jpg"
         }
     ]
 }

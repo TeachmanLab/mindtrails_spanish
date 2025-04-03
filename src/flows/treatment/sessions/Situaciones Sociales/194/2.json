@@ -1,14 +1,14 @@
 {
-    "header_text": "Genio cómico",
+    "header_text": "Conociendo gente nueva",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Sales a almorzar con un grupo de amigos. Haces una broma que crees que es muy divertida, pero nadie se ríe realmente. Probablemente estaban..."
+            "text": "Empezaste a trabajar en una nueva escuela este otoño. Como todas las clases son en línea, no has podido conocer a ninguno de tus colegas en persona. Has visto a algunos de ellos pasar el rato y sentirse..."
         },
         {
             "type": "Entry",
-            "name": "Genio cómico_Situaciones Sociales_entry1"
+            "name": "Conociendo gente nueva_Situaciones Sociales_entry1"
         }
     ]
 }

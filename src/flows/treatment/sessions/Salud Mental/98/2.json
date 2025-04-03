@@ -1,14 +1,14 @@
 {
-    "header_text": "Fiesta con amigos",
+    "header_text": "Enseñando a otros",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en una fiesta con algunos amigos y algunos de ellos están haciendo cosas con las que no te sientes cómodo. Decides no participar. Tus amigos piensan que eres..."
+            "text": "Has sido seleccionado para dirigir una clase de capacitación para nuevos empleados. El líder anterior era muy querido y te preocupa no poder estar a la altura de las expectativas de los demás sobre el curso. Recuerdas que conoces bien el material y cuando piensas en liderar el curso, tienes..."
         },
         {
             "type": "Entry",
-            "name": "Fiesta con amigos_Salud Mental_entry1"
+            "name": "Enseñando a otros_Salud Mental_entry1"
         }
     ]
 }

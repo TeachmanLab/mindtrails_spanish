@@ -1,11 +1,14 @@
 {
-    "header_text": "Recurso: Salud Física",
+    "header_text": "Manchas de sudor",
     "header_icon": "assets/subtitle.png",
-    "name": "Cuidado de Salud (Healthcare.gov)",
     "elements": [
         {
-            "type": "Text",
-            "text": "Cuidado de Salud (Healthcare.gov)\n\nProporciona servicios relacionados con obtener seguro médico a través del Affordable Care Act\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "type": "Label",
+            "text": "Manchas de sudor"
+        },
+        {
+            "type": "Media",
+            "url": "./images/Manchas_de_sudor.jpg"
         }
     ]
 }

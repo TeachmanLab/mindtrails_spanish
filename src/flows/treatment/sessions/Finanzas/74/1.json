@@ -1,14 +1,14 @@
 {
-    "header_text": "Decidiendo algo",
+    "header_text": "Gestión de facturas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Decidiendo algo"
+            "text": "Gestión de facturas"
         },
         {
             "type": "Media",
-            "url": "./images/Decidiendo_algo.jpg"
+            "url": "./images/Gestión_de_facturas.jpg"
         }
     ]
 }

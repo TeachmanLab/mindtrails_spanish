@@ -1,14 +1,14 @@
 {
-    "header_text": "Tajada de fruta",
+    "header_text": "Miedo al COVID",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tajada de fruta"
+            "text": "Miedo al COVID"
         },
         {
             "type": "Media",
-            "url": "./images/Tajada_de_fruta.jpg"
+            "url": "./images/Miedo_al_COVID.jpg"
         }
     ]
 }

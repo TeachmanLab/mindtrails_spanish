@@ -1,14 +1,14 @@
 {
-    "header_text": "Evaluación de salud",
+    "header_text": "Dolor de cabeza en la oficina médica",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Evaluación de salud"
+            "text": "Dolor de cabeza en la oficina médica"
         },
         {
             "type": "Media",
-            "url": "./images/Evaluación_de_salud.jpg"
+            "url": "./images/Dolor_de_cabeza_en_la_oficina_médica.jpg"
         }
     ]
 }

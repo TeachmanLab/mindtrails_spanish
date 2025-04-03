@@ -1,14 +1,14 @@
 {
-    "header_text": "Escuchando tu nombre",
+    "header_text": "Encontrarte con un viejo conocido",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Escuchando tu nombre"
+            "text": "Encontrarte con un viejo conocido"
         },
         {
             "type": "Media",
-            "url": "./images/Escuchando_tu_nombre.jpg"
+            "url": "./images/Encontrarte_con_un_viejo_conocido.jpg"
         }
     ]
 }

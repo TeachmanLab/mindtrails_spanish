@@ -1,14 +1,14 @@
 {
-    "header_text": "Obtener una oportunidad",
+    "header_text": "Presentación de recaudación de fondos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Obtener una oportunidad"
+            "text": "Presentación de recaudación de fondos"
         },
         {
             "type": "Media",
-            "url": "./images/Obtener_una_oportunidad.jpg"
+            "url": "./images/Presentación_de_recaudación_de_fondos.jpg"
         }
     ]
 }

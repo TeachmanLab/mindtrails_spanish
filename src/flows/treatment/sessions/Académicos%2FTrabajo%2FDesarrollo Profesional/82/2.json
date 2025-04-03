@@ -1,14 +1,14 @@
 {
-    "header_text": "Hilo de pensamientos",
+    "header_text": "Breve introducción",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás dando una presentación en el trabajo. Durante una de tus diapositivas, pierdes el hilo de tus pensamientos y tienes que tomar un momento para revisar tus notas. Mientras comienzas de nuevo, piensas que perder el hilo de los pensamientos durante una presentación es..."
+            "text": "Estás en un taller, y el líder pide a todos los asistentes que se levanten y se presenten. Durante tu breve presentación, olvidas momentáneamente lo que planeaste decir, y la audiencia te mira con..."
         },
         {
             "type": "Entry",
-            "name": "Hilo de pensamientos_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Breve introducción_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ]
 }

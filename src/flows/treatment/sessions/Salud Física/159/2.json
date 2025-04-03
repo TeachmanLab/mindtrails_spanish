@@ -1,19 +1,19 @@
 {
-    "header_text": "Cita con el doctor",
+    "header_text": "Vacacionando en avión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Últimamente te has sentido un poco enfermo, por lo que haces una cita con el médico. Faltan unos días para la cita más próxima que puedes conseguir. Mientras esperas la cita con tu médico, crees que tu enfermedad probablemente sea..."
+            "text": "Estás viajando hacia tu destino de vacaciones en avión. A medida que el avión acelera durante el despegue, sientes que tu pecho se tensa. A pesar de eso, te encuentras..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Cita con el doctor_Salud Física_puzzle1",
+            "name": "Vacacionando en avión_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "grave"
+                "relajado"
             ],
             "missing_letter_count": 2
         }

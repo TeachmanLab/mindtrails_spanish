@@ -1,11 +1,12 @@
 {
-    "header_text": "Maneja tus sentimientos: Salud Física",
-    "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Si ha tenido dificultades para dormir recientemente, intente guardar su teléfono media hora antes de acostarse."
+            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
         }
     ]
 }

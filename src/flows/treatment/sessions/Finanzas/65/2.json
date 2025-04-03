@@ -1,19 +1,19 @@
 {
-    "header_text": "Pago de reparaciones",
+    "header_text": "Visitar a un nuevo amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu coche necesita reparaciones costosas. Tienes ahorros, pero eres reacio a usarlos. Cuando pague las reparaciones del coche, estará... "
+            "text": "Te han invitado a pasar unas vacaciones en casa de un amigo y quieres llevarle un regalo, pero no puedes permitirte comprarlo. Decides escribir un poema y recitarlo para la familia de tu amigo. Cuando te imaginas leyéndolo, te..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Pago de reparaciones_Finanzas_puzzle1",
+            "name": "Visitar a un nuevo amigo_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "bien"
+                "emocionas"
             ],
             "missing_letter_count": 2
         }

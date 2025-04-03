@@ -1,19 +1,19 @@
 {
-    "header_text": "Desconectandote",
+    "header_text": "Corriendo tu primera carrera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en una reunión escuchando a alguien hablar. Dejas de prestar atención y te desconectas por uno o dos minutos. Cuando empiezas a prestar atención de nuevo, estás..."
+            "text": "El fin de semana pasado corriste tu primera carrera. Desde entonces, has estado sintiendo un dolor leve en la cadera. Mientras caminas, crees que este dolor probablemente no tiene..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Desconectandote_Salud Física_puzzle1",
+            "name": "Corriendo tu primera carrera_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "relajado"
+                "importancia"
             ],
             "missing_letter_count": 2
         }

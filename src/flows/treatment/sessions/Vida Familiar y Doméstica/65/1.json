@@ -1,14 +1,14 @@
 {
-    "header_text": "Compañero de cuarto ausente",
+    "header_text": "Apartamento nuevo para ti",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Compañero de cuarto ausente"
+            "text": "Apartamento nuevo para ti"
         },
         {
             "type": "Media",
-            "url": "./images/Compañero_de_cuarto_ausente.jpg"
+            "url": "./images/Apartamento_nuevo_para_ti.jpg"
         }
     ]
 }

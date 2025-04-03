@@ -1,14 +1,14 @@
 {
-    "header_text": "Límite de tarjeta de crédito",
+    "header_text": "Costos de la sesión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Límite de tarjeta de crédito"
+            "text": "Costos de la sesión"
         },
         {
             "type": "Media",
-            "url": "./images/Límite_de_tarjeta_de_crédito.jpg"
+            "url": "./images/Costos_de_la_sesión.jpg"
         }
     ]
 }

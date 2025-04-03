@@ -1,14 +1,14 @@
 {
-    "header_text": "Yendo de vacaciones",
+    "header_text": "Estar a cargo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Yendo de vacaciones"
+            "text": "Estar a cargo"
         },
         {
             "type": "Media",
-            "url": "./images/Yendo_de_vacaciones.jpg"
+            "url": "./images/Estar_a_cargo.jpg"
         }
     ]
 }

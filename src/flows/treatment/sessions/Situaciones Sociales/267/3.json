@@ -1,24 +1,24 @@
 {
-    "header_text": "Faltando una reunión",
+    "header_text": "Dejado sin respuesta",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Durante la reunion, tu jefe pensará que probablemente eres..."
+            "Text": "¿Tu amigo te está ignorando a propósito?"
         },
         {
             "type": "Buttons",
-            "name": "Faltando una reunión_Situaciones Sociales_comp_question",
+            "name": "Dejado sin respuesta_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Competente, a pesar de que cometiste un error.",
-                "Irresponsable y nervioso."
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "Competente, a pesar de que cometiste un error."
+            "correct_value": "No"
         }
     ]
 }

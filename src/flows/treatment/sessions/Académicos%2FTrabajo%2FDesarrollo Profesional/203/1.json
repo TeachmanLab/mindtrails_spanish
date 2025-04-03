@@ -1,14 +1,14 @@
 {
-    "header_text": "Tu Currículum",
+    "header_text": "Opiniones fuertes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tu Currículum"
+            "text": "Opiniones fuertes"
         },
         {
             "type": "Media",
-            "url": "./images/Tu_Currículum.jpg"
+            "url": "./images/Opiniones_fuertes.jpg"
         }
     ]
 }

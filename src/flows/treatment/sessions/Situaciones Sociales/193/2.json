@@ -1,14 +1,14 @@
 {
-    "header_text": "Hablando sobre televisión",
+    "header_text": "Participación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás hablando con un grupo de amigos sobre programas de televisión. Cuando compartes tu opinión sobre un viejo programa que acabas de descubrir, nadie responde. Probablemente están pensando en lo interesante que suena la..."
+            "text": "Consideras asistir a un taller práctico en el que se requerirá tu opinión con frecuencia, a pesar de que no te gusta hablar frente a los demás. Después de asistir al taller, te das cuenta de que fue una decisión..."
         },
         {
             "type": "Entry",
-            "name": "Hablando sobre televisión_Situaciones Sociales_entry1"
+            "name": "Participación_Situaciones Sociales_entry1"
         }
     ]
 }

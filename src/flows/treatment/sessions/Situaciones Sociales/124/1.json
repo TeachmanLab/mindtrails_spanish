@@ -1,14 +1,14 @@
 {
-    "header_text": "Malentendido",
+    "header_text": "Reconforto sobre la vacunación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Malentendido"
+            "text": "Reconforto sobre la vacunación"
         },
         {
             "type": "Media",
-            "url": "./images/Malentendido.jpg"
+            "url": "./images/Reconforto_sobre_la_vacunación.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Nerviosismo de cumpleaños",
+    "header_text": "Conversación durante la cena",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nerviosismo de cumpleaños"
+            "text": "Conversación durante la cena"
         },
         {
             "type": "Media",
-            "url": "./images/Nerviosismo_de_cumpleaños.jpg"
+            "url": "./images/Conversación_durante_la_cena.jpg"
         }
     ]
 }

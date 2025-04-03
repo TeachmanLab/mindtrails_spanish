@@ -1,24 +1,21 @@
 {
-    "header_text": "Trabajando para salir adelante",
+    "header_text": "1, 2, 3. Ojos puestos en mí",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Piensas que eres..."
+            "text": "Te das un momento para organizar tus pensamientos y comenzar la presentación. Durante la presentación te sientes..."
         },
         {
-            "type": "Buttons",
-            "name": "Trabajando para salir adelante_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "1, 2, 3. Ojos puestos en mí_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Incapable de obtener la posición que quieres.",
-                "Capable de hacer el trabajao neccesario para obtener el trabajor que quieres."
+            "words": [
+                "preparado"
             ],
-            "columnCount": 1,
-            "correct_value": "Capable de hacer el trabajao neccesario para obtener el trabajor que quieres."
+            "missing_letter_count": 2
         }
     ]
 }

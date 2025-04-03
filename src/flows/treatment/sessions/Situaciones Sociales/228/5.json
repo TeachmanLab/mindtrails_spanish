@@ -1,0 +1,22 @@
+{
+    "header_text": "Opiniones fuertes:Pensamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu pareja tiene opiniones firmes y no siempre estás de acuerdo con ellas. Una noche, invitas a un amigo a cenar y sientes una posible tensión. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Si mi pareja dice cosas con las que no estoy de acuerdo, sigue siendo mi pareja y la amo.",
+                "Podremos discutir cuidadosamente las diferentes opiniones.",
+                "Incluso si mi pareja dice algo que le molesta, mi amigo y yo podemos hablar de ello más tarde.",
+                "Mi pareja dirá algo que hará que mi amigo me odie.",
+                "Mi amigo será mi amigo sin importar lo que piense mi pareja."
+            ],
+            "Duration": 15
+        }
+    ],
+    "show_buttons": "WhenCorrect"
+}

@@ -1,14 +1,14 @@
 {
-    "header_text": "Cambiando tu trayectoria",
+    "header_text": "Juzgando tu desempeño",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cambiando tu trayectoria"
+            "text": "Juzgando tu desempeño"
         },
         {
             "type": "Media",
-            "url": "./images/Cambiando_tu_trayectoria.jpg"
+            "url": "./images/Juzgando_tu_desempeño.jpg"
         }
     ]
 }

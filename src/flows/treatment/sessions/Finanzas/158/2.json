@@ -1,19 +1,19 @@
 {
-    "header_text": "Tomando un descanso",
+    "header_text": "Dependencia financiera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado trabajando muy duro durante el último año y estás empezando a sentirte agotado. sientes que necesitas tomar un descanso, pero te preocupan las repercusiones financieras de tomarte un tiempo libre. Crees que es importante tomar un tiempo libre para centrarte en tu salud..."
+            "text": "Tus hijos han estado confiando en ti financieramente, y quieres que comiencen a ser más independientes. Sabes que este es un paso importante, pero la idea de proporcionarles menos apoyo es abrumadora. Al pensar en el futuro, confías en que su independencia financiera será... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Tomando un descanso_Finanzas_puzzle1",
+            "name": "Dependencia financiera_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "mental"
+                "posible"
             ],
             "missing_letter_count": 2
         }

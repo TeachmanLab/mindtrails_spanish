@@ -1,14 +1,14 @@
 {
-    "header_text": "Presentación de tu trabajo",
+    "header_text": "Going to Therapy",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado trabajando duro todo el año en un proyecto y tu jefe de departamento te ha invitado a hablar de ello en un evento. Muchos de tus amigos y compañeros de trabajo estarán allí, y no crees que tu trabajo sea suficiente para impresionarlos. Piensas que su jefe de departamento le invitó por una razón y su trabajo vale la pena... "
+            "text": "Has estado yendo a terapia últimamente. No te lo has contado a tu familia porque han expresado opiniones negativas sobre la terapia en el pasado. Crees que esta vez te..."
         },
         {
             "type": "Entry",
-            "name": "Presentación de tu trabajo_Salud Mental_entry1"
+            "name": "Going to Therapy_Salud Mental_entry1"
         }
     ]
 }

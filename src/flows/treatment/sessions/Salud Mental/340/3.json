@@ -1,24 +1,24 @@
 {
-    "header_text": "Reloj favorito",
+    "header_text": "sintiéndote ansioso",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es la cena miserable mientras te preocupas por el reloj?"
+            "Text": "¿Las personas en tu vida te apoyarían si buscas ayuda?"
         },
         {
             "type": "Buttons",
-            "name": "Reloj favorito_Salud Mental_comp_question",
+            "name": "sintiéndote ansioso_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Sí"
         }
     ]
 }

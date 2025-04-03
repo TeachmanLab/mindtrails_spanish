@@ -1,14 +1,14 @@
 {
-    "header_text": "Quedando atrás",
+    "header_text": "Anticipación de entrevista",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente comenzaste un nuevo trabajo. Mientras trabajas, parece que todos los que te rodean saben lo que están haciendo, pero aún estás confundido. Crees que esto se debe a que todavía estás aprendiendo y pronto te darás..."
+            "text": "Te están entrevistando para un puesto de liderazgo dentro de tu departamento. Antes de entrar en la oficina, notas que te sientes tembloroso. Te sientes increíblemente..."
         },
         {
             "type": "Entry",
-            "name": "Quedando atrás_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Anticipación de entrevista_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ]
 }

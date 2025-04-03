@@ -1,21 +1,24 @@
 {
-    "header_text": "Juzgando tu desempeño",
+    "header_text": "Mal rumor",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "En este momento no estás contento, pero piensas en la presentación general de tu grupo. Te das cuenta de que estuvo..."
+            "Text": "Crees que tu supervisor podría ser ..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Juzgando tu desempeño_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
+            "type": "Buttons",
+            "name": "Mal rumor_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "bien"
+            "buttons": [
+                "Planeando despedirte.",
+                "Planeando despedir a alguien más."
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Planeando despedir a alguien más."
         }
     ]
 }

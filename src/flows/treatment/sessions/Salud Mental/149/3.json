@@ -1,24 +1,24 @@
 {
-    "header_text": "Sentirse ansioso",
+    "header_text": "Día caluroso",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿siempre sentirás ansiedad?"
+            "Text": "Respondes a la sensación en tu estómago..."
         },
         {
             "type": "Buttons",
-            "name": "Sentirse ansioso_Salud Mental_comp_question",
+            "name": "Día caluroso_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Entrando en pánico por las sensaciones y llamando a una ambulancia.",
+                "Observando las sensaciones sin hacer nada."
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Observando las sensaciones sin hacer nada."
         }
     ]
 }

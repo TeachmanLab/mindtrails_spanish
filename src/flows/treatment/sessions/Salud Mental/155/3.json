@@ -1,24 +1,24 @@
 {
-    "header_text": "Trabajando para salir adelante",
+    "header_text": "Tu propio estilo",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Piensas que eres..."
+            "Text": "¿Te cambias de ropa por lo que visten tus amigos?"
         },
         {
             "type": "Buttons",
-            "name": "Trabajando para salir adelante_Salud Mental_comp_question",
+            "name": "Tu propio estilo_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Incapable de obtener la posición que quieres.",
-                "Capable de hacer el trabajao neccesario para obtener el trabajor que quieres."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Capable de hacer el trabajao neccesario para obtener el trabajor que quieres."
+            "correct_value": "No"
         }
     ]
 }

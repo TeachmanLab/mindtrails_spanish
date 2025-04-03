@@ -1,14 +1,14 @@
 {
-    "header_text": "Temprano en la mañana",
+    "header_text": "Celebraciones culturales familiares",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Temprano en la mañana"
+            "text": "Celebraciones culturales familiares"
         },
         {
             "type": "Media",
-            "url": "./images/Temprano_en_la_mañana.jpg"
+            "url": "./images/Celebraciones_culturales_familiares.jpg"
         }
     ]
 }

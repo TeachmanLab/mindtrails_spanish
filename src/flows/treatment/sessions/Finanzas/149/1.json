@@ -1,14 +1,14 @@
 {
-    "header_text": "Iniciando un negocio pequeño",
+    "header_text": "Recuperarse de COVID",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Iniciando un negocio pequeño"
+            "text": "Recuperarse de COVID"
         },
         {
             "type": "Media",
-            "url": "./images/Iniciando_un_negocio_pequeño.jpg"
+            "url": "./images/Recuperarse_de_COVID.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Esperando grandes noticias",
+    "header_text": "Usando tecnología diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hoy recibirás un correo electrónico importante. Te dirá si recibiste un ascenso que realmente avanzaría tu carrera. Mientras piensas en esperar el correo electrónico, te sientes..."
+            "text": "Recientemente reemplazaste tu computadora portátil y tuviste que optar por una opción más económica. Tu jefe te pide que completes un proyecto que requerirá una aplicación que tu nueva computadora no tiene. Cuando piensas en completar tu trabajo para este proyecto, te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Esperando grandes noticias_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Usando tecnología diferente_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Revisando tus cualificaciones",
+    "header_text": "Mercado de trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Revisando tus cualificaciones"
+            "text": "Mercado de trabajo"
         },
         {
             "type": "Media",
-            "url": "./images/Revisando_tus_cualificaciones.jpg"
+            "url": "./images/Mercado_de_trabajo.jpg"
         }
     ]
 }

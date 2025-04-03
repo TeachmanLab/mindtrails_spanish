@@ -1,14 +1,14 @@
 {
-    "header_text": "La audición",
+    "header_text": "Mente va en blanco",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "La audición"
+            "text": "Mente va en blanco"
         },
         {
             "type": "Media",
-            "url": "./images/La_audición.jpg"
+            "url": "./images/Mente_va_en_blanco.jpg"
         }
     ]
 }

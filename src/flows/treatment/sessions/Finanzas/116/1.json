@@ -1,14 +1,14 @@
 {
-    "header_text": "Costos de alimentos",
+    "header_text": "Estabilidad laboral",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Costos de alimentos"
+            "text": "Estabilidad laboral"
         },
         {
             "type": "Media",
-            "url": "./images/Costos_de_alimentos.jpg"
+            "url": "./images/Estabilidad_laboral.jpg"
         }
     ]
 }

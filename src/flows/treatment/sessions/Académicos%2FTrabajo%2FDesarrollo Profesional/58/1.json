@@ -1,14 +1,14 @@
 {
-    "header_text": "Recuperándote despues de un error",
+    "header_text": "Gestión de responsabilidades",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Recuperándote despues de un error"
+            "text": "Gestión de responsabilidades"
         },
         {
             "type": "Media",
-            "url": "./images/Recuperándote_despues_de_un_error.jpg"
+            "url": "./images/Gestión_de_responsabilidades.jpg"
         }
     ]
 }

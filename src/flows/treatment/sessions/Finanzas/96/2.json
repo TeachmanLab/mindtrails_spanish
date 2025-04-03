@@ -1,14 +1,14 @@
 {
-    "header_text": "Costos inesperados",
+    "header_text": "Costear los gastos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado alquilando tu casa. sientes que ya es hora de comprar una casa y que ahora tienes un trabajo estable, pero te preocupan los costos inesperados. Considerando la posibilidad de comprar, crees que estos costos serán..."
+            "text": "Tu alquiler se acerca pronto. Normalmente tienes tu alquiler presupuestado, pero algunos gastos inesperados te han dejado un poco corto y tienes que tomar algunos turnos extra en el trabajo. Pensando en tu capacidad para hacer el pago, tus fondos serán... "
         },
         {
             "type": "Entry",
-            "name": "Costos inesperados_Finanzas_entry1"
+            "name": "Costear los gastos_Finanzas_entry1"
         }
     ]
 }

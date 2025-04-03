@@ -1,21 +1,24 @@
 {
-    "header_text": "Enviar mensajes de texto a alguien que te gusta",
+    "header_text": "Estrés en tu relación",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "No parecen preguntarte por razones mundanas y probablemente usarán tu número de teléfono para invitarte a..."
+            "Text": "Pensando en tu futuro con tu pareja, te imaginas..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Enviar mensajes de texto a alguien que te gusta_Relaciones Románticas_puzzle_word2",
+            "type": "Buttons",
+            "name": "Estrés en tu relación_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "salir"
+            "buttons": [
+                "Principalmente cooperando.",
+                "Discutiendo más."
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Discutiendo más."
         }
     ]
 }

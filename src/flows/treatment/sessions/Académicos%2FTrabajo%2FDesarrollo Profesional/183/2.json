@@ -1,14 +1,14 @@
 {
-    "header_text": "Mostrar tu experiencia",
+    "header_text": "Presentación estresante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu supervisor llama a una reunión relacionada a una nueva iniciativa y pide a cada asistente que presente sus ideas y experiencia previa. Cuando es tu turno de hablar, haces pausas con frecuencia. Al reflexionar sobre la reunión más tarde en el día, sientes que el supervisor pensó que sonabas... "
+            "text": "Tienes que hacerle una presentación a tu jefe. Mientras piensas en la charla, sientes mariposas en el estómago. La mañana de la charla, te sientes nervioso y crees que tus nervios serán..."
         },
         {
             "type": "Entry",
-            "name": "Mostrar tu experiencia_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Presentación estresante_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ]
 }

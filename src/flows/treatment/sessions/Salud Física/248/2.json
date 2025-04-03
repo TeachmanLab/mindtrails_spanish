@@ -1,21 +1,21 @@
 {
-    "header_text": "Resultados de análisis de sangre",
+    "header_text": "Tajada de fruta",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En tu última cita con el médico, su doctor te hizo unos análisis de sangre. Tu doctor te dijo que te darán los resultados en unos días y te sientes nervioso mientras los esperas. Crees que tus nervios son... "
+            "text": "Estás almorzando en una mesa de picnic con algunos compañeros del trabajo, cuando te cortas el dedo accidentalment cortando fruta. No puedes lavarlo inmediatamente con agua y jabón debido a que estás afuera. En unos días, tu herida... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Resultados de análisis de sangre_Salud Física_puzzle1",
+            "name": "Tajada de fruta_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "manejables"
+                "sanará"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ]
 }

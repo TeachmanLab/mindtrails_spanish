@@ -1,19 +1,19 @@
 {
-    "header_text": "Cambio de planes",
+    "header_text": "Publicar sobre la familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu familia espera que te asciendan en tu trabajo. Todavía no les has dicho que en realidad quieres tomarte unos años sabáticos para viajar. Piensas en decírselo y te sientes..."
+            "text": "Miras a través de tus redes sociales. Te diste cuenta de que tus hijos en edad de secundaria solo publican fotografías con tus amigos. Publicaste una foto familiar y etiquetaste a tus hijos. Tus hijos deben pensar que eres..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Cambio de planes_Vida Familiar y Doméstica_puzzle1",
+            "name": "Publicar sobre la familia_Vida Familiar y Doméstica_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "ansioso"
+                "genuino"
             ],
             "missing_letter_count": 1
         }

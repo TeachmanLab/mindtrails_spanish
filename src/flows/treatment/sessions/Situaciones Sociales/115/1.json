@@ -1,14 +1,14 @@
 {
-    "header_text": "Futuras amistades",
+    "header_text": "Compartir redes sociales con un nuevo amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Futuras amistades"
+            "text": "Compartir redes sociales con un nuevo amigo"
         },
         {
             "type": "Media",
-            "url": "./images/Futuras_amistades.jpg"
+            "url": "./images/Compartir_redes_sociales_con_un_nuevo_amigo.jpg"
         }
     ]
 }

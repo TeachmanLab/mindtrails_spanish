@@ -1,11 +1,14 @@
 {
-    "header_text": "Maneja tus sentimientos: Finanzas",
+    "header_text": "Oportunidad de espectáculo",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Text",
-            "text": "Cuando trabajes con tu presupuesto, tómate un momento para concentrarte en otra cosa, como escuchar tu canción favorita."
+            "type": "Label",
+            "text": "Oportunidad de espectáculo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/Oportunidad_de_espectáculo.jpg"
         }
     ]
 }

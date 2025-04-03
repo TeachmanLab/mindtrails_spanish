@@ -1,19 +1,19 @@
 {
-    "header_text": "Tomando notas",
+    "header_text": "Completando trabajos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En el trabajo, tu jefe te da la responsabilidad de resolver un problema complicado. Tienes una idea que crees que podría funcionar, pero te preguntas si es demasiado simplista. Mientras consideras compartir tu idea, decides..."
+            "text": "En tu trabajo, las tareas se han acumulado recientemente, y tenías planeado aprovechar el fin de semana para ponerlas al día. sin embargo, tu amigo te recordó de un evento este fin de semana al que te comprometiste, y sería grosero cancelar en el último minuto. Piensas que será posible completar tu..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Tomando notas_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "name": "Completando trabajos_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "intentarlo"
+                "trabajo"
             ],
             "missing_letter_count": 1
         }

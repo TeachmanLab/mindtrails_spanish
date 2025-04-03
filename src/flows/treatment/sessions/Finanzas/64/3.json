@@ -1,15 +1,15 @@
 {
-    "header_text": "Visitar a un nuevo amigo",
+    "header_text": "Ahorrar dinero",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa recitar un poema para la familia de tu amigo?"
+            "Text": "¿Eres duro contigo mismo porque no compras el almuerzo como tus amigos?"
         },
         {
             "type": "Buttons",
-            "name": "Visitar a un nuevo amigo_Finanzas_comp_question",
+            "name": "Ahorrar dinero_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

@@ -1,14 +1,14 @@
 {
-    "header_text": "Exposición reciente",
+    "header_text": "Conociendo alguien nuevo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Exposición reciente"
+            "text": "Conociendo alguien nuevo"
         },
         {
             "type": "Media",
-            "url": "./images/Exposición_reciente.jpg"
+            "url": "./images/Conociendo_alguien_nuevo.jpg"
         }
     ]
 }

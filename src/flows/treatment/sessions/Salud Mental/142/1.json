@@ -1,14 +1,11 @@
 {
-    "header_text": "Amigos en las relaciones",
+    "header_text": "Maneja tus sentimientos: Salud Mental",
     "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Amigos en las relaciones"
-        },
-        {
-            "type": "Media",
-            "url": "./images/Amigos_en_las_relaciones.jpg"
+            "type": "Text",
+            "text": "Todos los sentimientos pasan. Cuando sienta que un sentimiento negativo (como la tristeza o el miedo) nunca terminará, recuérdese suavemente que este sentimiento eventualmente pasará."
         }
     ]
 }

@@ -1,24 +1,24 @@
 {
-    "header_text": "Resultados de análisis de sangre",
+    "header_text": "Tajada de fruta",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus nervios son insoportables mientras esperas tus resultados?"
+            "Text": "Tu herida probablemente..."
         },
         {
             "type": "Buttons",
-            "name": "Resultados de análisis de sangre_Salud Física_comp_question",
+            "name": "Tajada de fruta_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Sanará rápidamente.",
+                "Se infectará."
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Sanará rápidamente."
         }
     ]
 }

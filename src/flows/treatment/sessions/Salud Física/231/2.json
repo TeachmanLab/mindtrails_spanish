@@ -1,19 +1,19 @@
 {
-    "header_text": "Corriendo con un amigo",
+    "header_text": "Subiendo una montaña",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes planeado correr mañana con un amigo que corre todos los días. No has corrido en bastante tiempo y te preocupa si podrás mantener el ritmo o no. Crees que las posibilidades de que puedas seguir el ritmo de tu amigo son..."
+            "text": "Estás en una caminata con un grupo de amigos y todos quieren subir una montaña bastante alta. Mientras escalas la montaña, miras hacia abajo y sientes cómo se te cae el estómago. Piensas que esta caminata será..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Corriendo con un amigo_Salud Física_puzzle1",
+            "name": "Subiendo una montaña_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "bajas"
+                "aterradora"
             ],
             "missing_letter_count": 1
         }

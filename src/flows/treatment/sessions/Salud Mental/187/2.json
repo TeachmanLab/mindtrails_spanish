@@ -1,14 +1,14 @@
 {
-    "header_text": "Manejando tareas",
+    "header_text": "Aplicando a trabajos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado muy ocupado estos últimos meses y no has tenido tiempo para trabajar en tu propio desarrollo profesional. Uno de tus colegas también está muy ocupado, y sin embargo, recibió un ascenso. Esto te hace sentir como un..."
+            "text": "Aplicaste a un trabajo hace algunas semanas y acabas de recibir una respuesta. Te dicen que ya llenaron el puesto y sientes que no eres lo suficientemente inteligente. Aun así, crees que en el futuro conseguirás un..."
         },
         {
             "type": "Entry",
-            "name": "Manejando tareas_Salud Mental_entry1"
+            "name": "Aplicando a trabajos_Salud Mental_entry1"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Cena en una casa de amigos",
+    "header_text": "Compañero de cuarto ausente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu familia no hace cenas sentadas juntas. Tu amiga te invita a unirte a su familia para la cena, y cuando llegues, todos se sientan a la mesa y comienzan a hacer preguntas sobre los días del otro. Cuando es tu turno, no estás seguro de cómo responder, pero después de decir algo, te sientes... "
+            "text": "Estás visitando a tu hermana en una ciudad diferente por un período prolongado. Tu hermana parece conocer a mucha gente en la zona y siempre está fuera del apartamento, dejándote solo. Piensas que es agradable que no estén en casa a menudo porque prefieres estar solo para relajarte al final del..."
         },
         {
             "type": "Entry",
-            "name": "Cena en una casa de amigos_Vida Familiar y Doméstica_entry1"
+            "name": "Compañero de cuarto ausente_Vida Familiar y Doméstica_entry1"
         }
     ]
 }

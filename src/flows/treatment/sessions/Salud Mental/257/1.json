@@ -1,14 +1,14 @@
 {
-    "header_text": "Despertándote listo",
+    "header_text": "Amigos en las relaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Despertándote listo"
+            "text": "Amigos en las relaciones"
         },
         {
             "type": "Media",
-            "url": "./images/Despertándote_listo.jpg"
+            "url": "./images/Amigos_en_las_relaciones.jpg"
         }
     ]
 }

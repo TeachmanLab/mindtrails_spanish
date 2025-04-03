@@ -1,14 +1,14 @@
 {
-    "header_text": "sintiendote apurado",
+    "header_text": "Abrirse",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "sintiendote apurado"
+            "text": "Abrirse"
         },
         {
             "type": "Media",
-            "url": "./images/sintiendote_apurado.jpg"
+            "url": "./images/Abrirse.jpg"
         }
     ]
 }

@@ -1,21 +1,24 @@
 {
-    "header_text": "Sentirse mareado",
+    "header_text": "Primera vez pantinaje sobre hielo",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Decides prestar atención a las sensaciones sin juzgarlas como buenas o malas. Esto reduce tu preocupación y te hace sentir más..."
+            "Text": "A medida que continúes patinando sobre hielo, probablemente..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Sentirse mareado_Salud Física_puzzle_word2",
+            "type": "Buttons",
+            "name": "Primera vez pantinaje sobre hielo_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "tranquilo"
+            "buttons": [
+                "Te caigas y te lastimes.",
+                "Patines con éxito alrededor de la pista varias veces."
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Patines con éxito alrededor de la pista varias veces."
         }
     ]
 }

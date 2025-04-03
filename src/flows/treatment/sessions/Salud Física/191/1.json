@@ -1,14 +1,14 @@
 {
-    "header_text": "Vecino amigable",
+    "header_text": "Un golpe accidental",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Vecino amigable"
+            "text": "Un golpe accidental"
         },
         {
             "type": "Media",
-            "url": "./images/Vecino_amigable.jpg"
+            "url": "./images/Un_golpe_accidental.jpg"
         }
     ]
 }

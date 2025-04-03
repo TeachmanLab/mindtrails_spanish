@@ -1,19 +1,19 @@
 {
-    "header_text": "Tu primer hijo",
+    "header_text": "Corte de pelo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Acabas de tener tu primer hijo. Quieres tener una buena relación durante toda la vida de su hijo, pero te preocupa cometer errores como padre. Cuando tu hijo sea adulto, crees que la relación será..."
+            "text": "Hoy te van a tomar fotos de personal y te cortaste el pelo para la ocasión. No salió como querías. Cuando piensas en que otros verán tu nuevo corte de pelo en las fotos, te sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Tu primer hijo_Salud Mental_puzzle1",
+            "name": "Corte de pelo_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "tensa"
+                "avergonzado"
             ],
             "missing_letter_count": 2
         }

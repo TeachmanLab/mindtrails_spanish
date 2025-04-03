@@ -1,14 +1,14 @@
 {
-    "header_text": "Inicio Presentaciones",
+    "header_text": "Conducción segura",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Inicio Presentaciones"
+            "text": "Conducción segura"
         },
         {
             "type": "Media",
-            "url": "./images/Inicio_Presentaciones.jpg"
+            "url": "./images/Conducción_segura.jpg"
         }
     ]
 }

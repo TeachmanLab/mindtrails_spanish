@@ -1,14 +1,14 @@
 {
-    "header_text": "Costos de la sesión",
+    "header_text": "Preocuparse por los ahorros",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Costos de la sesión"
+            "text": "Preocuparse por los ahorros"
         },
         {
             "type": "Media",
-            "url": "./images/Costos_de_la_sesión.jpg"
+            "url": "./images/Preocuparse_por_los_ahorros.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Alergias de primavera",
+    "header_text": "El malestar de estómago",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Alergias de primavera"
+            "text": "El malestar de estómago"
         },
         {
             "type": "Media",
-            "url": "./images/Alergias_de_primavera.jpg"
+            "url": "./images/El_malestar_de_estómago.jpg"
         }
     ]
 }

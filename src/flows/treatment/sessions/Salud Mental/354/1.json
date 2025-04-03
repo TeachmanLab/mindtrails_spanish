@@ -1,14 +1,14 @@
 {
-    "header_text": "Deprimido",
+    "header_text": "Boca seca",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Deprimido"
+            "text": "Boca seca"
         },
         {
             "type": "Media",
-            "url": "./images/Deprimido.jpg"
+            "url": "./images/Boca_seca.jpg"
         }
     ]
 }

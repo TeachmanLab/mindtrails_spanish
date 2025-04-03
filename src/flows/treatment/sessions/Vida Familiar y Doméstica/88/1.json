@@ -1,14 +1,14 @@
 {
-    "header_text": "sintiéndote preocupado por las noticias",
+    "header_text": "Hablando sobre vivienda",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "sintiéndote preocupado por las noticias"
+            "text": "Hablando sobre vivienda"
         },
         {
             "type": "Media",
-            "url": "./images/sintiéndote_preocupado_por_las_noticias.jpg"
+            "url": "./images/Hablando_sobre_vivienda.jpg"
         }
     ]
 }

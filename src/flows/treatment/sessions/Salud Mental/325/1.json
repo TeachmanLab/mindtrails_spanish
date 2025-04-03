@@ -1,14 +1,11 @@
 {
-    "header_text": "Tomando transporte",
+    "header_text": "Maneja tus sentimientos: Salud Mental",
     "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Tomando transporte"
-        },
-        {
-            "type": "Media",
-            "url": "./images/Tomando_transporte.jpg"
+            "type": "Text",
+            "text": "Trate de poner una etiqueta específica a sus sentimientos (¿está triste, enojado, disgustado, nervioso, aterrorizado, etc.?); los sentimientos son más fáciles de manejar cuando podemos describirlos completamente."
         }
     ]
 }

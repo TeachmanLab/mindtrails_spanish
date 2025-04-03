@@ -1,14 +1,14 @@
 {
-    "header_text": "Rechazar una bebida",
+    "header_text": "Recibir mensajes explícitos en las redes sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Rechazar una bebida"
+            "text": "Recibir mensajes explícitos en las redes sociales"
         },
         {
             "type": "Media",
-            "url": "./images/Rechazar_una_bebida.jpg"
+            "url": "./images/Recibir_mensajes_explícitos_en_las_redes_sociales.jpg"
         }
     ]
 }

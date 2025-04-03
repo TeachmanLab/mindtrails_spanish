@@ -1,24 +1,21 @@
 {
-    "header_text": "Amigo de tu pareja",
+    "header_text": "Equilibrar un significativo otro y amigos",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes confiar en tu pareja?"
+            "text": "Recientemente empezaste una relación. Lo estás disfrutando, pero te resulta difícil equilibrar el tiempo con tus amigos y tu pareja. Te preocupa que tus amigos se molesten si no pasas suficiente tiempo con ellos, pero recuerdas que puedes dedicar tiempo a..."
         },
         {
-            "type": "Buttons",
-            "name": "Amigo de tu pareja_Relaciones Románticas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Equilibrar un significativo otro y amigos_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "words": [
+                "todos"
             ],
-            "columnCount": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 1
         }
     ]
 }

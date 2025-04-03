@@ -1,0 +1,22 @@
+{
+    "header_text": "Subiendo escaleras: Sentimientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te estás reuniendo con tu jefe. Para llegar a tiempo, simplemente subió dos tramos de escaleras rápidamente y sintió que su corazón latía muy rápidamente.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Me preocupa que haya algo realmente mal en mí.",
+                "Me preocupa que algo esté mal conmigo, pero me recuerdo a mí mismo que es normal sentirme sin aliento después de subir un montón de escaleras.",
+                "Me siento emocionado ahora que mi sangre está bombeando.",
+                "Me da vergüenza quedarme sin aliento, pero puedo concentrarme en lo que mi jefe tiene que decir.",
+                "Estoy feliz de haber llegado a tiempo a la reunión."
+            ],
+            "Duration": 15
+        }
+    ],
+    "show_buttons": "WhenCorrect"
+}

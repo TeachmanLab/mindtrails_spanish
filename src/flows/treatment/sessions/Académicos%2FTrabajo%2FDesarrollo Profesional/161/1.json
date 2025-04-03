@@ -1,14 +1,14 @@
 {
-    "header_text": "Mal rumor",
+    "header_text": "Primeras impresiones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mal rumor"
+            "text": "Primeras impresiones"
         },
         {
             "type": "Media",
-            "url": "./images/Mal_rumor.jpg"
+            "url": "./images/Primeras_impresiones.jpg"
         }
     ]
 }

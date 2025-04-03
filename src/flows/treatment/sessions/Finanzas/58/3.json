@@ -1,21 +1,24 @@
 {
-    "header_text": "Costos inesperados",
+    "header_text": "Preocupándote por gastar",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Considerando la posibilidad de comprar, decides elaborar un presupuesto para comprar una casa y piensas que manejar la incertidumbre de tus estimaciones será..."
+            "Text": "¿Estás cómodo no ir a esta cena?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Costos inesperados_Finanzas_puzzle_word2",
+            "type": "Buttons",
+            "name": "Preocupándote por gastar_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "factible"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Sí"
         }
     ]
 }

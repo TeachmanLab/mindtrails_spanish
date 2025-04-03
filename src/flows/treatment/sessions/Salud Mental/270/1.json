@@ -1,14 +1,14 @@
 {
-    "header_text": "Broma interna",
+    "header_text": "Planes para el fin de semana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Broma interna"
+            "text": "Planes para el fin de semana"
         },
         {
             "type": "Media",
-            "url": "./images/Broma_interna.jpg"
+            "url": "./images/Planes_para_el_fin_de_semana.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Tocando el piano",
+    "header_text": "Truco o trato",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tocando el piano"
+            "text": "Truco o trato"
         },
         {
             "type": "Media",
-            "url": "./images/Tocando_el_piano.jpg"
+            "url": "./images/Truco_o_trato.jpg"
         }
     ]
 }

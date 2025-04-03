@@ -1,24 +1,24 @@
 {
-    "header_text": "Planes de vacaiones",
+    "header_text": "Chistes con amigos",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Es probable que tus padres piensen que..."
+            "Text": "¿Se estaban burlando de ti?"
         },
         {
             "type": "Buttons",
-            "name": "Planes de vacaiones_Situaciones Sociales_comp_question",
+            "name": "Chistes con amigos_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Solo estás emocionado de pasar los días festivos con tu pareja y no lo tomarán como algo personal.",
-                "A ti no te importan o que no quieres verlos."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Solo estás emocionado de pasar los días festivos con tu pareja y no lo tomarán como algo personal."
+            "correct_value": "No"
         }
     ]
 }

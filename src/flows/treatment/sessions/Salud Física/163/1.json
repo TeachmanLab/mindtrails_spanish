@@ -1,14 +1,14 @@
 {
-    "header_text": "Evaluación de salud",
+    "header_text": "Paracaidismo por primera vez",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Evaluación de salud"
+            "text": "Paracaidismo por primera vez"
         },
         {
             "type": "Media",
-            "url": "./images/Evaluación_de_salud.jpg"
+            "url": "./images/Paracaidismo_por_primera_vez.jpg"
         }
     ]
 }

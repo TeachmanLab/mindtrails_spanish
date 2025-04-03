@@ -1,21 +1,21 @@
 {
-    "header_text": "Comentarios de redes sociales",
+    "header_text": "Invitación a cenar",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa lo que esa persona piensa de ti?"
+            "Text": "¿Le caeras bien a los otros invitados?"
         },
         {
             "type": "Buttons",
-            "name": "Comentarios de redes sociales_Situaciones Sociales_comp_question",
+            "name": "Invitación a cenar_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
             "correct_value": "Sí"

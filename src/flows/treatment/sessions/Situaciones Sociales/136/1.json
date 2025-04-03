@@ -1,14 +1,14 @@
 {
-    "header_text": "Dolor de garganta en la cena",
+    "header_text": "Desordenado para vivir",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dolor de garganta en la cena"
+            "text": "Desordenado para vivir"
         },
         {
             "type": "Media",
-            "url": "./images/Dolor_de_garganta_en_la_cena.jpg"
+            "url": "./images/Desordenado_para_vivir.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Planes de vacaciones",
+    "header_text": "Casarse con tu pareja",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus suegros te han invitado a unirte a ellos para los días festivos. Estás emocionado de pasar tiempo con la familia de tu pareja, pero te preocupa que tus propios padres se sientan decepcionados de no estar con ellos. Cuando piensas en decirles a tus padres que te gustaría pasar los días festivos con tu pareja, crees que se tomarán mal la..."
+            "text": "Reflexionando sobre la idea de casarte con tu pareja, no te sientes demasiado asustado y crees que tu matrimonio sería... "
         },
         {
             "type": "Entry",
-            "name": "Planes de vacaciones_Relaciones Románticas_entry1"
+            "name": "Casarse con tu pareja_Relaciones Románticas_entry2"
         }
     ]
 }

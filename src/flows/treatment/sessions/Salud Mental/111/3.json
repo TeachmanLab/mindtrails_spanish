@@ -1,24 +1,24 @@
 {
-    "header_text": "Práctica de presentación",
+    "header_text": "Probando un dicho divertido",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que estás bien preparado?"
+            "Text": "¿Te preocupa lo que pensarán tus compañeros acerca de tu chiste?"
         },
         {
             "type": "Buttons",
-            "name": "Práctica de presentación_Salud Mental_comp_question",
+            "name": "Probando un dicho divertido_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "Sí"
+            "correct_value": "No"
         }
     ]
 }

@@ -1,24 +1,21 @@
 {
-    "header_text": "silencio en un viaje en coche",
+    "header_text": "No tener mucho que decir",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu amigo se siente incómodo contigo cuando hay silencio durante el viaje?"
+            "text": "Mientras escuchas a tus amigos, recuerdas que tu amigo estaba callado el otro día. Decides que no siempre compartir es..."
         },
         {
-            "type": "Buttons",
-            "name": "silencio en un viaje en coche_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "No tener mucho que decir_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "words": [
+                "normal"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ]
 }

@@ -1,14 +1,11 @@
 {
-    "header_text": "Elegir entre oportunidades",
+    "header_text": "Recurso: Finanzas",
     "header_icon": "assets/subtitle.png",
+    "name": "Deudores Anónimos",
     "elements": [
         {
-            "type": "Label",
-            "text": "Elegir entre oportunidades"
-        },
-        {
-            "type": "Media",
-            "url": "./images/Elegir_entre_oportunidades.jpg"
+            "type": "Text",
+            "text": "Deudores Anónimos\n\nOfrece programa de 12 pasos para personas que quieren dejar de incurrir en deudas.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

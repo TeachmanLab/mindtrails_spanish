@@ -1,21 +1,24 @@
 {
-    "header_text": "Nuevo estilo",
+    "header_text": "Presentación de tu trabajo",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Después de luchar contigo mismo en el vestidor, te sientes seguro y quieres ponertelo para salir, así que compras el nuevo..."
+            "Text": "¿Impresionará tu trabajo a la gente en el evento?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Nuevo estilo_Salud Mental_puzzle_word2",
+            "type": "Buttons",
+            "name": "Presentación de tu trabajo_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "conjunto"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Sí"
         }
     ]
 }

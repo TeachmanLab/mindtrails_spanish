@@ -1,14 +1,14 @@
 {
-    "header_text": "Ahorrar dinero",
+    "header_text": "Un comentario grosero",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ahorrar dinero"
+            "text": "Un comentario grosero"
         },
         {
             "type": "Media",
-            "url": "./images/Ahorrar_dinero.jpg"
+            "url": "./images/Un_comentario_grosero.jpg"
         }
     ]
 }

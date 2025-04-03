@@ -1,14 +1,14 @@
 {
-    "header_text": "Buscando una casa",
+    "header_text": "Mantener a la familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Buscando una casa"
+            "text": "Mantener a la familia"
         },
         {
             "type": "Media",
-            "url": "./images/Buscando_una_casa.jpg"
+            "url": "./images/Mantener_a_la_familia.jpg"
         }
     ]
 }

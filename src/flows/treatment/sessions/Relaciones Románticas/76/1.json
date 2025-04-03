@@ -1,14 +1,14 @@
 {
-    "header_text": "Amigos en las relaciones",
+    "header_text": "Superarlo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Amigos en las relaciones"
+            "text": "Superarlo"
         },
         {
             "type": "Media",
-            "url": "./images/Amigos_en_las_relaciones.jpg"
+            "url": "./images/Superarlo.jpg"
         }
     ]
 }

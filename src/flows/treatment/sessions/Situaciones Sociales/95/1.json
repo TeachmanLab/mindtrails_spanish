@@ -1,14 +1,14 @@
 {
-    "header_text": "Exposure Guilt",
+    "header_text": "Una presentación grande",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Exposure Guilt"
+            "text": "Una presentación grande"
         },
         {
             "type": "Media",
-            "url": "./images/Exposure_Guilt.jpg"
+            "url": "./images/Una_presentación_grande.jpg"
         }
     ]
 }

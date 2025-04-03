@@ -1,21 +1,24 @@
 {
-    "header_text": "Expectativas",
+    "header_text": "Nueva receta",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en por qué quieren que te desempeñes bien. Sabes que es porque quieren que te vaya bien, eso te..."
+            "Text": "¿Te preocupa lo que pensará tu familia de tu comida?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Expectativas_Vida Familiar y Doméstica_puzzle_word2",
+            "type": "Buttons",
+            "name": "Nueva receta_Vida Familiar y Doméstica_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "asegura"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

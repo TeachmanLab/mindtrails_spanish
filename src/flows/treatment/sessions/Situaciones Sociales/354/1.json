@@ -1,14 +1,14 @@
 {
-    "header_text": "Palabra tropiezo",
+    "header_text": "Experiencia en el supermercado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Palabra tropiezo"
+            "text": "Experiencia en el supermercado"
         },
         {
             "type": "Media",
-            "url": "./images/Palabra_tropiezo.jpg"
+            "url": "./images/Experiencia_en_el_supermercado.jpg"
         }
     ]
 }

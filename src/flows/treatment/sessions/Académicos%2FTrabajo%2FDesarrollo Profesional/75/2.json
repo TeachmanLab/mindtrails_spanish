@@ -1,14 +1,14 @@
 {
-    "header_text": "Presentación opcional",
+    "header_text": "Corrección rápida",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu jefe ha contratado a algunos pasantes para el verano. Tu jefe te pide que te quedes después del trabajo para darles una breve presentación sobre los objetivos y valores de la universidad, pero te dice que esto es completamente opcional. Te sientes un poco nervioso por dar la presentación, y decides... "
+            "text": "En el pasillo del trabajo, tu jefe te hace una pregunta y te das cuenta de que has respondido incorrectamente. Tu jefe te corrige. Crees que la experiencia de ser corregido por tu jefe es..."
         },
         {
             "type": "Entry",
-            "name": "Presentación opcional_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Corrección rápida_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Larga caminata afuera",
+    "header_text": "Subiendo una montaña",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Hace frío afuera y sales a caminar para calmar tu mente. Tus manos empiezan a temblar y tu corazón late rápidamente mientras subes una cuesta. Tienes..."
+            "type": "Label",
+            "text": "Subiendo una montaña"
         },
         {
-            "type": "Entry",
-            "name": "Larga caminata afuera_Salud Física_entry1"
+            "type": "Media",
+            "url": "./images/Subiendo_una_montaña.jpg"
         }
     ]
 }

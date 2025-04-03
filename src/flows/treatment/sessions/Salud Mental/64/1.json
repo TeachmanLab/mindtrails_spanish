@@ -1,14 +1,14 @@
 {
-    "header_text": "Tiempo para ti mismo",
+    "header_text": "Una invitación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tiempo para ti mismo"
+            "text": "Una invitación"
         },
         {
             "type": "Media",
-            "url": "./images/Tiempo_para_ti_mismo.jpg"
+            "url": "./images/Una_invitación.jpg"
         }
     ]
 }

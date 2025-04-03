@@ -1,24 +1,24 @@
 {
-    "header_text": "Visión borrosa",
+    "header_text": "Desconectandote",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Te das cuenta de que..."
+            "Text": "¿Te sientes tranquilo después de desconectarte durante la reunión?"
         },
         {
             "type": "Buttons",
-            "name": "Visión borrosa_Salud Física_comp_question",
+            "name": "Desconectandote_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Estás especialmente cansado.",
-                "Podrías estar perdiendo tu visión permanentemente."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Estás especialmente cansado."
+            "correct_value": "Sí"
         }
     ]
 }

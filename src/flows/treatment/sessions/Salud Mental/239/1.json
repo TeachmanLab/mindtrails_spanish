@@ -1,14 +1,14 @@
 {
-    "header_text": "Tus habilidades con los bolos",
+    "header_text": "Práctica de presentación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tus habilidades con los bolos"
+            "text": "Práctica de presentación"
         },
         {
             "type": "Media",
-            "url": "./images/Tus_habilidades_con_los_bolos.jpg"
+            "url": "./images/Práctica_de_presentación.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Traje de fiesta",
+    "header_text": "Preocuparse por los ahorros",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Traje de fiesta"
+            "text": "Preocuparse por los ahorros"
         },
         {
             "type": "Media",
-            "url": "./images/Traje_de_fiesta.jpg"
+            "url": "./images/Preocuparse_por_los_ahorros.jpg"
         }
     ]
 }

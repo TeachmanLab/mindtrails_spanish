@@ -1,11 +1,14 @@
 {
-    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_text": "Amigo en el hospital",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Text",
-            "text": "Si nota que su corazón se acelera o tiene problemas para respirar, pregúntese si podría haber una explicación perfectamente inofensiva de por qué su cuerpo reacciona de esa manera (por ejemplo, ¿acaba de subir un tramo de escaleras?)"
+            "type": "Label",
+            "text": "Amigo en el hospital"
+        },
+        {
+            "type": "Media",
+            "url": "./images/Amigo_en_el_hospital.jpg"
         }
     ]
 }

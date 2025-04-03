@@ -1,14 +1,14 @@
 {
-    "header_text": "Creencias diferentes",
+    "header_text": "Consejos de padres",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Creencias diferentes"
+            "text": "Consejos de padres"
         },
         {
             "type": "Media",
-            "url": "./images/Creencias_diferentes.jpg"
+            "url": "./images/Consejos_de_padres.jpg"
         }
     ]
 }

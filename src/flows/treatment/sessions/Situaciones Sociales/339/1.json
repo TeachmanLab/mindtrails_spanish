@@ -1,14 +1,14 @@
 {
-    "header_text": "Confianza creativa",
+    "header_text": "La nueva ciudad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Confianza creativa"
+            "text": "La nueva ciudad"
         },
         {
             "type": "Media",
-            "url": "./images/Confianza_creativa.jpg"
+            "url": "./images/La_nueva_ciudad.jpg"
         }
     ]
 }

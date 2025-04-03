@@ -1,14 +1,14 @@
 {
-    "header_text": "Corriendo una milla",
+    "header_text": "Subiendo escaleras",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Corriendo una milla"
+            "text": "Subiendo escaleras"
         },
         {
             "type": "Media",
-            "url": "./images/Corriendo_una_milla.jpg"
+            "url": "./images/Subiendo_escaleras.jpg"
         }
     ]
 }

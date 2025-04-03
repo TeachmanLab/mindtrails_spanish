@@ -1,24 +1,24 @@
 {
-    "header_text": "Primera vez pantinaje sobre hielo",
+    "header_text": "Dolor de estómago",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "A medida que continúes patinando sobre hielo, probablemente..."
+            "Text": "¿El dolor de estómago se debe a la ansiedad?"
         },
         {
             "type": "Buttons",
-            "name": "Primera vez pantinaje sobre hielo_Salud Física_comp_question",
+            "name": "Dolor de estómago_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Te caigas y te lastimes.",
-                "Patines con éxito alrededor de la pista varias veces."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Patines con éxito alrededor de la pista varias veces."
+            "correct_value": "Sí"
         }
     ]
 }

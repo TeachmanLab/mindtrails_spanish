@@ -1,14 +1,14 @@
 {
-    "header_text": "Broma interna",
+    "header_text": "Zambullirte",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Broma interna"
+            "text": "Zambullirte"
         },
         {
             "type": "Media",
-            "url": "./images/Broma_interna.jpg"
+            "url": "./images/Zambullirte.jpg"
         }
     ]
 }

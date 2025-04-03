@@ -1,21 +1,24 @@
 {
-    "header_text": "Ejercicio con un amigo",
+    "header_text": "Clase de baile",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando comienzas a tener pensamientos ansiosos de desmayarte, decides simplemente..."
+            "Text": "¿La persona que conociste en la clase de baile pensó que estabas ansioso?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Ejercicio con un amigo_Salud Física_puzzle_word2",
+            "type": "Buttons",
+            "name": "Clase de baile_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "notarlos"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

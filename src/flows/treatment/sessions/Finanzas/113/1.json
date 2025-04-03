@@ -1,14 +1,14 @@
 {
-    "header_text": "Costos inesperados",
+    "header_text": "Oportunidad de espectáculo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Costos inesperados"
+            "text": "Oportunidad de espectáculo"
         },
         {
             "type": "Media",
-            "url": "./images/Costos_inesperados.jpg"
+            "url": "./images/Oportunidad_de_espectáculo.jpg"
         }
     ]
 }

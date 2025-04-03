@@ -1,14 +1,14 @@
 {
-    "header_text": "Planes divertidos",
+    "header_text": "Costear los gastos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus amigos te piden que salgas a cenar a un restaurante de lujo con ellos este fin de semana. Es muy caro y sabes que no podrás pagarlo. Cuando te imaginas diciéndole a tus amigos que no puedes ir, te sientes... "
+            "text": "Tu alquiler se acerca pronto. Normalmente tienes tu alquiler presupuestado, pero algunos gastos inesperados te han dejado un poco corto y tienes que tomar algunos turnos extra en el trabajo. Pensando en tu capacidad para hacer el pago, tus fondos serán... "
         },
         {
             "type": "Entry",
-            "name": "Planes divertidos_Finanzas_entry1"
+            "name": "Costear los gastos_Finanzas_entry1"
         }
     ]
 }

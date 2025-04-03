@@ -1,14 +1,14 @@
 {
-    "header_text": "Noticias decepcionantes",
+    "header_text": "No invitado a cenar",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Noticias decepcionantes"
+            "text": "No invitado a cenar"
         },
         {
             "type": "Media",
-            "url": "./images/Noticias_decepcionantes.jpg"
+            "url": "./images/No_invitado_a_cenar.jpg"
         }
     ]
 }

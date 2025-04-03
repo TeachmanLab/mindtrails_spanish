@@ -1,14 +1,14 @@
 {
-    "header_text": "El torneo de fútbol",
+    "header_text": "Gustos musicales diferentes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "El torneo de fútbol"
+            "text": "Gustos musicales diferentes"
         },
         {
             "type": "Media",
-            "url": "./images/El_torneo_de_fútbol.jpg"
+            "url": "./images/Gustos_musicales_diferentes.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Participación",
+    "header_text": "Tu mejor amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Participación"
+            "text": "Tu mejor amigo"
         },
         {
             "type": "Media",
-            "url": "./images/Participación.jpg"
+            "url": "./images/Tu_mejor_amigo.jpg"
         }
     ]
 }

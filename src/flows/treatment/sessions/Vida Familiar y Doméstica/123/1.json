@@ -1,14 +1,14 @@
 {
-    "header_text": "Publicar sobre la familia",
+    "header_text": "Creencias diferentes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Publicar sobre la familia"
+            "text": "Creencias diferentes"
         },
         {
             "type": "Media",
-            "url": "./images/Publicar_sobre_la_familia.jpg"
+            "url": "./images/Creencias_diferentes.jpg"
         }
     ]
 }

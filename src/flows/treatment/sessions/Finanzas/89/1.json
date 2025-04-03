@@ -1,15 +1,14 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Visitar a un nuevo amigo",
     "header_icon": "assets/subtitle.png",
-    "name": "¡Consejo para aplicar!",
     "elements": [
         {
-            "type": "Text",
-            "text": "Piensas en una situación próxima que quieras evitar porque te pone ansioso. ¿Cómo puedes pensarlo de manera diferente para que se sienta menos aterrador? "
+            "type": "Label",
+            "text": "Visitar a un nuevo amigo"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #9_entry"
+            "type": "Media",
+            "url": "./images/Visitar_a_un_nuevo_amigo.jpg"
         }
     ]
 }

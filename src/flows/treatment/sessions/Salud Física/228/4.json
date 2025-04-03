@@ -1,24 +1,15 @@
 {
-    "header_text": "El malestar de estómago",
+    "header_text": "Saludando a mis amigos",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es normal enfermarse a veces?"
+            "text": "Estás afuera en un día fresco y ves a tus amigos en la calle. Decides correr para saludar. Cuando llegas con tus amigos, te quedas sin aliento.\n\nHaga clic en Siguiente para ver algunas ideas."
         },
         {
-            "type": "Buttons",
-            "name": "El malestar de estómago_Salud Física_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "columnCount": 1,
-            "correct_value": "Sí"
+            "type": "Media",
+            "url": "./images/Saludando_a_mis_amigos.jpg",
+            "border": true
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Ir a la quiebra",
+    "header_text": "Costos inesperados",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ir a la quiebra"
+            "text": "Costos inesperados"
         },
         {
             "type": "Media",
-            "url": "./images/Ir_a_la_quiebra.jpg"
+            "url": "./images/Costos_inesperados.jpg"
         }
     ]
 }

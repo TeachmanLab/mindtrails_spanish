@@ -1,14 +1,14 @@
 {
-    "header_text": "Mascarillas para invitados",
+    "header_text": "sintiendo mareos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mascarillas para invitados"
+            "text": "sintiendo mareos"
         },
         {
             "type": "Media",
-            "url": "./images/Mascarillas_para_invitados.jpg"
+            "url": "./images/sintiendo_mareos.jpg"
         }
     ]
 }

@@ -1,24 +1,24 @@
 {
-    "header_text": "Un trago de agua",
+    "header_text": "Planes cancelados",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando sientes ansiedad durante una presentación..."
+            "Text": "Tu amigo probablemente canceló los planes porque..."
         },
         {
             "type": "Buttons",
-            "name": "Un trago de agua_Situaciones Sociales_comp_question",
+            "name": "Planes cancelados_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Tienes que parar tu exposición y huir de la situación.",
-                "Tienes la capacidad de continuar con tu exposición."
+                "Están enojados contigo debido a su desacuerdo anterior.",
+                "Recordaron que tenían una reunión importante en el trabajo al mismo tiempo."
             ],
             "columnCount": 1,
-            "correct_value": "Tienes la capacidad de continuar con tu exposición."
+            "correct_value": "Recordaron que tenían una reunión importante en el trabajo al mismo tiempo."
         }
     ]
 }

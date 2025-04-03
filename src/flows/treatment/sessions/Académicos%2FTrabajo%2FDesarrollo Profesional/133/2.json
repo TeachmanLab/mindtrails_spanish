@@ -1,19 +1,19 @@
 {
-    "header_text": "Sentirse ansioso",
+    "header_text": "Tu Currículum",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes una gran presentación pendiente. Cuando piensas en pararte frente de gente y hablar, te sientes ansioso. Crees que esto probablemente sea..."
+            "text": "Te estás preparando para solicitar un trabajo nuevo. Tienes una reunión con un posible empleador mañana, y sabes que un buen currículum será un factor importante. Mientras revisas tu currículum, piensas que el entrevistador quedará poco..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Sentirse ansioso_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "name": "Tu Currículum_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "temporal"
+                "impresionado"
             ],
             "missing_letter_count": 1
         }

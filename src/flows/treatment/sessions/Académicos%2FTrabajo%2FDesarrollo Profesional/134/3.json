@@ -1,24 +1,24 @@
 {
-    "header_text": "Errores en el trabajo",
+    "header_text": "Sentirse ansioso",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "En las próximas semanas en al trabajo probablemente..."
+            "Text": "¿siempre sentirás ansiedad?"
         },
         {
             "type": "Buttons",
-            "name": "Errores en el trabajo_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Sentirse ansioso_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Serás despedido.",
-                "Aprenderás cosas nuevas."
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "Aprenderás cosas nuevas."
+            "correct_value": "No"
         }
     ]
 }

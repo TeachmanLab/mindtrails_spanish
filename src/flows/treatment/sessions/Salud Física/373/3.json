@@ -1,24 +1,21 @@
 {
-    "header_text": "Comunicación tardía",
+    "header_text": "Día caluroso",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu amigo te puso en una situación peligrosa a propósito?"
+            "text": "Esta sensación es sorprendente e incómoda, pero te das cuenta de que es algo que simplemente puedes..."
         },
         {
-            "type": "Buttons",
-            "name": "Comunicación tardía_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Día caluroso_Salud Física_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "words": [
+                "observar"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ]
 }

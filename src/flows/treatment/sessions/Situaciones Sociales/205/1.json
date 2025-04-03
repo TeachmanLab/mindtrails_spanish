@@ -1,14 +1,14 @@
 {
-    "header_text": "Conflictos de convivencia",
+    "header_text": "Fotos divertidas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Conflictos de convivencia"
+            "text": "Fotos divertidas"
         },
         {
             "type": "Media",
-            "url": "./images/Conflictos_de_convivencia.jpg"
+            "url": "./images/Fotos_divertidas.jpg"
         }
     ]
 }

@@ -1,14 +1,11 @@
 {
-    "header_text": "Encontrarte con un viejo conocido",
+    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
     "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Encontrarte con un viejo conocido"
-        },
-        {
-            "type": "Media",
-            "url": "./images/Encontrarte_con_un_viejo_conocido.jpg"
+            "type": "Text",
+            "text": "Permítete dar un paso atrás de las amistades o relaciones que sientes que te están afectando negativamente. "
         }
     ]
 }

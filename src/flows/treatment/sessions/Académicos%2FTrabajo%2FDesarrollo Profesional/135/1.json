@@ -1,14 +1,14 @@
 {
-    "header_text": "Sentirse diferente",
+    "header_text": "Errores en el trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sentirse diferente"
+            "text": "Errores en el trabajo"
         },
         {
             "type": "Media",
-            "url": "./images/Sentirse_diferente.jpg"
+            "url": "./images/Errores_en_el_trabajo.jpg"
         }
     ]
 }

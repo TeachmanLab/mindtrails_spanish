@@ -1,14 +1,14 @@
 {
-    "header_text": "Problemas de amigos",
+    "header_text": "No invitado a cenar",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Problemas de amigos"
+            "text": "No invitado a cenar"
         },
         {
             "type": "Media",
-            "url": "./images/Problemas_de_amigos.jpg"
+            "url": "./images/No_invitado_a_cenar.jpg"
         }
     ]
 }

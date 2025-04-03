@@ -1,14 +1,14 @@
 {
-    "header_text": "Conociendo gente nueva",
+    "header_text": "Mantenerse al día con los amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Conociendo gente nueva"
+            "text": "Mantenerse al día con los amigos"
         },
         {
             "type": "Media",
-            "url": "./images/Conociendo_gente_nueva.jpg"
+            "url": "./images/Mantenerse_al_día_con_los_amigos.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Hablando en público",
+    "header_text": "Cafetería",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Hablando en público"
+            "text": "Cafetería"
         },
         {
             "type": "Media",
-            "url": "./images/Hablando_en_público.jpg"
+            "url": "./images/Cafetería.jpg"
         }
     ]
 }

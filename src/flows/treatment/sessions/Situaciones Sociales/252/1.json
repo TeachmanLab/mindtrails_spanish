@@ -1,14 +1,14 @@
 {
-    "header_text": "Viendo a un viejo amigo",
+    "header_text": "Almuerzo maloliente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Viendo a un viejo amigo"
+            "text": "Almuerzo maloliente"
         },
         {
             "type": "Media",
-            "url": "./images/Viendo_a_un_viejo_amigo.jpg"
+            "url": "./images/Almuerzo_maloliente.jpg"
         }
     ]
 }

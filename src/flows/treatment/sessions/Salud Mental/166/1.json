@@ -1,14 +1,14 @@
 {
-    "header_text": "Sentirse mareado",
+    "header_text": "No sentirte preparado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sentirse mareado"
+            "text": "No sentirte preparado"
         },
         {
             "type": "Media",
-            "url": "./images/Sentirse_mareado.jpg"
+            "url": "./images/No_sentirte_preparado.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Invitar a alguien",
+    "header_text": "Padres molestos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Invitar a alguien"
+            "text": "Padres molestos"
         },
         {
             "type": "Media",
-            "url": "./images/Invitar_a_alguien.jpg"
+            "url": "./images/Padres_molestos.jpg"
         }
     ]
 }

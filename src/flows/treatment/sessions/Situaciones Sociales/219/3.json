@@ -1,24 +1,24 @@
 {
-    "header_text": "Evaluaciones entre compañeros",
+    "header_text": "Futuras amistades",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás preocupado por el debate?"
+            "Text": "Cuando piensas en tu jubilación, tus amigos..."
         },
         {
             "type": "Buttons",
-            "name": "Evaluaciones entre compañeros_Situaciones Sociales_comp_question",
+            "name": "Futuras amistades_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Permanecen una parte importante de tu vida.",
+                "Desaparecen de tu vida con el tiempo."
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Desaparecen de tu vida con el tiempo."
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Hilo de pensamientos",
+    "header_text": "Sentirse diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Hilo de pensamientos"
+            "text": "Sentirse diferente"
         },
         {
             "type": "Media",
-            "url": "./images/Hilo_de_pensamientos.jpg"
+            "url": "./images/Sentirse_diferente.jpg"
         }
     ]
 }

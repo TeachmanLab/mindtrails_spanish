@@ -1,14 +1,14 @@
 {
-    "header_text": "Conociendo gente nueva",
+    "header_text": "Mantenerse al día con los amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Decides tomar la iniciativa y pedirles sus números. Te sientes..."
+            "text": "Mientras piensas en tu reacción antes de esta pausa en el contacto, no te preocupas por la fuerza de tu amistad y crees que tu amigo será..."
         },
         {
             "type": "Entry",
-            "name": "Conociendo gente nueva_Situaciones Sociales_entry2"
+            "name": "Mantenerse al día con los amigos_Situaciones Sociales_entry2"
         }
     ]
 }

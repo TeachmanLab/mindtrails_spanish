@@ -1,14 +1,14 @@
 {
-    "header_text": "Nuevo estilo",
+    "header_text": "Presentación de tu trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nuevo estilo"
+            "text": "Presentación de tu trabajo"
         },
         {
             "type": "Media",
-            "url": "./images/Nuevo_estilo.jpg"
+            "url": "./images/Presentación_de_tu_trabajo.jpg"
         }
     ]
 }

@@ -1,11 +1,14 @@
 {
-    "header_text": "Maneja tus sentimientos: Académicos/Trabajo/Desarrollo Profesional",
+    "header_text": "Participación",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Text",
-            "text": "Prueba el método Pomodoro: tómate un descanso de 5 minutos cada 30 minutos de trabajo para que tu mente rejuvenezca."
+            "type": "Label",
+            "text": "Participación"
+        },
+        {
+            "type": "Media",
+            "url": "./images/Participación.jpg"
         }
     ]
 }

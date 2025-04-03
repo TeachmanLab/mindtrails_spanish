@@ -1,24 +1,24 @@
 {
-    "header_text": "Reconciliándote con tu amigo",
+    "header_text": "Una audiencia captada",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu amigo canceló la reunion porque están..."
+            "Text": "Tus compañeros probablemente estaban callados porque..."
         },
         {
             "type": "Buttons",
-            "name": "Reconciliándote con tu amigo_Situaciones Sociales_comp_question",
+            "name": "Una audiencia captada_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Enojados con tí.",
-                "Cansados de una semana ocupada."
+                "Estaban enfocados en tu presentación.",
+                "Estaban aburridos con tu presentación."
             ],
             "columnCount": 1,
-            "correct_value": "Cansados de una semana ocupada."
+            "correct_value": "Estaban enfocados en tu presentación."
         }
     ]
 }

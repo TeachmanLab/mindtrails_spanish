@@ -1,24 +1,21 @@
 {
-    "header_text": "Tu Currículum",
+    "header_text": "Llamada breve",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Crees que tu currículum podría..."
+            "text": "Después de la reunión, te das cuenta de que tus compañeros de trabajo probablemente se sorprendieron porque la puerta se abrió de repente. Es probable que piensen que abrir y cerrar la puerta silenciosamente demuestra que eres..."
         },
         {
-            "type": "Buttons",
-            "name": "Tu Currículum_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "Llamada breve_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Ser un factor importante en una oferta de trabajo eventualmente.",
-                "Ser la razón principal por la que no recibas respuesta de este empleador."
+            "words": [
+                "considerado"
             ],
-            "columnCount": 1,
-            "correct_value": "Ser la razón principal por la que no recibas respuesta de este empleador."
+            "missing_letter_count": 1
         }
     ]
 }

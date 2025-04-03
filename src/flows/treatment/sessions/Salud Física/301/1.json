@@ -1,14 +1,14 @@
 {
-    "header_text": "sintiéndote mareado",
+    "header_text": "Recuperando el aliento",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "sintiéndote mareado"
+            "text": "Recuperando el aliento"
         },
         {
             "type": "Media",
-            "url": "./images/sintiéndote_mareado.jpg"
+            "url": "./images/Recuperando_el_aliento.jpg"
         }
     ]
 }

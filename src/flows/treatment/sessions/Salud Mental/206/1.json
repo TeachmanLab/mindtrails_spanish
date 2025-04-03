@@ -1,14 +1,14 @@
 {
-    "header_text": "Decidir compartir una imagen",
+    "header_text": "Views Towards Therapy",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Decidir compartir una imagen"
+            "text": "Views Towards Therapy"
         },
         {
             "type": "Media",
-            "url": "./images/Decidir_compartir_una_imagen.jpg"
+            "url": "./images/Views_Towards_Therapy.jpg"
         }
     ]
 }

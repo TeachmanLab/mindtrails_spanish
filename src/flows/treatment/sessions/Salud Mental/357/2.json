@@ -1,19 +1,19 @@
 {
-    "header_text": "Correo electrónico importante",
+    "header_text": "Amigo en el hospital",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hoy recibirás un correo electrónico que te informará si recibiste un ascenso. Tienes algunas horas para esperar hasta recibir el correo. Cuando piensas en esperar tanto tiempo, te sientes..."
+            "text": "Recibes un mensaje de texto de un amigo diciendo que está en el hospital, pero no te dicen por qué. Comienzas a preocuparte por si van a estar bien. Mientras piensas en tu amigo, te sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Correo electrónico importante_Salud Mental_puzzle1",
+            "name": "Amigo en el hospital_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "miserable"
+                "tranquilo"
             ],
             "missing_letter_count": 2
         }

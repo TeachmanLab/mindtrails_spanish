@@ -1,14 +1,14 @@
 {
-    "header_text": "Proyecto de escritura",
+    "header_text": "Tomarse tu tiempo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Proyecto de escritura"
+            "text": "Tomarse tu tiempo"
         },
         {
             "type": "Media",
-            "url": "./images/Proyecto_de_escritura.jpg"
+            "url": "./images/Tomarse_tu_tiempo.jpg"
         }
     ]
 }

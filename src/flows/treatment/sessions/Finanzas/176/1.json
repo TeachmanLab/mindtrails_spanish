@@ -1,14 +1,14 @@
 {
-    "header_text": "Planificación de pagos",
+    "header_text": "Saludable pero caro",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Planificación de pagos"
+            "text": "Saludable pero caro"
         },
         {
             "type": "Media",
-            "url": "./images/Planificación_de_pagos.jpg"
+            "url": "./images/Saludable_pero_caro.jpg"
         }
     ]
 }

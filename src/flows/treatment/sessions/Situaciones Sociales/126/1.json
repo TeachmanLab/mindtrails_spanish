@@ -1,14 +1,14 @@
 {
-    "header_text": "Ninguna respuesta",
+    "header_text": "Club de lectura",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ninguna respuesta"
+            "text": "Club de lectura"
         },
         {
             "type": "Media",
-            "url": "./images/Ninguna_respuesta.jpg"
+            "url": "./images/Club_de_lectura.jpg"
         }
     ]
 }

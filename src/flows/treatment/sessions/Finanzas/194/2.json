@@ -1,14 +1,14 @@
 {
-    "header_text": "Permitirse un viaje",
+    "header_text": "Cena con amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu hijo realmente quiere ir a un parque temático de vacaciones este año. Has estado investigando el costo del viaje, y no crees que puedas pagarlo. Tu piensas que puedes encontrar un viaje alternativo que tu hijo todavía... "
+            "text": "Tus amigos te invitan a cenar con ellos. Te das cuenta de que salir a cenar podría hacer que sobrepases tu presupuesto para la cena. Declinas la invitación y piensas que tus amigos lo..."
         },
         {
             "type": "Entry",
-            "name": "Permitirse un viaje_Finanzas_entry1"
+            "name": "Cena con amigos_Finanzas_entry1"
         }
     ]
 }

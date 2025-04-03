@@ -1,14 +1,14 @@
 {
-    "header_text": "Pedido de un niño",
+    "header_text": "en un barco",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pedido de un niño"
+            "text": "en un barco"
         },
         {
             "type": "Media",
-            "url": "./images/Pedido_de_un_niño.jpg"
+            "url": "./images/en_un_barco.jpg"
         }
     ]
 }

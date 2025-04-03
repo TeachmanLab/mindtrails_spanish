@@ -1,14 +1,14 @@
 {
-    "header_text": "Exposición reciente",
+    "header_text": "Conociendo alguien nuevo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estuviste expuesto recientemente a alguien que dio positivo, pero hiciste la prueba y no has experimentado ningún síntoma. Tus amigos te invitan a cenar con ellos y te preguntas si deberías ir. Das negativo y sales con tus..."
+            "text": "Estás en una fiesta de cumpleaños para un amigo. Comienzas a sentir un nudo en el estómago mientras hablas con un desconocido. Esto probablemente significa que estás..."
         },
         {
             "type": "Entry",
-            "name": "Exposición reciente_Salud Física_entry1"
+            "name": "Conociendo alguien nuevo_Salud Física_entry1"
         }
     ]
 }

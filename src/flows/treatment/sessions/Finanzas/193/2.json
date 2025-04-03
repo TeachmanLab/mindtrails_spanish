@@ -1,14 +1,14 @@
 {
-    "header_text": "Planificación de pagos",
+    "header_text": "Planes de descanso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Acabas de empezar un nuevo trabajo y necesitas seleccionar uno de los planes de jubilación que ofrece tu empresa. Has estado investigando un poco sobre los diferentes tipos de planes, pero te sientes un poco abrumado y tu fecha límite para elegir se acerca..."
+            "text": "Tus amigos están planeando un viaje a la playa durante las vacaciones y han ofrecido a ayudarte con el costo. Te sientes agradecido, pero también avergonzado de no poder pagar el viaje ti mismo. Sabes que tus amigos están felices de... "
         },
         {
             "type": "Entry",
-            "name": "Planificación de pagos_Finanzas_entry1"
+            "name": "Planes de descanso_Finanzas_entry1"
         }
     ]
 }

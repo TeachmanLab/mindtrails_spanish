@@ -1,19 +1,19 @@
 {
-    "header_text": "Evento social",
+    "header_text": "Iniciando un negocio pequeño",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hay un evento comunitario pronto para celebrar el final del semestre, y realmente quieres ir. Después de creer que el evento será gratuito, te sorprende descubrir que en realidad será muy caro asistir. Decides ponerte en contacto con los organizadores del evento y llegar a un..."
+            "text": "Estás considerando dejar tu trabajo para comenzar tu propio negocio pequeño y estás listo para trabajar duro. Estás emocionado, pero también sabes que muchos nuevos emprendimientos pueden terminar..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Evento social_Finanzas_puzzle1",
+            "name": "Iniciando un negocio pequeño_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "compromiso"
+                "fracasando"
             ],
             "missing_letter_count": 1
         }

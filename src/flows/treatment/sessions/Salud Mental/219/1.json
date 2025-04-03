@@ -1,14 +1,14 @@
 {
-    "header_text": "Compartiendo programas favoritos",
+    "header_text": "Participación en las redes sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Compartiendo programas favoritos"
+            "text": "Participación en las redes sociales"
         },
         {
             "type": "Media",
-            "url": "./images/Compartiendo_programas_favoritos.jpg"
+            "url": "./images/Participación_en_las_redes_sociales.jpg"
         }
     ]
 }

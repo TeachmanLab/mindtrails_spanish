@@ -1,14 +1,14 @@
 {
-    "header_text": "Un saludo de bienvenida",
+    "header_text": "Rechazar una bebida",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un saludo de bienvenida"
+            "text": "Rechazar una bebida"
         },
         {
             "type": "Media",
-            "url": "./images/Un_saludo_de_bienvenida.jpg"
+            "url": "./images/Rechazar_una_bebida.jpg"
         }
     ]
 }

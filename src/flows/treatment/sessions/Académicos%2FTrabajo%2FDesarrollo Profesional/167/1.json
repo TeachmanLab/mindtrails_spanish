@@ -1,14 +1,14 @@
 {
-    "header_text": "Aplicando a trabajos",
+    "header_text": "Cambiando tu trayectoria",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Aplicando a trabajos"
+            "text": "Cambiando tu trayectoria"
         },
         {
             "type": "Media",
-            "url": "./images/Aplicando_a_trabajos.jpg"
+            "url": "./images/Cambiando_tu_trayectoria.jpg"
         }
     ]
 }

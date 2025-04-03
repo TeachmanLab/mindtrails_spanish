@@ -1,14 +1,14 @@
 {
-    "header_text": "Participación",
+    "header_text": "Opiniones de otros",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Consideras asistir a un taller práctico en el que se requerirá tu opinión con frecuencia, a pesar de que no te gusta hablar frente a los demás. Después de asistir al taller, te das cuenta de que fue una decisión..."
+            "text": "Te negaron un ascenso este año y sabes que tu amigo te estaba apoyando para que obtuvieras un ascenso. Fruncen el ceño cuando les cuentas que no han conseguido uno. Les dices que trabajaste muy duro a pesar de no conseguir un ascenso y ellos están orgullosos del esfuerzo que hiciste durante todo el..."
         },
         {
             "type": "Entry",
-            "name": "Participación_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Opiniones de otros_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ]
 }

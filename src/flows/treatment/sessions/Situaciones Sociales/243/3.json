@@ -1,21 +1,24 @@
 {
-    "header_text": "Ayudando un vecino mayor",
+    "header_text": "Conociendo gente nueva",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando llegas a casa, te das cuenta de que tu vecino probablemente estaba teniendo un mal día y que fue apropiado ofrecer tu ayuda. Tu vecino probablemente piensa que eres..."
+            "Text": "¿La gente del nuevo grupo piensa que eres amable?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Ayudando un vecino mayor_Situaciones Sociales_puzzle_word2",
+            "type": "Buttons",
+            "name": "Conociendo gente nueva_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "amable"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Sí"
         }
     ]
 }

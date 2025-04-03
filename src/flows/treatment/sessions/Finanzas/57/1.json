@@ -1,14 +1,11 @@
 {
-    "header_text": "Preocupándote por gastar",
+    "header_text": "Maneja tus sentimientos: Finanzas",
     "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Preocupándote por gastar"
-        },
-        {
-            "type": "Media",
-            "url": "./images/Preocupándote_por_gastar.jpg"
+            "type": "Text",
+            "text": "Haga una lista de actividades que disfrute y que no cuesten dinero."
         }
     ]
 }

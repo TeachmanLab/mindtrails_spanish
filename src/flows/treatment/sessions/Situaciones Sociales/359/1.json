@@ -1,14 +1,14 @@
 {
-    "header_text": "Contacto alternativo",
+    "header_text": "Palabra tropiezo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Contacto alternativo"
+            "text": "Palabra tropiezo"
         },
         {
             "type": "Media",
-            "url": "./images/Contacto_alternativo.jpg"
+            "url": "./images/Palabra_tropiezo.jpg"
         }
     ]
 }

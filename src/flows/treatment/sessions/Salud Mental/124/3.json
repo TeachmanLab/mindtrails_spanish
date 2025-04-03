@@ -1,24 +1,21 @@
 {
-    "header_text": "Reunión uno a uno",
+    "header_text": "Fuera de tu control",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Eres capaz de tolerar tu ansiedad mientras te reúnes con tu jefe?"
+            "text": "Después de un minuto, tu conexión a internet vuelve. Inicias sesión de nuevo y te das cuenta de que te sientes más..."
         },
         {
-            "type": "Buttons",
-            "name": "Reunión uno a uno_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Fuera de tu control_Salud Mental_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "words": [
+                "seguro"
             ],
-            "columnCount": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 1
         }
     ]
 }

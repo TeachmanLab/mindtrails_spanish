@@ -1,14 +1,11 @@
 {
-    "header_text": "Sección eliminada",
+    "header_text": "Recurso: Académicos/Trabajo/Desarrollo Profesional",
     "header_icon": "assets/subtitle.png",
+    "name": "CareerOneStop: Reempleo del trabajador",
     "elements": [
         {
-            "type": "Label",
-            "text": "Sección eliminada"
-        },
-        {
-            "type": "Media",
-            "url": "./images/Sección_eliminada.jpg"
+            "type": "Text",
+            "text": "CareerOneStop: Reempleo del trabajador\n\nEl portal de reempleo del trabajador incluye información estatal, capacitaciones, ayuda con la búsqueda de empleo, y más beneficios.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

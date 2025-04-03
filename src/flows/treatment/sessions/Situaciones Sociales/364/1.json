@@ -1,11 +1,14 @@
 {
-    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
+    "header_text": "Contacto alternativo",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Text",
-            "text": "Permítete dar un paso atrás de las amistades o relaciones que sientes que te están afectando negativamente. "
+            "type": "Label",
+            "text": "Contacto alternativo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/Contacto_alternativo.jpg"
         }
     ]
 }

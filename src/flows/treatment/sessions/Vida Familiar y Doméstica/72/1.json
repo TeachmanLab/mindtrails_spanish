@@ -1,14 +1,14 @@
 {
-    "header_text": "Ir a terapia",
+    "header_text": "Creencias diferentes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ir a terapia"
+            "text": "Creencias diferentes"
         },
         {
             "type": "Media",
-            "url": "./images/Ir_a_terapia.jpg"
+            "url": "./images/Creencias_diferentes.jpg"
         }
     ]
 }

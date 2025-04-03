@@ -1,14 +1,14 @@
 {
-    "header_text": "Charla de oficina",
+    "header_text": "siendo padre",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Charla de oficina"
+            "text": "siendo padre"
         },
         {
             "type": "Media",
-            "url": "./images/Charla_de_oficina.jpg"
+            "url": "./images/siendo_padre.jpg"
         }
     ]
 }

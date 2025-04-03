@@ -1,14 +1,14 @@
 {
-    "header_text": "Mantener a la familia",
+    "header_text": "Encontrando un compañero de cuarto",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mantener a la familia"
+            "text": "Encontrando un compañero de cuarto"
         },
         {
             "type": "Media",
-            "url": "./images/Mantener_a_la_familia.jpg"
+            "url": "./images/Encontrando_un_compañero_de_cuarto.jpg"
         }
     ]
 }

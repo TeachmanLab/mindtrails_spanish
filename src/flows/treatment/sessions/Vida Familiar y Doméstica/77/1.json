@@ -1,14 +1,14 @@
 {
-    "header_text": "Decisiones de viaje",
+    "header_text": "Pasando tiempo con familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Decisiones de viaje"
+            "text": "Pasando tiempo con familia"
         },
         {
             "type": "Media",
-            "url": "./images/Decisiones_de_viaje.jpg"
+            "url": "./images/Pasando_tiempo_con_familia.jpg"
         }
     ]
 }

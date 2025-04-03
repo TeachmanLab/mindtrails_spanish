@@ -1,14 +1,14 @@
 {
-    "header_text": "Enviar mensajes de texto a alguien que te gusta",
+    "header_text": "Estrés en tu relación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Enviar mensajes de texto a alguien que te gusta"
+            "text": "Estrés en tu relación"
         },
         {
             "type": "Media",
-            "url": "./images/Enviar_mensajes_de_texto_a_alguien_que_te_gusta.jpg"
+            "url": "./images/Estrés_en_tu_relación.jpg"
         }
     ]
 }

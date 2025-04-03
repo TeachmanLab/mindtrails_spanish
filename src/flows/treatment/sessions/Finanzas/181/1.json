@@ -1,14 +1,14 @@
 {
-    "header_text": "Pidiendo dinero",
+    "header_text": "Permitirse la educación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pidiendo dinero"
+            "text": "Permitirse la educación"
         },
         {
             "type": "Media",
-            "url": "./images/Pidiendo_dinero.jpg"
+            "url": "./images/Permitirse_la_educación.jpg"
         }
     ]
 }

@@ -1,21 +1,24 @@
 {
-    "header_text": "El coche de tu familia",
+    "header_text": "Conexión perdida",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Al salir del coche en frente de tu trabajo, ves a algunos de tus colegas. Sonríen y te saludan con la mano, y te sientes... "
+            "Text": "¿Tu amigo está enojado contigo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "El coche de tu familia_Situaciones Sociales_puzzle_word2",
+            "type": "Buttons",
+            "name": "Conexión perdida_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "aliviado"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

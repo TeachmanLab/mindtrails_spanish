@@ -1,14 +1,14 @@
 {
-    "header_text": "Ruido repentino",
+    "header_text": "Tomar precauciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ruido repentino"
+            "text": "Tomar precauciones"
         },
         {
             "type": "Media",
-            "url": "./images/Ruido_repentino.jpg"
+            "url": "./images/Tomar_precauciones.jpg"
         }
     ]
 }

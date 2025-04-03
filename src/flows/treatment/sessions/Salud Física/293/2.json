@@ -1,14 +1,14 @@
 {
-    "header_text": "Picadura de araña",
+    "header_text": "Controles en el dentista.",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras estás caminando, te pica una araña. Tu amigo te asegura que la araña no era venenosa y que estarás bien. Te preocupa que podría haber sido una araña mortal, pero continúas con la caminata de todos modos, y tus preocupaciones durante el resto de la caminata son..."
+            "text": "Tienes una cita de rutina con el dentista y descubres que necesitas algunas pruebas para comprobar la salud de tus encías y dientes. Después de que el dentista realiza las pruebas, continúas recostado en el sillón del dentista mientras esperas los resultados. Crees que tus dientes y encías probablemente estén..."
         },
         {
             "type": "Entry",
-            "name": "Picadura de araña_Salud Física_entry1"
+            "name": "Controles en el dentista._Salud Física_entry1"
         }
     ]
 }

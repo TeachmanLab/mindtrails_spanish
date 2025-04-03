@@ -1,14 +1,14 @@
 {
-    "header_text": "Un pastel de cumpleaños",
+    "header_text": "Corriendo fuerte",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo te compra un pastel para tu cumpleaños. Cuando lo traen por la noche, notan que recientemente han pasado de estar enfermos. Sosteniendo el paste, piensas que tus posibilidades de enfermarse son bastante... "
+            "text": "Terminas de correr una larga distancia. Te das cuenta de que tu corazón late muy rápido y sientes presión en el pecho. Piensas que estás a punto de entrar en..."
         },
         {
             "type": "Entry",
-            "name": "Un pastel de cumpleaños_Salud Física_entry1"
+            "name": "Corriendo fuerte_Salud Física_entry1"
         }
     ]
 }

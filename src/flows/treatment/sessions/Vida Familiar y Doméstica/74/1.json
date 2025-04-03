@@ -1,14 +1,14 @@
 {
-    "header_text": "Reconciliándote con tu amigo",
+    "header_text": "Planes de vacaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Reconciliándote con tu amigo"
+            "text": "Planes de vacaciones"
         },
         {
             "type": "Media",
-            "url": "./images/Reconciliándote_con_tu_amigo.jpg"
+            "url": "./images/Planes_de_vacaciones.jpg"
         }
     ]
 }

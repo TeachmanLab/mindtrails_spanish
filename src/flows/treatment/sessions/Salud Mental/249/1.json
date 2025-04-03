@@ -1,14 +1,14 @@
 {
-    "header_text": "Redes sociales",
+    "header_text": "Sentirse ansioso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Redes sociales"
+            "text": "Sentirse ansioso"
         },
         {
             "type": "Media",
-            "url": "./images/Redes_sociales.jpg"
+            "url": "./images/Sentirse_ansioso.jpg"
         }
     ]
 }

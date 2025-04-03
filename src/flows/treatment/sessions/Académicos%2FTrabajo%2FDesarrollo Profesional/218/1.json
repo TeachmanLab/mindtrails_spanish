@@ -1,14 +1,14 @@
 {
-    "header_text": "Sentirse diferente",
+    "header_text": "Mal rumor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sentirse diferente"
+            "text": "Mal rumor"
         },
         {
             "type": "Media",
-            "url": "./images/Sentirse_diferente.jpg"
+            "url": "./images/Mal_rumor.jpg"
         }
     ]
 }

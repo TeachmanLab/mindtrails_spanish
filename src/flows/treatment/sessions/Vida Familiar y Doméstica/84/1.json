@@ -1,14 +1,14 @@
 {
-    "header_text": "Inicio Presentaciones",
+    "header_text": "Presentando a tus amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Inicio Presentaciones"
+            "text": "Presentando a tus amigos"
         },
         {
             "type": "Media",
-            "url": "./images/Inicio_Presentaciones.jpg"
+            "url": "./images/Presentando_a_tus_amigos.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Viendo a un viejo amigo",
+    "header_text": "Boca seca",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Ves a un viejo amigo con el que no has hablado en años. Tu corazón da un vuelco. Te sientes..."
+            "text": "Has sentido sequedad en la boca durante unos días. Esto es algo que no has sentido antes. La probabilidad de que la sequedad de boca signifique un problema de salud grave es..."
         },
         {
             "type": "Entry",
-            "name": "Viendo a un viejo amigo_Salud Física_entry1"
+            "name": "Boca seca_Salud Física_entry1"
         }
     ]
 }

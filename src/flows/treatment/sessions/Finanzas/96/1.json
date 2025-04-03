@@ -1,14 +1,14 @@
 {
-    "header_text": "Costos inesperados",
+    "header_text": "Costear los gastos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Costos inesperados"
+            "text": "Costear los gastos"
         },
         {
             "type": "Media",
-            "url": "./images/Costos_inesperados.jpg"
+            "url": "./images/Costear_los_gastos.jpg"
         }
     ]
 }

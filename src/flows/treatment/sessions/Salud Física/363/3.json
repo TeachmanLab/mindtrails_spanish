@@ -1,24 +1,24 @@
 {
-    "header_text": "Clase de baile",
+    "header_text": "Corriendo en el frío",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿La persona que conociste en la clase de baile pensó que estabas ansioso?"
+            "Text": "Cuando llegue el momento de reservar el viaje, probablemente..."
         },
         {
             "type": "Buttons",
-            "name": "Clase de baile_Salud Física_comp_question",
+            "name": "Corriendo en el frío_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Tendrás que cancelar debido a problemas de dinero.",
+                "Podrás elegir un hotel bastante bonito."
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Tendrás que cancelar debido a problemas de dinero."
         }
     ]
 }

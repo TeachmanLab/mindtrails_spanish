@@ -1,14 +1,14 @@
 {
-    "header_text": "Participación",
+    "header_text": "Opiniones de otros",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Participación"
+            "text": "Opiniones de otros"
         },
         {
             "type": "Media",
-            "url": "./images/Participación.jpg"
+            "url": "./images/Opiniones_de_otros.jpg"
         }
     ]
 }

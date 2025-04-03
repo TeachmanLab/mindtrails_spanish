@@ -1,14 +1,14 @@
 {
-    "header_text": "Un momento de olvido",
+    "header_text": "Revisando tus cualificaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un momento de olvido"
+            "text": "Revisando tus cualificaciones"
         },
         {
             "type": "Media",
-            "url": "./images/Un_momento_de_olvido.jpg"
+            "url": "./images/Revisando_tus_cualificaciones.jpg"
         }
     ]
 }

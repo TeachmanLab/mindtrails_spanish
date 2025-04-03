@@ -1,14 +1,14 @@
 {
-    "header_text": "Planes para visitar a la familia",
+    "header_text": "Demasiada atención",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Planes para visitar a la familia"
+            "text": "Demasiada atención"
         },
         {
             "type": "Media",
-            "url": "./images/Planes_para_visitar_a_la_familia.jpg"
+            "url": "./images/Demasiada_atención.jpg"
         }
     ]
 }

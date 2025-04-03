@@ -1,19 +1,19 @@
 {
-    "header_text": "Ir a la quiebra",
+    "header_text": "Costos inesperados",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has decidido volver a estudiar para obtener otra carrera. Aunque has estado ahorrando para esto durante los últimos años, te preocupa no tener ingresos mientras regresas a la escuela. La probabilidad de que te arruines mientras estás en la escuela es..."
+            "text": "Has estado alquilando tu casa. sientes que ya es hora de comprar una casa y que ahora tienes un trabajo estable, pero te preocupan los costos..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Ir a la quiebra_Finanzas_puzzle1",
+            "name": "Costos inesperados_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "mínima"
+                "inesperados"
             ],
             "missing_letter_count": 2
         }

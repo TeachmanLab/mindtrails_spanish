@@ -1,24 +1,24 @@
 {
-    "header_text": "Conversación durante la cena",
+    "header_text": "Mantener a la familia",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes hablar sobre tus padres divorciados?"
+            "Text": "Cuando piensas en hablar con tus hijos sobre su educación, te imaginas diciéndoles:"
         },
         {
             "type": "Buttons",
-            "name": "Conversación durante la cena_Vida Familiar y Doméstica_comp_question",
+            "name": "Mantener a la familia_Vida Familiar y Doméstica_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "\"No creo que podamos permitirnos enviarte a esa escuela\".",
+                "\"Te ayudaré a ir a una buena escuela\"."
             ],
             "columnCount": 1,
-            "correct_value": "Sí"
+            "correct_value": "\"No creo que podamos permitirnos enviarte a esa escuela\"."
         }
     ]
 }

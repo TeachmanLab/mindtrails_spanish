@@ -1,14 +1,14 @@
 {
-    "header_text": "Tiempo para ti mismo",
+    "header_text": "Mensajes de texto honestos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tiempo para ti mismo"
+            "text": "Mensajes de texto honestos"
         },
         {
             "type": "Media",
-            "url": "./images/Tiempo_para_ti_mismo.jpg"
+            "url": "./images/Mensajes_de_texto_honestos.jpg"
         }
     ]
 }

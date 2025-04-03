@@ -1,24 +1,21 @@
 {
-    "header_text": "Costos de la sesión",
+    "header_text": "Preocuparse por los ahorros",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Las finanzas interfieren con la terapia?"
+            "text": "Cuando lo piensas, sabes que todavía tienes mucho tiempo para ahorrar y que las finanzas no son iguales para..."
         },
         {
-            "type": "Buttons",
-            "name": "Costos de la sesión_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Preocuparse por los ahorros_Finanzas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "words": [
+                "todos"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ]
 }

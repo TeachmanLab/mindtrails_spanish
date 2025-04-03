@@ -1,14 +1,14 @@
 {
-    "header_text": "Caminando para despejar la mente",
+    "header_text": "sintiéndote mareado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hace frío afuera y sales a caminar para calmar tu mente. Tus manos empiezan a temblar y tu corazón late rápidamente mientras subes una cuesta. Tienes..."
+            "text": "Estás en una fiesta y comienzas a bailar con tus amigos. Empiezas a sentirte mareado cuando el ritmo se acelera. Piensas que esta sensación es una señal de..."
         },
         {
             "type": "Entry",
-            "name": "Caminando para despejar la mente_Salud Física_entry1"
+            "name": "sintiéndote mareado_Salud Física_entry1"
         }
     ]
 }

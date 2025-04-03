@@ -1,14 +1,14 @@
 {
-    "header_text": "Expresar tus sentimientos",
+    "header_text": "Aceptando elogios",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Expresar tus sentimientos"
+            "text": "Aceptando elogios"
         },
         {
             "type": "Media",
-            "url": "./images/Expresar_tus_sentimientos.jpg"
+            "url": "./images/Aceptando_elogios.jpg"
         }
     ]
 }

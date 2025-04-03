@@ -1,14 +1,14 @@
 {
-    "header_text": "Presentación importante",
+    "header_text": "Ingresos adicionales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Presentación importante"
+            "text": "Ingresos adicionales"
         },
         {
             "type": "Media",
-            "url": "./images/Presentación_importante.jpg"
+            "url": "./images/Ingresos_adicionales.jpg"
         }
     ]
 }

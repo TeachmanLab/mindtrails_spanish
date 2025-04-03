@@ -1,14 +1,14 @@
 {
-    "header_text": "Sonidos por la noche",
+    "header_text": "Compartir las tradiciones familiares",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Sonidos por la noche"
+            "type": "Text",
+            "text": "Tu familia tiene tradiciones que tus compañeros de trabajo no comparten. Hoy en día en el trabajo, todos están hablando sobre las tradiciones importantes de sus familias. Mientras te preparas para contribuir a la conversación, te sientes... "
         },
         {
-            "type": "Media",
-            "url": "./images/Sonidos_por_la_noche.jpg"
+            "type": "Entry",
+            "name": "Compartir las tradiciones familiares_Vida Familiar y Doméstica_entry1"
         }
     ]
 }

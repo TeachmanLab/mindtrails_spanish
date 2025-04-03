@@ -1,14 +1,15 @@
 {
-    "header_text": "Lecciones Aprendidas",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
     "header_icon": "assets/subtitle.png",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "Text": "¡Excelente trabajo! ¡Estás haciendo un gran progreso al probar nuevas perspectivas relacionadas con la salud mental! Tómate unos minutos para reflexionar sobre los cuentos cortos que has leído hasta ahora. ¿Qué has aprendido? ¿Cuáles son tus principales conclusiones? Por ejemplo, podrías notar que puedes seguir incluso cuando te sientes ansioso."
+            "text": "Piensas en una situación desafiante que se avecina pronto. ¿Cuáles son algunas de las maneras en que podrías aplicar lo que aprendiste en esta capacitación para manejar tu propia situación? "
         },
         {
             "type": "Entry",
-            "name": "lessons_learned_Salud Mental_80"
+            "name": "Consejo #7_entry"
         }
     ]
 }

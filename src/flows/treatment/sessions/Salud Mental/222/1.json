@@ -1,14 +1,14 @@
 {
-    "header_text": "Cena cara",
+    "header_text": "Compartiendo programas favoritos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cena cara"
+            "text": "Compartiendo programas favoritos"
         },
         {
             "type": "Media",
-            "url": "./images/Cena_cara.jpg"
+            "url": "./images/Compartiendo_programas_favoritos.jpg"
         }
     ]
 }

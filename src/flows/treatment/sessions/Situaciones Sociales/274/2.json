@@ -1,19 +1,19 @@
 {
-    "header_text": "Fiesta sensacional",
+    "header_text": "Broma interna",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en una fiesta de cumpleaños para un amigo de un amigo. Te das cuenta de que estás ruborizado y un poco sudado. Parado allí, piensas que estas sensaciones son..."
+            "text": "Publicas un video corto. Tu mejor amigo comenta algo realmente vergonzoso. Tus seguidores pensarán que tú y tu amigo sois..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Fiesta sensacional_Situaciones Sociales_puzzle1",
+            "name": "Broma interna_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "normales"
+                "cercanos"
             ],
             "missing_letter_count": 2
         }

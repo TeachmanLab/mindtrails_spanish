@@ -1,11 +1,14 @@
 {
-    "header_text": "Maneja tus sentimientos: Finanzas",
+    "header_text": "Preocuparse por los ahorros",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Text",
-            "text": "Cuando se sienta abrumado, pregúntele a alguien de su sistema de apoyo si puede ayudarlo a pensar en formas de administrar sus finanzas."
+            "type": "Label",
+            "text": "Preocuparse por los ahorros"
+        },
+        {
+            "type": "Media",
+            "url": "./images/Preocuparse_por_los_ahorros.jpg"
         }
     ]
 }

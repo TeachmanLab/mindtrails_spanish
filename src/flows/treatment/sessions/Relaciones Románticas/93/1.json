@@ -1,14 +1,14 @@
 {
-    "header_text": "Por primera vez",
+    "header_text": "Conocer a los padres",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Por primera vez"
+            "text": "Conocer a los padres"
         },
         {
             "type": "Media",
-            "url": "./images/Por_primera_vez.jpg"
+            "url": "./images/Conocer_a_los_padres.jpg"
         }
     ]
 }

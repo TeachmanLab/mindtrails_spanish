@@ -1,14 +1,12 @@
 {
-    "header_text": "Comparar su trabajo con el de otros",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
-            "type": "Label",
-            "text": "Comparar su trabajo con el de otros"
-        },
-        {
-            "type": "Media",
-            "url": "./images/Comparar_su_trabajo_con_el_de_otros.jpg"
+            "type": "Text",
+            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
         }
     ]
 }

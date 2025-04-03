@@ -1,14 +1,14 @@
 {
-    "header_text": "Atascado en el medio",
+    "header_text": "Tomando transporte",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Atascado en el medio"
+            "text": "Tomando transporte"
         },
         {
             "type": "Media",
-            "url": "./images/Atascado_en_el_medio.jpg"
+            "url": "./images/Tomando_transporte.jpg"
         }
     ]
 }

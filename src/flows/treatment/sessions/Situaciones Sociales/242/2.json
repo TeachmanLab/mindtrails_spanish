@@ -1,19 +1,19 @@
 {
-    "header_text": "Taller de escritura",
+    "header_text": "Reunión de mañana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Un compañero de trabajo sugiere que tu equipo participe en un taller sobre escritura para el lugar de trabajo. Lees información en línea sobre el taller. Mientras navegas el sitio, la idea de otras personas leyendo tu escritura te hace sentir... "
+            "text": "Llegas a una reunión justo a tiempo, pero eres el último en llegar. Tus compañeros te miran mientras sacas tu silla, y hace un ruido fuerte. Todos se giran para mirarte con un entrecejo..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Taller de escritura_Situaciones Sociales_puzzle1",
+            "name": "Reunión de mañana_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "entusiasmo"
+                "fruncido"
             ],
             "missing_letter_count": 1
         }

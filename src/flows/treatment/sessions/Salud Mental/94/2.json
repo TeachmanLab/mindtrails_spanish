@@ -1,14 +1,14 @@
 {
-    "header_text": "Compartiendo programas favoritos",
+    "header_text": "Estar a cargo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás hablando con un grupo de compañeros de trabajo sobre programas de televisión. Cuando dices lo que te gusta de un viejo programa que acabas de descubrir, nadie responde. Probablemente piensan que eres..."
+            "text": "Recientemente fuiste elegido para estar a cargo de un grupo de personas nuevas en tu trabajo. Cuando conoces a otras personas a cargo de grupos, sientes que no trabajaste tan duro como ellos y que no mereces este puesto. Te tomas un minuto para pensar en lo que das a tu trabajo y te das cuenta de que has estado dando todo lo que has podido, y la gente definitivamente se dio cuenta de..."
         },
         {
             "type": "Entry",
-            "name": "Compartiendo programas favoritos_Salud Mental_entry1"
+            "name": "Estar a cargo_Salud Mental_entry1"
         }
     ]
 }

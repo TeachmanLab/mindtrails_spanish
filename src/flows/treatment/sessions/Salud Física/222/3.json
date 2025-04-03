@@ -1,15 +1,15 @@
 {
-    "header_text": "Vecino amigable",
+    "header_text": "Sensaciones de dormir",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu vecino mayor probablemente ha estado enfermo?"
+            "Text": "¿Te preocupa la pesadez en el pecho al quedarte dormido?"
         },
         {
             "type": "Buttons",
-            "name": "Vecino amigable_Salud Física_comp_question",
+            "name": "Sensaciones de dormir_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

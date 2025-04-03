@@ -1,14 +1,14 @@
 {
-    "header_text": "Prepararte para tener éxito",
+    "header_text": "Amigo Tarde",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En tu reunión de hoy, tienes una presentación importante. Para seguir las instrucciones de tu jefe, debes presentar por 15 minutos. Cuando piensas en completar esta presentación, te sientes..."
+            "text": "Te encontrarás con un amigo en un parque local. Después de 20 minutos, tu amigo todavía no ha llegado. Crees que probablemente..."
         },
         {
             "type": "Entry",
-            "name": "Prepararte para tener éxito_Situaciones Sociales_entry1"
+            "name": "Amigo Tarde_Situaciones Sociales_entry1"
         }
     ]
 }

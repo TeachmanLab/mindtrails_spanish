@@ -1,14 +1,14 @@
 {
-    "header_text": "Corrección rápida",
+    "header_text": "Dando una presentación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Corrección rápida"
+            "text": "Dando una presentación"
         },
         {
             "type": "Media",
-            "url": "./images/Corrección_rápida.jpg"
+            "url": "./images/Dando_una_presentación.jpg"
         }
     ]
 }

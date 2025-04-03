@@ -1,14 +1,14 @@
 {
-    "header_text": "Opiniones opuestas",
+    "header_text": "Trabajando para salir adelante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Opiniones opuestas"
+            "text": "Trabajando para salir adelante"
         },
         {
             "type": "Media",
-            "url": "./images/Opiniones_opuestas.jpg"
+            "url": "./images/Trabajando_para_salir_adelante.jpg"
         }
     ]
 }

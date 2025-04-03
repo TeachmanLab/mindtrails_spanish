@@ -1,19 +1,19 @@
 {
-    "header_text": "El curso difícil",
+    "header_text": "Esperando grandes noticias",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te has inscrito en un programa de ciencia de datos ofrecido por tu lugar de trabajo porque crees que será una habilidad útil que podrás adquirir en el futuro. Sabes que la demanda de personas con experiencia en ciencia de datos está aumentando, pero el programa es muy..."
+            "text": "Hoy recibirás un correo electrónico importante. Te dirá si recibiste un ascenso que realmente avanzaría tu carrera. Mientras piensas en esperar el correo electrónico, te sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "El curso difícil_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "name": "Esperando grandes noticias_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "difícil"
+                "emocionado"
             ],
             "missing_letter_count": 2
         }

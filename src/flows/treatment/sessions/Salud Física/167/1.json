@@ -1,14 +1,14 @@
 {
-    "header_text": "Comportamiento de riesgo",
+    "header_text": "Ejercicio con un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comportamiento de riesgo"
+            "text": "Ejercicio con un amigo"
         },
         {
             "type": "Media",
-            "url": "./images/Comportamiento_de_riesgo.jpg"
+            "url": "./images/Ejercicio_con_un_amigo.jpg"
         }
     ]
 }

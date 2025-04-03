@@ -1,15 +1,14 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Nadando en la playa",
     "header_icon": "assets/subtitle.png",
-    "name": "¡Consejo para aplicar!",
     "elements": [
         {
-            "type": "Text",
-            "text": "Piensas en una situación en la que te encantaría estar, pero tienes demasiado miedo o ansiedad para ponerte en ella, aunque pueda llevar al crecimiento personal. ¿Qué estrategias podrías poner en práctica para ayudarte a llegar allí?"
+            "type": "Label",
+            "text": "Nadando en la playa"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #10_entry"
+            "type": "Media",
+            "url": "./images/Nadando_en_la_playa.jpg"
         }
     ]
 }

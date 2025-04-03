@@ -1,14 +1,14 @@
 {
-    "header_text": "Evaluaciones entre compañeros",
+    "header_text": "Futuras amistades",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Evaluaciones entre compañeros"
+            "text": "Futuras amistades"
         },
         {
             "type": "Media",
-            "url": "./images/Evaluaciones_entre_compañeros.jpg"
+            "url": "./images/Futuras_amistades.jpg"
         }
     ]
 }

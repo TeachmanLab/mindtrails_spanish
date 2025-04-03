@@ -1,19 +1,19 @@
 {
-    "header_text": "Fiesta con amigos",
+    "header_text": "Dolor de estómago",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en una fiesta con algunos amigos y algunos de ellos están haciendo cosas con las que no te sientes cómodo. Decides no participar. Tus amigos piensan que eres..."
+            "text": "Has estado nervioso por una próxima evaluación en el trabajo. El día de la evaluación notas que te duele el estómago. Piensas que el dolor de estómago probablemente se deber a la..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Fiesta con amigos_Salud Mental_puzzle1",
+            "name": "Dolor de estómago_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "normal"
+                "ansiedad"
             ],
             "missing_letter_count": 1
         }

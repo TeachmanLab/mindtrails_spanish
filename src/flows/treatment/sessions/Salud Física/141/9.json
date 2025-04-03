@@ -1,0 +1,22 @@
+{
+    "header_text": "Reírse de un chiste: Sentimientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Un amigo cuenta un chiste gracioso y te empiezas a reír mucho. Mientras te ríes, sientes una opresión incómoda en el pecho que nunca antes habías sentido. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Estoy aterrorizada por la opresión en mi pecho.",
+                "Estoy ansiosa por este sentimiento en mi pecho, pero sé que es solo por reírme mucho.",
+                "Estoy feliz de que mis amigos sean tan divertidos.",
+                "¡Estoy tan sorprendido por ese chiste!",
+                "Me preocupa la opresión en el pecho, pero creo que desaparecerá pronto."
+            ],
+            "Duration": 15
+        }
+    ],
+    "show_buttons": "WhenCorrect"
+}

@@ -1,14 +1,14 @@
 {
-    "header_text": "Una invitación",
+    "header_text": "Reloj favorito",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una invitación"
+            "text": "Reloj favorito"
         },
         {
             "type": "Media",
-            "url": "./images/Una_invitación.jpg"
+            "url": "./images/Reloj_favorito.jpg"
         }
     ]
 }

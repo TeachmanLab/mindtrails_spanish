@@ -1,14 +1,14 @@
 {
-    "header_text": "Revisando tu trabajo",
+    "header_text": "Nuevo estilo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Revisando tu trabajo"
+            "text": "Nuevo estilo"
         },
         {
             "type": "Media",
-            "url": "./images/Revisando_tu_trabajo.jpg"
+            "url": "./images/Nuevo_estilo.jpg"
         }
     ]
 }

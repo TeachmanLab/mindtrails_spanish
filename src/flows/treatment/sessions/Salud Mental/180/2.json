@@ -1,14 +1,14 @@
 {
-    "header_text": "Tus habilidades con los bolos",
+    "header_text": "Yendo de vacaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Llevas varios años jugando a los bolos en una liga recreativa con algunos amigos. Has mejorado desde que empezaste, pero aún no eres tan hábil como te gustaría..."
+            "text": "Te vas de vacaciones por unos días. Decides verificar nuevamente que todos los electrodomésticos de tu casa estén apagados. Al cerrar la puerta de tu casa, te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Tus habilidades con los bolos_Salud Mental_entry1"
+            "name": "Yendo de vacaciones_Salud Mental_entry1"
         }
     ]
 }

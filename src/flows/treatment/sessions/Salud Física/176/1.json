@@ -1,14 +1,14 @@
 {
-    "header_text": "sintiendo mareos",
+    "header_text": "Corriendo con un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "sintiendo mareos"
+            "text": "Corriendo con un amigo"
         },
         {
             "type": "Media",
-            "url": "./images/sintiendo_mareos.jpg"
+            "url": "./images/Corriendo_con_un_amigo.jpg"
         }
     ]
 }

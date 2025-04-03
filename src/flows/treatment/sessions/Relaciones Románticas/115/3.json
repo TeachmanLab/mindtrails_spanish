@@ -1,24 +1,24 @@
 {
-    "header_text": "Viendo a tu ex",
+    "header_text": "relación a distancia",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te llevarás bien con tu ex cónyuge?"
+            "Text": "Puedes ver a tu pareja diciendo:"
         },
         {
             "type": "Buttons",
-            "name": "Viendo a tu ex_Relaciones Románticas_comp_question",
+            "name": "relación a distancia_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "\"Estoy muy contento de que podamos hacer esto juntos.\"",
+                "\"No creo que esto esté funcionanado.\""
             ],
             "columnCount": 1,
-            "correct_value": "Sí"
+            "correct_value": "\"No creo que esto esté funcionanado.\""
         }
     ]
 }

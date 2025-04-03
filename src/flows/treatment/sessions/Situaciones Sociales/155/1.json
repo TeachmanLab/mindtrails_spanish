@@ -1,14 +1,14 @@
 {
-    "header_text": "Tomando una llamada",
+    "header_text": "Arriesgándote",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tomando una llamada"
+            "text": "Arriesgándote"
         },
         {
             "type": "Media",
-            "url": "./images/Tomando_una_llamada.jpg"
+            "url": "./images/Arriesgándote.jpg"
         }
     ]
 }

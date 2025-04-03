@@ -1,21 +1,24 @@
 {
-    "header_text": "La cita",
+    "header_text": "Amigo de tu pareja",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Al final de la cita, te das cuenta de que es muy común sentirse un poco incómodo en situaciones como estas. Después de explicar y disculparte, crees que a tu cita le pareció graciosa y tierna tu..."
+            "Text": "¿Puedes confiar en tu pareja?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "La cita_Relaciones Románticas_puzzle_word2",
+            "type": "Buttons",
+            "name": "Amigo de tu pareja_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "titubeo"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Sí"
         }
     ]
 }

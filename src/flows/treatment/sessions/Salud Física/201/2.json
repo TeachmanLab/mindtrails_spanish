@@ -1,14 +1,14 @@
 {
-    "header_text": "Resultados del chequeo anual",
+    "header_text": "Ruido repentino",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Te extraen sangre para su examen físico anual. Tu médico te dice que tendrá que esperar unos días para recibir los resultados y te preocupas por lo que dirán los resultados. Durante los próximos días, las preocupaciones son..."
+            "type": "Label",
+            "text": "Ruido repentino"
         },
         {
-            "type": "Entry",
-            "name": "Resultados del chequeo anual_Salud Física_entry1"
+            "type": "Media",
+            "url": "./images/Ruido_repentino.jpg"
         }
     ]
 }

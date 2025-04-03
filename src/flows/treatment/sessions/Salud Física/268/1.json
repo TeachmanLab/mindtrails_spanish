@@ -1,14 +1,14 @@
 {
-    "header_text": "Boca seca",
+    "header_text": "Celebraciones en un juego deportivo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Boca seca"
+            "text": "Celebraciones en un juego deportivo"
         },
         {
             "type": "Media",
-            "url": "./images/Boca_seca.jpg"
+            "url": "./images/Celebraciones_en_un_juego_deportivo.jpg"
         }
     ]
 }

@@ -1,21 +1,24 @@
 {
-    "header_text": "Enfrentando a un amigo",
+    "header_text": "Probando comidas diferentes",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "En una conversación con un amigo, ellos dicen algo un poco ofensivo y no parecen darse cuenta de que te hicieron sentir incómodo. Los confrontas sobre su comentario y por qué fue ofensivo, y en ese momento te preocupas que estarán enojados contigo. Cuando responden, te agradecen por tu comunicación y te piden... "
+            "Text": "¿Deberías evitar probar nuevas comidas porque tus colegas no lo están ordenando?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Enfrentando a un amigo_Salud Mental_puzzle1",
+            "type": "Buttons",
+            "name": "Probando comidas diferentes_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "disculpas"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

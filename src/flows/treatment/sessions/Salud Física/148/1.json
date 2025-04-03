@@ -1,14 +1,14 @@
 {
-    "header_text": "Visitar a una familia anciana",
+    "header_text": "Demasiada atención",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Visitar a una familia anciana"
+            "text": "Demasiada atención"
         },
         {
             "type": "Media",
-            "url": "./images/Visitar_a_una_familia_anciana.jpg"
+            "url": "./images/Demasiada_atención.jpg"
         }
     ]
 }

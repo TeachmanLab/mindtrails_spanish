@@ -1,14 +1,14 @@
 {
-    "header_text": "Practicando la presentación",
+    "header_text": "Sentirse diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Practicando la presentación"
+            "text": "Sentirse diferente"
         },
         {
             "type": "Media",
-            "url": "./images/Practicando_la_presentación.jpg"
+            "url": "./images/Sentirse_diferente.jpg"
         }
     ]
 }

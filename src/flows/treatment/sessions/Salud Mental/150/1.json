@@ -1,14 +1,14 @@
 {
-    "header_text": "Tiempo para ti mismo",
+    "header_text": "Participación en las redes sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tiempo para ti mismo"
+            "text": "Participación en las redes sociales"
         },
         {
             "type": "Media",
-            "url": "./images/Tiempo_para_ti_mismo.jpg"
+            "url": "./images/Participación_en_las_redes_sociales.jpg"
         }
     ]
 }

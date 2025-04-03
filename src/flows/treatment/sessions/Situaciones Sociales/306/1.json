@@ -1,14 +1,14 @@
 {
-    "header_text": "Opiniones inusuales",
+    "header_text": "Almorzando solo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Opiniones inusuales"
+            "text": "Almorzando solo"
         },
         {
             "type": "Media",
-            "url": "./images/Opiniones_inusuales.jpg"
+            "url": "./images/Almorzando_solo.jpg"
         }
     ]
 }

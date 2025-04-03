@@ -1,14 +1,14 @@
 {
-    "header_text": "Conociendo alguien nuevo",
+    "header_text": "Tocando el piano",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Conociendo alguien nuevo"
+            "text": "Tocando el piano"
         },
         {
             "type": "Media",
-            "url": "./images/Conociendo_alguien_nuevo.jpg"
+            "url": "./images/Tocando_el_piano.jpg"
         }
     ]
 }

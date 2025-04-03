@@ -1,24 +1,24 @@
 {
-    "header_text": "Vacaciones reprogramadas",
+    "header_text": "Prueba positiva",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa que el COVID vaya a cancelar tu viaje?"
+            "Text": "¿Pruebas positivo?"
         },
         {
             "type": "Buttons",
-            "name": "Vacaciones reprogramadas_Salud Física_comp_question",
+            "name": "Prueba positiva_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Sí"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Explorando una cueva estrecha",
+    "header_text": "Tomando transporte",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Explorando una cueva estrecha"
+            "text": "Tomando transporte"
         },
         {
             "type": "Media",
-            "url": "./images/Explorando_una_cueva_estrecha.jpg"
+            "url": "./images/Tomando_transporte.jpg"
         }
     ]
 }

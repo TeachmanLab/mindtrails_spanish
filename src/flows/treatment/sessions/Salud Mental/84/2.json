@@ -1,14 +1,14 @@
 {
-    "header_text": "Probando comidas nuevas",
+    "header_text": "sintiéndote ansioso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En la hora de almuerzo, tu compañero de trabajo trae una comida muy picante. Despues de probar un poquito, empiezas a sudar y sientes el latido de tu corazón. Estas sensaciones causan pensamientos ansiosos. Decides enfocarte en la conversación, y el resto del almuerzo lo es... "
+            "text": "Estos últimos meses, te has sentido muy ansioso y no has podido disfrutar de tu vida sin preocuparte. Te preguntas qué pensarían las personas en tu vida si buscas ayuda. Piensas que te considerarían..."
         },
         {
             "type": "Entry",
-            "name": "Probando comidas nuevas_Salud Mental_entry1"
+            "name": "sintiéndote ansioso_Salud Mental_entry1"
         }
     ]
 }

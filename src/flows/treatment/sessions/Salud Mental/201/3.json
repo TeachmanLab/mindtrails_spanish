@@ -1,14 +1,14 @@
 {
-    "header_text": "Ponerse ahí fuera",
+    "header_text": "Trabajo inacabado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Decides abrirte y compartir, y ellos hacen lo mismo. Mientras hablas, te sientes... "
+            "text": "Tuviste un día muy ocupado y no pudiste realizar todas sus tareas. En la cena, tu pareja habla orgullosamente de cómo terminó todo lo que tenía en la lista de tareas pendientes. Al pensar en si podrás completar tu trabajo mañana, te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Ponerse ahí fuera_Salud Mental_entry2"
+            "name": "Trabajo inacabado_Salud Mental_entry1"
         }
     ]
 }

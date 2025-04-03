@@ -1,21 +1,24 @@
 {
-    "header_text": "Cena cara",
+    "header_text": "Despertándote listo",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Decides hablar con tus amigos al respecto. Son muy comprensivos y eligen un lugar más asequible para comer. Te sientes orgulloso de..."
+            "Text": "¿Estás ancioso sobre tu plan de terminar tus tareas en la mañana?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Cena cara_Salud Mental_puzzle_word2",
+            "type": "Buttons",
+            "name": "Despertándote listo_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "defenderte"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

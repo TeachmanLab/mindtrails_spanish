@@ -1,24 +1,24 @@
 {
-    "header_text": "Visitando a los vecinos",
+    "header_text": "Seguridad de la trampolina",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu vecino mayor probablemente ha estado enfermo?"
+            "Text": "A medida que continúes viendo a sus hijos en el trampolín probablemente..."
         },
         {
             "type": "Buttons",
-            "name": "Visitando a los vecinos_Salud Física_comp_question",
+            "name": "Seguridad de la trampolina_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "disfrutarás viéndolos",
+                "te preocuparás de que se lastimen"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "disfrutarás viéndolos"
         }
     ]
 }

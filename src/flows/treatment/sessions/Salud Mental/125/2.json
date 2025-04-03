@@ -1,19 +1,19 @@
 {
-    "header_text": "Nerviosismo de cumpleaños",
+    "header_text": "Reunión uno a uno",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus amigos están organizando una fiesta de cumpleaños para ti en su casa. Invitaron a mucha gente que estarán ahí para ti. Cuando piensas en toda la gente que vendrá, te sientes... "
+            "text": "Hoy tienes una reunión individual con tu intimidante jefe, lo que te pone nervioso. Durante la reunión, pierdes momentáneamente el hilo de tus pensamientos. Después de eso, tu ansiedad es..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Nerviosismo de cumpleaños_Salud Mental_puzzle1",
+            "name": "Reunión uno a uno_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "nervioso"
+                "tolerable"
             ],
             "missing_letter_count": 1
         }

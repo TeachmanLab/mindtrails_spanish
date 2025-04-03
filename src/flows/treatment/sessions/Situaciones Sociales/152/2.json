@@ -1,14 +1,21 @@
 {
-    "header_text": "Noticias controvertidas",
+    "header_text": "Permitiendo que otros vean tu trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Noticias controvertidas"
+            "type": "Text",
+            "text": "Un amigo sugiere que una a una organización de escritura creativa. Te dice que otros miembros del grupo leerán y criticarán tu escritura. Mientras escuchas a tu amigo hablar, la idea de que otras personas lean tu escritura te hace sentir... "
         },
         {
-            "type": "Media",
-            "url": "./images/Noticias_controvertidas.jpg"
+            "type": "WordPuzzle",
+            "name": "Permitiendo que otros vean tu trabajo_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "words": [
+                "entusiasmo"
+            ],
+            "missing_letter_count": 2
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Aprender a bailar en las redes sociales",
+    "header_text": "Pánico de presentación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Aprender a bailar en las redes sociales"
+            "text": "Pánico de presentación"
         },
         {
             "type": "Media",
-            "url": "./images/Aprender_a_bailar_en_las_redes_sociales.jpg"
+            "url": "./images/Pánico_de_presentación.jpg"
         }
     ]
 }

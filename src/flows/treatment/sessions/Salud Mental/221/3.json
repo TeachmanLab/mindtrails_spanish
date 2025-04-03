@@ -1,24 +1,24 @@
 {
-    "header_text": "Lograr tus objetivos",
+    "header_text": "Práctica de presentación",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que tu solicitud?"
+            "Text": "¿Crees que estás bien preparado?"
         },
         {
             "type": "Buttons",
-            "name": "Lograr tus objetivos_Salud Mental_comp_question",
+            "name": "Práctica de presentación_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No será lo suficientemente bueno para conseguirte el trabajo.",
-                "Lo coloca en una buena posición para conseguir este nuevo trabajo."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Lo coloca en una buena posición para conseguir este nuevo trabajo."
+            "correct_value": "Sí"
         }
     ]
 }

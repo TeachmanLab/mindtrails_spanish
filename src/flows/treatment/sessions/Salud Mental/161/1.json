@@ -1,14 +1,14 @@
 {
-    "header_text": "Pensando en volar",
+    "header_text": "Comparándote con otros",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pensando en volar"
+            "text": "Comparándote con otros"
         },
         {
             "type": "Media",
-            "url": "./images/Pensando_en_volar.jpg"
+            "url": "./images/Comparándote_con_otros.jpg"
         }
     ]
 }

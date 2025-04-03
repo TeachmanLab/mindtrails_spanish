@@ -1,14 +1,14 @@
 {
-    "header_text": "Creencias diferentes",
+    "header_text": "La música ruidosa",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Creencias diferentes"
+            "text": "La música ruidosa"
         },
         {
             "type": "Media",
-            "url": "./images/Creencias_diferentes.jpg"
+            "url": "./images/La_música_ruidosa.jpg"
         }
     ]
 }

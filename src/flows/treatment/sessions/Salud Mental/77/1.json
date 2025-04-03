@@ -1,14 +1,14 @@
 {
-    "header_text": "Lograr tus objetivos",
+    "header_text": "Charla de oficina",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Lograr tus objetivos"
+            "text": "Charla de oficina"
         },
         {
             "type": "Media",
-            "url": "./images/Lograr_tus_objetivos.jpg"
+            "url": "./images/Charla_de_oficina.jpg"
         }
     ]
 }

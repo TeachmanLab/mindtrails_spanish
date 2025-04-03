@@ -1,14 +1,14 @@
 {
-    "header_text": "Primeras impresiones",
+    "header_text": "Revisando tu trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Primeras impresiones"
+            "text": "Revisando tu trabajo"
         },
         {
             "type": "Media",
-            "url": "./images/Primeras_impresiones.jpg"
+            "url": "./images/Revisando_tu_trabajo.jpg"
         }
     ]
 }

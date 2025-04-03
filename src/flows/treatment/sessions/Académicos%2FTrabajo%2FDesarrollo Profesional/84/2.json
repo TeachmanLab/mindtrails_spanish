@@ -1,14 +1,14 @@
 {
-    "header_text": "Usando tecnología diferente",
+    "header_text": "Trabajo inacabado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente reemplazaste tu computadora portátil y tuviste que optar por una opción más económica. Tu jefe te pide que completes un proyecto que requerirá una aplicación que tu nueva computadora no tiene. Cuando piensas en completar tu trabajo para este proyecto, te sientes..."
+            "text": "Tuviste un día muy ocupado y no pudiste realizar todas sus tareas. En la cena, tu pareja habla orgullosamente de cómo terminó todo lo que tenía en la lista de tareas pendientes. Al pensar en si podrás completar tu trabajo mañana, te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Usando tecnología diferente_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Trabajo inacabado_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ]
 }

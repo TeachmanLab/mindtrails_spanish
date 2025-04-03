@@ -1,14 +1,14 @@
 {
-    "header_text": "Tomando transporte",
+    "header_text": "Manejando tareas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tomando transporte"
+            "text": "Manejando tareas"
         },
         {
             "type": "Media",
-            "url": "./images/Tomando_transporte.jpg"
+            "url": "./images/Manejando_tareas.jpg"
         }
     ]
 }

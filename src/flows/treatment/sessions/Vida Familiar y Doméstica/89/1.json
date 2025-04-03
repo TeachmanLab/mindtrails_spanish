@@ -1,11 +1,14 @@
 {
-    "header_text": "Recurso: Vida Familiar y Doméstica",
+    "header_text": "sintiéndote preocupado por las noticias",
     "header_icon": "assets/subtitle.png",
-    "name": "Kid's Health",
     "elements": [
         {
-            "type": "Text",
-            "text": "Kid's Health\n\nKid's Health es una organización sin fines de lucro que ofrece información revisada por doctores y con fuentes sustentadas. Hay secciones para padres, niños, y adolescentes.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "type": "Label",
+            "text": "sintiéndote preocupado por las noticias"
+        },
+        {
+            "type": "Media",
+            "url": "./images/sintiéndote_preocupado_por_las_noticias.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Amigo en el hospital",
+    "header_text": "El malestar de estómago",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Amigo en el hospital"
+            "text": "El malestar de estómago"
         },
         {
             "type": "Media",
-            "url": "./images/Amigo_en_el_hospital.jpg"
+            "url": "./images/El_malestar_de_estómago.jpg"
         }
     ]
 }

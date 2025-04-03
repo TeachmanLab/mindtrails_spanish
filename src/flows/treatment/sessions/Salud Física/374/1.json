@@ -1,14 +1,14 @@
 {
-    "header_text": "Corriendo con un amigo",
+    "header_text": "Ejercicio con un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Corriendo con un amigo"
+            "text": "Ejercicio con un amigo"
         },
         {
             "type": "Media",
-            "url": "./images/Corriendo_con_un_amigo.jpg"
+            "url": "./images/Ejercicio_con_un_amigo.jpg"
         }
     ]
 }

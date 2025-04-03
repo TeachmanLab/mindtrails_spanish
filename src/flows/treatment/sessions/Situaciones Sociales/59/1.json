@@ -1,14 +1,14 @@
 {
-    "header_text": "Alzar la voz en una clase",
+    "header_text": "Amigo importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Alzar la voz en una clase"
+            "text": "Amigo importante"
         },
         {
             "type": "Media",
-            "url": "./images/Alzar_la_voz_en_una_clase.jpg"
+            "url": "./images/Amigo_importante.jpg"
         }
     ]
 }

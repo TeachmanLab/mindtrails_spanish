@@ -1,14 +1,14 @@
 {
-    "header_text": "Clima lluvioso",
+    "header_text": "Tu primer hijo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Clima lluvioso"
+            "text": "Tu primer hijo"
         },
         {
             "type": "Media",
-            "url": "./images/Clima_lluvioso.jpg"
+            "url": "./images/Tu_primer_hijo.jpg"
         }
     ]
 }

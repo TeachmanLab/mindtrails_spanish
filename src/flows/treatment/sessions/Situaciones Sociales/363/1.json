@@ -1,14 +1,14 @@
 {
-    "header_text": "Viendo a un viejo amigo",
+    "header_text": "Foto con amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Viendo a un viejo amigo"
+            "text": "Foto con amigos"
         },
         {
             "type": "Media",
-            "url": "./images/Viendo_a_un_viejo_amigo.jpg"
+            "url": "./images/Foto_con_amigos.jpg"
         }
     ]
 }

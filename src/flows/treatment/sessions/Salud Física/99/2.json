@@ -1,14 +1,14 @@
 {
-    "header_text": "Distanciamiento social adentro",
+    "header_text": "Exposición reciente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Eres inmunocomprometido y has estado tomando precauciones para protegerte de enfermedades. Cuando llegas a una reunión un día, notas a un colega que está tosiendo sin cubrirse la boca. Le pides que se cubra la..."
+            "text": "Estuviste expuesto recientemente a alguien que dio positivo, pero hiciste la prueba y no has experimentado ningún síntoma. Tus amigos te invitan a cenar con ellos y te preguntas si deberías ir. Das negativo y sales con tus..."
         },
         {
             "type": "Entry",
-            "name": "Distanciamiento social adentro_Salud Física_entry1"
+            "name": "Exposición reciente_Salud Física_entry1"
         }
     ]
 }

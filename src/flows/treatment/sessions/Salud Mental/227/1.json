@@ -1,14 +1,11 @@
 {
-    "header_text": "Larga caminata afuera",
+    "header_text": "Maneja tus sentimientos: Salud Mental",
     "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Larga caminata afuera"
-        },
-        {
-            "type": "Media",
-            "url": "./images/Larga_caminata_afuera.jpg"
+            "type": "Text",
+            "text": "Trate de identificar qué emociones está sintiendo, así como su reacción ante esas emociones. Recuerde que no existe una emoción \"incorrecta\"."
         }
     ]
 }

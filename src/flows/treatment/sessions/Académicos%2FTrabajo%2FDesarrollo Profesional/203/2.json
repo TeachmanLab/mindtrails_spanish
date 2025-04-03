@@ -1,14 +1,14 @@
 {
-    "header_text": "Tu Currículum",
+    "header_text": "Opiniones fuertes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te estás preparando para solicitar un nuevo trabajo. Tienes una reunión con un posible empleador mañana, y sabes que un buen currículum será un factor..."
+            "text": "Ha llegado la mañana de tu primera evaluación con tu nuevo jefe. Te dicen que tienen opiniones firmes sobre tu trabajo. Piensas que probablemente encuentran tu trabajo..."
         },
         {
             "type": "Entry",
-            "name": "Tu Currículum_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Opiniones fuertes_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ]
 }

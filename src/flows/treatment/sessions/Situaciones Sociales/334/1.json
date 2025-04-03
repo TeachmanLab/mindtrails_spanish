@@ -1,14 +1,14 @@
 {
-    "header_text": "La nueva ciudad",
+    "header_text": "Usando algo viejo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "La nueva ciudad"
+            "text": "Usando algo viejo"
         },
         {
             "type": "Media",
-            "url": "./images/La_nueva_ciudad.jpg"
+            "url": "./images/Usando_algo_viejo.jpg"
         }
     ]
 }

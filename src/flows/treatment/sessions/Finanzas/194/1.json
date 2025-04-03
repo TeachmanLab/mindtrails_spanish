@@ -1,14 +1,14 @@
 {
-    "header_text": "Permitirse un viaje",
+    "header_text": "Cena con amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Permitirse un viaje"
+            "text": "Cena con amigos"
         },
         {
             "type": "Media",
-            "url": "./images/Permitirse_un_viaje.jpg"
+            "url": "./images/Cena_con_amigos.jpg"
         }
     ]
 }

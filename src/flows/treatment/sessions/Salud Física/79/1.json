@@ -1,14 +1,11 @@
 {
-    "header_text": "Evaluación de salud",
+    "header_text": "Maneja tus sentimientos: Salud Física",
     "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Evaluación de salud"
-        },
-        {
-            "type": "Media",
-            "url": "./images/Evaluación_de_salud.jpg"
+            "type": "Text",
+            "text": "Cuando experimente una sensación corporal incómoda (por ejemplo, corazón acelerado o palmas sudorosas), simplemente siéntese con esa sensación por un momento antes de reaccionar. Estas sensaciones suelen pasar rápidamente sin ninguna intervención."
         }
     ]
 }

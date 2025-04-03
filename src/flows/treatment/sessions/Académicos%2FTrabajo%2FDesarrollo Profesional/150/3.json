@@ -1,24 +1,24 @@
 {
-    "header_text": "Emoción prospectiva",
+    "header_text": "Obtener una oportunidad",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás ansioso por tus planes para fin de año?"
+            "Text": "Crees que su solicitud es:"
         },
         {
             "type": "Buttons",
-            "name": "Emoción prospectiva_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Obtener una oportunidad_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Uno que no destacará en una buena piscina.",
+                "Una buena, en relación con las otras presentaciones."
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Uno que no destacará en una buena piscina."
         }
     ]
 }

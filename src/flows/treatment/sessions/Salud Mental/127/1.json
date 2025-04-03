@@ -1,14 +1,14 @@
 {
-    "header_text": "Correo electrónico perspicaz",
+    "header_text": "Expresándote",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Correo electrónico perspicaz"
+            "text": "Expresándote"
         },
         {
             "type": "Media",
-            "url": "./images/Correo_electrónico_perspicaz.jpg"
+            "url": "./images/Expresándote.jpg"
         }
     ]
 }

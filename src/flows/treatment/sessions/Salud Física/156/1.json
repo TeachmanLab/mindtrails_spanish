@@ -1,14 +1,14 @@
 {
-    "header_text": "Carrera matutina del domingo",
+    "header_text": "Salud y envejecimiento",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Carrera matutina del domingo"
+            "text": "Salud y envejecimiento"
         },
         {
             "type": "Media",
-            "url": "./images/Carrera_matutina_del_domingo.jpg"
+            "url": "./images/Salud_y_envejecimiento.jpg"
         }
     ]
 }

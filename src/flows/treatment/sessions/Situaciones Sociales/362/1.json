@@ -1,14 +1,14 @@
 {
-    "header_text": "Fiesta sensacional",
+    "header_text": "Casa bilingüe",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Fiesta sensacional"
+            "text": "Casa bilingüe"
         },
         {
             "type": "Media",
-            "url": "./images/Fiesta_sensacional.jpg"
+            "url": "./images/Casa_bilingüe.jpg"
         }
     ]
 }

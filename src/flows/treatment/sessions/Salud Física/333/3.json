@@ -1,21 +1,24 @@
 {
-    "header_text": "Problemas de visión",
+    "header_text": "Boca seca",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Respiras y te das cuenta de que tu visión completamente. Luego, recuerdas que a veces esto pasa cuando te sientas demasiado... "
+            "Text": "¿Tu boca seca indica que estás enfermo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Problemas de visión_Salud Física_puzzle_word2",
+            "type": "Buttons",
+            "name": "Boca seca_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "rápido"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

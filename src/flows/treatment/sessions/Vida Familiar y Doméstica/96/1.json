@@ -1,14 +1,14 @@
 {
-    "header_text": "Calentador",
+    "header_text": "Costos inesperados",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Calentador"
+            "text": "Costos inesperados"
         },
         {
             "type": "Media",
-            "url": "./images/Calentador.jpg"
+            "url": "./images/Costos_inesperados.jpg"
         }
     ]
 }

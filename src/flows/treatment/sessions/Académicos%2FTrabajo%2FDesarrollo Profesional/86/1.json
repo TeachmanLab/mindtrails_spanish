@@ -1,14 +1,14 @@
 {
-    "header_text": "No invitado a cenar",
+    "header_text": "Esperando grandes noticias",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "No invitado a cenar"
+            "text": "Esperando grandes noticias"
         },
         {
             "type": "Media",
-            "url": "./images/No_invitado_a_cenar.jpg"
+            "url": "./images/Esperando_grandes_noticias.jpg"
         }
     ]
 }

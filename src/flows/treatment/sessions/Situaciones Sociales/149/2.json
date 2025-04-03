@@ -1,19 +1,19 @@
 {
-    "header_text": "Asistir a una cena",
+    "header_text": "Mente va en blanco",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu pareja te pide que vayas a cenar con sus nuevos amigos. No has conocido a estas personas antes y te preguntas qué pensarán de ti. Preparándote para ir, piensas que la gente nueva te encontrará... "
+            "text": "Tu jefe te llama para que respondas una pregunta sobre los planes que acabas de discutir. No sabes qué decir. Tu mente se queda en..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Asistir a una cena_Situaciones Sociales_puzzle1",
+            "name": "Mente va en blanco_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "interesante"
+                "blanco"
             ],
             "missing_letter_count": 2
         }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Nadando en la playa",
+    "header_text": "sin aliento",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nadando en la playa"
+            "text": "sin aliento"
         },
         {
             "type": "Media",
-            "url": "./images/Nadando_en_la_playa.jpg"
+            "url": "./images/sin_aliento.jpg"
         }
     ]
 }

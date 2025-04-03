@@ -1,14 +1,14 @@
 {
-    "header_text": "Un golpe accidental",
+    "header_text": "Larga caminata afuera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Una noche, estás subiendo las escaleras y accidentalmente golpeas tu cabeza contra un techo bajo. A la mañana siguiente, el dolor de cabeza todavía está presente ligeramente, y te preguntas qué has hecho. Ya a la hora del almuerzo, el dolor ha..."
+            "text": "Hace frío afuera y sales a caminar para calmar tu mente. Tus manos empiezan a temblar y tu corazón late rápidamente mientras subes una cuesta. Tienes..."
         },
         {
             "type": "Entry",
-            "name": "Un golpe accidental_Salud Física_entry1"
+            "name": "Larga caminata afuera_Salud Física_entry1"
         }
     ]
 }

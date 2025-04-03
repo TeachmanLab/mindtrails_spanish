@@ -1,14 +1,14 @@
 {
-    "header_text": "Comparación de puntuaciones en redes sociales",
+    "header_text": "Preocupándote por gastar",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tus compañeros de trabajo están comparando experiencias de trabajo. Has tenido dificultades para completar tareas administrativas a tiempo y tus compañeros comienzan a burlarse de ti de manera desenfadada. Empiezas a sentirte..."
+            "text": "Unos amigos van a salir a cenar y te invitan. Sabes que ustedes han salido a cenar mucho recientemente, y no sabes si puedes seguir así. Les dices a tus amigos que saldrás con ellos la próxima vez, y estás felíz quedarte en casa por la... "
         },
         {
             "type": "Entry",
-            "name": "Comparación de puntuaciones en redes sociales_Situaciones Sociales_entry1"
+            "name": "Preocupándote por gastar_Situaciones Sociales_entry1"
         }
     ]
 }

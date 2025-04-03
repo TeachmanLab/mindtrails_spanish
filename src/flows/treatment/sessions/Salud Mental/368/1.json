@@ -1,14 +1,14 @@
 {
-    "header_text": "Saliendo de noche",
+    "header_text": "Revisión física anual",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Saliendo de noche"
+            "text": "Revisión física anual"
         },
         {
             "type": "Media",
-            "url": "./images/Saliendo_de_noche.jpg"
+            "url": "./images/Revisión_física_anual.jpg"
         }
     ]
 }

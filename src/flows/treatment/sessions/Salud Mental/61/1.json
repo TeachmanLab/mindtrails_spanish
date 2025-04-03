@@ -1,14 +1,14 @@
 {
-    "header_text": "Temprano en la mañana",
+    "header_text": "Ejercicio con un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Temprano en la mañana"
+            "text": "Ejercicio con un amigo"
         },
         {
             "type": "Media",
-            "url": "./images/Temprano_en_la_mañana.jpg"
+            "url": "./images/Ejercicio_con_un_amigo.jpg"
         }
     ]
 }

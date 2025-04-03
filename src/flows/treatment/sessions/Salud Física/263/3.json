@@ -1,24 +1,21 @@
 {
-    "header_text": "Dedos hormigueando",
+    "header_text": "Dando vueltas",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te hacen sentir nervioso los hormigueos en los dedos?"
+            "text": "Vas a dar una vuelta en una atracción de un carnaval. Cuando bajas, te sientes mareado. Estás..."
         },
         {
-            "type": "Buttons",
-            "name": "Dedos hormigueando_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Dando vueltas_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "words": [
+                "encantado"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ]
 }

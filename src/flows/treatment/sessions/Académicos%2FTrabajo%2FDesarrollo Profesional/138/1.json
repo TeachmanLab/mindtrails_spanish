@@ -1,14 +1,14 @@
 {
-    "header_text": "Despertándote listo",
+    "header_text": "Trabajando duro",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Despertándote listo"
+            "text": "Trabajando duro"
         },
         {
             "type": "Media",
-            "url": "./images/Despertándote_listo.jpg"
+            "url": "./images/Trabajando_duro.jpg"
         }
     ]
 }

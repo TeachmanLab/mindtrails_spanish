@@ -1,19 +1,19 @@
 {
-    "header_text": "Reunión de mañana",
+    "header_text": "Amigos del club de lectura",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Llegas a una reunión justo a tiempo, pero eres el último en llegar. Tus compañeros te miran mientras sacas tu silla, y hace un ruido fuerte. Todos se giran para mirarte con un entrecejo..."
+            "text": "Recientemente te uniste a un club de lectura local y crees que los demás miembros son geniales. Te gustaría salir más a menudo, pero te preocupa si querrán ser amigos fuera del club de lectura. Consideras invitarlos a cenar y crees que pensarán que eres..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Reunión de mañana_Situaciones Sociales_puzzle1",
+            "name": "Amigos del club de lectura_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "fruncido"
+                "divertido"
             ],
             "missing_letter_count": 1
         }

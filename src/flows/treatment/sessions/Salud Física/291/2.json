@@ -1,14 +1,14 @@
 {
-    "header_text": "Resultados del chequeo anual",
+    "header_text": "Aprendiendo a esquíar",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te extraen sangre para su examen físico anual. Tu médico te dice que tendrá que esperar unos días para recibir los resultados y te preocupas por lo que dirán los resultados. Durante los próximos días, las preocupaciones son..."
+            "text": "Estás de vacaciones en un resort de montaña y estás aprendiendo a esquiar. Este es tu primer intento de esquiar cuesta abajo solo. Te acercas a la primera curva a una velocidad moderada y piensas que esquiar es..."
         },
         {
             "type": "Entry",
-            "name": "Resultados del chequeo anual_Salud Física_entry1"
+            "name": "Aprendiendo a esquíar_Salud Física_entry1"
         }
     ]
 }

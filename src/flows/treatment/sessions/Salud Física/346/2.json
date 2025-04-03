@@ -1,19 +1,19 @@
 {
-    "header_text": "Exposure Guilt",
+    "header_text": "Cancelación de concierto",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Después de sentir que tu garganta te duele, decides hacerte prueba de COVID. Tu pareja casi no sale para protegerse y piensas que estará enojado por una posible transmisión. Esperas que te perdóne porque contraer COVID no está completamente bajo tu... "
+            "text": "Comprastes tiquetes a un concierto y finalmente se acerca la fecha. sin embargo, los números de COVID están aumentando en tu estado y puede que se cancele el concierto en el último momento. Aceptas esto y sabes que la banda reprogramará si es..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Exposure Guilt_Salud Física_puzzle1",
+            "name": "Cancelación de concierto_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "control"
+                "necesario"
             ],
             "missing_letter_count": 1
         }

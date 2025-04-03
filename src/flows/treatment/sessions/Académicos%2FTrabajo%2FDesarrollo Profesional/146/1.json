@@ -1,14 +1,14 @@
 {
-    "header_text": "Error en una tarea",
+    "header_text": "Proyecto de escritura",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Error en una tarea"
+            "text": "Proyecto de escritura"
         },
         {
             "type": "Media",
-            "url": "./images/Error_en_una_tarea.jpg"
+            "url": "./images/Proyecto_de_escritura.jpg"
         }
     ]
 }

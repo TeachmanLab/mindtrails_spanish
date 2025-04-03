@@ -1,14 +1,14 @@
 {
-    "header_text": "Exposure Guilt",
+    "header_text": "Cancelación de concierto",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Exposure Guilt"
+            "text": "Cancelación de concierto"
         },
         {
             "type": "Media",
-            "url": "./images/Exposure_Guilt.jpg"
+            "url": "./images/Cancelación_de_concierto.jpg"
         }
     ]
 }

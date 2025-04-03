@@ -1,19 +1,19 @@
 {
-    "header_text": "Clima lluvioso",
+    "header_text": "Solicitar una subvención",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te despiertas y miras por la ventana y ves que afuera está lluvioso y sombrío. Te quedas dentro todo el día y cuando recuerdas ese día te das cuenta de que la mayoría te sentiste triste por ello. Decides que probablemente fue porque no pudiste..."
+            "text": "Quieres iniciar un nuevo proyecto de investigación en tu laboratorio, por lo que solicitas una subvención de financiación. sin esta financiación, no podrás realizar la investigación que esperas realizar, pero no sabes si tu propuesta es lo suficientemente buena. Crees que no obtendrás la..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Clima lluvioso_Salud Mental_puzzle1",
+            "name": "Solicitar una subvención_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "salir"
+                "financiación"
             ],
             "missing_letter_count": 1
         }

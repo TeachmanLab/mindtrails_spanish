@@ -1,19 +1,19 @@
 {
-    "header_text": "Demasiada atención",
+    "header_text": "Tajada de fruta",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Es tu cumpleaños y cuando llega la hora del queque, la gente se reúne a tu alrededor y empiezan a cantar. sientes que tu corazón empieza a latir más rápido y empiezas a sudar. Tus amigos y familiares no se darán..."
+            "text": "Estás almorzando en una mesa de picnic con algunos compañeros del trabajo, cuando te cortas el dedo accidentalment cortando fruta. No puedes lavarlo inmediatamente con agua y jabón debido a que estás afuera. En unos días, tu herida... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Demasiada atención_Salud Física_puzzle1",
+            "name": "Tajada de fruta_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "cuenta"
+                "sanará"
             ],
             "missing_letter_count": 2
         }

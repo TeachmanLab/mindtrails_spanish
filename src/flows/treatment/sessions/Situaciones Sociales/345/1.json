@@ -1,14 +1,14 @@
 {
-    "header_text": "Prepararte para tener éxito",
+    "header_text": "Entrega Responsable",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Prepararte para tener éxito"
+            "text": "Entrega Responsable"
         },
         {
             "type": "Media",
-            "url": "./images/Prepararte_para_tener_éxito.jpg"
+            "url": "./images/Entrega_Responsable.jpg"
         }
     ]
 }

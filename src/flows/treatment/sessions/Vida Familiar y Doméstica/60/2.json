@@ -1,19 +1,19 @@
 {
-    "header_text": "Noticias decepcionantes",
+    "header_text": "Invitar a alguien",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Una iniciativa nueva que fue empezada por ti y algunos otros compañeros fue rechazada por tu jefe. Tu tienes que contarles la noticia a tus compañeros, y cuando les dices, no dicen nada. Probablemente están... "
+            "text": "Invitas a un compañero de trabajo a cenar una noche y estás a cargo de la comida. No eres el mejor cocinero y podrías avergonzarte delante de tu compañero de trabajo. Cuando llega tu compañero de trabajo, estás..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Noticias decepcionantes_Vida Familiar y Doméstica_puzzle1",
+            "name": "Invitar a alguien_Vida Familiar y Doméstica_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "decepcionados"
+                "tranquilo"
             ],
             "missing_letter_count": 2
         }

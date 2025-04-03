@@ -1,14 +1,14 @@
 {
-    "header_text": "Interrumpiendo el silencio",
+    "header_text": "Fiesta sensacional",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Interrumpiendo el silencio"
+            "text": "Fiesta sensacional"
         },
         {
             "type": "Media",
-            "url": "./images/Interrumpiendo_el_silencio.jpg"
+            "url": "./images/Fiesta_sensacional.jpg"
         }
     ]
 }

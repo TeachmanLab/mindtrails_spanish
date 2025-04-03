@@ -1,19 +1,19 @@
 {
-    "header_text": "Clima frío",
+    "header_text": "Preocupaciones por el ritmo cardíaco",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Es un día frío y has estado caminando afuera sin chaqueta. Después de unos minutos, tu cuerpo comienza a temblar y notas que tu corazón se acelera. Piensas en lo que esto podría significar para tu salud y sientes..."
+            "text": "Estás en un evento y comienzas a hablar con algunos conocidos. A medida que la sala se llena, sientes que tu corazón late rápidamente. Piensas que esto podría significar que hay algo mal y te sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Clima frío_Salud Física_puzzle1",
+            "name": "Preocupaciones por el ritmo cardíaco_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "miedo"
+                "asustado"
             ],
             "missing_letter_count": 2
         }

@@ -1,15 +1,15 @@
 {
-    "header_text": "Una presentación grande",
+    "header_text": "La audición",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes emocionado por la presentación?"
+            "Text": "¿Te sientes bien con la audición?"
         },
         {
             "type": "Buttons",
-            "name": "Una presentación grande_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "La audición_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

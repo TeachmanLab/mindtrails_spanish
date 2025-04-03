@@ -1,14 +1,14 @@
 {
-    "header_text": "Puerta cerrada",
+    "header_text": "Un comentario grosero",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Puerta cerrada"
+            "text": "Un comentario grosero"
         },
         {
             "type": "Media",
-            "url": "./images/Puerta_cerrada.jpg"
+            "url": "./images/Un_comentario_grosero.jpg"
         }
     ]
 }

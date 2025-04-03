@@ -1,14 +1,14 @@
 {
-    "header_text": "Planes de descanso",
+    "header_text": "Tratar a un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Planes de descanso"
+            "text": "Tratar a un amigo"
         },
         {
             "type": "Media",
-            "url": "./images/Planes_de_descanso.jpg"
+            "url": "./images/Tratar_a_un_amigo.jpg"
         }
     ]
 }

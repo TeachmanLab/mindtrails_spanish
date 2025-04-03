@@ -1,14 +1,14 @@
 {
-    "header_text": "La nueva ciudad",
+    "header_text": "Presentación de recaudación de fondos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "La nueva ciudad"
+            "text": "Presentación de recaudación de fondos"
         },
         {
             "type": "Media",
-            "url": "./images/La_nueva_ciudad.jpg"
+            "url": "./images/Presentación_de_recaudación_de_fondos.jpg"
         }
     ]
 }

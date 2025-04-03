@@ -1,24 +1,24 @@
 {
-    "header_text": "Tu primer hijo",
+    "header_text": "Corte de pelo",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Crees que hay muchas posibilidades de que cuando su hijo sea adulto..."
+            "Text": "¿Los demás te va a juzgar cuando ven tu corte de pelo en la foto?"
         },
         {
             "type": "Buttons",
-            "name": "Tu primer hijo_Salud Mental_comp_question",
+            "name": "Corte de pelo_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Ustedes dos hablarán regularmente.",
-                "Ustedes dos casi nunca se verán"
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Ustedes dos casi nunca se verán"
+            "correct_value": "Sí"
         }
     ]
 }

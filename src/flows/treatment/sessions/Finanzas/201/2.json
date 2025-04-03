@@ -1,14 +1,14 @@
 {
-    "header_text": "Pagando facturas",
+    "header_text": "Gestión de crédito",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Tienes que pagar el alquiler del próximo mes pronto. Has estado bajo estrés financiero últimamente y no estás seguro de si tienes suficiente dinero para realizar el pago del alquiler. Piensas que hacer un plan para pagar tu alquiler a tiempo será..."
+            "type": "Label",
+            "text": "Gestión de crédito"
         },
         {
-            "type": "Entry",
-            "name": "Pagando facturas_Finanzas_entry1"
+            "type": "Media",
+            "url": "./images/Gestión_de_crédito.jpg"
         }
     ]
 }

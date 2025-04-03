@@ -1,15 +1,12 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "header_icon": "assets/subtitle.png",
-    "name": "¡Consejo para aplicar!",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en una situación próxima que quieras evitar porque te pone ansioso. ¿Cómo puedes pensarlo de manera diferente para que se sienta menos aterrador? "
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #9_entry"
+            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
         }
     ]
 }

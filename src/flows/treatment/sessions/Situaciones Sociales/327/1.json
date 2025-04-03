@@ -1,14 +1,14 @@
 {
-    "header_text": "Hablando sobre televisión",
+    "header_text": "El escaparate de danza",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Hablando sobre televisión"
+            "text": "El escaparate de danza"
         },
         {
             "type": "Media",
-            "url": "./images/Hablando_sobre_televisión.jpg"
+            "url": "./images/El_escaparate_de_danza.jpg"
         }
     ]
 }

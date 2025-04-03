@@ -1,14 +1,14 @@
 {
-    "header_text": "Miedo a perderse algo",
+    "header_text": "El escaparate de danza",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando llegas al trabajo, escuchas a algunos colegas hablando sobre la noche divertida que pasaron juntos anoche. No recuerdas haber sido invitado a salir con ellos. Piensas en perderte la diversión y consideras que no fuiste invitado porque estás..."
+            "text": "Has estado tomando una clase de baile en el centro comunitario local y ha llegado el momento de tu exhibición de fin de clase. Quieres invitar a tus amigos y familiares al escaparate, pero te preocupa quedar en ridículo si no eres muy..."
         },
         {
             "type": "Entry",
-            "name": "Miedo a perderse algo_Situaciones Sociales_entry1"
+            "name": "El escaparate de danza_Situaciones Sociales_entry1"
         }
     ]
 }

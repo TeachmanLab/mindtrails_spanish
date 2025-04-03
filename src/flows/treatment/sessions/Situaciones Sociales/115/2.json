@@ -1,19 +1,19 @@
 {
-    "header_text": "Futuras amistades",
+    "header_text": "Compartir redes sociales con un nuevo amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando piensas en tu jubilación, te preguntas qué amigos seguirán siendo parte de tu vida. Esperas mantener el contacto con tus amigos más cercanos, pero sabes que será difícil. Cuando te imaginas haciendo la transición a la jubilación, te imaginas a ti manteniéndose..."
+            "text": "Conoces a un nuevo compañero de trabajo y te pide tu correo electrónico para poder contactarlo y hacer planes. Cuando les dices que rara vez recibes correos electrónicos, se callan. Deben pensar que eres diferente y está..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Futuras amistades_Situaciones Sociales_puzzle1",
+            "name": "Compartir redes sociales con un nuevo amigo_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "cercanos"
+                "bien"
             ],
             "missing_letter_count": 1
         }

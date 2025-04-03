@@ -1,19 +1,19 @@
 {
-    "header_text": "Vacaciones reprogramadas",
+    "header_text": "Conociendo alguien nuevo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado queriendo ir de vacaciones de verano a Europa durante algunos años. Reprogramaste tu viaje desde el verano pasado hasta el verano que viene, pero te preocupa que el COVID se propague de nuevo y te impida ir por fin. Decides esperar pacientemente, y siempre puede reprogramar de nuevo si es... "
+            "text": "Estás en una fiesta de cumpleaños para un amigo. Comienzas a sentir un nudo en el estómago mientras hablas con un desconocido. Esto probablemente significa que estás..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Vacaciones reprogramadas_Salud Física_puzzle1",
+            "name": "Conociendo alguien nuevo_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "necesario"
+                "emocionado"
             ],
             "missing_letter_count": 1
         }

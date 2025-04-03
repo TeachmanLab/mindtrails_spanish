@@ -1,24 +1,24 @@
 {
-    "header_text": "Trabajo inacabado",
+    "header_text": "Presentación importante",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Podrás hacer todo?"
+            "Text": "En la conferencia, la gente probablemente pensará que..."
         },
         {
             "type": "Buttons",
-            "name": "Trabajo inacabado_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Presentación importante_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Te ves incómodo dando tu presentación.",
+                "Haces un buen trabajo explicando tu trabajo reciente."
             ],
             "columnCount": 1,
-            "correct_value": "Sí"
+            "correct_value": "Haces un buen trabajo explicando tu trabajo reciente."
         }
     ]
 }

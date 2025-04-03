@@ -1,14 +1,14 @@
 {
-    "header_text": "Sábado sin planes",
+    "header_text": "Broma interna",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sábado sin planes"
+            "text": "Broma interna"
         },
         {
             "type": "Media",
-            "url": "./images/Sábado_sin_planes.jpg"
+            "url": "./images/Broma_interna.jpg"
         }
     ]
 }

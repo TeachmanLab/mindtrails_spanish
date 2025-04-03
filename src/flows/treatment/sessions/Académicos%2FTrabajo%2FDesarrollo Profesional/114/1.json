@@ -1,14 +1,14 @@
 {
-    "header_text": "Preparándote para la evaluación",
+    "header_text": "El curso difícil",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Preparándote para la evaluación"
+            "text": "El curso difícil"
         },
         {
             "type": "Media",
-            "url": "./images/Preparándote_para_la_evaluación.jpg"
+            "url": "./images/El_curso_difícil.jpg"
         }
     ]
 }

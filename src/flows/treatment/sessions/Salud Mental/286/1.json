@@ -1,14 +1,15 @@
 {
-    "header_text": "Lograr tus objetivos",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
     "header_icon": "assets/subtitle.png",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
-            "type": "Label",
-            "text": "Lograr tus objetivos"
+            "type": "Text",
+            "text": "Piensas en algo que te causó ansiedad la primera vez que lo hiciste. ¿Qué estrategias te ayudaron a superar eso?"
         },
         {
-            "type": "Media",
-            "url": "./images/Lograr_tus_objetivos.jpg"
+            "type": "Entry",
+            "name": "Consejo #1_entry"
         }
     ]
 }

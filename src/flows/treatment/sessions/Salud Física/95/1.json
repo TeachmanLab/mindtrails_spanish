@@ -1,14 +1,14 @@
 {
-    "header_text": "Viendo a un viejo amigo",
+    "header_text": "Boca seca",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Viendo a un viejo amigo"
+            "text": "Boca seca"
         },
         {
             "type": "Media",
-            "url": "./images/Viendo_a_un_viejo_amigo.jpg"
+            "url": "./images/Boca_seca.jpg"
         }
     ]
 }

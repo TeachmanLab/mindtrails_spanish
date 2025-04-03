@@ -1,14 +1,14 @@
 {
-    "header_text": "Desacuerdos con tu hermana",
+    "header_text": "Compartir las tradiciones familiares",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Desacuerdos con tu hermana"
+            "text": "Compartir las tradiciones familiares"
         },
         {
             "type": "Media",
-            "url": "./images/Desacuerdos_con_tu_hermana.jpg"
+            "url": "./images/Compartir_las_tradiciones_familiares.jpg"
         }
     ]
 }

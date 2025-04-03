@@ -1,14 +1,14 @@
 {
-    "header_text": "Broma interna",
+    "header_text": "Amigo ruidoso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Publicas un video corto. Tu mejor amigo comenta algo realmente vergonzoso. Tus seguidores pensarán que tú y tu amigo sois..."
+            "text": "Estás de compras con un amigo que tiende a ser muy ruidoso. Cuando entran a una tienda de electrónica, otros compradores se detienen y te miran a ti y a tu amigo. La experiencia es..."
         },
         {
             "type": "Entry",
-            "name": "Broma interna_Situaciones Sociales_entry1"
+            "name": "Amigo ruidoso_Situaciones Sociales_entry1"
         }
     ]
 }

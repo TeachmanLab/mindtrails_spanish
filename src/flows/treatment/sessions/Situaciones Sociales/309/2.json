@@ -1,14 +1,14 @@
 {
-    "header_text": "Una discusión acalorada",
+    "header_text": "Una mesa sucia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Invitas a compañeros de trabajo a tu casa para una cena, aunque sabes que no siempre se llevan bien. Durante la cena, la discusión se vuelve muy ruidosa y..."
+            "type": "Label",
+            "text": "Una mesa sucia"
         },
         {
-            "type": "Entry",
-            "name": "Una discusión acalorada_Situaciones Sociales_entry1"
+            "type": "Media",
+            "url": "./images/Una_mesa_sucia.jpg"
         }
     ]
 }

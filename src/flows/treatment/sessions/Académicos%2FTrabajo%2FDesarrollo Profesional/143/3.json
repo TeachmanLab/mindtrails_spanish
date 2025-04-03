@@ -1,21 +1,24 @@
 {
-    "header_text": "1, 2, 3. Ojos puestos en mí",
+    "header_text": "sintiéndote Preparado",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Te das un momento para organizar tus pensamientos y comenzar la presentación. Durante la presentación te sientes..."
+            "Text": "¿Estás preparado para el examen?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "1, 2, 3. Ojos puestos en mí_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
+            "type": "Buttons",
+            "name": "sintiéndote Preparado_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "preparado"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Sí"
         }
     ]
 }

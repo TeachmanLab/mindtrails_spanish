@@ -1,14 +1,14 @@
 {
-    "header_text": "Fecha límite cercana",
+    "header_text": "sintiéndote preocupado por las noticias",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Fecha límite cercana"
+            "text": "sintiéndote preocupado por las noticias"
         },
         {
             "type": "Media",
-            "url": "./images/Fecha_límite_cercana.jpg"
+            "url": "./images/sintiéndote_preocupado_por_las_noticias.jpg"
         }
     ]
 }

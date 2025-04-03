@@ -1,14 +1,14 @@
 {
-    "header_text": "Respondiendo a preguntas inesperadas",
+    "header_text": "Un comentario grosero",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Respondiendo a preguntas inesperadas"
+            "text": "Un comentario grosero"
         },
         {
             "type": "Media",
-            "url": "./images/Respondiendo_a_preguntas_inesperadas.jpg"
+            "url": "./images/Un_comentario_grosero.jpg"
         }
     ]
 }

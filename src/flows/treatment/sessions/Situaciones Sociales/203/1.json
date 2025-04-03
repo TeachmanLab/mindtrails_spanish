@@ -1,14 +1,14 @@
 {
-    "header_text": "Compañero de autobús",
+    "header_text": "Confianza creativa",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Compañero de autobús"
+            "text": "Confianza creativa"
         },
         {
             "type": "Media",
-            "url": "./images/Compañero_de_autobús.jpg"
+            "url": "./images/Confianza_creativa.jpg"
         }
     ]
 }

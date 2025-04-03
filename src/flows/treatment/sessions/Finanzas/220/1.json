@@ -1,14 +1,14 @@
 {
-    "header_text": "Permitirse la educación",
+    "header_text": "Miedo a la decepción",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Permitirse la educación"
+            "text": "Miedo a la decepción"
         },
         {
             "type": "Media",
-            "url": "./images/Permitirse_la_educación.jpg"
+            "url": "./images/Miedo_a_la_decepción.jpg"
         }
     ]
 }

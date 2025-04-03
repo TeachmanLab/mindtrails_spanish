@@ -1,14 +1,14 @@
 {
-    "header_text": "Hablando sobre vivienda",
+    "header_text": "Pensamientos intrusivos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Hablando sobre vivienda"
+            "text": "Pensamientos intrusivos"
         },
         {
             "type": "Media",
-            "url": "./images/Hablando_sobre_vivienda.jpg"
+            "url": "./images/Pensamientos_intrusivos.jpg"
         }
     ]
 }

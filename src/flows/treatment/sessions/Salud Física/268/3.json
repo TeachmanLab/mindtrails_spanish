@@ -1,24 +1,24 @@
 {
-    "header_text": "Boca seca",
+    "header_text": "Celebraciones en un juego deportivo",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Tu boca seca probablemente se deba a..."
+            "Text": "¿Te preocupa que el golpeo en tu cabeza signifique algo grave?"
         },
         {
             "type": "Buttons",
-            "name": "Boca seca_Salud Física_comp_question",
+            "name": "Celebraciones en un juego deportivo_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Una medicacion nueva.",
-                "Una enfermedad seria."
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "Una medicacion nueva."
+            "correct_value": "Sí"
         }
     ]
 }

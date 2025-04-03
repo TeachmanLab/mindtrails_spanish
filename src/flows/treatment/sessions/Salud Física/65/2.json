@@ -1,19 +1,19 @@
 {
-    "header_text": "Estar cerca de alguien enfermo",
+    "header_text": "Clima frío",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vas al hospital a visitar a un amigo. Alguien detrás de ti tose un par de veces mientras estás en la sala de espera. La probabilidad de que te enfermes es..."
+            "text": "Es un día frío y has estado caminando afuera sin chaqueta. Después de unos minutos, tu cuerpo comienza a temblar y notas que tu corazón se acelera. Piensas en lo que esto podría significar para tu salud y sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Estar cerca de alguien enfermo_Salud Física_puzzle1",
+            "name": "Clima frío_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "baja"
+                "miedo"
             ],
             "missing_letter_count": 2
         }

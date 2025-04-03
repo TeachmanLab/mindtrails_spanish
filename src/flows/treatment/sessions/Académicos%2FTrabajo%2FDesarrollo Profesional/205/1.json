@@ -1,14 +1,14 @@
 {
-    "header_text": "No invitado a cenar",
+    "header_text": "Expectativas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "No invitado a cenar"
+            "text": "Expectativas"
         },
         {
             "type": "Media",
-            "url": "./images/No_invitado_a_cenar.jpg"
+            "url": "./images/Expectativas.jpg"
         }
     ]
 }

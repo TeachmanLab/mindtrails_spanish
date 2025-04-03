@@ -1,14 +1,14 @@
 {
-    "header_text": "Solicitar una subvención",
+    "header_text": "Contribuir a una discusión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Solicitar una subvención"
+            "text": "Contribuir a una discusión"
         },
         {
             "type": "Media",
-            "url": "./images/Solicitar_una_subvención.jpg"
+            "url": "./images/Contribuir_a_una_discusión.jpg"
         }
     ]
 }

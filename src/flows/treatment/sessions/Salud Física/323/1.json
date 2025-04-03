@@ -1,14 +1,15 @@
 {
-    "header_text": "Subiendo una montaña",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
     "header_icon": "assets/subtitle.png",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
-            "type": "Label",
-            "text": "Subiendo una montaña"
+            "type": "Text",
+            "text": "¿Hay alguna situación que antes te daba miedo o te provocaba ansiedad, pero en la que ahora te sientes cómodo? ¿Qué te decías a ti mismo en esa situación? ¿Qué piensas ahora?"
         },
         {
-            "type": "Media",
-            "url": "./images/Subiendo_una_montaña.jpg"
+            "type": "Entry",
+            "name": "Consejo #3_entry"
         }
     ]
 }

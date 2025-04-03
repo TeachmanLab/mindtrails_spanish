@@ -1,14 +1,14 @@
 {
-    "header_text": "Pánico de presentación",
+    "header_text": "Reconciliándote con tu amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pánico de presentación"
+            "text": "Reconciliándote con tu amigo"
         },
         {
             "type": "Media",
-            "url": "./images/Pánico_de_presentación.jpg"
+            "url": "./images/Reconciliándote_con_tu_amigo.jpg"
         }
     ]
 }

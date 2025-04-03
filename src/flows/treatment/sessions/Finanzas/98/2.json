@@ -1,14 +1,14 @@
 {
-    "header_text": "Planificación de pagos",
+    "header_text": "Ahorrando dinero",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Acabas de empezar un nuevo trabajo y necesitas seleccionar uno de los planes de jubilación que ofrece tu empresa. Has estado investigando un poco sobre los diferentes tipos de planes, pero te sientes un poco abrumado y tu fecha límite para elegir se acerca rápidamente. Crees que el plan que elijas te dejará en una posición financiera..."
+            "text": "Estás repasando tus gastos mensuales y te das cuenta de que gastaste más de lo que habías planeado en un nuevo pasatiempo. Esto no te coloca en una situación financiera comprometida en este momento, pero estás intentando ahorrar dinero para ir en un viaje de esquí que has estado planeando por..."
         },
         {
             "type": "Entry",
-            "name": "Planificación de pagos_Finanzas_entry1"
+            "name": "Ahorrando dinero_Finanzas_entry1"
         }
     ]
 }

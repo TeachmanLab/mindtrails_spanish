@@ -1,14 +1,14 @@
 {
-    "header_text": "Pensando en preguntas",
+    "header_text": "Comparar su trabajo con el de otros",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pensando en preguntas"
+            "text": "Comparar su trabajo con el de otros"
         },
         {
             "type": "Media",
-            "url": "./images/Pensando_en_preguntas.jpg"
+            "url": "./images/Comparar_su_trabajo_con_el_de_otros.jpg"
         }
     ]
 }

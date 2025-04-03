@@ -1,14 +1,14 @@
 {
-    "header_text": "El escaparate de danza",
+    "header_text": "Encontrarte con un viejo conocido",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "El escaparate de danza"
+            "text": "Encontrarte con un viejo conocido"
         },
         {
             "type": "Media",
-            "url": "./images/El_escaparate_de_danza.jpg"
+            "url": "./images/Encontrarte_con_un_viejo_conocido.jpg"
         }
     ]
 }

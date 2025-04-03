@@ -1,14 +1,14 @@
 {
-    "header_text": "Complicaciones en terminar",
+    "header_text": "Revisando tu trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Complicaciones en terminar"
+            "text": "Revisando tu trabajo"
         },
         {
             "type": "Media",
-            "url": "./images/Complicaciones_en_terminar.jpg"
+            "url": "./images/Revisando_tu_trabajo.jpg"
         }
     ]
 }

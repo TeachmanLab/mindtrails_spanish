@@ -1,24 +1,24 @@
 {
-    "header_text": "Fiesta de cumpleaños",
+    "header_text": "Un pastel de cumpleaños",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Las personas probablemente..."
+            "Text": "si te comes el pastel, probablemente..."
         },
         {
             "type": "Buttons",
-            "name": "Fiesta de cumpleaños_Salud Física_comp_question",
+            "name": "Un pastel de cumpleaños_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Notarán que estás sudando.",
-                "No te verán sudar ya que la habitación está poco iluminada."
+                "No te enfermarás.",
+                "Te enfermarás."
             ],
             "columnCount": 1,
-            "correct_value": "No te verán sudar ya que la habitación está poco iluminada."
+            "correct_value": "Te enfermarás."
         }
     ]
 }

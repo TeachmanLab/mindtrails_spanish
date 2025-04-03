@@ -1,11 +1,14 @@
 {
-    "header_text": "Maneja tus sentimientos: Vida Familiar y Doméstica",
+    "header_text": "Invitar a alguien",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Text",
-            "text": "Cuando enfrente una situación difícil, trate de encontrar una manera de manejarla que le parezca adecuada, independientemente de cómo resulten las cosas."
+            "type": "Label",
+            "text": "Invitar a alguien"
+        },
+        {
+            "type": "Media",
+            "url": "./images/Invitar_a_alguien.jpg"
         }
     ]
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Una presentación importante",
+    "header_text": "Opinión importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras te sientes molesto, te das cuenta de que es natural cometer errores. Piensas que tu jefe no se... "
+            "text": "Al final, te das cuenta de que señalaron el error para que pudieras mejorarlo antes de enviarlo. Corriges la sección incompleta y crees que tu jefe piensa que estás..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Una presentación importante_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
+            "name": "Opinión importante_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "acordará"
+                "aprendiendo"
             ],
             "missing_letter_count": 1
         }

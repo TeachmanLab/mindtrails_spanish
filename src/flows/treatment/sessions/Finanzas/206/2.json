@@ -1,14 +1,14 @@
 {
-    "header_text": "Oportunidad de espectáculo",
+    "header_text": "Viaje despues de COVID",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Una de tus celebridades favoritas está haciendo un espectáculo cerca de ti, y has estado mirando entradas. Las entradas para el espectáculo son más caras de lo que esperabas, y tus cheques de pago no han sido tan altos como esperabas. Decides que ahorrar es más importante y sabes que habrá otro espectáculo en tu área más adelante al que podrás..."
+            "text": "A medida que se quitan las restricciones de COVID, quieres hacer un viaje para quitarte el estrés. Debido a la pandemia, tus fondos están más bajos de lo normal. Piensas que un viaje que funcione para tu presupuesto y tu salud mental será..."
         },
         {
             "type": "Entry",
-            "name": "Oportunidad de espectáculo_Finanzas_entry1"
+            "name": "Viaje despues de COVID_Finanzas_entry1"
         }
     ]
 }

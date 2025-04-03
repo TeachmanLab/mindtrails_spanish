@@ -1,14 +1,14 @@
 {
-    "header_text": "Subiendo escaleras",
+    "header_text": "sintiéndote mareado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "El ascensor en tu edificio está roto de nuevo y tienes que subir por unas cuantas plantas de escaleras para llegar a donde necesitas ir. sientes que tu pecho se aprieta y te quedas sin aliento al llegar a la última escalera. Te sientes..."
+            "text": "Estás en una fiesta y comienzas a bailar con tus amigos. Empiezas a sentirte mareado cuando el ritmo se acelera. Piensas que esta sensación es una señal de..."
         },
         {
             "type": "Entry",
-            "name": "Subiendo escaleras_Salud Física_entry1"
+            "name": "sintiéndote mareado_Salud Física_entry1"
         }
     ]
 }

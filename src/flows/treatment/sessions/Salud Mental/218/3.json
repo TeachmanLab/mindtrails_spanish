@@ -1,24 +1,21 @@
 {
-    "header_text": "Práctica de presentación",
+    "header_text": "Preocupaciones por el ritmo cardíaco",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que estás bien preparado?"
+            "text": "Cuando el evento se vuelve más ruidoso a medida que llega más gente, consideras irte, pero decides que puedes manejar estos sentimientos y seguir..."
         },
         {
-            "type": "Buttons",
-            "name": "Práctica de presentación_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Preocupaciones por el ritmo cardíaco_Salud Mental_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "words": [
+                "socializando"
             ],
-            "columnCount": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 1
         }
     ]
 }

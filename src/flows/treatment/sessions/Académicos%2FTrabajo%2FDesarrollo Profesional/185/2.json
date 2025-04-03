@@ -1,14 +1,14 @@
 {
-    "header_text": "Revisando tus cualificaciones",
+    "header_text": "Mostrar tu experiencia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en una nueva ciudad y necesitas empezar a solicitar trabajos. Comienzas a revisar los requisitos para los puestos y, aunque has trabajado duro para preparar tu currículum, te preguntas si será suficiente. Piensas en tus logros y sabes que has hecho más que..."
+            "text": "Tu supervisor llama a una reunión relacionada a una nueva iniciativa y pide a cada asistente que presente sus ideas y experiencia previa. Cuando es tu turno de hablar, haces pausas con frecuencia. Al reflexionar sobre la reunión más tarde en el día, sientes que el supervisor pensó que sonabas... "
         },
         {
             "type": "Entry",
-            "name": "Revisando tus cualificaciones_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Mostrar tu experiencia_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ]
 }

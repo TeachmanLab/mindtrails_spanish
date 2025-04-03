@@ -1,19 +1,19 @@
 {
-    "header_text": "Expresar tu opinión",
+    "header_text": "sin aliento",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus colegas están hablando de un tema actual y te das cuenta de que tienes una opinión diferente a ellos. Quieres expresarlo, pero preocúpate si te juzgarán. Decides que es mejor ser... "
+            "text": "Corres a una reunión en el trabajo porque crees que podrías llegar tarde. Llegas a tiempo a la sala de reuniones, pero respiras con dificultad y te sientes avergonzado porque la gente te está..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Expresar tu opinión_Salud Mental_puzzle1",
+            "name": "sin aliento_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "honesto"
+                "mirando"
             ],
             "missing_letter_count": 1
         }

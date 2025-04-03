@@ -1,24 +1,24 @@
 {
-    "header_text": "Reunión de mañana",
+    "header_text": "Amigos del club de lectura",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus colegas te juzgan negativamente?"
+            "Text": "Los otros miembros del club de lectura probablemente..."
         },
         {
             "type": "Buttons",
-            "name": "Reunión de mañana_Situaciones Sociales_comp_question",
+            "name": "Amigos del club de lectura_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "No querrán ser amigos fuera del club de lectura.",
+                "Disfrutarán de tu compañía fuera del club de lectura."
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Disfrutarán de tu compañía fuera del club de lectura."
         }
     ]
 }

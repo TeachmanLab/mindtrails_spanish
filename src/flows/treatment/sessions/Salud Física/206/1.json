@@ -1,14 +1,14 @@
 {
-    "header_text": "Boca seca",
+    "header_text": "Seguridad de la trampolina",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Boca seca"
+            "text": "Seguridad de la trampolina"
         },
         {
             "type": "Media",
-            "url": "./images/Boca_seca.jpg"
+            "url": "./images/Seguridad_de_la_trampolina.jpg"
         }
     ]
 }

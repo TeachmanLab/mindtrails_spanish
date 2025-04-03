@@ -1,14 +1,14 @@
 {
-    "header_text": "Nerviosismo de cumpleaños",
+    "header_text": "Reunión uno a uno",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nerviosismo de cumpleaños"
+            "text": "Reunión uno a uno"
         },
         {
             "type": "Media",
-            "url": "./images/Nerviosismo_de_cumpleaños.jpg"
+            "url": "./images/Reunión_uno_a_uno.jpg"
         }
     ]
 }

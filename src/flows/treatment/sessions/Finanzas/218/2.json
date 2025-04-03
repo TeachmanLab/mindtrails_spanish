@@ -1,19 +1,19 @@
 {
-    "header_text": "Dependencia financiera",
+    "header_text": "Evento social",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus hijos han estado confiando en ti financieramente, y quieres que comiencen a ser más independientes. Sabes que este es un paso importante, pero la idea de proporcionarles menos apoyo es abrumadora. Al pensar en el futuro, confías en que su independencia financiera será... "
+            "text": "Hay un evento comunitario pronto para celebrar el final del semestre, y realmente quieres ir. Después de creer que el evento será gratuito, te sorprende descubrir que en realidad será muy caro asistir. Decides ponerte en contacto con los organizadores del evento y llegar a un..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Dependencia financiera_Finanzas_puzzle1",
+            "name": "Evento social_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "posible"
+                "compromiso"
             ],
             "missing_letter_count": 1
         }

@@ -1,15 +1,15 @@
 {
-    "header_text": "Controles en el dentista.",
+    "header_text": "Dedos hormigueando",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que tienes enfermedad de las encías?"
+            "Text": "¿Te hacen sentir nervioso los hormigueos en los dedos?"
         },
         {
             "type": "Buttons",
-            "name": "Controles en el dentista._Salud Física_comp_question",
+            "name": "Dedos hormigueando_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "correct_value": "Sí"
+            "correct_value": "No"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Costear los gastos",
+    "header_text": "Ahorrar dinero",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Costear los gastos"
+            "text": "Ahorrar dinero"
         },
         {
             "type": "Media",
-            "url": "./images/Costear_los_gastos.jpg"
+            "url": "./images/Ahorrar_dinero.jpg"
         }
     ]
 }

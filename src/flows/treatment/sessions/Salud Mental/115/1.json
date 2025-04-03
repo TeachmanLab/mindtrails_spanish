@@ -1,14 +1,14 @@
 {
-    "header_text": "Sensación de noche",
+    "header_text": "Resultados de la evaluación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sensación de noche"
+            "text": "Resultados de la evaluación"
         },
         {
             "type": "Media",
-            "url": "./images/Sensación_de_noche.jpg"
+            "url": "./images/Resultados_de_la_evaluación.jpg"
         }
     ]
 }

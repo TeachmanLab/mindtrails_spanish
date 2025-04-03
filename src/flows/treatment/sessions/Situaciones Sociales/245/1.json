@@ -1,14 +1,14 @@
 {
-    "header_text": "Presentación de recaudación de fondos",
+    "header_text": "sintiéndote abandonado por un amigo cercano",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Presentación de recaudación de fondos"
+            "text": "sintiéndote abandonado por un amigo cercano"
         },
         {
             "type": "Media",
-            "url": "./images/Presentación_de_recaudación_de_fondos.jpg"
+            "url": "./images/sintiéndote_abandonado_por_un_amigo_cercano.jpg"
         }
     ]
 }

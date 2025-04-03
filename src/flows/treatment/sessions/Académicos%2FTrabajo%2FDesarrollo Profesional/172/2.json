@@ -1,19 +1,19 @@
 {
-    "header_text": "Trabajo placentero",
+    "header_text": "Hablando en público",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y algunos compañeros de trabajo recibieron tareas adicionales para completar antes de que termine la semana, y han estado trabajando mucho. Escuchaste a tus compañeros diciendo que sería \"una locura\" disfrutar del trabajo adicional. Piensas en lo productivo que te hace sentir trabajar tan duro y te sientes..."
+            "text": "Estás a punto de dar una presentación a tu supervisor y compañeros de trabajo. El información en la presentación proviene de la investigación que has realizado en tu trabajo. Durante la presentación, sientes que tu supervisor y compañeros pensarán que pareces..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Trabajo placentero_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "name": "Hablando en público_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "feliz"
+                "inteligente"
             ],
             "missing_letter_count": 2
         }

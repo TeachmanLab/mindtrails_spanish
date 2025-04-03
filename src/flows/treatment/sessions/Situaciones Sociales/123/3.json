@@ -1,24 +1,24 @@
 {
-    "header_text": "Reconforto sobre la vacunación",
+    "header_text": "Tu mejor amigo",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás vacunado?"
+            "Text": "Años en el futuro, esperas que tú y tu amigo..."
         },
         {
             "type": "Buttons",
-            "name": "Reconforto sobre la vacunación_Situaciones Sociales_comp_question",
+            "name": "Tu mejor amigo_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Habrán permanecido cercanos aunque hayan desarrollado algunos intereses diferentes.",
+                "Se habrán distanciado y realmente no se entenderán mutuamente."
             ],
             "columnCount": 1,
-            "correct_value": "Sí"
+            "correct_value": "Se habrán distanciado y realmente no se entenderán mutuamente."
         }
     ]
 }

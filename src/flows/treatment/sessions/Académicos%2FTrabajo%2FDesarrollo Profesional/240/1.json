@@ -1,14 +1,11 @@
 {
-    "header_text": "Presentación importante",
+    "header_text": "Maneja tus sentimientos: Académicos/Trabajo/Desarrollo Profesional",
     "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Presentación importante"
-        },
-        {
-            "type": "Media",
-            "url": "./images/Presentación_importante.jpg"
+            "type": "Text",
+            "text": "Antes de comenzar a estudiar/trabajar, tómate un momento para anotar cómo te sientes y qué objetivos puedes alcanzar en función de cómo te sientes."
         }
     ]
 }

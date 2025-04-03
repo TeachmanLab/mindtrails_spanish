@@ -1,24 +1,24 @@
 {
-    "header_text": "Proyecto de escritura",
+    "header_text": "Tomarse tu tiempo",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Es probable que tu supervisor te haya encontrado..."
+            "Text": "¿Eres capaz de responder a la pregunta?"
         },
         {
             "type": "Buttons",
-            "name": "Proyecto de escritura_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Tomarse tu tiempo_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Capaz.",
-                "Incapaz."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Capaz."
+            "correct_value": "Sí"
         }
     ]
 }

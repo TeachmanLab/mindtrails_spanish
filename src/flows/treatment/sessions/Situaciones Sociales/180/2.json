@@ -1,14 +1,14 @@
 {
-    "header_text": "Sábado sin planes",
+    "header_text": "Broma interna",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Es sábado por la noche y estás en casa. Escuchas que tus vecinos tienen una fiesta y personas se están riéndo en el corredor. Te sientes triste porque no tienes planes ni amigos con quienes estar esta noche. Recuerdas que habrá muchas otras oportunidades de ver a tus amigos y te sientes feliz de estar descansando en..."
+            "text": "Publicas un video corto. Tu mejor amigo comenta algo realmente vergonzoso. Tus seguidores pensarán que tú y tu amigo sois..."
         },
         {
             "type": "Entry",
-            "name": "Sábado sin planes_Situaciones Sociales_entry1"
+            "name": "Broma interna_Situaciones Sociales_entry1"
         }
     ]
 }

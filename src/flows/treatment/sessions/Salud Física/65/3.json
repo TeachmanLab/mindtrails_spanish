@@ -1,24 +1,21 @@
 {
-    "header_text": "Estar cerca de alguien enfermo",
+    "header_text": "Clima frío",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es probable que te enfermes?"
+            "text": "sigues caminando, y te sientes un poco incómodo pero decides que la respuesta de tu cuerpo al frío es..."
         },
         {
-            "type": "Buttons",
-            "name": "Estar cerca de alguien enfermo_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Clima frío_Salud Física_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "words": [
+                "manejable"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ]
 }

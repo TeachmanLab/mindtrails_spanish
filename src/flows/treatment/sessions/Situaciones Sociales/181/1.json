@@ -1,14 +1,14 @@
 {
-    "header_text": "Tocando el piano",
+    "header_text": "Entrega Responsable",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tocando el piano"
+            "text": "Entrega Responsable"
         },
         {
             "type": "Media",
-            "url": "./images/Tocando_el_piano.jpg"
+            "url": "./images/Entrega_Responsable.jpg"
         }
     ]
 }

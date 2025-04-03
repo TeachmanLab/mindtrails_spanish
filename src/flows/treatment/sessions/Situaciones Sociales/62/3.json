@@ -1,24 +1,21 @@
 {
-    "header_text": "Casa bilingüe",
+    "header_text": "Miedo al COVID",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu compañero de trabajo juzga a tu familia bilingüe?"
+            "text": "Decides hablar con tu amigo y aprender que estaba evitando ir al doctor porque le faltaba información sobre el proceso. Le dices lo que sabes y te alegras de haber sido capaz de proporcionar.."
         },
         {
-            "type": "Buttons",
-            "name": "Casa bilingüe_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Miedo al COVID_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "words": [
+                "apoyo"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ]
 }

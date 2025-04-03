@@ -1,14 +1,14 @@
 {
-    "header_text": "Devolución de chaqueta",
+    "header_text": "Evaluación importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Devolución de chaqueta"
+            "text": "Evaluación importante"
         },
         {
             "type": "Media",
-            "url": "./images/Devolución_de_chaqueta.jpg"
+            "url": "./images/Evaluación_importante.jpg"
         }
     ]
 }

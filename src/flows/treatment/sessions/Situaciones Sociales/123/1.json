@@ -1,14 +1,14 @@
 {
-    "header_text": "Reconforto sobre la vacunación",
+    "header_text": "Tu mejor amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Reconforto sobre la vacunación"
+            "text": "Tu mejor amigo"
         },
         {
             "type": "Media",
-            "url": "./images/Reconforto_sobre_la_vacunación.jpg"
+            "url": "./images/Tu_mejor_amigo.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Seguridad de la trampolina",
+    "header_text": "Conociendo alguien nuevo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Seguridad de la trampolina"
+            "text": "Conociendo alguien nuevo"
         },
         {
             "type": "Media",
-            "url": "./images/Seguridad_de_la_trampolina.jpg"
+            "url": "./images/Conociendo_alguien_nuevo.jpg"
         }
     ]
 }

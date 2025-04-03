@@ -1,14 +1,14 @@
 {
-    "header_text": "Vecino amigable",
+    "header_text": "Sensaciones de dormir",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Vecino amigable"
+            "text": "Sensaciones de dormir"
         },
         {
             "type": "Media",
-            "url": "./images/Vecino_amigable.jpg"
+            "url": "./images/Sensaciones_de_dormir.jpg"
         }
     ]
 }

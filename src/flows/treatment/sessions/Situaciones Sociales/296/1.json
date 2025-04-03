@@ -1,14 +1,14 @@
 {
-    "header_text": "Viejo amigo",
+    "header_text": "Opinión importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Viejo amigo"
+            "text": "Opinión importante"
         },
         {
             "type": "Media",
-            "url": "./images/Viejo_amigo.jpg"
+            "url": "./images/Opinión_importante.jpg"
         }
     ]
 }

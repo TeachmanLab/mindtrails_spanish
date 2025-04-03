@@ -1,14 +1,14 @@
 {
-    "header_text": "Salud y envejecimiento",
+    "header_text": "Reconciliándote con tu amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Visitas a un amigo de la infancia durante las vacaciones y notas que está envejeciendo. Te preguntas cómo será su salud en el futuro. Cree que su salud probablemente será..."
+            "text": "Unos días después de un pleito con tu amigo, decides romper el hielo y le propones que vayan a tomar un café. Te alistas y cuando estás por irte, te llaman para decirte que después de todo no pueden llegar. Cuando cuelgas, piensas que cancelaron debido a que están... "
         },
         {
             "type": "Entry",
-            "name": "Salud y envejecimiento_Vida Familiar y Doméstica_entry1"
+            "name": "Reconciliándote con tu amigo_Vida Familiar y Doméstica_entry1"
         }
     ]
 }

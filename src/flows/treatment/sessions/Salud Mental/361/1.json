@@ -1,14 +1,14 @@
 {
-    "header_text": "siendo padre",
+    "header_text": "Atascado en el medio",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "siendo padre"
+            "text": "Atascado en el medio"
         },
         {
             "type": "Media",
-            "url": "./images/siendo_padre.jpg"
+            "url": "./images/Atascado_en_el_medio.jpg"
         }
     ]
 }

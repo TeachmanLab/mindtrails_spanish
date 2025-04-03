@@ -1,24 +1,12 @@
 {
-    "header_text": "El escaparate de danza",
-    "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "Text": "si invitas a tus amigos y familiares, probablemente pensarán que..."
-        },
-        {
-            "type": "Buttons",
-            "name": "El escaparate de danza_Situaciones Sociales_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Hiciste un buen trabajo y esperan que los invites a futuras presentaciones.",
-                "Parecías muy tonto y esperan que no los vuelvan a invitar."
-            ],
-            "columnCount": 1,
-            "correct_value": "Parecías muy tonto y esperan que no los vuelvan a invitar."
+            "text": "Tenga en cuenta que cada historia tiene aproximadamente 3 oraciones. La primera parte debería plantear una situación desafiante que podría generar cierta ansiedad en la que no está claro cuál será el resultado de la situación. La parte final debería resolver la incertidumbre de forma positiva o no amenazante. En otras palabras, la última frase debería dejar claro que la situación no resulta al final inmanejable."
         }
     ]
 }

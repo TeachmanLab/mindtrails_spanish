@@ -1,21 +1,24 @@
 {
-    "header_text": "Fotos en redes sociales",
+    "header_text": "Sentirse diferente",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Al final, te das cuenta de que muchas personas se sienten avergonzadas al ver su propia foto en público. Otras personas probablemente disfrutarán viendo tu foto en el sitio de redes..."
+            "Text": "¿Es malo que te sientas diferente a los demás en tu campo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Fotos en redes sociales_Situaciones Sociales_puzzle_word2",
+            "type": "Buttons",
+            "name": "Sentirse diferente_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "sociales"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

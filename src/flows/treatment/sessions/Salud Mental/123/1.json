@@ -1,14 +1,14 @@
 {
-    "header_text": "Fuera de tu control",
+    "header_text": "Trabajo inacabado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Fuera de tu control"
+            "text": "Trabajo inacabado"
         },
         {
             "type": "Media",
-            "url": "./images/Fuera_de_tu_control.jpg"
+            "url": "./images/Trabajo_inacabado.jpg"
         }
     ]
 }

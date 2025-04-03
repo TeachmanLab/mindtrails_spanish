@@ -1,24 +1,24 @@
 {
-    "header_text": "Un comentario grosero",
+    "header_text": "Conociendo nuevos amigos",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te molesta mucho el comentario grosero en tu publicación?"
+            "Text": "si les preguntas a tus compañeros de trabajo si quieren tomar un café después del trabajo, probablemente..."
         },
         {
             "type": "Buttons",
-            "name": "Un comentario grosero_Situaciones Sociales_comp_question",
+            "name": "Conociendo nuevos amigos_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Estén de acuerdo en que tomar café es una buena idea.",
+                "Rechacen cortésmente tu invitación."
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Estén de acuerdo en que tomar café es una buena idea."
         }
     ]
 }

@@ -1,21 +1,24 @@
 {
-    "header_text": "Mascarillas con piel sensible",
+    "header_text": "Dando positivo en una prueba de enfermedad",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Después de pensarlo, te das cuenta de que tiendes a notar aspectos de ti mismo que los demás no notan. Te sientes bien al proteger a las personas al usar tu..."
+            "Text": "¿Podrás recuperarte de la enfermedad?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Mascarillas con piel sensible_Salud Física_puzzle_word2",
+            "type": "Buttons",
+            "name": "Dando positivo en una prueba de enfermedad_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "máscara"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Sí"
         }
     ]
 }

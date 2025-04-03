@@ -286,7 +286,7 @@ for pop,s,l in populations:
                 domain_doses[domain].append(resources(domain))
 
             if dose_count % 50 == 0:
-                long_dose = next(long_doses[domain])
+                domain_doses[domain].append(next(long_doses[domain]))
                 domain_doses[domain].append(resources(domain))
 
             dose_count += 1

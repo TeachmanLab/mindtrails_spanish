@@ -1,14 +1,14 @@
 {
-    "header_text": "Prepararse para una cita",
+    "header_text": "Los celos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Prepararse para una cita"
+            "text": "Los celos"
         },
         {
             "type": "Media",
-            "url": "./images/Prepararse_para_una_cita.jpg"
+            "url": "./images/Los_celos.jpg"
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
-    "header_text": "La nueva ciudad",
+    "header_text": "Presentación de recaudación de fondos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Llevas unos meses viviendo en una ciudad nueva y has tenido problemas para hacer nuevos amigos. Ha estado muy ocupado desde que se mudó, pero sabe que es importante establecer buenas relaciones aquí en su nuevo hogar. Cuando piensas en la vida en tu nueva ciudad, crees que harás..."
+            "text": "Te ponen a cargo de los esfuerzos de recaudación de fondos de tu oficina y rápidamente te das cuenta de que a tus compañeros de trabajo no les interesa mucho la recaudación de fondos. En una reunión, das una presentación sobre la importancia de ayudar con la recaudación de fondos, durante la cual tus compañeros de trabajo permanecen callados. Cuando te sientas después de tu presentación, piensas que parecían..."
         },
         {
             "type": "WordPuzzle",
-            "name": "La nueva ciudad_Situaciones Sociales_puzzle1",
+            "name": "Presentación de recaudación de fondos_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "amigos"
+                "emocionados"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ]
 }

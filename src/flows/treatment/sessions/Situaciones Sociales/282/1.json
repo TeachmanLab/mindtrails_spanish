@@ -1,14 +1,14 @@
 {
-    "header_text": "Fin de semana largo solo",
+    "header_text": "Interrumpiendo el silencio",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Fin de semana largo solo"
+            "text": "Interrumpiendo el silencio"
         },
         {
             "type": "Media",
-            "url": "./images/Fin_de_semana_largo_solo.jpg"
+            "url": "./images/Interrumpiendo_el_silencio.jpg"
         }
     ]
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Yendo de vacaciones",
+    "header_text": "Comprometerse con las actividades",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te vas de vacaciones por unos días. Decides verificar nuevamente que todos los electrodomésticos de tu casa estén apagados. Al cerrar la puerta de tu casa, te sientes..."
+            "text": "Estabas muy emocionado de regresar a la instrucción en persona y decidiste comprometerse con muchas actividades. Te has resultado difícil cumplir con todas tus responsabilidades y te preocupas estar fallando en..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Yendo de vacaciones_Salud Mental_puzzle1",
+            "name": "Comprometerse con las actividades_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "nervioso"
+                "todo"
             ],
             "missing_letter_count": 1
         }

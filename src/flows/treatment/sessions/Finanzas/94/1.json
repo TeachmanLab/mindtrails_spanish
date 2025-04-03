@@ -1,14 +1,14 @@
 {
-    "header_text": "sintiéndote preocupado por las noticias",
+    "header_text": "Inicio Presentaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "sintiéndote preocupado por las noticias"
+            "text": "Inicio Presentaciones"
         },
         {
             "type": "Media",
-            "url": "./images/sintiéndote_preocupado_por_las_noticias.jpg"
+            "url": "./images/Inicio_Presentaciones.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Compartir con alguien nuevo",
+    "header_text": "siendo padre",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Compartir con alguien nuevo"
+            "text": "siendo padre"
         },
         {
             "type": "Media",
-            "url": "./images/Compartir_con_alguien_nuevo.jpg"
+            "url": "./images/siendo_padre.jpg"
         }
     ]
 }

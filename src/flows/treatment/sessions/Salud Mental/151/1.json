@@ -1,11 +1,14 @@
 {
-    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_text": "Sentirse ansioso",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Text",
-            "text": "Observe los pensamientos que tiene cuando siente una emoción negativa y determine si esos pensamientos reflejan con precisión la realidad de la situación."
+            "type": "Label",
+            "text": "Sentirse ansioso"
+        },
+        {
+            "type": "Media",
+            "url": "./images/Sentirse_ansioso.jpg"
         }
     ]
 }

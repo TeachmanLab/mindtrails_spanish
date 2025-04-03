@@ -1,14 +1,14 @@
 {
-    "header_text": "Expresando tus ideas",
+    "header_text": "Resultados de la evaluación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Expresando tus ideas"
+            "text": "Resultados de la evaluación"
         },
         {
             "type": "Media",
-            "url": "./images/Expresando_tus_ideas.jpg"
+            "url": "./images/Resultados_de_la_evaluación.jpg"
         }
     ]
 }

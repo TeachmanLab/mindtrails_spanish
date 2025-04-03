@@ -1,19 +1,19 @@
 {
-    "header_text": "Reloj favorito",
+    "header_text": "sintiéndote ansioso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás cenando y te das cuenta de que no tienes puesto tu reloj favorito. No recuerdas haberlo quitado antes, pero piensas que probablemente esté donde siempre lo guardas. Te pones un poco ansioso pensando en dónde está el reloj, pero el resto de tu cena sigue siendo..."
+            "text": "Estos últimos meses, te has sentido muy ansioso y no has podido disfrutar de tu vida sin preocuparte. Te preguntas qué pensarían las personas en tu vida si buscas ayuda. Piensas que te considerarían..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Reloj favorito_Salud Mental_puzzle1",
+            "name": "sintiéndote ansioso_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "agradable"
+                "valiente"
             ],
             "missing_letter_count": 1
         }

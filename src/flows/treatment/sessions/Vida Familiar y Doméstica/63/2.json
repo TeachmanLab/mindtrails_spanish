@@ -1,19 +1,19 @@
 {
-    "header_text": "Desacuerdos con tu hermana",
+    "header_text": "Puntos de vista hacia la terapia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tu hermana recientemente tuvieron una discusión, y no se han hablado en semanas. Quieres mucho a tu hermana, pero ambos aún están molestos por lo que el otro dijo la última vez que... "
+            "text": "Has estado yendo a terapia últimamente. No te lo has contado a tu familia porque han expresado opiniones negativas sobre la terapia en el pasado. Crees que esta vez te..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Desacuerdos con tu hermana_Vida Familiar y Doméstica_puzzle1",
+            "name": "Puntos de vista hacia la terapia_Vida Familiar y Doméstica_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "hablaron"
+                "apoyarán"
             ],
             "missing_letter_count": 2
         }

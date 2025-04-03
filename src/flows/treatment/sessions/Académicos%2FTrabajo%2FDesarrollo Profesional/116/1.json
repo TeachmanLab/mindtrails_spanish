@@ -1,14 +1,14 @@
 {
-    "header_text": "Vecinos ruidosos",
+    "header_text": "Finalización rápida de tareas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Vecinos ruidosos"
+            "text": "Finalización rápida de tareas"
         },
         {
             "type": "Media",
-            "url": "./images/Vecinos_ruidosos.jpg"
+            "url": "./images/Finalización_rápida_de_tareas.jpg"
         }
     ]
 }

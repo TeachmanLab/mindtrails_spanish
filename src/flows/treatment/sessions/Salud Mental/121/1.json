@@ -1,14 +1,14 @@
 {
-    "header_text": "Dolor de estómago",
+    "header_text": "Sentirse entumecido",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dolor de estómago"
+            "text": "Sentirse entumecido"
         },
         {
             "type": "Media",
-            "url": "./images/Dolor_de_estómago.jpg"
+            "url": "./images/Sentirse_entumecido.jpg"
         }
     ]
 }

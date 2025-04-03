@@ -1,14 +1,14 @@
 {
-    "header_text": "Oportunidad de espectáculo",
+    "header_text": "Asistiendo a un espectáculo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Oportunidad de espectáculo"
+            "text": "Asistiendo a un espectáculo"
         },
         {
             "type": "Media",
-            "url": "./images/Oportunidad_de_espectáculo.jpg"
+            "url": "./images/Asistiendo_a_un_espectáculo.jpg"
         }
     ]
 }

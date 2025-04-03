@@ -1,14 +1,14 @@
 {
-    "header_text": "sintiéndote ansioso",
+    "header_text": "Respondiendo a preguntas inesperadas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "sintiéndote ansioso"
+            "text": "Respondiendo a preguntas inesperadas"
         },
         {
             "type": "Media",
-            "url": "./images/sintiéndote_ansioso.jpg"
+            "url": "./images/Respondiendo_a_preguntas_inesperadas.jpg"
         }
     ]
 }

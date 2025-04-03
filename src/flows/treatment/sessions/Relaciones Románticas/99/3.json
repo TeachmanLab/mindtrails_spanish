@@ -1,12 +1,14 @@
 {
-    "header_text": "¡Escribe El Tuyo!",
-    "header_icon": [
-        "assets/subtitle.png"
-    ],
+    "header_text": "Preocupaciones por las relaciones",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tenga en cuenta que cada historia tiene aproximadamente 3 oraciones. La primera parte debería plantear una situación desafiante que podría generar cierta ansiedad en la que no está claro cuál será el resultado de la situación. La parte final debería resolver la incertidumbre de forma positiva o no amenazante. En otras palabras, la última frase debería dejar claro que la situación no resulta al final inmanejable."
+            "text": "Mientras te preguntas sobre tu futuro con tu cónyuge, no crees que te vayas a divorciar y sientes firmemente que ustedes dos seguirán..."
+        },
+        {
+            "type": "Entry",
+            "name": "Preocupaciones por las relaciones_Relaciones Románticas_entry2"
         }
     ]
 }

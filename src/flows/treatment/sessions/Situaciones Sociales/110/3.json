@@ -1,24 +1,21 @@
 {
-    "header_text": "Encontrándote con alguien",
+    "header_text": "Esperando una respuesta",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu compañero de trabajo te está juzgando negativamente cuando sales del baño?"
+            "text": "Después de pensarlo, reconoces que tu amigo es una persona ocupada y que las personas a menudo se pierden las notificaciones. Reenvías tu mensaje y descubres que tu amigo olvidó responder, pero está muy entusiasmado por hacer planes..."
         },
         {
-            "type": "Buttons",
-            "name": "Encontrándote con alguien_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Esperando una respuesta_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "words": [
+                "contigo"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ]
 }

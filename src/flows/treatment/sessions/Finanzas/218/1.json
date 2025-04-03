@@ -1,14 +1,14 @@
 {
-    "header_text": "Dependencia financiera",
+    "header_text": "Evento social",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dependencia financiera"
+            "text": "Evento social"
         },
         {
             "type": "Media",
-            "url": "./images/Dependencia_financiera.jpg"
+            "url": "./images/Evento_social.jpg"
         }
     ]
 }

@@ -1,15 +1,14 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Manchas de sudor",
     "header_icon": "assets/subtitle.png",
-    "name": "¡Consejo para aplicar!",
     "elements": [
         {
-            "type": "Text",
-            "text": "Piensas en una situación que enfrentas regularmente que te cause algo de ansiedad. ¿Qué te sueles decir a ti mismo? ¿Hay otro pensamiento que puedas decirte a ti mismo que pueda hacer que sea menos provacador de ansiedad? "
+            "type": "Label",
+            "text": "Manchas de sudor"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #12_entry"
+            "type": "Media",
+            "url": "./images/Manchas_de_sudor.jpg"
         }
     ]
 }

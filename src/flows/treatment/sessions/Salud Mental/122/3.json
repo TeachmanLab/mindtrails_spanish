@@ -1,21 +1,21 @@
 {
-    "header_text": "Trabajo inacabado",
+    "header_text": "Dolor de estómago",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Podrás hacer todo?"
+            "Text": "¿El dolor de estómago se debe a la ansiedad?"
         },
         {
             "type": "Buttons",
-            "name": "Trabajo inacabado_Salud Mental_comp_question",
+            "name": "Dolor de estómago_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
             "correct_value": "Sí"

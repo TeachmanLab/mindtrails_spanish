@@ -1,14 +1,14 @@
 {
-    "header_text": "Chistes de compras",
+    "header_text": "Mantener a la familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás solo en el supermercado. Observas a otros dos miembros de la facultad juntos en la otra parte de la tienda riéndose. Probablemente se estén riendo de un..."
+            "text": "Quieres que tu familia tenga buenas oportunidades educativas. Tú quieres que tus hijos puedan asistir a buenas universidades, pero comprendas que esto tiene un precio..."
         },
         {
             "type": "Entry",
-            "name": "Chistes de compras_Finanzas_entry1"
+            "name": "Mantener a la familia_Finanzas_entry1"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Visión borrosa",
+    "header_text": "Desconectandote",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Visión borrosa"
+            "text": "Desconectandote"
         },
         {
             "type": "Media",
-            "url": "./images/Visión_borrosa.jpg"
+            "url": "./images/Desconectandote.jpg"
         }
     ]
 }

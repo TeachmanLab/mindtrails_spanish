@@ -1,14 +1,14 @@
 {
-    "header_text": "Publicar sobre la familia",
+    "header_text": "Taller de escritura",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Publicar sobre la familia"
+            "text": "Taller de escritura"
         },
         {
             "type": "Media",
-            "url": "./images/Publicar_sobre_la_familia.jpg"
+            "url": "./images/Taller_de_escritura.jpg"
         }
     ]
 }

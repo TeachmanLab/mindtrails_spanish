@@ -1,14 +1,14 @@
 {
-    "header_text": "Día caluroso",
+    "header_text": "Confrontación de COVID",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Día caluroso"
+            "text": "Confrontación de COVID"
         },
         {
             "type": "Media",
-            "url": "./images/Día_caluroso.jpg"
+            "url": "./images/Confrontación_de_COVID.jpg"
         }
     ]
 }

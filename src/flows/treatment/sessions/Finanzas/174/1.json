@@ -1,14 +1,14 @@
 {
-    "header_text": "Saludable pero caro",
+    "header_text": "Obtener una tarjeta de crédito",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Saludable pero caro"
+            "text": "Obtener una tarjeta de crédito"
         },
         {
             "type": "Media",
-            "url": "./images/Saludable_pero_caro.jpg"
+            "url": "./images/Obtener_una_tarjeta_de_crédito.jpg"
         }
     ]
 }

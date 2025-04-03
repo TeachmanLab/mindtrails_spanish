@@ -1,24 +1,24 @@
 {
-    "header_text": "Caminata con amigos",
+    "header_text": "sintiendo mareos",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es probable que estés seguro en la caminata?"
+            "Text": "¿Te preocupa desmayarte?"
         },
         {
             "type": "Buttons",
-            "name": "Caminata con amigos_Salud Física_comp_question",
+            "name": "sintiendo mareos_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Sí"
+            "correct_value": "No"
         }
     ]
 }

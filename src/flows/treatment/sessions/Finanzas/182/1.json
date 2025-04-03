@@ -1,14 +1,14 @@
 {
-    "header_text": "Escándalo de ahorro",
+    "header_text": "Permitirse la educación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Escándalo de ahorro"
+            "text": "Permitirse la educación"
         },
         {
             "type": "Media",
-            "url": "./images/Escándalo_de_ahorro.jpg"
+            "url": "./images/Permitirse_la_educación.jpg"
         }
     ]
 }

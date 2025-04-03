@@ -1,19 +1,19 @@
 {
-    "header_text": "Visitar a una familia anciana",
+    "header_text": "Demasiada atención",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vuelves a casa de tus padres durante las vacaciones y notas que tu madre parece frágil. Te preguntas sobre su salud y si está enferma. Cree que su salud probablemente será..."
+            "text": "Es tu cumpleaños y cuando llega la hora del queque, la gente se reúne a tu alrededor y empiezan a cantar. sientes que tu corazón empieza a latir más rápido y empiezas a sudar. Tus amigos y familiares no se darán..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Visitar a una familia anciana_Salud Física_puzzle1",
+            "name": "Demasiada atención_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "buena"
+                "cuenta"
             ],
             "missing_letter_count": 2
         }

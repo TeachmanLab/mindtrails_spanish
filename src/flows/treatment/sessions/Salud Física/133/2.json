@@ -1,19 +1,19 @@
 {
-    "header_text": "Planes para visitar a la familia",
+    "header_text": "Entrega Responsable",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Es el día antes de que planeas ir a visitar a tu familia, y tu amigo se da cuenta de que estuvo expuesto a alguien con COVID. Ambos se van a hacerse la prueba, pero los resultados suelen llegar en 72 horas y tienes un vuelo mañana. Cuando piensas en cómo reaccionará tu familia, crees que lo..."
+            "text": "Uno de tus amigos cercanos sale positivo en la prueba de COVID y te pide que le lleves comida. No quieres exponerte estando cerca de su hogar, pero también quieres ayudar. Encuentras una manera de entregar la comida y mantener tu..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Planes para visitar a la familia_Salud Física_puzzle1",
+            "name": "Entrega Responsable_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "entenderán"
+                "distancia"
             ],
             "missing_letter_count": 1
         }

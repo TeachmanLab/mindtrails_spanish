@@ -1,14 +1,14 @@
 {
-    "header_text": "Serpientes venenosas",
+    "header_text": "Nadando en la playa",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Serpientes venenosas"
+            "text": "Nadando en la playa"
         },
         {
             "type": "Media",
-            "url": "./images/Serpientes_venenosas.jpg"
+            "url": "./images/Nadando_en_la_playa.jpg"
         }
     ]
 }

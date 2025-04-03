@@ -1,15 +1,15 @@
 {
-    "header_text": "No invitado a cenar",
+    "header_text": "Pedido de un niño",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es demasiado tarde para hacerse amigo de tus nuevos compañeros de trabajo?"
+            "Text": "¿Es peligroso ir a un parque en un vecindario diferente?"
         },
         {
             "type": "Buttons",
-            "name": "No invitado a cenar_Situaciones Sociales_comp_question",
+            "name": "Pedido de un niño_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

@@ -1,14 +1,14 @@
 {
-    "header_text": "Aplicando a trabajos",
+    "header_text": "Un trago de agua",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Aplicando a trabajos"
+            "text": "Un trago de agua"
         },
         {
             "type": "Media",
-            "url": "./images/Aplicando_a_trabajos.jpg"
+            "url": "./images/Un_trago_de_agua.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Funciones normales",
+    "header_text": "Cancelación de concierto",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Funciones normales"
+            "text": "Cancelación de concierto"
         },
         {
             "type": "Media",
-            "url": "./images/Funciones_normales.jpg"
+            "url": "./images/Cancelación_de_concierto.jpg"
         }
     ]
 }

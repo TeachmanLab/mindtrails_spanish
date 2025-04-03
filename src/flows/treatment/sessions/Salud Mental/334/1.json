@@ -1,14 +1,14 @@
 {
-    "header_text": "Comprometerse con las actividades",
+    "header_text": "Decidir compartir una imagen",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comprometerse con las actividades"
+            "text": "Decidir compartir una imagen"
         },
         {
             "type": "Media",
-            "url": "./images/Comprometerse_con_las_actividades.jpg"
+            "url": "./images/Decidir_compartir_una_imagen.jpg"
         }
     ]
 }

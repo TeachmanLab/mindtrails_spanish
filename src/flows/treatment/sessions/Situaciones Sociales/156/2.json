@@ -1,19 +1,19 @@
 {
-    "header_text": "Invitación a cenar",
+    "header_text": "Comentarios en las redes sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Un amigo te invita a una cena que están organizando. Te dicen los nombres de los otros invitados, pero no conoces a nadie. Vas de cualquier manera y en camino a la fiesta, piensas que los otros invitados te encontrarán... "
+            "text": "Le enviaste un mensaje de texto a un buen amigo hace un par de horas. Pasa un día y todavía no han respondido. Piensas en que tu amigo no usa su teléfono con frecuencia y te sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Invitación a cenar_Situaciones Sociales_puzzle1",
+            "name": "Comentarios en las redes sociales_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "amable"
+                "mejor"
             ],
             "missing_letter_count": 2
         }

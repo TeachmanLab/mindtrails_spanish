@@ -1,21 +1,24 @@
 {
-    "header_text": "Larga caminata afuera",
+    "header_text": "Reloj favorito",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Recuerdas que es la primera vez en unas semanas que caminas una distancia larga. Probablemente sientes que el latido de tu corazón se acelera debido a la..."
+            "Text": "¿Es la cena miserable mientras te preocupas por el reloj?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Larga caminata afuera_Salud Mental_puzzle_word2",
+            "type": "Buttons",
+            "name": "Reloj favorito_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "cuesta"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

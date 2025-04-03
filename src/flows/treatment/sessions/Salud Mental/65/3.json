@@ -1,21 +1,24 @@
 {
-    "header_text": "Zambullirte",
+    "header_text": "Tiempo para ti mismo",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Recuerdas que estarán concentrados en nadar y que todos los demás también estarán usando trajes de baño. Esto te..."
+            "Text": "¿Estás bién con comer solo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Zambullirte_Salud Mental_puzzle_word2",
+            "type": "Buttons",
+            "name": "Tiempo para ti mismo_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "reconforta"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Sí"
         }
     ]
 }

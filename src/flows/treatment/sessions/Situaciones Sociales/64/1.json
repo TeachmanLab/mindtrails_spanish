@@ -1,14 +1,14 @@
 {
-    "header_text": "Un país extranjero",
+    "header_text": "Encontrarte con un viejo conocido",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un país extranjero"
+            "text": "Encontrarte con un viejo conocido"
         },
         {
             "type": "Media",
-            "url": "./images/Un_país_extranjero.jpg"
+            "url": "./images/Encontrarte_con_un_viejo_conocido.jpg"
         }
     ]
 }

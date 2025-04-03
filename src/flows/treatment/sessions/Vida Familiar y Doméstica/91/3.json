@@ -1,14 +1,14 @@
 {
-    "header_text": "Mantener a la familia",
+    "header_text": "Emoción prospectiva",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Quieres que tu familia tenga buenas oportunidades educativas. Tú quieres que tus hijos puedan asistir a buenas universidades, pero comprendas que esto tiene un precio..."
+            "text": "Te gustarías tomarte un tiempo libre para viajar después de un año largo y estresante. Tu familia espera que trabajes más horas para ayudar con las finanzas y no quieres decepcionarlos. Al considerar tus planes para fin de año, te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Mantener a la familia_Vida Familiar y Doméstica_entry1"
+            "name": "Emoción prospectiva_Vida Familiar y Doméstica_entry1"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Planes de vacaiones",
+    "header_text": "Chistes con amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Planes de vacaiones"
+            "text": "Chistes con amigos"
         },
         {
             "type": "Media",
-            "url": "./images/Planes_de_vacaiones.jpg"
+            "url": "./images/Chistes_con_amigos.jpg"
         }
     ]
 }

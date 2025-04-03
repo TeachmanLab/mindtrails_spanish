@@ -1,14 +1,14 @@
 {
-    "header_text": "Expresando tus ideas",
+    "header_text": "Faltando una reunión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Expresando tus ideas"
+            "text": "Faltando una reunión"
         },
         {
             "type": "Media",
-            "url": "./images/Expresando_tus_ideas.jpg"
+            "url": "./images/Faltando_una_reunión.jpg"
         }
     ]
 }

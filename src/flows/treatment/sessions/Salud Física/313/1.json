@@ -1,14 +1,14 @@
 {
-    "header_text": "Recuperando el aliento",
+    "header_text": "Sudando a través de tu camisa",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Recuperando el aliento"
+            "text": "Sudando a través de tu camisa"
         },
         {
             "type": "Media",
-            "url": "./images/Recuperando_el_aliento.jpg"
+            "url": "./images/Sudando_a_través_de_tu_camisa.jpg"
         }
     ]
 }

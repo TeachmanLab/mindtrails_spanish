@@ -1,24 +1,24 @@
 {
-    "header_text": "Mensajes de texto honestos",
+    "header_text": "Trabajando para salir adelante",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás contento con tu respuesta?"
+            "Text": "El future que te ves para ti mismo es..."
         },
         {
             "type": "Buttons",
-            "name": "Mensajes de texto honestos_Salud Mental_comp_question",
+            "name": "Trabajando para salir adelante_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Tener el puesto que siempre has querido en la oficina que admiras.",
+                "Estar en el puesto por debajo de la que siempre has soñado."
             ],
             "columnCount": 1,
-            "correct_value": "Sí"
+            "correct_value": "Estar en el puesto por debajo de la que siempre has soñado."
         }
     ]
 }

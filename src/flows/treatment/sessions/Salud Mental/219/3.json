@@ -1,15 +1,15 @@
 {
-    "header_text": "Compartiendo programas favoritos",
+    "header_text": "Participación en las redes sociales",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus compañeros de trabajo te juzgan por lo que dijiste sobre el programa de televisión?"
+            "Text": "¿Te ves bien en la foto que publicaste?"
         },
         {
             "type": "Buttons",
-            "name": "Compartiendo programas favoritos_Salud Mental_comp_question",
+            "name": "Participación en las redes sociales_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

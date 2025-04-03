@@ -1,19 +1,19 @@
 {
-    "header_text": "Ninguna respuesta",
+    "header_text": "Club de lectura",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Le enviaste un mensaje de texto a un buen amigo hace un par de horas. Pasa un día y todavía no han respondido. Piensas en que tu amigo no usa su teléfono con frecuencia y te sientes..."
+            "text": "Estás intentando conocer gente nueva y decides unirte a un club de lectura. El libro de la semana es realmente interesante, pero cuando llegas a la reunión, las personas hacen preguntas sobre el libro que parecen más profundas de lo que puedes responder. Recuerdas que también leíste el libro y tienes pensamientos valiosos, al igual que los..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Ninguna respuesta_Situaciones Sociales_puzzle1",
+            "name": "Club de lectura_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "mejor"
+                "demás"
             ],
             "missing_letter_count": 1
         }

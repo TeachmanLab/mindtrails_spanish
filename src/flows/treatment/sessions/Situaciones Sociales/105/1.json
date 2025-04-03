@@ -1,12 +1,11 @@
 {
-    "header_text": "¡Escribe El Tuyo!",
-    "header_icon": [
-        "assets/subtitle.png"
-    ],
+    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
+            "text": "Cuando estés enojado o molesto por cualquier situación, dejas que esa emoción vaya y venga. En lugar de tratar de alejarlo, permítete reconocer y sentir profundamente tus emociones de manera segura. "
         }
     ]
 }

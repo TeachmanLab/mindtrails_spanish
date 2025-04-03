@@ -1,24 +1,21 @@
 {
-    "header_text": "Revisión física anual",
+    "header_text": "Alergias de primavera",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Eres capaz de manejar tu ansiedad mientras esperas al doctor?"
+            "text": "Mirando alrededor, ves todo el polen en el aire. Te das cuenta de que normalmente tienes la nariz congestionada debido a las alergias y probablemente estás cansado de jugar fútbol despues de una hora. Te sientes..."
         },
         {
-            "type": "Buttons",
-            "name": "Revisión física anual_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Alergias de primavera_Salud Física_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "words": [
+                "aliviado"
             ],
-            "columnCount": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 2
         }
     ]
 }

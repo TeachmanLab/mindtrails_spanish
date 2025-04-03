@@ -1,14 +1,14 @@
 {
-    "header_text": "Realizando cambios",
+    "header_text": "Ahorrando dinero",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Realizando cambios"
+            "text": "Ahorrando dinero"
         },
         {
             "type": "Media",
-            "url": "./images/Realizando_cambios.jpg"
+            "url": "./images/Ahorrando_dinero.jpg"
         }
     ]
 }

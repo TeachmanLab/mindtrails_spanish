@@ -1,14 +1,14 @@
 {
-    "header_text": "Aplicando a trabajos",
+    "header_text": "Amigo en el hospital",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Aplicando a trabajos"
+            "text": "Amigo en el hospital"
         },
         {
             "type": "Media",
-            "url": "./images/Aplicando_a_trabajos.jpg"
+            "url": "./images/Amigo_en_el_hospital.jpg"
         }
     ]
 }

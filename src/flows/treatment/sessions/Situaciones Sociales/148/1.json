@@ -1,14 +1,14 @@
 {
-    "header_text": "Una perspectiva diferente",
+    "header_text": "Pasando tiempo con amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una perspectiva diferente"
+            "text": "Pasando tiempo con amigos"
         },
         {
             "type": "Media",
-            "url": "./images/Una_perspectiva_diferente.jpg"
+            "url": "./images/Pasando_tiempo_con_amigos.jpg"
         }
     ]
 }

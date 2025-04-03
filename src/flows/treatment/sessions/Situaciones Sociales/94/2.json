@@ -1,14 +1,14 @@
 {
-    "header_text": "Una presentación grande",
+    "header_text": "Cumpleaños de un amigo cercano",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás a punto de dar una presentación importante. Te sientes ansioso al respecto. Esta sensación te produce..."
+            "text": "Mañana es el cumpleaños de un buen amigo. Olvidaste comprarle un regalo y no tienes mucho tiempo para buscar algo bueno. Recoges algo mediocre en una tienda cercana y piensas que estarán..."
         },
         {
             "type": "Entry",
-            "name": "Una presentación grande_Situaciones Sociales_entry1"
+            "name": "Cumpleaños de un amigo cercano_Situaciones Sociales_entry1"
         }
     ]
 }

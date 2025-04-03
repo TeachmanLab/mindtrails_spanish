@@ -1,14 +1,14 @@
 {
-    "header_text": "Nueva pareja",
+    "header_text": "Conversaciones incómodas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nueva pareja"
+            "text": "Conversaciones incómodas"
         },
         {
             "type": "Media",
-            "url": "./images/Nueva_pareja.jpg"
+            "url": "./images/Conversaciones_incómodas.jpg"
         }
     ]
 }

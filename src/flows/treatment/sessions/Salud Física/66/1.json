@@ -1,14 +1,14 @@
 {
-    "header_text": "El dolor de muelas",
+    "header_text": "Estar cerca de alguien enfermo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "El dolor de muelas"
+            "text": "Estar cerca de alguien enfermo"
         },
         {
             "type": "Media",
-            "url": "./images/El_dolor_de_muelas.jpg"
+            "url": "./images/Estar_cerca_de_alguien_enfermo.jpg"
         }
     ]
 }

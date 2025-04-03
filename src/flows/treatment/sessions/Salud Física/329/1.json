@@ -1,14 +1,14 @@
 {
-    "header_text": "Sensaciones desconocidas",
+    "header_text": "Manejando el estrés",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sensaciones desconocidas"
+            "text": "Manejando el estrés"
         },
         {
             "type": "Media",
-            "url": "./images/Sensaciones_desconocidas.jpg"
+            "url": "./images/Manejando_el_estrés.jpg"
         }
     ]
 }

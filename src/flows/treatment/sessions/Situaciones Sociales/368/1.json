@@ -1,14 +1,14 @@
 {
-    "header_text": "Interrumpiendo el silencio",
+    "header_text": "Viendo a un viejo amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Interrumpiendo el silencio"
+            "text": "Viendo a un viejo amigo"
         },
         {
             "type": "Media",
-            "url": "./images/Interrumpiendo_el_silencio.jpg"
+            "url": "./images/Viendo_a_un_viejo_amigo.jpg"
         }
     ]
 }

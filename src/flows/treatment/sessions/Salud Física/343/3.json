@@ -1,24 +1,24 @@
 {
-    "header_text": "Tos después de salir",
+    "header_text": "Distanciamiento social adentro",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es tu tos una señal definitiva de COVID?"
+            "Text": "¿Estás tomando precauciones contra las enfermedades?"
         },
         {
             "type": "Buttons",
-            "name": "Tos después de salir_Salud Física_comp_question",
+            "name": "Distanciamiento social adentro_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Sí"
         }
     ]
 }

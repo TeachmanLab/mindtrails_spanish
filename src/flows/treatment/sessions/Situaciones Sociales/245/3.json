@@ -1,24 +1,24 @@
 {
-    "header_text": "Presentación de recaudación de fondos",
+    "header_text": "sintiéndote abandonado por un amigo cercano",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Los compañeros de trabajo probablemente están pensando..."
+            "Text": "¿Te molesta que tu amigo no te djio de esta persona?"
         },
         {
             "type": "Buttons",
-            "name": "Presentación de recaudación de fondos_Situaciones Sociales_comp_question",
+            "name": "sintiéndote abandonado por un amigo cercano_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Que no quieren ayudarte con la recaudación de fondos.",
-                "Que quieren ayudarte con la recaudación de fondos."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Que quieren ayudarte con la recaudación de fondos."
+            "correct_value": "Sí"
         }
     ]
 }

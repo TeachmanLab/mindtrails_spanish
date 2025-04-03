@@ -1,14 +1,14 @@
 {
-    "header_text": "Nadando vueltas",
+    "header_text": "Un dolor de garganta",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nadando vueltas"
+            "text": "Un dolor de garganta"
         },
         {
             "type": "Media",
-            "url": "./images/Nadando_vueltas.jpg"
+            "url": "./images/Un_dolor_de_garganta.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Tratar a un amigo",
+    "header_text": "Ahorro para reparaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo te ha estado apoyando en un momento difícil y estás realmente agradecido por su apoyo. Quieres darle las gracias tratándolos a cenar, pero no tienes suficiente dinero para llevarlos a un restaurante. Decides hacerles una cena casera y pensas que serán... "
+            "text": "Tu coche necesita reparaciones importantes. Tus amigos te invitan a salir con ellos este fin de semana, pero necesitas ahorrar tu dinero para pagar tu coche. Niegas la invitación de tus amigos y te sientes... "
         },
         {
             "type": "Entry",
-            "name": "Tratar a un amigo_Finanzas_entry1"
+            "name": "Ahorro para reparaciones_Finanzas_entry1"
         }
     ]
 }

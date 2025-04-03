@@ -1,19 +1,19 @@
 {
-    "header_text": "Ayudando un vecino mayor",
+    "header_text": "Conociendo gente nueva",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Un día después del trabajo, ves a un vecino mayor llevando bolsas de comestibles de su carro a su casa. Le preguntas si necesita ayuda y él se gira y te mira, pareciendo..."
+            "text": "Estás saliendo con un nuevo grupo de personas. Cuentas un chiste gracioso que crees que va con el tema de conversación y nadie se ríe. Los nuevos amigos te encontrarán..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Ayudando un vecino mayor_Situaciones Sociales_puzzle1",
+            "name": "Conociendo gente nueva_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "ofendido"
+                "amigable"
             ],
             "missing_letter_count": 1
         }

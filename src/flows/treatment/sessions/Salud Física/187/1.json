@@ -1,14 +1,14 @@
 {
-    "header_text": "Larga caminata afuera",
+    "header_text": "Manejando el estrés",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Larga caminata afuera"
+            "text": "Manejando el estrés"
         },
         {
             "type": "Media",
-            "url": "./images/Larga_caminata_afuera.jpg"
+            "url": "./images/Manejando_el_estrés.jpg"
         }
     ]
 }

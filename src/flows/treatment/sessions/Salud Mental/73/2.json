@@ -1,14 +1,14 @@
 {
-    "header_text": "Amigo en el hospital",
+    "header_text": "Revisando tu trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recibes un mensaje de texto de un amigo diciendo que está en el hospital, pero no te dicen por qué. Comienzas a preocuparte por si van a estar bien. Mientras piensas en tu amigo, te sientes..."
+            "text": "Te han llamado para una evaluación de desempeño con tu jefe. En general, haces un buen trabajo, pero sabes que tu jefe ha notado algunos errores..."
         },
         {
             "type": "Entry",
-            "name": "Amigo en el hospital_Salud Mental_entry1"
+            "name": "Revisando tu trabajo_Salud Mental_entry1"
         }
     ]
 }

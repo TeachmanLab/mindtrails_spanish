@@ -1,24 +1,24 @@
 {
-    "header_text": "Finalización rápida de tareas",
+    "header_text": "Puerta cerrada",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿El comité quedó satisfecho con tu trabajo?"
+            "Text": "Durante el fin de semana vas a..."
         },
         {
             "type": "Buttons",
-            "name": "Finalización rápida de tareas_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Puerta cerrada_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Preocúpate por si cerraste la puerta con llave.",
+                "Descansar y pasar tiempo con amigos o familiares."
             ],
             "columnCount": 1,
-            "correct_value": "Sí"
+            "correct_value": "Descansar y pasar tiempo con amigos o familiares."
         }
     ]
 }

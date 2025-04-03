@@ -1,24 +1,24 @@
 {
-    "header_text": "Aplicando a trabajos",
+    "header_text": "Cambiando tu trayectoria",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te ofrecerán otro trabajo en el futuro?"
+            "Text": "Dado tu probable resultado en el mercado laboral, tu mejor opción es..."
         },
         {
             "type": "Buttons",
-            "name": "Aplicando a trabajos_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Cambiando tu trayectoria_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Quedarte quieto aunque sea aburrido.",
+                "Intentar encontrar un trabajo en algún lugar que realmente te desafíe."
             ],
             "columnCount": 1,
-            "correct_value": "Sí"
+            "correct_value": "Quedarte quieto aunque sea aburrido."
         }
     ]
 }

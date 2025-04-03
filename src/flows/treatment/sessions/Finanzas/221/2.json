@@ -1,19 +1,19 @@
 {
-    "header_text": "Ahorro para reparaciones",
+    "header_text": "Dependencia financiera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu coche necesita reparaciones importantes. Tus amigos te invitan a salir con ellos este fin de semana, pero necesitas ahorrar tu dinero para pagar tu coche. Niegas la invitación de tus amigos y te sientes... "
+            "text": "Tus hijos han estado confiando en ti financieramente, y quieres que comiencen a ser más independientes. Sabes que este es un paso importante, pero la idea de proporcionarles menos apoyo es abrumadora. Al pensar en el futuro, confías en que su independencia financiera será... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Ahorro para reparaciones_Finanzas_puzzle1",
+            "name": "Dependencia financiera_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "bien"
+                "posible"
             ],
             "missing_letter_count": 1
         }

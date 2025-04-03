@@ -1,14 +1,14 @@
 {
-    "header_text": "Sudando a través de tu camisa",
+    "header_text": "Clase de baile",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sudando a través de tu camisa"
+            "text": "Clase de baile"
         },
         {
             "type": "Media",
-            "url": "./images/Sudando_a_través_de_tu_camisa.jpg"
+            "url": "./images/Clase_de_baile.jpg"
         }
     ]
 }

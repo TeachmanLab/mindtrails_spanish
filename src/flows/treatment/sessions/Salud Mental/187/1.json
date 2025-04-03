@@ -1,14 +1,14 @@
 {
-    "header_text": "Manejando tareas",
+    "header_text": "Aplicando a trabajos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Manejando tareas"
+            "text": "Aplicando a trabajos"
         },
         {
             "type": "Media",
-            "url": "./images/Manejando_tareas.jpg"
+            "url": "./images/Aplicando_a_trabajos.jpg"
         }
     ]
 }

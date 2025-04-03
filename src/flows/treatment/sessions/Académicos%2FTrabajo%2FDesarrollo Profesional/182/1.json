@@ -1,14 +1,14 @@
 {
-    "header_text": "Trabajando para salir adelante",
+    "header_text": "Errores en el trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trabajando para salir adelante"
+            "text": "Errores en el trabajo"
         },
         {
             "type": "Media",
-            "url": "./images/Trabajando_para_salir_adelante.jpg"
+            "url": "./images/Errores_en_el_trabajo.jpg"
         }
     ]
 }

@@ -1,24 +1,21 @@
 {
-    "header_text": "Despertándote listo",
+    "header_text": "Nuevo atuendo",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás ancioso sobre tu plan de terminar tus tareas en la mañana?"
+            "text": "Te pones un traje nuevo por la mañana antes de partir por el día. A mitad del día, notas que te sientes un poco diferente con este nuevo conjunto. Te encanta este sentimiento y estás feliz de haber elegido usar el..."
         },
         {
-            "type": "Buttons",
-            "name": "Despertándote listo_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Nuevo atuendo_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "words": [
+                "atuendo"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ]
 }

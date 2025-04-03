@@ -1,14 +1,14 @@
 {
-    "header_text": "Visitando familia",
+    "header_text": "Presentando a tus amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": " Se acerca un fin de semana largo y habías planeado visitar a tu familia. Esta mañana, te das cuenta de que estuviste expuesto a alguien con COVID. Estás vacunado, pero no estás seguro del riesgo de contraer COVID y posiblemente transmitírselo a tu familia. Piensas que tu familia entenderá si decides no ir a visitarlos para... "
+            "text": "Invitaste a tu cónyuge a encontrarse con tus amigos del trabajo esta noche. Sabes que a menudo pueden contar historias vergonzosas sobre ti a otras personas. Piensas en lo que van a hacer esta noche y te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Visitando familia_Vida Familiar y Doméstica_entry1"
+            "name": "Presentando a tus amigos_Vida Familiar y Doméstica_entry1"
         }
     ]
 }

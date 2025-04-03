@@ -1,14 +1,14 @@
 {
-    "header_text": "Hablando con tu jefe",
+    "header_text": "Usando un chiste diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hay una pregunta personal que has querido hacerle a tu jefe por un tiempo, pero no lo has hecho. Te imaginas haciéndola cuando se reunan la próxima vez. Mientras piensas en la pregunta, te sientes..."
+            "text": "Estás intentando pensar en un buen chiste para incluir en el próximo correo que enviarás a tus compañeros de trabajo. Encuentras uno realmente divertido en un sitio web después de hacer una búsqueda rápida, pero esta es la primera vez que terminas tus correos con un chiste. Crees que a tus compañeros les parecerá..."
         },
         {
             "type": "Entry",
-            "name": "Hablando con tu jefe_Situaciones Sociales_entry1"
+            "name": "Usando un chiste diferente_Situaciones Sociales_entry1"
         }
     ]
 }

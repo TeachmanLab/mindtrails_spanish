@@ -1,15 +1,15 @@
 {
-    "header_text": "Resultados de la evaluación",
+    "header_text": "Esperando grandes noticias",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes tolerar tus nervios mientras esperas saber tus resultados?"
+            "Text": "¿Te sientes miserable esperando el correo electrónico importante?"
         },
         {
             "type": "Buttons",
-            "name": "Resultados de la evaluación_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Esperando grandes noticias_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "correct_value": "Sí"
+            "correct_value": "No"
         }
     ]
 }

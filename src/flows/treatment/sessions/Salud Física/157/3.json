@@ -1,15 +1,15 @@
 {
-    "header_text": "Vacacionando en avión",
+    "header_text": "De prisa",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tienes miedo de que no puedas respirar correctamente?"
+            "Text": "¿Es necesario salir del carro porque sientes que tu corazón este latiendo rápidamente?"
         },
         {
             "type": "Buttons",
-            "name": "Vacacionando en avión_Salud Física_comp_question",
+            "name": "De prisa_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

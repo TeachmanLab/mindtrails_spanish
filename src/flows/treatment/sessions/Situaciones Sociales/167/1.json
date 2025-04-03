@@ -1,14 +1,14 @@
 {
-    "header_text": "No invitado a cenar",
+    "header_text": "Pedido de un niño",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "No invitado a cenar"
+            "text": "Pedido de un niño"
         },
         {
             "type": "Media",
-            "url": "./images/No_invitado_a_cenar.jpg"
+            "url": "./images/Pedido_de_un_niño.jpg"
         }
     ]
 }

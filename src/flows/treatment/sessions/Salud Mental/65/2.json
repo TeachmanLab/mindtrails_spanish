@@ -1,19 +1,19 @@
 {
-    "header_text": "Zambullirte",
+    "header_text": "Tiempo para ti mismo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en la piscina local. Está lleno y te das cuenta de que mucha gente podrá verte en traje de baño. Piensas en esto y te sientes..."
+            "text": "Tu parte favorita del día es relajarte para cenar. Cuando empiezas a preparar la cena, te das cuenta de que has estado comiendo solo mucho recientemente, y te sientes triste. Decides que estás bien con este hecho, ya que te da tiempo para reflexionar sobre tu... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Zambullirte_Salud Mental_puzzle1",
+            "name": "Tiempo para ti mismo_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "inseguro"
+                "día"
             ],
             "missing_letter_count": 2
         }

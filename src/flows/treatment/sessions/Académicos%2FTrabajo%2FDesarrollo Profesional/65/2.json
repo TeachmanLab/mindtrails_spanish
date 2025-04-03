@@ -1,19 +1,19 @@
 {
-    "header_text": "Revisando tus cualificaciones",
+    "header_text": "Mercado de trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en una nueva ciudad y necesitas empezar a solicitar trabajos. Comienzas a revisar los requisitos para los puestos y, aunque has trabajado duro para preparar tu currículum, te preguntas si será suficiente. Piensas en tus logros y sabes que has hecho más que..."
+            "text": "Recientemente viste en las noticias que la economía ha estado particularmente mal. Aunque tu jefe normalmente te da buenas críticas, te preguntas si tu trabajo es seguro. Crees que probablemente estarás..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Revisando tus cualificaciones_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "name": "Mercado de trabajo_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "suficiente"
+                "bien"
             ],
             "missing_letter_count": 2
         }

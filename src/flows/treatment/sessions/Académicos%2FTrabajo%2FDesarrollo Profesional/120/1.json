@@ -1,14 +1,14 @@
 {
-    "header_text": "Lograr tus objetivos",
+    "header_text": "Anticipación de entrevista",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Lograr tus objetivos"
+            "text": "Anticipación de entrevista"
         },
         {
             "type": "Media",
-            "url": "./images/Lograr_tus_objetivos.jpg"
+            "url": "./images/Anticipación_de_entrevista.jpg"
         }
     ]
 }

@@ -1,24 +1,24 @@
 {
-    "header_text": "Mantener a la familia",
+    "header_text": "Presiones laborales",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando piensas en hablar con tus hijos sobre su educación, te imaginas diciéndoles:"
+            "Text": "¿Tomarás la decisión correcta para ti?"
         },
         {
             "type": "Buttons",
-            "name": "Mantener a la familia_Finanzas_comp_question",
+            "name": "Presiones laborales_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "\"Te ayudaré a ir a una buena escuela\".",
-                "\"No creo que podamos permitirnos enviarte a esa escuela\"."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "\"No creo que podamos permitirnos enviarte a esa escuela\"."
+            "correct_value": "Sí"
         }
     ]
 }

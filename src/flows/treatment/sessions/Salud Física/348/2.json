@@ -1,19 +1,19 @@
 {
-    "header_text": "Manejando con una amigo",
+    "header_text": "Tos después de salir",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en el carro con un amigo y están manejando a la velocidad límite en la carretera. sientes mariposas en el estómago al ver los coches pasar rápidamente. Esto te hace sentir..."
+            "text": "Durante los últimos días, has empezado a tener una tos. Saliste el fin de semana pasado y te preguntas si podrías haber contraído COVID. Decides hacerte la..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Manejando con una amigo_Salud Física_puzzle1",
+            "name": "Tos después de salir_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "asustado"
+                "prueba"
             ],
             "missing_letter_count": 1
         }

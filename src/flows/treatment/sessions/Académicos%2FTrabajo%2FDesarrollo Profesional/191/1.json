@@ -1,14 +1,14 @@
 {
-    "header_text": "Limitaciones futuras",
+    "header_text": "Presentación de recaudación de fondos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Limitaciones futuras"
+            "text": "Presentación de recaudación de fondos"
         },
         {
             "type": "Media",
-            "url": "./images/Limitaciones_futuras.jpg"
+            "url": "./images/Presentación_de_recaudación_de_fondos.jpg"
         }
     ]
 }

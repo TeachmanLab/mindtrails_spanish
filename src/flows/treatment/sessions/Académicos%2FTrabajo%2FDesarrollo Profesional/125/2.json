@@ -1,19 +1,19 @@
 {
-    "header_text": "Una presentación pequeña",
+    "header_text": "Proyecto eliminado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás trabajando en un proyecto que disfrutas. sin embargo, te acaban de informar que durante la próxima reunión tendrás que dar una presentación oral de cinco minutos al resto del grupo. La noche antes de la presentación, sientes miedo ante la idea de hablar en público, y decides que tu miedo es..."
+            "text": "Tienes que entregar un proyecto importante hoy. Cuando abres tu computadora, no puedes encontrar el archivo en ninguna parte. El proyecto debe haber sido..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Una presentación pequeña_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "name": "Proyecto eliminado_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "tolerable"
+                "eliminado"
             ],
             "missing_letter_count": 1
         }

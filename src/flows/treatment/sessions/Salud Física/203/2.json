@@ -1,14 +1,14 @@
 {
-    "header_text": "Seguridad de la trampolina",
+    "header_text": "Una mesa sucia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus hijos están rebotando en un trampolín. Se están divirtiendo, pero también consideras su seguridad, sabiendo que los trampolines pueden ser peligrosos. Mientras los ves rebotar arriba y abajo en el trampolín, sientes que son bastante... "
+            "text": "Te encuentras con un amigo para almorzar en un nuevo restaurante. Una vez que te sientas, te das cuenta de que tu mesa no fue limpiada después de que los clientes anteriores se fueron, lo que te pone ansioso por los gérmenes. Decides quedarte a almorzar con tu amigo y tu ansiedad es..."
         },
         {
             "type": "Entry",
-            "name": "Seguridad de la trampolina_Salud Física_entry1"
+            "name": "Una mesa sucia_Salud Física_entry1"
         }
     ]
 }

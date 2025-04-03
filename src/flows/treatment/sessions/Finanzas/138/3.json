@@ -1,24 +1,21 @@
 {
-    "header_text": "Manejando tu tarjeta de crédito",
+    "header_text": "Costos inesperados",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Seguirás sintiendo ansiedad por pagar tu tarjeta de crédito?"
+            "text": "Considerando la posibilidad de comprar, decides elaborar un presupuesto para comprar una casa y piensas que manejar la incertidumbre de tus estimaciones será..."
         },
         {
-            "type": "Buttons",
-            "name": "Manejando tu tarjeta de crédito_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Costos inesperados_Finanzas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "words": [
+                "factible"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ]
 }

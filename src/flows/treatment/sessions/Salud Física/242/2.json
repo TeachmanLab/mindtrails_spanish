@@ -1,19 +1,19 @@
 {
-    "header_text": "Controles en el dentista.",
+    "header_text": "Preocupaciones por el ritmo cardíaco",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes una cita de rutina con el dentista y descubres que necesitas algunas pruebas para comprobar la salud de tus encías y dientes. Después de que el dentista realiza las pruebas, continúas recostado en el sillón del dentista mientras esperas los resultados. Crees que tus dientes y encías probablemente estén..."
+            "text": "Estás en un evento y comienzas a hablar con algunos conocidos. A medida que la sala se llena, sientes que tu corazón late rápidamente, y esto te asusta. Cuando el evento se vuelve más ruidoso a medida que llega más gente, consideras irte, pero decides que puedes manejar estos sentimientos y seguir..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Controles en el dentista._Salud Física_puzzle1",
+            "name": "Preocupaciones por el ritmo cardíaco_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "enfermos"
+                "socializando"
             ],
             "missing_letter_count": 1
         }

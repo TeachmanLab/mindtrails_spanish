@@ -1,14 +1,14 @@
 {
-    "header_text": "Solo amigo",
+    "header_text": "Citas en línea",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Solo amigo"
+            "text": "Citas en línea"
         },
         {
             "type": "Media",
-            "url": "./images/Solo_amigo.jpg"
+            "url": "./images/Citas_en_línea.jpg"
         }
     ]
 }

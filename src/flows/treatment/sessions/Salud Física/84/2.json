@@ -1,14 +1,14 @@
 {
-    "header_text": "Boca seca",
+    "header_text": "Poniéndose al día con los amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has sentido sequedad en la boca durante unos días. Esto es algo que no has sentido antes. La probabilidad de que la sequedad de boca signifique un problema de salud grave es..."
+            "text": "Ves a tus amigos al otro lado de la calle y corres hacia ellos. Te sientes un poco desorientado y mareado al llegar a ellos. Consideras lo que esto significa y te das cuenta de que probablemente signifique que corriste..."
         },
         {
             "type": "Entry",
-            "name": "Boca seca_Salud Física_entry1"
+            "name": "Poniéndose al día con los amigos_Salud Física_entry1"
         }
     ]
 }

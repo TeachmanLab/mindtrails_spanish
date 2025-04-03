@@ -1,14 +1,14 @@
 {
-    "header_text": "Oportunidad de espectáculo",
+    "header_text": "Viaje despues de COVID",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Oportunidad de espectáculo"
+            "text": "Viaje despues de COVID"
         },
         {
             "type": "Media",
-            "url": "./images/Oportunidad_de_espectáculo.jpg"
+            "url": "./images/Viaje_despues_de_COVID.jpg"
         }
     ]
 }

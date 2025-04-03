@@ -1,14 +1,14 @@
 {
-    "header_text": "Nuevo atuendo",
+    "header_text": "Enseñando a otros",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nuevo atuendo"
+            "text": "Enseñando a otros"
         },
         {
             "type": "Media",
-            "url": "./images/Nuevo_atuendo.jpg"
+            "url": "./images/Enseñando_a_otros.jpg"
         }
     ]
 }

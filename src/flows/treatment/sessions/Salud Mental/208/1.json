@@ -1,12 +1,14 @@
 {
-    "header_text": "¡Escribe El Tuyo!",
-    "header_icon": [
-        "assets/subtitle.png"
-    ],
+    "header_text": "Comentarios de publicaciones de Instagram",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
+            "type": "Label",
+            "text": "Comentarios de publicaciones de Instagram"
+        },
+        {
+            "type": "Media",
+            "url": "./images/Comentarios_de_publicaciones_de_Instagram.jpg"
         }
     ]
 }

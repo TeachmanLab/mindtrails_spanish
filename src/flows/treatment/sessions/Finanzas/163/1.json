@@ -1,14 +1,14 @@
 {
-    "header_text": "Presupuestar su asignación",
+    "header_text": "Pagando hacia adelante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Presupuestar su asignación"
+            "text": "Pagando hacia adelante"
         },
         {
             "type": "Media",
-            "url": "./images/Presupuestar_su_asignación.jpg"
+            "url": "./images/Pagando_hacia_adelante.jpg"
         }
     ]
 }

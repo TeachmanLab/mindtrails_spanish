@@ -1,0 +1,22 @@
+{
+    "header_text": "Opiniones fuertes: Comportamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu pareja tiene opiniones firmes y no siempre estás de acuerdo con ellas. Una noche, invitas a un amigo a cenar y sientes una posible tensión. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Practico escuchar atentamente con la mente abierta.",
+                "Le digo bruscamente a mi compañero y le digo que se calle.",
+                "Empiezo a enviar un mensaje de texto para cancelar la cena, pero me recuerdo a mí mismo que realmente quiero que mi amigo y mi pareja se conozcan.",
+                "Empiezo a decirle a mi pareja que no diga nada vergonzoso delante de mi amigo, sino que respire hondo.",
+                "Sonrío mientras mi amigo y mi compañero hablan."
+            ],
+            "Duration": 15
+        }
+    ],
+    "show_buttons": "WhenCorrect"
+}

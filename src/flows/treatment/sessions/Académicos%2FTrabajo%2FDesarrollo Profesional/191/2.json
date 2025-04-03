@@ -1,14 +1,14 @@
 {
-    "header_text": "Limitaciones futuras",
+    "header_text": "Presentación de recaudación de fondos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Esta mañana escuchas en las noticia que muchas empresas están reduciendo personal. Piensas en qué sucederá si pierdes tu trabajo. Decides que será posible encontrar otro..."
+            "text": "Te ponen a cargo de los esfuerzos de recaudación de fondos de tu oficina y rápidamente te das cuenta de que a tus compañeros de trabajo no les interesa mucho la recaudación de fondos. En una reunión, das una presentación sobre la importancia de ayudar con la recaudación de fondos, durante la cual tus compañeros de trabajo permanecen callados. Cuando te sientas después de tu presentación, piensas que parecían..."
         },
         {
             "type": "Entry",
-            "name": "Limitaciones futuras_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Presentación de recaudación de fondos_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ]
 }

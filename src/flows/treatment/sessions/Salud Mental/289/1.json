@@ -1,14 +1,14 @@
 {
-    "header_text": "Vaso de agua",
+    "header_text": "Zambullirte",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Vaso de agua"
+            "text": "Zambullirte"
         },
         {
             "type": "Media",
-            "url": "./images/Vaso_de_agua.jpg"
+            "url": "./images/Zambullirte.jpg"
         }
     ]
 }

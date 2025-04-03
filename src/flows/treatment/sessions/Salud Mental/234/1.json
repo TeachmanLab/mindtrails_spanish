@@ -1,14 +1,14 @@
 {
-    "header_text": "Tu nueva publicación",
+    "header_text": "Correo electrónico importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tu nueva publicación"
+            "text": "Correo electrónico importante"
         },
         {
             "type": "Media",
-            "url": "./images/Tu_nueva_publicación.jpg"
+            "url": "./images/Correo_electrónico_importante.jpg"
         }
     ]
 }

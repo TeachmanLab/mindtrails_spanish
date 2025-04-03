@@ -1,14 +1,14 @@
 {
-    "header_text": "Tus habilidades con los bolos",
+    "header_text": "Yendo de vacaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tus habilidades con los bolos"
+            "text": "Yendo de vacaciones"
         },
         {
             "type": "Media",
-            "url": "./images/Tus_habilidades_con_los_bolos.jpg"
+            "url": "./images/Yendo_de_vacaciones.jpg"
         }
     ]
 }

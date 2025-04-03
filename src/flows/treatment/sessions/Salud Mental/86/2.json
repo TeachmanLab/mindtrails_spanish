@@ -1,14 +1,14 @@
 {
-    "header_text": "Una nueva oportunidad",
+    "header_text": "Trabajo inacabado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente recibiste un ascenso increíble en tu trabajo. De repente sientes que no trabajaste lo suficiente para ganarte la oportunidad. Crees que mereces el..."
+            "text": "Tuviste un día muy ocupado y no pudiste realizar todas sus tareas. En la cena, tu pareja habla orgullosamente de cómo terminó todo lo que tenía en la lista de tareas pendientes. Al pensar en si podrás completar tu trabajo mañana, te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Una nueva oportunidad_Salud Mental_entry1"
+            "name": "Trabajo inacabado_Salud Mental_entry1"
         }
     ]
 }

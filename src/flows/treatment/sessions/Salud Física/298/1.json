@@ -1,14 +1,14 @@
 {
-    "header_text": "Serpientes venenosas",
+    "header_text": "Picadura de araña",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Serpientes venenosas"
+            "text": "Picadura de araña"
         },
         {
             "type": "Media",
-            "url": "./images/Serpientes_venenosas.jpg"
+            "url": "./images/Picadura_de_araña.jpg"
         }
     ]
 }

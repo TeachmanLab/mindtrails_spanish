@@ -1,14 +1,14 @@
 {
-    "header_text": "Desordenado para vivir",
+    "header_text": "Atención en la tienda",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Desordenado para vivir"
+            "text": "Atención en la tienda"
         },
         {
             "type": "Media",
-            "url": "./images/Desordenado_para_vivir.jpg"
+            "url": "./images/Atención_en_la_tienda.jpg"
         }
     ]
 }

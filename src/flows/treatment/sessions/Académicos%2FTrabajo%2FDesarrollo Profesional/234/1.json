@@ -1,14 +1,14 @@
 {
-    "header_text": "Permitiendo que otros vean tu trabajo",
+    "header_text": "Resultados de la evaluación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Permitiendo que otros vean tu trabajo"
+            "text": "Resultados de la evaluación"
         },
         {
             "type": "Media",
-            "url": "./images/Permitiendo_que_otros_vean_tu_trabajo.jpg"
+            "url": "./images/Resultados_de_la_evaluación.jpg"
         }
     ]
 }

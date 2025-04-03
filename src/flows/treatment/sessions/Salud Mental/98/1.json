@@ -1,14 +1,14 @@
 {
-    "header_text": "Fiesta con amigos",
+    "header_text": "Enseñando a otros",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Fiesta con amigos"
+            "text": "Enseñando a otros"
         },
         {
             "type": "Media",
-            "url": "./images/Fiesta_con_amigos.jpg"
+            "url": "./images/Enseñando_a_otros.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Participación en las redes sociales",
+    "header_text": "Resultados de análisis de sangre",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Participación en las redes sociales"
+            "text": "Resultados de análisis de sangre"
         },
         {
             "type": "Media",
-            "url": "./images/Participación_en_las_redes_sociales.jpg"
+            "url": "./images/Resultados_de_análisis_de_sangre.jpg"
         }
     ]
 }

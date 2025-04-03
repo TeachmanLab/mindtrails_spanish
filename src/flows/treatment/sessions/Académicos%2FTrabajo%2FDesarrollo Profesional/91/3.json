@@ -1,14 +1,14 @@
 {
-    "header_text": "Expresando tus ideas",
+    "header_text": "Resultados de la evaluación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras trabajas en un proyecto de grupo colaborativo en el trabajo, compartes tus ideas con tu grupo. Los demás miembros del grupo no reaccionan. Deben estar pensando en el..."
+            "text": "El tiempo para las evaluaciones del trabajo acaba de cerrar y no estás seguro de si saliste bien o no. Te sientes nervioso al pensar en cómo te calificaron otras personas. Piensas que estar nervioso es..."
         },
         {
             "type": "Entry",
-            "name": "Expresando tus ideas_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Resultados de la evaluación_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ]
 }

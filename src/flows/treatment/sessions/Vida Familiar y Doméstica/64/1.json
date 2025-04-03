@@ -1,14 +1,14 @@
 {
-    "header_text": "Apartamento nuevo para ti",
+    "header_text": "Desacuerdos con tu hermana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Apartamento nuevo para ti"
+            "text": "Desacuerdos con tu hermana"
         },
         {
             "type": "Media",
-            "url": "./images/Apartamento_nuevo_para_ti.jpg"
+            "url": "./images/Desacuerdos_con_tu_hermana.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Trabajos bien pagados",
+    "header_text": "Presentación de impuestos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trabajos bien pagados"
+            "text": "Presentación de impuestos"
         },
         {
             "type": "Media",
-            "url": "./images/Trabajos_bien_pagados.jpg"
+            "url": "./images/Presentación_de_impuestos.jpg"
         }
     ]
 }

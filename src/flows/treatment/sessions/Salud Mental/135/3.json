@@ -1,21 +1,24 @@
 {
-    "header_text": "Sentado en una reunión",
+    "header_text": "Clima lluvioso",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Tomas un poco de agua y comienzas a sentirte más despierto, recordando que anoche no dormiste tanto como de costumbre. Decides que simplemente estás..."
+            "Text": "¿La tristeza de hoy va a durar para siempre?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Sentado en una reunión_Salud Mental_puzzle_word2",
+            "type": "Buttons",
+            "name": "Clima lluvioso_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "cansado"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

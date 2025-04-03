@@ -1,14 +1,14 @@
 {
-    "header_text": "Tu primer hijo",
+    "header_text": "Una oportunidad perdida",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Acabas de tener tu primer hijo. Quieres tener una buena relación durante toda la vida de tu hijo, pero te preocupa cometer errores como..."
+            "type": "Label",
+            "text": "Una oportunidad perdida"
         },
         {
-            "type": "Entry",
-            "name": "Tu primer hijo_Salud Mental_entry1"
+            "type": "Media",
+            "url": "./images/Una_oportunidad_perdida.jpg"
         }
     ]
 }

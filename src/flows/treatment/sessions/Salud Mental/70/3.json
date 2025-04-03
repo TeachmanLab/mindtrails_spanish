@@ -1,14 +1,14 @@
 {
-    "header_text": "Tu primer hijo",
+    "header_text": "Una oportunidad perdida",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando su hijo sea adulto, no crees que se resentirá con tigo y crees que la relación será..."
+            "text": "Estás manejando de regreso a casa después de un partido de fútbol que tu equipo ganó. Mientras tu mente divaga, piensas en el único gol que fallaste. En general, consideras que tu desempeño fue un..."
         },
         {
             "type": "Entry",
-            "name": "Tu primer hijo_Salud Mental_entry2"
+            "name": "Una oportunidad perdida_Salud Mental_entry1"
         }
     ]
 }

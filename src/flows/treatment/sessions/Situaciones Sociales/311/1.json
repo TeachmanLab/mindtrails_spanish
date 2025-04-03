@@ -1,14 +1,14 @@
 {
-    "header_text": "Recogiendo a un viejo amigo",
+    "header_text": "Opiniones inusuales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Recogiendo a un viejo amigo"
+            "text": "Opiniones inusuales"
         },
         {
             "type": "Media",
-            "url": "./images/Recogiendo_a_un_viejo_amigo.jpg"
+            "url": "./images/Opiniones_inusuales.jpg"
         }
     ]
 }

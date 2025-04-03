@@ -1,21 +1,24 @@
 {
-    "header_text": "Ahorrando dinero",
+    "header_text": "Realizando cambios",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Al pensar en reducir tus gastos, no te imaginas gastando demasiado otra vez, y crees que ahorrar lo suficiente para tu viaje es..."
+            "Text": "¿Estarás financieramente estable en el futuro?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Ahorrando dinero_Finanzas_puzzle_word2",
+            "type": "Buttons",
+            "name": "Realizando cambios_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "factible"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Sí"
         }
     ]
 }

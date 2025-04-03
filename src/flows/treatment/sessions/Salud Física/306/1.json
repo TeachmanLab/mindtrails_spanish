@@ -1,14 +1,14 @@
 {
-    "header_text": "Caminando para despejar la mente",
+    "header_text": "sintiéndote mareado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Caminando para despejar la mente"
+            "text": "sintiéndote mareado"
         },
         {
             "type": "Media",
-            "url": "./images/Caminando_para_despejar_la_mente.jpg"
+            "url": "./images/sintiéndote_mareado.jpg"
         }
     ]
 }

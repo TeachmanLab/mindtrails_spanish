@@ -1,14 +1,14 @@
 {
-    "header_text": "Tartamudeo en la oficina",
+    "header_text": "Aplicando a trabajos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Estás hablando con tu supervisor en su oficina. Te das cuenta de que estás tartamudeando un poco más de lo normal. A medida que continúa la conversación, decides que está..."
+            "type": "Label",
+            "text": "Aplicando a trabajos"
         },
         {
-            "type": "Entry",
-            "name": "Tartamudeo en la oficina_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "type": "Media",
+            "url": "./images/Aplicando_a_trabajos.jpg"
         }
     ]
 }

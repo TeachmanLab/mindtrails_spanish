@@ -1,14 +1,14 @@
 {
-    "header_text": "Nuevo estilo",
+    "header_text": "Manejando tareas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vas de compras a tu tienda de ropa favorita. Ves un conjunto que te encanta pero no crees que sea adecuado para tu tipo de cuerpo. Después de conseguirlo y probártelo, quieres comprarlo a pesar de que no es algo que usas..."
+            "text": "Has estado muy ocupado estos últimos meses y no has tenido tiempo para trabajar en tu propio desarrollo profesional. Uno de tus colegas también está muy ocupado, y sin embargo, recibió un ascenso. Esto te hace sentir como un..."
         },
         {
             "type": "Entry",
-            "name": "Nuevo estilo_Salud Mental_entry1"
+            "name": "Manejando tareas_Salud Mental_entry1"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Proyecto eliminado",
+    "header_text": "sin aliento",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Proyecto eliminado"
+            "text": "sin aliento"
         },
         {
             "type": "Media",
-            "url": "./images/Proyecto_eliminado.jpg"
+            "url": "./images/sin_aliento.jpg"
         }
     ]
 }

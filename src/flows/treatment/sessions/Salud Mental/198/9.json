@@ -1,0 +1,22 @@
+{
+    "header_text": "Maquinas apagadas: Sentimientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tú y tu familia van a salir de la ciudad por unos días y tu pareja te pide que revises que todos los electrodomésticos de tu casa estén apagados antes de partir. Tenías que apresurarte a hacer las maletas, así que no pudiste comprobarlo todo. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Me siento miserable preocupándome por si todo está mal, pero recuerdo concentrarme en el presente y respirar profundamente.",
+                "Me preocupa que la casa se queme, pero sé que puedo tolerar este sentimiento y pasará.",
+                "Me siento tranquilo ahora que estoy en el auto y saliendo de la ciudad con mi familia.",
+                "Tengo miedo de que nuestra casa se queme.",
+                "Estoy satisfecho de haber revisado los electrodomésticos que pude al salir."
+            ],
+            "Duration": 15
+        }
+    ],
+    "show_buttons": "WhenCorrect"
+}

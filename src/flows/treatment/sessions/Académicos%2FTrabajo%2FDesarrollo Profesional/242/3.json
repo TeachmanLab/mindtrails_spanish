@@ -1,21 +1,24 @@
 {
-    "header_text": "Cafetería",
+    "header_text": "Cambiando tu trayectoria",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Después de limpiar el desorden lo mejor que puedes, te das cuenta de que su reacción fue normal, una respuesta rápida. Te dicen que no están molestos contigo, y crees que son..."
+            "Text": "Dado tu probable resultado en el mercado laboral, tu mejor opción es..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Cafetería_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
+            "type": "Buttons",
+            "name": "Cambiando tu trayectoria_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "sinceros"
+            "buttons": [
+                "Quedarte quieto aunque sea aburrido.",
+                "Intentar encontrar un trabajo en algún lugar que realmente te desafíe."
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Quedarte quieto aunque sea aburrido."
         }
     ]
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "sin aliento",
+    "header_text": "Despertándote mareado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Durante una caminata este el fin de semana, notaste que te quedabas sin aliento más rápido de lo normal. Recuerdas que el COVID afecta a los pulmones y comienzas sentir pánico. Afortunadamente, sabes que has estado usando tu mascarilla y has hecho todo lo posible para prevenir el..."
+            "text": "Cuando te despiertas en la mañana, te sientas rápidamente. Tu visión se vuelve borrosa y luego todo se pone negro por un momento. Tu visión regresa despues de ese momento, y te convences que te estás quedando... "
         },
         {
             "type": "WordPuzzle",
-            "name": "sin aliento_Salud Física_puzzle1",
+            "name": "Despertándote mareado_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "COVID"
+                "siego"
             ],
             "missing_letter_count": 1
         }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Permitirse la educación",
+    "header_text": "Tratarse a sí mismo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Permitirse la educación"
+            "text": "Tratarse a sí mismo"
         },
         {
             "type": "Media",
-            "url": "./images/Permitirse_la_educación.jpg"
+            "url": "./images/Tratarse_a_sí_mismo.jpg"
         }
     ]
 }

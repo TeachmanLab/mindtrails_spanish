@@ -1,14 +1,14 @@
 {
-    "header_text": "Preocuparse por los ahorros",
+    "header_text": "Buscando una casa",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Preocuparse por los ahorros"
+            "text": "Buscando una casa"
         },
         {
             "type": "Media",
-            "url": "./images/Preocuparse_por_los_ahorros.jpg"
+            "url": "./images/Buscando_una_casa.jpg"
         }
     ]
 }

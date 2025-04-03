@@ -1,19 +1,19 @@
 {
-    "header_text": "Sentir presión al salir",
+    "header_text": "Comparando salarios",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Uno de tus amigos te invita a un evento, pero tienes que pagar un gran tarifa para entrar. No quieres herir los sentimientos de tu amigo, pero sabes que no tienes dinero para ir al evento en este momento. Decides ser honesto con tu amigo y rechazar la invitación para mantenerte al dia con tu..."
+            "text": "Estás hablando con amigos sobre el trabajo y comienzas a discutir cuánto dinero gana cada uno. Te das cuenta de que algunos de tus amigos tienen salarios significativamente más altos que el tuyo. Al reflexionar sobre lo que esto significa para tu amistad, piensas que no..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Sentir presión al salir_Finanzas_puzzle1",
+            "name": "Comparando salarios_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "presupuesto"
+                "importa"
             ],
             "missing_letter_count": 2
         }

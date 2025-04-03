@@ -1,14 +1,14 @@
 {
-    "header_text": "Invitar a alguien",
+    "header_text": "Prepararte para tener éxito",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Invitas a un compañero de trabajo a cenar una noche y estás a cargo de la comida. No eres el mejor cocinero y podrías avergonzarte delante de tu compañero de trabajo. Cuando llega tu compañero de trabajo, estás..."
+            "text": "En tu reunión de hoy, tienes una presentación importante. Para seguir las instrucciones de tu jefe, debes presentar por 15 minutos. Cuando piensas en completar esta presentación, te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Invitar a alguien_Situaciones Sociales_entry1"
+            "name": "Prepararte para tener éxito_Situaciones Sociales_entry1"
         }
     ]
 }

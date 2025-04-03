@@ -1,14 +1,14 @@
 {
-    "header_text": "Esperando una respuesta",
+    "header_text": "Dando una presentación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Esperando una respuesta"
+            "text": "Dando una presentación"
         },
         {
             "type": "Media",
-            "url": "./images/Esperando_una_respuesta.jpg"
+            "url": "./images/Dando_una_presentación.jpg"
         }
     ]
 }

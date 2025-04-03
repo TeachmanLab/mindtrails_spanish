@@ -1,14 +1,14 @@
 {
-    "header_text": "Un vuelo internacional",
+    "header_text": "El malestar de estómago",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás viajando a otro país. Durante el vuelo, miras por la ventana y te das cuenta de que nunca has estado tan alto sobre el océano. Te sientes..."
+            "text": "Te has estado sintiendo mal del estómago durante unos días. Tú haces una cita con su médico. Las náuseas probablemente significan que usted está..."
         },
         {
             "type": "Entry",
-            "name": "Un vuelo internacional_Salud Física_entry1"
+            "name": "El malestar de estómago_Salud Física_entry1"
         }
     ]
 }

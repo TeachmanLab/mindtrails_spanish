@@ -1,19 +1,19 @@
 {
-    "header_text": "Dolor de garganta en la cena",
+    "header_text": "Desordenado para vivir",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Haces planes para salir a cenar con un amigo, pero no estás seguro de si has estado con un grupo grande de personas recientemente. Cuando llegan a cenar, siguen tomando sorbos de agua y explican que les hace cosquillas en la garganta. Supongo que probablemente sea por hablar mucho durante la..."
+            "text": "Tu pareja no ha estado en casa mucho recientemente. sin embargo, cuando llegan a casa, dejan su basura en la mesa, boronas en el mostrador, y nunca le ponen seguro a la puerta cuando salen. Piensas que es hora de hablar con tu... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Dolor de garganta en la cena_Situaciones Sociales_puzzle1",
+            "name": "Desordenado para vivir_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "cena"
+                "pareja"
             ],
             "missing_letter_count": 1
         }

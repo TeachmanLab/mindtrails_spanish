@@ -1,14 +1,14 @@
 {
-    "header_text": "Permitirse la educación",
+    "header_text": "Costear la terapia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus hijos están pensando en ir a la universidad, pero tú piensas que tendrías que pedir un préstamo para ayudar a enviarlos. Recuerdas historias que has escuchado de personas que todavía pagan sus préstamos cuando están... "
+            "text": "Has estado queriendo ir a terapia por un tiempo. sin embargo, no está seguro de si tiene el presupuesto para pagarlo. Piensas que es probable que encuentre un proveedor cuyos servicios son... "
         },
         {
             "type": "Entry",
-            "name": "Permitirse la educación_Finanzas_entry1"
+            "name": "Costear la terapia_Finanzas_entry1"
         }
     ]
 }

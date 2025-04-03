@@ -1,19 +1,19 @@
 {
-    "header_text": "Proyecto eliminado",
+    "header_text": "sin aliento",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Respiras hondo y decides contarle a tu jefe lo sucedido. Tú te sientes..."
+            "text": "Te recuerdas a ti mismo que es normal necesitar recuperar el aliento después de correr y que la gente sólo te mirará durante unos segundos. Encuentras tu asiento y empiezas a..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Proyecto eliminado_Salud Mental_puzzle_word2",
+            "name": "sin aliento_Salud Mental_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "bien"
+                "relajarte"
             ],
             "missing_letter_count": 1
         }

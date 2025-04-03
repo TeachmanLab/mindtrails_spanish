@@ -1,24 +1,21 @@
 {
-    "header_text": "Cambiando tu trayectoria",
+    "header_text": "Una llamada crucial",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": ""
+            "text": "Hoy recibirás una llamada importante. Te dirán si recibiste el trabajo para el que entrevistaste. Mientras piensas en esperar la llamada, tu ansiedad es..."
         },
         {
-            "type": "Buttons",
-            "name": "Cambiando tu trayectoria_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "Una llamada crucial_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "",
-                ""
+            "words": [
+                "tolerable"
             ],
-            "columnCount": 1,
-            "correct_value": ""
+            "missing_letter_count": 2
         }
     ]
 }

@@ -1,21 +1,24 @@
 {
-    "header_text": "Iniciando un negocio pequeño",
+    "header_text": "Mantener a la familia",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Pensando en el futuro de tu negocio, tu empresa no fracasará y será un..."
+            "Text": "Cuando piensas en hablar con tus hijos sobre su educación, te imaginas diciéndoles:"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Iniciando un negocio pequeño_Finanzas_puzzle_word2",
+            "type": "Buttons",
+            "name": "Mantener a la familia_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "éxito"
+            "buttons": [
+                "\"No creo que podamos permitirnos enviarte a esa escuela\".",
+                "\"Te ayudaré a ir a una buena escuela\"."
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "\"No creo que podamos permitirnos enviarte a esa escuela\"."
         }
     ]
 }

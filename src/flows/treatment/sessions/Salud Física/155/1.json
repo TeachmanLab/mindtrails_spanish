@@ -1,14 +1,14 @@
 {
-    "header_text": "De prisa",
+    "header_text": "Probando comidas nuevas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "De prisa"
+            "text": "Probando comidas nuevas"
         },
         {
             "type": "Media",
-            "url": "./images/De_prisa.jpg"
+            "url": "./images/Probando_comidas_nuevas.jpg"
         }
     ]
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Revisando tu trabajo",
+    "header_text": "Opiniones fuertes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te han llamado para una evaluación de desempeño con tu jefe. En general, haces un buen trabajo, pero sabes que tu jefe ha notado algunos errores recientemente. Mientras te preparas para la revisión, piensas que tu reunión probablemente se centrará en tus..."
+            "text": "Ha llegado la mañana de tu primera evaluación con tu nuevo jefe. Te dicen que tienen opiniones firmes sobre tu trabajo. Piensas que probablemente encuentran tu trabajo..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Revisando tu trabajo_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "name": "Opiniones fuertes_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "defectos"
+                "excelente"
             ],
             "missing_letter_count": 2
         }

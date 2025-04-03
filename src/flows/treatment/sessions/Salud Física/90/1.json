@@ -1,14 +1,11 @@
 {
-    "header_text": "Lecciones Aprendidas",
+    "header_text": "Maneja tus sentimientos: Salud Física",
     "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "Text": "¡Excelente trabajo! ¡Estás haciendo un gran progreso al probar nuevas perspectivas relacionadas con la salud física! Tómate unos minutos para reflexionar sobre los cuentos cortos que has leído hasta ahora. ¿Qué has aprendido? ¿Cuáles son tus principales conclusiones? Por ejemplo, podrías notar que sensaciones incómodas en tu cuerpo, como un corazón acelerado, a menudo no son peligrosas."
-        },
-        {
-            "type": "Entry",
-            "name": "lessons_learned_Salud Física_80"
+            "text": "Establezca una hora/fecha en la que tomará una decisión sobre si necesita consultar a un médico (por ejemplo, si todavía me siento mal dentro de 3 días, programaré una cita)"
         }
     ]
 }

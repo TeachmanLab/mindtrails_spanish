@@ -1,14 +1,14 @@
 {
-    "header_text": "Película intermitente",
+    "header_text": "Cómodo sofá",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Película intermitente"
+            "text": "Cómodo sofá"
         },
         {
             "type": "Media",
-            "url": "./images/Película_intermitente.jpg"
+            "url": "./images/Cómodo_sofá.jpg"
         }
     ]
 }

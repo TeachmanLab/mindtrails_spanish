@@ -1,11 +1,14 @@
 {
-    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
+    "header_text": "Genio cómico",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Text",
-            "text": "Renovar viejas amistades puede ser tan gratificante como comenzar otras nuevas. "
+            "type": "Label",
+            "text": "Genio cómico"
+        },
+        {
+            "type": "Media",
+            "url": "./images/Genio_cómico.jpg"
         }
     ]
 }

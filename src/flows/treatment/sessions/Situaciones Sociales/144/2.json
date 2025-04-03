@@ -1,19 +1,19 @@
 {
-    "header_text": "La nueva ciudad",
+    "header_text": "Planes de cena",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Llevas unos meses viviendo en una ciudad nueva y has tenido problemas para hacer nuevos amigos. Has estado muy ocupado desde que te mudaste, pero sabes que es importante establecer buenas relaciones aquí en tu nuevo hogar. Cuando piensas en la vida en tu nueva ciudad, crees que estarás..."
+            "text": "Un amigo te dijo que se iba a reunir con tigo para cenar en tu restaurante favorito una noche. Le mandas un mensaje esa mañana para preguntarle a que hora se reunirán. Ya es la tarde pero no te han contestado y estás bien enojado. Piensas que probablemente está ocupado en el..."
         },
         {
             "type": "WordPuzzle",
-            "name": "La nueva ciudad_Situaciones Sociales_puzzle1",
+            "name": "Planes de cena_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "solo"
+                "trabajo"
             ],
             "missing_letter_count": 2
         }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Mercado de trabajo",
+    "header_text": "Sección eliminada",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mercado de trabajo"
+            "text": "Sección eliminada"
         },
         {
             "type": "Media",
-            "url": "./images/Mercado_de_trabajo.jpg"
+            "url": "./images/Sección_eliminada.jpg"
         }
     ]
 }

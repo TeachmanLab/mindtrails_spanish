@@ -1,14 +1,21 @@
 {
-    "header_text": "Nadando vueltas",
+    "header_text": "Expresándote",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Nadando vueltas"
+            "type": "Text",
+            "text": "En el trabajo, tu jefe te da la responsabilidad de resolver un problema complicado. Tienes una idea que crees que podría funcionar, pero te preguntas si es demasiado simplista. Mientras consideras compartir tu idea, decides..."
         },
         {
-            "type": "Media",
-            "url": "./images/Nadando_vueltas.jpg"
+            "type": "WordPuzzle",
+            "name": "Expresándote_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "words": [
+                "intentarlo"
+            ],
+            "missing_letter_count": 1
         }
     ]
 }

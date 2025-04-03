@@ -1,14 +1,14 @@
 {
-    "header_text": "Mantener a la familia",
+    "header_text": "Emoción prospectiva",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mantener a la familia"
+            "text": "Emoción prospectiva"
         },
         {
             "type": "Media",
-            "url": "./images/Mantener_a_la_familia.jpg"
+            "url": "./images/Emoción_prospectiva.jpg"
         }
     ]
 }

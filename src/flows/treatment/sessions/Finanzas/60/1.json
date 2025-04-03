@@ -1,14 +1,14 @@
 {
-    "header_text": "Mantener a la familia",
+    "header_text": "Ir a la quiebra",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mantener a la familia"
+            "text": "Ir a la quiebra"
         },
         {
             "type": "Media",
-            "url": "./images/Mantener_a_la_familia.jpg"
+            "url": "./images/Ir_a_la_quiebra.jpg"
         }
     ]
 }

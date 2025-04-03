@@ -1,19 +1,19 @@
 {
-    "header_text": "Prueba positiva",
+    "header_text": "Alergias de primavera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente hiciste una prueba de COVID y esperas los resultados hoy. Estás en medio de una reunión cuando escuchas que suena tu teléfono y te preguntas si tu prueba fue positiva o negativa. Revisas tu teléfono y ves que diste..."
+            "text": "Es un día frío en primavera y estás caminando afuera en el parque, jugando fútbol. Al pasar por los árboles, te sientes cada vez más congestionado y adolorido. Empiezas a sentir..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Prueba positiva_Salud Física_puzzle1",
+            "name": "Alergias de primavera_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "positivo"
+                "miedo"
             ],
             "missing_letter_count": 1
         }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Opinión importante",
+    "header_text": "Amigos pasando tiempo juntos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Terminas una tarea que tienes que entregar la próxima semana para le pides la opinión a tu jefe. Te dicen que el trabajo está bien, excepto por una sección incompleta. sientes que piensan que eres..."
+            "text": "Mientras te desplazas por tus redes sociales, ves que tus amigos salieron sin ti anoche. No recibiste una invitación para salir con ellos. Te das cuenta de que a veces tus amigos pasan tiempo sin ti y que la próxima vez puedes..."
         },
         {
             "type": "Entry",
-            "name": "Opinión importante_Situaciones Sociales_entry1"
+            "name": "Amigos pasando tiempo juntos_Situaciones Sociales_entry1"
         }
     ]
 }

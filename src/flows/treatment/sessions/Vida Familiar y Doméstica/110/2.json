@@ -1,19 +1,19 @@
 {
-    "header_text": "Pasando tiempo con familia",
+    "header_text": "Presentando a tus amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás yendo a ver a tu familia para unas vacaciones. Disfrutas de ver a tu familia, pero recientemente ha sido más difícil salir a verlos. Cuando imaginas la cantidad de tiempo que pasarás con tus familiares en los próximos años, no estás preocupado de que tu relación se deteriore, y crees que tu familia se mantendrá..."
+            "text": "Invitaste a tu cónyuge a encontrarse con tus amigos del trabajo esta noche. Sabes que a menudo pueden contar historias vergonzosas sobre ti a otras personas. Piensas en lo que van a hacer esta noche y te sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Pasando tiempo con familia_Vida Familiar y Doméstica_puzzle1",
+            "name": "Presentando a tus amigos_Vida Familiar y Doméstica_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "conectada"
+                "tranquilo"
             ],
             "missing_letter_count": 1
         }

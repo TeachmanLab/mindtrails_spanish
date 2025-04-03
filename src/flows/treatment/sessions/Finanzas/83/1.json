@@ -1,14 +1,14 @@
 {
-    "header_text": "Iniciando un negocio pequeño",
+    "header_text": "Gestión de crédito",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Iniciando un negocio pequeño"
+            "text": "Gestión de crédito"
         },
         {
             "type": "Media",
-            "url": "./images/Iniciando_un_negocio_pequeño.jpg"
+            "url": "./images/Gestión_de_crédito.jpg"
         }
     ]
 }

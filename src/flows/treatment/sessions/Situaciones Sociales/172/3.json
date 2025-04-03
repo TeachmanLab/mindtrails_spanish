@@ -1,24 +1,24 @@
 {
-    "header_text": "Un saludo de bienvenida",
+    "header_text": "Rechazar una bebida",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Mientras abrazas a tu amigo te sientes..."
+            "Text": "¿Tus amigos te juzgan por no beber?"
         },
         {
             "type": "Buttons",
-            "name": "Un saludo de bienvenida_Situaciones Sociales_comp_question",
+            "name": "Rechazar una bebida_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Como si no pudieras respirar.",
-                "Extrañado y amado."
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "Extrañado y amado."
+            "correct_value": "No"
         }
     ]
 }

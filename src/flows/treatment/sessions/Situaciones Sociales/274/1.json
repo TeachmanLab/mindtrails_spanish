@@ -1,14 +1,14 @@
 {
-    "header_text": "Fiesta sensacional",
+    "header_text": "Broma interna",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Fiesta sensacional"
+            "text": "Broma interna"
         },
         {
             "type": "Media",
-            "url": "./images/Fiesta_sensacional.jpg"
+            "url": "./images/Broma_interna.jpg"
         }
     ]
 }

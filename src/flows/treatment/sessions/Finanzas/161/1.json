@@ -1,14 +1,14 @@
 {
-    "header_text": "Pagando hacia adelante",
+    "header_text": "Comprando ropa nueva",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pagando hacia adelante"
+            "text": "Comprando ropa nueva"
         },
         {
             "type": "Media",
-            "url": "./images/Pagando_hacia_adelante.jpg"
+            "url": "./images/Comprando_ropa_nueva.jpg"
         }
     ]
 }

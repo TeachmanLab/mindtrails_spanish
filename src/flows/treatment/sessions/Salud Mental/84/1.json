@@ -1,14 +1,14 @@
 {
-    "header_text": "Probando comidas nuevas",
+    "header_text": "sintiéndote ansioso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Probando comidas nuevas"
+            "text": "sintiéndote ansioso"
         },
         {
             "type": "Media",
-            "url": "./images/Probando_comidas_nuevas.jpg"
+            "url": "./images/sintiéndote_ansioso.jpg"
         }
     ]
 }

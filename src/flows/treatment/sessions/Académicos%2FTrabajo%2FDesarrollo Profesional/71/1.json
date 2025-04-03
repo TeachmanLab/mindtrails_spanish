@@ -1,14 +1,14 @@
 {
-    "header_text": "Contribuir a una discusión",
+    "header_text": "Errores tipográficos problemáticos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Contribuir a una discusión"
+            "text": "Errores tipográficos problemáticos"
         },
         {
             "type": "Media",
-            "url": "./images/Contribuir_a_una_discusión.jpg"
+            "url": "./images/Errores_tipográficos_problemáticos.jpg"
         }
     ]
 }

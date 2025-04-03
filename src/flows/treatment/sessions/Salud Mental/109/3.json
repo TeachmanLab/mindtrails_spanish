@@ -1,24 +1,24 @@
 {
-    "header_text": "No sentirte preparado",
+    "header_text": "Despertándote listo",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus compañeros están más prepaados que ti?"
+            "Text": "¿Estás ancioso sobre tu plan de terminar tus tareas en la mañana?"
         },
         {
             "type": "Buttons",
-            "name": "No sentirte preparado_Salud Mental_comp_question",
+            "name": "Despertándote listo_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "Sí"
+            "correct_value": "No"
         }
     ]
 }

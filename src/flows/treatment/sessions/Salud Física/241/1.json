@@ -1,14 +1,14 @@
 {
-    "header_text": "Paracaidismo por primera vez",
+    "header_text": "Sala de espera del hospital",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Paracaidismo por primera vez"
+            "text": "Sala de espera del hospital"
         },
         {
             "type": "Media",
-            "url": "./images/Paracaidismo_por_primera_vez.jpg"
+            "url": "./images/Sala_de_espera_del_hospital.jpg"
         }
     ]
 }

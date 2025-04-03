@@ -1,15 +1,15 @@
 {
-    "header_text": "Vacacionando en avión",
+    "header_text": "Controles en el dentista.",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tienes miedo de que no puedas respirar correctamente?"
+            "Text": "¿Crees que tienes enfermedad de las encías?"
         },
         {
             "type": "Buttons",
-            "name": "Vacacionando en avión_Salud Física_comp_question",
+            "name": "Controles en el dentista._Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
@@ -18,7 +18,7 @@
                 "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Sí"
         }
     ]
 }

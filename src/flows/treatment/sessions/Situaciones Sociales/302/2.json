@@ -1,14 +1,14 @@
 {
-    "header_text": "Palabra tropiezo",
+    "header_text": "Manchas de sudor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes que hacer una presentación sobre tu trabajo a tus compañeros y a tu jefe. Al empezar, te topas con las primeras palabras. siguiendo con ello, crees que tu desempeño será evaluado..."
+            "text": "Es un día caliente y tú y tus amigos están caminando afuera. Notas que estás empezando a sudar y puedes ver algunas manchas en tu camiseta. Conoces bien a estos amigos y no les..."
         },
         {
             "type": "Entry",
-            "name": "Palabra tropiezo_Situaciones Sociales_entry1"
+            "name": "Manchas de sudor_Situaciones Sociales_entry1"
         }
     ]
 }

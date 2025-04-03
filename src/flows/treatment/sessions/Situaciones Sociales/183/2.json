@@ -1,14 +1,14 @@
 {
-    "header_text": "Conociendo alguien nuevo",
+    "header_text": "Tocando el piano",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en una fiesta de cumpleaños para un amigo. Comienzas a sentir un nudo en el estómago mientras hablas con un desconocido. Esto probablemente significa que estás..."
+            "text": "Mientras estás en la casa de un amigo para una cena, tu amigo menciona que eres un buen pianista y te pide que toques algo en el piano para los demás invitados. Conoces algunas piezas que puedes tocar bien, pero te sientes nervioso tocando en el momento sin práctica. Acercándote al piano, piensas que los invitados van a estar... "
         },
         {
             "type": "Entry",
-            "name": "Conociendo alguien nuevo_Situaciones Sociales_entry1"
+            "name": "Tocando el piano_Situaciones Sociales_entry1"
         }
     ]
 }

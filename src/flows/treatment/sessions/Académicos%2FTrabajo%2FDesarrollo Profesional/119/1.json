@@ -1,14 +1,14 @@
 {
-    "header_text": "Anticipación de entrevista",
+    "header_text": "Presentación importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Anticipación de entrevista"
+            "text": "Presentación importante"
         },
         {
             "type": "Media",
-            "url": "./images/Anticipación_de_entrevista.jpg"
+            "url": "./images/Presentación_importante.jpg"
         }
     ]
 }

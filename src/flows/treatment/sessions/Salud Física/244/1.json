@@ -1,14 +1,14 @@
 {
-    "header_text": "Tajada de fruta",
+    "header_text": "Hora para dormir",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tajada de fruta"
+            "text": "Hora para dormir"
         },
         {
             "type": "Media",
-            "url": "./images/Tajada_de_fruta.jpg"
+            "url": "./images/Hora_para_dormir.jpg"
         }
     ]
 }

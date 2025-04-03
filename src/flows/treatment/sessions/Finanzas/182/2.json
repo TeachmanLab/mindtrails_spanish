@@ -1,14 +1,14 @@
 {
-    "header_text": "Escándalo de ahorro",
+    "header_text": "Permitirse la educación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente has estado poniendo dinero en ahorros, para tener en caso de emergencias. La factura de tu tarjeta de crédito era más cara de lo que esperabas este mes, y tuviste que tomar una gran cantidad de dinero de tus ahorros para pagarla. Decides que esto está bien, y que hay mucho tiempo para aumentar tus... "
+            "text": "Tus hijos están pensando en ir a la universidad, pero tú piensas que tendrías que pedir un préstamo para ayudar a enviarlos. Recuerdas historias que has escuchado de personas que todavía pagan sus préstamos cuando están jubilados. Imagínate a ti mismo en la jubilación, piensas que tus préstamos estarán... "
         },
         {
             "type": "Entry",
-            "name": "Escándalo de ahorro_Finanzas_entry1"
+            "name": "Permitirse la educación_Finanzas_entry1"
         }
     ]
 }

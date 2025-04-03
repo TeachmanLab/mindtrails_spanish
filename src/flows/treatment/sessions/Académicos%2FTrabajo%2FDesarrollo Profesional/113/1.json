@@ -1,14 +1,14 @@
 {
-    "header_text": "El curso difícil",
+    "header_text": "Tomando notas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "El curso difícil"
+            "text": "Tomando notas"
         },
         {
             "type": "Media",
-            "url": "./images/El_curso_difícil.jpg"
+            "url": "./images/Tomando_notas.jpg"
         }
     ]
 }

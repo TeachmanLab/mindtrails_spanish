@@ -1,24 +1,21 @@
 {
-    "header_text": "Temprano en la mañana",
+    "header_text": "Larga caminata afuera",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus amigos te juzgan por no salir con ellos?"
+            "text": "Recuerdas que es la primera vez en unas semanas que caminas una distancia larga. Probablemente sientes que el latido de tu corazón se acelera debido a la..."
         },
         {
-            "type": "Buttons",
-            "name": "Temprano en la mañana_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Larga caminata afuera_Salud Mental_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "words": [
+                "cuesta"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ]
 }

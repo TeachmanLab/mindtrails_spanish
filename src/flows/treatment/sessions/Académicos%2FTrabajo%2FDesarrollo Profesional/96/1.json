@@ -1,14 +1,14 @@
 {
-    "header_text": "Tu Currículum",
+    "header_text": "Evaluación importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tu Currículum"
+            "text": "Evaluación importante"
         },
         {
             "type": "Media",
-            "url": "./images/Tu_Currículum.jpg"
+            "url": "./images/Evaluación_importante.jpg"
         }
     ]
 }

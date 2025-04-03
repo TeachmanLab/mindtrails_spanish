@@ -1,19 +1,19 @@
 {
-    "header_text": "Hablando con tu jefe",
+    "header_text": "Fiesta sensacional",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hay una pregunta personal que has querido hacerle a tu jefe por un tiempo, pero no lo has hecho. Te imaginas haciéndola cuando se reunan la próxima vez. Mientras piensas en la pregunta, te sientes..."
+            "text": "Estás en una fiesta de cumpleaños para un amigo de un amigo. Te das cuenta de que estás ruborizado y un poco sudado. Parado allí, piensas que estas sensaciones son..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Hablando con tu jefe_Situaciones Sociales_puzzle1",
+            "name": "Fiesta sensacional_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "preparado"
+                "normales"
             ],
             "missing_letter_count": 2
         }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Tomando transporte",
+    "header_text": "Sensaciones desconocidas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tomando transporte"
+            "text": "Sensaciones desconocidas"
         },
         {
             "type": "Media",
-            "url": "./images/Tomando_transporte.jpg"
+            "url": "./images/Sensaciones_desconocidas.jpg"
         }
     ]
 }

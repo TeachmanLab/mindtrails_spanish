@@ -1,21 +1,24 @@
 {
-    "header_text": "Fuera de tu control",
+    "header_text": "Trabajo inacabado",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Después de un minuto, tu conexión a internet vuelve. Inicias sesión de nuevo y te das cuenta de que te sientes más..."
+            "Text": "¿Podrás hacer todo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Fuera de tu control_Salud Mental_puzzle_word2",
+            "type": "Buttons",
+            "name": "Trabajo inacabado_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "seguro"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Sí"
         }
     ]
 }

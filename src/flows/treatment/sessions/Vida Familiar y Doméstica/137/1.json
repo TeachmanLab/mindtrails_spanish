@@ -1,14 +1,14 @@
 {
-    "header_text": "Padres molestos",
+    "header_text": "Planes de vacaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Padres molestos"
+            "text": "Planes de vacaciones"
         },
         {
             "type": "Media",
-            "url": "./images/Padres_molestos.jpg"
+            "url": "./images/Planes_de_vacaciones.jpg"
         }
     ]
 }

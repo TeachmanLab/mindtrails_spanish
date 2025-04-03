@@ -1,14 +1,14 @@
 {
-    "header_text": "Comentarios de publicaciones de Instagram",
+    "header_text": "Hablando sobre vivienda",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comentarios de publicaciones de Instagram"
+            "text": "Hablando sobre vivienda"
         },
         {
             "type": "Media",
-            "url": "./images/Comentarios_de_publicaciones_de_Instagram.jpg"
+            "url": "./images/Hablando_sobre_vivienda.jpg"
         }
     ]
 }

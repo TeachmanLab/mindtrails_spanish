@@ -1,14 +1,14 @@
 {
-    "header_text": "Corriendo",
+    "header_text": "Equilibrio de trabajo y amistades",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Corriendo"
+            "text": "Equilibrio de trabajo y amistades"
         },
         {
             "type": "Media",
-            "url": "./images/Corriendo.jpg"
+            "url": "./images/Equilibrio_de_trabajo_y_amistades.jpg"
         }
     ]
 }

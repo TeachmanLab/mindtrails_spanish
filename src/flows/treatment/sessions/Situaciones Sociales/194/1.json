@@ -1,14 +1,14 @@
 {
-    "header_text": "Genio cómico",
+    "header_text": "Conociendo gente nueva",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Genio cómico"
+            "text": "Conociendo gente nueva"
         },
         {
             "type": "Media",
-            "url": "./images/Genio_cómico.jpg"
+            "url": "./images/Conociendo_gente_nueva.jpg"
         }
     ]
 }

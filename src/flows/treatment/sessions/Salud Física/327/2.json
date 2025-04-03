@@ -1,19 +1,19 @@
 {
-    "header_text": "Poniéndose al día con los amigos",
+    "header_text": "Larga caminata afuera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Ves a tus amigos al otro lado de la calle y corres hacia ellos. Te sientes un poco desorientado y mareado al llegar a ellos. Consideras lo que esto significa y te das cuenta de que probablemente signifique que corriste..."
+            "text": "Hace frío afuera y sales a caminar para calmar tu mente. Tus manos empiezan a temblar y tu corazón late rápidamente mientras subes una cuesta. Tienes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Poniéndose al día con los amigos_Salud Física_puzzle1",
+            "name": "Larga caminata afuera_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "rápido"
+                "miedo"
             ],
             "missing_letter_count": 1
         }

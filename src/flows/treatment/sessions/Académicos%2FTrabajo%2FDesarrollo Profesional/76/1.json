@@ -1,14 +1,14 @@
 {
-    "header_text": "Opiniones de otros",
+    "header_text": "Presentación opcional",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Opiniones de otros"
+            "text": "Presentación opcional"
         },
         {
             "type": "Media",
-            "url": "./images/Opiniones_de_otros.jpg"
+            "url": "./images/Presentación_opcional.jpg"
         }
     ]
 }

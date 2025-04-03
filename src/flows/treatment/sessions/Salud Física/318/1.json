@@ -1,15 +1,14 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Recuperando el aliento",
     "header_icon": "assets/subtitle.png",
-    "name": "¡Consejo para aplicar!",
     "elements": [
         {
-            "type": "Text",
-            "text": "¿Hay alguna situación que antes te daba miedo o te provocaba ansiedad, pero en la que ahora te sientes cómodo? ¿Qué te decías a ti mismo en esa situación? ¿Qué piensas ahora?"
+            "type": "Label",
+            "text": "Recuperando el aliento"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #3_entry"
+            "type": "Media",
+            "url": "./images/Recuperando_el_aliento.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Saliendo de noche",
+    "header_text": "Sensación de noche",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Saliendo de noche"
+            "text": "Sensación de noche"
         },
         {
             "type": "Media",
-            "url": "./images/Saliendo_de_noche.jpg"
+            "url": "./images/Sensación_de_noche.jpg"
         }
     ]
 }

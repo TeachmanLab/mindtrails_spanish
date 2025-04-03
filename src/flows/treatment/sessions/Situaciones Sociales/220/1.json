@@ -1,14 +1,14 @@
 {
-    "header_text": "Truco o trato",
+    "header_text": "Corriendo con un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Truco o trato"
+            "text": "Corriendo con un amigo"
         },
         {
             "type": "Media",
-            "url": "./images/Truco_o_trato.jpg"
+            "url": "./images/Corriendo_con_un_amigo.jpg"
         }
     ]
 }

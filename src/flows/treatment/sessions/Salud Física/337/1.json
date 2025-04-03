@@ -1,14 +1,14 @@
 {
-    "header_text": "Exposición reciente",
+    "header_text": "Viendo a un viejo amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Exposición reciente"
+            "text": "Viendo a un viejo amigo"
         },
         {
             "type": "Media",
-            "url": "./images/Exposición_reciente.jpg"
+            "url": "./images/Viendo_a_un_viejo_amigo.jpg"
         }
     ]
 }

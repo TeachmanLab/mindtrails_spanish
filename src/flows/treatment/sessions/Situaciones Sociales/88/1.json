@@ -1,14 +1,14 @@
 {
-    "header_text": "Error en una tarea",
+    "header_text": "Tropezar en público",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Error en una tarea"
+            "text": "Tropezar en público"
         },
         {
             "type": "Media",
-            "url": "./images/Error_en_una_tarea.jpg"
+            "url": "./images/Tropezar_en_público.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Atascado en el medio",
+    "header_text": "Compartiendo programas favoritos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Atascado en el medio"
+            "text": "Compartiendo programas favoritos"
         },
         {
             "type": "Media",
-            "url": "./images/Atascado_en_el_medio.jpg"
+            "url": "./images/Compartiendo_programas_favoritos.jpg"
         }
     ]
 }

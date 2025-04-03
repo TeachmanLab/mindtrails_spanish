@@ -1,21 +1,24 @@
 {
-    "header_text": "Comprometerse con las actividades",
+    "header_text": "Decidir compartir una imagen",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Te das cuenta de que volver a estar en persona es un ajuste y te llevará algún tiempo acostumbrarte al ajetreo de un semestre en persona. Piensas que con todo lo que estás pasando estás haciendo un gran..."
+            "Text": "¿Tus compañeros de trabajo piensan que es extraño que envíes correos electrónicos dos días seguidos?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Comprometerse con las actividades_Salud Mental_puzzle_word2",
+            "type": "Buttons",
+            "name": "Decidir compartir una imagen_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "trabajo"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

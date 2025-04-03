@@ -1,14 +1,14 @@
 {
-    "header_text": "Inicio Presentaciones",
+    "header_text": "Permitirse la educación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Inicio Presentaciones"
+            "text": "Permitirse la educación"
         },
         {
             "type": "Media",
-            "url": "./images/Inicio_Presentaciones.jpg"
+            "url": "./images/Permitirse_la_educación.jpg"
         }
     ]
 }

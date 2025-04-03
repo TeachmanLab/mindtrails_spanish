@@ -1,14 +1,11 @@
 {
-    "header_text": "El escaparate de danza",
+    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
     "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "El escaparate de danza"
-        },
-        {
-            "type": "Media",
-            "url": "./images/El_escaparate_de_danza.jpg"
+            "type": "Text",
+            "text": "Pregúntale a un amigo o familiar si puedes confiarle sobre una interacción incómoda. Vea si pueden proporcionar información desde el punto de vista de un extraño. "
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Seguridad de la trampolina",
+    "header_text": "Primera vez pantinaje sobre hielo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus hijos están rebotando en un trampolín. Se están divirtiendo, pero también consideras su seguridad, sabiendo que los trampolines pueden ser peligrosos. Mientras los ves rebotar arriba y abajo en el trampolín, sientes que son bastante... "
+            "text": "Tu amigo disfruta patinando sobre hielo y te convence de probarlo. En la pista te pones los patines y empiezas a patinar. Te deslizas hacia adelante lentamente al principio, luego más rápido, y piensas que tus posibilidades de lesionarte son... "
         },
         {
             "type": "Entry",
-            "name": "Seguridad de la trampolina_Salud Física_entry1"
+            "name": "Primera vez pantinaje sobre hielo_Salud Física_entry1"
         }
     ]
 }

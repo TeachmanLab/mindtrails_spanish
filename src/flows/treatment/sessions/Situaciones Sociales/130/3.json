@@ -1,24 +1,24 @@
 {
-    "header_text": "Un estilo diferente",
+    "header_text": "El escaparate de danza",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu amigo pensó que tu nuevo traje se veía ridículo?"
+            "Text": "Según cómo te veas bailando, invitar a tus amigos y familiares probablemente será..."
         },
         {
             "type": "Buttons",
-            "name": "Un estilo diferente_Situaciones Sociales_comp_question",
+            "name": "El escaparate de danza_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Una buena idea.",
+                "Una mala idea."
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Una buena idea."
         }
     ]
 }

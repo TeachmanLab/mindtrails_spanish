@@ -1,14 +1,14 @@
 {
-    "header_text": "Vaso de agua",
+    "header_text": "Enfrentando a un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Vaso de agua"
+            "text": "Enfrentando a un amigo"
         },
         {
             "type": "Media",
-            "url": "./images/Vaso_de_agua.jpg"
+            "url": "./images/Enfrentando_a_un_amigo.jpg"
         }
     ]
 }

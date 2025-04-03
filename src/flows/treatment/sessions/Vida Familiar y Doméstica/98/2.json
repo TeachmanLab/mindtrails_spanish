@@ -1,14 +1,14 @@
 {
-    "header_text": "Planes de vacaciones",
+    "header_text": "Lidiar con la vergüenza",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus suegros te han invitado a unirte a ellos para los días festivos. Estás emocionado de pasar tiempo con la familia de tu pareja, pero te preocupa que tus propios padres se sientan decepcionados de no estar con ellos. Cuando piensas en decirles a tus padres que te gustaría pasar los días festivos con tu pareja, crees que se tomarán mal la..."
+            "text": "Tu pareja te está dejando en un evento de trabajo. Mientras te deja, está siendo muy ruidoso y te hace sentir avergonzado. Cuando sales del coche, te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Planes de vacaciones_Vida Familiar y Doméstica_entry1"
+            "name": "Lidiar con la vergüenza_Vida Familiar y Doméstica_entry1"
         }
     ]
 }

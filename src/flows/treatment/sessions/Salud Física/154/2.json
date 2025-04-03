@@ -1,21 +1,14 @@
 {
-    "header_text": "Salud y envejecimiento",
+    "header_text": "Clase de baile",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Visitas a un amigo de la infancia durante las vacaciones y notas que está envejeciendo. Te preguntas cómo será su salud en el futuro. Cree que su salud probablemente estará..."
+            "type": "Label",
+            "text": "Clase de baile"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Salud y envejecimiento_Salud Física_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "words": [
-                "empeorando"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/Clase_de_baile.jpg"
         }
     ]
 }

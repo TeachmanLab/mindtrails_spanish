@@ -1,15 +1,15 @@
 {
-    "header_text": "Nadando en la playa",
+    "header_text": "sin aliento",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu dificultad para nadar en una señal de que tienes la enfermedad?"
+            "Text": "¿Tu dificultad para respirar está relacionada con el COVID?"
         },
         {
             "type": "Buttons",
-            "name": "Nadando en la playa_Salud Física_comp_question",
+            "name": "sin aliento_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

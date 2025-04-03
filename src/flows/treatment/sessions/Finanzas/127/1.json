@@ -1,14 +1,14 @@
 {
-    "header_text": "Miedo de la decepción",
+    "header_text": "Ahorrando dinero",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Miedo de la decepción"
+            "text": "Ahorrando dinero"
         },
         {
             "type": "Media",
-            "url": "./images/Miedo_de_la_decepción.jpg"
+            "url": "./images/Ahorrando_dinero.jpg"
         }
     ]
 }

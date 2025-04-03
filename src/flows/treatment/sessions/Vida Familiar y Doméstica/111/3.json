@@ -1,24 +1,24 @@
 {
-    "header_text": "Tu primer hijo",
+    "header_text": "Pasando tiempo con familia",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Esperas que la relación con tu hijo adulto sea..."
+            "Text": "A medida que tu familia pasa menos tiempo juntos, piensas que..."
         },
         {
             "type": "Buttons",
-            "name": "Tu primer hijo_Vida Familiar y Doméstica_comp_question",
+            "name": "Pasando tiempo con familia_Vida Familiar y Doméstica_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Cariñoso y cercano",
-                "Distanciado"
+                "Tu relación con ellos se volverá tensa.",
+                "Encontrarás formas de mantenerte en contacto y permanecer conectado."
             ],
             "columnCount": 1,
-            "correct_value": "Cariñoso y cercano"
+            "correct_value": "Encontrarás formas de mantenerte en contacto y permanecer conectado."
         }
     ]
 }

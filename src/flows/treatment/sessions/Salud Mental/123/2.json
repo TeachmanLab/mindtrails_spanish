@@ -1,19 +1,19 @@
 {
-    "header_text": "Fuera de tu control",
+    "header_text": "Trabajo inacabado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás a punto de hacer tu primera entrevista en línea para una importante promoción. Haces clic en el enlace cuando es hora de unirte a la reunión, pero tu conexión a internet se corta. Piensas en que los entrevistadores podrían asumir que llegaste tarde y sientes..."
+            "text": "Tuviste un día muy ocupado y no pudiste realizar todas sus tareas. En la cena, tu pareja habla orgullosamente de cómo terminó todo lo que tenía en la lista de tareas pendientes. Al pensar en si podrás completar tu trabajo mañana, te sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Fuera de tu control_Salud Mental_puzzle1",
+            "name": "Trabajo inacabado_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "nausea"
+                "seguro"
             ],
             "missing_letter_count": 1
         }

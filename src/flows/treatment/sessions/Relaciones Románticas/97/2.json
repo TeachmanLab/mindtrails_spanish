@@ -1,14 +1,14 @@
 {
-    "header_text": "Preguntas de la familia",
+    "header_text": "Tomando una decisión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Fuiste a la fiesta de cumpleaños de una prima y toda tu familia estuvo ahí. En el evento, tu familia no dejaba de hacerte preguntas sobre por qué sigues soltero y no estabas seguro de cómo responderlas. Cuando piensas en tu vida amorosa, estás contento de pasarla con... "
+            "text": "Tú y tu pareja tienen que tomar una decisión importante. La conversación se intensa y se convierte en una discusión que te hace preguntarte si podrán llegar a un compromiso. Te recuerdas a ti mismo que las conversaciones difíciles pueden ser una buena manera para ambos de aprender más sobre la comunicación..."
         },
         {
             "type": "Entry",
-            "name": "Preguntas de la familia_Relaciones Románticas_entry1"
+            "name": "Tomando una decisión_Relaciones Románticas_entry1"
         }
     ]
 }

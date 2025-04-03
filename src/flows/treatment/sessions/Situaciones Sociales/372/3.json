@@ -1,24 +1,21 @@
 {
-    "header_text": "No invitado a cenar",
+    "header_text": "Cafetería",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es demasiado tarde para hacerse amigo de tus nuevos compañeros de trabajo?"
+            "text": "Estás trabajando en un proyecto con un colega en una pequeña mesa en una cafetería. Cuando llega tu café, accidentalmente lo derramas sobre todos sus papeles, haciendo que tu colega salte con..."
         },
         {
-            "type": "Buttons",
-            "name": "No invitado a cenar_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Cafetería_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "words": [
+                "angustia"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ]
 }

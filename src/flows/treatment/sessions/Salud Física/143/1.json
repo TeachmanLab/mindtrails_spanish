@@ -1,14 +1,14 @@
 {
-    "header_text": "Suministros para la cena",
+    "header_text": "Amigo tosiendo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Suministros para la cena"
+            "text": "Amigo tosiendo"
         },
         {
             "type": "Media",
-            "url": "./images/Suministros_para_la_cena.jpg"
+            "url": "./images/Amigo_tosiendo.jpg"
         }
     ]
 }

@@ -1,24 +1,21 @@
 {
-    "header_text": "Una mesa sucia",
+    "header_text": "sintiendo mareos",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Mientras almuerzas con tu amigo, tu ..."
+            "text": "En vez de entrar en pánico, decides respirar profundamente. Lentamente, tu mareo desaparece y tu estómago se siente..."
         },
         {
-            "type": "Buttons",
-            "name": "Una mesa sucia_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "sintiendo mareos_Salud Física_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "eres capaces de disfrutar la conversación.",
-                "Estás insoportablemente ansiosos."
+            "words": [
+                "mejor"
             ],
-            "columnCount": 1,
-            "correct_value": "eres capaces de disfrutar la conversación."
+            "missing_letter_count": 2
         }
     ]
 }

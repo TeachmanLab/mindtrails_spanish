@@ -1,14 +1,14 @@
 {
-    "header_text": "Comunicación tardía",
+    "header_text": "Vecino sin mascarilla",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comunicación tardía"
+            "text": "Vecino sin mascarilla"
         },
         {
             "type": "Media",
-            "url": "./images/Comunicación_tardía.jpg"
+            "url": "./images/Vecino_sin_mascarilla.jpg"
         }
     ]
 }

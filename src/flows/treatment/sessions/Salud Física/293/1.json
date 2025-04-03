@@ -1,14 +1,14 @@
 {
-    "header_text": "Picadura de araña",
+    "header_text": "Controles en el dentista.",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Picadura de araña"
+            "text": "Controles en el dentista."
         },
         {
             "type": "Media",
-            "url": "./images/Picadura_de_araña.jpg"
+            "url": "./images/Controles_en_el_dentista..jpg"
         }
     ]
 }

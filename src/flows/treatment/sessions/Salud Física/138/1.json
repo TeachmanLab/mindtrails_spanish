@@ -1,14 +1,14 @@
 {
-    "header_text": "Manchas de sudor",
+    "header_text": "Demasiada atención",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Manchas de sudor"
+            "text": "Demasiada atención"
         },
         {
             "type": "Media",
-            "url": "./images/Manchas_de_sudor.jpg"
+            "url": "./images/Demasiada_atención.jpg"
         }
     ]
 }

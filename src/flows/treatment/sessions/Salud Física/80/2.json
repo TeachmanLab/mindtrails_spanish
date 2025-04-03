@@ -1,14 +1,14 @@
 {
-    "header_text": "Problemas de visión",
+    "header_text": "Evaluación de salud",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Problemas de visión"
+            "type": "Text",
+            "text": "En tu cita médica anual, tu doctor decide hacerte unas pruebas para evaluar tu salud en funcion del historial médico de tu familia. Tus resultados estarán listos en una semana. Mientras esperas los resultados, crees que probablemente estás..."
         },
         {
-            "type": "Media",
-            "url": "./images/Problemas_de_visión.jpg"
+            "type": "Entry",
+            "name": "Evaluación de salud_Salud Física_entry1"
         }
     ]
 }

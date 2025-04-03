@@ -1,19 +1,19 @@
 {
-    "header_text": "Cafetería",
+    "header_text": "Cambiando tu trayectoria",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás trabajando en un proyecto con un colega en una pequeña mesa en una cafetería. Cuando llega tu café, accidentalmente lo derramas sobre todos sus papeles, haciendo que tu colega salte con..."
+            "text": "Llevas cinco años en el mismo puesto y empiezas a sentirst aburrido y sin desafíos en tu trabajo. Te gustaría intentar conseguir un nuevo puesto, pero te preocupa poder ser competitivo en el mercado laboral. Al pensar en tu trayectoria profesional, crees que tus posibilidades de encontrar un nuevo trabajo que te resulte satisfactorio son..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Cafetería_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "name": "Cambiando tu trayectoria_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "angustia"
+                "malas"
             ],
             "missing_letter_count": 1
         }

@@ -1,21 +1,24 @@
 {
-    "header_text": "Una llamada crucial",
+    "header_text": "Emoción prospectiva",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Hoy recibirás una llamada importante. Te dirán si recibiste el trabajo para el que entrevistaste. Mientras piensas en esperar la llamada, tu ansiedad es..."
+            "Text": "¿Estás ansioso por tus planes para fin de año?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Una llamada crucial_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "type": "Buttons",
+            "name": "Emoción prospectiva_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "tolerable"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

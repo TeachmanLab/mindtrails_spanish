@@ -1,14 +1,14 @@
 {
-    "header_text": "Planes de descanso",
+    "header_text": "Tratar a un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus amigos están planeando un viaje a la playa durante las vacaciones y han ofrecido a ayudarte con el costo. Te sientes agradecido, pero también avergonzado de no poder pagar el viaje ti mismo. Sabes que tus amigos están felices de... "
+            "text": "Tu amigo te ha estado apoyando en un momento difícil y estás realmente agradecido por su apoyo. Quieres darle las gracias tratándolos a cenar, pero no tienes suficiente dinero para llevarlos a un restaurante. Decides hacerles una cena casera y pensas que serán... "
         },
         {
             "type": "Entry",
-            "name": "Planes de descanso_Finanzas_entry1"
+            "name": "Tratar a un amigo_Finanzas_entry1"
         }
     ]
 }

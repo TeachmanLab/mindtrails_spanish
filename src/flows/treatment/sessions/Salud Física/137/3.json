@@ -1,24 +1,24 @@
 {
-    "header_text": "Demasiada atención",
+    "header_text": "Salud y envejecimiento",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus amigos y familiares notan lo ansioso que te sientes?"
+            "Text": "Tu amigo probablemente ..."
         },
         {
             "type": "Buttons",
-            "name": "Demasiada atención_Salud Física_comp_question",
+            "name": "Salud y envejecimiento_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Enferme más en el futuro.",
+                ""
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": ""
         }
     ]
 }

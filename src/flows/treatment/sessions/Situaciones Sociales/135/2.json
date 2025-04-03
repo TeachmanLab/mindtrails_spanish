@@ -1,19 +1,19 @@
 {
-    "header_text": "Desordenado para vivir",
+    "header_text": "Atención en la tienda",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu pareja no ha estado en casa mucho recientemente. sin embargo, cuando llegan a casa, dejan su basura en la mesa, boronas en el mostrador, y nunca le ponen seguro a la puerta cuando salen. Piensas que es hora de hablar con tu... "
+            "text": "Estás en una tienda y accidentalmente derribas algunos marcos de fotos en uno de los pasillos. sientes que tus mejillas se ponen calientes mientras la gente en la tienda se gira para mirarte. Cuando el dueño de la tienda se acerca para reorganizar los marcos de fotos, está frunciendo el..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Desordenado para vivir_Situaciones Sociales_puzzle1",
+            "name": "Atención en la tienda_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "pareja"
+                "ceño"
             ],
             "missing_letter_count": 1
         }

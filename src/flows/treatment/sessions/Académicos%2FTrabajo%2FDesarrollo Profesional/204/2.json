@@ -1,14 +1,14 @@
 {
-    "header_text": "Participación",
+    "header_text": "Tartamudeo en la oficina",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Consideras asistir a un taller práctico en el que se requerirá tu opinión con frecuencia, a pesar de que no te gusta hablar frente a los demás. Después de asistir al taller, te das cuenta de que fue una decisión..."
+            "text": "Estás hablando con tu supervisor en su oficina. Te das cuenta de que estás tartamudeando un poco más de lo normal. A medida que continúa la conversación, decides que está..."
         },
         {
             "type": "Entry",
-            "name": "Participación_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Tartamudeo en la oficina_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ]
 }

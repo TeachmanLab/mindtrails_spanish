@@ -1,14 +1,14 @@
 {
-    "header_text": "Gestión de crédito",
+    "header_text": "Costos inesperados",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu banco te has puesto en contacto con tú para solicitar una tarjeta de crédito con una tasa de interés muy baja. Eres un gastador responsable, pero te preocupa por acumular deudas si te inscribes en una nueva tarjeta de crédito. Al pensar en lo que harías con la tarjeta de crédito, piensas que probablemente gastarías el dinero... "
+            "text": "Has estado alquilando tu casa. sientes que ya es hora de comprar una casa y que ahora tienes un trabajo estable, pero te preocupan los costos inesperados. Considerando la posibilidad de comprar, crees que estos costos serán..."
         },
         {
             "type": "Entry",
-            "name": "Gestión de crédito_Finanzas_entry1"
+            "name": "Costos inesperados_Finanzas_entry1"
         }
     ]
 }

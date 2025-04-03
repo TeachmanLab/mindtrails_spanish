@@ -1,14 +1,14 @@
 {
-    "header_text": "Conociendo alguien nuevo",
+    "header_text": "Manejando con una amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en una fiesta de cumpleaños para un amigo. Comienzas a sentir un nudo en el estómago mientras hablas con un desconocido. Esto probablemente significa que estás..."
+            "text": "Estás en el carro con un amigo y están manejando a la velocidad límite en la carretera. sientes mariposas en el estómago al ver los coches pasar rápidamente. Esto te hace sentir..."
         },
         {
             "type": "Entry",
-            "name": "Conociendo alguien nuevo_Salud Física_entry1"
+            "name": "Manejando con una amigo_Salud Física_entry1"
         }
     ]
 }

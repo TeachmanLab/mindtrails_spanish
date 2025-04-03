@@ -1,19 +1,19 @@
 {
-    "header_text": "Comentarios de publicaciones de Instagram",
+    "header_text": "Una nueva relación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Acabas de recibir un reconocimiento por un proyecto en el que trabajaste. Solo has recibido felicitaciones de unas pocas personas y ahora pensabas que tendrías más reacciones. Te preguntas si la gente no te felicita porque está..."
+            "text": "Llevas un tiempo con tu pareja y todavía te gustan mucho. Recientemente, tu pareja no ha expresado mucha adoración hacia ti y te preguntas si todavía te aman tanto como tú los amas. Crees que ya no les..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Comentarios de publicaciones de Instagram_Salud Mental_puzzle1",
+            "name": "Una nueva relación_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "ocupada"
+                "gustas"
             ],
             "missing_letter_count": 2
         }

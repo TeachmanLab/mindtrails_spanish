@@ -1,14 +1,14 @@
 {
-    "header_text": "Tos después de salir",
+    "header_text": "Distanciamiento social adentro",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tos después de salir"
+            "text": "Distanciamiento social adentro"
         },
         {
             "type": "Media",
-            "url": "./images/Tos_después_de_salir.jpg"
+            "url": "./images/Distanciamiento_social_adentro.jpg"
         }
     ]
 }

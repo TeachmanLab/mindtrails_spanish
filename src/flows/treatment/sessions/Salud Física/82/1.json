@@ -1,14 +1,14 @@
 {
-    "header_text": "Dolor de estómago",
+    "header_text": "Tomando transporte",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dolor de estómago"
+            "text": "Tomando transporte"
         },
         {
             "type": "Media",
-            "url": "./images/Dolor_de_estómago.jpg"
+            "url": "./images/Tomando_transporte.jpg"
         }
     ]
 }

@@ -1,15 +1,14 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Opiniones opuestas",
     "header_icon": "assets/subtitle.png",
-    "name": "¡Consejo para aplicar!",
     "elements": [
         {
-            "type": "Text",
-            "text": "Piensas en algo que te causó ansiedad la primera vez que lo hiciste. ¿Qué estrategias te ayudaron a superar eso?"
+            "type": "Label",
+            "text": "Opiniones opuestas"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #1_entry"
+            "type": "Media",
+            "url": "./images/Opiniones_opuestas.jpg"
         }
     ]
 }

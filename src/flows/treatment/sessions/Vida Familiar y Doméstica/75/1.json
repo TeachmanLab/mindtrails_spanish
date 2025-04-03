@@ -1,14 +1,14 @@
 {
-    "header_text": "Salud y envejecimiento",
+    "header_text": "Reconciliándote con tu amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Salud y envejecimiento"
+            "text": "Reconciliándote con tu amigo"
         },
         {
             "type": "Media",
-            "url": "./images/Salud_y_envejecimiento.jpg"
+            "url": "./images/Reconciliándote_con_tu_amigo.jpg"
         }
     ]
 }

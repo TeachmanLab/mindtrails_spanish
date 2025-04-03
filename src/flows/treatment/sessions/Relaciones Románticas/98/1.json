@@ -1,14 +1,14 @@
 {
-    "header_text": "Preocupaciones por las relaciones",
+    "header_text": "Preguntas de la familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Preocupaciones por las relaciones"
+            "text": "Preguntas de la familia"
         },
         {
             "type": "Media",
-            "url": "./images/Preocupaciones_por_las_relaciones.jpg"
+            "url": "./images/Preguntas_de_la_familia.jpg"
         }
     ]
 }

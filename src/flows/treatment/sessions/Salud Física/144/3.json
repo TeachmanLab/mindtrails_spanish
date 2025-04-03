@@ -1,24 +1,21 @@
 {
-    "header_text": "Tajada de fruta",
+    "header_text": "Miedo al COVID",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Tu herida probablemente..."
+            "text": "Decides hablar con tu amigo y aprender que estaba evitando ir al doctor porque le faltaba información sobre el proceso. Le dices lo que sabes y te alegras de haber sido capaz de proporcionar.."
         },
         {
-            "type": "Buttons",
-            "name": "Tajada de fruta_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Miedo al COVID_Salud Física_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sanará rápidamente.",
-                "Se infectará."
+            "words": [
+                "apoyo"
             ],
-            "columnCount": 1,
-            "correct_value": "Sanará rápidamente."
+            "missing_letter_count": 2
         }
     ]
 }

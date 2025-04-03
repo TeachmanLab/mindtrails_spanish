@@ -1,14 +1,14 @@
 {
-    "header_text": "Preguntas de la familia",
+    "header_text": "Tomando una decisión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Preguntas de la familia"
+            "text": "Tomando una decisión"
         },
         {
             "type": "Media",
-            "url": "./images/Preguntas_de_la_familia.jpg"
+            "url": "./images/Tomando_una_decisión.jpg"
         }
     ]
 }

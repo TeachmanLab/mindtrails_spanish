@@ -1,14 +1,11 @@
 {
-    "header_text": "Lecciones Aprendidas",
+    "header_text": "Recurso: Salud Física",
     "header_icon": "assets/subtitle.png",
+    "name": "Substance Abuse and Mental Health Services Administration (SAMHSA) - Lista de Recursos bilingües en español",
     "elements": [
         {
             "type": "Text",
-            "Text": "¡Excelente trabajo! ¡Estás haciendo un gran progreso al probar nuevas perspectivas relacionadas con la salud física! Tómate unos minutos para reflexionar sobre los cuentos cortos que has leído hasta ahora. ¿Qué has aprendido? ¿Cuáles son tus principales conclusiones? Por ejemplo, podrías notar que sensaciones incómodas en tu cuerpo, como un corazón acelerado, a menudo no son peligrosas."
-        },
-        {
-            "type": "Entry",
-            "name": "lessons_learned_Salud Física_180"
+            "text": "Substance Abuse and Mental Health Services Administration (SAMHSA) - Lista de Recursos bilingües en español\n\nSAMHSA tiene sitio Web, pero no todo está traducido. La organización ofrece esta página de recursos que tienen servicios bilingües o tienen traducción.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Participación",
+    "header_text": "Tartamudeo en la oficina",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Participación"
+            "text": "Tartamudeo en la oficina"
         },
         {
             "type": "Media",
-            "url": "./images/Participación.jpg"
+            "url": "./images/Tartamudeo_en_la_oficina.jpg"
         }
     ]
 }

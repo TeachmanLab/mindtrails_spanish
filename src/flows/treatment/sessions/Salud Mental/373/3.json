@@ -1,21 +1,24 @@
 {
-    "header_text": "Sentirse mareado",
+    "header_text": "Expectativas diferentes",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Decides prestar atención a las sensaciones sin juzgarlas como buenas o malas. Esto reduce tu preocupación y te hace sentir más..."
+            "Text": "¿Habrán consecuencias terribles por no obtener este aumento?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Sentirse mareado_Salud Mental_puzzle_word2",
+            "type": "Buttons",
+            "name": "Expectativas diferentes_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "tranquilo"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

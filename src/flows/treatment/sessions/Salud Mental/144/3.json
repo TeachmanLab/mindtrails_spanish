@@ -1,24 +1,21 @@
 {
-    "header_text": "Una nueva relación",
+    "header_text": "Amigos en las relaciones",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu pareja todavía te ama?"
+            "text": "Después de un tiempo, te das cuenta de que es muy normal no estar en una relación. Piensas que disfrutas estar soltero y que la persona adecuada aparecerá cuando estés... "
         },
         {
-            "type": "Buttons",
-            "name": "Una nueva relación_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Amigos en las relaciones_Salud Mental_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "words": [
+                "listo"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ]
 }

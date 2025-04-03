@@ -1,14 +1,14 @@
 {
-    "header_text": "Reloj favorito",
+    "header_text": "Temprano en la mañana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Reloj favorito"
+            "text": "Temprano en la mañana"
         },
         {
             "type": "Media",
-            "url": "./images/Reloj_favorito.jpg"
+            "url": "./images/Temprano_en_la_mañana.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Permitirse la educación",
+    "header_text": "Tratarse a sí mismo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus hijos están pensando en ir a la universidad, pero tú piensas que tendrías que pedir un préstamo para ayudar a enviarlos. Recuerdas historias que has escuchado de personas que todavía pagan sus préstamos cuando están jubilados. Imagínate a ti mismo en la jubilación, piensas que tus préstamos estarán... "
+            "text": "Has tenido mucho que hacer recientemente, y no te has sentido tú mismo. Quieres darte un capricho con algo que disfrutes, pero no estás seguro de que tengas espacio en tu presupuesto. Usted decide comprarse algo pequeño que definitivamente puede... "
         },
         {
             "type": "Entry",
-            "name": "Permitirse la educación_Finanzas_entry1"
+            "name": "Tratarse a sí mismo_Finanzas_entry1"
         }
     ]
 }

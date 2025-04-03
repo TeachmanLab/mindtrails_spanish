@@ -1,19 +1,19 @@
 {
-    "header_text": "Prestando de un amigo",
+    "header_text": "Opinión diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo te prestó su cargador hoy. Cuando llegas a casa, te das cuenta de que el cargador todavía está en tu mochila. Piensas que tu amigo lo..."
+            "text": "Conoces a alguien nuevo en una organización local y tienes una discusión estimulante. Hacia el final descubres que no están de acuerdo con algo que dijiste. La próxima vez que la organización se reúna, esperas que lo..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Prestando de un amigo_Situaciones Sociales_puzzle1",
+            "name": "Opinión diferente_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "entenderá"
+                "incluyan"
             ],
             "missing_letter_count": 2
         }

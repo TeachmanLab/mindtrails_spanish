@@ -1,14 +1,14 @@
 {
-    "header_text": "Amigo en el hospital",
+    "header_text": "Revisando tu trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Amigo en el hospital"
+            "text": "Revisando tu trabajo"
         },
         {
             "type": "Media",
-            "url": "./images/Amigo_en_el_hospital.jpg"
+            "url": "./images/Revisando_tu_trabajo.jpg"
         }
     ]
 }

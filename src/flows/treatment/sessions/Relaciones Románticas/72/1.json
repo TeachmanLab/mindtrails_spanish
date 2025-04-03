@@ -1,14 +1,14 @@
 {
-    "header_text": "Invitando a alguien a salir",
+    "header_text": "Nueva pareja",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Invitando a alguien a salir"
+            "text": "Nueva pareja"
         },
         {
             "type": "Media",
-            "url": "./images/Invitando_a_alguien_a_salir.jpg"
+            "url": "./images/Nueva_pareja.jpg"
         }
     ]
 }

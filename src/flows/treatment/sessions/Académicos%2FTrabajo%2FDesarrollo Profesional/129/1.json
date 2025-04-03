@@ -1,14 +1,15 @@
 {
-    "header_text": "Presentación de recaudación de fondos",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
     "header_icon": "assets/subtitle.png",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
-            "type": "Label",
-            "text": "Presentación de recaudación de fondos"
+            "type": "Text",
+            "text": "Imaginas que estás impartiendo un taller sobre cómo pensar de manera flexible sobre situaciones ambiguas y potencialmente amenzantes. ¿Cuál sería tu mensaje para los participantes?"
         },
         {
-            "type": "Media",
-            "url": "./images/Presentación_de_recaudación_de_fondos.jpg"
+            "type": "Entry",
+            "name": "Consejo #6_entry"
         }
     ]
 }

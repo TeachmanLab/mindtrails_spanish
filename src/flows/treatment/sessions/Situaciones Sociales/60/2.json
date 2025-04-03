@@ -1,14 +1,14 @@
 {
-    "header_text": "Confianza en las redes sociales",
+    "header_text": "Alzar la voz en una clase",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Conoces a un nuevo compañero de trabajo atractivo durante una reunión. Después del trabajo, te solicitan seguirte en las redes sociales. Antes de dejar que te sigan, revisas tu propio feed y te sientes..."
+            "text": "Tu jefe está hablando de uno de tus modelos a seguir en tu campo de trabajo durante una reunión y le pregunta si alguien sabe de su trabajo. Frente a todos levantas rápidamente la mano y tus colegas se vuelven hacia ti. Te das cuenta de que te sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Confianza en las redes sociales_Situaciones Sociales_puzzle1",
+            "name": "Alzar la voz en una clase_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

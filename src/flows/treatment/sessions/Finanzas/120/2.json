@@ -1,19 +1,19 @@
 {
-    "header_text": "Iniciando un negocio pequeño",
+    "header_text": "Cumpleaños de un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás considerando dejar tu trabajo para comenzar tu propio negocio pequeño y estás listo para trabajar duro. Estás emocionado, pero también sabes que muchos nuevos emprendimientos pueden terminar..."
+            "text": "Algunos amigos te han invitado a cenar para el cumpleaños de un amigo. Has tenido algunos gastos imprevistos este mes y te preocupa poder permitir la cena cara. Hablas con tus amigos y te aseguran que el restaurante no será..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Iniciando un negocio pequeño_Finanzas_puzzle1",
+            "name": "Cumpleaños de un amigo_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "fracasando"
+                "caro"
             ],
             "missing_letter_count": 1
         }

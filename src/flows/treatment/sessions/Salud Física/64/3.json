@@ -1,19 +1,19 @@
 {
-    "header_text": "Clima frío",
+    "header_text": "Preocupaciones por el ritmo cardíaco",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "sigues caminando, y te sientes un poco incómodo pero decides que la respuesta de tu cuerpo al frío es..."
+            "text": "Cuando el evento se vuelve más ruidoso a medida que llega más gente, consideras irte, pero decides que puedes manejar estos sentimientos y seguir..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Clima frío_Salud Física_puzzle_word2",
+            "name": "Preocupaciones por el ritmo cardíaco_Salud Física_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "manejable"
+                "socializando"
             ],
             "missing_letter_count": 2
         }

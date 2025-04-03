@@ -1,24 +1,24 @@
 {
-    "header_text": "Una audiencia captada",
+    "header_text": "Un corte de pelo diferente",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Tus compañeros probablemente estaban callados porque..."
+            "Text": "¿A tu amigo le gusta tu nuevo corte de pelo?"
         },
         {
             "type": "Buttons",
-            "name": "Una audiencia captada_Situaciones Sociales_comp_question",
+            "name": "Un corte de pelo diferente_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Estaban enfocados en tu presentación.",
-                "Estaban aburridos con tu presentación."
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "Estaban enfocados en tu presentación."
+            "correct_value": "Sí"
         }
     ]
 }

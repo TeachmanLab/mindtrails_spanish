@@ -1,19 +1,19 @@
 {
-    "header_text": "Puerta con seguro",
+    "header_text": "Cancelar con amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Una mañana sales de tu casa y comienzas a dirigirte al trabajo. Unos 10 minutos después de salir, te preguntas si recordaste cerrar la puerta de tu casa. A medida que continúas con tu viaje, confías en ti mismo y te sientes..."
+            "text": "Recientemente te has sentido agotado y cancelas los planes que hiciste con tus amigos. Tus amigos expresan frustración, diciendo que planearon esto hace mucho tiempo y quierian verte. Piensas que has tomado la mejor decisión de ti... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Puerta con seguro_Salud Mental_puzzle1",
+            "name": "Cancelar con amigos_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "relajado"
+                "mismo"
             ],
             "missing_letter_count": 1
         }

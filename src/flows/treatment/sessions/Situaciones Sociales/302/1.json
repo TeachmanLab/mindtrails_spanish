@@ -1,14 +1,14 @@
 {
-    "header_text": "Palabra tropiezo",
+    "header_text": "Manchas de sudor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Palabra tropiezo"
+            "text": "Manchas de sudor"
         },
         {
             "type": "Media",
-            "url": "./images/Palabra_tropiezo.jpg"
+            "url": "./images/Manchas_de_sudor.jpg"
         }
     ]
 }

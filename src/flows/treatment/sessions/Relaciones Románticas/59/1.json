@@ -1,14 +1,14 @@
 {
-    "header_text": "Abrirse",
+    "header_text": "Afecto desigual",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Abrirse"
+            "text": "Afecto desigual"
         },
         {
             "type": "Media",
-            "url": "./images/Abrirse.jpg"
+            "url": "./images/Afecto_desigual.jpg"
         }
     ]
 }

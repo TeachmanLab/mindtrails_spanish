@@ -1,14 +1,14 @@
 {
-    "header_text": "Manejando el estrés",
+    "header_text": "Sequedad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Manejando el estrés"
+            "text": "Sequedad"
         },
         {
             "type": "Media",
-            "url": "./images/Manejando_el_estrés.jpg"
+            "url": "./images/Sequedad.jpg"
         }
     ]
 }

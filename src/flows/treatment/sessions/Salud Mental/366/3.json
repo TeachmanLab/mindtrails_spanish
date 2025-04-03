@@ -1,19 +1,19 @@
 {
-    "header_text": "Comentarios de redes sociales",
+    "header_text": "siendo padre",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Decides enviar un correo electrónico a tu departamento promocionando algo importante para ti. Alguien responde de manera grosera porque malinterpretaron lo que escribiste. Te preguntas qué piensa esta persona sobre ti y te sientes..."
+            "text": "Cuando piensas en tu relación con ella a medida que crece, no crees que será tensa, y te visualizas siendo..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Comentarios de redes sociales_Salud Mental_puzzle1",
+            "name": "siendo padre_Salud Mental_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "preocupado"
+                "paciente"
             ],
             "missing_letter_count": 2
         }

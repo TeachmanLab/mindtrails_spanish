@@ -1,14 +1,14 @@
 {
-    "header_text": "Resultados de la evaluación",
+    "header_text": "Esperando grandes noticias",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Resultados de la evaluación"
+            "text": "Esperando grandes noticias"
         },
         {
             "type": "Media",
-            "url": "./images/Resultados_de_la_evaluación.jpg"
+            "url": "./images/Esperando_grandes_noticias.jpg"
         }
     ]
 }

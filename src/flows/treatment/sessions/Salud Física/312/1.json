@@ -1,14 +1,14 @@
 {
-    "header_text": "El dolor de muelas",
+    "header_text": "Clase de baile",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "El dolor de muelas"
+            "text": "Clase de baile"
         },
         {
             "type": "Media",
-            "url": "./images/El_dolor_de_muelas.jpg"
+            "url": "./images/Clase_de_baile.jpg"
         }
     ]
 }

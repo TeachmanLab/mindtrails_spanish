@@ -1,15 +1,14 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Sentado en una reunión",
     "header_icon": "assets/subtitle.png",
-    "name": "¡Consejo para aplicar!",
     "elements": [
         {
-            "type": "Text",
-            "text": "Cuando te encuentras saltando al peor de los casos sin toda la información, ¿cualés son algunas cosas que podrías decirte a ti mismo? Piensas en algunas habilidades de las historias que has leído que podrían ser útiles para ti. "
+            "type": "Label",
+            "text": "Sentado en una reunión"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #4_entry"
+            "type": "Media",
+            "url": "./images/Sentado_en_una_reunión.jpg"
         }
     ]
 }

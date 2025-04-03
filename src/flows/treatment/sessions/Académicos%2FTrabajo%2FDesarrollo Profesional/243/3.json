@@ -1,15 +1,15 @@
 {
-    "header_text": "Una llamada crucial",
+    "header_text": "Finalización rápida de tareas",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes tolerar sentir ansiedad mientras esperas la llamada?"
+            "Text": "¿El comité quedó satisfecho con tu trabajo?"
         },
         {
             "type": "Buttons",
-            "name": "Una llamada crucial_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Finalización rápida de tareas_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

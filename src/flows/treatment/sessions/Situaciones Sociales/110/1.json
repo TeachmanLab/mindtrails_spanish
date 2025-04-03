@@ -1,14 +1,14 @@
 {
-    "header_text": "Encontrándote con alguien",
+    "header_text": "Esperando una respuesta",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Encontrándote con alguien"
+            "text": "Esperando una respuesta"
         },
         {
             "type": "Media",
-            "url": "./images/Encontrándote_con_alguien.jpg"
+            "url": "./images/Esperando_una_respuesta.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Broma interna",
+    "header_text": "Resultados de la evaluación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Broma interna"
+            "text": "Resultados de la evaluación"
         },
         {
             "type": "Media",
-            "url": "./images/Broma_interna.jpg"
+            "url": "./images/Resultados_de_la_evaluación.jpg"
         }
     ]
 }

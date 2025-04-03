@@ -1,14 +1,14 @@
 {
-    "header_text": "Una audiencia captada",
+    "header_text": "Un corte de pelo diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una audiencia captada"
+            "text": "Un corte de pelo diferente"
         },
         {
             "type": "Media",
-            "url": "./images/Una_audiencia_captada.jpg"
+            "url": "./images/Un_corte_de_pelo_diferente.jpg"
         }
     ]
 }

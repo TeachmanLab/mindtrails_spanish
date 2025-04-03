@@ -1,14 +1,14 @@
 {
-    "header_text": "Dependencia financiera",
+    "header_text": "Compromisos equilibrados",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dependencia financiera"
+            "text": "Compromisos equilibrados"
         },
         {
             "type": "Media",
-            "url": "./images/Dependencia_financiera.jpg"
+            "url": "./images/Compromisos_equilibrados.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Hablando sobre vivienda",
+    "header_text": "Cena en una casa de amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Hablando sobre vivienda"
+            "text": "Cena en una casa de amigos"
         },
         {
             "type": "Media",
-            "url": "./images/Hablando_sobre_vivienda.jpg"
+            "url": "./images/Cena_en_una_casa_de_amigos.jpg"
         }
     ]
 }

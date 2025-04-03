@@ -1,14 +1,14 @@
 {
-    "header_text": "Sentirse diferente",
+    "header_text": "Viejo amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sentirse diferente"
+            "text": "Viejo amigo"
         },
         {
             "type": "Media",
-            "url": "./images/Sentirse_diferente.jpg"
+            "url": "./images/Viejo_amigo.jpg"
         }
     ]
 }

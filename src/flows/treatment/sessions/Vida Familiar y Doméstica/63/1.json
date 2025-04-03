@@ -1,14 +1,14 @@
 {
-    "header_text": "Desacuerdos con tu hermana",
+    "header_text": "Puntos de vista hacia la terapia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Desacuerdos con tu hermana"
+            "text": "Puntos de vista hacia la terapia"
         },
         {
             "type": "Media",
-            "url": "./images/Desacuerdos_con_tu_hermana.jpg"
+            "url": "./images/Puntos_de_vista_hacia_la_terapia.jpg"
         }
     ]
 }

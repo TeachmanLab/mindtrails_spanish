@@ -1,14 +1,14 @@
 {
-    "header_text": "Nueva oportunidad para amigos",
+    "header_text": "Visitando a los vecinos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nueva oportunidad para amigos"
+            "text": "Visitando a los vecinos"
         },
         {
             "type": "Media",
-            "url": "./images/Nueva_oportunidad_para_amigos.jpg"
+            "url": "./images/Visitando_a_los_vecinos.jpg"
         }
     ]
 }

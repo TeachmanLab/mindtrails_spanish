@@ -1,14 +1,14 @@
 {
-    "header_text": "Conociendo alguien nuevo",
+    "header_text": "Visión borrosa",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Conociendo alguien nuevo"
+            "text": "Visión borrosa"
         },
         {
             "type": "Media",
-            "url": "./images/Conociendo_alguien_nuevo.jpg"
+            "url": "./images/Visión_borrosa.jpg"
         }
     ]
 }

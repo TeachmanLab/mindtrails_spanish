@@ -1,14 +1,15 @@
 {
-    "header_text": "Un conocido",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
     "header_icon": "assets/subtitle.png",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
-            "type": "Label",
-            "text": "Un conocido"
+            "type": "Text",
+            "text": "Piensas en una situación próxima que quieras evitar porque te pone ansioso. ¿Cómo puedes pensarlo de manera diferente para que se sienta menos aterrador? "
         },
         {
-            "type": "Media",
-            "url": "./images/Un_conocido.jpg"
+            "type": "Entry",
+            "name": "Consejo #9_entry"
         }
     ]
 }

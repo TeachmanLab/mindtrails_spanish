@@ -1,19 +1,19 @@
 {
-    "header_text": "Zambullirte",
+    "header_text": "Plato típico",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en la piscina local. Está lleno y te das cuenta de que mucha gente podrá verte en traje de baño. Piensas en esto y te sientes..."
+            "text": "Vas a una cena compartida, y quieres hacer un plato usando la receta de tu familia. Tienes la receta que te dieron tus padres, pero te preocupa no tener las habilidades culinarias para hacer el plato. Piensas que probablemente las personas en la fiesta crean que tu comida tiene muy buen..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Zambullirte_Situaciones Sociales_puzzle1",
+            "name": "Plato típico_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "inseguro"
+                "sabor"
             ],
             "missing_letter_count": 2
         }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Ahorrando dinero",
+    "header_text": "Costos inesperados",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás repasando tus gastos mensuales y te das cuenta de que gastaste más de lo que habías planeado en un nuevo pasatiempo. Esto no te coloca en una situación financiera comprometida en este momento, pero estás intentando ahorrar dinero para ir en un viaje de esquí que has estado planeando por..."
+            "text": "Has estado alquilando tu casa. sientes que ya es hora de comprar una casa y que ahora tienes un trabajo estable, pero te preocupan los costos inesperados. Considerando la posibilidad de comprar, crees que estos costos serán..."
         },
         {
             "type": "Entry",
-            "name": "Ahorrando dinero_Finanzas_entry1"
+            "name": "Costos inesperados_Finanzas_entry1"
         }
     ]
 }

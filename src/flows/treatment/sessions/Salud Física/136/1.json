@@ -1,14 +1,14 @@
 {
-    "header_text": "Salud y envejecimiento",
+    "header_text": "Corriendo una maratón",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Salud y envejecimiento"
+            "text": "Corriendo una maratón"
         },
         {
             "type": "Media",
-            "url": "./images/Salud_y_envejecimiento.jpg"
+            "url": "./images/Corriendo_una_maratón.jpg"
         }
     ]
 }

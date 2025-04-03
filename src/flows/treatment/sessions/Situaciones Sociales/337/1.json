@@ -1,14 +1,14 @@
 {
-    "header_text": "Pedido de un niño",
+    "header_text": "Desconectandote",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pedido de un niño"
+            "text": "Desconectandote"
         },
         {
             "type": "Media",
-            "url": "./images/Pedido_de_un_niño.jpg"
+            "url": "./images/Desconectandote.jpg"
         }
     ]
 }

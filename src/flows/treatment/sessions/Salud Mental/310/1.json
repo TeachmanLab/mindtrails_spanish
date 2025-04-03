@@ -1,14 +1,11 @@
 {
-    "header_text": "Opinión importante",
+    "header_text": "Maneja tus sentimientos: Salud Mental",
     "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Opinión importante"
-        },
-        {
-            "type": "Media",
-            "url": "./images/Opinión_importante.jpg"
+            "type": "Text",
+            "text": "Intente escribir sobre sus sentimientos y pensamientos para comprenderlos más claramente."
         }
     ]
 }

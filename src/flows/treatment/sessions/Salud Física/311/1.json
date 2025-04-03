@@ -1,14 +1,14 @@
 {
-    "header_text": "Estar cerca de alguien enfermo",
+    "header_text": "Caminando para despejar la mente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Estar cerca de alguien enfermo"
+            "text": "Caminando para despejar la mente"
         },
         {
             "type": "Media",
-            "url": "./images/Estar_cerca_de_alguien_enfermo.jpg"
+            "url": "./images/Caminando_para_despejar_la_mente.jpg"
         }
     ]
 }

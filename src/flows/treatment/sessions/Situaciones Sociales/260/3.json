@@ -1,24 +1,24 @@
 {
-    "header_text": "Un corte de pelo diferente",
+    "header_text": "Plato típico",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿A tu amigo le gusta tu nuevo corte de pelo?"
+            "Text": "Cuando piensas en las reacciones a tu comida, te imaginas a los otros invitados..."
         },
         {
             "type": "Buttons",
-            "name": "Un corte de pelo diferente_Situaciones Sociales_comp_question",
+            "name": "Plato típico_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Dejando sus porciones en sus platos.",
+                "sirviéndose una segunda vez."
             ],
             "columnCount": 1,
-            "correct_value": "Sí"
+            "correct_value": "Dejando sus porciones en sus platos."
         }
     ]
 }

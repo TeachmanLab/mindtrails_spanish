@@ -1,14 +1,14 @@
 {
-    "header_text": "Sentir presión al salir",
+    "header_text": "Comparando salarios",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sentir presión al salir"
+            "text": "Comparando salarios"
         },
         {
             "type": "Media",
-            "url": "./images/Sentir_presión_al_salir.jpg"
+            "url": "./images/Comparando_salarios.jpg"
         }
     ]
 }

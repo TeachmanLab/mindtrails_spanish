@@ -1,19 +1,19 @@
 {
-    "header_text": "De prisa",
+    "header_text": "Probando comidas nuevas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Es lunes por la mañana y estás apurado para llegar al trabajo. sientes que tu corazón se acelera cuando abres la puerta del carro y te sientas. Temiendo que puedas sufrir un ataque de pánico, sientes una necesidad de salir del carro, pero decides observar estas sensaciones sin reaccionar y quedarte..."
+            "text": "En la hora de almuerzo, tu compañero de trabajo trae una comida muy picante. Despues de probar un poquito, empiezas a sudar y sientes el latido de tu corazón. Estas sensaciones causan pensamientos ansiosos. Decides enfocarte en la conversación, y el resto del almuerzo lo es... "
         },
         {
             "type": "WordPuzzle",
-            "name": "De prisa_Salud Física_puzzle1",
+            "name": "Probando comidas nuevas_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "sentado"
+                "agradable"
             ],
             "missing_letter_count": 2
         }

@@ -1,24 +1,24 @@
 {
-    "header_text": "Encontrando un compañero de cuarto",
+    "header_text": "Comparando situaciones financieras",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu pareja se quedará devastado si no compran la casa que le gusta?"
+            "Text": "¿Podrás costear el viaje?"
         },
         {
             "type": "Buttons",
-            "name": "Encontrando un compañero de cuarto_Finanzas_comp_question",
+            "name": "Comparando situaciones financieras_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Sí"
         }
     ]
 }

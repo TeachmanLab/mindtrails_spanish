@@ -1,14 +1,14 @@
 {
-    "header_text": "Yendo de vacaciones",
+    "header_text": "Comprometerse con las actividades",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Yendo de vacaciones"
+            "text": "Comprometerse con las actividades"
         },
         {
             "type": "Media",
-            "url": "./images/Yendo_de_vacaciones.jpg"
+            "url": "./images/Comprometerse_con_las_actividades.jpg"
         }
     ]
 }

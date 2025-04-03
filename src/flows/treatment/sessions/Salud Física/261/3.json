@@ -1,21 +1,24 @@
 {
-    "header_text": "Caminata con amigos",
+    "header_text": "Un pastel de cumpleaños",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Observas que tus amigos también están cansándose. Decides que probablemente estarás..."
+            "Text": "si te comes el pastel, probablemente..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Caminata con amigos_Salud Física_puzzle_word2",
+            "type": "Buttons",
+            "name": "Un pastel de cumpleaños_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "bien"
+            "buttons": [
+                "Te enfermarás.",
+                "No te enfermarás."
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No te enfermarás."
         }
     ]
 }

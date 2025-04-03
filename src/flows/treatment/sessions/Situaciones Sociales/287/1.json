@@ -1,14 +1,14 @@
 {
-    "header_text": "Corriendo con un amigo",
+    "header_text": "Fin de semana largo solo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Corriendo con un amigo"
+            "text": "Fin de semana largo solo"
         },
         {
             "type": "Media",
-            "url": "./images/Corriendo_con_un_amigo.jpg"
+            "url": "./images/Fin_de_semana_largo_solo.jpg"
         }
     ]
 }

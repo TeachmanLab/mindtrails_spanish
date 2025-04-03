@@ -1,14 +1,14 @@
 {
-    "header_text": "Tomando un descanso",
+    "header_text": "Dependencia financiera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tomando un descanso"
+            "text": "Dependencia financiera"
         },
         {
             "type": "Media",
-            "url": "./images/Tomando_un_descanso.jpg"
+            "url": "./images/Dependencia_financiera.jpg"
         }
     ]
 }

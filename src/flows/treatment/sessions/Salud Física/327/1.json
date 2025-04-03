@@ -1,14 +1,14 @@
 {
-    "header_text": "Poniéndose al día con los amigos",
+    "header_text": "Larga caminata afuera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Poniéndose al día con los amigos"
+            "text": "Larga caminata afuera"
         },
         {
             "type": "Media",
-            "url": "./images/Poniéndose_al_día_con_los_amigos.jpg"
+            "url": "./images/Larga_caminata_afuera.jpg"
         }
     ]
 }

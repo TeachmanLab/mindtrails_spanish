@@ -1,11 +1,14 @@
 {
-    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_text": "Hora para dormir",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Text",
-            "text": "Recuerde que investigar sus síntomas de salud en Internet a menudo puede provocar una espiral de ansiedad. Intente preguntarle a un amigo cercano si puede confiarle cómo se siente."
+            "type": "Label",
+            "text": "Hora para dormir"
+        },
+        {
+            "type": "Media",
+            "url": "./images/Hora_para_dormir.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Demasiada atención",
+    "header_text": "Salud y envejecimiento",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Demasiada atención"
+            "text": "Salud y envejecimiento"
         },
         {
             "type": "Media",
-            "url": "./images/Demasiada_atención.jpg"
+            "url": "./images/Salud_y_envejecimiento.jpg"
         }
     ]
 }

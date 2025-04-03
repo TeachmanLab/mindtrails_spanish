@@ -1,14 +1,14 @@
 {
-    "header_text": "sintiéndote ansioso",
+    "header_text": "Compañero de autobús",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "sintiéndote ansioso"
+            "text": "Compañero de autobús"
         },
         {
             "type": "Media",
-            "url": "./images/sintiéndote_ansioso.jpg"
+            "url": "./images/Compañero_de_autobús.jpg"
         }
     ]
 }

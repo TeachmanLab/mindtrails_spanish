@@ -1,14 +1,14 @@
 {
-    "header_text": "Trabajo inacabado",
+    "header_text": "Probando comidas nuevas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trabajo inacabado"
+            "text": "Probando comidas nuevas"
         },
         {
             "type": "Media",
-            "url": "./images/Trabajo_inacabado.jpg"
+            "url": "./images/Probando_comidas_nuevas.jpg"
         }
     ]
 }

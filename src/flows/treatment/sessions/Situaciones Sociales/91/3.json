@@ -1,14 +1,14 @@
 {
-    "header_text": "Apoyándose en sus compañeros",
+    "header_text": "Puntuaciones de redes sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recibes tu evaluación hoy y tus resultados son más bajos de lo que esperabas. Tus compañeros hablan de sus resultados y son más positivos que los tuyos. si les cuentas a tus compañeros sobre los resultados de tu evaluación, serán..."
+            "text": "Recientemente descargaste una aplicación de redes sociales y cuando comparas tu puntuación con la de otras personas que conoces, notas que la tuya es muy baja. si alguien ve tu puntuación, sabrá que no utilizas la aplicación tanto como ellos. Esto te hace sentir..."
         },
         {
             "type": "Entry",
-            "name": "Apoyándose en sus compañeros_Situaciones Sociales_entry1"
+            "name": "Puntuaciones de redes sociales_Situaciones Sociales_entry1"
         }
     ]
 }

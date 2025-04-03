@@ -1,19 +1,19 @@
 {
-    "header_text": "Ruido repentino",
+    "header_text": "Tomar precauciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás caminando hacia el trabajo cuando de repente escuchas un ruido detrás de ti. Cuando giras rápidamente la cabeza para ver qué es, te sientes mareado y empiezas a preocuparte de que perderás el..."
+            "text": "Tus hijos están de vuelta en persona en la escuela. Te preocupa que un compañero de clase pueda darles COVID, y que sus hijos puedan enfermarse realmente. Tú decides que te asegurarás de que se queden enmascarados y aprenderás a lavarse siempre las manos para mantenerlas... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Ruido repentino_Salud Física_puzzle1",
+            "name": "Tomar precauciones_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "control"
+                "seguras"
             ],
             "missing_letter_count": 1
         }

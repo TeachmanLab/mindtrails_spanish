@@ -1,14 +1,14 @@
 {
-    "header_text": "Problemas de visión",
+    "header_text": "Boca seca",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Problemas de visión"
+            "text": "Boca seca"
         },
         {
             "type": "Media",
-            "url": "./images/Problemas_de_visión.jpg"
+            "url": "./images/Boca_seca.jpg"
         }
     ]
 }

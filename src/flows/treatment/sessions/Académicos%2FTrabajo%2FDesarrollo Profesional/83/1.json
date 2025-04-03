@@ -1,14 +1,14 @@
 {
-    "header_text": "Trabajo inacabado",
+    "header_text": "Hilo de pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trabajo inacabado"
+            "text": "Hilo de pensamientos"
         },
         {
             "type": "Media",
-            "url": "./images/Trabajo_inacabado.jpg"
+            "url": "./images/Hilo_de_pensamientos.jpg"
         }
     ]
 }

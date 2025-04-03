@@ -1,14 +1,11 @@
 {
-    "header_text": "Conducción segura",
+    "header_text": "Maneja tus sentimientos: Vida Familiar y Doméstica",
     "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Conducción segura"
-        },
-        {
-            "type": "Media",
-            "url": "./images/Conducción_segura.jpg"
+            "type": "Text",
+            "text": "Está bien si necesitas un descanso de tus seres queridos. Date el espacio que necesitas para recargar energías."
         }
     ]
 }

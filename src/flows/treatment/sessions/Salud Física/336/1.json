@@ -1,14 +1,15 @@
 {
-    "header_text": "Dolor de estómago",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
     "header_icon": "assets/subtitle.png",
+    "name": "¡Consejo para aplicar!",
     "elements": [
         {
-            "type": "Label",
-            "text": "Dolor de estómago"
+            "type": "Text",
+            "text": "Cuando te encuentras saltando al peor de los casos sin toda la información, ¿cualés son algunas cosas que podrías decirte a ti mismo? Piensas en algunas habilidades de las historias que has leído que podrían ser útiles para ti. "
         },
         {
-            "type": "Media",
-            "url": "./images/Dolor_de_estómago.jpg"
+            "type": "Entry",
+            "name": "Consejo #4_entry"
         }
     ]
 }

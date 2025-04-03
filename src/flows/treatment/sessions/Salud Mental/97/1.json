@@ -1,14 +1,14 @@
 {
-    "header_text": "Enseñando a otros",
+    "header_text": "Recuerdo conduciendo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Enseñando a otros"
+            "text": "Recuerdo conduciendo"
         },
         {
             "type": "Media",
-            "url": "./images/Enseñando_a_otros.jpg"
+            "url": "./images/Recuerdo_conduciendo.jpg"
         }
     ]
 }

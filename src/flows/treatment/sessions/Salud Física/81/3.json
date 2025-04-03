@@ -1,14 +1,14 @@
 {
-    "header_text": "Tomando transporte",
+    "header_text": "Problemas de visión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "sientes un impulso fuerte de bajarte del avión y volver a casa, pero te sientas en el asiento más cercano. En lugar de salir, decides observar estas sensaciones y quedarte..."
+            "text": "Cuando te despiertas en la mañana, te sientas rápidamente. Tu visión se vuelve borrosa y luego todo se pone negro por un momento. Tu visión regresa despues de ese momento, y te convences que te estás quedando... "
         },
         {
             "type": "Entry",
-            "name": "Tomando transporte_Salud Física_entry2"
+            "name": "Problemas de visión_Salud Física_entry1"
         }
     ]
 }

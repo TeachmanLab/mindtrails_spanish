@@ -1,15 +1,15 @@
 {
-    "header_text": "Costos de alimentos",
+    "header_text": "Estabilidad laboral",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Vas a gastar todo tu dinero ordenando comida?"
+            "Text": "¿Puedes controlar si mantienes tu trabajo?"
         },
         {
             "type": "Buttons",
-            "name": "Costos de alimentos_Finanzas_comp_question",
+            "name": "Estabilidad laboral_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

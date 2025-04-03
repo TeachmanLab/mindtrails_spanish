@@ -1,11 +1,14 @@
 {
-    "header_text": "Recurso: Finanzas",
+    "header_text": "Gestión de crédito",
     "header_icon": "assets/subtitle.png",
-    "name": "211 (EEUU) en español",
     "elements": [
         {
-            "type": "Text",
-            "text": "211 (EEUU) en español\n\n211 conecta a personas en EEUU con recursos económicos locales.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "type": "Label",
+            "text": "Gestión de crédito"
+        },
+        {
+            "type": "Media",
+            "url": "./images/Gestión_de_crédito.jpg"
         }
     ]
 }

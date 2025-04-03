@@ -1,14 +1,14 @@
 {
-    "header_text": "Mantener a la familia",
+    "header_text": "Decidiendo algo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Quieres que tu familia tenga buenas oportunidades educativas. Tú quieres que tus hijos puedan asistir a buenas universidades, pero comprendas que esto tiene un precio alto. Cuando piensas en tus hijos, piensaa que apoyar su educación universitaria será..."
+            "text": "Estás en el concesionario local de automóviles buscando comprar un carro nuevo. Después de considerar todas las opciones, todavía estás indeciso entre dos carros. Cuando le dices al vendedor qué carro decidiste comprar, te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Mantener a la familia_Finanzas_entry1"
+            "name": "Decidiendo algo_Finanzas_entry1"
         }
     ]
 }

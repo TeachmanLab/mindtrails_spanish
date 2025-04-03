@@ -1,14 +1,14 @@
 {
-    "header_text": "Opiniones fuertes",
+    "header_text": "Bromistas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Opiniones fuertes"
+            "text": "Bromistas"
         },
         {
             "type": "Media",
-            "url": "./images/Opiniones_fuertes.jpg"
+            "url": "./images/Bromistas.jpg"
         }
     ]
 }

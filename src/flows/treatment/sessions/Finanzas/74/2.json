@@ -1,14 +1,14 @@
 {
-    "header_text": "Decidiendo algo",
+    "header_text": "Gestión de facturas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en el concesionario local de automóviles buscando comprar un carro nuevo. Después de considerar todas las opciones, todavía estás indeciso entre dos carros. Cuando le dices al vendedor qué carro decidiste comprar, te sientes..."
+            "text": "La factura de tu tarjeta de crédito del mes llegará pronto. Has gastado un poco más este mes de lo normal. Cuando piensas en tus finanzas futuras, sientes que estarás... "
         },
         {
             "type": "Entry",
-            "name": "Decidiendo algo_Finanzas_entry1"
+            "name": "Gestión de facturas_Finanzas_entry1"
         }
     ]
 }

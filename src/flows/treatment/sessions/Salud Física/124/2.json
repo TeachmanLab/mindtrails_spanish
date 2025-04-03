@@ -1,19 +1,19 @@
 {
-    "header_text": "Tos después de salir",
+    "header_text": "Cancelación de concierto",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Durante los últimos días, has empezado a tener una tos. Saliste el fin de semana pasado y te preguntas si podrías haber contraído COVID. Decides hacerte la..."
+            "text": "Comprastes tiquetes a un concierto y finalmente se acerca la fecha. sin embargo, los números de COVID están aumentando en tu estado y puede que se cancele el concierto en el último momento. Aceptas esto y sabes que la banda reprogramará si es..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Tos después de salir_Salud Física_puzzle1",
+            "name": "Cancelación de concierto_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "prueba"
+                "necesario"
             ],
             "missing_letter_count": 1
         }

@@ -1,21 +1,24 @@
 {
-    "header_text": "Miedo al COVID",
+    "header_text": "Confianza en las redes sociales",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Decides hablar con tu amigo y aprender que estaba evitando ir al doctor porque le faltaba información sobre el proceso. Le dices lo que sabes y te alegras de haber sido capaz de proporcionar.."
+            "Text": "¿Te preocupa lo que la otra persona piensa de tu feed?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Miedo al COVID_Situaciones Sociales_puzzle_word2",
+            "type": "Buttons",
+            "name": "Confianza en las redes sociales_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "apoyo"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

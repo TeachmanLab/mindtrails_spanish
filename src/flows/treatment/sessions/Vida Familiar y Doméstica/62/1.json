@@ -1,14 +1,14 @@
 {
-    "header_text": "Puntos de vista hacia la terapia",
+    "header_text": "Hablando sobre vivienda",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Puntos de vista hacia la terapia"
+            "text": "Hablando sobre vivienda"
         },
         {
             "type": "Media",
-            "url": "./images/Puntos_de_vista_hacia_la_terapia.jpg"
+            "url": "./images/Hablando_sobre_vivienda.jpg"
         }
     ]
 }

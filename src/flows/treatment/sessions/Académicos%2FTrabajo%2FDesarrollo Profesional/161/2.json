@@ -1,19 +1,19 @@
 {
-    "header_text": "Mal rumor",
+    "header_text": "Primeras impresiones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Escuchaste un rumor de que tu supervisor planea despedir a alguien en tu puesto. Aunque normalmente eres un buen empleado, llegaste tarde a una reunión a principios de esta semana. sientes que la probabilidad de que te degraden es..."
+            "text": "Se contrató un supervisor nuevo en tu departamento y escuchas que es muy preciso sobre cómo se deben hacer las cosas. Lo conoces por primera vez y hablan sobre el próximo mes. Cuando sales de la reunión, piensas que él cree que eres... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Mal rumor_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "name": "Primeras impresiones_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "mínima"
+                "inteligente"
             ],
             "missing_letter_count": 2
         }

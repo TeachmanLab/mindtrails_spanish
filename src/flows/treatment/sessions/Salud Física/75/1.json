@@ -1,14 +1,14 @@
 {
-    "header_text": "Subiendo escaleras",
+    "header_text": "sintiéndote mareado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Subiendo escaleras"
+            "text": "sintiéndote mareado"
         },
         {
             "type": "Media",
-            "url": "./images/Subiendo_escaleras.jpg"
+            "url": "./images/sintiéndote_mareado.jpg"
         }
     ]
 }

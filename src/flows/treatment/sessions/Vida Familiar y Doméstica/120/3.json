@@ -1,24 +1,24 @@
 {
-    "header_text": "Sonidos por la noche",
+    "header_text": "Costos inesperados",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Deberías preocuparte por el ruido fuerte?"
+            "Text": "Pensando en los próximos años, te ves a ti mismo..."
         },
         {
             "type": "Buttons",
-            "name": "Sonidos por la noche_Vida Familiar y Doméstica_comp_question",
+            "name": "Costos inesperados_Vida Familiar y Doméstica_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "siendo propietario de una casa.",
+                "Continuando alquilar una casa."
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Continuando alquilar una casa."
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Una nueva relación",
+    "header_text": "Recibir reconocimiento",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una nueva relación"
+            "text": "Recibir reconocimiento"
         },
         {
             "type": "Media",
-            "url": "./images/Una_nueva_relación.jpg"
+            "url": "./images/Recibir_reconocimiento.jpg"
         }
     ]
 }

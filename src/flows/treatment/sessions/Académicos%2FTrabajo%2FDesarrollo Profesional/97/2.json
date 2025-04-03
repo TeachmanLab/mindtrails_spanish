@@ -1,14 +1,14 @@
 {
-    "header_text": "Desconectandote",
+    "header_text": "Tu Currículum",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en una reunión en Zoom y te desconectas por un minuto. Tu jefa te hace una pregunta y no la escuchaste. Le pides que repita su pregunta y esto te hace sentir..."
+            "text": "Te estás preparando para solicitar un trabajo nuevo. Tienes una reunión con un posible empleador mañana, y sabes que un buen currículum será un factor importante. Mientras revisas tu currículum, piensas que el entrevistador será... "
         },
         {
             "type": "Entry",
-            "name": "Desconectandote_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Tu Currículum_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ]
 }

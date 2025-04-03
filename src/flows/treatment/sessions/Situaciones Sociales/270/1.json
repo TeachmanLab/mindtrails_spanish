@@ -1,14 +1,14 @@
 {
-    "header_text": "Broma interna",
+    "header_text": "Nuevo ambiente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Broma interna"
+            "text": "Nuevo ambiente"
         },
         {
             "type": "Media",
-            "url": "./images/Broma_interna.jpg"
+            "url": "./images/Nuevo_ambiente.jpg"
         }
     ]
 }

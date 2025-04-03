@@ -1,14 +1,11 @@
 {
-    "header_text": "Lecciones Aprendidas",
+    "header_text": "Recurso: Salud Física",
     "header_icon": "assets/subtitle.png",
+    "name": "Guía de Métodos Anticonceptivos por el FDA",
     "elements": [
         {
             "type": "Text",
-            "Text": "¡Excelente trabajo! ¡Estás haciendo un gran progreso al probar nuevas perspectivas relacionadas con la salud física! Tómate unos minutos para reflexionar sobre los cuentos cortos que has leído hasta ahora. ¿Qué has aprendido? ¿Cuáles son tus principales conclusiones? Por ejemplo, podrías notar que sensaciones incómodas en tu cuerpo, como un corazón acelerado, a menudo no son peligrosas."
-        },
-        {
-            "type": "Entry",
-            "name": "lessons_learned_Salud Física_270"
+            "text": "Guía de Métodos Anticonceptivos por el FDA\n\nGuía de métodos anticonceptivos proporcionada por el FDA que compara todo tipo de anticonceptivos.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Revisión física anual",
+    "header_text": "Quedando atrás",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Revisión física anual"
+            "text": "Quedando atrás"
         },
         {
             "type": "Media",
-            "url": "./images/Revisión_física_anual.jpg"
+            "url": "./images/Quedando_atrás.jpg"
         }
     ]
 }

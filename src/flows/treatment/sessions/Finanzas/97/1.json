@@ -1,14 +1,14 @@
 {
-    "header_text": "Ahorrando dinero",
+    "header_text": "Costos inesperados",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ahorrando dinero"
+            "text": "Costos inesperados"
         },
         {
             "type": "Media",
-            "url": "./images/Ahorrando_dinero.jpg"
+            "url": "./images/Costos_inesperados.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Enseñando a otros",
+    "header_text": "Recuerdo conduciendo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has sido seleccionado para dirigir una clase de capacitación para nuevos empleados. El líder anterior era muy querido y te preocupa no poder estar a la altura de las expectativas de los demás sobre el curso. Recuerdas que conoces bien el material y cuando piensas en liderar el curso, tienes..."
+            "text": "Estás manejando a la casa de un amigo en el pueblo donde vivías antes. Cuando llegas a la entrada, tienes un fuerte recuerdo de cuando solías visitar esta casa hace muchos años. Empiezas a sentir ansiedad por sentirte desorientado, y decides que lo que harás con estos sentimientos es simplemente dejarlos..."
         },
         {
             "type": "Entry",
-            "name": "Enseñando a otros_Salud Mental_entry1"
+            "name": "Recuerdo conduciendo_Salud Mental_entry1"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Un pastel de cumpleaños",
+    "header_text": "Corriendo fuerte",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un pastel de cumpleaños"
+            "text": "Corriendo fuerte"
         },
         {
             "type": "Media",
-            "url": "./images/Un_pastel_de_cumpleaños.jpg"
+            "url": "./images/Corriendo_fuerte.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Pasando tiempo con amigos",
+    "header_text": "La nueva ciudad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pasando tiempo con amigos"
+            "text": "La nueva ciudad"
         },
         {
             "type": "Media",
-            "url": "./images/Pasando_tiempo_con_amigos.jpg"
+            "url": "./images/La_nueva_ciudad.jpg"
         }
     ]
 }

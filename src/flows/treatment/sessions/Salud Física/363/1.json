@@ -1,14 +1,14 @@
 {
-    "header_text": "Clase de baile",
+    "header_text": "Corriendo en el frío",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Clase de baile"
+            "text": "Corriendo en el frío"
         },
         {
             "type": "Media",
-            "url": "./images/Clase_de_baile.jpg"
+            "url": "./images/Corriendo_en_el_frío.jpg"
         }
     ]
 }

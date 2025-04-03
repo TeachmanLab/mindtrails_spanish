@@ -1,14 +1,14 @@
 {
-    "header_text": "Correo electrónico importante",
+    "header_text": "Correo electrónico perspicaz",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Correo electrónico importante"
+            "text": "Correo electrónico perspicaz"
         },
         {
             "type": "Media",
-            "url": "./images/Correo_electrónico_importante.jpg"
+            "url": "./images/Correo_electrónico_perspicaz.jpg"
         }
     ]
 }

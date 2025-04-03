@@ -1,14 +1,14 @@
 {
-    "header_text": "Casa bilingüe",
+    "header_text": "Opiniones opuestas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Casa bilingüe"
+            "text": "Opiniones opuestas"
         },
         {
             "type": "Media",
-            "url": "./images/Casa_bilingüe.jpg"
+            "url": "./images/Opiniones_opuestas.jpg"
         }
     ]
 }

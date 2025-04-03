@@ -1,14 +1,14 @@
 {
-    "header_text": "Compartiendo programas favoritos",
+    "header_text": "Cambio de planes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Compartiendo programas favoritos"
+            "text": "Cambio de planes"
         },
         {
             "type": "Media",
-            "url": "./images/Compartiendo_programas_favoritos.jpg"
+            "url": "./images/Cambio_de_planes.jpg"
         }
     ]
 }

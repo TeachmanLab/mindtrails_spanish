@@ -1,14 +1,14 @@
 {
-    "header_text": "Subiendo una montaña",
+    "header_text": "Garganta seca",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Subiendo una montaña"
+            "text": "Garganta seca"
         },
         {
             "type": "Media",
-            "url": "./images/Subiendo_una_montaña.jpg"
+            "url": "./images/Garganta_seca.jpg"
         }
     ]
 }

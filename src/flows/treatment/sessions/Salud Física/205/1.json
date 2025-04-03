@@ -1,14 +1,14 @@
 {
-    "header_text": "Agarrando el ritmo",
+    "header_text": "Un golpe accidental",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Agarrando el ritmo"
+            "text": "Un golpe accidental"
         },
         {
             "type": "Media",
-            "url": "./images/Agarrando_el_ritmo.jpg"
+            "url": "./images/Un_golpe_accidental.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Exponer a un amigo",
+    "header_text": "Pensamientos del grupo de teatro",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Exponer a un amigo"
+            "text": "Pensamientos del grupo de teatro"
         },
         {
             "type": "Media",
-            "url": "./images/Exponer_a_un_amigo.jpg"
+            "url": "./images/Pensamientos_del_grupo_de_teatro.jpg"
         }
     ]
 }

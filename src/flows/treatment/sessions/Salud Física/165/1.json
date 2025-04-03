@@ -1,14 +1,14 @@
 {
-    "header_text": "Ejercicio con un amigo",
+    "header_text": "Evaluación de salud",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ejercicio con un amigo"
+            "text": "Evaluación de salud"
         },
         {
             "type": "Media",
-            "url": "./images/Ejercicio_con_un_amigo.jpg"
+            "url": "./images/Evaluación_de_salud.jpg"
         }
     ]
 }

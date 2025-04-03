@@ -1,14 +1,14 @@
 {
-    "header_text": "Nuevo estilo",
+    "header_text": "Manejando tareas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nuevo estilo"
+            "text": "Manejando tareas"
         },
         {
             "type": "Media",
-            "url": "./images/Nuevo_estilo.jpg"
+            "url": "./images/Manejando_tareas.jpg"
         }
     ]
 }

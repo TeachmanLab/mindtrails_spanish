@@ -1,14 +1,14 @@
 {
-    "header_text": "Usando tecnología diferente",
+    "header_text": "Trabajo inacabado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Usando tecnología diferente"
+            "text": "Trabajo inacabado"
         },
         {
             "type": "Media",
-            "url": "./images/Usando_tecnología_diferente.jpg"
+            "url": "./images/Trabajo_inacabado.jpg"
         }
     ]
 }

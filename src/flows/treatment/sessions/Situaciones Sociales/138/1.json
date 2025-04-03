@@ -1,14 +1,14 @@
 {
-    "header_text": "Haciendo un brindis",
+    "header_text": "Usando algo viejo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Haciendo un brindis"
+            "text": "Usando algo viejo"
         },
         {
             "type": "Media",
-            "url": "./images/Haciendo_un_brindis.jpg"
+            "url": "./images/Usando_algo_viejo.jpg"
         }
     ]
 }

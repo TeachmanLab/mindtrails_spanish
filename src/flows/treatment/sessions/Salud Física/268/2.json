@@ -1,19 +1,19 @@
 {
-    "header_text": "Boca seca",
+    "header_text": "Celebraciones en un juego deportivo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has sentido sequedad en la boca durante unos días. Te preguntas si la sequedad de boca es un efecto secundario menor de un medicamento que acabas de empezar a tomar o algo más grave. La probabilidad de que la boca seca refleje un problema de salud grave es..."
+            "text": "Estás en un juego deportivo. La multitud está alentando ruidosamente a tu equipo, y tu cabeza está lateando. Te sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Boca seca_Salud Física_puzzle1",
+            "name": "Celebraciones en un juego deportivo_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "mínima"
+                "preocupado"
             ],
             "missing_letter_count": 2
         }

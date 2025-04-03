@@ -1,15 +1,15 @@
 {
-    "header_text": "Deprimido",
+    "header_text": "Reorganización después de la exposición",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Te sientes normal?"
+            "Text": "¿Su supervisor lo penalizará por estar expuesto?"
         },
         {
             "type": "Buttons",
-            "name": "Deprimido_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Reorganización después de la exposición_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "correct_value": "Sí"
+            "correct_value": "No"
         }
     ]
 }

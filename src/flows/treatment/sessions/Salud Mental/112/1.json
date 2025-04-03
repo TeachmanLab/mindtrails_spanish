@@ -1,14 +1,14 @@
 {
-    "header_text": "Nadando vueltas",
+    "header_text": "Práctica de presentación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nadando vueltas"
+            "text": "Práctica de presentación"
         },
         {
             "type": "Media",
-            "url": "./images/Nadando_vueltas.jpg"
+            "url": "./images/Práctica_de_presentación.jpg"
         }
     ]
 }

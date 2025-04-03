@@ -1,14 +1,14 @@
 {
-    "header_text": "Dando vueltas",
+    "header_text": "Recuperando el aliento",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Dando vueltas"
+            "type": "Text",
+            "text": "Es una mañana fresca y estás subiendo unas escaleras para llegar a tu trabajo. Empiezas a sentirte realmente sin aliento cuando llegas al último escalón. Tomas un segundo para respirar y sentirte..."
         },
         {
-            "type": "Media",
-            "url": "./images/Dando_vueltas.jpg"
+            "type": "Entry",
+            "name": "Recuperando el aliento_Salud Física_entry1"
         }
     ]
 }

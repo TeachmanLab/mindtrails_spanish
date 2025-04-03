@@ -1,14 +1,14 @@
 {
-    "header_text": "Revisando tus cualificaciones",
+    "header_text": "Aceptando elogios",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Revisando tus cualificaciones"
+            "text": "Aceptando elogios"
         },
         {
             "type": "Media",
-            "url": "./images/Revisando_tus_cualificaciones.jpg"
+            "url": "./images/Aceptando_elogios.jpg"
         }
     ]
 }

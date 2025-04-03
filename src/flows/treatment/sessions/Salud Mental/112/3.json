@@ -1,21 +1,24 @@
 {
-    "header_text": "Nadando vueltas",
+    "header_text": "Práctica de presentación",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Decides que puedes tolerar estas sensaciones, y sigues..."
+            "Text": "¿Crees que estás bien preparado?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Nadando vueltas_Salud Mental_puzzle_word2",
+            "type": "Buttons",
+            "name": "Práctica de presentación_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "nadando"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Sí"
         }
     ]
 }

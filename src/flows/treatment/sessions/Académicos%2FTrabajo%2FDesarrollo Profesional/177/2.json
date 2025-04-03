@@ -1,14 +1,14 @@
 {
-    "header_text": "Anticipación de entrevista",
+    "header_text": "Certidumbre de estar en lo correcto",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Te están entrevistando para un puesto de liderazgo dentro de tu departamento. Antes de entrar en la oficina, notas que te sientes tembloroso. Te sientes increíblemente..."
+            "type": "Label",
+            "text": "Certidumbre de estar en lo correcto"
         },
         {
-            "type": "Entry",
-            "name": "Anticipación de entrevista_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "type": "Media",
+            "url": "./images/Certidumbre_de_estar_en_lo_correcto.jpg"
         }
     ]
 }

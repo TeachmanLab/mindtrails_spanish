@@ -1,19 +1,19 @@
 {
-    "header_text": "Serpientes venenosas",
+    "header_text": "Nadando en la playa",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo te convence a dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque y comienzas a sentirte preocupados. Piensas que las posibilidades de que veas ese tipo de serpiente son..."
+            "text": "Despues de enterarte de que un amigo está enfermo, decides ir a la playa para un día relajante. Cuando intentas nadar en el mar, te cuesta aguantar la respiración bajo el agua. Probablemente es porque hace un tiempo que no... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Serpientes venenosas_Salud Física_puzzle1",
+            "name": "Nadando en la playa_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "pequeñas"
+                "nadas"
             ],
             "missing_letter_count": 1
         }

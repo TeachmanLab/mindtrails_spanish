@@ -1,21 +1,24 @@
 {
-    "header_text": "Zambullirte",
+    "header_text": "Plato típico",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Recuerdas que estarán concentrados en nadar y que todos los demás también estarán usando trajes de baño. Esto te..."
+            "Text": "Cuando piensas en las reacciones a tu comida, te imaginas a los otros invitados..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Zambullirte_Situaciones Sociales_puzzle_word2",
+            "type": "Buttons",
+            "name": "Plato típico_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "reconforta"
+            "buttons": [
+                "Dejando sus porciones en sus platos.",
+                "sirviéndose una segunda vez."
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Dejando sus porciones en sus platos."
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Corriendo en el frío",
+    "header_text": "Dando una presentación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Corriendo en el frío"
+            "text": "Dando una presentación"
         },
         {
             "type": "Media",
-            "url": "./images/Corriendo_en_el_frío.jpg"
+            "url": "./images/Dando_una_presentación.jpg"
         }
     ]
 }

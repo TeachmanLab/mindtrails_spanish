@@ -1,24 +1,24 @@
 {
-    "header_text": "Sentirse ansioso",
+    "header_text": "Tu Currículum",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿siempre sentirás ansiedad?"
+            "Text": "Crees que tu currículum podría..."
         },
         {
             "type": "Buttons",
-            "name": "Sentirse ansioso_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Tu Currículum_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Ser un factor importante en una oferta de trabajo eventualmente.",
+                "Ser la razón principal por la que no recibas respuesta de este empleador."
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Ser la razón principal por la que no recibas respuesta de este empleador."
         }
     ]
 }

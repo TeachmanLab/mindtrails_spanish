@@ -1,14 +1,14 @@
 {
-    "header_text": "Opinión diferente",
+    "header_text": "Tomando notas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Opinión diferente"
+            "text": "Tomando notas"
         },
         {
             "type": "Media",
-            "url": "./images/Opinión_diferente.jpg"
+            "url": "./images/Tomando_notas.jpg"
         }
     ]
 }

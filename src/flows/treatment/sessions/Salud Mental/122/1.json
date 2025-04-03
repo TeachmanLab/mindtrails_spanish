@@ -1,14 +1,14 @@
 {
-    "header_text": "Trabajo inacabado",
+    "header_text": "Dolor de estómago",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trabajo inacabado"
+            "text": "Dolor de estómago"
         },
         {
             "type": "Media",
-            "url": "./images/Trabajo_inacabado.jpg"
+            "url": "./images/Dolor_de_estómago.jpg"
         }
     ]
 }

@@ -1,15 +1,15 @@
 {
-    "header_text": "Iniciando un negocio pequeño",
+    "header_text": "Costos inesperados",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que tu pequeña empresa será rentable?"
+            "Text": "¿Puedes tomar una decisión razonable a pesar de cierta incertidumbre en tus estimaciones?"
         },
         {
             "type": "Buttons",
-            "name": "Iniciando un negocio pequeño_Finanzas_comp_question",
+            "name": "Costos inesperados_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

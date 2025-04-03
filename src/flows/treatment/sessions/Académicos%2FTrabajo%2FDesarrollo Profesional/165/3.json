@@ -1,24 +1,21 @@
 {
-    "header_text": "Cambiando tu trayectoria",
+    "header_text": "Juzgando tu desempeño",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Dado tu probable resultado en el mercado laboral, tu mejor opción es..."
+            "text": "En este momento no estás contento, pero piensas en la presentación general de tu grupo. Te das cuenta de que estuvo..."
         },
         {
-            "type": "Buttons",
-            "name": "Cambiando tu trayectoria_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "Juzgando tu desempeño_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Quedarte quieto aunque sea aburrido.",
-                "Intentar encontrar un trabajo en algún lugar que realmente te desafíe."
+            "words": [
+                "bien"
             ],
-            "columnCount": 1,
-            "correct_value": "Quedarte quieto aunque sea aburrido."
+            "missing_letter_count": 2
         }
     ]
 }

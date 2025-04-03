@@ -1,19 +1,19 @@
 {
-    "header_text": "Tiempo para ti mismo",
+    "header_text": "Apartamento nuevo para ti",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu parte favorita del día es relajarte para cenar. Cuando empiezas a preparar la cena, te das cuenta de que has estado comiendo solo mucho recientemente, y te sientes triste. Decides que estás bien con este hecho, ya que te da tiempo para reflexionar sobre tu... "
+            "text": "Acabas de mudarte a un nuevo apartamento y vives solo por primera vez en mucho tiempo. Tus días son muy tranquilos y a menudo te quedas en casa los fines de semana con muchos menos planes que cuando vivías con gente. Esto se siente como un relajante cambio de..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Tiempo para ti mismo_Situaciones Sociales_puzzle1",
+            "name": "Apartamento nuevo para ti_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "día"
+                "ritmo"
             ],
             "missing_letter_count": 1
         }

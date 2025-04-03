@@ -1,24 +1,21 @@
 {
-    "header_text": "Un golpe accidental",
+    "header_text": "Dando vueltas",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Piensas que el dolor de cabeza es señal que..."
+            "text": "Decides girar rápidamente en una silla de oficina. sientes mariposas en el estómago y te mareas cuando la silla se desacelera. Estas sensaciones probablemente significan que estás..."
         },
         {
-            "type": "Buttons",
-            "name": "Un golpe accidental_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Dando vueltas_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Estás seriamente lesionado.",
-                "Estás mejorando."
+            "words": [
+                "bien"
             ],
-            "columnCount": 1,
-            "correct_value": "Estás seriamente lesionado."
+            "missing_letter_count": 1
         }
     ]
 }

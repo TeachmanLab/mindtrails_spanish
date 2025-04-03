@@ -1,11 +1,14 @@
 {
-    "header_text": "Recurso: Salud Mental",
+    "header_text": "Tu nueva publicación",
     "header_icon": "assets/subtitle.png",
-    "name": "Cuidado de Salud (Healthcare.gov)\n",
     "elements": [
         {
-            "type": "Text",
-            "text": "Cuidado de Salud (Healthcare.gov)\n\n\nProporciona servicios relacionados con obtener seguro médico a través del Affordable Care Act.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "type": "Label",
+            "text": "Tu nueva publicación"
+        },
+        {
+            "type": "Media",
+            "url": "./images/Tu_nueva_publicación.jpg"
         }
     ]
 }

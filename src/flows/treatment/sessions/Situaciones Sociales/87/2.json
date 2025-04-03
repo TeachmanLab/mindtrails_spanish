@@ -1,14 +1,14 @@
 {
-    "header_text": "Tropezar en público",
+    "header_text": "Comunicación tardía",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás llamado a ponerste de pie y presentarte a un nuevo miembro del equipo en la reunión de tu departamento. Tropiezas al levantarte de tu silla. Cuando piensas que todos te han visto tropezar, te sientes..."
+            "text": "Tu amigo te invita a una cena y después de salir, casualmente mencionan que una de las personas allí estaba enfermo. No puedes creer que tu amigo no te dijera esto antes de que te llevara a la cena. Decides hablar con tu amigo al respecto y ambos deciden aislarse por unos días  por si acaso uno se enferma y comunicarse mejor sobre situaciones de... "
         },
         {
             "type": "Entry",
-            "name": "Tropezar en público_Situaciones Sociales_entry1"
+            "name": "Comunicación tardía_Situaciones Sociales_entry1"
         }
     ]
 }

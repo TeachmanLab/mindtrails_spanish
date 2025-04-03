@@ -1,14 +1,14 @@
 {
-    "header_text": "Broma interna",
+    "header_text": "Amigo ruidoso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Broma interna"
+            "text": "Amigo ruidoso"
         },
         {
             "type": "Media",
-            "url": "./images/Broma_interna.jpg"
+            "url": "./images/Amigo_ruidoso.jpg"
         }
     ]
 }

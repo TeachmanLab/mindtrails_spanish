@@ -1,14 +1,14 @@
 {
-    "header_text": "Proyecto eliminado",
+    "header_text": "Vaso de agua",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Proyecto eliminado"
+            "type": "Text",
+            "text": "Mientras estás en una cita, accidentalmente derramas un vaso de agua. Te sientes ligeramente avergonzado mientras tu cita te ayuda a limpiar el agua. Cuando todo está seco, sientes que el resto de la cita probablemente será..."
         },
         {
-            "type": "Media",
-            "url": "./images/Proyecto_eliminado.jpg"
+            "type": "Entry",
+            "name": "Vaso de agua_Salud Mental_entry1"
         }
     ]
 }

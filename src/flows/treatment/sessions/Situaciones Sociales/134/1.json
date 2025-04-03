@@ -1,14 +1,14 @@
 {
-    "header_text": "Atención en la tienda",
+    "header_text": "Redes sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Atención en la tienda"
+            "text": "Redes sociales"
         },
         {
             "type": "Media",
-            "url": "./images/Atención_en_la_tienda.jpg"
+            "url": "./images/Redes_sociales.jpg"
         }
     ]
 }

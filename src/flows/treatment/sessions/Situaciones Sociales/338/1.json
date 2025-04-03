@@ -1,14 +1,14 @@
 {
-    "header_text": "Presentación importante",
+    "header_text": "Tiempo para ti mismo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Presentación importante"
+            "text": "Tiempo para ti mismo"
         },
         {
             "type": "Media",
-            "url": "./images/Presentación_importante.jpg"
+            "url": "./images/Tiempo_para_ti_mismo.jpg"
         }
     ]
 }

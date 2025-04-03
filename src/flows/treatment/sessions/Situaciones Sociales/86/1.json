@@ -1,14 +1,14 @@
 {
-    "header_text": "Comunicación tardía",
+    "header_text": "Tartamudeo en la oficina",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comunicación tardía"
+            "text": "Tartamudeo en la oficina"
         },
         {
             "type": "Media",
-            "url": "./images/Comunicación_tardía.jpg"
+            "url": "./images/Tartamudeo_en_la_oficina.jpg"
         }
     ]
 }

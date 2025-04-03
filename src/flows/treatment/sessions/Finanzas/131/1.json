@@ -1,14 +1,14 @@
 {
-    "header_text": "Presiones laborales",
+    "header_text": "Trabajos bien pagados",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Presiones laborales"
+            "text": "Trabajos bien pagados"
         },
         {
             "type": "Media",
-            "url": "./images/Presiones_laborales.jpg"
+            "url": "./images/Trabajos_bien_pagados.jpg"
         }
     ]
 }

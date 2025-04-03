@@ -1,14 +1,14 @@
 {
-    "header_text": "Una presentación importante",
+    "header_text": "Opinión importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una presentación importante"
+            "text": "Opinión importante"
         },
         {
             "type": "Media",
-            "url": "./images/Una_presentación_importante.jpg"
+            "url": "./images/Opinión_importante.jpg"
         }
     ]
 }

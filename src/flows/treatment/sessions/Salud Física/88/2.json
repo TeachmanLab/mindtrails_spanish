@@ -1,14 +1,14 @@
 {
-    "header_text": "Sudando a través de tu camisa",
+    "header_text": "Clase de baile",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Usas una camisa para ir a la escuela que te queda ajustada alrededor de las axilas. A mitad del día notas que tienes marcas de sudor. Después de pensarlo, te das cuenta de que sudar a lo largo del día es..."
+            "text": "Estás tomando una clase de baile y, durante un descanso, sientes que tus piernas se vuelven inestables. Te enfocas en estas sensaciones mientras tomas un trago de agua. Piensas que las piernas inestables probablemente signifiquen que te estás..."
         },
         {
             "type": "Entry",
-            "name": "Sudando a través de tu camisa_Salud Física_entry1"
+            "name": "Clase de baile_Salud Física_entry1"
         }
     ]
 }

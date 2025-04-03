@@ -1,14 +1,14 @@
 {
-    "header_text": "Llamada breve",
+    "header_text": "Cambiando tu trayectoria",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Llamada breve"
+            "text": "Cambiando tu trayectoria"
         },
         {
             "type": "Media",
-            "url": "./images/Llamada_breve.jpg"
+            "url": "./images/Cambiando_tu_trayectoria.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Cambio de planes",
+    "header_text": "Planes cancelados",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hiciste planes con tus amigos que has estado esperando toda la semana. Cuando conduces hasta tu casa y llamas para decirles que estás allí, parece que ya están saliendo con otras personas y te cuelgan abruptamente. Crees que tu amigo debe estar..."
+            "text": "Tienes planes para encontrarte con un amigo en la ciudad. La última vez que se vieron, tuvieron un desacuerdo. Justo antes de salir, te llaman para decir que no pueden llegar. Al colgar el teléfono, piensas que esto se debe a que están..."
         },
         {
             "type": "Entry",
-            "name": "Cambio de planes_Situaciones Sociales_entry1"
+            "name": "Planes cancelados_Situaciones Sociales_entry1"
         }
     ]
 }

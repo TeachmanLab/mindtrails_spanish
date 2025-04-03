@@ -1,14 +1,14 @@
 {
-    "header_text": "Un golpe accidental",
+    "header_text": "Larga caminata afuera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un golpe accidental"
+            "text": "Larga caminata afuera"
         },
         {
             "type": "Media",
-            "url": "./images/Un_golpe_accidental.jpg"
+            "url": "./images/Larga_caminata_afuera.jpg"
         }
     ]
 }

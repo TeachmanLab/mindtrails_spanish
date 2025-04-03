@@ -1,14 +1,14 @@
 {
-    "header_text": "Cambio de planes",
+    "header_text": "Publicar sobre la familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cambio de planes"
+            "text": "Publicar sobre la familia"
         },
         {
             "type": "Media",
-            "url": "./images/Cambio_de_planes.jpg"
+            "url": "./images/Publicar_sobre_la_familia.jpg"
         }
     ]
 }

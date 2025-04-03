@@ -1,14 +1,14 @@
 {
-    "header_text": "El malestar de estómago",
+    "header_text": "Mascarillas con piel sensible",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "El malestar de estómago"
+            "text": "Mascarillas con piel sensible"
         },
         {
             "type": "Media",
-            "url": "./images/El_malestar_de_estómago.jpg"
+            "url": "./images/Mascarillas_con_piel_sensible.jpg"
         }
     ]
 }

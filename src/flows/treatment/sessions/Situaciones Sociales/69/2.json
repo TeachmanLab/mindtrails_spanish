@@ -1,14 +1,14 @@
 {
-    "header_text": "Conocido sin mascarilla",
+    "header_text": "Planes divertidos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Conocido sin mascarilla"
+            "type": "Text",
+            "text": "Tus amigos te piden que salgas a cenar a un restaurante de lujo con ellos este fin de semana. Es muy caro y sabes que no podrás pagarlo. Cuando te imaginas diciéndole a tus amigos que no puedes ir, te sientes... "
         },
         {
-            "type": "Media",
-            "url": "./images/Conocido_sin_mascarilla.jpg"
+            "type": "Entry",
+            "name": "Planes divertidos_Situaciones Sociales_entry1"
         }
     ]
 }

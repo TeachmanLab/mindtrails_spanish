@@ -1,14 +1,14 @@
 {
-    "header_text": "Completando trabajos",
+    "header_text": "Tomar un descanso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Completando trabajos"
+            "text": "Tomar un descanso"
         },
         {
             "type": "Media",
-            "url": "./images/Completando_trabajos.jpg"
+            "url": "./images/Tomar_un_descanso.jpg"
         }
     ]
 }

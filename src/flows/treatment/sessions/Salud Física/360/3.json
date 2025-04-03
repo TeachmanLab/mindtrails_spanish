@@ -1,21 +1,21 @@
 {
-    "header_text": "Despertándote mareado",
+    "header_text": "Nadando en la playa",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu visión borrosa temporariamente significa que te estás quedando siego?"
+            "Text": "¿Tu dificultad para nadar en una señal de que tienes la enfermedad?"
         },
         {
             "type": "Buttons",
-            "name": "Despertándote mareado_Salud Física_comp_question",
+            "name": "Nadando en la playa_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
             "correct_value": "No"

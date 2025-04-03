@@ -1,14 +1,14 @@
 {
-    "header_text": "Planes para el fin de semana",
+    "header_text": "Pensamientos acelerados",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Planes para el fin de semana"
+            "text": "Pensamientos acelerados"
         },
         {
             "type": "Media",
-            "url": "./images/Planes_para_el_fin_de_semana.jpg"
+            "url": "./images/Pensamientos_acelerados.jpg"
         }
     ]
 }

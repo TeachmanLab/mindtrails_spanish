@@ -1,14 +1,14 @@
 {
-    "header_text": "Manchas de sudor",
+    "header_text": "Corriendo una maratón",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Manchas de sudor"
+            "text": "Corriendo una maratón"
         },
         {
             "type": "Media",
-            "url": "./images/Manchas_de_sudor.jpg"
+            "url": "./images/Corriendo_una_maratón.jpg"
         }
     ]
 }

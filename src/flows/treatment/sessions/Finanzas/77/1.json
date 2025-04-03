@@ -1,14 +1,14 @@
 {
-    "header_text": "Gestión de crédito",
+    "header_text": "Mercado de trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Gestión de crédito"
+            "text": "Mercado de trabajo"
         },
         {
             "type": "Media",
-            "url": "./images/Gestión_de_crédito.jpg"
+            "url": "./images/Mercado_de_trabajo.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Un corte de pelo diferente",
+    "header_text": "Plato típico",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un corte de pelo diferente"
+            "text": "Plato típico"
         },
         {
             "type": "Media",
-            "url": "./images/Un_corte_de_pelo_diferente.jpg"
+            "url": "./images/Plato_típico.jpg"
         }
     ]
 }

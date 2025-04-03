@@ -1,14 +1,14 @@
 {
-    "header_text": "Cambiar tus planes",
+    "header_text": "Recibir reconocimiento",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cambiar tus planes"
+            "text": "Recibir reconocimiento"
         },
         {
             "type": "Media",
-            "url": "./images/Cambiar_tus_planes.jpg"
+            "url": "./images/Recibir_reconocimiento.jpg"
         }
     ]
 }

@@ -1,14 +1,11 @@
 {
-    "header_text": "Miedo al COVID",
+    "header_text": "Recurso: Salud Física",
     "header_icon": "assets/subtitle.png",
+    "name": "Habilidades para afrontar las adicciones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Miedo al COVID"
-        },
-        {
-            "type": "Media",
-            "url": "./images/Miedo_al_COVID.jpg"
+            "type": "Text",
+            "text": "Habilidades para afrontar las adicciones\n\nEste PDF comparte varias estrategias de afrontamiento que se pueden usar como parte de la recuperación de diversas adicciones, incluida la búsqueda y el desarrollo de apoyos sociales, el manejo de las emociones y el uso de distracciones.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

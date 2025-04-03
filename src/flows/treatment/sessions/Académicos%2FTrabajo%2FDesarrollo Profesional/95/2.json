@@ -1,14 +1,14 @@
 {
-    "header_text": "Evaluación importante",
+    "header_text": "Proyecto de grupo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Ya casi has completado un proyecto importante. Parte de tu evaluación la determinan tus compañeros de trabajo. Conoces bien a la mayoría de ellos y sientes que sus opiniones sobre ti harán que te evalúen..."
+            "text": "Estás trabajando en un proyecto de equipo muy importante. La fecha límite del proyecto se acerca y tus colegas aún no han completado su parte, y te preguntas si deberías hacerlas. Te comunicas con ellos expresando tus preocupaciones sobre la fecha límite y la carga de trabajo, y comienzan a trabajar de manera..."
         },
         {
             "type": "Entry",
-            "name": "Evaluación importante_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Proyecto de grupo_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ]
 }

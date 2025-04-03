@@ -1,24 +1,21 @@
 {
-    "header_text": "sin aliento",
+    "header_text": "Sentirse mareado",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu dificultad para respirar está relacionada con el COVID?"
+            "text": "Decides prestar atención a las sensaciones sin juzgarlas como buenas o malas. Esto reduce tu preocupación y te hace sentir más..."
         },
         {
-            "type": "Buttons",
-            "name": "sin aliento_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Sentirse mareado_Salud Física_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "words": [
+                "tranquilo"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ]
 }

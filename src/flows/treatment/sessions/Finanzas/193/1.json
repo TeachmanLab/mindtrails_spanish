@@ -1,14 +1,14 @@
 {
-    "header_text": "Planificación de pagos",
+    "header_text": "Planes de descanso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Planificación de pagos"
+            "text": "Planes de descanso"
         },
         {
             "type": "Media",
-            "url": "./images/Planificación_de_pagos.jpg"
+            "url": "./images/Planes_de_descanso.jpg"
         }
     ]
 }

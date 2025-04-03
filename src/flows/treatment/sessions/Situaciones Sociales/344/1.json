@@ -1,14 +1,14 @@
 {
-    "header_text": "Llamada breve",
+    "header_text": "Confianza creativa",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Llamada breve"
+            "text": "Confianza creativa"
         },
         {
             "type": "Media",
-            "url": "./images/Llamada_breve.jpg"
+            "url": "./images/Confianza_creativa.jpg"
         }
     ]
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Dando positivo en una prueba de enfermedad",
+    "header_text": "sin aliento",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Unos días despues de ir a un cumpleaños con mucha gente, notas que te duele la garganta. Te haces una prueba de una enfermedad seria y sale positiva. Has tenido mucho cuidado debido a tus condiciones de salud subyacentes. Piensas en cómo afectará tu salúd y crees que podrás manejar los desafíos a medida que se..."
+            "text": "Durante una caminata este el fin de semana, notaste que te quedabas sin aliento más rápido de lo normal. Recuerdas que el COVID afecta a los pulmones y comienzas sentir pánico. Afortunadamente, sabes que has estado usando tu mascarilla y has hecho todo lo posible para prevenir el..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Dando positivo en una prueba de enfermedad_Salud Física_puzzle1",
+            "name": "sin aliento_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "presenten"
+                "COVID"
             ],
             "missing_letter_count": 1
         }

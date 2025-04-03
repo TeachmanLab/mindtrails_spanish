@@ -1,14 +1,14 @@
 {
-    "header_text": "Tiempo para ti mismo",
+    "header_text": "Fiesta con amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tiempo para ti mismo"
+            "text": "Fiesta con amigos"
         },
         {
             "type": "Media",
-            "url": "./images/Tiempo_para_ti_mismo.jpg"
+            "url": "./images/Fiesta_con_amigos.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Going to Therapy",
+    "header_text": "Reunión uno a uno",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Going to Therapy"
+            "text": "Reunión uno a uno"
         },
         {
             "type": "Media",
-            "url": "./images/Going_to_Therapy.jpg"
+            "url": "./images/Reunión_uno_a_uno.jpg"
         }
     ]
 }

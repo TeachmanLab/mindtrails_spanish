@@ -1,14 +1,14 @@
 {
-    "header_text": "Trabajo inacabado",
+    "header_text": "Hilo de pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tuviste un día muy ocupado y no pudiste realizar todas sus tareas. En la cena, tu pareja habla orgullosamente de cómo terminó todo lo que tenía en la lista de tareas pendientes. Al pensar en si podrás completar tu trabajo mañana, te sientes..."
+            "text": "Estás dando una presentación en el trabajo. Durante una de tus diapositivas, pierdes el hilo de tus pensamientos y tienes que tomar un momento para revisar tus notas. Mientras comienzas de nuevo, piensas que perder el hilo de los pensamientos durante una presentación es..."
         },
         {
             "type": "Entry",
-            "name": "Trabajo inacabado_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Hilo de pensamientos_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ]
 }

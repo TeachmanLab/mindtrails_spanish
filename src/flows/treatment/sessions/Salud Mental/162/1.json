@@ -1,11 +1,14 @@
 {
-    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_text": "Compartir con alguien nuevo",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Text",
-            "text": "La tristeza es una respuesta natural cuando no podemos controlar una situación o hemos experimentado una pérdida. Si se siente triste, intente descubrir qué está causando ese sentimiento."
+            "type": "Label",
+            "text": "Compartir con alguien nuevo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/Compartir_con_alguien_nuevo.jpg"
         }
     ]
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Pensando en preguntas",
+    "header_text": "Trabajando para salir adelante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en una charla sobre un tema complicado que te emociona mucho. Tienes muchas ideas sobre el tema, pero sientes que las preguntas que hacen los demás son más inteligentes que las tuyas. Piensas en cómo todos probablemente se ponen nerviosos al hablar también, y sabes que no están allí para..."
+            "text": "Te acaban de dar un trabajo en una oficina que realmente admiras. Para finalmente recibir el ascenso que deseas, sabes que tendrás que trabajar muy duro durante varios años y el resultado es incierto. Cuando imaginas tu probable puesto en la empresa en el futuro, espera que se te otorgue el trabajo que..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Pensando en preguntas_Salud Mental_puzzle1",
+            "name": "Trabajando para salir adelante_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "juzgar"
+                "deseas"
             ],
             "missing_letter_count": 2
         }

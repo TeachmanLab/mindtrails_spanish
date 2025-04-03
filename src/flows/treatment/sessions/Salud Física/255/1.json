@@ -1,14 +1,14 @@
 {
-    "header_text": "Dolor de estómago",
+    "header_text": "Corte de dedo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dolor de estómago"
+            "text": "Corte de dedo"
         },
         {
             "type": "Media",
-            "url": "./images/Dolor_de_estómago.jpg"
+            "url": "./images/Corte_de_dedo.jpg"
         }
     ]
 }

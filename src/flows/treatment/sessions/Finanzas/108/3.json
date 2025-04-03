@@ -1,24 +1,21 @@
 {
-    "header_text": "Equilibrio entre trabajo y estudios",
+    "header_text": "Trip After COVID",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu trabajo seguirá requiriendo todo tu tiempo?"
+            "text": "A medida que se quitan las restricciones de COVID, quieres hacer un viaje para quitarte el estrés. Debido a la pandemia, tus fondos están más bajos de lo normal. Piensas que un viaje que funcione para tu presupuesto y tu salud mental será..."
         },
         {
-            "type": "Buttons",
-            "name": "Equilibrio entre trabajo y estudios_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Trip After COVID_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "words": [
+                "posible"
             ],
-            "columnCount": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 1
         }
     ]
 }

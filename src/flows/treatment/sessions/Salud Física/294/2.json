@@ -1,14 +1,14 @@
 {
-    "header_text": "Pánico de presentación",
+    "header_text": "Un vuelo internacional",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Pánico de presentación"
+            "type": "Text",
+            "text": "Estás viajando a otro país. Durante el vuelo, miras por la ventana y te das cuenta de que nunca has estado tan alto sobre el océano. Te sientes..."
         },
         {
-            "type": "Media",
-            "url": "./images/Pánico_de_presentación.jpg"
+            "type": "Entry",
+            "name": "Un vuelo internacional_Salud Física_entry1"
         }
     ]
 }

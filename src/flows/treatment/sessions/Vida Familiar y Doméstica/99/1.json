@@ -1,14 +1,14 @@
 {
-    "header_text": "Ruidos del exterior",
+    "header_text": "Planes de vacaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ruidos del exterior"
+            "text": "Planes de vacaciones"
         },
         {
             "type": "Media",
-            "url": "./images/Ruidos_del_exterior.jpg"
+            "url": "./images/Planes_de_vacaciones.jpg"
         }
     ]
 }

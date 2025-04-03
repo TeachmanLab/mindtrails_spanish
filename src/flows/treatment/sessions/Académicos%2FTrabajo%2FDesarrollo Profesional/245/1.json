@@ -1,14 +1,14 @@
 {
-    "header_text": "Una presentación grande",
+    "header_text": "La audición",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una presentación grande"
+            "text": "La audición"
         },
         {
             "type": "Media",
-            "url": "./images/Una_presentación_grande.jpg"
+            "url": "./images/La_audición.jpg"
         }
     ]
 }

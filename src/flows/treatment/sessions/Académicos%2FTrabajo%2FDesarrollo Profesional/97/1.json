@@ -1,14 +1,14 @@
 {
-    "header_text": "Desconectandote",
+    "header_text": "Tu Currículum",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Desconectandote"
+            "text": "Tu Currículum"
         },
         {
             "type": "Media",
-            "url": "./images/Desconectandote.jpg"
+            "url": "./images/Tu_Currículum.jpg"
         }
     ]
 }

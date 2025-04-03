@@ -1,14 +1,14 @@
 {
-    "header_text": "en un barco",
+    "header_text": "Prestando de un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "en un barco"
+            "text": "Prestando de un amigo"
         },
         {
             "type": "Media",
-            "url": "./images/en_un_barco.jpg"
+            "url": "./images/Prestando_de_un_amigo.jpg"
         }
     ]
 }

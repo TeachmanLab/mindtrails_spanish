@@ -1,21 +1,21 @@
 {
-    "header_text": "Compañero de cuarto ausente",
+    "header_text": "silencio en un viaje en coche",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te molesta la ausencia de tu hermana?"
+            "Text": "¿Tu amigo se siente incómodo contigo cuando hay silencio durante el viaje?"
         },
         {
             "type": "Buttons",
-            "name": "Compañero de cuarto ausente_Situaciones Sociales_comp_question",
+            "name": "silencio en un viaje en coche_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
             "correct_value": "No"

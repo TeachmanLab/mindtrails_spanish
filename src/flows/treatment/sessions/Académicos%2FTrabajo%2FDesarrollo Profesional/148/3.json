@@ -1,24 +1,21 @@
 {
-    "header_text": "Obtener una oportunidad",
+    "header_text": "Error en una tarea",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Crees que su solicitud es:"
+            "text": "Al final, te das cuenta de que tu jefe es rápido en darte correciones porque están invirtiendo en ti y están interesados en verte..."
         },
         {
-            "type": "Buttons",
-            "name": "Obtener una oportunidad_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "Error en una tarea_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Uno que no destacará en una buena piscina.",
-                "Una buena, en relación con las otras presentaciones."
+            "words": [
+                "progresar"
             ],
-            "columnCount": 1,
-            "correct_value": "Uno que no destacará en una buena piscina."
+            "missing_letter_count": 2
         }
     ]
 }

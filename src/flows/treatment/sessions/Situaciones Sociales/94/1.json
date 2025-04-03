@@ -1,14 +1,14 @@
 {
-    "header_text": "Una presentación grande",
+    "header_text": "Cumpleaños de un amigo cercano",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una presentación grande"
+            "text": "Cumpleaños de un amigo cercano"
         },
         {
             "type": "Media",
-            "url": "./images/Una_presentación_grande.jpg"
+            "url": "./images/Cumpleaños_de_un_amigo_cercano.jpg"
         }
     ]
 }

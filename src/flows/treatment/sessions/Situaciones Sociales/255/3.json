@@ -1,24 +1,21 @@
 {
-    "header_text": "Presentando a tus amigos",
+    "header_text": "Tu mejor amigo",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás preocupado por lo que dirá tu cónyuge esta noche?"
+            "text": "Cuando piensas en eventos importantes de la vida, crees que tu amigo no se distanciará, sino que esperas que sean..."
         },
         {
-            "type": "Buttons",
-            "name": "Presentando a tus amigos_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Tu mejor amigo_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "words": [
+                "comprensivos"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ]
 }

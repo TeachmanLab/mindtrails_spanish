@@ -1,21 +1,21 @@
 {
-    "header_text": "Plato típico",
+    "header_text": "El escaparate de danza",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vas a una cena compartida, y quieres hacer un plato usando la receta de tu familia. Tienes la receta que te dieron tus padres, pero te preocupa no tener las habilidades culinarias para hacer el plato. Piensas que probablemente las personas en la fiesta crean que tu comida tiene muy buen..."
+            "text": "Has estado tomando una clase de baile en el centro comunitario local y ha llegado el momento de tu exhibición de fin de clase. Quieres invitar a tus amigos y familiares al escaparate, pero te preocupa quedar en ridículo si no eres muy bueno. Mientras decides si invitas o no gente a tu programa, te ves..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Plato típico_Situaciones Sociales_puzzle1",
+            "name": "El escaparate de danza_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "sabor"
+                "fracasando"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ]
 }

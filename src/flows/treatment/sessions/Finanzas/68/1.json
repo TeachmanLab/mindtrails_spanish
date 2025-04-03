@@ -1,14 +1,11 @@
 {
-    "header_text": "Ingresos adicionales",
+    "header_text": "Maneja tus sentimientos: Finanzas",
     "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Ingresos adicionales"
-        },
-        {
-            "type": "Media",
-            "url": "./images/Ingresos_adicionales.jpg"
+            "type": "Text",
+            "text": "Escriba dónde entra y sale su dinero y vea dónde se pueden hacer ajustes para que sus finanzas parezcan más manejables."
         }
     ]
 }

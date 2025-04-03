@@ -1,14 +1,14 @@
 {
-    "header_text": "Revisando tu trabajo",
+    "header_text": "Opiniones fuertes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Revisando tu trabajo"
+            "text": "Opiniones fuertes"
         },
         {
             "type": "Media",
-            "url": "./images/Revisando_tu_trabajo.jpg"
+            "url": "./images/Opiniones_fuertes.jpg"
         }
     ]
 }

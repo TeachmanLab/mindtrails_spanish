@@ -1,0 +1,22 @@
+{
+    "header_text": "Fiesta de Halloween:Pensamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás invitado a una fiesta de Halloween con tus companeros de trabajo y allí solo estás cerca de un par de personas. Decides usar un disfraz. Cuando llegas, todos te miran. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "A todos les encantará este disfraz.",
+                "Tal vez debería haberlo suavizado, pero sé que esto es cierto para mí.",
+                "A nadie le gusta mi disfraz.",
+                "Puede que haya usado algo demasiado loco, pero me gusta.",
+                "Creo que este disfraz es divertido."
+            ],
+            "Duration": 15
+        }
+    ],
+    "show_buttons": "WhenCorrect"
+}

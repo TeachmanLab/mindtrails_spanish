@@ -1,24 +1,24 @@
 {
-    "header_text": "Cambiando tu trayectoria",
+    "header_text": "Presentación de recaudación de fondos",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Dado tu probable resultado en el mercado laboral, tu mejor opción es..."
+            "Text": "Los compañeros de trabajo probablemente están pensando..."
         },
         {
             "type": "Buttons",
-            "name": "Cambiando tu trayectoria_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Presentación de recaudación de fondos_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Quedarte quieto aunque sea aburrido.",
-                "Intentar encontrar un trabajo en algún lugar que realmente te desafíe."
+                "Que quieren ayudarte con la recaudación de fondos.",
+                "Que no quieren ayudarte con la recaudación de fondos."
             ],
             "columnCount": 1,
-            "correct_value": "Quedarte quieto aunque sea aburrido."
+            "correct_value": "Que quieren ayudarte con la recaudación de fondos."
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Presentación de tu trabajo",
+    "header_text": "Going to Therapy",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Presentación de tu trabajo"
+            "text": "Going to Therapy"
         },
         {
             "type": "Media",
-            "url": "./images/Presentación_de_tu_trabajo.jpg"
+            "url": "./images/Going_to_Therapy.jpg"
         }
     ]
 }

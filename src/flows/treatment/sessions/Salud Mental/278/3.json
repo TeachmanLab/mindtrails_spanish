@@ -1,24 +1,21 @@
 {
-    "header_text": "Cambio de planes",
+    "header_text": "Comprometerse con las actividades",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus compañeros de trabajo estarán decepcionados debido a tu nuevo trabajo?"
+            "text": "Te das cuenta de que volver a estar en persona es un ajuste y te llevará algún tiempo acostumbrarte al ajetreo de un semestre en persona. Piensas que con todo lo que estás pasando estás haciendo un gran..."
         },
         {
-            "type": "Buttons",
-            "name": "Cambio de planes_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Comprometerse con las actividades_Salud Mental_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "words": [
+                "trabajo"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ]
 }

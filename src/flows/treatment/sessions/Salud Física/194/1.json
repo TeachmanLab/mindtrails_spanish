@@ -1,14 +1,14 @@
 {
-    "header_text": "Fiesta sensacional",
+    "header_text": "Seguridad de la trampolina",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Fiesta sensacional"
+            "text": "Seguridad de la trampolina"
         },
         {
             "type": "Media",
-            "url": "./images/Fiesta_sensacional.jpg"
+            "url": "./images/Seguridad_de_la_trampolina.jpg"
         }
     ]
 }

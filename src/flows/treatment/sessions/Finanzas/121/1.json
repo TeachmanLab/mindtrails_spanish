@@ -1,14 +1,14 @@
 {
-    "header_text": "Evento social",
+    "header_text": "Iniciando un negocio pequeño",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Evento social"
+            "text": "Iniciando un negocio pequeño"
         },
         {
             "type": "Media",
-            "url": "./images/Evento_social.jpg"
+            "url": "./images/Iniciando_un_negocio_pequeño.jpg"
         }
     ]
 }

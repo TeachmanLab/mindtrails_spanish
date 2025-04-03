@@ -1,14 +1,14 @@
 {
-    "header_text": "Puerta cerrada",
+    "header_text": "Una presentación importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Puerta cerrada"
+            "text": "Una presentación importante"
         },
         {
             "type": "Media",
-            "url": "./images/Puerta_cerrada.jpg"
+            "url": "./images/Una_presentación_importante.jpg"
         }
     ]
 }

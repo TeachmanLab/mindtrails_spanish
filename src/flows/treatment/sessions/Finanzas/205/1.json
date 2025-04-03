@@ -1,14 +1,14 @@
 {
-    "header_text": "Planes divertidos",
+    "header_text": "Costear los gastos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Planes divertidos"
+            "text": "Costear los gastos"
         },
         {
             "type": "Media",
-            "url": "./images/Planes_divertidos.jpg"
+            "url": "./images/Costear_los_gastos.jpg"
         }
     ]
 }

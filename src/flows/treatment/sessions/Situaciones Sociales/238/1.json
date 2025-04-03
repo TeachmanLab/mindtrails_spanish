@@ -1,14 +1,14 @@
 {
-    "header_text": "Reunión de mañana",
+    "header_text": "Amigos del club de lectura",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Reunión de mañana"
+            "text": "Amigos del club de lectura"
         },
         {
             "type": "Media",
-            "url": "./images/Reunión_de_mañana.jpg"
+            "url": "./images/Amigos_del_club_de_lectura.jpg"
         }
     ]
 }

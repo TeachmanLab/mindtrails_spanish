@@ -1,19 +1,19 @@
 {
-    "header_text": "Nuevo estilo",
+    "header_text": "Presentación de tu trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vas de compras a tu tienda de ropa favorita. Ves un conjunto que te encanta pero no crees que sea adecuado para tu tipo de cuerpo. Después de conseguirlo y probártelo, quieres comprarlo a pesar de que no es algo que usas..."
+            "text": "Has estado trabajando duro todo el año en un proyecto y tu jefe de departamento te ha invitado a hablar de ello en un evento. Muchos de tus amigos y compañeros de trabajo estarán allí, y no crees que tu trabajo sea suficiente para impresionarlos. Piensas que su jefe de departamento le invitó por una razón y su trabajo vale la pena... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Nuevo estilo_Salud Mental_puzzle1",
+            "name": "Presentación de tu trabajo_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "normalmente"
+                "ver"
             ],
             "missing_letter_count": 1
         }

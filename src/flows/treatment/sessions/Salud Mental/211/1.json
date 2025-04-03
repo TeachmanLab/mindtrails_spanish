@@ -1,11 +1,12 @@
 {
-    "header_text": "Recurso: Salud Mental",
-    "header_icon": "assets/subtitle.png",
-    "name": "Anxiety and Depression Association of America",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Anxiety and Depression Association of America\n\nADAA es una organización dedicada a la prevención, tratamiento y cura de la ansiedad, depresión, el trastorno obsesivo-compulsivo y trastornos similares a través de la educación, grupo de apoyo, y gráficos informativos.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
         }
     ]
 }

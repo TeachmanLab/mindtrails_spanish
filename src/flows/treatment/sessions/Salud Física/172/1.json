@@ -1,14 +1,14 @@
 {
-    "header_text": "Corriendo una maratón",
+    "header_text": "Explorando una cueva estrecha",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Corriendo una maratón"
+            "text": "Explorando una cueva estrecha"
         },
         {
             "type": "Media",
-            "url": "./images/Corriendo_una_maratón.jpg"
+            "url": "./images/Explorando_una_cueva_estrecha.jpg"
         }
     ]
 }

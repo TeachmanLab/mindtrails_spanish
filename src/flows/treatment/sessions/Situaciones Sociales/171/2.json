@@ -1,19 +1,19 @@
 {
-    "header_text": "Cumpleaños de un amigo cercano",
+    "header_text": "Problemas de amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mañana es el cumpleaños de un buen amigo. Olvidaste comprarle un regalo y no tienes mucho tiempo para buscar algo bueno. Recoges algo mediocre en una tienda cercana y piensas que lo..."
+            "text": "Tu amigo va a tener una reunión de amigos esta noche. A ti no te invitó, pero a la mayoría de tus amigos sí. Cuando lo piensas, esto te hace sentir... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Cumpleaños de un amigo cercano_Situaciones Sociales_puzzle1",
+            "name": "Problemas de amigos_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "apreciarán"
+                "excluido"
             ],
             "missing_letter_count": 2
         }

@@ -1,14 +1,11 @@
 {
-    "header_text": "Presentación de impuestos",
+    "header_text": "Maneja tus sentimientos: Finanzas",
     "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Presentación de impuestos"
-        },
-        {
-            "type": "Media",
-            "url": "./images/Presentación_de_impuestos.jpg"
+            "type": "Text",
+            "text": "Cada semana, disfrute de una actividad divertida que no requiera dinero, como salir a caminar."
         }
     ]
 }

@@ -1,24 +1,21 @@
 {
-    "header_text": "Miedo de la decepción",
+    "header_text": "Ahorrando dinero",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Está bien tomar una decisión diferente a la que tomaría tu pareja?"
+            "text": "Al pensar en reducir tus gastos, no te imaginas gastando demasiado otra vez, y crees que ahorrar lo suficiente para tu viaje es..."
         },
         {
-            "type": "Buttons",
-            "name": "Miedo de la decepción_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Ahorrando dinero_Finanzas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "words": [
+                "factible"
             ],
-            "columnCount": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 1
         }
     ]
 }

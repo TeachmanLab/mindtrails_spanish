@@ -1,19 +1,19 @@
 {
-    "header_text": "Chistes con amigos",
+    "header_text": "Un país extranjero",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Un grupo de tus compañeros están susurrando y mirando en tu dirección. Algunos se están riendo mucho. No tienes tiempo de ir a saludarlos, y piensas que probablemente se estaban riendo de un... "
+            "text": "Te vas de paseo a una ciudad nueva por la primera vez. Mientras estás allí, todo se siente nuevo y extraño. Crees que esto es... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Chistes con amigos_Situaciones Sociales_puzzle1",
+            "name": "Un país extranjero_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "chiste"
+                "increíble"
             ],
             "missing_letter_count": 2
         }

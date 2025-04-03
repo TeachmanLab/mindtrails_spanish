@@ -1,14 +1,14 @@
 {
-    "header_text": "Temprano en la mañana",
+    "header_text": "Larga caminata afuera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Temprano en la mañana"
+            "text": "Larga caminata afuera"
         },
         {
             "type": "Media",
-            "url": "./images/Temprano_en_la_mañana.jpg"
+            "url": "./images/Larga_caminata_afuera.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Juzgando tu desempeño",
+    "header_text": "Mal rumor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Juzgando tu desempeño"
+            "text": "Mal rumor"
         },
         {
             "type": "Media",
-            "url": "./images/Juzgando_tu_desempeño.jpg"
+            "url": "./images/Mal_rumor.jpg"
         }
     ]
 }

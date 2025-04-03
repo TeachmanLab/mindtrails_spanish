@@ -1,14 +1,14 @@
 {
-    "header_text": "Sala de espera del hospital",
+    "header_text": "Carrera matutina del domingo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sala de espera del hospital"
+            "text": "Carrera matutina del domingo"
         },
         {
             "type": "Media",
-            "url": "./images/Sala_de_espera_del_hospital.jpg"
+            "url": "./images/Carrera_matutina_del_domingo.jpg"
         }
     ]
 }

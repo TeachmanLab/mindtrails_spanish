@@ -1,14 +1,14 @@
 {
-    "header_text": "Subiendo escaleras",
+    "header_text": "Resultados del chequeo anual",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "El ascensor en tu edificio está roto de nuevo y tienes que subir por unas cuantas plantas de escaleras para llegar a donde necesitas ir. sientes que tu pecho se aprieta y te quedas sin aliento al llegar a la última escalera. Te sientes..."
+            "text": "Te extraen sangre para su examen físico anual. Tu médico te dice que tendrá que esperar unos días para recibir los resultados y te preocupas por lo que dirán los resultados. Durante los próximos días, las preocupaciones son..."
         },
         {
             "type": "Entry",
-            "name": "Subiendo escaleras_Salud Física_entry1"
+            "name": "Resultados del chequeo anual_Salud Física_entry1"
         }
     ]
 }

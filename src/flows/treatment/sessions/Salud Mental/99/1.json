@@ -1,14 +1,14 @@
 {
-    "header_text": "Confiar en ti mismo",
+    "header_text": "Fiesta con amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Confiar en ti mismo"
+            "text": "Fiesta con amigos"
         },
         {
             "type": "Media",
-            "url": "./images/Confiar_en_ti_mismo.jpg"
+            "url": "./images/Fiesta_con_amigos.jpg"
         }
     ]
 }

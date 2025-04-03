@@ -1,21 +1,24 @@
 {
-    "header_text": "Día caluroso",
+    "header_text": "Confrontación de COVID",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Esta sensación es sorprendente e incómoda, pero te das cuenta de que es algo que simplemente puedes..."
+            "Text": "¿siempre puedes evitar preocupar a los demás?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Día caluroso_Salud Física_puzzle_word2",
+            "type": "Buttons",
+            "name": "Confrontación de COVID_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "observar"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

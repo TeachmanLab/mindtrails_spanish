@@ -1,14 +1,14 @@
 {
-    "header_text": "Pagando la tarjeta de crédito",
+    "header_text": "Evento social",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pagando la tarjeta de crédito"
+            "text": "Evento social"
         },
         {
             "type": "Media",
-            "url": "./images/Pagando_la_tarjeta_de_crédito.jpg"
+            "url": "./images/Evento_social.jpg"
         }
     ]
 }

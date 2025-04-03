@@ -1,14 +1,14 @@
 {
-    "header_text": "Práctica de presentación",
+    "header_text": "Probando un dicho divertido",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Práctica de presentación"
+            "text": "Probando un dicho divertido"
         },
         {
             "type": "Media",
-            "url": "./images/Práctica_de_presentación.jpg"
+            "url": "./images/Probando_un_dicho_divertido.jpg"
         }
     ]
 }

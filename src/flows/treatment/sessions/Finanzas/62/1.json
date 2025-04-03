@@ -1,14 +1,14 @@
 {
-    "header_text": "Costear los gastos",
+    "header_text": "Iniciando un negocio pequeño",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Costear los gastos"
+            "text": "Iniciando un negocio pequeño"
         },
         {
             "type": "Media",
-            "url": "./images/Costear_los_gastos.jpg"
+            "url": "./images/Iniciando_un_negocio_pequeño.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Corrección rápida",
+    "header_text": "No sentirte preparado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Corrección rápida"
+            "text": "No sentirte preparado"
         },
         {
             "type": "Media",
-            "url": "./images/Corrección_rápida.jpg"
+            "url": "./images/No_sentirte_preparado.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Mensajes en redes sociales",
+    "header_text": "Viendo una película con amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mensajes en redes sociales"
+            "text": "Viendo una película con amigos"
         },
         {
             "type": "Media",
-            "url": "./images/Mensajes_en_redes_sociales.jpg"
+            "url": "./images/Viendo_una_película_con_amigos.jpg"
         }
     ]
 }

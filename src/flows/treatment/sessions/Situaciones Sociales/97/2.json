@@ -1,14 +1,14 @@
 {
-    "header_text": "Encontrarte con un viejo conocido",
+    "header_text": "Tiempo en silencio",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Un conocido de hace muchos años se acaba de mudar a tu ciudad y te invita a tomar un café. Estás nervioso por volver a verlos después de tantos años y podrías decirles que estás demasiado ocupado. Estás en casa cuando llaman para cordinar el café y decides..."
+            "text": "Una día estás con un amigo y te das cuenta de que la conversación se ha quedado en silencio. Ninguno de los dos dice nada durante un rato, y tu amigo puede percibir que te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Encontrarte con un viejo conocido_Situaciones Sociales_entry1"
+            "name": "Tiempo en silencio_Situaciones Sociales_entry1"
         }
     ]
 }

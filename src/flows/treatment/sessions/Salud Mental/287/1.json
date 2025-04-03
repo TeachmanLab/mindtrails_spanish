@@ -1,14 +1,14 @@
 {
-    "header_text": "Respondiendo a preguntas inesperadas",
+    "header_text": "Usando tecnología diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Respondiendo a preguntas inesperadas"
+            "text": "Usando tecnología diferente"
         },
         {
             "type": "Media",
-            "url": "./images/Respondiendo_a_preguntas_inesperadas.jpg"
+            "url": "./images/Usando_tecnología_diferente.jpg"
         }
     ]
 }

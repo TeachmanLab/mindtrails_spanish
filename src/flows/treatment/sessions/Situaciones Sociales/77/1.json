@@ -1,14 +1,14 @@
 {
-    "header_text": "Invitar a alguien",
+    "header_text": "Prepararte para tener éxito",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Invitar a alguien"
+            "text": "Prepararte para tener éxito"
         },
         {
             "type": "Media",
-            "url": "./images/Invitar_a_alguien.jpg"
+            "url": "./images/Prepararte_para_tener_éxito.jpg"
         }
     ]
 }

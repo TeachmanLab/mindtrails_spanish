@@ -1,14 +1,14 @@
 {
-    "header_text": "Confiar en ti mismo",
+    "header_text": "Fiesta con amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás trabajando en un proyecto con algunos compañeros de trabajo. Le das una idea al grupo, y alguien se ríe y dice que no es buena. Mientras trabajas en el proyecto, piensas que eres... "
+            "text": "Estás en una fiesta con algunos amigos y algunos de ellos están haciendo cosas con las que no te sientes cómodo. Decides no participar. Tus amigos piensan que eres..."
         },
         {
             "type": "Entry",
-            "name": "Confiar en ti mismo_Salud Mental_entry1"
+            "name": "Fiesta con amigos_Salud Mental_entry1"
         }
     ]
 }

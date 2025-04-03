@@ -1,14 +1,14 @@
 {
-    "header_text": "Experiencias pasadas",
+    "header_text": "Relaciones futuras",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Experiencias pasadas"
+            "text": "Relaciones futuras"
         },
         {
             "type": "Media",
-            "url": "./images/Experiencias_pasadas.jpg"
+            "url": "./images/Relaciones_futuras.jpg"
         }
     ]
 }

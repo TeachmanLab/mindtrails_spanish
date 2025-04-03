@@ -1,14 +1,14 @@
 {
-    "header_text": "Estabilidad laboral",
+    "header_text": "Pagando facturas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Estabilidad laboral"
+            "text": "Pagando facturas"
         },
         {
             "type": "Media",
-            "url": "./images/Estabilidad_laboral.jpg"
+            "url": "./images/Pagando_facturas.jpg"
         }
     ]
 }

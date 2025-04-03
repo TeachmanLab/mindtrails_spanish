@@ -1,14 +1,14 @@
 {
-    "header_text": "Vacaciones reprogramadas",
+    "header_text": "Conociendo alguien nuevo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Vacaciones reprogramadas"
+            "text": "Conociendo alguien nuevo"
         },
         {
             "type": "Media",
-            "url": "./images/Vacaciones_reprogramadas.jpg"
+            "url": "./images/Conociendo_alguien_nuevo.jpg"
         }
     ]
 }

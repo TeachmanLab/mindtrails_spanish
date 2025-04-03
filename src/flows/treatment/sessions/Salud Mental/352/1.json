@@ -1,14 +1,14 @@
 {
-    "header_text": "Amigo en el hospital",
+    "header_text": "Expectativas diferentes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Amigo en el hospital"
+            "text": "Expectativas diferentes"
         },
         {
             "type": "Media",
-            "url": "./images/Amigo_en_el_hospital.jpg"
+            "url": "./images/Expectativas_diferentes.jpg"
         }
     ]
 }

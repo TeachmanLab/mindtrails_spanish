@@ -1,19 +1,19 @@
 {
-    "header_text": "Amigos del club de lectura",
+    "header_text": "Temprano en la mañana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente te uniste a un club de lectura local y crees que los demás miembros son geniales. Te gustaría salir más a menudo, pero te preocupa si querrán ser amigos fuera del club de lectura. Consideras invitarlos a cenar y crees que pensarán que eres..."
+            "text": "Acabas de empezar en un nuevo trabajo y unos amigos del trabajo quieren llevarte a una fiesta esta noche. Les haces saber que tienes que levantarte temprano mañana por la mañana para un evento importante y que no puedes ir con ellos y parecen decepcionados. Crees que tus nuevos amigos respetarán tu decisión de anteponer tus..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Amigos del club de lectura_Situaciones Sociales_puzzle1",
+            "name": "Temprano en la mañana_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "divertido"
+                "necesidades"
             ],
             "missing_letter_count": 1
         }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Mascarillas con piel sensible",
+    "header_text": "Dando positivo en una prueba de enfermedad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mascarillas con piel sensible"
+            "text": "Dando positivo en una prueba de enfermedad"
         },
         {
             "type": "Media",
-            "url": "./images/Mascarillas_con_piel_sensible.jpg"
+            "url": "./images/Dando_positivo_en_una_prueba_de_enfermedad.jpg"
         }
     ]
 }

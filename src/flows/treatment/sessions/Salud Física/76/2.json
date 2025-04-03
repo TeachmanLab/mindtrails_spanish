@@ -1,14 +1,14 @@
 {
-    "header_text": "Corriendo una milla",
+    "header_text": "Subiendo escaleras",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás corriendo una milla y quieres pasar un buen rato. Notas que tu corazón acelera más rápido de lo habitual después de detenerse. Crees que esto es..."
+            "text": "El ascensor en tu edificio está roto de nuevo y tienes que subir por unas cuantas plantas de escaleras para llegar a donde necesitas ir. sientes que tu pecho se aprieta y te quedas sin aliento al llegar a la última escalera. Te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Corriendo una milla_Salud Física_entry1"
+            "name": "Subiendo escaleras_Salud Física_entry1"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Exposure Guilt",
+    "header_text": "Una presentación grande",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Después de sentir que tu garganta te duele, decides hacerte prueba de COVID. Tu pareja casi no sale para protegerse y piensas que estará enojado por una posible transmisión. Esperas que te perdóne porque contraer COVID no está completamente bajo tu... "
+            "text": "Estás a punto de dar una presentación importante. Te sientes ansioso al respecto. Esta sensación te produce..."
         },
         {
             "type": "Entry",
-            "name": "Exposure Guilt_Situaciones Sociales_entry1"
+            "name": "Una presentación grande_Situaciones Sociales_entry1"
         }
     ]
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Cambiando tu trayectoria",
+    "header_text": "Juzgando tu desempeño",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Llevas cinco años en el mismo puesto y empiezas a sentirst aburrido y sin desafíos en tu trabajo. Te gustaría intentar conseguir un nuevo puesto, pero te preocupa poder ser competitivo en el mercado laboral. Al pensar en tu trayectoria profesional, crees que tus posibilidades de encontrar un nuevo trabajo que te resulte satisfactorio son..."
+            "text": "Te preparaste mucho para una presentación importante con tus colegas. Tu sección de la presentación no salió tan bien como esperabas. Piensas si podrás hacerlo mejor en la siguiente sección y te das cuenta de que esta fue la última..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Cambiando tu trayectoria_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "name": "Juzgando tu desempeño_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "malas"
+                "sección"
             ],
             "missing_letter_count": 2
         }

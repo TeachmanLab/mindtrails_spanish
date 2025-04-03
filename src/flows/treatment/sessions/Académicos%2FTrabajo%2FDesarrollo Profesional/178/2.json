@@ -1,14 +1,14 @@
 {
-    "header_text": "Comprometerse con las actividades",
+    "header_text": "Cafetería",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estabas muy emocionado de regresar a la instrucción en persona y decidiste comprometerse con muchas actividades. Te has resultado difícil cumplir con todas tus responsabilidades y te preocupas estar fallando en..."
+            "text": "Estás trabajando en un proyecto con un colega en una pequeña mesa en una cafetería. Cuando llega tu café, accidentalmente lo derramas sobre todos sus papeles, haciendo que tu colega salte con..."
         },
         {
             "type": "Entry",
-            "name": "Comprometerse con las actividades_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Cafetería_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ]
 }

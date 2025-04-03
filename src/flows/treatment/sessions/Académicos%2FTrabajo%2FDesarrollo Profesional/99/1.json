@@ -1,14 +1,14 @@
 {
-    "header_text": "Sentado en una reunión",
+    "header_text": "Persona de apoyo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sentado en una reunión"
+            "text": "Persona de apoyo"
         },
         {
             "type": "Media",
-            "url": "./images/Sentado_en_una_reunión.jpg"
+            "url": "./images/Persona_de_apoyo.jpg"
         }
     ]
 }

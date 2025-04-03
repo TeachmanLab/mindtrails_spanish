@@ -1,14 +1,14 @@
 {
-    "header_text": "Trabajando duro",
+    "header_text": "Practicando la presentación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trabajando duro"
+            "text": "Practicando la presentación"
         },
         {
             "type": "Media",
-            "url": "./images/Trabajando_duro.jpg"
+            "url": "./images/Practicando_la_presentación.jpg"
         }
     ]
 }

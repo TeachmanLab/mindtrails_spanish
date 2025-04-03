@@ -1,21 +1,21 @@
 {
-    "header_text": "Casa bilingüe",
+    "header_text": "Un trago de agua",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás cenando con un compañero de trabajo. Mientras comen juntos, recibes una llamada telefónica de un miembro de tu familia y cambias entre español y otro idioma. Nunca le dijiste a tu compañero de trabajo que tus familiares son bilingües. Piensas en la reacción de tu compañero y crees que le parecerá..."
+            "text": "Te dicen que tienes que hacer una presentación ante tus compañeros de trabajo. Cuando llega el momento de presentar, tomas un trago de agua y te preguntas qué pensarán tus compañeros de ti. Al comenzar a hablar, sientes miedo pero decides..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Casa bilingüe_Situaciones Sociales_puzzle1",
+            "name": "Un trago de agua_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "interesante"
+                "continuar"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ]
 }

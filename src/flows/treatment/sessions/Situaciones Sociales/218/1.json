@@ -1,14 +1,14 @@
 {
-    "header_text": "Visitando a los vecinos",
+    "header_text": "Presentación estresante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Visitando a los vecinos"
+            "text": "Presentación estresante"
         },
         {
             "type": "Media",
-            "url": "./images/Visitando_a_los_vecinos.jpg"
+            "url": "./images/Presentación_estresante.jpg"
         }
     ]
 }

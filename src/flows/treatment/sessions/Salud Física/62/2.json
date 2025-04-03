@@ -1,19 +1,19 @@
 {
-    "header_text": "Recuperando el aliento",
+    "header_text": "Fiesta de cumpleaños",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Es una mañana fresca y estás subiendo unas escaleras para llegar a tu trabajo. Empiezas a sentirte realmente sin aliento cuando llegas al último escalón. Tomas un segundo para respirar y sentirte..."
+            "text": "Estás en una fiesta de cumpleaños para un amigo de un amigo. Te das cuenta de que estás ruborizado y un poco sudado. Parado allí, piensas que estas sensaciones son..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Recuperando el aliento_Salud Física_puzzle1",
+            "name": "Fiesta de cumpleaños_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "tranquilo"
+                "normales"
             ],
             "missing_letter_count": 2
         }

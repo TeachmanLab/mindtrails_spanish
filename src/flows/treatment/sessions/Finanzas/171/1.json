@@ -1,14 +1,14 @@
 {
-    "header_text": "Financiar buenos hábitos",
+    "header_text": "Límite de tarjeta de crédito",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Financiar buenos hábitos"
+            "text": "Límite de tarjeta de crédito"
         },
         {
             "type": "Media",
-            "url": "./images/Financiar_buenos_hábitos.jpg"
+            "url": "./images/Límite_de_tarjeta_de_crédito.jpg"
         }
     ]
 }

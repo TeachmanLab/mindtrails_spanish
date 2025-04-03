@@ -1,14 +1,14 @@
 {
-    "header_text": "Revisando tus cualificaciones",
+    "header_text": "Mostrar tu experiencia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Revisando tus cualificaciones"
+            "text": "Mostrar tu experiencia"
         },
         {
             "type": "Media",
-            "url": "./images/Revisando_tus_cualificaciones.jpg"
+            "url": "./images/Mostrar_tu_experiencia.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Decidir compartir una imagen",
+    "header_text": "Views Towards Therapy",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Le tomas una foto a un compañero de trabajo en un evento que es realmente genial. Quieres mostrárselo a tus otros compañeros de trabajo en un correo electrónico, pero recuerdes que acabas de enviar un correo electrónico ayer. si vuelves a enviar un correo electrónico, crees que la gente no se dará..."
+            "text": "Has estado yendo a terapia últimamente. No te lo has contado a tu familia porque han expresado opiniones negativas sobre la terapia en el pasado. Crees que esta vez te..."
         },
         {
             "type": "Entry",
-            "name": "Decidir compartir una imagen_Salud Mental_entry1"
+            "name": "Views Towards Therapy_Salud Mental_entry1"
         }
     ]
 }

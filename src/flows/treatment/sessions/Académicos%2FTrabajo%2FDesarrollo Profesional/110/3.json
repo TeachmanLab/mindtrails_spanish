@@ -1,24 +1,21 @@
 {
-    "header_text": "Tomar un descanso",
+    "header_text": "Malentendido",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Deberías hacer tu trabajo ahora mismo?"
+            "text": "Después de explicar lo que sucedió al jefe de tu departamento, él dice que entiende. sientes que aún podrás causar una buena..."
         },
         {
-            "type": "Buttons",
-            "name": "Tomar un descanso_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "Malentendido_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "words": [
+                "impresión"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ]
 }

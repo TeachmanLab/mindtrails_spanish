@@ -1,14 +1,14 @@
 {
-    "header_text": "Almorzando solo",
+    "header_text": "Viejo amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Almorzando solo"
+            "text": "Viejo amigo"
         },
         {
             "type": "Media",
-            "url": "./images/Almorzando_solo.jpg"
+            "url": "./images/Viejo_amigo.jpg"
         }
     ]
 }

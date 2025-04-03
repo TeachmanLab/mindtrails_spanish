@@ -1,14 +1,14 @@
 {
-    "header_text": "Reconciliándote con tu amigo",
+    "header_text": "Planes de vacaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Unos días después de un pleito con tu amigo, decides romper el hielo y le propones que vayan a tomar un café. Te alistas y cuando estás por irte, te llaman para decirte que después de todo no pueden llegar. Cuando cuelgas, piensas que cancelaron debido a que están... "
+            "text": "Tus suegros te han invitado a unirte a ellos para los días festivos. Estás emocionado de pasar tiempo con la familia de tu pareja, pero te preocupa que tus propios padres se sientan decepcionados de no estar con ellos. Cuando piensas en decirles a tus padres que te gustaría pasar los días festivos con tu pareja, crees que serán... "
         },
         {
             "type": "Entry",
-            "name": "Reconciliándote con tu amigo_Vida Familiar y Doméstica_entry1"
+            "name": "Planes de vacaciones_Vida Familiar y Doméstica_entry1"
         }
     ]
 }

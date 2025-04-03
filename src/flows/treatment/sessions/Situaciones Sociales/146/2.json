@@ -1,19 +1,19 @@
 {
-    "header_text": "Pasando tiempo con amigos",
+    "header_text": "La nueva ciudad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás pasando tiempo con algunos amigos. Uno de ellos invita a otro a ir a su casa otro día sin ti. Lo piensas y te das cuenta de que te sientes..."
+            "text": "Llevas unos meses viviendo en una ciudad nueva y has tenido problemas para hacer nuevos amigos. Has estado muy ocupado desde que te mudaste, pero sabes que es importante establecer buenas relaciones aquí en tu nuevo hogar. Cuando piensas en la vida en tu nueva ciudad, crees que estarás..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Pasando tiempo con amigos_Situaciones Sociales_puzzle1",
+            "name": "La nueva ciudad_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "bien"
+                "solo"
             ],
             "missing_letter_count": 2
         }

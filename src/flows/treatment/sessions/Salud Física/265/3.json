@@ -1,24 +1,21 @@
 {
-    "header_text": "Quemadura",
+    "header_text": "Caminata con amigos",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Después de correr agua sobre tu dedo, la quemadura probablemente..."
+            "text": "Observas que tus amigos también están cansándose. Decides que probablemente estarás..."
         },
         {
-            "type": "Buttons",
-            "name": "Quemadura_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Caminata con amigos_Salud Física_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Dolerá mucho menos.",
-                "Permanecerá muy dolorosa."
+            "words": [
+                "bien"
             ],
-            "columnCount": 1,
-            "correct_value": "Dolerá mucho menos."
+            "missing_letter_count": 2
         }
     ]
 }

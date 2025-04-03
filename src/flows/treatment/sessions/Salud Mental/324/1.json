@@ -1,14 +1,14 @@
 {
-    "header_text": "Trabajo placentero",
+    "header_text": "Broma interna",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trabajo placentero"
+            "text": "Broma interna"
         },
         {
             "type": "Media",
-            "url": "./images/Trabajo_placentero.jpg"
+            "url": "./images/Broma_interna.jpg"
         }
     ]
 }

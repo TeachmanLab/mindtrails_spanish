@@ -1,14 +1,14 @@
 {
-    "header_text": "Foto con amigos",
+    "header_text": "Deprimido",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Foto con amigos"
+            "text": "Deprimido"
         },
         {
             "type": "Media",
-            "url": "./images/Foto_con_amigos.jpg"
+            "url": "./images/Deprimido.jpg"
         }
     ]
 }

@@ -1,24 +1,24 @@
 {
-    "header_text": "Conversación durante la cena",
+    "header_text": "Conversación con un desconocido",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes hablar sobre tus padres divorciados?"
+            "Text": "En general, la conversación probablemente fue..."
         },
         {
             "type": "Buttons",
-            "name": "Conversación durante la cena_Situaciones Sociales_comp_question",
+            "name": "Conversación con un desconocido_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Una oportunidad relajada y agradable para conocer a una nueva persona.",
+                "situación estresante, porque la persona podría haberte encontrado aburrido."
             ],
             "columnCount": 1,
-            "correct_value": "Sí"
+            "correct_value": "Una oportunidad relajada y agradable para conocer a una nueva persona."
         }
     ]
 }

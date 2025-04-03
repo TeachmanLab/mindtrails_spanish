@@ -1,19 +1,19 @@
 {
-    "header_text": "Reconciliándote con tu amigo",
+    "header_text": "Una audiencia captada",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Unos días después de un pleito con tu amigo, decides romper el hielo y le propones que vayan a tomar un café. Te alistas y cuando estás por irte, te llaman para decirte que después de todo no pueden llegar. Cuando cuelgas, piensas que cancelaron debido a que están... "
+            "text": "Tienes que dar una presentación a un grupo de colegas de trabajo que conoces bien. Todos están callados durante tu presentación. Mientras lo piensas más tarde en casa, crees que tus colegas encontraron tu presentación..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Reconciliándote con tu amigo_Situaciones Sociales_puzzle1",
+            "name": "Una audiencia captada_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "cansados"
+                "interesante"
             ],
             "missing_letter_count": 2
         }

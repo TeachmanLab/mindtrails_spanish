@@ -1,14 +1,11 @@
 {
-    "header_text": "Aceptando elogios",
+    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
     "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Aceptando elogios"
-        },
-        {
-            "type": "Media",
-            "url": "./images/Aceptando_elogios.jpg"
+            "type": "Text",
+            "text": "En lugar de centrarte solo en los momentos negativos que has pasado con tus amigos, piensa también en los positivos. Recuérdate a ti mismo todas las veces en las que han sonreído y reído juntos. "
         }
     ]
 }

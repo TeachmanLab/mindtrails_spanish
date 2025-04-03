@@ -1,14 +1,14 @@
 {
-    "header_text": "Opiniones de otros",
+    "header_text": "Presentación opcional",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te negaron un ascenso este año y sabes que tu amigo te estaba apoyando para que obtuvieras un ascenso. Fruncen el ceño cuando les cuentas que no han conseguido uno. Les dices que trabajaste muy duro a pesar de no conseguir un ascenso y ellos están orgullosos del esfuerzo que hiciste durante todo el..."
+            "text": "Tu jefe ha contratado a algunos pasantes para el verano. Tu jefe te pide que te quedes después del trabajo para darles una breve presentación sobre los objetivos y valores de la universidad, pero te dice que esto es completamente opcional. Te sientes un poco nervioso por dar la presentación, y decides... "
         },
         {
             "type": "Entry",
-            "name": "Opiniones de otros_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Presentación opcional_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ]
 }

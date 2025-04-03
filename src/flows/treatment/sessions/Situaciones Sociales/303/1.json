@@ -1,15 +1,14 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Compartiendo programas favoritos",
     "header_icon": "assets/subtitle.png",
-    "name": "¡Consejo para aplicar!",
     "elements": [
         {
-            "type": "Text",
-            "text": "Piensas en una situación próxima que quieras evitar porque te pone ansioso. ¿Cómo puedes pensarlo de manera diferente para que se sienta menos aterrador? "
+            "type": "Label",
+            "text": "Compartiendo programas favoritos"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #9_entry"
+            "type": "Media",
+            "url": "./images/Compartiendo_programas_favoritos.jpg"
         }
     ]
 }

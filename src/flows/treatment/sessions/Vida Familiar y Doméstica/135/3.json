@@ -1,21 +1,24 @@
 {
-    "header_text": "Nerviosismo de cumpleaños",
+    "header_text": "Conversación durante la cena",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Recuerdas que todos vienen a celebrarte. Esto te hace sentir..."
+            "Text": "¿Puedes hablar sobre tus padres divorciados?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Nerviosismo de cumpleaños_Vida Familiar y Doméstica_puzzle_word2",
+            "type": "Buttons",
+            "name": "Conversación durante la cena_Vida Familiar y Doméstica_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "emocionado"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Sí"
         }
     ]
 }

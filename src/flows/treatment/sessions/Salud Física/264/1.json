@@ -1,14 +1,14 @@
 {
-    "header_text": "Celebraciones en un juego deportivo",
+    "header_text": "Corriendo una maratón",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Celebraciones en un juego deportivo"
+            "text": "Corriendo una maratón"
         },
         {
             "type": "Media",
-            "url": "./images/Celebraciones_en_un_juego_deportivo.jpg"
+            "url": "./images/Corriendo_una_maratón.jpg"
         }
     ]
 }

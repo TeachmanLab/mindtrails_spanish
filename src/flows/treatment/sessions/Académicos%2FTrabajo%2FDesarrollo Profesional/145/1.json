@@ -1,14 +1,14 @@
 {
-    "header_text": "Trabajando para salir adelante",
+    "header_text": "1, 2, 3. Ojos puestos en mí",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trabajando para salir adelante"
+            "text": "1, 2, 3. Ojos puestos en mí"
         },
         {
             "type": "Media",
-            "url": "./images/Trabajando_para_salir_adelante.jpg"
+            "url": "./images/1,_2,_3._Ojos_puestos_en_mí.jpg"
         }
     ]
 }

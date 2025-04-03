@@ -1,14 +1,14 @@
 {
-    "header_text": "en un barco",
+    "header_text": "Montar a caballo durante el fin de semana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "en un barco"
+            "text": "Montar a caballo durante el fin de semana"
         },
         {
             "type": "Media",
-            "url": "./images/en_un_barco.jpg"
+            "url": "./images/Montar_a_caballo_durante_el_fin_de_semana.jpg"
         }
     ]
 }

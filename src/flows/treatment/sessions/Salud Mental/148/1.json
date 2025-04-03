@@ -1,14 +1,14 @@
 {
-    "header_text": "Participación en las redes sociales",
+    "header_text": "Obteniendo ayuda",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Participación en las redes sociales"
+            "text": "Obteniendo ayuda"
         },
         {
             "type": "Media",
-            "url": "./images/Participación_en_las_redes_sociales.jpg"
+            "url": "./images/Obteniendo_ayuda.jpg"
         }
     ]
 }

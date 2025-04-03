@@ -1,14 +1,14 @@
 {
-    "header_text": "Cumpleaños de un amigo",
+    "header_text": "Planes de cena",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cumpleaños de un amigo"
+            "text": "Planes de cena"
         },
         {
             "type": "Media",
-            "url": "./images/Cumpleaños_de_un_amigo.jpg"
+            "url": "./images/Planes_de_cena.jpg"
         }
     ]
 }

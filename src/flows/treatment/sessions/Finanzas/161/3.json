@@ -1,15 +1,15 @@
 {
-    "header_text": "Pagando hacia adelante",
+    "header_text": "Comprando ropa nueva",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Invertir ahora dará tus frutos en el futuro?"
+            "Text": "¿La gente te juzgará si no compras ropa nueva?"
         },
         {
             "type": "Buttons",
-            "name": "Pagando hacia adelante_Finanzas_comp_question",
+            "name": "Comprando ropa nueva_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
@@ -18,7 +18,7 @@
                 "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "Sí"
+            "correct_value": "No"
         }
     ]
 }

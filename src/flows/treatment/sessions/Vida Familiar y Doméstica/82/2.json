@@ -1,14 +1,14 @@
 {
-    "header_text": "Tu primer hijo",
+    "header_text": "Visitar a una familia anciana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Acabas de tener tu primer hijo. Quieres tener una buena relación durante toda la vida de tu hijo, pero te preocupa cometer errores como..."
+            "text": "Vuelves a casa de tus padres durante las vacaciones y notas que tu madre parece frágil. Te preguntas sobre su salud y si está enferma. Cree que su salud probablemente será..."
         },
         {
             "type": "Entry",
-            "name": "Tu primer hijo_Vida Familiar y Doméstica_entry1"
+            "name": "Visitar a una familia anciana_Vida Familiar y Doméstica_entry1"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Opiniones opuestas",
+    "header_text": "Trabajando para salir adelante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu familia tiene opiniones firmes con las que no siempre estás de acuerdo. Al escuchar a tu familia hablar, sientes que eres muy diferente a ellos. sientes que tener tus propios puntos de vista únicos está... "
+            "text": "Te acaban de dar un trabajo en una oficina que realmente admiras. Para finalmente recibir el ascenso que deseas, sabes que tendrás que trabajar muy duro durante varios años y el resultado es..."
         },
         {
             "type": "Entry",
-            "name": "Opiniones opuestas_Salud Mental_entry1"
+            "name": "Trabajando para salir adelante_Salud Mental_entry1"
         }
     ]
 }

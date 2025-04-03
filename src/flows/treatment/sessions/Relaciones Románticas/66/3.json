@@ -1,0 +1,24 @@
+{
+    "header_text": "Personalidades diferentes",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "¿Ustedes dos idearán un plan juntos?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Personalidades diferentes_Relaciones Románticas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Sí"
+            ],
+            "columnCount": 1,
+            "correct_value": "Sí"
+        }
+    ]
+}

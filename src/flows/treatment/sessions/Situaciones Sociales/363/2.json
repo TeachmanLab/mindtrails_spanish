@@ -1,19 +1,19 @@
 {
-    "header_text": "Viendo a un viejo amigo",
+    "header_text": "Foto con amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Ves a un viejo amigo con el que no has hablado en años. Tu corazón da un vuelco. Te sientes..."
+            "text": "Tú y tu amigo tomaron algunas fotos juntos. Ves que te etiquetaron en una publicación y realmente no te gusta cómo te ves, pero sabes que a largo plazo no..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Viendo a un viejo amigo_Situaciones Sociales_puzzle1",
+            "name": "Foto con amigos_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "emocionado"
+                "importará"
             ],
             "missing_letter_count": 2
         }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Practicando la presentación",
+    "header_text": "Sentirse diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu supervisor te pide que hagas una presentación en una reunión. Después de practicar durante varias semanas, finalmente te sientes listo. En la presentación, cometes un gran... "
+            "text": "Estás participando en una conferencia en línea y miras el video de todos. Notas que entre el grupo de personas te ves diferente a los demás. Piensas en esto y te das cuenta de que está..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Practicando la presentación_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "name": "Sentirse diferente_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "error"
+                "bien"
             ],
             "missing_letter_count": 1
         }

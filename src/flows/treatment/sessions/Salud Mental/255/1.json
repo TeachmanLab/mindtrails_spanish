@@ -1,14 +1,14 @@
 {
-    "header_text": "Probando comidas diferentes",
+    "header_text": "Opinión importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Probando comidas diferentes"
+            "text": "Opinión importante"
         },
         {
             "type": "Media",
-            "url": "./images/Probando_comidas_diferentes.jpg"
+            "url": "./images/Opinión_importante.jpg"
         }
     ]
 }

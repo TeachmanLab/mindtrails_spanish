@@ -1,14 +1,14 @@
 {
-    "header_text": "Club de lectura",
+    "header_text": "Vaso de agua",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Club de lectura"
+            "text": "Vaso de agua"
         },
         {
             "type": "Media",
-            "url": "./images/Club_de_lectura.jpg"
+            "url": "./images/Vaso_de_agua.jpg"
         }
     ]
 }

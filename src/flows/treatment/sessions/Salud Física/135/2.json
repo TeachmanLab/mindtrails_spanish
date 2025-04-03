@@ -1,19 +1,19 @@
 {
-    "header_text": "Corriendo una maratón",
+    "header_text": "Corriendo con un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has corrido unos 10 kilómetros y estás pensando en entrenar para correr una maratón. Disfrutas la sensación de logro cuando terminas una carrera de 10 km, pero te preocupa si tienes lo necesario para correr más de cuatro veces esa distancia. Cuando consideras la idea de correr un maratón, crees que probablemente serás lo suficientemente..."
+            "text": "Tienes planeado correr mañana con un amigo que corre todos los días. No has corrido en bastante tiempo y te preocupa si podrás mantener el ritmo o no. Crees que las posibilidades de que puedas seguir el ritmo de tu amigo son..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Corriendo una maratón_Salud Física_puzzle1",
+            "name": "Corriendo con un amigo_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "bueno"
+                "bajas"
             ],
             "missing_letter_count": 1
         }

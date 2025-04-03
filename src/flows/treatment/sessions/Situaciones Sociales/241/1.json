@@ -1,14 +1,14 @@
 {
-    "header_text": "sintiéndote abandonado por un amigo cercano",
+    "header_text": "Compañero de cuarto ausente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "sintiéndote abandonado por un amigo cercano"
+            "text": "Compañero de cuarto ausente"
         },
         {
             "type": "Media",
-            "url": "./images/sintiéndote_abandonado_por_un_amigo_cercano.jpg"
+            "url": "./images/Compañero_de_cuarto_ausente.jpg"
         }
     ]
 }

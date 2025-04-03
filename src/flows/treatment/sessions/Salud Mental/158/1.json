@@ -1,14 +1,14 @@
 {
-    "header_text": "siendo padre",
+    "header_text": "Trabajando para salir adelante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "siendo padre"
+            "text": "Trabajando para salir adelante"
         },
         {
             "type": "Media",
-            "url": "./images/siendo_padre.jpg"
+            "url": "./images/Trabajando_para_salir_adelante.jpg"
         }
     ]
 }

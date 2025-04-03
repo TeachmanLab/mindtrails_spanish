@@ -1,14 +1,14 @@
 {
-    "header_text": "Pensamientos en la estación de tren",
+    "header_text": "Un golpe accidental",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en una parada de metro esperando un tren. Parado en el borde, te das cuenta de que nunca has pensado en la distancia de la caída hasta las vías debajo. Te sientes..."
+            "text": "Una noche, estás subiendo las escaleras y accidentalmente golpeas tu cabeza contra un techo bajo. A la mañana siguiente, el dolor de cabeza todavía está presente ligeramente, y te preguntas qué has hecho. Ya a la hora del almuerzo, el dolor ha..."
         },
         {
             "type": "Entry",
-            "name": "Pensamientos en la estación de tren_Salud Física_entry1"
+            "name": "Un golpe accidental_Salud Física_entry1"
         }
     ]
 }

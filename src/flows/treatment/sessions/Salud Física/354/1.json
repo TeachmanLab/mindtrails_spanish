@@ -1,14 +1,14 @@
 {
-    "header_text": "Alergias de primavera",
+    "header_text": "Despertándote mareado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Alergias de primavera"
+            "text": "Despertándote mareado"
         },
         {
             "type": "Media",
-            "url": "./images/Alergias_de_primavera.jpg"
+            "url": "./images/Despertándote_mareado.jpg"
         }
     ]
 }

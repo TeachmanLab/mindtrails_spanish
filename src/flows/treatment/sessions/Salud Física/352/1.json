@@ -1,14 +1,14 @@
 {
-    "header_text": "Dolor de cabeza en la oficina médica",
+    "header_text": "Vecino sin mascarilla",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dolor de cabeza en la oficina médica"
+            "text": "Vecino sin mascarilla"
         },
         {
             "type": "Media",
-            "url": "./images/Dolor_de_cabeza_en_la_oficina_médica.jpg"
+            "url": "./images/Vecino_sin_mascarilla.jpg"
         }
     ]
 }

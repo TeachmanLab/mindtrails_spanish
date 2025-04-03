@@ -1,14 +1,14 @@
 {
-    "header_text": "Dolor de estómago",
+    "header_text": "Tomando transporte",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado nervioso por una próxima evaluación en el trabajo. El día de la evaluación notas que te duele el estómago. Piensas que el dolor de estómago probablemente se deber a la..."
+            "text": "Estás en el aeropuerto corriendo para alcanzar un avión. sientes que tu corazón late rápidamente mientras te subes al avión y te sientas. Comienzas a sudar y a respirar rápido, temiendo que puedas tener un ataque de..."
         },
         {
             "type": "Entry",
-            "name": "Dolor de estómago_Salud Física_entry1"
+            "name": "Tomando transporte_Salud Física_entry1"
         }
     ]
 }

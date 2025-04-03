@@ -1,14 +1,14 @@
 {
-    "header_text": "Opinión importante",
+    "header_text": "Amigos pasando tiempo juntos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Opinión importante"
+            "text": "Amigos pasando tiempo juntos"
         },
         {
             "type": "Media",
-            "url": "./images/Opinión_importante.jpg"
+            "url": "./images/Amigos_pasando_tiempo_juntos.jpg"
         }
     ]
 }

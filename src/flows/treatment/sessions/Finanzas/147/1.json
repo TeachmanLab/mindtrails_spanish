@@ -1,14 +1,14 @@
 {
-    "header_text": "Recuperarse de COVID",
+    "header_text": "Mantener a la familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Recuperarse de COVID"
+            "text": "Mantener a la familia"
         },
         {
             "type": "Media",
-            "url": "./images/Recuperarse_de_COVID.jpg"
+            "url": "./images/Mantener_a_la_familia.jpg"
         }
     ]
 }

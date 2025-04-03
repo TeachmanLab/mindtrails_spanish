@@ -1,14 +1,14 @@
 {
-    "header_text": "Fotos divertidas",
+    "header_text": "Comentarios honestos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Fotos divertidas"
+            "text": "Comentarios honestos"
         },
         {
             "type": "Media",
-            "url": "./images/Fotos_divertidas.jpg"
+            "url": "./images/Comentarios_honestos.jpg"
         }
     ]
 }

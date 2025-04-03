@@ -1,14 +1,14 @@
 {
-    "header_text": "Zambullirte",
+    "header_text": "Plato típico",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Zambullirte"
+            "text": "Plato típico"
         },
         {
             "type": "Media",
-            "url": "./images/Zambullirte.jpg"
+            "url": "./images/Plato_típico.jpg"
         }
     ]
 }

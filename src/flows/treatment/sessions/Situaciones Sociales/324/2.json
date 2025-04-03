@@ -1,21 +1,12 @@
 {
-    "header_text": "Tensión familiar",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y un miembro de la familia tuvieron una conversación tensa hace unos meses. No han hablado desde esa interacción, pero se acerca un evento festivo al que ambos asistirán. Te preguntas si te enfrentarán..."
-        },
-        {
-            "type": "WordPuzzle",
-            "name": "Tensión familiar_Situaciones Sociales_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "words": [
-                "nuevamente"
-            ],
-            "missing_letter_count": 1
+            "text": "Piensa en una situación que te genera ansiedad y que te haya ocurrido en el pasado, o que te preocupa que suceda en el futuro. Escribe tu propia historia de entrenamiento basada en esta situación, asegurándote de incluir un final positivo o no amenazante en la oración final de la historia."
         }
     ]
 }

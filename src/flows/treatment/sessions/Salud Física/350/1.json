@@ -1,14 +1,14 @@
 {
-    "header_text": "sin aliento",
+    "header_text": "Sentirse mareado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "sin aliento"
+            "text": "Sentirse mareado"
         },
         {
             "type": "Media",
-            "url": "./images/sin_aliento.jpg"
+            "url": "./images/Sentirse_mareado.jpg"
         }
     ]
 }

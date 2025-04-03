@@ -1,0 +1,22 @@
+{
+    "header_text": "Haciendo lo mejor que puedas: Sentimientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Vas a presentar tu progreso en un proyecto a tu jefe la próxima semana. Tu vida personal ha sido agitada últimamente y no has tenido mucho tiempo para dedicarle al proyecto, lo que te deja con menos actualizaciones que informar de lo habitual.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Me da vergüenza presentarle mi trabajo a mi jefe, pero ese sentimiento pasará.",
+                "Estoy nervioso por la presentación, pero podré manejarlo.",
+                "Tengo miedo de que mi jefe se sienta decepcionado de mí.",
+                "Me siento bien con cómo me ha ido en este trabajo hasta ahora.",
+                "Estoy seguro de que puedo contarle a mi jefe lo que ha estado pasando."
+            ],
+            "Duration": 15
+        }
+    ],
+    "show_buttons": "WhenCorrect"
+}

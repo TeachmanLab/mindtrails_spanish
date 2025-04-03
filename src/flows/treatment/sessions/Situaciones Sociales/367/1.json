@@ -1,14 +1,14 @@
 {
-    "header_text": "Hablando con tu jefe",
+    "header_text": "Fiesta sensacional",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Hablando con tu jefe"
+            "text": "Fiesta sensacional"
         },
         {
             "type": "Media",
-            "url": "./images/Hablando_con_tu_jefe.jpg"
+            "url": "./images/Fiesta_sensacional.jpg"
         }
     ]
 }

@@ -1,24 +1,21 @@
 {
-    "header_text": "Aprender a bailar en las redes sociales",
+    "header_text": "Pánico de presentación",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás ansioso por jugar este juego frente a tu compañero de trabajo?"
+            "text": "Decides tomar un respiro lento y profundo. Al empezar a hablar de nuevo, te das cuenta de que lo que sentiste era..."
         },
         {
-            "type": "Buttons",
-            "name": "Aprender a bailar en las redes sociales_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Pánico de presentación_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "words": [
+                "normal"
             ],
-            "columnCount": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 2
         }
     ]
 }

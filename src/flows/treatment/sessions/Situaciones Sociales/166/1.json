@@ -1,14 +1,14 @@
 {
-    "header_text": "Mascarillas para invitados",
+    "header_text": "Ver a otros salir",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mascarillas para invitados"
+            "text": "Ver a otros salir"
         },
         {
             "type": "Media",
-            "url": "./images/Mascarillas_para_invitados.jpg"
+            "url": "./images/Ver_a_otros_salir.jpg"
         }
     ]
 }

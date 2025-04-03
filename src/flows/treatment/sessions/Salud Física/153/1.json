@@ -1,14 +1,11 @@
 {
-    "header_text": "Probando comidas nuevas",
+    "header_text": "Maneja tus sentimientos: Salud Física",
     "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Probando comidas nuevas"
-        },
-        {
-            "type": "Media",
-            "url": "./images/Probando_comidas_nuevas.jpg"
+            "type": "Text",
+            "text": "Si siente malestar físico, intente notar y nombrar lo que está sintiendo. Recuerde que el malestar suele pasar o disminuir con el tiempo."
         }
     ]
 }

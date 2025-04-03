@@ -1,14 +1,14 @@
 {
-    "header_text": "Recuerdo conduciendo",
+    "header_text": "Publicar sobre la familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Recuerdo conduciendo"
+            "text": "Publicar sobre la familia"
         },
         {
             "type": "Media",
-            "url": "./images/Recuerdo_conduciendo.jpg"
+            "url": "./images/Publicar_sobre_la_familia.jpg"
         }
     ]
 }

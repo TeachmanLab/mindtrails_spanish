@@ -1,14 +1,14 @@
 {
-    "header_text": "Usando algo viejo",
+    "header_text": "Tensión familiar",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Usando algo viejo"
+            "text": "Tensión familiar"
         },
         {
             "type": "Media",
-            "url": "./images/Usando_algo_viejo.jpg"
+            "url": "./images/Tensión_familiar.jpg"
         }
     ]
 }

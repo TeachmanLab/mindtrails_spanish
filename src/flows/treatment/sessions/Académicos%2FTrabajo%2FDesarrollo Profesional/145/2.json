@@ -1,19 +1,19 @@
 {
-    "header_text": "Trabajando para salir adelante",
+    "header_text": "1, 2, 3. Ojos puestos en mí",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te acaban de dar un trabajo en una oficina que realmente admiras. Para finalmente recibir el ascenso que deseas, sabes que tendrás que trabajar muy duro durante varios años y el resultado es incierto. Cuando imaginas tu probable puesto en la empresa en el futuro, espera que se te otorgue el trabajo que..."
+            "text": "Tienes una gran presentación en frente de tu jefe y otros miembros del personal. Sabes que todos sus ojos van a estár puestos en ti mientras estás presentando. Te sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Trabajando para salir adelante_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "name": "1, 2, 3. Ojos puestos en mí_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "deseas"
+                "nervioso"
             ],
             "missing_letter_count": 2
         }

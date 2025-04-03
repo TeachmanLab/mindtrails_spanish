@@ -1,14 +1,14 @@
 {
-    "header_text": "Manejando el estrés",
+    "header_text": "Sequedad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes que hacer una presentación para tus compañeros de trabajo hoy. Cuando te pones de pie frente a tus compañeros, sientes que te arden las mejillas y te tiemblan las manos. Crees que estas sensaciones serán..."
+            "text": "Estás hablando con un amigo sobre tu día y de repente sientes que tu garganta se seca. Toses un poco y buscas un vaso de agua. El agua ayuda un poco y te das cuenta de que la sequedad en la garganta probablemente no fue..."
         },
         {
             "type": "Entry",
-            "name": "Manejando el estrés_Salud Física_entry1"
+            "name": "Sequedad_Salud Física_entry1"
         }
     ]
 }

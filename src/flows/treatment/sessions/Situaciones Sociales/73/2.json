@@ -1,14 +1,14 @@
 {
-    "header_text": "Viendo una película con amigos",
+    "header_text": "Visitar a un nuevo amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y algunos amigos están viendo una película en tu casa. Al final de la película, tu amigo pregunta \"¿qué es ese olor raro?\". Sabes que es tu cena y, al pensar en cómo responder, sientes..."
+            "text": "Te han invitado a pasar unas vacaciones en casa de un amigo y quieres llevarle un regalo, pero no puedes permitirte comprarlo. Decides escribir un poema y recitarlo para la familia de tu amigo. Cuando te imaginas leyéndolo, te..."
         },
         {
             "type": "Entry",
-            "name": "Viendo una película con amigos_Situaciones Sociales_entry1"
+            "name": "Visitar a un nuevo amigo_Situaciones Sociales_entry1"
         }
     ]
 }

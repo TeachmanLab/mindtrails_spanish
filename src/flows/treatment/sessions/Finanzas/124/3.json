@@ -1,24 +1,24 @@
 {
-    "header_text": "Ahorrando dinero",
+    "header_text": "Camiseta nueva",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando llegue el momento de reservar el viaje, probablemente..."
+            "Text": "¿Te arrepentiste de tu decisión?"
         },
         {
             "type": "Buttons",
-            "name": "Ahorrando dinero_Finanzas_comp_question",
+            "name": "Camiseta nueva_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Podrás elegir un hotel bastante bonito.",
-                "Tendrás que cancelar debido a problemas de dinero."
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "Tendrás que cancelar debido a problemas de dinero."
+            "correct_value": "No"
         }
     ]
 }

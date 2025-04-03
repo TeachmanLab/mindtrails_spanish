@@ -1,21 +1,21 @@
 {
-    "header_text": "Entrega Responsable",
+    "header_text": "Dolor de cabeza en la oficina médica",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Uno de tus amigos cercanos sale positivo en la prueba de COVID y te pide que le lleves comida. No quieres exponerte estando cerca de su hogar, pero también quieres ayudar. Encuentras una manera de entregar la comida y mantener tu..."
+            "text": "Estás en el doctor y te preguntan si tienes algún síntoma de COVID. Mencionan los dolores de cabeza como un posible síntoma, algo que has estado sintiendo pero no reconociste como un problema, y eso te asusta porque recuerdas lo enfermos que se pusieron tus amigos con COVID. Recuerdas que puedes enfocarte en tu salud y descansar hasta que te sientas..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Entrega Responsable_Salud Física_puzzle1",
+            "name": "Dolor de cabeza en la oficina médica_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "distancia"
+                "mejor"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ]
 }

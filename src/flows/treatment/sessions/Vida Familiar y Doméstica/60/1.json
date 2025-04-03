@@ -1,14 +1,14 @@
 {
-    "header_text": "Noticias decepcionantes",
+    "header_text": "Invitar a alguien",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Noticias decepcionantes"
+            "text": "Invitar a alguien"
         },
         {
             "type": "Media",
-            "url": "./images/Noticias_decepcionantes.jpg"
+            "url": "./images/Invitar_a_alguien.jpg"
         }
     ]
 }

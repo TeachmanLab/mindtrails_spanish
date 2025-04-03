@@ -1,24 +1,24 @@
 {
-    "header_text": "Ejercicio con un amigo",
+    "header_text": "Evaluación de salud",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando sientes que no puedes recuperar el aliento, es mejor..."
+            "Text": "Crees que tus resultados enseñarán que..."
         },
         {
             "type": "Buttons",
-            "name": "Ejercicio con un amigo_Salud Física_comp_question",
+            "name": "Evaluación de salud_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Juzgar tu dificultad para respirar como algo malo o dañino.",
-                "simplemente observe sus pensamientos y sensaciones de ansiedad sin juzgarlos."
+                "Tienes buena salud.",
+                "Tienes un problema muy grande con tu salud."
             ],
             "columnCount": 1,
-            "correct_value": "simplemente observe sus pensamientos y sensaciones de ansiedad sin juzgarlos."
+            "correct_value": "Tienes buena salud."
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Prueba positiva",
+    "header_text": "Alergias de primavera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Prueba positiva"
+            "text": "Alergias de primavera"
         },
         {
             "type": "Media",
-            "url": "./images/Prueba_positiva.jpg"
+            "url": "./images/Alergias_de_primavera.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Cafetería",
+    "header_text": "Cambiando tu trayectoria",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cafetería"
+            "text": "Cambiando tu trayectoria"
         },
         {
             "type": "Media",
-            "url": "./images/Cafetería.jpg"
+            "url": "./images/Cambiando_tu_trayectoria.jpg"
         }
     ]
 }

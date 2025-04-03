@@ -1,14 +1,14 @@
 {
-    "header_text": "Serpientes venenosas",
+    "header_text": "Corriendo una milla",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Serpientes venenosas"
+            "text": "Corriendo una milla"
         },
         {
             "type": "Media",
-            "url": "./images/Serpientes_venenosas.jpg"
+            "url": "./images/Corriendo_una_milla.jpg"
         }
     ]
 }

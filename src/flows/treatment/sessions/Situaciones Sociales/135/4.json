@@ -1,24 +1,24 @@
 {
-    "header_text": "Desordenado para vivir",
+    "header_text": "Atención en la tienda",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás enojado con tu pareja?"
+            "Text": "Los otros compradores probablemente piensan que eres..."
         },
         {
             "type": "Buttons",
-            "name": "Desordenado para vivir_Situaciones Sociales_comp_question",
+            "name": "Atención en la tienda_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Considerado por pedir disculpas.",
+                "Incómodo y descoordinado."
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Considerado por pedir disculpas."
         }
     ]
 }

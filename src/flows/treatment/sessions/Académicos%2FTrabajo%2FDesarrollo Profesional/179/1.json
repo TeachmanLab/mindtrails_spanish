@@ -1,14 +1,14 @@
 {
-    "header_text": "Quedando atrás",
+    "header_text": "Anticipación de entrevista",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Quedando atrás"
+            "text": "Anticipación de entrevista"
         },
         {
             "type": "Media",
-            "url": "./images/Quedando_atrás.jpg"
+            "url": "./images/Anticipación_de_entrevista.jpg"
         }
     ]
 }

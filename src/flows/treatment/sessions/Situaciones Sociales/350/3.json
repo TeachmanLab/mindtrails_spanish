@@ -1,24 +1,24 @@
 {
-    "header_text": "El escaparate de danza",
+    "header_text": "Prepararte para tener éxito",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "si invitas a tus amigos y familiares, probablemente pensarán que..."
+            "Text": "¿Eres capaz de completar la presentación?"
         },
         {
             "type": "Buttons",
-            "name": "El escaparate de danza_Situaciones Sociales_comp_question",
+            "name": "Prepararte para tener éxito_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Parecías muy tonto y esperan que no los vuelvan a invitar.",
-                "Hiciste un buen trabajo y esperan que los invites a futuras presentaciones."
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "Parecías muy tonto y esperan que no los vuelvan a invitar."
+            "correct_value": "Sí"
         }
     ]
 }

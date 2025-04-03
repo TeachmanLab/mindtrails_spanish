@@ -1,15 +1,15 @@
 {
-    "header_text": "Cita con el doctor",
+    "header_text": "Vacacionando en avión",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que te sentirás mejor pronto?"
+            "Text": "¿Tienes miedo de que no puedas respirar correctamente?"
         },
         {
             "type": "Buttons",
-            "name": "Cita con el doctor_Salud Física_comp_question",
+            "name": "Vacacionando en avión_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

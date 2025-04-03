@@ -1,19 +1,19 @@
 {
-    "header_text": "Corriendo con un amigo",
+    "header_text": "Planes para visitar a la familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes planeado correr mañana con un amigo que corre todos los días. No has corrido en bastante tiempo y te preocupa si podrás mantener el ritmo o no. Crees que las posibilidades de que puedas seguir el ritmo de tu amigo son..."
+            "text": "Es el día antes de que planeas ir a visitar a tu familia, y tu amigo se da cuenta de que estuvo expuesto a alguien con COVID. Ambos se van a hacerse la prueba, pero los resultados suelen llegar en 72 horas y tienes un vuelo mañana. Cuando piensas en cómo reaccionará tu familia, crees que lo..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Corriendo con un amigo_Salud Física_puzzle1",
+            "name": "Planes para visitar a la familia_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "bajas"
+                "entenderán"
             ],
             "missing_letter_count": 1
         }

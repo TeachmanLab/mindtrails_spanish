@@ -1,14 +1,14 @@
 {
-    "header_text": "Zambullirte",
+    "header_text": "Conversación durante la cena",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Zambullirte"
+            "text": "Conversación durante la cena"
         },
         {
             "type": "Media",
-            "url": "./images/Zambullirte.jpg"
+            "url": "./images/Conversación_durante_la_cena.jpg"
         }
     ]
 }

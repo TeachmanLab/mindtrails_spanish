@@ -1,19 +1,19 @@
 {
-    "header_text": "Mantener a la familia",
+    "header_text": "Fecha límite cercana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Quieres que tu familia tenga buenas oportunidades educativas. Tú quieres que tus hijos puedan asistir a buenas universidades, pero comprendas que esto tiene un precio alto. Cuando piensas en tus hijos, piensas que será imposible apoyar su educación..."
+            "text": "Tú y tu pareja comparten una oficina en casa. Tienes una tarea del trabajo que entregar esta noche, pero están usando la oficina. Cuando piensas en completar el trabajo a tiempo, te sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Mantener a la familia_Vida Familiar y Doméstica_puzzle1",
+            "name": "Fecha límite cercana_Vida Familiar y Doméstica_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "universitaria"
+                "seguro"
             ],
             "missing_letter_count": 1
         }

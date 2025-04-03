@@ -1,14 +1,14 @@
 {
-    "header_text": "Tomar un descanso",
+    "header_text": "Estar a cargo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tomar un descanso"
+            "text": "Estar a cargo"
         },
         {
             "type": "Media",
-            "url": "./images/Tomar_un_descanso.jpg"
+            "url": "./images/Estar_a_cargo.jpg"
         }
     ]
 }

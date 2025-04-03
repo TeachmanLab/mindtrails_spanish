@@ -1,14 +1,14 @@
 {
-    "header_text": "Revisando tu trabajo",
+    "header_text": "Gestión de responsabilidades",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Revisando tu trabajo"
+            "text": "Gestión de responsabilidades"
         },
         {
             "type": "Media",
-            "url": "./images/Revisando_tu_trabajo.jpg"
+            "url": "./images/Gestión_de_responsabilidades.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Resultados de análisis de sangre",
+    "header_text": "Cena cara",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Resultados de análisis de sangre"
+            "text": "Cena cara"
         },
         {
             "type": "Media",
-            "url": "./images/Resultados_de_análisis_de_sangre.jpg"
+            "url": "./images/Cena_cara.jpg"
         }
     ]
 }

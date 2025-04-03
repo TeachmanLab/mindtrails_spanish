@@ -1,14 +1,14 @@
 {
-    "header_text": "Gestión de crédito",
+    "header_text": "Ir a la quiebra",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Gestión de crédito"
+            "text": "Ir a la quiebra"
         },
         {
             "type": "Media",
-            "url": "./images/Gestión_de_crédito.jpg"
+            "url": "./images/Ir_a_la_quiebra.jpg"
         }
     ]
 }

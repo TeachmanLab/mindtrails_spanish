@@ -1,0 +1,14 @@
+{
+    "header_text": "Escuchando tu nombre",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Escuchando tu nombre"
+        },
+        {
+            "type": "Media",
+            "url": "./images/Escuchando_tu_nombre.jpg"
+        }
+    ]
+}

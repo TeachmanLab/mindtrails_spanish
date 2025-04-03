@@ -1,14 +1,14 @@
 {
-    "header_text": "Citas en línea",
+    "header_text": "Por primera vez",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Citas en línea"
+            "text": "Por primera vez"
         },
         {
             "type": "Media",
-            "url": "./images/Citas_en_línea.jpg"
+            "url": "./images/Por_primera_vez.jpg"
         }
     ]
 }

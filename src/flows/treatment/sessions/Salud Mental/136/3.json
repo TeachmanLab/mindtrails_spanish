@@ -1,24 +1,21 @@
 {
-    "header_text": "Enfrentando a un amigo",
+    "header_text": "Sentado en una reunión",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás orgulloso de haberte comunicado con tu amigo?"
+            "text": "Tomas un poco de agua y comienzas a sentirte más despierto, recordando que anoche no dormiste tanto como de costumbre. Decides que simplemente estás..."
         },
         {
-            "type": "Buttons",
-            "name": "Enfrentando a un amigo_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Sentado en una reunión_Salud Mental_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "words": [
+                "cansado"
             ],
-            "columnCount": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 1
         }
     ]
 }

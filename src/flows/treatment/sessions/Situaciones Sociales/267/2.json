@@ -1,19 +1,19 @@
 {
-    "header_text": "Faltando una reunión",
+    "header_text": "Dejado sin respuesta",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Aunque normalmente llegas a tiempo a los eventos de trabajo, hoy recibes un correo electrónico de tu jefe diciendo que estás unos minotos tarde a una reunion, de la cual te olvidaste completamente. Mientras llegas rápidamente a la ofinica, te preguntas si te van a juzgar por llegar tarde. Al entrar en la oficina, su ansiedad es..."
+            "text": "Puedes ver que tu amigo abrió la foto que enviaste pero no te respondió. Sabes que están publicando otras cosas, así que probablemente no te respondieron porque se les..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Faltando una reunión_Situaciones Sociales_puzzle1",
+            "name": "Dejado sin respuesta_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "tolerable"
+                "olvidó"
             ],
             "missing_letter_count": 2
         }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Prepararte para tener éxito",
+    "header_text": "Amigo Tarde",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Prepararte para tener éxito"
+            "text": "Amigo Tarde"
         },
         {
             "type": "Media",
-            "url": "./images/Prepararte_para_tener_éxito.jpg"
+            "url": "./images/Amigo_Tarde.jpg"
         }
     ]
 }

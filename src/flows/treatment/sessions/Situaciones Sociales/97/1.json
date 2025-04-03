@@ -1,14 +1,14 @@
 {
-    "header_text": "Encontrarte con un viejo conocido",
+    "header_text": "Tiempo en silencio",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Encontrarte con un viejo conocido"
+            "text": "Tiempo en silencio"
         },
         {
             "type": "Media",
-            "url": "./images/Encontrarte_con_un_viejo_conocido.jpg"
+            "url": "./images/Tiempo_en_silencio.jpg"
         }
     ]
 }

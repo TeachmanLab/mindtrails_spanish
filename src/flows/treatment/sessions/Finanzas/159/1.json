@@ -1,14 +1,14 @@
 {
-    "header_text": "Comprando ropa nueva",
+    "header_text": "Planificación de pagos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comprando ropa nueva"
+            "text": "Planificación de pagos"
         },
         {
             "type": "Media",
-            "url": "./images/Comprando_ropa_nueva.jpg"
+            "url": "./images/Planificación_de_pagos.jpg"
         }
     ]
 }

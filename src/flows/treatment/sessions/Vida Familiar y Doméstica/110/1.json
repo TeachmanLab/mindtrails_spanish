@@ -1,14 +1,14 @@
 {
-    "header_text": "Pasando tiempo con familia",
+    "header_text": "Presentando a tus amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pasando tiempo con familia"
+            "text": "Presentando a tus amigos"
         },
         {
             "type": "Media",
-            "url": "./images/Pasando_tiempo_con_familia.jpg"
+            "url": "./images/Presentando_a_tus_amigos.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Decisiones de viaje",
+    "header_text": "Visitando familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás considerando varias opciones para donde ir de vacaciones. Solo tienes un poco de información sobre cada destino potencial antes de tomar tu decisión. Cuando decides, te sientes..."
+            "text": " Se acerca un fin de semana largo y habías planeado visitar a tu familia. Esta mañana, te das cuenta de que estuviste expuesto a alguien con COVID. Estás vacunado, pero no estás seguro del riesgo de contraer COVID y posiblemente transmitírselo a tu familia. Piensas que tu familia entenderá si decides no ir a visitarlos para... "
         },
         {
             "type": "Entry",
-            "name": "Decisiones de viaje_Vida Familiar y Doméstica_entry1"
+            "name": "Visitando familia_Vida Familiar y Doméstica_entry1"
         }
     ]
 }

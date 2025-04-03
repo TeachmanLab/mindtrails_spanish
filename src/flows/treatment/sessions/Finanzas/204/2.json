@@ -1,14 +1,14 @@
 {
-    "header_text": "Estabilidad laboral",
+    "header_text": "Pagando facturas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente, la economía no ha estado bien. Te encanta tu trabajo, pero te preguntas si podrás mantenerlo. Te das cuenta de que si te quedarás empleado en tu trabajo actual está fuera de tu..."
+            "text": "Tienes que pagar el alquiler del próximo mes pronto. Has estado bajo estrés financiero últimamente y no estás seguro de si tienes suficiente dinero para realizar el pago del alquiler. Piensas que hacer un plan para pagar tu alquiler a tiempo será..."
         },
         {
             "type": "Entry",
-            "name": "Estabilidad laboral_Finanzas_entry1"
+            "name": "Pagando facturas_Finanzas_entry1"
         }
     ]
 }

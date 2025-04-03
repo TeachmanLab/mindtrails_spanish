@@ -1,19 +1,19 @@
 {
-    "header_text": "Día caluroso",
+    "header_text": "Confrontación de COVID",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Regresando a casa en un día muy caluroso, te tomas un vaso grande de agua rápidamente. Pronto te sientes anormalmente lleno y un poco enfermo del..."
+            "text": "Estás resfriado y como salistes negativo a COVID, decidistes volver a trabajar. No puedes evitar toser un par de veces a lo largo del día y, cuando estás a punto de salir, un compañero de trabajo te confronta acusándote de venir a trabajar con COVID. sientes que esa persona debe estar pasando por un momento..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Día caluroso_Salud Física_puzzle1",
+            "name": "Confrontación de COVID_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "estómago"
+                "estresante"
             ],
             "missing_letter_count": 2
         }

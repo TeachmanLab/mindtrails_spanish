@@ -1,24 +1,21 @@
 {
-    "header_text": "Revisando tu trabajo",
+    "header_text": "Nuevo estilo",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Es probable que su jefe sienta que..."
+            "text": "Después de luchar contigo mismo en el vestidor, te sientes seguro y quieres ponertelo para salir, así que compras el nuevo..."
         },
         {
-            "type": "Buttons",
-            "name": "Revisando tu trabajo_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Nuevo estilo_Salud Mental_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "La mayor parte de tu trabajo ha sido de muy alta calidad.",
-                "Tus errores han sido graves e inaceptables."
+            "words": [
+                "conjunto"
             ],
-            "columnCount": 1,
-            "correct_value": "La mayor parte de tu trabajo ha sido de muy alta calidad."
+            "missing_letter_count": 1
         }
     ]
 }

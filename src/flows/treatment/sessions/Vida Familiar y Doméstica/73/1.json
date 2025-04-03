@@ -1,14 +1,14 @@
 {
-    "header_text": "Planes de vacaciones",
+    "header_text": "Ir a terapia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Planes de vacaciones"
+            "text": "Ir a terapia"
         },
         {
             "type": "Media",
-            "url": "./images/Planes_de_vacaciones.jpg"
+            "url": "./images/Ir_a_terapia.jpg"
         }
     ]
 }

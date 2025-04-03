@@ -1,14 +1,14 @@
 {
-    "header_text": "Evaluación importante",
+    "header_text": "Proyecto de grupo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Evaluación importante"
+            "text": "Proyecto de grupo"
         },
         {
             "type": "Media",
-            "url": "./images/Evaluación_importante.jpg"
+            "url": "./images/Proyecto_de_grupo.jpg"
         }
     ]
 }

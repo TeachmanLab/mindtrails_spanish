@@ -1,19 +1,19 @@
 {
-    "header_text": "Un país extranjero",
+    "header_text": "Encontrarte con un viejo conocido",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te vas de paseo a una ciudad nueva por la primera vez. Mientras estás allí, todo se siente nuevo y extraño. Crees que esto es... "
+            "text": "Un conocido de hace muchos años se acaba de mudar a tu ciudad y te invita a tomar un café. Estás nervioso por volver a verlos después de tantos años y podrías decirles que estás demasiado ocupado. Estás en casa cuando llaman para cordinar el café y decides..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Un país extranjero_Situaciones Sociales_puzzle1",
+            "name": "Encontrarte con un viejo conocido_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "increíble"
+                "contestar"
             ],
             "missing_letter_count": 2
         }

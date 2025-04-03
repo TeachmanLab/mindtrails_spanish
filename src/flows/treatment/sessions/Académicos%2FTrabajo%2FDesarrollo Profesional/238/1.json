@@ -1,14 +1,14 @@
 {
-    "header_text": "Cambiando tu trayectoria",
+    "header_text": "Permitiendo que otros vean tu trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cambiando tu trayectoria"
+            "text": "Permitiendo que otros vean tu trabajo"
         },
         {
             "type": "Media",
-            "url": "./images/Cambiando_tu_trayectoria.jpg"
+            "url": "./images/Permitiendo_que_otros_vean_tu_trabajo.jpg"
         }
     ]
 }

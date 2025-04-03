@@ -1,14 +1,14 @@
 {
-    "header_text": "Día caluroso",
+    "header_text": "Tomar un descanso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Día caluroso"
+            "text": "Tomar un descanso"
         },
         {
             "type": "Media",
-            "url": "./images/Día_caluroso.jpg"
+            "url": "./images/Tomar_un_descanso.jpg"
         }
     ]
 }

@@ -1,24 +1,21 @@
 {
-    "header_text": "Obtener una tarjeta de crédito",
+    "header_text": "Gestión de crédito",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Encontrarás una buena tarjeta de crédito?"
+            "text": "Al pensar en lo que harías con la tarjeta de crédito, no te imaginas que de repente gastarás imprudentemente, y piensas que probablemente gastarías el dinero... "
         },
         {
-            "type": "Buttons",
-            "name": "Obtener una tarjeta de crédito_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Gestión de crédito_Finanzas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "words": [
+                "sabiamente"
             ],
-            "columnCount": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 2
         }
     ]
 }

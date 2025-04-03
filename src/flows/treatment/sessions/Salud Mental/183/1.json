@@ -1,14 +1,14 @@
 {
-    "header_text": "Mensajes de texto honestos",
+    "header_text": "Foto con amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mensajes de texto honestos"
+            "text": "Foto con amigos"
         },
         {
             "type": "Media",
-            "url": "./images/Mensajes_de_texto_honestos.jpg"
+            "url": "./images/Foto_con_amigos.jpg"
         }
     ]
 }

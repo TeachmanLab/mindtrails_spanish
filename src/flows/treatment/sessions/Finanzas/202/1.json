@@ -1,14 +1,14 @@
 {
-    "header_text": "Costear los gastos",
+    "header_text": "Dar regalos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Costear los gastos"
+            "text": "Dar regalos"
         },
         {
             "type": "Media",
-            "url": "./images/Costear_los_gastos.jpg"
+            "url": "./images/Dar_regalos.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Camiseta nueva",
+    "header_text": "Pagando la tarjeta de crédito",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Camiseta nueva"
+            "text": "Pagando la tarjeta de crédito"
         },
         {
             "type": "Media",
-            "url": "./images/Camiseta_nueva.jpg"
+            "url": "./images/Pagando_la_tarjeta_de_crédito.jpg"
         }
     ]
 }

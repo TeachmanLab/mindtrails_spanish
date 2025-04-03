@@ -1,24 +1,24 @@
 {
-    "header_text": "Experiencia en el supermercado",
+    "header_text": "Llamada breve",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Los otros compradores probablemente se sintieron..."
+            "Text": "¿La gente pensó que volver tarde a la reunión fue irrespetuoso?"
         },
         {
             "type": "Buttons",
-            "name": "Experiencia en el supermercado_Situaciones Sociales_comp_question",
+            "name": "Llamada breve_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Aliviados de que nadie fue herido.",
-                "Molestos por el sonido fuerte."
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "Aliviados de que nadie fue herido."
+            "correct_value": "No"
         }
     ]
 }

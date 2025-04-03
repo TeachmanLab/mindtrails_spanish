@@ -1,14 +1,14 @@
 {
-    "header_text": "Cambiando tu trayectoria",
+    "header_text": "Presentación de recaudación de fondos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cambiando tu trayectoria"
+            "text": "Presentación de recaudación de fondos"
         },
         {
             "type": "Media",
-            "url": "./images/Cambiando_tu_trayectoria.jpg"
+            "url": "./images/Presentación_de_recaudación_de_fondos.jpg"
         }
     ]
 }

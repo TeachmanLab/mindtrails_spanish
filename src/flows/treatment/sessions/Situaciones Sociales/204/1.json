@@ -1,14 +1,14 @@
 {
-    "header_text": "Hablando con tu jefe",
+    "header_text": "Usando un chiste diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Hablando con tu jefe"
+            "text": "Usando un chiste diferente"
         },
         {
             "type": "Media",
-            "url": "./images/Hablando_con_tu_jefe.jpg"
+            "url": "./images/Usando_un_chiste_diferente.jpg"
         }
     ]
 }

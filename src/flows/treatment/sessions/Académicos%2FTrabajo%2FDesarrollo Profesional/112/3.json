@@ -1,24 +1,24 @@
 {
-    "header_text": "Tomando notas",
+    "header_text": "Completando trabajos",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus compañeros de trabajo te juzgan negativamente mientras compartes tu idea?"
+            "Text": "¿Podrás hacer trabajo este fin de semana?"
         },
         {
             "type": "Buttons",
-            "name": "Tomando notas_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Completando trabajos_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Sí"
         }
     ]
 }

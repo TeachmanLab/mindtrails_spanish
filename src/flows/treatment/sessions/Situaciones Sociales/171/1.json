@@ -1,14 +1,14 @@
 {
-    "header_text": "Cumpleaños de un amigo cercano",
+    "header_text": "Problemas de amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cumpleaños de un amigo cercano"
+            "text": "Problemas de amigos"
         },
         {
             "type": "Media",
-            "url": "./images/Cumpleaños_de_un_amigo_cercano.jpg"
+            "url": "./images/Problemas_de_amigos.jpg"
         }
     ]
 }

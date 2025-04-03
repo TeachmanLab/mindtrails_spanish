@@ -1,14 +1,14 @@
 {
-    "header_text": "Corriendo una maratón",
+    "header_text": "Suministros para la cena",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Corriendo una maratón"
+            "text": "Suministros para la cena"
         },
         {
             "type": "Media",
-            "url": "./images/Corriendo_una_maratón.jpg"
+            "url": "./images/Suministros_para_la_cena.jpg"
         }
     ]
 }

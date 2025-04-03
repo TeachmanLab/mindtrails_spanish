@@ -1,24 +1,21 @@
 {
-    "header_text": "Conocido sin mascarilla",
+    "header_text": "Mascarillas con piel sensible",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu colega olvidó su mascarilla?"
+            "text": "Después de pensarlo, te das cuenta de que tiendes a notar aspectos de ti mismo que los demás no notan. Te sientes bien al proteger a las personas al usar tu..."
         },
         {
-            "type": "Buttons",
-            "name": "Conocido sin mascarilla_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Mascarillas con piel sensible_Salud Física_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "words": [
+                "máscara"
             ],
-            "columnCount": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 2
         }
     ]
 }

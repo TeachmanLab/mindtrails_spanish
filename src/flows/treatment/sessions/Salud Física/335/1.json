@@ -1,14 +1,14 @@
 {
-    "header_text": "Conociendo alguien nuevo",
+    "header_text": "Yendo a dormir",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Conociendo alguien nuevo"
+            "text": "Yendo a dormir"
         },
         {
             "type": "Media",
-            "url": "./images/Conociendo_alguien_nuevo.jpg"
+            "url": "./images/Yendo_a_dormir.jpg"
         }
     ]
 }

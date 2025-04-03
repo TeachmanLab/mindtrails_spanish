@@ -1,14 +1,14 @@
 {
-    "header_text": "Corriendo con un amigo",
+    "header_text": "Corriendo una maratón",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Corriendo con un amigo"
+            "text": "Corriendo una maratón"
         },
         {
             "type": "Media",
-            "url": "./images/Corriendo_con_un_amigo.jpg"
+            "url": "./images/Corriendo_una_maratón.jpg"
         }
     ]
 }

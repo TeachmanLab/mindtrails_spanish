@@ -1,11 +1,14 @@
 {
-    "header_text": "Recurso: Salud Física",
+    "header_text": "Amigo tosiendo",
     "header_icon": "assets/subtitle.png",
-    "name": "Tratamiento para un trastorno de la alimentación: infórmate sobre tus opciones",
     "elements": [
         {
-            "type": "Text",
-            "text": "Tratamiento para un trastorno de la alimentación: infórmate sobre tus opciones\n\nEsta página comparte información acerca de trastornos alimenticios y los tipos de tratamientos disponibles. Ofrece pasos a seguir para comenzar a buscar apoyo y crear un plan de recuperación.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "type": "Label",
+            "text": "Amigo tosiendo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/Amigo_tosiendo.jpg"
         }
     ]
 }

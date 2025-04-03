@@ -1,14 +1,14 @@
 {
-    "header_text": "Viendo una película con amigos",
+    "header_text": "Visitar a un nuevo amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Viendo una película con amigos"
+            "text": "Visitar a un nuevo amigo"
         },
         {
             "type": "Media",
-            "url": "./images/Viendo_una_película_con_amigos.jpg"
+            "url": "./images/Visitar_a_un_nuevo_amigo.jpg"
         }
     ]
 }

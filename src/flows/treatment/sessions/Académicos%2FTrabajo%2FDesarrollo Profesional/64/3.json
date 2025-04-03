@@ -1,24 +1,21 @@
 {
-    "header_text": "Mercado de trabajo",
+    "header_text": "Multitud del discurso",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es probable que te despidan?"
+            "text": "Después del discurso, te das cuenta de que a menudo las personas parecen inexpresivas y fruncen el ceño cuando están concentradas y se esfuerzan mucho. Piensas que es muy probable que tu jefe estuviera..."
         },
         {
-            "type": "Buttons",
-            "name": "Mercado de trabajo_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "Multitud del discurso_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "words": [
+                "impresionado"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ]
 }

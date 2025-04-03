@@ -1,14 +1,11 @@
 {
-    "header_text": "Foto con amigos",
+    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
     "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Foto con amigos"
-        },
-        {
-            "type": "Media",
-            "url": "./images/Foto_con_amigos.jpg"
+            "type": "Text",
+            "text": "Si tienes dificultades para iniciar una conversación con alguien, piensa en un cumplido o una palabra amable para compartir con esa persona. "
         }
     ]
 }

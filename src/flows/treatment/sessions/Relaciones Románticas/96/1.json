@@ -1,14 +1,14 @@
 {
-    "header_text": "Tomando una decisión",
+    "header_text": "Solo amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tomando una decisión"
+            "text": "Solo amigo"
         },
         {
             "type": "Media",
-            "url": "./images/Tomando_una_decisión.jpg"
+            "url": "./images/Solo_amigo.jpg"
         }
     ]
 }

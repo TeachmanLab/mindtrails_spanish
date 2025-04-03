@@ -1,14 +1,14 @@
 {
-    "header_text": "Tu primer hijo",
+    "header_text": "Pasando tiempo con familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tu primer hijo"
+            "text": "Pasando tiempo con familia"
         },
         {
             "type": "Media",
-            "url": "./images/Tu_primer_hijo.jpg"
+            "url": "./images/Pasando_tiempo_con_familia.jpg"
         }
     ]
 }

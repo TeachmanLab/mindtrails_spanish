@@ -1,14 +1,14 @@
 {
-    "header_text": "sin aliento",
+    "header_text": "Despertándote mareado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "sin aliento"
+            "text": "Despertándote mareado"
         },
         {
             "type": "Media",
-            "url": "./images/sin_aliento.jpg"
+            "url": "./images/Despertándote_mareado.jpg"
         }
     ]
 }

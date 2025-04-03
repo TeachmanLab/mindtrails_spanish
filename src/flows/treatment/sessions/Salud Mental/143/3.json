@@ -1,21 +1,21 @@
 {
-    "header_text": "Estar a cargo",
+    "header_text": "Redes sociales",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿sientes que mereces tu puesto en tu trabajo?"
+            "Text": "¿Puedes manejar que a veces tus amigos pasan tiempo sin ti?"
         },
         {
             "type": "Buttons",
-            "name": "Estar a cargo_Salud Mental_comp_question",
+            "name": "Redes sociales_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
             "correct_value": "Sí"

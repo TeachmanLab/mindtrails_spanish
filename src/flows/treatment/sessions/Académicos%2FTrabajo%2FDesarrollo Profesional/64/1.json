@@ -1,14 +1,14 @@
 {
-    "header_text": "Mercado de trabajo",
+    "header_text": "Multitud del discurso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mercado de trabajo"
+            "text": "Multitud del discurso"
         },
         {
             "type": "Media",
-            "url": "./images/Mercado_de_trabajo.jpg"
+            "url": "./images/Multitud_del_discurso.jpg"
         }
     ]
 }

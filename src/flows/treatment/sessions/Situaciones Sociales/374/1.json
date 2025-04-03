@@ -1,14 +1,14 @@
 {
-    "header_text": "Temprano en la mañana",
+    "header_text": "Interrumpiendo el silencio",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Temprano en la mañana"
+            "text": "Interrumpiendo el silencio"
         },
         {
             "type": "Media",
-            "url": "./images/Temprano_en_la_mañana.jpg"
+            "url": "./images/Interrumpiendo_el_silencio.jpg"
         }
     ]
 }

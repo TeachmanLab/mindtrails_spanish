@@ -1,24 +1,21 @@
 {
-    "header_text": "Una pregunta personal",
+    "header_text": "Conociendo nuevos amigos",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu amigo tiene una opinión más negativa de ti después de que compartiste información personal?"
+            "text": "Cuando piensas en preguntarle a algunos colegas si quieren tomar café después del trabajo, no crees que te rechazarán, y esperas que..."
         },
         {
-            "type": "Buttons",
-            "name": "Una pregunta personal_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Conociendo nuevos amigos_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "words": [
+                "acepten"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ]
 }

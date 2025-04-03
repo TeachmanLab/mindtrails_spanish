@@ -1,21 +1,14 @@
 {
-    "header_text": "Miedo a la decepción",
+    "header_text": "Planes divertidos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Te ofrecieron un trabajo nuevo que te entusiasma mucho. El trabajo ofrece menos dinero que tu trabajo actual y tu pareja le dejó en claro que quiere que conserve su trabajo actual. Cuando piensas en decirles tu decisión, te sientes..."
+            "type": "Label",
+            "text": "Planes divertidos"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Miedo a la decepción_Finanzas_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "words": [
-                "seguro"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/Planes_divertidos.jpg"
         }
     ]
 }

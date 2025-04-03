@@ -1,24 +1,21 @@
 {
-    "header_text": "Trabajando duro",
+    "header_text": "Practicando la presentación",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tendrás éxito con tu nueva carga de trabajo?"
+            "text": "Después de la presentación, te das cuenta de que estos errores son comunes. El supervisor probablemente piensa que tu recuperación y capacidad para continuar presentado fue muy... "
         },
         {
-            "type": "Buttons",
-            "name": "Trabajando duro_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "Practicando la presentación_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "words": [
+                "admirable"
             ],
-            "columnCount": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 1
         }
     ]
 }

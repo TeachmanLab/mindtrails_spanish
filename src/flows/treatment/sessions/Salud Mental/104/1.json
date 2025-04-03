@@ -1,11 +1,12 @@
 {
-    "header_text": "Recurso: Salud Mental",
-    "header_icon": "assets/subtitle.png",
-    "name": "Creando rutinas saludables",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Creando rutinas saludables\n\nEsta página de Mental Health America ofrece datos sobre la salud física, mental y la importancia de las rutinas. Contiene consejos y una guía con preguntas que ayudan a las personas a darle prioridad a lo más importante de sus vidas para poder crear rutinas saludables.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
         }
     ]
 }

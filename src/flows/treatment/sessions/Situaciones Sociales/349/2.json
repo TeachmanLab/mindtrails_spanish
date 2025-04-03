@@ -1,19 +1,19 @@
 {
-    "header_text": "Experiencia en el supermercado",
+    "header_text": "Llamada breve",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en un supermercado. Mientras estás mirando algunos estante, accidentalmente tiras varias latas al suelo y los compradores dan la vuelta para mirarte. Los compradores ven las latas en el suelo y responden con..."
+            "text": "Estás en una reunión, y durante un breve descanso llamas a tu pareja para hablar. Llegas tarde de vuelta a la sala de reuniones y todos levantan la vista cuando abres la puerta. Los demás ven tus acciones como..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Experiencia en el supermercado_Situaciones Sociales_puzzle1",
+            "name": "Llamada breve_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "molestia"
+                "disruptivas"
             ],
             "missing_letter_count": 1
         }

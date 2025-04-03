@@ -1,19 +1,19 @@
 {
-    "header_text": "Atención en la tienda",
+    "header_text": "Redes sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en una tienda y accidentalmente derribas algunos marcos de fotos en uno de los pasillos. sientes que tus mejillas se ponen calientes mientras la gente en la tienda se gira para mirarte. Cuando el dueño de la tienda se acerca para reorganizar los marcos de fotos, está frunciendo el..."
+            "text": "Mientras te desplazas por tus redes sociales, ves una foto de todos tus amigos pasándolo bien en una llamada de video. No te invitaron a pasar el rato con ellos en línea. Lo piensas y decides que puedes sobrellevar tus..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Atención en la tienda_Situaciones Sociales_puzzle1",
+            "name": "Redes sociales_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "ceño"
+                "sentimientos"
             ],
             "missing_letter_count": 1
         }

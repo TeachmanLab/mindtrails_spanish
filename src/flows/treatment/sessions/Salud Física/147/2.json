@@ -1,19 +1,19 @@
 {
-    "header_text": "Manchas de sudor",
+    "header_text": "Corriendo una maratón",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Es un día caliente y tú y tus amigos están caminando afuera. Notas que estás empezando a sudar y puedes ver algunas manchas en tu camiseta. Conoces bien a estos amigos y no les..."
+            "text": "Has corrido unos 10 kilómetros y estás pensando en entrenar para correr una maratón. Disfrutas la sensación de logro cuando terminas una carrera de 10 km, pero te preocupa si tienes lo necesario para correr más de cuatro veces esa distancia. Cuando consideras la idea de correr un maratón, crees que probablemente estarás demasiado..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Manchas de sudor_Salud Física_puzzle1",
+            "name": "Corriendo una maratón_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "importará"
+                "débil"
             ],
             "missing_letter_count": 2
         }

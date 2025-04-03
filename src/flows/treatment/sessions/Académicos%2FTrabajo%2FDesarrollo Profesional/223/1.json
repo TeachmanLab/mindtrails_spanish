@@ -1,14 +1,14 @@
 {
-    "header_text": "Usando tecnología diferente",
+    "header_text": "Corrección rápida",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Usando tecnología diferente"
+            "text": "Corrección rápida"
         },
         {
             "type": "Media",
-            "url": "./images/Usando_tecnología_diferente.jpg"
+            "url": "./images/Corrección_rápida.jpg"
         }
     ]
 }

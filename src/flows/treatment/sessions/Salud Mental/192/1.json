@@ -1,14 +1,14 @@
 {
-    "header_text": "Trabajando para salir adelante",
+    "header_text": "Sentirse entumecido",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trabajando para salir adelante"
+            "text": "Sentirse entumecido"
         },
         {
             "type": "Media",
-            "url": "./images/Trabajando_para_salir_adelante.jpg"
+            "url": "./images/Sentirse_entumecido.jpg"
         }
     ]
 }

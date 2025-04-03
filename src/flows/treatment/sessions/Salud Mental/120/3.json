@@ -1,24 +1,24 @@
 {
-    "header_text": "Sentirse entumecido",
+    "header_text": "Puerta con seguro",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás deprimido?"
+            "Text": "Durante el resto del camino te sientes..."
         },
         {
             "type": "Buttons",
-            "name": "Sentirse entumecido_Salud Mental_comp_question",
+            "name": "Puerta con seguro_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Tranquilo y relajado cuando llegas al trabajo.",
+                "Preocupado de que hayas dejado la puerta de tu casa sin seguro."
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Tranquilo y relajado cuando llegas al trabajo."
         }
     ]
 }

@@ -1,11 +1,14 @@
 {
-    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_text": "Conocido sin mascarilla",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Text",
-            "text": "Si siente malestar físico, intente notar y nombrar lo que está sintiendo. Recuerde que el malestar suele pasar o disminuir con el tiempo."
+            "type": "Label",
+            "text": "Conocido sin mascarilla"
+        },
+        {
+            "type": "Media",
+            "url": "./images/Conocido_sin_mascarilla.jpg"
         }
     ]
 }

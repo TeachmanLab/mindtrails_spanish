@@ -1,14 +1,14 @@
 {
-    "header_text": "Mensajes de texto honestos",
+    "header_text": "Trabajando para salir adelante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mensajes de texto honestos"
+            "text": "Trabajando para salir adelante"
         },
         {
             "type": "Media",
-            "url": "./images/Mensajes_de_texto_honestos.jpg"
+            "url": "./images/Trabajando_para_salir_adelante.jpg"
         }
     ]
 }

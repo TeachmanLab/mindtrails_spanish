@@ -1,14 +1,14 @@
 {
-    "header_text": "Breve introducción",
+    "header_text": "Limitaciones futuras",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Al final, te das cuenta de que todos tienen estos momentos, y te recuperas rápidamente. Mientras terminas de presentarte, ves que los demás están escuchando con gran..."
+            "text": "Esta mañana escuchas en las noticia que muchas empresas están reduciendo personal. Piensas en qué sucederá si pierdes tu trabajo. Decides que será posible encontrar otro..."
         },
         {
             "type": "Entry",
-            "name": "Breve introducción_Académicos/Trabajo/Desarrollo Profesional_entry2"
+            "name": "Limitaciones futuras_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ]
 }

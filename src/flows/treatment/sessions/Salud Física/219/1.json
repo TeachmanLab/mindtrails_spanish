@@ -1,14 +1,14 @@
 {
-    "header_text": "Sensaciones de dormir",
+    "header_text": "Problemas de visión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sensaciones de dormir"
+            "text": "Problemas de visión"
         },
         {
             "type": "Media",
-            "url": "./images/Sensaciones_de_dormir.jpg"
+            "url": "./images/Problemas_de_visión.jpg"
         }
     ]
 }

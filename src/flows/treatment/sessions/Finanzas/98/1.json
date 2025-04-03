@@ -1,14 +1,14 @@
 {
-    "header_text": "Planificación de pagos",
+    "header_text": "Ahorrando dinero",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Planificación de pagos"
+            "text": "Ahorrando dinero"
         },
         {
             "type": "Media",
-            "url": "./images/Planificación_de_pagos.jpg"
+            "url": "./images/Ahorrando_dinero.jpg"
         }
     ]
 }

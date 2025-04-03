@@ -1,14 +1,14 @@
 {
-    "header_text": "Pensamientos en la estación de tren",
+    "header_text": "Un golpe accidental",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pensamientos en la estación de tren"
+            "text": "Un golpe accidental"
         },
         {
             "type": "Media",
-            "url": "./images/Pensamientos_en_la_estación_de_tren.jpg"
+            "url": "./images/Un_golpe_accidental.jpg"
         }
     ]
 }

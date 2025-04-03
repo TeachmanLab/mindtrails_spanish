@@ -1,14 +1,14 @@
 {
-    "header_text": "Obtener una oportunidad",
+    "header_text": "Error en una tarea",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Obtener una oportunidad"
+            "text": "Error en una tarea"
         },
         {
             "type": "Media",
-            "url": "./images/Obtener_una_oportunidad.jpg"
+            "url": "./images/Error_en_una_tarea.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Conversaciones incómodas",
+    "header_text": "Mensajes en redes sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Invitaste a tu cónyuge a pasar el rato contigo y tus amigos para que todos pudieran conocerse. Más tarde, tu cónyuge sacó a relucir un tema controvertido y tus amigos parecían no estar seguros de cómo responder. Sabes que tus amigos reconocen que muchas personas, incluidos tú y tu cónyuge, tienen opiniones..."
+            "type": "Label",
+            "text": "Mensajes en redes sociales"
         },
         {
-            "type": "Entry",
-            "name": "Conversaciones incómodas_Relaciones Románticas_entry1"
+            "type": "Media",
+            "url": "./images/Mensajes_en_redes_sociales.jpg"
         }
     ]
 }

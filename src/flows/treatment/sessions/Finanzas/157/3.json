@@ -1,24 +1,21 @@
 {
-    "header_text": "Planificación de pagos",
+    "header_text": "Mantener a la familia",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Tu selección de plan de jubilación probablemente significa que..."
+            "text": "Cuando piensas en tus hijos, no crees que perderán oportunidades educativas por falta de dinero y crees que apoyar su educación universitaria será..."
         },
         {
-            "type": "Buttons",
-            "name": "Planificación de pagos_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Mantener a la familia_Finanzas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Tendrás que preocuparte por el dinero más adelante en la vida.",
-                "Tendras un futuro financiero cómodo."
+            "words": [
+                "asequible"
             ],
-            "columnCount": 1,
-            "correct_value": "Tendrás que preocuparte por el dinero más adelante en la vida."
+            "missing_letter_count": 2
         }
     ]
 }

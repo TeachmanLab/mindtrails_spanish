@@ -1,14 +1,14 @@
 {
-    "header_text": "Una presentación pequeña",
+    "header_text": "Proyecto eliminado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una presentación pequeña"
+            "text": "Proyecto eliminado"
         },
         {
             "type": "Media",
-            "url": "./images/Una_presentación_pequeña.jpg"
+            "url": "./images/Proyecto_eliminado.jpg"
         }
     ]
 }

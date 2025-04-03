@@ -1,19 +1,19 @@
 {
-    "header_text": "Sentirse mareado",
+    "header_text": "Primera vez pantinaje sobre hielo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado trabajando duro todo el día y no has comido mucho. Al levantarte de su escritorio, te sientes mareado y débil, y esto te preocupa un..."
+            "text": "Tu amigo disfruta patinando sobre hielo y te convence de probarlo. En la pista te pones los patines y empiezas a patinar. Te deslizas hacia adelante lentamente al principio, luego más rápido, y piensas que tus posibilidades de lesionarte son... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Sentirse mareado_Salud Física_puzzle1",
+            "name": "Primera vez pantinaje sobre hielo_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "poco"
+                "mínimas"
             ],
             "missing_letter_count": 1
         }

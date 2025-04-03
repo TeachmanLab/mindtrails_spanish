@@ -1,14 +1,14 @@
 {
-    "header_text": "Planificación de pagos",
+    "header_text": "Saludable pero caro",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Acabas de empezar un nuevo trabajo y necesitas seleccionar uno de los planes de jubilación que ofrece tu empresa. Has estado investigando un poco sobre los diferentes tipos de planes, pero te sientes un poco abrumado y tu fecha límite para elegir se acerca..."
+            "text": "Quieres empezar a comer de forma más saludable, por eso empiezas a buscar consejos y recetas en línea. Rápidamente te das cuenta de que muchos alimentos recomendados por expertos en salud cuestan mucho dinero. Cuando piensas en comer más sano con un presupuesto limitado, crees que puedes tener..."
         },
         {
             "type": "Entry",
-            "name": "Planificación de pagos_Finanzas_entry1"
+            "name": "Saludable pero caro_Finanzas_entry1"
         }
     ]
 }

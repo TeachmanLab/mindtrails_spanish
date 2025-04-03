@@ -1,14 +1,14 @@
 {
-    "header_text": "Recogiendo a un viejo amigo",
+    "header_text": "Corriendo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te vas a encontrar con un amigo que no has visto en muchos años. Manejas a la estación de tren para recogerlo. Cuando llegas, sabes que pasarán un buen rato..."
+            "text": "Estás corriendo afuera y ves a un grupo de personas más adelante. Al pasar junto a ellos, tropiezas ligeramente y te sientes un poco tonto. Los escuchas reír mientras pasas y supones que se están riendo de..."
         },
         {
             "type": "Entry",
-            "name": "Recogiendo a un viejo amigo_Situaciones Sociales_entry1"
+            "name": "Corriendo_Situaciones Sociales_entry1"
         }
     ]
 }

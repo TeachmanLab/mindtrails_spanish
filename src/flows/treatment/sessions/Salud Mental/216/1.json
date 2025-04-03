@@ -1,14 +1,11 @@
 {
-    "header_text": "Participación en las redes sociales",
+    "header_text": "Recurso: Salud Mental",
     "header_icon": "assets/subtitle.png",
+    "name": "988/Lifeline (Línea Nacional de Prevención del Suicidio)",
     "elements": [
         {
-            "type": "Label",
-            "text": "Participación en las redes sociales"
-        },
-        {
-            "type": "Media",
-            "url": "./images/Participación_en_las_redes_sociales.jpg"
+            "type": "Text",
+            "text": "988/Lifeline (Línea Nacional de Prevención del Suicidio)\n\nProporciona una línea de ayuda 24/7 donde personas pueden llamar por teléfono y tener conversaciones gratuitas y confidenciales. La línea apoya a personas en crisis o aquellos pensando en el suicidio. Para texters que prefieren hablar por teléfono. Llama a 988 o visita el enlace.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
         }
     ]
 }

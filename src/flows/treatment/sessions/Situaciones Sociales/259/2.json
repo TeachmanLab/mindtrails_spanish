@@ -1,14 +1,21 @@
 {
-    "header_text": "Saludando gente en bibliotecas",
+    "header_text": "Presentando a tus amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Saludando gente en bibliotecas"
+            "type": "Text",
+            "text": "Invitaste a tu cónyuge a encontrarse con tus amigos del trabajo esta noche. Sabes que a menudo pueden contar historias vergonzosas sobre ti a otras personas. Piensas en lo que van a hacer esta noche y te sientes..."
         },
         {
-            "type": "Media",
-            "url": "./images/Saludando_gente_en_bibliotecas.jpg"
+            "type": "WordPuzzle",
+            "name": "Presentando a tus amigos_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "words": [
+                "tranquilo"
+            ],
+            "missing_letter_count": 2
         }
     ]
 }

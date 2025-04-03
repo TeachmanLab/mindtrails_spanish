@@ -1,14 +1,14 @@
 {
-    "header_text": "Planes de vacaciones",
+    "header_text": "Nerviosismo de cumpleaños",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Planes de vacaciones"
+            "text": "Nerviosismo de cumpleaños"
         },
         {
             "type": "Media",
-            "url": "./images/Planes_de_vacaciones.jpg"
+            "url": "./images/Nerviosismo_de_cumpleaños.jpg"
         }
     ]
 }

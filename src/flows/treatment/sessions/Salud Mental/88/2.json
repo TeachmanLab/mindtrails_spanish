@@ -1,14 +1,14 @@
 {
-    "header_text": "Tu propio estilo",
+    "header_text": "Comentarios de redes sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hiciste planes con un grupo de amigos para salir a cenar un viernes por la noche. Cuando vienen a recogerte, ves que están vestidos de manera informal, pero tú decidiste disfrazarte un poco y crees que podrían juzgarte. Decides que te gusta lo que llevas puesto y vas a cenar..."
+            "text": "Decides enviar un correo electrónico a tu departamento promocionando algo importante para ti. Alguien responde de manera grosera porque malinterpretaron lo que escribiste. Te preguntas qué piensa esta persona sobre ti y te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Tu propio estilo_Salud Mental_entry1"
+            "name": "Comentarios de redes sociales_Salud Mental_entry1"
         }
     ]
 }

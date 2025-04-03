@@ -1,14 +1,14 @@
 {
-    "header_text": "Costear los gastos",
+    "header_text": "Dar regalos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu alquiler se acerca pronto. Normalmente tienes tu alquiler presupuestado, pero algunos gastos inesperados te han dejado un poco corto y tienes que tomar algunos turnos extra en el trabajo. Pensando en tu capacidad para hacer el pago, tus fondos serán... "
+            "text": "Los cumpleaños de tus hijos se acercan, y quieres mostrarles cuánto los aprecias a través de regalos. sin embargo, te preocupa si podrás pagar los regalos que crees que merecen. Cuando piensas en sus cumpleaños, piensas que estarán felices con algo...  "
         },
         {
             "type": "Entry",
-            "name": "Costear los gastos_Finanzas_entry1"
+            "name": "Dar regalos_Finanzas_entry1"
         }
     ]
 }

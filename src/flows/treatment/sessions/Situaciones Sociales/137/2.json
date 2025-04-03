@@ -1,19 +1,19 @@
 {
-    "header_text": "Usando algo viejo",
+    "header_text": "Dolor de garganta en la cena",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te invitan a una fiesta en la oficina y decides usar un traje que compraste el año pasado. Llegas y todos los demás parecen tener un atuendo nuevo. Mientras caminas, el anfitrión se te acerca y te dice que luces..."
+            "text": "Haces planes para salir a cenar con un amigo, pero no estás seguro de si has estado con un grupo grande de personas recientemente. Cuando llegan a cenar, siguen tomando sorbos de agua y explican que les hace cosquillas en la garganta. Supongo que probablemente sea por hablar mucho durante la..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Usando algo viejo_Situaciones Sociales_puzzle1",
+            "name": "Dolor de garganta en la cena_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "bien"
+                "cena"
             ],
             "missing_letter_count": 1
         }

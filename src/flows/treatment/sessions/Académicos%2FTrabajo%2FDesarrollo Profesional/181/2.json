@@ -1,14 +1,14 @@
 {
-    "header_text": "Presentación estresante",
+    "header_text": "Quedando atrás",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes que hacerle una presentación a tu jefe. Mientras piensas en la charla, sientes mariposas en el estómago. La mañana de la charla, te sientes nervioso y crees que tus nervios serán..."
+            "text": "Recientemente comenzaste un nuevo trabajo. Mientras trabajas, parece que todos los que te rodean saben lo que están haciendo, pero aún estás confundido. Crees que esto se debe a que todavía estás aprendiendo y pronto te darás..."
         },
         {
             "type": "Entry",
-            "name": "Presentación estresante_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Quedando atrás_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ]
 }

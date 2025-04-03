@@ -1,14 +1,14 @@
 {
-    "header_text": "Aceptando elogios",
+    "header_text": "Compartir con alguien nuevo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Aceptando elogios"
+            "text": "Compartir con alguien nuevo"
         },
         {
             "type": "Media",
-            "url": "./images/Aceptando_elogios.jpg"
+            "url": "./images/Compartir_con_alguien_nuevo.jpg"
         }
     ]
 }

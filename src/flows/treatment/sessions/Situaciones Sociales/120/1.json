@@ -1,14 +1,14 @@
 {
-    "header_text": "Presentación importante",
+    "header_text": "El coche de tu familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Presentación importante"
+            "text": "El coche de tu familia"
         },
         {
             "type": "Media",
-            "url": "./images/Presentación_importante.jpg"
+            "url": "./images/El_coche_de_tu_familia.jpg"
         }
     ]
 }

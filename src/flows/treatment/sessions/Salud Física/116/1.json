@@ -1,14 +1,14 @@
 {
-    "header_text": "Nadando en la playa",
+    "header_text": "Problemas de computadora",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nadando en la playa"
+            "text": "Problemas de computadora"
         },
         {
             "type": "Media",
-            "url": "./images/Nadando_en_la_playa.jpg"
+            "url": "./images/Problemas_de_computadora.jpg"
         }
     ]
 }

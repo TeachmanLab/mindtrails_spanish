@@ -1,19 +1,19 @@
 {
-    "header_text": "Celebraciones culturales familiares",
+    "header_text": "Tocando el piano",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus colegas te piden que vayas a una conferencia, pero es la noche de una celebración cultural importante para tu familia. Estás deseando la celebración con tu familia, pero no quieres que tus colegas piensen que eres diferente. Al pensar en contárselo a tus colegas, te das cuenta de que tu cultura es... "
+            "text": "Mientras estás en la casa de un amigo para una cena, tu amigo menciona que eres un buen pianista y te pide que toques algo en el piano para los demás invitados. Conoces algunas piezas que puedes tocar bien, pero te sientes nervioso tocando en el momento sin práctica. Acercándote al piano, piensas que los invitados lo van a... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Celebraciones culturales familiares_Situaciones Sociales_puzzle1",
+            "name": "Tocando el piano_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "importante"
+                "disfrutar"
             ],
             "missing_letter_count": 1
         }

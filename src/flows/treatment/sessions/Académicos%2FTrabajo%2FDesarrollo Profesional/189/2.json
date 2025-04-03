@@ -1,14 +1,14 @@
 {
-    "header_text": "Presentación de recaudación de fondos",
+    "header_text": "Fuera de tu control",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te ponen a cargo de los esfuerzos de recaudación de fondos de tu oficina y rápidamente te das cuenta de que a tus compañeros de trabajo no les interesa mucho la recaudación de fondos. En una reunión, das una presentación sobre la importancia de ayudar con la recaudación de fondos, durante la cual tus compañeros de trabajo permanecen callados. Cuando te sientas después de tu presentación, piensas que parecían..."
+            "text": "Estás a punto de hacer tu primera entrevista en línea para una importante promoción. Haces clic en el enlace cuando es hora de unirte a la reunión, pero tu conexión a internet se corta. Piensas en que los entrevistadores podrían asumir que llegaste tarde y sientes..."
         },
         {
             "type": "Entry",
-            "name": "Presentación de recaudación de fondos_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Fuera de tu control_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ]
 }

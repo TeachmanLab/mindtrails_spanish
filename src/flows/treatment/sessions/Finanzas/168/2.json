@@ -1,19 +1,19 @@
 {
-    "header_text": "Confiar en los padres",
+    "header_text": "Visita médica inesperada",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente te redujeron el pago  y tendrás que pedirle a tu familia ayuda para pagar los gastos este mes. Te sientes terrible preguntando ya que ya te han apoyado mucho financieramente en el pasado. Recuerdas que necesitar un poco ayuda adicional de vez en cuando está..."
+            "text": "Recientemente tuviste una visita médica inesperada. Tú y tu cónyuge comparten un plan de seguro y te preocupas que tu cónyuge se preocupe por las finanzas si lo ve en tu declaración de seguro. si te preguntan al respecto, crees que serán..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Confiar en los padres_Finanzas_puzzle1",
+            "name": "Visita médica inesperada_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "bien"
+                "comprensivos"
             ],
             "missing_letter_count": 2
         }

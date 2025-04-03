@@ -1,24 +1,24 @@
 {
-    "header_text": "Seguridad de la trampolina",
+    "header_text": "Aprendiendo a esquíar",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "A medida que continúes viendo a sus hijos en el trampolín probablemente..."
+            "Text": "Una vez que llegues a la curva, probablemente..."
         },
         {
             "type": "Buttons",
-            "name": "Seguridad de la trampolina_Salud Física_comp_question",
+            "name": "Aprendiendo a esquíar_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "disfrutarás viéndolos",
-                "te preocuparás de que se lastimen"
+                "Vas a sobrepasarla y seguir esquiando cuesta abajo.",
+                "Vas a caerte."
             ],
             "columnCount": 1,
-            "correct_value": "disfrutarás viéndolos"
+            "correct_value": "Vas a sobrepasarla y seguir esquiando cuesta abajo."
         }
     ]
 }

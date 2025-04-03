@@ -1,14 +1,14 @@
 {
-    "header_text": "Ejercicio con un amigo",
+    "header_text": "Usando tecnología diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ejercicio con un amigo"
+            "text": "Usando tecnología diferente"
         },
         {
             "type": "Media",
-            "url": "./images/Ejercicio_con_un_amigo.jpg"
+            "url": "./images/Usando_tecnología_diferente.jpg"
         }
     ]
 }

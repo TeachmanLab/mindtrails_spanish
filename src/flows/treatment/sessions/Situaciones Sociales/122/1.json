@@ -1,14 +1,14 @@
 {
-    "header_text": "Tu mejor amigo",
+    "header_text": "El partido de futból",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tu mejor amigo"
+            "text": "El partido de futból"
         },
         {
             "type": "Media",
-            "url": "./images/Tu_mejor_amigo.jpg"
+            "url": "./images/El_partido_de_futból.jpg"
         }
     ]
 }

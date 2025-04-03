@@ -1,14 +1,14 @@
 {
-    "header_text": "Salir a almorzar",
+    "header_text": "Gestión de crédito",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Salir a almorzar"
+            "text": "Gestión de crédito"
         },
         {
             "type": "Media",
-            "url": "./images/Salir_a_almorzar.jpg"
+            "url": "./images/Gestión_de_crédito.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Gestión de puestos de trabajo",
+    "header_text": "Pidiendo dinero",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Gestión de puestos de trabajo"
+            "text": "Pidiendo dinero"
         },
         {
             "type": "Media",
-            "url": "./images/Gestión_de_puestos_de_trabajo.jpg"
+            "url": "./images/Pidiendo_dinero.jpg"
         }
     ]
 }

@@ -1,0 +1,10 @@
+{
+    "header_text": "Haciendo lo mejor que puedas: Sentimientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¡Gran trabajo! Ahora verás algunos sentimientos."
+        }
+    ]
+}

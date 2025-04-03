@@ -1,19 +1,19 @@
 {
-    "header_text": "Ejercicio con un amigo",
+    "header_text": "Usando tecnología diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Es miércoles por la noche y tu amigo te convence ir a una clase de ejercicio cardiovascular de alta intensidad. En medio de la clase, dejas de hacer ejercicio porque sientes que no puedes recuperar el aliento. Cuando comienzas a tener pensamientos ansiosos de desmayarte, decides simplemente..."
+            "text": "Recientemente reemplazaste tu computadora portátil y tuviste que optar por una opción más económica. Tu jefe te pide que completes un proyecto que requerirá una aplicación que tu nueva computadora no tiene. Cuando piensas en completar tu trabajo para este proyecto, te sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Ejercicio con un amigo_Salud Mental_puzzle1",
+            "name": "Usando tecnología diferente_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "notarlos"
+                "capaz"
             ],
             "missing_letter_count": 2
         }

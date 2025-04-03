@@ -1,14 +1,14 @@
 {
-    "header_text": "Un pastel de cumpleaños",
+    "header_text": "Prueba de enfermedad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un pastel de cumpleaños"
+            "text": "Prueba de enfermedad"
         },
         {
             "type": "Media",
-            "url": "./images/Un_pastel_de_cumpleaños.jpg"
+            "url": "./images/Prueba_de_enfermedad.jpg"
         }
     ]
 }

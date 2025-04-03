@@ -1,14 +1,14 @@
 {
-    "header_text": "Conflictos de convivencia",
+    "header_text": "Fotos divertidas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tu pareja llevan unos meses viviendo juntos y han surgido algunos problemas. Tu amigo va a visitar pronto y, al preguntarle a tu pareja si tu amigo puede quedarse contigo mientras está en la ciudad, tu pareja se enoja y comienza a alzar la..."
+            "text": "Le envías una foto tuya intencionalmente mala a tu amigo por mensaje de texto. Te responden diciendo que tomaron una captura de pantalla de tu foto. Probablemente tu amigo piense que te ves..."
         },
         {
             "type": "Entry",
-            "name": "Conflictos de convivencia_Situaciones Sociales_entry1"
+            "name": "Fotos divertidas_Situaciones Sociales_entry1"
         }
     ]
 }

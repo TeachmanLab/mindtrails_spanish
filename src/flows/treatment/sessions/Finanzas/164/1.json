@@ -1,14 +1,11 @@
 {
-    "header_text": "Reclamación del seguro",
+    "header_text": "Maneja tus sentimientos: Finanzas",
     "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Label",
-            "text": "Reclamación del seguro"
-        },
-        {
-            "type": "Media",
-            "url": "./images/Reclamación_del_seguro.jpg"
+            "type": "Text",
+            "text": "Cuando se sienta abrumado, pregúntele a alguien de su sistema de apoyo si puede ayudarlo a pensar en formas de administrar sus finanzas."
         }
     ]
 }

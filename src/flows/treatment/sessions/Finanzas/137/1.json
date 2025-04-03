@@ -1,14 +1,14 @@
 {
-    "header_text": "Costos inesperados",
+    "header_text": "Comprando productos de oficina",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Costos inesperados"
+            "text": "Comprando productos de oficina"
         },
         {
             "type": "Media",
-            "url": "./images/Costos_inesperados.jpg"
+            "url": "./images/Comprando_productos_de_oficina.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Prueba de enfermedad",
+    "header_text": "Problemas de visión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Prueba de enfermedad"
+            "text": "Problemas de visión"
         },
         {
             "type": "Media",
-            "url": "./images/Prueba_de_enfermedad.jpg"
+            "url": "./images/Problemas_de_visión.jpg"
         }
     ]
 }

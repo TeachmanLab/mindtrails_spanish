@@ -1,14 +1,14 @@
 {
-    "header_text": "Pensando en preguntas",
+    "header_text": "Trabajando para salir adelante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pensando en preguntas"
+            "text": "Trabajando para salir adelante"
         },
         {
             "type": "Media",
-            "url": "./images/Pensando_en_preguntas.jpg"
+            "url": "./images/Trabajando_para_salir_adelante.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "sin aliento",
+    "header_text": "Recibir reconocimiento",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "sin aliento"
+            "text": "Recibir reconocimiento"
         },
         {
             "type": "Media",
-            "url": "./images/sin_aliento.jpg"
+            "url": "./images/Recibir_reconocimiento.jpg"
         }
     ]
 }

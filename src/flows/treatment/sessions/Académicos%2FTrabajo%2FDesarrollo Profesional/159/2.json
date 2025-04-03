@@ -1,19 +1,19 @@
 {
-    "header_text": "Primeras impresiones",
+    "header_text": "Revisando tu trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Se contrató un supervisor nuevo en tu departamento y escuchas que es muy preciso sobre cómo se deben hacer las cosas. Lo conoces por primera vez y hablan sobre el próximo mes. Cuando sales de la reunión, piensas que él cree que eres... "
+            "text": "Te han llamado para una evaluación de desempeño con tu jefe. En general, haces un buen trabajo, pero sabes que tu jefe ha notado algunos errores recientemente. Mientras te preparas para la revisión, piensas que tu reunión probablemente se centrará en tus..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Primeras impresiones_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "name": "Revisando tu trabajo_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "inteligente"
+                "defectos"
             ],
             "missing_letter_count": 2
         }

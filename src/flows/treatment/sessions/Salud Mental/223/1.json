@@ -1,14 +1,14 @@
 {
-    "header_text": "Probando un dicho divertido",
+    "header_text": "Nuevo atuendo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Probando un dicho divertido"
+            "text": "Nuevo atuendo"
         },
         {
             "type": "Media",
-            "url": "./images/Probando_un_dicho_divertido.jpg"
+            "url": "./images/Nuevo_atuendo.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Primera vez pantinaje sobre hielo",
+    "header_text": "Un golpe accidental",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Primera vez pantinaje sobre hielo"
+            "text": "Un golpe accidental"
         },
         {
             "type": "Media",
-            "url": "./images/Primera_vez_pantinaje_sobre_hielo.jpg"
+            "url": "./images/Un_golpe_accidental.jpg"
         }
     ]
 }

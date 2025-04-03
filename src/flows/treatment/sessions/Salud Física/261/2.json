@@ -1,19 +1,19 @@
 {
-    "header_text": "Caminata con amigos",
+    "header_text": "Un pastel de cumpleaños",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tus amigos han decidido ir en una caminata, aunque temes que te agotes demasiado. Un rato después de comenzar la caminata, empiezas a respirar con dificultad. Piensas que las posibilidades de que tengas que parar son..."
+            "text": "Tu amigo te compra un pastel para tu cumpleaños. Cuando lo traen por la noche, notan que recientemente han pasado de estar enfermos. Sosteniendo el paste, piensas que tus posibilidades de enfermarse son... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Caminata con amigos_Salud Física_puzzle1",
+            "name": "Un pastel de cumpleaños_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "altas"
+                "mínimas"
             ],
             "missing_letter_count": 2
         }

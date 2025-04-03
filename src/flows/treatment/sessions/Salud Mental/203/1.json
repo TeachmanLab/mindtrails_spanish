@@ -1,14 +1,14 @@
 {
-    "header_text": "Views Towards Therapy",
+    "header_text": "Día especial",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Views Towards Therapy"
+            "text": "Día especial"
         },
         {
             "type": "Media",
-            "url": "./images/Views_Towards_Therapy.jpg"
+            "url": "./images/Día_especial.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "El escaparate de danza",
+    "header_text": "Prepararte para tener éxito",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "El escaparate de danza"
+            "text": "Prepararte para tener éxito"
         },
         {
             "type": "Media",
-            "url": "./images/El_escaparate_de_danza.jpg"
+            "url": "./images/Prepararte_para_tener_éxito.jpg"
         }
     ]
 }

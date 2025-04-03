@@ -1,19 +1,19 @@
 {
-    "header_text": "sintiendo mareos",
+    "header_text": "Boca seca",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Decides girar rápidamente en una silla de oficina. sientes mariposas en el estómago y te mareas cuando la silla se desacelera. Estas sensaciones probablemente significan que vas a..."
+            "text": "Has sentido sequedad en la boca durante unos días. Te preguntas si la sequedad de boca es un efecto secundario menor de un medicamento que acabas de empezar a tomar o algo más grave. La probabilidad de que la boca seca refleje un problema de salud grave es..."
         },
         {
             "type": "WordPuzzle",
-            "name": "sintiendo mareos_Salud Física_puzzle1",
+            "name": "Boca seca_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "words": [
-                "desmayarte"
+                "mínima"
             ],
             "missing_letter_count": 2
         }

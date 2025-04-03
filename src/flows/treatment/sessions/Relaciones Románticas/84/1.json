@@ -1,14 +1,14 @@
 {
-    "header_text": "Relaciones futuras",
+    "header_text": "Expresar tus sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Relaciones futuras"
+            "text": "Expresar tus sentimientos"
         },
         {
             "type": "Media",
-            "url": "./images/Relaciones_futuras.jpg"
+            "url": "./images/Expresar_tus_sentimientos.jpg"
         }
     ]
 }

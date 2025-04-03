@@ -1,12 +1,11 @@
 {
-    "header_text": "¡Escribe El Tuyo!",
-    "header_icon": [
-        "assets/subtitle.png"
-    ],
+    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",
-            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
+            "text": "Cuando esté estresado o molesto, trate de concentrarse en sus cinco sentidos: observe 5 cosas que puede ver, 4 cosas que puede sentir, 3 cosas que puede oír, 2 cosas que puede oler y 1 cosa que puede saborear."
         }
     ]
 }
