@@ -1,5 +1,4 @@
 {
-	"datums_endpoint": "https://digital-trails.org/api/v1/datums",
 	"icon": "/assets/home_mindtrails.png",
 	"home": {
 		"title": "MindTrails",
