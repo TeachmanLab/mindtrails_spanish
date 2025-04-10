@@ -11,7 +11,5 @@
             "name": "Puerta cerrada_Salud Mental_entry1"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct"
-    ]
+    "navigation_conditions": "wait_for_correct"
 }

@@ -11,7 +11,5 @@
             "name": "Corriendo una maratón_Salud Física_entry2"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct"
-    ]
+    "navigation_conditions": "wait_for_correct"
 }

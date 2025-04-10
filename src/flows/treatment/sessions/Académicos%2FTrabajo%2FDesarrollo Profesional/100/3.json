@@ -11,7 +11,5 @@
             "name": "Sentado en una reunión_Académicos/Trabajo/Desarrollo Profesional_entry2"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct"
-    ]
+    "navigation_conditions": "wait_for_correct"
 }

@@ -1,7 +1,6 @@
 {
     "header_text": "Planes de vacaiones",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
@@ -20,5 +19,9 @@
             "columnCount": 1,
             "correct_value": "Solo estás emocionado de pasar los días festivos con tu pareja y no lo tomarán como algo personal."
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
     ]
 }

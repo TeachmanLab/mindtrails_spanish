@@ -1,7 +1,6 @@
 {
     "header_text": "Carrera matutina del domingo",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
@@ -20,5 +19,9 @@
             "columnCount": 1,
             "correct_value": "Tomarte una botella de ague y comerte un bocado despues del ejecicio."
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
     ]
 }

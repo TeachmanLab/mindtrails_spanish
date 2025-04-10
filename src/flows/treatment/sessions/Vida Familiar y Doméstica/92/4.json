@@ -11,7 +11,5 @@
             "name": "Mantener a la familia_Vida Familiar y Doméstica_entry2"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct"
-    ]
+    "navigation_conditions": "wait_for_correct"
 }

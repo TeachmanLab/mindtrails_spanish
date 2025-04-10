@@ -11,7 +11,5 @@
             "name": "Reunión uno a uno_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct"
-    ]
+    "navigation_conditions": "wait_for_correct"
 }

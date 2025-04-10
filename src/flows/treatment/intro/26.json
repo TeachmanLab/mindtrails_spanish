@@ -17,7 +17,5 @@
             "name": "IBM_elevator_puzzle"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct"
-    ]
+    "navigation_conditions": "wait_for_correct"
 }

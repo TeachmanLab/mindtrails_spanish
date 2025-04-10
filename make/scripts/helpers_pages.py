@@ -19,10 +19,8 @@ def create_conditions(args):
     return { "conditions": [{ "variable": variable, "comparator": comparison, "value": value }] }
 
 def create_nav_conditions(buttons:Literal["WhenCorrect","AfterTimeout","Never","WhenComplete"]=None,timeout=None,inputs=None):
-
     buttons = lower(buttons)
     inputs = inputs or []
-
     if 'puzzle' in list(map(lower,inputs)):
         return {"navigation_conditions": "wait_for_correct"}
     if timeout and buttons == "aftertimeout":
@@ -227,9 +225,10 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
         pages.append({
             "header_text": label,
             "header_icon": "assets/subtitle.png",
-            "show_buttons": "WhenCorrect",
             "elements": [
-                { "type": "Text", "text": comp_question},
+                {
+                    "type": "Text", "text": comp_question
+                },
                 {
                     "type": "Buttons",
                     "name": f"{label}_{domain}_comp_question",
@@ -240,7 +239,8 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                     "columnCount": 1,
                     "correct_value": correct_answer
                 }
-            ]
+            ],
+            "navigation_conditions":["wait_for_correct","wait_for_click"]
         })
 
     return pages
