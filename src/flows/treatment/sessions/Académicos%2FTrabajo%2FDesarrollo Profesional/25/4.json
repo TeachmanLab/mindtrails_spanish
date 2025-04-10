@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Esperas conseguir eventualmente el trabajo que deseas?"
+            "text": "¿Esperas conseguir eventualmente el trabajo que deseas?"
         },
         {
             "type": "Buttons",

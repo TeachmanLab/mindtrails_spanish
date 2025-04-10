@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Todavia eres divertido para hablar sin la mascara?"
+            "text": "Todavia eres divertido para hablar sin la mascara?"
         },
         {
             "type": "Buttons",

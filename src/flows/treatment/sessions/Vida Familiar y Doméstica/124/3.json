@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Están tus hijos molestos porque los etiquetó en una foto familiar?"
+            "text": "¿Están tus hijos molestos porque los etiquetó en una foto familiar?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Respondes a la sensación en tu estómago..."
+            "text": "Respondes a la sensación en tu estómago..."
         },
         {
             "type": "Buttons",

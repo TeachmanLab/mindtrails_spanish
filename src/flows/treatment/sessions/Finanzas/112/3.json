@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Está bien gastar plata en las entradas?"
+            "text": "¿Está bien gastar plata en las entradas?"
         },
         {
             "type": "Buttons",

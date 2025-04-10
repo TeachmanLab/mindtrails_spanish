@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Está seriamente infectado tu dedo?"
+            "text": "¿Está seriamente infectado tu dedo?"
         },
         {
             "type": "Buttons",

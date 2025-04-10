@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Vas a gastar todo tu dinero ordenando comida?"
+            "text": "¿Vas a gastar todo tu dinero ordenando comida?"
         },
         {
             "type": "Buttons",

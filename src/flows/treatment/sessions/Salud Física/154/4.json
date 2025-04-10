@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿La persona que conociste en la clase de baile pensó que estabas ansioso?"
+            "text": "¿La persona que conociste en la clase de baile pensó que estabas ansioso?"
         },
         {
             "type": "Buttons",

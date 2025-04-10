@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa lo que tu compañero de trabajo piensa de tu presentación?"
+            "text": "¿Te preocupa lo que tu compañero de trabajo piensa de tu presentación?"
         },
         {
             "type": "Buttons",

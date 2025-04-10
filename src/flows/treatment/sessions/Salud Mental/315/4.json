@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu jefe quedó satisfecho con tu progreso?"
+            "text": "¿Tu jefe quedó satisfecho con tu progreso?"
         },
         {
             "type": "Buttons",

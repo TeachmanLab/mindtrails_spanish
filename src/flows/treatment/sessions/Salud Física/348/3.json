@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es tu tos una señal definitiva de COVID?"
+            "text": "¿Es tu tos una señal definitiva de COVID?"
         },
         {
             "type": "Buttons",

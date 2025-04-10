@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tomaste la decisión correcta?"
+            "text": "¿Tomaste la decisión correcta?"
         },
         {
             "type": "Buttons",

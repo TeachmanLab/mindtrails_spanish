@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Obtener una nueva tarjeta de crédito probablemente"
+            "text": "Obtener una nueva tarjeta de crédito probablemente"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Eres duro contigo mismo porque no compras el almuerzo como tus amigos?"
+            "text": "¿Eres duro contigo mismo porque no compras el almuerzo como tus amigos?"
         },
         {
             "type": "Buttons",

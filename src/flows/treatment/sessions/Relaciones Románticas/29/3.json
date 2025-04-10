@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando piensas en tu relación actual, piensas que probablemente:"
+            "text": "Cuando piensas en tu relación actual, piensas que probablemente:"
         },
         {
             "type": "Buttons",

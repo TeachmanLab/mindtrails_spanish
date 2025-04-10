@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Eres capaz de hacer esta investigación?"
+            "text": "¿Eres capaz de hacer esta investigación?"
         },
         {
             "type": "Buttons",

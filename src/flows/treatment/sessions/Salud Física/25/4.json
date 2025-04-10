@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes manejar tu ansiedad observando tu respiración?"
+            "text": "¿Puedes manejar tu ansiedad observando tu respiración?"
         },
         {
             "type": "Buttons",

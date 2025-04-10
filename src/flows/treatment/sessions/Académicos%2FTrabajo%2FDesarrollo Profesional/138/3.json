@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tendrás éxito con tu nueva carga de trabajo?"
+            "text": "¿Tendrás éxito con tu nueva carga de trabajo?"
         },
         {
             "type": "Buttons",

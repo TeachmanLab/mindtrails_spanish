@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás satisfecho con tu decisión de tomarte un tiempo libre para viajar?"
+            "text": "¿Estás satisfecho con tu decisión de tomarte un tiempo libre para viajar?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "si le preguntas a la otra persona si quiere tomar un café, es probable que..."
+            "text": "si le preguntas a la otra persona si quiere tomar un café, es probable que..."
         },
         {
             "type": "Buttons",

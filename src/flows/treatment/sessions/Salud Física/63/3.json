@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Sentirte sin aliento te da miedo?"
+            "text": "¿Sentirte sin aliento te da miedo?"
         },
         {
             "type": "Buttons",

@@ -10,5 +10,8 @@
             "type": "Entry",
             "name": "El torneo de fútbol_Situaciones Sociales_entry2"
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct"
     ]
 }

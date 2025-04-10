@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es necesario bajarse del avión porque sientes que tu corazón late rápidamente?"
+            "text": "¿Es necesario bajarse del avión porque sientes que tu corazón late rápidamente?"
         },
         {
             "type": "Buttons",

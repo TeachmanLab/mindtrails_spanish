@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que tu pequeña empresa será rentable?"
+            "text": "¿Crees que tu pequeña empresa será rentable?"
         },
         {
             "type": "Buttons",

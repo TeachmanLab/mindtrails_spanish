@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "La persona que conociste en el evento probablemente..."
+            "text": "La persona que conociste en el evento probablemente..."
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás deseando dar tu presentación a tus compañeros de trabajo?"
+            "text": "¿Estás deseando dar tu presentación a tus compañeros de trabajo?"
         },
         {
             "type": "Buttons",

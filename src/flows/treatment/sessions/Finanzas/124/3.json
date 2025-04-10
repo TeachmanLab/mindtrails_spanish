@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te arrepentiste de tu decisión?"
+            "text": "¿Te arrepentiste de tu decisión?"
         },
         {
             "type": "Buttons",

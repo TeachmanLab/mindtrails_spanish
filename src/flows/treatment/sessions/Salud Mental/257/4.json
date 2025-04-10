@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Eres capaz de estar en una relación?"
+            "text": "¿Eres capaz de estar en una relación?"
         },
         {
             "type": "Buttons",

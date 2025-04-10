@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te abstienes de publicar una foto tuya porque no te sientes tan atractivo como las personas que ves en otras publicaciones de las redes sociales?"
+            "text": "¿Te abstienes de publicar una foto tuya porque no te sientes tan atractivo como las personas que ves en otras publicaciones de las redes sociales?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que tienes enfermedad de las encías?"
+            "text": "¿Crees que tienes enfermedad de las encías?"
         },
         {
             "type": "Buttons",

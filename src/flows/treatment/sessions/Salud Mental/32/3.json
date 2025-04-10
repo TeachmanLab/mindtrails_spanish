@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Deberías evitar añadir a la conversación?"
+            "text": "¿Deberías evitar añadir a la conversación?"
         },
         {
             "type": "Buttons",

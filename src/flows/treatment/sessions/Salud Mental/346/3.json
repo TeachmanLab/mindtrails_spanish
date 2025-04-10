@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás calificado para dar tu presentación?"
+            "text": "¿Estás calificado para dar tu presentación?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Creerán los demás que pareces inteligente al presentar?"
+            "text": "¿Creerán los demás que pareces inteligente al presentar?"
         },
         {
             "type": "Buttons",

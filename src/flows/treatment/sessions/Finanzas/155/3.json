@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Deberías asumir que no podrás manejar tanto el trabajo como la capacitación?"
+            "text": "¿Deberías asumir que no podrás manejar tanto el trabajo como la capacitación?"
         },
         {
             "type": "Buttons",

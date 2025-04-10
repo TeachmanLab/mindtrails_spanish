@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu amigo pensó que le diste buenos consejos sobre las relaciones?"
+            "text": "¿Tu amigo pensó que le diste buenos consejos sobre las relaciones?"
         },
         {
             "type": "Buttons",

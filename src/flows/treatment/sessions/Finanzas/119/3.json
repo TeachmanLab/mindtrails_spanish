@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Perderte la cena te hace sentir mal?"
+            "text": "¿Perderte la cena te hace sentir mal?"
         },
         {
             "type": "Buttons",

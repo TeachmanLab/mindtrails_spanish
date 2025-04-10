@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu trabajo seguirá requiriendo todo tu tiempo?"
+            "text": "¿Tu trabajo seguirá requiriendo todo tu tiempo?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu dificultad para respirar está relacionada con el COVID?"
+            "text": "¿Tu dificultad para respirar está relacionada con el COVID?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás orgulloso de haberte comunicado con tu amigo?"
+            "text": "¿Estás orgulloso de haberte comunicado con tu amigo?"
         },
         {
             "type": "Buttons",

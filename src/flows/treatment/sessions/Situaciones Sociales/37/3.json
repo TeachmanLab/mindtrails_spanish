@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿siempre puedes evitar preocupar a los demás?"
+            "text": "¿siempre puedes evitar preocupar a los demás?"
         },
         {
             "type": "Buttons",

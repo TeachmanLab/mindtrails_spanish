@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás cómodo no ir a esta cena?"
+            "text": "¿Estás cómodo no ir a esta cena?"
         },
         {
             "type": "Buttons",

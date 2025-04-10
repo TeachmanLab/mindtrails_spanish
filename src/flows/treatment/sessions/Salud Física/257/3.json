@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que los resultados enseñarán que tienes la enfermedad?"
+            "text": "¿Crees que los resultados enseñarán que tienes la enfermedad?"
         },
         {
             "type": "Buttons",

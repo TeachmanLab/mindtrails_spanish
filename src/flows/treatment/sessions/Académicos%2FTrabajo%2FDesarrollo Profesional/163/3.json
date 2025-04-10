@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Crees que tu supervisor podría ser ..."
+            "text": "Crees que tu supervisor podría ser ..."
         },
         {
             "type": "Buttons",

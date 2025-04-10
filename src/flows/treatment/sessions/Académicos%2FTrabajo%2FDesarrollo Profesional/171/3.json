@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa decirle a tu familia que quieres trabajar y vivir en otro país?"
+            "text": "¿Te preocupa decirle a tu familia que quieres trabajar y vivir en otro país?"
         },
         {
             "type": "Buttons",

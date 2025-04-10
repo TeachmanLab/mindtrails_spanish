@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que tus hijos se contagiarán de COVID?"
+            "text": "¿Crees que tus hijos se contagiarán de COVID?"
         },
         {
             "type": "Buttons",

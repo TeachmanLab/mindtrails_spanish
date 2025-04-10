@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Crees que tus resultados enseñarán que..."
+            "text": "Crees que tus resultados enseñarán que..."
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus compañeros están decepcionados de que la iniciativa fuera rechazada?"
+            "text": "¿Tus compañeros están decepcionados de que la iniciativa fuera rechazada?"
         },
         {
             "type": "Buttons",

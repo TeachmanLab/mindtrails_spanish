@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿El viaje será miserable?"
+            "text": "¿El viaje será miserable?"
         },
         {
             "type": "Buttons",

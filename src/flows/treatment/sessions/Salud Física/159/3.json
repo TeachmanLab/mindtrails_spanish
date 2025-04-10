@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tienes miedo de que no puedas respirar correctamente?"
+            "text": "¿Tienes miedo de que no puedas respirar correctamente?"
         },
         {
             "type": "Buttons",

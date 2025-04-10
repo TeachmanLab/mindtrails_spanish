@@ -9,14 +9,17 @@
         {
             "type": "TimedText",
             "text": [
-                "Creo que es importante compartir esta información, incluso si los resultados son inesperados.",
-                "Nuestros hallazgos son interesantes y valiosos por sí solos.",
-                "Puede que no haga la mejor presentación, pero lo único que puedo hacer es hacer lo mejor que pueda.",
                 "Daré una mala impresión delante de mi supervisor si no cambio los números.",
-                "Puede que mi supervisor esté decepcionado con nuestros resultados, pero puedo manejarlo."
+                "Nuestros hallazgos son interesantes y valiosos por sí solos.",
+                "Puede que mi supervisor esté decepcionado con nuestros resultados, pero puedo manejarlo.",
+                "Puede que no haga la mejor presentación, pero lo único que puedo hacer es hacer lo mejor que pueda.",
+                "Creo que es importante compartir esta información, incluso si los resultados son inesperados."
             ],
             "Duration": 15
         }
     ],
-    "show_buttons": "WhenCorrect"
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
 }

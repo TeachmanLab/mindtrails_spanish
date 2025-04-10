@@ -11,12 +11,15 @@
             "text": [
                 "Siento entusiasmo por compartir mi buena energía.",
                 "Me siento culpable por traer un regalo menos costoso.",
-                "Me revuelve el estómago pensando si a mi amigo le gustará su regalo, pero recuerdo que apreciarán mi consideración.",
                 "Me siento feliz de estar cerca de todos mis amigos.",
-                "Me siento fatal, pero decido que la fiesta continuará."
+                "Me siento fatal, pero decido que la fiesta continuará.",
+                "Me revuelve el estómago pensando si a mi amigo le gustará su regalo, pero recuerdo que apreciarán mi consideración."
             ],
             "Duration": 15
         }
     ],
-    "show_buttons": "WhenCorrect"
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
 }

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus compañeros de trabajo piensan que es extraño que envíes correos electrónicos dos días seguidos?"
+            "text": "¿Tus compañeros de trabajo piensan que es extraño que envíes correos electrónicos dos días seguidos?"
         },
         {
             "type": "Buttons",

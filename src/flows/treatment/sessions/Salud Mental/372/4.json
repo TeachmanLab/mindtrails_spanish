@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa lo que esa persona piensa de ti?"
+            "text": "¿Te preocupa lo que esa persona piensa de ti?"
         },
         {
             "type": "Buttons",

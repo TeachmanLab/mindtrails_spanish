@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu pareja todavía te ama?"
+            "text": "¿Tu pareja todavía te ama?"
         },
         {
             "type": "Buttons",

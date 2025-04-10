@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Repasarás tu presupuesto este mes?"
+            "text": "¿Repasarás tu presupuesto este mes?"
         },
         {
             "type": "Buttons",

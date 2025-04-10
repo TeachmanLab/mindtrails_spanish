@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Piensas que el asístente de ventas te encontró molesto?"
+            "text": "¿Piensas que el asístente de ventas te encontró molesto?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Crees que tu desempeño en este programa de ciencia de datos probablemente será:"
+            "text": "Crees que tu desempeño en este programa de ciencia de datos probablemente será:"
         },
         {
             "type": "Buttons",

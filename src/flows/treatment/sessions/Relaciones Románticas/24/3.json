@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "si le preguntas a tu amigo en una cita, probablemente..."
+            "text": "si le preguntas a tu amigo en una cita, probablemente..."
         },
         {
             "type": "Buttons",

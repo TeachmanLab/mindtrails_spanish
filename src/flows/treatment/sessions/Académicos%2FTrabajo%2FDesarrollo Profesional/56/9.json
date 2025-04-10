@@ -9,14 +9,17 @@
         {
             "type": "TimedText",
             "text": [
-                "Me sentiré más orgulloso de nuestro trabajo si no cambio nuestros resultados.",
-                "Estoy molesto porque mis compañeros de trabajo quieren que tome el camino más fácil.",
-                "Tendré más confianza trabajando en proyectos en el futuro sabiendo que puedo interpretar datos reales de manera efectiva.",
                 "Me pone nervioso estar en desacuerdo con mis compañeros de trabajo, pero sé que es lo correcto",
-                "Me da vergüenza decirles a mis compañeros de trabajo que esto está mal, pero incluso si me juzgan, estaré bien."
+                "Estoy molesto porque mis compañeros de trabajo quieren que tome el camino más fácil.",
+                "Me sentiré más orgulloso de nuestro trabajo si no cambio nuestros resultados.",
+                "Me da vergüenza decirles a mis compañeros de trabajo que esto está mal, pero incluso si me juzgan, estaré bien.",
+                "Tendré más confianza trabajando en proyectos en el futuro sabiendo que puedo interpretar datos reales de manera efectiva."
             ],
             "Duration": 15
         }
     ],
-    "show_buttons": "WhenCorrect"
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
 }

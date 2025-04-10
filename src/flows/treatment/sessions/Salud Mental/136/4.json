@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu distracción es una señal de que hay algún problema en tu cerebro?"
+            "text": "¿Tu distracción es una señal de que hay algún problema en tu cerebro?"
         },
         {
             "type": "Buttons",

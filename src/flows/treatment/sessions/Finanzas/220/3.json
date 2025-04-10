@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Está bien tomar una decisión diferente a la que tomaría tu pareja?"
+            "text": "¿Está bien tomar una decisión diferente a la que tomaría tu pareja?"
         },
         {
             "type": "Buttons",

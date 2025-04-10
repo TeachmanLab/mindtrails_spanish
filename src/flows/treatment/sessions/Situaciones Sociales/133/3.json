@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿No te invitó porque estabas ocupado?"
+            "text": "¿No te invitó porque estabas ocupado?"
         },
         {
             "type": "Buttons",

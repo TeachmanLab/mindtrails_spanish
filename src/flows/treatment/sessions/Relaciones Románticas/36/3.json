@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Tu cita probablemente notará..."
+            "text": "Tu cita probablemente notará..."
         },
         {
             "type": "Buttons",

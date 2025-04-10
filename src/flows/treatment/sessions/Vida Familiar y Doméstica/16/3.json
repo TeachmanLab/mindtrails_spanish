@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus padres no pueden hablar porque están enfermos?"
+            "text": "¿Tus padres no pueden hablar porque están enfermos?"
         },
         {
             "type": "Buttons",

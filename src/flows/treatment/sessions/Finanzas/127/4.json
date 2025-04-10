@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que será demasiado difícil ahorrar lo suficiente para tu viaje de esquí?"
+            "text": "¿Crees que será demasiado difícil ahorrar lo suficiente para tu viaje de esquí?"
         },
         {
             "type": "Buttons",

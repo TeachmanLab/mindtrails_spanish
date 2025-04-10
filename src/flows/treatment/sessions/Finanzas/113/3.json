@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes mal por no poder ir al espectáculo?"
+            "text": "¿Te sientes mal por no poder ir al espectáculo?"
         },
         {
             "type": "Buttons",

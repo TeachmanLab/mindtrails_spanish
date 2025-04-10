@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que los entrevistadores te ven como una persona nerviosa?"
+            "text": "¿Crees que los entrevistadores te ven como una persona nerviosa?"
         },
         {
             "type": "Buttons",

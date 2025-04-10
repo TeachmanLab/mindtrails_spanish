@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus compañeros estaban diciendo algo negativo sobre ti?"
+            "text": "¿Tus compañeros estaban diciendo algo negativo sobre ti?"
         },
         {
             "type": "Buttons",

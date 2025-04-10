@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Piensas que manteniéndose cercano a tus amigos"
+            "text": "Piensas que manteniéndose cercano a tus amigos"
         },
         {
             "type": "Buttons",

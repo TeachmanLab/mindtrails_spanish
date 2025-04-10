@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Está bien que tu compañero de trabajo piense que eres diferente?"
+            "text": "¿Está bien que tu compañero de trabajo piense que eres diferente?"
         },
         {
             "type": "Buttons",

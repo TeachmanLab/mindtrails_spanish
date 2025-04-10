@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Otros te juzgan por el comentario de tu amigo en tu publicación?"
+            "text": "¿Otros te juzgan por el comentario de tu amigo en tu publicación?"
         },
         {
             "type": "Buttons",

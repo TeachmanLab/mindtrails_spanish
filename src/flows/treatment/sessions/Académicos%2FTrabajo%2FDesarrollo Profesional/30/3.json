@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa mantenerte al día con tu trabajo?"
+            "text": "¿Te preocupa mantenerte al día con tu trabajo?"
         },
         {
             "type": "Buttons",

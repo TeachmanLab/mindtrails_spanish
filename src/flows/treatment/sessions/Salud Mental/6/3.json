@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Reflexionando sobre el partido de fútbol, piensas que..."
+            "text": "Reflexionando sobre el partido de fútbol, piensas que..."
         },
         {
             "type": "Buttons",

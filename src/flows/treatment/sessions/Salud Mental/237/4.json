@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás emocionado de usar tu conjunto nuevo para una fiesta?"
+            "text": "¿Estás emocionado de usar tu conjunto nuevo para una fiesta?"
         },
         {
             "type": "Buttons",

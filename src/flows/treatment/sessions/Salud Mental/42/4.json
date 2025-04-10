@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que acabarás jugando a los bolos a un alto nivel?"
+            "text": "¿Crees que acabarás jugando a los bolos a un alto nivel?"
         },
         {
             "type": "Buttons",

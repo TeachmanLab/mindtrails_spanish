@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Permitiste que las preocupaciones afectaran tu llegada al trabajo?"
+            "text": "¿Permitiste que las preocupaciones afectaran tu llegada al trabajo?"
         },
         {
             "type": "Buttons",

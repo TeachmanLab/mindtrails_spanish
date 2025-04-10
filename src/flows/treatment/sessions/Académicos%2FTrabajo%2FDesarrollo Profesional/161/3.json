@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu nuevo supervisor tiene una buena opinión de ti?"
+            "text": "¿Tu nuevo supervisor tiene una buena opinión de ti?"
         },
         {
             "type": "Buttons",

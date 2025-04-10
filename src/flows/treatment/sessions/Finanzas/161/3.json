@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿La gente te juzgará si no compras ropa nueva?"
+            "text": "¿La gente te juzgará si no compras ropa nueva?"
         },
         {
             "type": "Buttons",

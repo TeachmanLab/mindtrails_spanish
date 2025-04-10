@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás preocupado por lo que dirá tu cónyuge esta noche?"
+            "text": "¿Estás preocupado por lo que dirá tu cónyuge esta noche?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que tú y tu pareja se sentirán más distanciados después del matrimonio?"
+            "text": "¿Crees que tú y tu pareja se sentirán más distanciados después del matrimonio?"
         },
         {
             "type": "Buttons",

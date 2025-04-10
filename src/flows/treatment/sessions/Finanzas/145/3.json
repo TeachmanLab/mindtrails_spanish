@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu pareja se quedará devastado si no compran la casa que le gusta?"
+            "text": "¿Tu pareja se quedará devastado si no compran la casa que le gusta?"
         },
         {
             "type": "Buttons",

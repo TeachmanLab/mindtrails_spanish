@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Tu selección de plan de jubilación probablemente significa que..."
+            "text": "Tu selección de plan de jubilación probablemente significa que..."
         },
         {
             "type": "Buttons",

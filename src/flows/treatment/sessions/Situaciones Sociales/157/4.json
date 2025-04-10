@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Los demás te juzgaron negativamente porque llamaste a tu padre desde el trabajo?"
+            "text": "¿Los demás te juzgaron negativamente porque llamaste a tu padre desde el trabajo?"
         },
         {
             "type": "Buttons",

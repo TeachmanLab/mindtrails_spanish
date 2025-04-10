@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te llevarás bien con tu ex cónyuge?"
+            "text": "¿Te llevarás bien con tu ex cónyuge?"
         },
         {
             "type": "Buttons",

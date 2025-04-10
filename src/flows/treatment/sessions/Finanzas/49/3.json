@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te declararás en bancarrota después de pagar las reparaciones del coche?"
+            "text": "¿Te declararás en bancarrota después de pagar las reparaciones del coche?"
         },
         {
             "type": "Buttons",

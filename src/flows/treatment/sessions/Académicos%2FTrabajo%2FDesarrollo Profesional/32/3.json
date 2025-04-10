@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Pasas tu tiempo preocupándote por reunirte con tu jefe?"
+            "text": "¿Pasas tu tiempo preocupándote por reunirte con tu jefe?"
         },
         {
             "type": "Buttons",

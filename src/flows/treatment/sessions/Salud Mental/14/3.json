@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus compañeros de trabajo estarán decepcionados debido a tu nuevo trabajo?"
+            "text": "¿Tus compañeros de trabajo estarán decepcionados debido a tu nuevo trabajo?"
         },
         {
             "type": "Buttons",

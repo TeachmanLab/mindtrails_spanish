@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus colegas juzgan tu coche?"
+            "text": "¿Tus colegas juzgan tu coche?"
         },
         {
             "type": "Buttons",

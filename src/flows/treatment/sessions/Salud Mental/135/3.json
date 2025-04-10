@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿La tristeza de hoy va a durar para siempre?"
+            "text": "¿La tristeza de hoy va a durar para siempre?"
         },
         {
             "type": "Buttons",

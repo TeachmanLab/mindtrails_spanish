@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "La fiesta probablemente será..."
+            "text": "La fiesta probablemente será..."
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes contento con tu decisión?"
+            "text": "¿Te sientes contento con tu decisión?"
         },
         {
             "type": "Buttons",

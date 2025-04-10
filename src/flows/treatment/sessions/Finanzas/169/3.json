@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Las finanzas interfieren con la terapia?"
+            "text": "¿Las finanzas interfieren con la terapia?"
         },
         {
             "type": "Buttons",

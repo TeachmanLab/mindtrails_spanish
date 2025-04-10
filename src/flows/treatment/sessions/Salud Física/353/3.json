@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Las mariposas en tu estómago te hacen sentir emocionado?"
+            "text": "¿Las mariposas en tu estómago te hacen sentir emocionado?"
         },
         {
             "type": "Buttons",

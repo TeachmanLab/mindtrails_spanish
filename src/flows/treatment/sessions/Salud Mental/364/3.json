@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa tu apariencia en la foto publicada?"
+            "text": "¿Te preocupa tu apariencia en la foto publicada?"
         },
         {
             "type": "Buttons",

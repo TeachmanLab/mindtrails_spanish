@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Crees que hay muchas posibilidades de que cuando su hijo sea adulto..."
+            "text": "Crees que hay muchas posibilidades de que cuando su hijo sea adulto..."
         },
         {
             "type": "Buttons",

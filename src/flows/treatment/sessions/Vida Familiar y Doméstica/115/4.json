@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te quedas molesto al pensar en hablar con tu jefe sobre tu desempeño este año?"
+            "text": "¿Te quedas molesto al pensar en hablar con tu jefe sobre tu desempeño este año?"
         },
         {
             "type": "Buttons",

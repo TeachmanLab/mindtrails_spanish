@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Dentro de unos años, cuando juegues a los bolos con tus amigos, probablemente notarás..."
+            "text": "Dentro de unos años, cuando juegues a los bolos con tus amigos, probablemente notarás..."
         },
         {
             "type": "Buttons",

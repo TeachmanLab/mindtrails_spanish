@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes pagar para arreglar tu caries?"
+            "text": "¿Puedes pagar para arreglar tu caries?"
         },
         {
             "type": "Buttons",

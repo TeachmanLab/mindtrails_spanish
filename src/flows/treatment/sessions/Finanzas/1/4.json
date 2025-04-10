@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Piensas que tus finanzas estarán..."
+            "text": "Piensas que tus finanzas estarán..."
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿El coordinador del evento será comprensivo?"
+            "text": "¿El coordinador del evento será comprensivo?"
         },
         {
             "type": "Buttons",

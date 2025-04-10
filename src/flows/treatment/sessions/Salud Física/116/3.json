@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Está relacionado tu dolor de cabeza con mirar la computadora por demasiado tiempo?"
+            "text": "¿Está relacionado tu dolor de cabeza con mirar la computadora por demasiado tiempo?"
         },
         {
             "type": "Buttons",

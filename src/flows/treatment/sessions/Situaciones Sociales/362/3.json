@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu compañero de trabajo juzga a tu familia bilingüe?"
+            "text": "¿Tu compañero de trabajo juzga a tu familia bilingüe?"
         },
         {
             "type": "Buttons",

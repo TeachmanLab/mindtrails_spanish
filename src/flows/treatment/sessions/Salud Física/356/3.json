@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Podrás recuperarte de la enfermedad?"
+            "text": "¿Podrás recuperarte de la enfermedad?"
         },
         {
             "type": "Buttons",

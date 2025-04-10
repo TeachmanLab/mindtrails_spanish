@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Deberías tener miedo cuando escuchas un ruido por la noche?"
+            "text": "¿Deberías tener miedo cuando escuchas un ruido por la noche?"
         },
         {
             "type": "Buttons",

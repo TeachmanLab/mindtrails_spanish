@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Disfrutaron tus amigos tu brindis?"
+            "text": "¿Disfrutaron tus amigos tu brindis?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Pedir préstamos para ayudar a tus hijos..."
+            "text": "Pedir préstamos para ayudar a tus hijos..."
         },
         {
             "type": "Buttons",

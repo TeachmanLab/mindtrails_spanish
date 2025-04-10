@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "En esta ciudad, piensas que te encontrarás en..."
+            "text": "En esta ciudad, piensas que te encontrarás en..."
         },
         {
             "type": "Buttons",

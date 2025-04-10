@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Las personas en la fiesta están juzgando negativamente tu disfraz?"
+            "text": "¿Las personas en la fiesta están juzgando negativamente tu disfraz?"
         },
         {
             "type": "Buttons",

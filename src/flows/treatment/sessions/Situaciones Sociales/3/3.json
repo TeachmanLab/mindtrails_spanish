@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes manejar tu miedo de dar la presentación oral?"
+            "text": "¿Puedes manejar tu miedo de dar la presentación oral?"
         },
         {
             "type": "Buttons",

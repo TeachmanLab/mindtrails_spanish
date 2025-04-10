@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te da vergüenza haber levantado la mano?"
+            "text": "¿Te da vergüenza haber levantado la mano?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás emocionado por toda la atención que recibirás?"
+            "text": "¿Estás emocionado por toda la atención que recibirás?"
         },
         {
             "type": "Buttons",

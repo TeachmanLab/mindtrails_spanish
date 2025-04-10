@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿La gente del trabajo piensa que eres soso por ir a truco o trato?"
+            "text": "¿La gente del trabajo piensa que eres soso por ir a truco o trato?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es esta pelea un factor decisivo?"
+            "text": "¿Es esta pelea un factor decisivo?"
         },
         {
             "type": "Buttons",

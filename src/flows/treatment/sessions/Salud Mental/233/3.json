@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Impresionará tu trabajo a la gente en el evento?"
+            "text": "¿Impresionará tu trabajo a la gente en el evento?"
         },
         {
             "type": "Buttons",

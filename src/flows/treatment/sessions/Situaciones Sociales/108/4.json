@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Debes ignorar el problema?"
+            "text": "¿Debes ignorar el problema?"
         },
         {
             "type": "Buttons",

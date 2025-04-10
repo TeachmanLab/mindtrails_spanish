@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Deberías dejar pasar la promoción?"
+            "text": "¿Deberías dejar pasar la promoción?"
         },
         {
             "type": "Buttons",

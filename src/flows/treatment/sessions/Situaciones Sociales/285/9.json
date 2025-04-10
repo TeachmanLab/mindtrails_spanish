@@ -9,14 +9,17 @@
         {
             "type": "TimedText",
             "text": [
-                "Tengo confianza en mis amistades.",
                 "Me molesta que esta no sea una foto mía halagadora.",
-                "Me siento enojado con mi amigo, pero sé que ellos no sabían lo que siento por la foto.",
+                "Tengo confianza en mis amistades.",
                 "Me siento inseguro acerca de cómo me veo en la foto, pero eso fue sólo un momento en el tiempo.",
+                "Me siento enojado con mi amigo, pero sé que ellos no sabían lo que siento por la foto.",
                 "Soy feliz pensando en ese recuerdo."
             ],
             "Duration": 15
         }
     ],
-    "show_buttons": "WhenCorrect"
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
 }

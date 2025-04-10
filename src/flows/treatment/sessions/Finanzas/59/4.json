@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes tomar una decisión razonable a pesar de cierta incertidumbre en tus estimaciones?"
+            "text": "¿Puedes tomar una decisión razonable a pesar de cierta incertidumbre en tus estimaciones?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Necesitas luchar contra tus sentimientos extraños para que tu ansiedad desaparezca?"
+            "text": "¿Necesitas luchar contra tus sentimientos extraños para que tu ansiedad desaparezca?"
         },
         {
             "type": "Buttons",

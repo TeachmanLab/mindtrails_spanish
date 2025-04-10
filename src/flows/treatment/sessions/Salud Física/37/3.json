@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Piensas que el dolor en tu cadera es..."
+            "text": "Piensas que el dolor en tu cadera es..."
         },
         {
             "type": "Buttons",

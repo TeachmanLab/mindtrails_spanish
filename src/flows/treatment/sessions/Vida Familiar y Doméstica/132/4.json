@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Deberías empezar a preocuparte por el trabajo de tu pareja?"
+            "text": "¿Deberías empezar a preocuparte por el trabajo de tu pareja?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando te imaginas a ti y a tu cónyuge en el futuro, ves"
+            "text": "Cuando te imaginas a ti y a tu cónyuge en el futuro, ves"
         },
         {
             "type": "Buttons",

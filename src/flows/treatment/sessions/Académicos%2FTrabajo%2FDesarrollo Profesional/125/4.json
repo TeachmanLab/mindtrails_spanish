@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás ansioso porque tu proyecto fue borrado?"
+            "text": "¿Estás ansioso porque tu proyecto fue borrado?"
         },
         {
             "type": "Buttons",

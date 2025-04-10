@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando piensas en pasar menos tiempo con tu familia..."
+            "text": "Cuando piensas en pasar menos tiempo con tu familia..."
         },
         {
             "type": "Buttons",

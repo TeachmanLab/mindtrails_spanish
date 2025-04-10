@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Crees que su solicitud es:"
+            "text": "Crees que su solicitud es:"
         },
         {
             "type": "Buttons",

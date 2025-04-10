@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus amigos te juzgan por lo que dijiste sobre el programa de televisión?"
+            "text": "¿Tus amigos te juzgan por lo que dijiste sobre el programa de televisión?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu pareja será comprensiva?"
+            "text": "¿Tu pareja será comprensiva?"
         },
         {
             "type": "Buttons",

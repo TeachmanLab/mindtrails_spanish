@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás contento de que tu supervisor asista al evento de tu escuela?"
+            "text": "¿Estás contento de que tu supervisor asista al evento de tu escuela?"
         },
         {
             "type": "Buttons",

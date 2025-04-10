@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Dado tu probable resultado en el mercado laboral, tu mejor opción es..."
+            "text": "Dado tu probable resultado en el mercado laboral, tu mejor opción es..."
         },
         {
             "type": "Buttons",

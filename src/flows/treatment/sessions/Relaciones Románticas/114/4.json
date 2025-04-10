@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus padres se molestarán si pasas los días festivos con la familia de tu pareja?"
+            "text": "¿Tus padres se molestarán si pasas los días festivos con la familia de tu pareja?"
         },
         {
             "type": "Buttons",

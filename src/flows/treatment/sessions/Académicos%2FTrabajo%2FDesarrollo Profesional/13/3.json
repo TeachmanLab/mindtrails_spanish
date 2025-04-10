@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa completar tu proyecto a tiempo?"
+            "text": "¿Te preocupa completar tu proyecto a tiempo?"
         },
         {
             "type": "Buttons",

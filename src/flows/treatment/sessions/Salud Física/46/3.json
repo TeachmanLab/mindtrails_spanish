@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes manejar tus preocupaciones mientras terminas tu caminata?"
+            "text": "¿Puedes manejar tus preocupaciones mientras terminas tu caminata?"
         },
         {
             "type": "Buttons",

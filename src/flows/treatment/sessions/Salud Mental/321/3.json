@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Compartarás tu idea?"
+            "text": "¿Compartarás tu idea?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Podrás hacer trabajo este fin de semana?"
+            "text": "¿Podrás hacer trabajo este fin de semana?"
         },
         {
             "type": "Buttons",

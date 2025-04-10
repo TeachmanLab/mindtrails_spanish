@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa lo que pensará tu familia de tu comida?"
+            "text": "¿Te preocupa lo que pensará tu familia de tu comida?"
         },
         {
             "type": "Buttons",

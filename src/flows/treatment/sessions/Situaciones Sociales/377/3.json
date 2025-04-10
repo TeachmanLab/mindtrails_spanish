@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Las sensaciones de temblor significan que no estás preparado para la presentación?"
+            "text": "¿Las sensaciones de temblor significan que no estás preparado para la presentación?"
         },
         {
             "type": "Buttons",

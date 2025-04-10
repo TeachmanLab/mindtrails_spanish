@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes preparado para tu presentación?"
+            "text": "¿Te sientes preparado para tu presentación?"
         },
         {
             "type": "Buttons",

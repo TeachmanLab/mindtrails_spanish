@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes miserable esperando el correo electrónico importante?"
+            "text": "¿Te sientes miserable esperando el correo electrónico importante?"
         },
         {
             "type": "Buttons",

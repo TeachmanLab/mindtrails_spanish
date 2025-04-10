@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes mejor después de hablar con la compañía de seguros?"
+            "text": "¿Te sientes mejor después de hablar con la compañía de seguros?"
         },
         {
             "type": "Buttons",

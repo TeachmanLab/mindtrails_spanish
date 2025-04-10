@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es malo que te sientas diferente a los demás en tu campo?"
+            "text": "¿Es malo que te sientas diferente a los demás en tu campo?"
         },
         {
             "type": "Buttons",

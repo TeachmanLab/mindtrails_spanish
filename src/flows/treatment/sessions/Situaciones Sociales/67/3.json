@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Es probable que tus padres piensen que..."
+            "text": "Es probable que tus padres piensen que..."
         },
         {
             "type": "Buttons",

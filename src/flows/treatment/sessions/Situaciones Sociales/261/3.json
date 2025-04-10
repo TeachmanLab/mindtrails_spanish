@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te molesta mucho el comentario grosero en tu publicación?"
+            "text": "¿Te molesta mucho el comentario grosero en tu publicación?"
         },
         {
             "type": "Buttons",

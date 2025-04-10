@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu amigo te puso en una situación peligrosa a propósito?"
+            "text": "¿Tu amigo te puso en una situación peligrosa a propósito?"
         },
         {
             "type": "Buttons",

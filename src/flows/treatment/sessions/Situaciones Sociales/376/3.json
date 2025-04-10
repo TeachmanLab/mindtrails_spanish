@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Dijiste algo incorrecto?"
+            "text": "¿Dijiste algo incorrecto?"
         },
         {
             "type": "Buttons",

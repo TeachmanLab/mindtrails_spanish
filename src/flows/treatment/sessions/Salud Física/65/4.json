@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Antes de volver adentro..."
+            "text": "Antes de volver adentro..."
         },
         {
             "type": "Buttons",

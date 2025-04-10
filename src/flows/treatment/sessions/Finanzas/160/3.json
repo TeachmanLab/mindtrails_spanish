@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es importante hacer pausas a veces?"
+            "text": "¿Es importante hacer pausas a veces?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes mejor después de hablar con tu familia sobre tus planes?"
+            "text": "¿Te sientes mejor después de hablar con tu familia sobre tus planes?"
         },
         {
             "type": "Buttons",

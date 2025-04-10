@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Vas a permitir que un desacuerdo arruine su amistad?"
+            "text": "¿Vas a permitir que un desacuerdo arruine su amistad?"
         },
         {
             "type": "Buttons",

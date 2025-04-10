@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Habrán consecuencias terribles por no obtener este aumento?"
+            "text": "¿Habrán consecuencias terribles por no obtener este aumento?"
         },
         {
             "type": "Buttons",

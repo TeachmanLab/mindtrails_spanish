@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Ustedes se reconciliarán eventualmente?"
+            "text": "¿Ustedes se reconciliarán eventualmente?"
         },
         {
             "type": "Buttons",

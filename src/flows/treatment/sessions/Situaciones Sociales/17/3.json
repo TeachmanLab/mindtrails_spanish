@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu prueba sale negativa?"
+            "text": "¿Tu prueba sale negativa?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Intentarás otra vez tener una conversación con el miembro de la familia?"
+            "text": "¿Intentarás otra vez tener una conversación con el miembro de la familia?"
         },
         {
             "type": "Buttons",

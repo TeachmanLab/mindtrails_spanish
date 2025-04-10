@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Mientras abrazas a tu amigo te sientes..."
+            "text": "Mientras abrazas a tu amigo te sientes..."
         },
         {
             "type": "Buttons",

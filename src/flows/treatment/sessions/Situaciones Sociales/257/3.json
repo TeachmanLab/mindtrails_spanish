@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "si les preguntas a tus compañeros de trabajo si quieren tomar un café después del trabajo, probablemente..."
+            "text": "si les preguntas a tus compañeros de trabajo si quieren tomar un café después del trabajo, probablemente..."
         },
         {
             "type": "Buttons",

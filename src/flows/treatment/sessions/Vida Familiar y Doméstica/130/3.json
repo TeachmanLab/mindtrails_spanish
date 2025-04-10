@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te da vergüenza decirles a tus colegas que no puedes ir a la conferencia?"
+            "text": "¿Te da vergüenza decirles a tus colegas que no puedes ir a la conferencia?"
         },
         {
             "type": "Buttons",

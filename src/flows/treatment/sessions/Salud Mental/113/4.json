@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Seguiste haciendo ejercicio a pesar de sentirte ansioso?"
+            "text": "¿Seguiste haciendo ejercicio a pesar de sentirte ansioso?"
         },
         {
             "type": "Buttons",

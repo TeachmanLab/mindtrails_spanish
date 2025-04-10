@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes concentrarte en la fiesta de nacimiento?"
+            "text": "¿Puedes concentrarte en la fiesta de nacimiento?"
         },
         {
             "type": "Buttons",

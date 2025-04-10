@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tienes problemas porque estás soltero?"
+            "text": "¿Tienes problemas porque estás soltero?"
         },
         {
             "type": "Buttons",

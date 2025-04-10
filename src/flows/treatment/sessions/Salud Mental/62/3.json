@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus amigos te juzgan por no salir con ellos?"
+            "text": "¿Tus amigos te juzgan por no salir con ellos?"
         },
         {
             "type": "Buttons",

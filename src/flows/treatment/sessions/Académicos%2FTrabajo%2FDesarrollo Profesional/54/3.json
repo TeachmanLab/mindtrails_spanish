@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás preocupado por el debate?"
+            "text": "¿Estás preocupado por el debate?"
         },
         {
             "type": "Buttons",

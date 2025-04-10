@@ -10,5 +10,8 @@
             "type": "Entry",
             "name": "Costos inesperados_Vida Familiar y Doméstica_entry2"
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct"
     ]
 }

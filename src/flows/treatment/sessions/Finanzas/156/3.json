@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Podrás adaptar tu nuevo trabajo a tu agenda?"
+            "text": "¿Podrás adaptar tu nuevo trabajo a tu agenda?"
         },
         {
             "type": "Buttons",

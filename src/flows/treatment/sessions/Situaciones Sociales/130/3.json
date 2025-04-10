@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Según cómo te veas bailando, invitar a tus amigos y familiares probablemente será..."
+            "text": "Según cómo te veas bailando, invitar a tus amigos y familiares probablemente será..."
         },
         {
             "type": "Buttons",

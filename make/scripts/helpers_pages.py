@@ -1,21 +1,39 @@
 import csv
 import random
 
+from typing import Literal
 from itertools import islice
 
-from helpers_utilities import clean_up_unicode, has_value, is_yesno, is_int, shuffle
+from helpers_utilities import clean_up_unicode, has_value, is_yesno, is_int, shuffle, lower
 
 random.seed(1) #give a fixed seed so that diffs don't make it look like we changed a lot every time we generate
 
 dir_root = "./make"
 dir_csv  = f"{dir_root}/CSV"
 
-def create_condition(args):
-    if args == [''] or not args: return None
+def create_conditions(args):
+    if args == [''] or not args: return {}
     variable, value = [a.strip() for a in args]
     if ',' in value: value = [int(v) for v in value.split(",") if is_int(v)]
     comparison = "=" if not isinstance(value,list) else "in"
-    return { "variable": variable, "comparator": comparison, "value": value }
+    return { "conditions": [{ "variable": variable, "comparator": comparison, "value": value }] }
+
+def create_nav_conditions(buttons:Literal["WhenCorrect","AfterTimeout","Never","WhenComplete"]=None,timeout=None,inputs=None):
+
+    buttons = lower(buttons)
+    inputs = inputs or []
+
+    if 'puzzle' in list(map(lower,inputs)):
+        return {"navigation_conditions": "wait_for_correct"}
+    if timeout and buttons == "aftertimeout":
+        return {"navigation_conditions": [{"wait_for_time": timeout}, "wait_for_click"]}
+    if timeout:
+        return {"navigation_conditions": [{"wait_for_time": timeout}]}
+    if buttons == "whencorrect":
+        return {"navigation_conditions": ["wait_for_correct", "wait_for_click"]}
+    if buttons == "whencomplete":
+        return {"navigation_conditions": ["wait_for_complete", "wait_for_click"]}
+    return {}
 
 def create_input(tipe, items=None, min=None, max=None, text=None):
     if not tipe: return None
@@ -23,7 +41,7 @@ def create_input(tipe, items=None, min=None, max=None, text=None):
     if items: items = clean_up_unicode(items).split("; ")
     if items == [""]: items = None
 
-    tipe = tipe.lower()
+    tipe = lower(tipe)
 
     ## Based on what the input is, create input "add"
     if tipe == "picker"   : return {"type": "Picker", "items": items}
@@ -62,7 +80,7 @@ def create_long_pages(label, scenario_description, image_url, thoughts, feelings
     with open(f"{dir_csv}/Spanish htc_long_scenarios_structure.csv","r", encoding="utf-8") as csvfile:
         for row in islice(csv.reader(csvfile),1,None):
 
-            input_1, is_image, timeout = row[6], row[10].lower() == "true", row[13]
+            input_1, is_image, timeout = row[6].lower(), row[10].lower() == "true", row[13]
 
             title = row[0].replace("[Scenario_Name]", label)
             descr = clean_up_unicode(row[4].replace("[Scenario_Description]", scenario_description))
@@ -70,17 +88,11 @@ def create_long_pages(label, scenario_description, image_url, thoughts, feelings
             text  = {"type": "Text", "text": descr}
             media = {"type": "Media", "url": image_url, "border": True} if is_image else None
 
-            timeout = {"timeout": int(timeout) } if timeout else {}
+            show_buttons = "AfterTimeout" if timeout else "WhenComplete" if input_1 == "timedtext" else None
 
-            show_buttons = {}
-            if input_1.lower() == "timedtext":
-                show_buttons = {"show_buttons": "WhenCorrect" }
-            elif timeout:
-                show_buttons = {"show_buttons": "AfterTimeout" }
-
-            if input_1.lower() != "timedtext":
+            if input_1 != "timedtext":
                 timedtext = None
-            if "pensamientos" in descr:
+            elif "pensamientos" in descr:
                 timedtext = thoughts
             elif "sentimientos" in descr:
                 timedtext = feelings
@@ -95,8 +107,7 @@ def create_long_pages(label, scenario_description, image_url, thoughts, feelings
                 "header_text": title,
                 "header_icon": "assets/subtitle.png",
                 "elements": list(filter(None,[text,media,input])),
-                **show_buttons,
-                **timeout
+                **create_nav_conditions(show_buttons,timeout,[input_1])
             })
 
     return pages
@@ -167,7 +178,9 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
         "header_text": label,
         "header_icon": "assets/subtitle.png",
         "elements": [
-            {"type": "Text", "text": puzzle_text_1},
+            {
+                "type": "Text", "text": puzzle_text_1
+            },
             {
                 "type": "WordPuzzle",
                 "name": f"{label}_{domain}_puzzle1",
@@ -176,7 +189,8 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                 "incorrect_delay": 5000,
                 "words": [word_1]
             }
-        ]
+        ],
+        "navigation_conditions": "wait_for_correct"
     })
 
     if letters_missing in ["1","2"]:
@@ -189,7 +203,9 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
             "header_text": label,
             "header_icon": "assets/subtitle.png",
             "elements": [
-                {"type": "Text", "text": puzzle_text_2},
+                {
+                    "type": "Text", "text": puzzle_text_2
+                },
                 {
                     "type": "WordPuzzle",
                     "name": f"{label}_{domain}_puzzle_word2",
@@ -198,9 +214,9 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                     "incorrect_delay": 5000,
                     "words": [word_2]
                 }
-            ]
+            ],
+            "navigation_conditions": "wait_for_correct"
         })
-
 
         if letters_missing in ["1","2"]:
             pages[-1]["elements"][-1]["missing_letter_count"] = int(letters_missing)
@@ -213,7 +229,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
             "header_icon": "assets/subtitle.png",
             "show_buttons": "WhenCorrect",
             "elements": [
-                { "type": "Text", "Text": comp_question},
+                { "type": "Text", "text": comp_question},
                 {
                     "type": "Buttons",
                     "name": f"{label}_{domain}_comp_question",
@@ -274,16 +290,18 @@ def create_resource_page(resources_lookup, tips, ER_lookup, domain):
 def create_discrimination_page(conditions, text, items, input_1,
                                input_name, title):
 
-    condition = create_condition(conditions)
     text = {"type": "Text", "text": text}
-
     input = create_input(input_1, items)
     if input: input["name"] = input_name
 
     elements = [text,input] if input else [text]
-    page = { "header_text": title, "header_icon": "assets/subtitle.png", "elements": elements }
-
-    if condition: page["conditions"] = [condition]
+    page = {
+        "header_text": title,
+        "header_icon": "assets/subtitle.png",
+        "elements": elements,
+        **create_conditions(conditions),
+        **create_nav_conditions(inputs=[input_1])
+    }
 
     return page
 
@@ -317,7 +335,7 @@ def create_survey_page(text=None, media=None, image_framed=None, items=None, inp
     """
 
     textinput  = {"type": "Text", "text": text} if has_value(text) else None
-    mediainput = {"type": "Media", "url": media, "border": image_framed.lower() == "true"} if media else None
+    mediainput = {"type": "Media", "url": media, "border": lower(image_framed) == "true"} if media else None
 
     input1 = create_input(input_1, items, minimum, maximum)
     input2 = create_input(input_2, items, minimum, maximum)
@@ -328,15 +346,13 @@ def create_survey_page(text=None, media=None, image_framed=None, items=None, inp
     if variable_name and input1: input1["variable_name"] = variable_name
     if variable_name and input2: input2["variable_name"] = variable_name
 
-    condition = create_condition(conditions)
-
-    timeout      = {"timeout"    : int(timeout) } if timeout else {}
-    show_buttons = {"show_buttons": show_buttons } if show_buttons and timeout else {}
-    condition    = {"conditions" : [condition]  } if condition else {}
-
-    elements = list(filter(None, [textinput, mediainput, input1, input2] ))
-    page     = { "header_text": title, "header_icon": "assets/subtitle.png", "elements": elements, **timeout, **show_buttons, **condition }
-
+    page = {
+        "header_text": title,
+        "header_icon": "assets/subtitle.png",
+        "elements": list(filter(None, [textinput, mediainput, input1, input2] )),
+        **create_conditions(conditions),
+        **create_nav_conditions(show_buttons,timeout,[input_1,input_2])
+    }
     return page
 
 def create_subdomain_page(subdomain, resource_texts):

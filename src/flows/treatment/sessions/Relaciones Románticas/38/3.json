@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu familia será escéptica con respecto a tu pareja para siempre?"
+            "text": "¿Tu familia será escéptica con respecto a tu pareja para siempre?"
         },
         {
             "type": "Buttons",

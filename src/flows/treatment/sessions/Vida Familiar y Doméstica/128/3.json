@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Piensas que la próxima vez que hables con tu hermana, ambos..."
+            "text": "Piensas que la próxima vez que hables con tu hermana, ambos..."
         },
         {
             "type": "Buttons",

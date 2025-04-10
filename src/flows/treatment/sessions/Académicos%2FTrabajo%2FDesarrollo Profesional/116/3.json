@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿El comité quedó satisfecho con tu trabajo?"
+            "text": "¿El comité quedó satisfecho con tu trabajo?"
         },
         {
             "type": "Buttons",

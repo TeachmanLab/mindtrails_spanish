@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "si te comes el pastel, probablemente..."
+            "text": "si te comes el pastel, probablemente..."
         },
         {
             "type": "Buttons",

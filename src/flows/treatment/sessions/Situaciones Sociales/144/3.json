@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu amigo se olvidó de ti?"
+            "text": "¿Tu amigo se olvidó de ti?"
         },
         {
             "type": "Buttons",

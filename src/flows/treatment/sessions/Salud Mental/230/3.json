@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Valía la pena compartir tu pensamiento?"
+            "text": "¿Valía la pena compartir tu pensamiento?"
         },
         {
             "type": "Buttons",

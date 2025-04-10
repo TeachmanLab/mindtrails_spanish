@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes orgulloso del trabajo que estás haciendo?"
+            "text": "¿Te sientes orgulloso del trabajo que estás haciendo?"
         },
         {
             "type": "Buttons",

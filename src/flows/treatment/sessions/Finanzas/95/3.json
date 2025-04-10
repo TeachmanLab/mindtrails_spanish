@@ -10,5 +10,8 @@
             "type": "Entry",
             "name": "sintiéndote preocupado por las noticias_Finanzas_entry2"
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct"
     ]
 }

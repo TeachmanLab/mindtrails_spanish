@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Las personas en tu vida te apoyarían si buscas ayuda?"
+            "text": "¿Las personas en tu vida te apoyarían si buscas ayuda?"
         },
         {
             "type": "Buttons",

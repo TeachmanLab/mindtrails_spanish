@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Está bien rechazar responsabilidad adicional?"
+            "text": "¿Está bien rechazar responsabilidad adicional?"
         },
         {
             "type": "Buttons",

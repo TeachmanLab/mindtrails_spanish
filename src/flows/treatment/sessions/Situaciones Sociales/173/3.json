@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Piensas que tu amigo probablemente considere tu regalo como"
+            "text": "Piensas que tu amigo probablemente considere tu regalo como"
         },
         {
             "type": "Buttons",

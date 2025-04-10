@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Durante el fin de semana vas a..."
+            "text": "Durante el fin de semana vas a..."
         },
         {
             "type": "Buttons",

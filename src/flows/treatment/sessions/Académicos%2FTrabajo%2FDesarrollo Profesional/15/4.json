@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te invitarán a una entrevista?"
+            "text": "¿Te invitarán a una entrevista?"
         },
         {
             "type": "Buttons",

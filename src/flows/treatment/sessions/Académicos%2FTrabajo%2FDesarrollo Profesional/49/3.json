@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Dirigirás bien el curso?"
+            "text": "¿Dirigirás bien el curso?"
         },
         {
             "type": "Buttons",

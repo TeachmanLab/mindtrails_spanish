@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es normal enfermarse a veces?"
+            "text": "¿Es normal enfermarse a veces?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tienes ganas de completar las tareas adicionales?"
+            "text": "¿Tienes ganas de completar las tareas adicionales?"
         },
         {
             "type": "Buttons",

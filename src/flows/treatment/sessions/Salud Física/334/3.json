@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿El hormigueo en los dedos significa que estás enfermo?"
+            "text": "¿El hormigueo en los dedos significa que estás enfermo?"
         },
         {
             "type": "Buttons",

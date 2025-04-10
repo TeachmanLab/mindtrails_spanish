@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Crees que a medida que sigas jugando a los bolos..."
+            "text": "Crees que a medida que sigas jugando a los bolos..."
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Pensando en tu futuro con tu pareja, te imaginas..."
+            "text": "Pensando en tu futuro con tu pareja, te imaginas..."
         },
         {
             "type": "Buttons",

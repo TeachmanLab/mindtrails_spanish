@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando les cuentes a tus padres sobre la invitación, es probable que ..."
+            "text": "Cuando les cuentes a tus padres sobre la invitación, es probable que ..."
         },
         {
             "type": "Buttons",

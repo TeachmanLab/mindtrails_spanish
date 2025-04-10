@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que tus compañeros pensarán que te veías nervioso?"
+            "text": "¿Crees que tus compañeros pensarán que te veías nervioso?"
         },
         {
             "type": "Buttons",

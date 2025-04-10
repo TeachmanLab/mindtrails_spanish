@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "En la conferencia, la gente probablemente pensará que..."
+            "text": "En la conferencia, la gente probablemente pensará que..."
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes hablar sobre tus padres divorciados?"
+            "text": "¿Puedes hablar sobre tus padres divorciados?"
         },
         {
             "type": "Buttons",

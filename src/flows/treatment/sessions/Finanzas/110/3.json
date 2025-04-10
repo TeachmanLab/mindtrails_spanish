@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Pensando en los próximos años, te ves a ti mismo..."
+            "text": "Pensando en los próximos años, te ves a ti mismo..."
         },
         {
             "type": "Buttons",

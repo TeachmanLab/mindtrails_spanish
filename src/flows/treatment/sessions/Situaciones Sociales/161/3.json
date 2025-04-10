@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Al reencontrarse, piensas que..."
+            "text": "Al reencontrarse, piensas que..."
         },
         {
             "type": "Buttons",

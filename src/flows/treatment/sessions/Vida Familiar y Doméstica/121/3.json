@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Deberías preocuparte por el ruido fuerte?"
+            "text": "¿Deberías preocuparte por el ruido fuerte?"
         },
         {
             "type": "Buttons",

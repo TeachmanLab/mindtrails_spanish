@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿La gente no te felicita porque cree que no lo mereces?"
+            "text": "¿La gente no te felicita porque cree que no lo mereces?"
         },
         {
             "type": "Buttons",

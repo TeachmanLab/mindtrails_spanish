@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu congestión y dolor significan que algo malo está pasando?"
+            "text": "¿Tu congestión y dolor significan que algo malo está pasando?"
         },
         {
             "type": "Buttons",

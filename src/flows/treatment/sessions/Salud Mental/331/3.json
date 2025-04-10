@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿La gente ignoró tu publicación?"
+            "text": "¿La gente ignoró tu publicación?"
         },
         {
             "type": "Buttons",

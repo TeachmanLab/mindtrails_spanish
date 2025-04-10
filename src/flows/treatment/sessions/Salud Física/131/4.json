@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa desmayarte?"
+            "text": "¿Te preocupa desmayarte?"
         },
         {
             "type": "Buttons",

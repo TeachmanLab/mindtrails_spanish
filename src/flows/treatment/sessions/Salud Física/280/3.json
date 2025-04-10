@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Mientras almuerzas con tu amigo, tu ..."
+            "text": "Mientras almuerzas con tu amigo, tu ..."
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "El future que te ves para ti mismo es..."
+            "text": "El future que te ves para ti mismo es..."
         },
         {
             "type": "Buttons",

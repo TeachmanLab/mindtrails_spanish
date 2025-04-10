@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Podrás terminar tu propuesta a tiempo?"
+            "text": "¿Podrás terminar tu propuesta a tiempo?"
         },
         {
             "type": "Buttons",

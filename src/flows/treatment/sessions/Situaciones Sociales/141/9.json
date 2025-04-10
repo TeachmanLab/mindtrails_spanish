@@ -9,14 +9,17 @@
         {
             "type": "TimedText",
             "text": [
+                "Me entristeció no poder dar una mejor respuesta, pero siempre hay una próxima vez.",
                 "Me siento inteligente acerca de cómo navegué por la pregunta.",
                 "Me avergüenza que mi respuesta haya sonado mal, pero todo el mundo tiene momentos así.",
-                "Me sentí cohibido al responder.",
                 "Me alegra que mis compañeros de trabajo puedan escuchar mi respuesta.",
-                "Me entristeció no poder dar una mejor respuesta, pero siempre hay una próxima vez."
+                "Me sentí cohibido al responder."
             ],
             "Duration": 15
         }
     ],
-    "show_buttons": "WhenCorrect"
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
 }

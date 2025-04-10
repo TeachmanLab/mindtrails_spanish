@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes avergonzado por tartamudear al hablar?"
+            "text": "¿Te sientes avergonzado por tartamudear al hablar?"
         },
         {
             "type": "Buttons",

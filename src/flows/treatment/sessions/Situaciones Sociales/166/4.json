@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus compañeros te excluyeron a propósito?"
+            "text": "¿Tus compañeros te excluyeron a propósito?"
         },
         {
             "type": "Buttons",

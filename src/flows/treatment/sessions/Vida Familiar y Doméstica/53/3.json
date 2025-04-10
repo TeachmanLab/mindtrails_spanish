@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus nuevos conocidos no te gustarán?"
+            "text": "¿Tus nuevos conocidos no te gustarán?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu vecino aprecia tu oferta de ayuda con las compras?"
+            "text": "¿Tu vecino aprecia tu oferta de ayuda con las compras?"
         },
         {
             "type": "Buttons",

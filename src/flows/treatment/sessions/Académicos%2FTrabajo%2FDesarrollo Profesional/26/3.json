@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Tus calificaciones..."
+            "text": "Tus calificaciones..."
         },
         {
             "type": "Buttons",

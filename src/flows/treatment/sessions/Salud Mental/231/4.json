@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu latido de corazón rápido significa que algo malo está pasando?"
+            "text": "¿Tu latido de corazón rápido significa que algo malo está pasando?"
         },
         {
             "type": "Buttons",

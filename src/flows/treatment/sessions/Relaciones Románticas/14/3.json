@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Esperas que tu conversación con tu pareja termine en una pelea?"
+            "text": "¿Esperas que tu conversación con tu pareja termine en una pelea?"
         },
         {
             "type": "Buttons",

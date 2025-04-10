@@ -10,5 +10,8 @@
             "type": "Entry",
             "name": "Controles en el dentista._Salud Física_entry1"
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct"
     ]
 }

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa la pesadez en el pecho al quedarte dormido?"
+            "text": "¿Te preocupa la pesadez en el pecho al quedarte dormido?"
         },
         {
             "type": "Buttons",

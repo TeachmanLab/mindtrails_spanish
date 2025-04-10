@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estarás bien el viaje en auto sin tu teléfono?"
+            "text": "¿Estarás bien el viaje en auto sin tu teléfono?"
         },
         {
             "type": "Buttons",

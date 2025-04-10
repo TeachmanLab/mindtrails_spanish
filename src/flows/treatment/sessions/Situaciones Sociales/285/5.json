@@ -10,13 +10,16 @@
             "type": "TimedText",
             "text": [
                 "Mis amigos tienen perfiles hermosos.",
-                "No creo que luzco bien en la foto, pero probablemente luzco mejor ante otras personas.",
+                "Puede que a la gente no le guste la foto, pero me siento bien cuando mis amigos me aprecian.",
                 "A mis amigos les gusta salir conmigo.",
                 "La gente va a juzgar cómo me veo.",
-                "Puede que a la gente no le guste la foto, pero me siento bien cuando mis amigos me aprecian."
+                "No creo que luzco bien en la foto, pero probablemente luzco mejor ante otras personas."
             ],
             "Duration": 15
         }
     ],
-    "show_buttons": "WhenCorrect"
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
 }

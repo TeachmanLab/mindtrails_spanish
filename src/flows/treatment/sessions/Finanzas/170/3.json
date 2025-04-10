@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Está bien no poder mantenerte a tí mismo por ahora?"
+            "text": "¿Está bien no poder mantenerte a tí mismo por ahora?"
         },
         {
             "type": "Buttons",

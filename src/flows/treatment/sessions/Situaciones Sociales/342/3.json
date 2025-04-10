@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es peligroso ir a un parque en un vecindario diferente?"
+            "text": "¿Es peligroso ir a un parque en un vecindario diferente?"
         },
         {
             "type": "Buttons",

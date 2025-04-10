@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es normal no compartir todo el tiempo?"
+            "text": "¿Es normal no compartir todo el tiempo?"
         },
         {
             "type": "Buttons",

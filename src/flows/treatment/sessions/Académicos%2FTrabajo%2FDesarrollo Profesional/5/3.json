@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Es probable que tu supervisor te haya encontrado..."
+            "text": "Es probable que tu supervisor te haya encontrado..."
         },
         {
             "type": "Buttons",

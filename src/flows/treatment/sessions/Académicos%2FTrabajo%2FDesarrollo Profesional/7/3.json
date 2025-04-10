@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Vas a completar tu tarea?"
+            "text": "¿Vas a completar tu tarea?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Los pensamientos preocupantes le impidieron continuar con tu día?"
+            "text": "¿Los pensamientos preocupantes le impidieron continuar con tu día?"
         },
         {
             "type": "Buttons",

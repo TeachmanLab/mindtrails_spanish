@@ -11,12 +11,15 @@
             "text": [
                 "Entro y abrazo a mi amigo.",
                 "Yo me quedo en la fiesta.",
-                "Quiero irme antes de que abran los regalos, pero decido quedarme.",
                 "Decido quedarme una hora y salir.",
-                "Pienso en mentir que olvidé el regalo en casa, pero se lo doy a mi amiga."
+                "Pienso en mentir que olvidé el regalo en casa, pero se lo doy a mi amiga.",
+                "Quiero irme antes de que abran los regalos, pero decido quedarme."
             ],
             "Duration": 15
         }
     ],
-    "show_buttons": "WhenCorrect"
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
 }

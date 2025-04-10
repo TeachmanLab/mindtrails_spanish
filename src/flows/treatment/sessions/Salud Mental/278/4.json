@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes manejar tus responsabilidades?"
+            "text": "¿Puedes manejar tus responsabilidades?"
         },
         {
             "type": "Buttons",

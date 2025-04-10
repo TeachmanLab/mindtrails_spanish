@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu jefe de departamento te verá de manera negativa debido a esto?"
+            "text": "¿Tu jefe de departamento te verá de manera negativa debido a esto?"
         },
         {
             "type": "Buttons",

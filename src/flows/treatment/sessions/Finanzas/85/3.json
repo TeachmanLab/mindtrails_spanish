@@ -10,5 +10,8 @@
             "type": "Entry",
             "name": "Mantener a la familia_Finanzas_entry2"
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct"
     ]
 }

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando te sientes desorientado, es útil..."
+            "text": "Cuando te sientes desorientado, es útil..."
         },
         {
             "type": "Buttons",

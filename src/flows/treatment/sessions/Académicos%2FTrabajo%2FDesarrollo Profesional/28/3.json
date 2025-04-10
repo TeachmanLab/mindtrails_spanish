@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus compañeros te juzgarán por obtener resultados de evaluación más negativos que ellos?"
+            "text": "¿Tus compañeros te juzgarán por obtener resultados de evaluación más negativos que ellos?"
         },
         {
             "type": "Buttons",

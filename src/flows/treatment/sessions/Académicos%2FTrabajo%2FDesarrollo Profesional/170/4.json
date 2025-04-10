@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que tu jefe se centrará principalmente en tus puntos fuertes durante tu evaluación de desempeño?"
+            "text": "¿Crees que tu jefe se centrará principalmente en tus puntos fuertes durante tu evaluación de desempeño?"
         },
         {
             "type": "Buttons",

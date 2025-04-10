@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Aún puedes tomarte tiempo para ti con un presupuesto limitado?"
+            "text": "¿Aún puedes tomarte tiempo para ti con un presupuesto limitado?"
         },
         {
             "type": "Buttons",

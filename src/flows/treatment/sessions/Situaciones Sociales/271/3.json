@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Durante la reunion, tu jefe pensará que probablemente eres..."
+            "text": "¿Durante la reunion, tu jefe pensará que probablemente eres..."
         },
         {
             "type": "Buttons",

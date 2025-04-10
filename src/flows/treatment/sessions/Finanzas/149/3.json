@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te recuperarás de tu tiempo libre?"
+            "text": "¿Te recuperarás de tu tiempo libre?"
         },
         {
             "type": "Buttons",

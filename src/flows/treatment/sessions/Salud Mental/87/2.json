@@ -10,5 +10,8 @@
             "type": "Entry",
             "name": "Una nueva oportunidad_Salud Mental_entry1"
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct"
     ]
 }

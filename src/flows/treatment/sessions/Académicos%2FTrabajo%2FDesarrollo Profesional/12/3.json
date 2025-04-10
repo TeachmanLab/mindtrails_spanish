@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que puedes manejar un segundo trabajo?"
+            "text": "¿Crees que puedes manejar un segundo trabajo?"
         },
         {
             "type": "Buttons",

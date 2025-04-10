@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes pagar la factura de tu tarjeta de crédito?"
+            "text": "¿Puedes pagar la factura de tu tarjeta de crédito?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Las relaciones de tu familia se volverán más tensas con el tiempo?"
+            "text": "¿Las relaciones de tu familia se volverán más tensas con el tiempo?"
         },
         {
             "type": "Buttons",

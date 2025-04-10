@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Seguirás sintiendo ansiedad por pagar tu tarjeta de crédito?"
+            "text": "¿Seguirás sintiendo ansiedad por pagar tu tarjeta de crédito?"
         },
         {
             "type": "Buttons",

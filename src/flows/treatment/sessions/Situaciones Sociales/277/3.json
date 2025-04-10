@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa lo que otros pensarán de tu ropa vieja?"
+            "text": "¿Te preocupa lo que otros pensarán de tu ropa vieja?"
         },
         {
             "type": "Buttons",

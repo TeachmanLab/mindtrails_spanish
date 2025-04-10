@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Después de tu presentación, la gente del público probablemente pensará en..."
+            "text": "Después de tu presentación, la gente del público probablemente pensará en..."
         },
         {
             "type": "Buttons",

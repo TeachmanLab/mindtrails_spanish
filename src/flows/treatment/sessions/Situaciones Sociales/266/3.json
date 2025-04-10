@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "si los miembros del club de lectura acepten tu invitación a cenar, ellos probablemente..."
+            "text": "si los miembros del club de lectura acepten tu invitación a cenar, ellos probablemente..."
         },
         {
             "type": "Buttons",

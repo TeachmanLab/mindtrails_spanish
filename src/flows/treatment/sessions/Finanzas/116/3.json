@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes controlar si mantienes tu trabajo?"
+            "text": "¿Puedes controlar si mantienes tu trabajo?"
         },
         {
             "type": "Buttons",

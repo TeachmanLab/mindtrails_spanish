@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus amigos te odiarán por tratar de equilibrar?"
+            "text": "¿Tus amigos te odiarán por tratar de equilibrar?"
         },
         {
             "type": "Buttons",

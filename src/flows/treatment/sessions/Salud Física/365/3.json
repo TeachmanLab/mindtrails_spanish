@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu visión borrosa temporariamente significa que te estás quedando siego?"
+            "text": "¿Tu visión borrosa temporariamente significa que te estás quedando siego?"
         },
         {
             "type": "Buttons",

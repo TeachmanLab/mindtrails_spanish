@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que tú y tu pareja permanecerán juntos después de que ellos se muden?"
+            "text": "¿Crees que tú y tu pareja permanecerán juntos después de que ellos se muden?"
         },
         {
             "type": "Buttons",

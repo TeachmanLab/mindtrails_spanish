@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te imaginas a ti mismo solo cuando seas mayor?"
+            "text": "¿Te imaginas a ti mismo solo cuando seas mayor?"
         },
         {
             "type": "Buttons",

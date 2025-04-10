@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa hablar con una persona nueva?"
+            "text": "¿Te preocupa hablar con una persona nueva?"
         },
         {
             "type": "Buttons",

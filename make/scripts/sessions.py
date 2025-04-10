@@ -68,8 +68,8 @@ def _create_survey_page(row):
     text = clean_up_unicode(row[4])
 
     title = row[1].strip()
-    input_1 = row[5]
-    input_2 = row[6]
+    input_1 = row[5].lower()
+    input_2 = row[6].lower()
     minimum = row[7]
     maximum = row[8]
     media = row[9]

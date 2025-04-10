@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa no ahorrar en este momento?"
+            "text": "¿Te preocupa no ahorrar en este momento?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando piensas en hablar con tus hijos sobre su educación, te imaginas diciéndoles:"
+            "text": "Cuando piensas en hablar con tus hijos sobre su educación, te imaginas diciéndoles:"
         },
         {
             "type": "Buttons",

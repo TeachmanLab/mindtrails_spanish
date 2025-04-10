@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "La impresión de tu cita sobre ti probablemente fue..."
+            "text": "La impresión de tu cita sobre ti probablemente fue..."
         },
         {
             "type": "Buttons",

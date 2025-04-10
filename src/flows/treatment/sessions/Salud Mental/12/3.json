@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que eres tonto porque cometiste un error?"
+            "text": "¿Crees que eres tonto porque cometiste un error?"
         },
         {
             "type": "Buttons",

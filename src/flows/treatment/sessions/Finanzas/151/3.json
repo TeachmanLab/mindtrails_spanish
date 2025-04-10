@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Al pensar en el futuro de tu empresa, te imaginas..."
+            "text": "Al pensar en el futuro de tu empresa, te imaginas..."
         },
         {
             "type": "Buttons",

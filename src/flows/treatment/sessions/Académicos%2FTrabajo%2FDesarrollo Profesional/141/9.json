@@ -9,14 +9,17 @@
         {
             "type": "TimedText",
             "text": [
-                "Me siento impulsado a hacer mi mejor trabajo.",
-                "Estoy emocionado de hacer nuevos amigos.",
                 "Me entristece que nadie me conozca tan bien, pero me siento mejor pensando que les agradaré una vez que me conozcan mejor.",
-                "Tengo miedo de que mi grupo me excluya, pero sepan que esta discusión sólo durará unos minutos.",
-                "Estoy nervioso porque no tengo buenas ideas."
+                "Estoy nervioso porque no tengo buenas ideas.",
+                "Estoy emocionado de hacer nuevos amigos.",
+                "Me siento impulsado a hacer mi mejor trabajo.",
+                "Tengo miedo de que mi grupo me excluya, pero sepan que esta discusión sólo durará unos minutos."
             ],
             "Duration": 15
         }
     ],
-    "show_buttons": "WhenCorrect"
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
 }

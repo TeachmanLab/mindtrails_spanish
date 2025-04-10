@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Mejorarás en tu trabajo?"
+            "text": "¿Mejorarás en tu trabajo?"
         },
         {
             "type": "Buttons",

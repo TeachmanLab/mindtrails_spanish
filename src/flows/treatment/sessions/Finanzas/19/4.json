@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que seguirías gastando dinero de manera responsable si obtuvieras una nueva tarjeta de crédito?"
+            "text": "¿Crees que seguirías gastando dinero de manera responsable si obtuvieras una nueva tarjeta de crédito?"
         },
         {
             "type": "Buttons",

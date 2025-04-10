@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Al pensar en la vida futura en su nuevo hogar, imagina:"
+            "text": "Al pensar en la vida futura en su nuevo hogar, imagina:"
         },
         {
             "type": "Buttons",

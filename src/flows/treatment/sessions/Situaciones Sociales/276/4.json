@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es normal toser durante una presentación?"
+            "text": "¿Es normal toser durante una presentación?"
         },
         {
             "type": "Buttons",

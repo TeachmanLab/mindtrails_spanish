@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿A tus amigos les gusta pasar tiempo contigo?"
+            "text": "¿A tus amigos les gusta pasar tiempo contigo?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Piensas que el dolor de cabeza es señal que..."
+            "text": "Piensas que el dolor de cabeza es señal que..."
         },
         {
             "type": "Buttons",

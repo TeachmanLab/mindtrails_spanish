@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás contento de haber asistido al taller?"
+            "text": "¿Estás contento de haber asistido al taller?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Esperas que la relación con tu hijo adulto sea..."
+            "text": "Esperas que la relación con tu hijo adulto sea..."
         },
         {
             "type": "Buttons",

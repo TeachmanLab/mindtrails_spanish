@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que tendrás suficiente dinero para pagar los gastos universitarios de tus hijos?"
+            "text": "¿Crees que tendrás suficiente dinero para pagar los gastos universitarios de tus hijos?"
         },
         {
             "type": "Buttons",

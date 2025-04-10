@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te divertirás en la boda sin un acompañante?"
+            "text": "¿Te divertirás en la boda sin un acompañante?"
         },
         {
             "type": "Buttons",

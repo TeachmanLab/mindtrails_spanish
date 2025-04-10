@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tienes miedo de hablar de las tradiciones de tu familia en el trabajo?"
+            "text": "¿Tienes miedo de hablar de las tradiciones de tu familia en el trabajo?"
         },
         {
             "type": "Buttons",

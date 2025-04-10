@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es malo que ganas menos dinero que tus amigos?"
+            "text": "¿Es malo que ganas menos dinero que tus amigos?"
         },
         {
             "type": "Buttons",

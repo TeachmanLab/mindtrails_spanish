@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿A tus amigos les molesta tu punto de vista?"
+            "text": "¿A tus amigos les molesta tu punto de vista?"
         },
         {
             "type": "Buttons",

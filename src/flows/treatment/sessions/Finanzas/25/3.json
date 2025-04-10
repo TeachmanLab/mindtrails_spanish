@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es probable que te despidan?"
+            "text": "¿Es probable que te despidan?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu jefe fue malo al confrontarte?"
+            "text": "¿Tu jefe fue malo al confrontarte?"
         },
         {
             "type": "Buttons",

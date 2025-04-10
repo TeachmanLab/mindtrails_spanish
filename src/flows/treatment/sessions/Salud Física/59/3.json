@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "A medida que continúes viendo a sus hijos en el trampolín probablemente..."
+            "text": "A medida que continúes viendo a sus hijos en el trampolín probablemente..."
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es bueno que lleves mascarilla?"
+            "text": "¿Es bueno que lleves mascarilla?"
         },
         {
             "type": "Buttons",

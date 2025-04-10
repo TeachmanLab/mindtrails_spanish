@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás ansioso por tus planes para fin de año?"
+            "text": "¿Estás ansioso por tus planes para fin de año?"
         },
         {
             "type": "Buttons",

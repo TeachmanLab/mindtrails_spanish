@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes manejar que a veces tus amigos pasan tiempo sin ti?"
+            "text": "¿Puedes manejar que a veces tus amigos pasan tiempo sin ti?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Esperas sentirte incómodo si otros miran tu trabajo?"
+            "text": "¿Esperas sentirte incómodo si otros miran tu trabajo?"
         },
         {
             "type": "Buttons",

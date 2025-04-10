@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Está bien tener puntos de vista diferentes a los de tu familia?"
+            "text": "¿Está bien tener puntos de vista diferentes a los de tu familia?"
         },
         {
             "type": "Buttons",

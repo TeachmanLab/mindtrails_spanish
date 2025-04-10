@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿El dolor de estómago se debe a la ansiedad?"
+            "text": "¿El dolor de estómago se debe a la ansiedad?"
         },
         {
             "type": "Buttons",

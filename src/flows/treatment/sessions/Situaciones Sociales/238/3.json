@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Los otros miembros del club de lectura probablemente..."
+            "text": "Los otros miembros del club de lectura probablemente..."
         },
         {
             "type": "Buttons",

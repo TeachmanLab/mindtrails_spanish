@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Los otros invitados probablemente pensarán que tu comida..."
+            "text": "Los otros invitados probablemente pensarán que tu comida..."
         },
         {
             "type": "Buttons",

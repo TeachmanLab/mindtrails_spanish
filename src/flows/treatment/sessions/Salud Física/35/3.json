@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te hacen sentir nervioso los hormigueos en los dedos?"
+            "text": "¿Te hacen sentir nervioso los hormigueos en los dedos?"
         },
         {
             "type": "Buttons",

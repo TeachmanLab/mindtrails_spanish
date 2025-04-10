@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Piensas que tu pareja se quedará enojado con tigo?"
+            "text": "¿Piensas que tu pareja se quedará enojado con tigo?"
         },
         {
             "type": "Buttons",

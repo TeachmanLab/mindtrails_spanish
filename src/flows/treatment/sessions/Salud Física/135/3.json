@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Imaginas que la carrera será..."
+            "text": "Imaginas que la carrera será..."
         },
         {
             "type": "Buttons",

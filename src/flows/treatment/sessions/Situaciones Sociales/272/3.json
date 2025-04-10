@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu amigo canceló la reunion porque están..."
+            "text": "¿Tu amigo canceló la reunion porque están..."
         },
         {
             "type": "Buttons",

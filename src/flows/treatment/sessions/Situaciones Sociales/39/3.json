@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás emocionado de tener gente allí para celebrar tu cumpleaños?"
+            "text": "¿Estás emocionado de tener gente allí para celebrar tu cumpleaños?"
         },
         {
             "type": "Buttons",

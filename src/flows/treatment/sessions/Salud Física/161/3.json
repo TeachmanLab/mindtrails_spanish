@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que te sentirás mejor pronto?"
+            "text": "¿Crees que te sentirás mejor pronto?"
         },
         {
             "type": "Buttons",

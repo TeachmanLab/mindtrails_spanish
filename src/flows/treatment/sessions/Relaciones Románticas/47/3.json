@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Todas las conversaciones en una relación tienen que ser fáciles?"
+            "text": "¿Todas las conversaciones en una relación tienen que ser fáciles?"
         },
         {
             "type": "Buttons",

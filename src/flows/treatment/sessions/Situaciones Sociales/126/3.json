@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes participar en la discusión del club de lectura?"
+            "text": "¿Puedes participar en la discusión del club de lectura?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus amingos se han alejado de ti?"
+            "text": "¿Tus amingos se han alejado de ti?"
         },
         {
             "type": "Buttons",

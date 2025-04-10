@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que tu nuevo jefe tiene una opinión desfavorable sobre tu trabajo?"
+            "text": "¿Crees que tu nuevo jefe tiene una opinión desfavorable sobre tu trabajo?"
         },
         {
             "type": "Buttons",

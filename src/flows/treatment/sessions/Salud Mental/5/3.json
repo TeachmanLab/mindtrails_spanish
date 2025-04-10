@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Los demás te va a juzgar cuando ven tu corte de pelo en la foto?"
+            "text": "¿Los demás te va a juzgar cuando ven tu corte de pelo en la foto?"
         },
         {
             "type": "Buttons",

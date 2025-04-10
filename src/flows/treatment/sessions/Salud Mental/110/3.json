@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus compañeros están más prepaados que ti?"
+            "text": "¿Tus compañeros están más prepaados que ti?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás aburrido viviendo solo?"
+            "text": "¿Estás aburrido viviendo solo?"
         },
         {
             "type": "Buttons",

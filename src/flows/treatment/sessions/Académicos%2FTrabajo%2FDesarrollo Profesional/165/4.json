@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu presentación salió mal?"
+            "text": "¿Tu presentación salió mal?"
         },
         {
             "type": "Buttons",

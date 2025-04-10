@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿siempre puedes reprogramar tu viaje para ver a tu familia?"
+            "text": "¿siempre puedes reprogramar tu viaje para ver a tu familia?"
         },
         {
             "type": "Buttons",

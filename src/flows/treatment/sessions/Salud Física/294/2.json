@@ -10,5 +10,8 @@
             "type": "Entry",
             "name": "Un vuelo internacional_Salud Física_entry1"
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct"
     ]
 }

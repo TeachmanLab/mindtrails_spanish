@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Crees que tu currículum podría..."
+            "text": "Crees que tu currículum podría..."
         },
         {
             "type": "Buttons",

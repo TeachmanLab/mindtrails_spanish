@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Las preguntas de los demás son mejores que las tuyas?"
+            "text": "¿Las preguntas de los demás son mejores que las tuyas?"
         },
         {
             "type": "Buttons",

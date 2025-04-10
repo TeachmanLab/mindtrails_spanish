@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es tu culpa que estén peleando?"
+            "text": "¿Es tu culpa que estén peleando?"
         },
         {
             "type": "Buttons",

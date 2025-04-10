@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Había algo aterrador afuera en la oscuridad?"
+            "text": "¿Había algo aterrador afuera en la oscuridad?"
         },
         {
             "type": "Buttons",

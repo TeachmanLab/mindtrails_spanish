@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Está bien que tu amigo no haya respondido todavía?"
+            "text": "¿Está bien que tu amigo no haya respondido todavía?"
         },
         {
             "type": "Buttons",

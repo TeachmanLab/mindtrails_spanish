@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa lo que pensarán tus compañeros acerca de tu chiste?"
+            "text": "¿Te preocupa lo que pensarán tus compañeros acerca de tu chiste?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes manejar que a veces tus compañeros de trabajo salgan sin ti?"
+            "text": "¿Puedes manejar que a veces tus compañeros de trabajo salgan sin ti?"
         },
         {
             "type": "Buttons",

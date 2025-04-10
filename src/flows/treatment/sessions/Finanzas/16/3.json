@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando llegue el momento de reservar el viaje, probablemente..."
+            "text": "Cuando llegue el momento de reservar el viaje, probablemente..."
         },
         {
             "type": "Buttons",

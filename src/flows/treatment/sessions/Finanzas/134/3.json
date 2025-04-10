@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Está bien que no puedas pagar la casa?"
+            "text": "¿Está bien que no puedas pagar la casa?"
         },
         {
             "type": "Buttons",

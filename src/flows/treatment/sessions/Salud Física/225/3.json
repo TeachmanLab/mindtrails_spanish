@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu vecino mayor probablemente ha estado enfermo?"
+            "text": "¿Tu vecino mayor probablemente ha estado enfermo?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Se enojará tu cónyuge?"
+            "text": "¿Se enojará tu cónyuge?"
         },
         {
             "type": "Buttons",

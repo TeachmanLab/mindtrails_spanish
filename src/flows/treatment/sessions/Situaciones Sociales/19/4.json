@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es vergonzoso tener que recuperar el aliento?"
+            "text": "¿Es vergonzoso tener que recuperar el aliento?"
         },
         {
             "type": "Buttons",

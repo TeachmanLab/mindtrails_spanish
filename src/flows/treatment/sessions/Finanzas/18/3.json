@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando se trata de elegir un plan de jubilación, piensas que..."
+            "text": "Cuando se trata de elegir un plan de jubilación, piensas que..."
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te divierte sentirte mareado después de las atracciones de feria que dan vuelta?"
+            "text": "¿Te divierte sentirte mareado después de las atracciones de feria que dan vuelta?"
         },
         {
             "type": "Buttons",

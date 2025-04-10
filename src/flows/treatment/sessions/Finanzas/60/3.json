@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te arruinarás una vez que regreses a la escuela?"
+            "text": "¿Te arruinarás una vez que regreses a la escuela?"
         },
         {
             "type": "Buttons",

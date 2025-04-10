@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Le contestas a tu conocido para encontrarse para un café?"
+            "text": "¿Le contestas a tu conocido para encontrarse para un café?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás bién con comer solo?"
+            "text": "¿Estás bién con comer solo?"
         },
         {
             "type": "Buttons",

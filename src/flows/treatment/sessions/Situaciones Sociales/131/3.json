@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu amigo pensó que tu nuevo traje se veía ridículo?"
+            "text": "¿Tu amigo pensó que tu nuevo traje se veía ridículo?"
         },
         {
             "type": "Buttons",

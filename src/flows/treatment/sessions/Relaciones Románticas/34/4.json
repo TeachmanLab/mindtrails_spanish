@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que conocerás a alguien pronto?"
+            "text": "¿Crees que conocerás a alguien pronto?"
         },
         {
             "type": "Buttons",

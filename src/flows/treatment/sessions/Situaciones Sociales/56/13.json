@@ -9,14 +9,17 @@
         {
             "type": "TimedText",
             "text": [
-                "Quiero empezar a llorar, pero luego recordarme que hice un gran trabajo con este disfraz.",
-                "Sonreiré y usaré mi atuendo con orgullo.",
                 "Quiero preguntarle a alguien si mi disfraz es demasiado, pero decido no pedir opiniones.",
-                "Quiero ir al baño y tratar de bajar el tono de lo que llevo puesto.",
-                "Empezaré a bailar porque hay buena música."
+                "Quiero empezar a llorar, pero luego recordarme que hice un gran trabajo con este disfraz.",
+                "Empezaré a bailar porque hay buena música.",
+                "Sonreiré y usaré mi atuendo con orgullo.",
+                "Quiero ir al baño y tratar de bajar el tono de lo que llevo puesto."
             ],
             "Duration": 15
         }
     ],
-    "show_buttons": "WhenCorrect"
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
 }

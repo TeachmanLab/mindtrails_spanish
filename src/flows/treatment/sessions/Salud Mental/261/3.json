@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás ancioso sobre tu plan de terminar tus tareas en la mañana?"
+            "text": "¿Estás ancioso sobre tu plan de terminar tus tareas en la mañana?"
         },
         {
             "type": "Buttons",

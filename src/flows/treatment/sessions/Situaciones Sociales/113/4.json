@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu desempeño contribuirá al éxito del equipo?"
+            "text": "¿Tu desempeño contribuirá al éxito del equipo?"
         },
         {
             "type": "Buttons",

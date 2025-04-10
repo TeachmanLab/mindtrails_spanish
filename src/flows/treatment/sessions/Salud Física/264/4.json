@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que serás incapaz de completar un maratón?"
+            "text": "¿Crees que serás incapaz de completar un maratón?"
         },
         {
             "type": "Buttons",

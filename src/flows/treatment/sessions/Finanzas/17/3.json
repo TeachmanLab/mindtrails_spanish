@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Asumir los turnos adicionales..."
+            "text": "Asumir los turnos adicionales..."
         },
         {
             "type": "Buttons",

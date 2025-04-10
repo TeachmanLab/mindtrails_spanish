@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes soportar ir al dentista?"
+            "text": "¿Puedes soportar ir al dentista?"
         },
         {
             "type": "Buttons",

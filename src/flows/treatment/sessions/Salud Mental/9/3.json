@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Eres capaz de tolerar tus sentimientos de ansiedad por los aviones?"
+            "text": "¿Eres capaz de tolerar tus sentimientos de ansiedad por los aviones?"
         },
         {
             "type": "Buttons",

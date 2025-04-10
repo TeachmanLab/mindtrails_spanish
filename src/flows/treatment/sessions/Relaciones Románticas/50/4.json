@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu primera cita será exitosa?"
+            "text": "¿Tu primera cita será exitosa?"
         },
         {
             "type": "Buttons",

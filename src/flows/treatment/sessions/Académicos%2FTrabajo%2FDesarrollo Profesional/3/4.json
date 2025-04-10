@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Tu jefe piensa que no deberías aplicar para un ascenso ahora porque..."
+            "text": "Tu jefe piensa que no deberías aplicar para un ascenso ahora porque..."
         },
         {
             "type": "Buttons",

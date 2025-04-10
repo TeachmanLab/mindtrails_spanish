@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes ansioso después de ver a tus amigos?"
+            "text": "¿Te sientes ansioso después de ver a tus amigos?"
         },
         {
             "type": "Buttons",

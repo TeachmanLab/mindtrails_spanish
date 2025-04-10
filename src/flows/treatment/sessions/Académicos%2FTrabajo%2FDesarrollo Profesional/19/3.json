@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes manejar la reacción de tu jefe con respeto a tu evaluación deficiente?"
+            "text": "¿Puedes manejar la reacción de tu jefe con respeto a tu evaluación deficiente?"
         },
         {
             "type": "Buttons",

@@ -9,14 +9,17 @@
         {
             "type": "TimedText",
             "text": [
-                "Estoy tentado de irme antes de que abran los regalos, pero recuerdo que en realidad me estoy divirtiendo.",
-                "Les sonrío a todos mis amigos.",
-                "Me divierto bailando en la fiesta.",
                 "Quiero saltarme la fiesta para lidiar con mi ansiedad por el regalo, pero decido esforzarme para ir de todos modos.",
-                "Intento escabullirme junto a mi amigo para que no me note cuando entro."
+                "Les sonrío a todos mis amigos.",
+                "Estoy tentado de irme antes de que abran los regalos, pero recuerdo que en realidad me estoy divirtiendo.",
+                "Intento escabullirme junto a mi amigo para que no me note cuando entro.",
+                "Me divierto bailando en la fiesta."
             ],
             "Duration": 15
         }
     ],
-    "show_buttons": "WhenCorrect"
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
 }

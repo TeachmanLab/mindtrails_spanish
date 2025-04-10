@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Años en el futuro, esperas que tú y tu amigo..."
+            "text": "Años en el futuro, esperas que tú y tu amigo..."
         },
         {
             "type": "Buttons",

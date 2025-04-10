@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que elegirás un plan demasiado arriesgado?"
+            "text": "¿Crees que elegirás un plan demasiado arriesgado?"
         },
         {
             "type": "Buttons",

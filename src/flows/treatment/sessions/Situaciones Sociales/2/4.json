@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu supervisor está decepcionado con tu presentación?"
+            "text": "¿Tu supervisor está decepcionado con tu presentación?"
         },
         {
             "type": "Buttons",

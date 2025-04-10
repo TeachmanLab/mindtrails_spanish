@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu cita encontró interesante lo que hablaron en la última conversación?"
+            "text": "¿Tu cita encontró interesante lo que hablaron en la última conversación?"
         },
         {
             "type": "Buttons",

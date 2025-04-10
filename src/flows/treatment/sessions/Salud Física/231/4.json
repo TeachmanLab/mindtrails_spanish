@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Pudiste superar tu ansiedad y disfrutar de la caminata?"
+            "text": "¿Pudiste superar tu ansiedad y disfrutar de la caminata?"
         },
         {
             "type": "Buttons",

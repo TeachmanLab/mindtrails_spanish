@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "si te lavas las manos, lo más probable es que..."
+            "text": "si te lavas las manos, lo más probable es que..."
         },
         {
             "type": "Buttons",

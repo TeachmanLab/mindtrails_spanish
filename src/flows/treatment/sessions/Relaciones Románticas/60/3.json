@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Le contarás a tu pareja sobre tu ansiedad?"
+            "text": "¿Le contarás a tu pareja sobre tu ansiedad?"
         },
         {
             "type": "Buttons",

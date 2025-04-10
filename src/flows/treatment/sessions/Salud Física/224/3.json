@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes ansioso/a en la cima de las escaleras?"
+            "text": "¿Te sientes ansioso/a en la cima de las escaleras?"
         },
         {
             "type": "Buttons",

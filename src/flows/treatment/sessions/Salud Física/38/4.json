@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Disminuirá tu ansiedad si observas tus sensaciones sin juzgar?"
+            "text": "¿Disminuirá tu ansiedad si observas tus sensaciones sin juzgar?"
         },
         {
             "type": "Buttons",

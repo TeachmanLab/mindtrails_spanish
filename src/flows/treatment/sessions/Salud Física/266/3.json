@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es angustiante cuando te sientes mareado?"
+            "text": "¿Es angustiante cuando te sientes mareado?"
         },
         {
             "type": "Buttons",

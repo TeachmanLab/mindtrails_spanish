@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te asusta sentirte nervioso?"
+            "text": "¿Te asusta sentirte nervioso?"
         },
         {
             "type": "Buttons",

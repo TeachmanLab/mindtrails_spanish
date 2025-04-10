@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu boca seca indica que estás enfermo?"
+            "text": "¿Tu boca seca indica que estás enfermo?"
         },
         {
             "type": "Buttons",

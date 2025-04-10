@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando piensas en los eventos próximos en tu vida..."
+            "text": "Cuando piensas en los eventos próximos en tu vida..."
         },
         {
             "type": "Buttons",

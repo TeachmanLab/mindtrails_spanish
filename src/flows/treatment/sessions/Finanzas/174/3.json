@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Encontrarás una buena tarjeta de crédito?"
+            "text": "¿Encontrarás una buena tarjeta de crédito?"
         },
         {
             "type": "Buttons",

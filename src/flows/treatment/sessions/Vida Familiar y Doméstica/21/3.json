@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Eres capaz de soportar las peleas de tus padres?"
+            "text": "¿Eres capaz de soportar las peleas de tus padres?"
         },
         {
             "type": "Buttons",

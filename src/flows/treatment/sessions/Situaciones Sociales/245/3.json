@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te molesta que tu amigo no te djio de esta persona?"
+            "text": "¿Te molesta que tu amigo no te djio de esta persona?"
         },
         {
             "type": "Buttons",

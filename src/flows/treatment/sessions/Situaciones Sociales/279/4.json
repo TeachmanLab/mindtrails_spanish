@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Tienes ideas innovadoras."
+            "text": "Tienes ideas innovadoras."
         },
         {
             "type": "Buttons",

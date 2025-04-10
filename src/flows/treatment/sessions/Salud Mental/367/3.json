@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tienes que ser más social?"
+            "text": "¿Tienes que ser más social?"
         },
         {
             "type": "Buttons",

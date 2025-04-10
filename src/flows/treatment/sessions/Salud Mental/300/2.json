@@ -10,5 +10,8 @@
             "type": "Entry",
             "name": "Despertándote listo_Salud Mental_entry1"
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct"
     ]
 }

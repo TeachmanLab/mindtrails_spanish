@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Su supervisor lo penalizará por estar expuesto?"
+            "text": "¿Su supervisor lo penalizará por estar expuesto?"
         },
         {
             "type": "Buttons",

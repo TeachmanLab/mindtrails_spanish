@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Después de correr agua sobre tu dedo, la quemadura probablemente..."
+            "text": "Después de correr agua sobre tu dedo, la quemadura probablemente..."
         },
         {
             "type": "Buttons",

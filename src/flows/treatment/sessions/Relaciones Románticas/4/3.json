@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Después de tu separación, piensas que..."
+            "text": "Después de tu separación, piensas que..."
         },
         {
             "type": "Buttons",

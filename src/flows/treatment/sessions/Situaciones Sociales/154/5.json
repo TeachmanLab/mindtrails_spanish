@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "La próxima vez que se encuentren, tu compañero probablemente... "
+            "text": "La próxima vez que se encuentren, tu compañero probablemente... "
         },
         {
             "type": "Buttons",

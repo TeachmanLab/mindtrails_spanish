@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Piensas que trabajar duro en tu negocio..."
+            "text": "Piensas que trabajar duro en tu negocio..."
         },
         {
             "type": "Buttons",

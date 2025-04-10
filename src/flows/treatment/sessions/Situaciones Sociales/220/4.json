@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Podrás seguir el ritmo de tu amigo mañana?"
+            "text": "¿Podrás seguir el ritmo de tu amigo mañana?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes manejar tu ansiedad sobre la posibilidad de enfermarte?"
+            "text": "¿Puedes manejar tu ansiedad sobre la posibilidad de enfermarte?"
         },
         {
             "type": "Buttons",

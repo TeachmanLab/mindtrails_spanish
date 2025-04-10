@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Maximizarás tu tarjeta de crédito?"
+            "text": "¿Maximizarás tu tarjeta de crédito?"
         },
         {
             "type": "Buttons",

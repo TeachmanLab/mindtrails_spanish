@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu amigo seguirá estando cerca para ti?"
+            "text": "¿Tu amigo seguirá estando cerca para ti?"
         },
         {
             "type": "Buttons",

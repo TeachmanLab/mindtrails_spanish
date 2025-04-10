@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Crees que terminar un maratón será..."
+            "text": "Crees que terminar un maratón será..."
         },
         {
             "type": "Buttons",

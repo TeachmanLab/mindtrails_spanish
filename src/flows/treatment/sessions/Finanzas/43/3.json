@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Las probabilidades de que vayas a tu viaje de esquí son..."
+            "text": "Las probabilidades de que vayas a tu viaje de esquí son..."
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Tus amigos no disfrutaron la excursión porque ..."
+            "text": "Tus amigos no disfrutaron la excursión porque ..."
         },
         {
             "type": "Buttons",

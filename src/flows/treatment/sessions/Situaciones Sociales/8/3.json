@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes cómodo pidiéndole a la jefa de tu departamento que repita su pregunta?"
+            "text": "¿Te sientes cómodo pidiéndole a la jefa de tu departamento que repita su pregunta?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Piensas que seguirás siendo cercano a tus amigos actuales en el futuro?"
+            "text": "¿Piensas que seguirás siendo cercano a tus amigos actuales en el futuro?"
         },
         {
             "type": "Buttons",

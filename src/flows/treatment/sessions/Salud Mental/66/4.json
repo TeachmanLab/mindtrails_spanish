@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes bien usando tu traje de baño frente a ellos?"
+            "text": "¿Te sientes bien usando tu traje de baño frente a ellos?"
         },
         {
             "type": "Buttons",

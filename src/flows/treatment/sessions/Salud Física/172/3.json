@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Mientras estés en la cueva, probablemente..."
+            "text": "Mientras estés en la cueva, probablemente..."
         },
         {
             "type": "Buttons",

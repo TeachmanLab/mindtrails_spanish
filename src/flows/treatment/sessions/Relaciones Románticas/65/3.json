@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tienes que impresionar a esta persona?"
+            "text": "¿Tienes que impresionar a esta persona?"
         },
         {
             "type": "Buttons",

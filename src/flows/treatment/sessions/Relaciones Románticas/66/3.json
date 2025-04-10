@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Ustedes dos idearán un plan juntos?"
+            "text": "¿Ustedes dos idearán un plan juntos?"
         },
         {
             "type": "Buttons",

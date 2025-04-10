@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás preparado para el examen?"
+            "text": "¿Estás preparado para el examen?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes cómodo hablando con tu pareja?"
+            "text": "¿Te sientes cómodo hablando con tu pareja?"
         },
         {
             "type": "Buttons",

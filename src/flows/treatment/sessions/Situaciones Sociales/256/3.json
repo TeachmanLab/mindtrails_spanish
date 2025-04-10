@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Está bien que sientas que tu corazón da un vuelco?"
+            "text": "¿Está bien que sientas que tu corazón da un vuelco?"
         },
         {
             "type": "Buttons",

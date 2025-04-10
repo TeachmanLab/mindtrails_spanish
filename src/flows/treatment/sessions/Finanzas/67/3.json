@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Todavía podrás disfrutar de una noche fuera?"
+            "text": "¿Todavía podrás disfrutar de una noche fuera?"
         },
         {
             "type": "Buttons",

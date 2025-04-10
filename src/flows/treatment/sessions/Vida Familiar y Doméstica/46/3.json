@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Terminarás tu tarea a tiempo?"
+            "text": "¿Terminarás tu tarea a tiempo?"
         },
         {
             "type": "Buttons",

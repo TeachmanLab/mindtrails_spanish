@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes emocionado por la presentación?"
+            "text": "¿Te sientes emocionado por la presentación?"
         },
         {
             "type": "Buttons",

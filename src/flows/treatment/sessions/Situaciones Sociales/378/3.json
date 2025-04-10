@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es demasiado tarde para hacerse amigo de tus nuevos compañeros de trabajo?"
+            "text": "¿Es demasiado tarde para hacerse amigo de tus nuevos compañeros de trabajo?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que ahorrarás lo suficiente para hacer el pago de tu alquiler?"
+            "text": "¿Crees que ahorrarás lo suficiente para hacer el pago de tu alquiler?"
         },
         {
             "type": "Buttons",

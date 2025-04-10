@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa recitar un poema para la familia de tu amigo?"
+            "text": "¿Te preocupa recitar un poema para la familia de tu amigo?"
         },
         {
             "type": "Buttons",

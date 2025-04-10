@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Crees que durante tu evaluación de desempeño, es probable que su jefe diga..."
+            "text": "Crees que durante tu evaluación de desempeño, es probable que su jefe diga..."
         },
         {
             "type": "Buttons",

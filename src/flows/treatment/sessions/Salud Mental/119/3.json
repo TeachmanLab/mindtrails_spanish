@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te alegras de haber cancelado tus planes de descansar?"
+            "text": "¿Te alegras de haber cancelado tus planes de descansar?"
         },
         {
             "type": "Buttons",

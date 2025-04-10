@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Ellos piensan que está bien que no tienes redes sociales?"
+            "text": "¿Ellos piensan que está bien que no tienes redes sociales?"
         },
         {
             "type": "Buttons",

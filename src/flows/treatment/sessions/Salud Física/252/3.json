@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus nervios son insoportables mientras esperas tus resultados?"
+            "text": "¿Tus nervios son insoportables mientras esperas tus resultados?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes tranquilo después de desconectarte durante la reunión?"
+            "text": "¿Te sientes tranquilo después de desconectarte durante la reunión?"
         },
         {
             "type": "Buttons",

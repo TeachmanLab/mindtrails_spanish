@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estarás financieramente estable en el futuro?"
+            "text": "¿Estarás financieramente estable en el futuro?"
         },
         {
             "type": "Buttons",

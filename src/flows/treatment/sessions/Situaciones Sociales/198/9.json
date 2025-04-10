@@ -9,14 +9,17 @@
         {
             "type": "TimedText",
             "text": [
-                "Me preocupa haber perdido todas mis amistades en el lugar de trabajo, pero luego recuerdo que eso no es realista.",
-                "Me siento feliz de que mis compañeros de trabajo se lleven tan bien.",
                 "Me da vergüenza no haber sido invitado.",
                 "Me emociona saber lo bien que se lo pasaron.",
+                "Me preocupa haber perdido todas mis amistades en el lugar de trabajo, pero luego recuerdo que eso no es realista.",
+                "Me siento feliz de que mis compañeros de trabajo se lleven tan bien.",
                 "Me entristece que se hayan olvidado de mí, pero luego me digo a mí mismo que probablemente no pretendían ser malos."
             ],
             "Duration": 15
         }
     ],
-    "show_buttons": "WhenCorrect"
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
 }

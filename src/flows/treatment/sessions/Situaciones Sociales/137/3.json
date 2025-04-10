@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que el hormigueo en la garganta de tu amigo es una señal de COVID?"
+            "text": "¿Crees que el hormigueo en la garganta de tu amigo es una señal de COVID?"
         },
         {
             "type": "Buttons",

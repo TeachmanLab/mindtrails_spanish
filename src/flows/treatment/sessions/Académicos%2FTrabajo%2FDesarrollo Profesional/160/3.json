@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás contento con tu decisión de cambiar de departamento?"
+            "text": "¿Estás contento con tu decisión de cambiar de departamento?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Esta persona de tu edad piensa que eres raro por tener sólo unos pocos seguidores?"
+            "text": "¿Esta persona de tu edad piensa que eres raro por tener sólo unos pocos seguidores?"
         },
         {
             "type": "Buttons",

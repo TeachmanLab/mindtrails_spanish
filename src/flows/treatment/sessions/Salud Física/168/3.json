@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tomar agua mejorará tu picazón de garganta?"
+            "text": "¿Tomar agua mejorará tu picazón de garganta?"
         },
         {
             "type": "Buttons",

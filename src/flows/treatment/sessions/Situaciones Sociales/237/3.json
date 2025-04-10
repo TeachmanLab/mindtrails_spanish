@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu amigo se siente incómodo contigo cuando hay silencio durante el viaje?"
+            "text": "¿Tu amigo se siente incómodo contigo cuando hay silencio durante el viaje?"
         },
         {
             "type": "Buttons",

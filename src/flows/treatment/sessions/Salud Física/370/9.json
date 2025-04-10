@@ -9,14 +9,17 @@
         {
             "type": "TimedText",
             "text": [
+                "Tengo miedo de ir al parque, pero luego me doy cuenta de que nunca he oído que alguien haya sido mordido en ese parque.",
+                "Estoy ansioso por contarle a mi amigo lo que pasó hoy en el trabajo.",
                 "Estoy emocionado de ponerme al día con mi amigo.",
                 "Me preocupa mucho ver una serpiente.",
-                "Estoy ansioso por contarle a mi amigo lo que pasó hoy en el trabajo.",
-                "Tengo miedo de ir al parque, pero luego me doy cuenta de que nunca he oído que alguien haya sido mordido en ese parque.",
                 "Estoy ansioso pensando en que me muerda una serpiente, pero sepan que estaré bien en esta caminata."
             ],
             "Duration": 15
         }
     ],
-    "show_buttons": "WhenCorrect"
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
 }

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Deberías hacer tu trabajo ahora mismo?"
+            "text": "¿Deberías hacer tu trabajo ahora mismo?"
         },
         {
             "type": "Buttons",

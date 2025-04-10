@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa que el COVID vaya a cancelar tu viaje?"
+            "text": "¿Te preocupa que el COVID vaya a cancelar tu viaje?"
         },
         {
             "type": "Buttons",

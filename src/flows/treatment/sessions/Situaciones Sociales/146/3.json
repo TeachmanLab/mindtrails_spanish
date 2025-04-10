@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Crees que tu dificultad inicial para hacer amigos..."
+            "text": "Crees que tu dificultad inicial para hacer amigos..."
         },
         {
             "type": "Buttons",

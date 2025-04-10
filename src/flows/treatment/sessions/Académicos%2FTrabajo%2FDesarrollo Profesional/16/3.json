@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes inseguro acerca de tu respuesta?"
+            "text": "¿Te sientes inseguro acerca de tu respuesta?"
         },
         {
             "type": "Buttons",

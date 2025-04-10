@@ -10,13 +10,16 @@
             "type": "TimedText",
             "text": [
                 "Creo que mi amigo estará feliz de verme.",
-                "Mi amigo se sentirá decepcionado con el regalo que puedo permitirme llevarle.",
                 "Tengo muchas ganas de celebrarlo con amigos.",
-                "Creo que soy un mal amigo, pero sé que el regalo que traigo es considerado.",
-                "Supongo que todos trajeron un regalo caro, pero en realidad no sé si eso es cierto."
+                "Mi amigo se sentirá decepcionado con el regalo que puedo permitirme llevarle.",
+                "Supongo que todos trajeron un regalo caro, pero en realidad no sé si eso es cierto.",
+                "Creo que soy un mal amigo, pero sé que el regalo que traigo es considerado."
             ],
             "Duration": 15
         }
     ],
-    "show_buttons": "WhenCorrect"
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
 }

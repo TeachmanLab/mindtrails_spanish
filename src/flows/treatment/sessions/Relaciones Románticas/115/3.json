@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Puedes ver a tu pareja diciendo:"
+            "text": "Puedes ver a tu pareja diciendo:"
         },
         {
             "type": "Buttons",

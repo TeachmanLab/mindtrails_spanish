@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te imaginas a ti mismo como un padre impaciente con tu hija cuando sea mayor?"
+            "text": "¿Te imaginas a ti mismo como un padre impaciente con tu hija cuando sea mayor?"
         },
         {
             "type": "Buttons",

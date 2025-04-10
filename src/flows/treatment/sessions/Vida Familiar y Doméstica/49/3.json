@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Comprar una casa va a..."
+            "text": "Comprar una casa va a..."
         },
         {
             "type": "Buttons",

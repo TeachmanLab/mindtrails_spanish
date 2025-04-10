@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus compañeros de trabajo juzgarán tu casa?"
+            "text": "¿Tus compañeros de trabajo juzgarán tu casa?"
         },
         {
             "type": "Buttons",

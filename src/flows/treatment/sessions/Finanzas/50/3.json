@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Con una nueva tarjeta de crédito probablemente..."
+            "text": "Con una nueva tarjeta de crédito probablemente..."
         },
         {
             "type": "Buttons",

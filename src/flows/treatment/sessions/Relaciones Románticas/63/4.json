@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Ellos quieren invitarte a salir?"
+            "text": "¿Ellos quieren invitarte a salir?"
         },
         {
             "type": "Buttons",

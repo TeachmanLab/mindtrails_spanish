@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando piensas en las reacciones a tu comida, te imaginas a los otros invitados..."
+            "text": "Cuando piensas en las reacciones a tu comida, te imaginas a los otros invitados..."
         },
         {
             "type": "Buttons",

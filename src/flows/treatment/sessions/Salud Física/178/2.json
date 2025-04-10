@@ -10,5 +10,8 @@
             "type": "Entry",
             "name": "sintiendo mareos_Salud Física_entry1"
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct"
     ]
 }

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te molesta la ausencia de tu hermana?"
+            "text": "¿Te molesta la ausencia de tu hermana?"
         },
         {
             "type": "Buttons",

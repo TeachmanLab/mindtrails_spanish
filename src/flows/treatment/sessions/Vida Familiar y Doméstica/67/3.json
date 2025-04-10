@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa hablar con tus amigos sobre tus planes para el futuro?"
+            "text": "¿Te preocupa hablar con tus amigos sobre tus planes para el futuro?"
         },
         {
             "type": "Buttons",

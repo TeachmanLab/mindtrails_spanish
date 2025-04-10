@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu suegra piensa que no sabes nada sobre música?"
+            "text": "¿Tu suegra piensa que no sabes nada sobre música?"
         },
         {
             "type": "Buttons",

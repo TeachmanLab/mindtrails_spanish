@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás triste por el fin de semana largo?"
+            "text": "¿Estás triste por el fin de semana largo?"
         },
         {
             "type": "Buttons",

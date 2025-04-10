@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás quedándote sin tiempo para conocer a alguien?"
+            "text": "¿Estás quedándote sin tiempo para conocer a alguien?"
         },
         {
             "type": "Buttons",

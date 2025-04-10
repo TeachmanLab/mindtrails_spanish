@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Esperas que tu mejor amigo te apoye durante eventos importantes de la vida?"
+            "text": "¿Esperas que tu mejor amigo te apoye durante eventos importantes de la vida?"
         },
         {
             "type": "Buttons",

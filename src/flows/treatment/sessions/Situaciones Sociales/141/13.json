@@ -9,14 +9,17 @@
         {
             "type": "TimedText",
             "text": [
-                "Me relajo después de decir mi respuesta.",
-                "Quiero taparme la cara, pero decido mirar a mi jefe.",
+                "Tomo notas de la respuesta de mi jefe a mi respuesta.",
                 "Quiero disculparme por mi mala respuesta, pero no lo hago.",
                 "Salgo de la reunión y voy al baño para evitar a mis compañeros.",
-                "Tomo notas de la respuesta de mi jefe a mi respuesta."
+                "Me relajo después de decir mi respuesta.",
+                "Quiero taparme la cara, pero decido mirar a mi jefe."
             ],
             "Duration": 15
         }
     ],
-    "show_buttons": "WhenCorrect"
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
 }

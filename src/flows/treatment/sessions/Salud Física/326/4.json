@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa sentirte mareado?"
+            "text": "¿Te preocupa sentirte mareado?"
         },
         {
             "type": "Buttons",

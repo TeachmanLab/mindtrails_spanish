@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando piensas en el futuro lejano, puedes verte a ti mismo"
+            "text": "Cuando piensas en el futuro lejano, puedes verte a ti mismo"
         },
         {
             "type": "Buttons",

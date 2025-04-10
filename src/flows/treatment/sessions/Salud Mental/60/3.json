@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes capaz de completar el trabajo de este proyecto?"
+            "text": "¿Te sientes capaz de completar el trabajo de este proyecto?"
         },
         {
             "type": "Buttons",

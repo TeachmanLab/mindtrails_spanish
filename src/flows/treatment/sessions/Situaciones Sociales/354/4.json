@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Los otros compradores probablemente se sintieron..."
+            "text": "Los otros compradores probablemente se sintieron..."
         },
         {
             "type": "Buttons",

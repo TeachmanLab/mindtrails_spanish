@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu pareja escuchará tus inquietudes?"
+            "text": "¿Tu pareja escuchará tus inquietudes?"
         },
         {
             "type": "Buttons",

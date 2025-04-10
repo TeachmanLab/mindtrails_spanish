@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Importa si a tu pareja le gusta tu apariencia?"
+            "text": "¿Importa si a tu pareja le gusta tu apariencia?"
         },
         {
             "type": "Buttons",

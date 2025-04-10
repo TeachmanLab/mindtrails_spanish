@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿La gente pensó que volver tarde a la reunión fue irrespetuoso?"
+            "text": "¿La gente pensó que volver tarde a la reunión fue irrespetuoso?"
         },
         {
             "type": "Buttons",

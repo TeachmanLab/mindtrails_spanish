@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu amigo pensará que tomaste su cargador a propósito?"
+            "text": "¿Tu amigo pensará que tomaste su cargador a propósito?"
         },
         {
             "type": "Buttons",

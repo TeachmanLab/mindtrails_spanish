@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Son tolerables tus preocupaciones sobre los resultados?"
+            "text": "¿Son tolerables tus preocupaciones sobre los resultados?"
         },
         {
             "type": "Buttons",

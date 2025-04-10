@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Podrás hacer todo?"
+            "text": "¿Podrás hacer todo?"
         },
         {
             "type": "Buttons",

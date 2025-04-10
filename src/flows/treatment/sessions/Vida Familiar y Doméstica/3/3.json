@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Tu amigo probablemente ..."
+            "text": "Tu amigo probablemente ..."
         },
         {
             "type": "Buttons",

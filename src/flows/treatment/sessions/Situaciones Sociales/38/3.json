@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu amigo está triste porque no le trajiste un regalo?"
+            "text": "¿Tu amigo está triste porque no le trajiste un regalo?"
         },
         {
             "type": "Buttons",

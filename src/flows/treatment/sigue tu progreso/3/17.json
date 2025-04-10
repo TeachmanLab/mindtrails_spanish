@@ -16,5 +16,8 @@
             ],
             "name": "IBM_job_puzzle"
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct"
     ]
 }

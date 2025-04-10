@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando sientes ansiedad durante una presentación..."
+            "text": "Cuando sientes ansiedad durante una presentación..."
         },
         {
             "type": "Buttons",

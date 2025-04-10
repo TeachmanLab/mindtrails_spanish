@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu amigo tiene una opinión más negativa de ti después de que compartiste información personal?"
+            "text": "¿Tu amigo tiene una opinión más negativa de ti después de que compartiste información personal?"
         },
         {
             "type": "Buttons",

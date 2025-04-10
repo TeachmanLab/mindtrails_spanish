@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes ayudadr a tu pareja?"
+            "text": "¿Puedes ayudadr a tu pareja?"
         },
         {
             "type": "Buttons",

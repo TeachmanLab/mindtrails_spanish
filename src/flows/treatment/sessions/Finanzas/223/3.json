@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Te imaginas que cuando te jubiles, probablemente ..."
+            "text": "Te imaginas que cuando te jubiles, probablemente ..."
         },
         {
             "type": "Buttons",

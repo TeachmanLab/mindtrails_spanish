@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu compañero de trabajo te está juzgando negativamente cuando sales del baño?"
+            "text": "¿Tu compañero de trabajo te está juzgando negativamente cuando sales del baño?"
         },
         {
             "type": "Buttons",

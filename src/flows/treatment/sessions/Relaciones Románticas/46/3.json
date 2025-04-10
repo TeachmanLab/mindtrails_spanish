@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Crees que lo más probable es que tu conversación con tu pareja:"
+            "text": "Crees que lo más probable es que tu conversación con tu pareja:"
         },
         {
             "type": "Buttons",

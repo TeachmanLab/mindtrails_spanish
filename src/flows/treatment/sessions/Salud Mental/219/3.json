@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te ves bien en la foto que publicaste?"
+            "text": "¿Te ves bien en la foto que publicaste?"
         },
         {
             "type": "Buttons",

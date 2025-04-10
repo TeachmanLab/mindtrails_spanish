@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que los demás piensan que estás vestido inapropiadamente?"
+            "text": "¿Crees que los demás piensan que estás vestido inapropiadamente?"
         },
         {
             "type": "Buttons",

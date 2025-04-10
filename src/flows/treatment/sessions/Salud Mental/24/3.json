@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Respondes a la comida picante..."
+            "text": "Respondes a la comida picante..."
         },
         {
             "type": "Buttons",

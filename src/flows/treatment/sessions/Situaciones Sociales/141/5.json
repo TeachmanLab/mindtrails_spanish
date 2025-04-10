@@ -9,14 +9,17 @@
         {
             "type": "TimedText",
             "text": [
-                "Mi respuesta fue inteligente.",
-                "Lo que dije no fue perfecto, pero mis colegas probablemente no lo notaron.",
+                "Estoy feliz de haber podido hablar en mi reunión.",
                 "Todos piensan que mi respuesta es incorrecta.",
                 "Puede que mi respuesta no haya sido correcta, pero está bien.",
-                "Estoy feliz de haber podido hablar en mi reunión."
+                "Lo que dije no fue perfecto, pero mis colegas probablemente no lo notaron.",
+                "Mi respuesta fue inteligente."
             ],
             "Duration": 15
         }
     ],
-    "show_buttons": "WhenCorrect"
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
 }

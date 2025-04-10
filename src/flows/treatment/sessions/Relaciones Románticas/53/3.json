@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa que tu pareja te esté ignorando?"
+            "text": "¿Te preocupa que tu pareja te esté ignorando?"
         },
         {
             "type": "Buttons",

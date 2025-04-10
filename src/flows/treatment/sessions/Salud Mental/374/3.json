@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que te ves bien?"
+            "text": "¿Crees que te ves bien?"
         },
         {
             "type": "Buttons",

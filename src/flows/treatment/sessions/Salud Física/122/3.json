@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Pruebas positivo?"
+            "text": "¿Pruebas positivo?"
         },
         {
             "type": "Buttons",

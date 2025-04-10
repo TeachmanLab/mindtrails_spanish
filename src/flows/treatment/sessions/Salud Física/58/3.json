@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Una vez que llegues a la curva, probablemente..."
+            "text": "Una vez que llegues a la curva, probablemente..."
         },
         {
             "type": "Buttons",

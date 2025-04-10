@@ -10,5 +10,8 @@
             "type": "Entry",
             "name": "Invitando tu Amigo a una Cita_Relaciones Románticas_entry2"
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct"
     ]
 }

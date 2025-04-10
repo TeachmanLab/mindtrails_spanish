@@ -9,14 +9,17 @@
         {
             "type": "TimedText",
             "text": [
-                "Llamo a mi amigo y le digo que de repente estoy ocupado.",
                 "Pienso en decirle a mi amigo que deberíamos ir a caminar a otro lugar, pero decido que estará bien si caminamos por el parque.",
-                "Quiero decirle a mi amigo que no puedo ir, pero me esfuerzo por ir al parque de todos modos.",
                 "Le digo a mi amigo que estoy listo para partir.",
-                "Me pongo una chaqueta y salgo."
+                "Llamo a mi amigo y le digo que de repente estoy ocupado.",
+                "Me pongo una chaqueta y salgo.",
+                "Quiero decirle a mi amigo que no puedo ir, pero me esfuerzo por ir al parque de todos modos."
             ],
             "Duration": 15
         }
     ],
-    "show_buttons": "WhenCorrect"
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
 }

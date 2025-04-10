@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás deseando que otros vean tu foto en el sitio web?"
+            "text": "¿Estás deseando que otros vean tu foto en el sitio web?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Podrías aceptar tu corazón acelerado como algo ni bueno ni malo?"
+            "text": "¿Podrías aceptar tu corazón acelerado como algo ni bueno ni malo?"
         },
         {
             "type": "Buttons",

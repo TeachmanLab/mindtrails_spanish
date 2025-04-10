@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que enviar a tus hijos a una buena universidad"
+            "text": "¿Crees que enviar a tus hijos a una buena universidad"
         },
         {
             "type": "Buttons",

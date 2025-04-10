@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te quedas a dar la presentación opcional?"
+            "text": "¿Te quedas a dar la presentación opcional?"
         },
         {
             "type": "Buttons",

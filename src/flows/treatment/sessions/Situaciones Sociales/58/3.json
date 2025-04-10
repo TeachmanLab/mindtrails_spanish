@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Las luces y los sonidos del club te hacen sentir..."
+            "text": "Las luces y los sonidos del club te hacen sentir..."
         },
         {
             "type": "Buttons",

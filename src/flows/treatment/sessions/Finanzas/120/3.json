@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes ir a cenar con tus amigos?"
+            "text": "¿Puedes ir a cenar con tus amigos?"
         },
         {
             "type": "Buttons",

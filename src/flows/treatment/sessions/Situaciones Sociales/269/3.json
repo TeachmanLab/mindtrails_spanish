@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus amigos juzgarán tu casa?"
+            "text": "¿Tus amigos juzgarán tu casa?"
         },
         {
             "type": "Buttons",

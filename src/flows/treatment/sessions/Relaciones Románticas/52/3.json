@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes hacer tiempo para tu pareja?"
+            "text": "¿Puedes hacer tiempo para tu pareja?"
         },
         {
             "type": "Buttons",

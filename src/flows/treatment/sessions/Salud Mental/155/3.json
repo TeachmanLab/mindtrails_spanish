@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te cambias de ropa por lo que visten tus amigos?"
+            "text": "¿Te cambias de ropa por lo que visten tus amigos?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás tranquilo acerca de que tu colega venga esta tarde?"
+            "text": "¿Estás tranquilo acerca de que tu colega venga esta tarde?"
         },
         {
             "type": "Buttons",

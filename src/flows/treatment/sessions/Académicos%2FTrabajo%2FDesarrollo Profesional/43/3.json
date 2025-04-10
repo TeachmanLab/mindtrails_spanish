@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Está bien que hayas dejado de trabajar para salir con amigos?"
+            "text": "¿Está bien que hayas dejado de trabajar para salir con amigos?"
         },
         {
             "type": "Buttons",

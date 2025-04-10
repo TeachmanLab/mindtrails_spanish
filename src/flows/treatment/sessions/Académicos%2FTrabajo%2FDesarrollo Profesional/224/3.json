@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es normal perder el hilo de pensamientos durante una presentación?"
+            "text": "¿Es normal perder el hilo de pensamientos durante una presentación?"
         },
         {
             "type": "Buttons",

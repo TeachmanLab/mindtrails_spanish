@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu jefe cree que eres un trabajador capaz?"
+            "text": "¿Tu jefe cree que eres un trabajador capaz?"
         },
         {
             "type": "Buttons",

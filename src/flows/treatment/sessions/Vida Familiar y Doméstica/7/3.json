@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu familia estará enojada si decides no visitarlos este fin de semana?"
+            "text": "¿Tu familia estará enojada si decides no visitarlos este fin de semana?"
         },
         {
             "type": "Buttons",

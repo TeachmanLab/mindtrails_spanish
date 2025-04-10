@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Le caeras bien a los otros invitados?"
+            "text": "¿Le caeras bien a los otros invitados?"
         },
         {
             "type": "Buttons",

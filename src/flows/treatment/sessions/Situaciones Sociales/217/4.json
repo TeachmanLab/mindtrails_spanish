@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes manejar tus síntomas de ansiedad mientras haces tu presentación?"
+            "text": "¿Puedes manejar tus síntomas de ansiedad mientras haces tu presentación?"
         },
         {
             "type": "Buttons",

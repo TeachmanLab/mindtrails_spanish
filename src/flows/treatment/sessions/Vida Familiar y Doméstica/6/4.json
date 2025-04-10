@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes abrumado por todo lo que tienes que lograr?"
+            "text": "¿Te sientes abrumado por todo lo que tienes que lograr?"
         },
         {
             "type": "Buttons",

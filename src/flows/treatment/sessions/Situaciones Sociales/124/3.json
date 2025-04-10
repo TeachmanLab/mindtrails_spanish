@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás vacunado?"
+            "text": "¿Estás vacunado?"
         },
         {
             "type": "Buttons",

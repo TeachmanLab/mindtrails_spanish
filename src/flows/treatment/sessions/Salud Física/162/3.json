@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "La reducción de tu ritmo cardíaco y respiración probablemente significa..."
+            "text": "La reducción de tu ritmo cardíaco y respiración probablemente significa..."
         },
         {
             "type": "Buttons",

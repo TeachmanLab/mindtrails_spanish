@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Recibirás comentarios positivos sobre tu manuscrito?"
+            "text": "¿Recibirás comentarios positivos sobre tu manuscrito?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿La espontaneidad de tu viaje será tolerable?"
+            "text": "¿La espontaneidad de tu viaje será tolerable?"
         },
         {
             "type": "Buttons",

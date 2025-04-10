@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "si invitas a tus amigos y familiares, probablemente pensarán que..."
+            "text": "si invitas a tus amigos y familiares, probablemente pensarán que..."
         },
         {
             "type": "Buttons",

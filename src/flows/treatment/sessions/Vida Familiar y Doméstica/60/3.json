@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás ansioso cuando llega tu compañero de trabajo?"
+            "text": "¿Estás ansioso cuando llega tu compañero de trabajo?"
         },
         {
             "type": "Buttons",

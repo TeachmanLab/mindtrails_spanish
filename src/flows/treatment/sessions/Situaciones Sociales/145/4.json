@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que tus nuevos compañeros de trabajo aceptarán salir a tomar café contigo?"
+            "text": "¿Crees que tus nuevos compañeros de trabajo aceptarán salir a tomar café contigo?"
         },
         {
             "type": "Buttons",

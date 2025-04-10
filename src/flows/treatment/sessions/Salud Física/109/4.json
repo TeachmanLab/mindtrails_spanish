@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es necesario salir de un área pública debido a tu corazón acelerado?"
+            "text": "¿Es necesario salir de un área pública debido a tu corazón acelerado?"
         },
         {
             "type": "Buttons",

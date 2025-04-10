@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes hablar con tu pareja sobre tu elección de trabajo?"
+            "text": "¿Puedes hablar con tu pareja sobre tu elección de trabajo?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Pensando en el partido de fútbol, crees que jugaste bien?"
+            "text": "¿Pensando en el partido de fútbol, crees que jugaste bien?"
         },
         {
             "type": "Buttons",

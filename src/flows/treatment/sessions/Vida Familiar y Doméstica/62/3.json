@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Resolverás lo de la vivienda?"
+            "text": "¿Resolverás lo de la vivienda?"
         },
         {
             "type": "Buttons",

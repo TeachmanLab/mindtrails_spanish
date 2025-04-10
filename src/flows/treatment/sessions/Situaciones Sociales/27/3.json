@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Eres optimista cuando piensas en tus nuevos amigos?"
+            "text": "¿Eres optimista cuando piensas en tus nuevos amigos?"
         },
         {
             "type": "Buttons",

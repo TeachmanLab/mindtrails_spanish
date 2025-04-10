@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Podrás hacer un viaje?"
+            "text": "¿Podrás hacer un viaje?"
         },
         {
             "type": "Buttons",

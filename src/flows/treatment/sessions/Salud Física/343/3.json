@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás tomando precauciones contra las enfermedades?"
+            "text": "¿Estás tomando precauciones contra las enfermedades?"
         },
         {
             "type": "Buttons",

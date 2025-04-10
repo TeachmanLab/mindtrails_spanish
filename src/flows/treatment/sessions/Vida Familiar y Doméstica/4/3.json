@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás contento con tu decisión sobre dónde ir de vacaciones?"
+            "text": "¿Estás contento con tu decisión sobre dónde ir de vacaciones?"
         },
         {
             "type": "Buttons",

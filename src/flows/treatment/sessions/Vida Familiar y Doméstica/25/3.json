@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu amigo está decepcionado porque no obtuviste el ascenso?"
+            "text": "¿Tu amigo está decepcionado porque no obtuviste el ascenso?"
         },
         {
             "type": "Buttons",

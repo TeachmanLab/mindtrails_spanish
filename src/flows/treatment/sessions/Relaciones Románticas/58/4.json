@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu amigo te juzgó negativamente?"
+            "text": "¿Tu amigo te juzgó negativamente?"
         },
         {
             "type": "Buttons",

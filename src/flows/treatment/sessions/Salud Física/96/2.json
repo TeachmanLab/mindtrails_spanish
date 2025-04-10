@@ -10,5 +10,8 @@
             "type": "Entry",
             "name": "Viendo a un viejo amigo_Salud Física_entry1"
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct"
     ]
 }

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿sientes que mereces tu puesto en tu trabajo?"
+            "text": "¿sientes que mereces tu puesto en tu trabajo?"
         },
         {
             "type": "Buttons",

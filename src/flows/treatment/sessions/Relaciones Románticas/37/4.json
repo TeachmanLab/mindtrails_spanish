@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que tu relación con tu pareja actual se desvanecerá?"
+            "text": "¿Crees que tu relación con tu pareja actual se desvanecerá?"
         },
         {
             "type": "Buttons",

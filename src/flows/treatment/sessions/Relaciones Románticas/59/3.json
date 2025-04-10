@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Seguirás ansioso por esto sabiendo que no es el caso?"
+            "text": "¿Seguirás ansioso por esto sabiendo que no es el caso?"
         },
         {
             "type": "Buttons",

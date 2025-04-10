@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu calefactor provocará un incendio?"
+            "text": "¿Tu calefactor provocará un incendio?"
         },
         {
             "type": "Buttons",

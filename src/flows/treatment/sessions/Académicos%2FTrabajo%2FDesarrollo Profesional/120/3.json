@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Sentirte tembloroso te asusta?"
+            "text": "¿Sentirte tembloroso te asusta?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tienes miedo al sentirte un poco desorientado después de tu breve trote?"
+            "text": "¿Tienes miedo al sentirte un poco desorientado después de tu breve trote?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Los miembros del grupo piensan que tus ideas son malas?"
+            "text": "¿Los miembros del grupo piensan que tus ideas son malas?"
         },
         {
             "type": "Buttons",

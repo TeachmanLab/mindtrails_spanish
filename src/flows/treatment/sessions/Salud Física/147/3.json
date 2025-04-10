@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Piensas que si te apuntas a una maratón, el día de la carrera es probable que..."
+            "text": "Piensas que si te apuntas a una maratón, el día de la carrera es probable que..."
         },
         {
             "type": "Buttons",

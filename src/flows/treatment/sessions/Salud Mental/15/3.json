@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Buscar ayuda te ayudará sentir mejor?"
+            "text": "¿Buscar ayuda te ayudará sentir mejor?"
         },
         {
             "type": "Buttons",

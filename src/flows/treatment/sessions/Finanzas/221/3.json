@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Podrán tus hijos ser financieramente independientes?"
+            "text": "¿Podrán tus hijos ser financieramente independientes?"
         },
         {
             "type": "Buttons",

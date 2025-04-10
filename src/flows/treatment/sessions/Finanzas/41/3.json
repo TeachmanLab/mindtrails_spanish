@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te arruinarás después de pagar la factura de arreglar el techo?"
+            "text": "¿Te arruinarás después de pagar la factura de arreglar el techo?"
         },
         {
             "type": "Buttons",

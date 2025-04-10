@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te molesta que no fuiste invitado?"
+            "text": "¿Te molesta que no fuiste invitado?"
         },
         {
             "type": "Buttons",

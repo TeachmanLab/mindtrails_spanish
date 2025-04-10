@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Durante el resto del camino te sientes..."
+            "text": "Durante el resto del camino te sientes..."
         },
         {
             "type": "Buttons",

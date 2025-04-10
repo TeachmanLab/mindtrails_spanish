@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu amigo te está ignorando a propósito?"
+            "text": "¿Tu amigo te está ignorando a propósito?"
         },
         {
             "type": "Buttons",

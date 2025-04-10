@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes continuar la discusión con tu jefe?"
+            "text": "¿Puedes continuar la discusión con tu jefe?"
         },
         {
             "type": "Buttons",

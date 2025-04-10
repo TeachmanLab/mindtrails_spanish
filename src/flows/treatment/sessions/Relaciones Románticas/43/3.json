@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te quedarás colgado de esta experiencia para siempre?"
+            "text": "¿Te quedarás colgado de esta experiencia para siempre?"
         },
         {
             "type": "Buttons",

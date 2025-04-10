@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Habrá oportunidades futuras para hacer nuevos amigos?"
+            "text": "¿Habrá oportunidades futuras para hacer nuevos amigos?"
         },
         {
             "type": "Buttons",

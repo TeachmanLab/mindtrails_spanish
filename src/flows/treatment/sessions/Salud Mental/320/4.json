@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Está bien que hayas cometido un error frente a tu jefe?"
+            "text": "¿Está bien que hayas cometido un error frente a tu jefe?"
         },
         {
             "type": "Buttons",

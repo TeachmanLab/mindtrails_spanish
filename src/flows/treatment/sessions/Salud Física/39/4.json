@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando tu corazón comenzó a latir muy rápido..."
+            "text": "Cuando tu corazón comenzó a latir muy rápido..."
         },
         {
             "type": "Buttons",

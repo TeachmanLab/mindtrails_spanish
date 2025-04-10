@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Necesitas renunciar a tu nuevo hobby?"
+            "text": "¿Necesitas renunciar a tu nuevo hobby?"
         },
         {
             "type": "Buttons",

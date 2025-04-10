@@ -10,5 +10,8 @@
             "type": "Entry",
             "name": "Equilibrio de trabajo y amistades_Situaciones Sociales_entry2"
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct"
     ]
 }

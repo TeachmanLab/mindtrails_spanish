@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás enojado con tu pareja?"
+            "text": "¿Estás enojado con tu pareja?"
         },
         {
             "type": "Buttons",

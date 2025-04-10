@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes confiar en tu pareja?"
+            "text": "¿Puedes confiar en tu pareja?"
         },
         {
             "type": "Buttons",

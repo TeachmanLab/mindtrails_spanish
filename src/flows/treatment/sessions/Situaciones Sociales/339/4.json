@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que terminarás estando solo mucho en tu nueva ciudad?"
+            "text": "¿Crees que terminarás estando solo mucho en tu nueva ciudad?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que a la gente le gustará tu comida?"
+            "text": "¿Crees que a la gente le gustará tu comida?"
         },
         {
             "type": "Buttons",

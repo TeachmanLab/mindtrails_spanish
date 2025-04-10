@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tomas la decisión correcta de contarle al bibliotecario sobre la persona desenmascarada?"
+            "text": "¿Tomas la decisión correcta de contarle al bibliotecario sobre la persona desenmascarada?"
         },
         {
             "type": "Buttons",

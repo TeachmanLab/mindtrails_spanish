@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu amigo está enojado contigo?"
+            "text": "¿Tu amigo está enojado contigo?"
         },
         {
             "type": "Buttons",

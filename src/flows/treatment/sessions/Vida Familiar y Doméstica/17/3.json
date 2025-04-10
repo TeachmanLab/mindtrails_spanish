@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás preocupado por si apagaste todo en la casa?"
+            "text": "¿Estás preocupado por si apagaste todo en la casa?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu pareja se siente atraída a ti?"
+            "text": "¿Tu pareja se siente atraída a ti?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Los visitantes quedarán poco impresionados con tu presentación?"
+            "text": "¿Los visitantes quedarán poco impresionados con tu presentación?"
         },
         {
             "type": "Buttons",

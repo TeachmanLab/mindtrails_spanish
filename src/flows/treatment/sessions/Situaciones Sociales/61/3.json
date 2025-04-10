@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te preocupa lo que la otra persona piensa de tu feed?"
+            "text": "¿Te preocupa lo que la otra persona piensa de tu feed?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que sersá eficaz para adquirir algunas habilidades en ciencia de datos?"
+            "text": "¿Crees que sersá eficaz para adquirir algunas habilidades en ciencia de datos?"
         },
         {
             "type": "Buttons",

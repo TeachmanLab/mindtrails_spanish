@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando sientes que no puedes recuperar el aliento, es mejor..."
+            "text": "Cuando sientes que no puedes recuperar el aliento, es mejor..."
         },
         {
             "type": "Buttons",

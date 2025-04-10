@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando piensas en tu jubilación, tus amigos..."
+            "text": "Cuando piensas en tu jubilación, tus amigos..."
         },
         {
             "type": "Buttons",

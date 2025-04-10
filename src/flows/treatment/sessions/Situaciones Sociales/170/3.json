@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te pones ansioso por el correo electrónico que recibiste?"
+            "text": "¿Te pones ansioso por el correo electrónico que recibiste?"
         },
         {
             "type": "Buttons",

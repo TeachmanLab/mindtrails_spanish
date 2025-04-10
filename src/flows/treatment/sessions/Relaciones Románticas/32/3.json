@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que causarás una mala impresión a tu nuevo compañero de trabajo?"
+            "text": "¿Crees que causarás una mala impresión a tu nuevo compañero de trabajo?"
         },
         {
             "type": "Buttons",

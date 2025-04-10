@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Es emocionante estar tan alto?"
+            "text": "¿Es emocionante estar tan alto?"
         },
         {
             "type": "Buttons",

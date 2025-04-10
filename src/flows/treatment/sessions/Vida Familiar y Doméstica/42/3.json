@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Eres capaz de tolerar tu ansiedad?"
+            "text": "¿Eres capaz de tolerar tu ansiedad?"
         },
         {
             "type": "Buttons",

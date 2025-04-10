@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tienes ansiedad sobre hablar con el orador?"
+            "text": "¿Tienes ansiedad sobre hablar con el orador?"
         },
         {
             "type": "Buttons",

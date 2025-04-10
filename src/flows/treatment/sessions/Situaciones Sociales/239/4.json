@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Crees que a los invitados van a disfrutar tu actuación en el piano?"
+            "text": "¿Crees que a los invitados van a disfrutar tu actuación en el piano?"
         },
         {
             "type": "Buttons",

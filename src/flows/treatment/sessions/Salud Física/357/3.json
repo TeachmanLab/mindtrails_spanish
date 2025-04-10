@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu dolor de cabeza significa que te pondrás tan enfermo como tus amigos?"
+            "text": "¿Tu dolor de cabeza significa que te pondrás tan enfermo como tus amigos?"
         },
         {
             "type": "Buttons",

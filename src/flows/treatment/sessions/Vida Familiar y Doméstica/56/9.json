@@ -9,14 +9,17 @@
         {
             "type": "TimedText",
             "text": [
-                "Me siento frustrado por la falta de tiempo, pero sé que una vez que empiece, todo empezará a fluir.",
-                "Tengo un nudo en el estómago porque no sé si haré mi trabajo.",
-                "Estoy tranquilo mientras descubro cómo hacer todo esta noche.",
                 "Siento que no quiero hacer nada, pero sé que será maravilloso haber realizado estas tareas.",
-                "Me emociona descubrir nueva música mientras hago las tareas del hogar."
+                "Estoy tranquilo mientras descubro cómo hacer todo esta noche.",
+                "Me emociona descubrir nueva música mientras hago las tareas del hogar.",
+                "Tengo un nudo en el estómago porque no sé si haré mi trabajo.",
+                "Me siento frustrado por la falta de tiempo, pero sé que una vez que empiece, todo empezará a fluir."
             ],
             "Duration": 15
         }
     ],
-    "show_buttons": "WhenCorrect"
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
 }

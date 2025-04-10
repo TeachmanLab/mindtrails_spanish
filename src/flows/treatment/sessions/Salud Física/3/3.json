@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Debes..."
+            "text": "Debes..."
         },
         {
             "type": "Buttons",

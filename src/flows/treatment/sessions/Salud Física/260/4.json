@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Temporal y nada de lo que debas preocuparte."
+            "text": "Temporal y nada de lo que debas preocuparte."
         },
         {
             "type": "Buttons",

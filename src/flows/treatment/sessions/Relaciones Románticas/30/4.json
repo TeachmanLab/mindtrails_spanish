@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Tu cita probablemente piensa que tú derramando agua..."
+            "text": "Tu cita probablemente piensa que tú derramando agua..."
         },
         {
             "type": "Buttons",

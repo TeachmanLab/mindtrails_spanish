@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Terminará su relación?"
+            "text": "¿Terminará su relación?"
         },
         {
             "type": "Buttons",

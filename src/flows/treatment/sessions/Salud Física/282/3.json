@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Te das cuenta de que..."
+            "text": "Te das cuenta de que..."
         },
         {
             "type": "Buttons",

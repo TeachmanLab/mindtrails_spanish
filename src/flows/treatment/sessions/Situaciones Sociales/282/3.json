@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus compañeros de trabajo están molestos porque los molestaste?"
+            "text": "¿Tus compañeros de trabajo están molestos porque los molestaste?"
         },
         {
             "type": "Buttons",

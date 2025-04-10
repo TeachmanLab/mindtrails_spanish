@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿siempre sentirás ansiedad?"
+            "text": "¿siempre sentirás ansiedad?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus compañeros se están burlando de ti?"
+            "text": "¿Tus compañeros se están burlando de ti?"
         },
         {
             "type": "Buttons",

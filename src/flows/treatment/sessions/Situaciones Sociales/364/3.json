@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu conocido se quedó callado porque te estaban juzgando?"
+            "text": "¿Tu conocido se quedó callado porque te estaban juzgando?"
         },
         {
             "type": "Buttons",

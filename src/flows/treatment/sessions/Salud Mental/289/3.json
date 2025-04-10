@@ -10,5 +10,8 @@
             "type": "Entry",
             "name": "Zambullirte_Salud Mental_entry2"
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct"
     ]
 }

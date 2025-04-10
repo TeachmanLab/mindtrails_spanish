@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Deberías evitar probar nuevas comidas porque tus colegas no lo están ordenando?"
+            "text": "¿Deberías evitar probar nuevas comidas porque tus colegas no lo están ordenando?"
         },
         {
             "type": "Buttons",

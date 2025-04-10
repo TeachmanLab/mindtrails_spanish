@@ -9,14 +9,17 @@
         {
             "type": "TimedText",
             "text": [
-                "Me gusta la publicación.",
-                "Comento en la foto lo bien que nos lo pasamos.",
-                "Quiero que eliminen la foto, pero decido dejar que mi amigo siga así.",
+                "Empiezo a borrar todas las fotos en las que no me veo bien, pero dejo de hacerlo porque conservar los recuerdos es más importante.",
                 "Llamo a mi amigo y le grito.",
-                "Empiezo a borrar todas las fotos en las que no me veo bien, pero dejo de hacerlo porque conservar los recuerdos es más importante."
+                "Me gusta la publicación.",
+                "Quiero que eliminen la foto, pero decido dejar que mi amigo siga así.",
+                "Comento en la foto lo bien que nos lo pasamos."
             ],
             "Duration": 15
         }
     ],
-    "show_buttons": "WhenCorrect"
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
 }

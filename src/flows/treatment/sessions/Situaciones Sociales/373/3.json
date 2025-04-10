@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes entutiasmado por hacerle una pregunta a tu jefe?"
+            "text": "¿Te sientes entutiasmado por hacerle una pregunta a tu jefe?"
         },
         {
             "type": "Buttons",

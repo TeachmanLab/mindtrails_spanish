@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando piensas en tu hija creciendo, piensas que..."
+            "text": "Cuando piensas en tu hija creciendo, piensas que..."
         },
         {
             "type": "Buttons",

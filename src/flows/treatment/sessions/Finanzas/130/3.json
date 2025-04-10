@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Presentar tus impuestos es confuso?"
+            "text": "¿Presentar tus impuestos es confuso?"
         },
         {
             "type": "Buttons",

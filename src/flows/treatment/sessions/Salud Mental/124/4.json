@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes enfermo durante el resto de tu entrevista?"
+            "text": "¿Te sientes enfermo durante el resto de tu entrevista?"
         },
         {
             "type": "Buttons",

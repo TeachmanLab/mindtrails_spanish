@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Deberías estar trabajando más duro?"
+            "text": "¿Deberías estar trabajando más duro?"
         },
         {
             "type": "Buttons",

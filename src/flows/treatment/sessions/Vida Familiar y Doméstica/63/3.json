@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Aceptará tu familia que vayas a terapia?"
+            "text": "¿Aceptará tu familia que vayas a terapia?"
         },
         {
             "type": "Buttons",

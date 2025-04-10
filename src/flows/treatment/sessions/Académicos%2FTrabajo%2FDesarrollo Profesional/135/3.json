@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "En las próximas semanas en al trabajo probablemente..."
+            "text": "En las próximas semanas en al trabajo probablemente..."
         },
         {
             "type": "Buttons",

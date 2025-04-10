@@ -9,14 +9,17 @@
         {
             "type": "TimedText",
             "text": [
-                "Mi jefe pensará que mi presentación necesita mejoras y yo estaré de acuerdo con eso.",
+                "Mi trabajo estará en riesgo si estropeo esta presentación.",
                 "Mis colegas pensarán que me preparé bien para la presentación.",
-                "No haré mi mejor esfuerzo hoy, pero a veces se me permite tener un día libre.",
+                "Mi jefe pensará que mi presentación necesita mejoras y yo estaré de acuerdo con eso.",
                 "Soy muy trabajadora y mi jefe podrá notarlo.",
-                "Mi trabajo estará en riesgo si estropeo esta presentación."
+                "No haré mi mejor esfuerzo hoy, pero a veces se me permite tener un día libre."
             ],
             "Duration": 15
         }
     ],
-    "show_buttons": "WhenCorrect"
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
 }

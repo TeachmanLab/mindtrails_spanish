@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te ofrecerán otro trabajo en el futuro?"
+            "text": "¿Te ofrecerán otro trabajo en el futuro?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿La salud de tu madre va a empeorar rápidamente?"
+            "text": "¿La salud de tu madre va a empeorar rápidamente?"
         },
         {
             "type": "Buttons",

@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te sientes bien con la audición?"
+            "text": "¿Te sientes bien con la audición?"
         },
         {
             "type": "Buttons",

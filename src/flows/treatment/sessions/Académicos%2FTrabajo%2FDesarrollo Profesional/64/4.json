@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿significa su expresión neutral que tu jefe está decepcionado con tu discurso?"
+            "text": "¿significa su expresión neutral que tu jefe está decepcionado con tu discurso?"
         },
         {
             "type": "Buttons",

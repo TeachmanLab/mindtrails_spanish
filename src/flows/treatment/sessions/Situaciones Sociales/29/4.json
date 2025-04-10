@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Los demás pensaron que eres aburrido?"
+            "text": "¿Los demás pensaron que eres aburrido?"
         },
         {
             "type": "Buttons",

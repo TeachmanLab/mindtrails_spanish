@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Eres capaz de mantener la calma aunque no sepas qué decir?"
+            "text": "¿Eres capaz de mantener la calma aunque no sepas qué decir?"
         },
         {
             "type": "Buttons",

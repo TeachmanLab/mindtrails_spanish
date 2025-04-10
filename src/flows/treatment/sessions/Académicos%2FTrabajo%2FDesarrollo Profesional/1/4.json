@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te da miedo que tu mente se quedó en blanco antes de tu reunión?"
+            "text": "¿Te da miedo que tu mente se quedó en blanco antes de tu reunión?"
         },
         {
             "type": "Buttons",

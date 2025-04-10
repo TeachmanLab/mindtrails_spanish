@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás ansioso por el resto de la reunión porque llegaste tarde?"
+            "text": "¿Estás ansioso por el resto de la reunión porque llegaste tarde?"
         },
         {
             "type": "Buttons",

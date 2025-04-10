@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes ayudar a tu amigo?"
+            "text": "¿Puedes ayudar a tu amigo?"
         },
         {
             "type": "Buttons",

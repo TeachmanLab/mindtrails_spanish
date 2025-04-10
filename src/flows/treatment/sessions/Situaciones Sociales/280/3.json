@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Estás ansioso por jugar este juego frente a tu compañero de trabajo?"
+            "text": "¿Estás ansioso por jugar este juego frente a tu compañero de trabajo?"
         },
         {
             "type": "Buttons",

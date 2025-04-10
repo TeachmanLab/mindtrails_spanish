@@ -9,14 +9,17 @@
         {
             "type": "TimedText",
             "text": [
-                "A todos les encantará este disfraz.",
-                "Tal vez debería haberlo suavizado, pero sé que esto es cierto para mí.",
-                "A nadie le gusta mi disfraz.",
                 "Puede que haya usado algo demasiado loco, pero me gusta.",
-                "Creo que este disfraz es divertido."
+                "A todos les encantará este disfraz.",
+                "Creo que este disfraz es divertido.",
+                "A nadie le gusta mi disfraz.",
+                "Tal vez debería haberlo suavizado, pero sé que esto es cierto para mí."
             ],
             "Duration": 15
         }
     ],
-    "show_buttons": "WhenCorrect"
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
 }

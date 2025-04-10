@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Necesitabas gastar dinero en ropa nueva?"
+            "text": "¿Necesitabas gastar dinero en ropa nueva?"
         },
         {
             "type": "Buttons",

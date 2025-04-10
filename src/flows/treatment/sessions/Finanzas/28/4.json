@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "El asociado de ventas no sonreía mucho porque..."
+            "text": "El asociado de ventas no sonreía mucho porque..."
         },
         {
             "type": "Buttons",

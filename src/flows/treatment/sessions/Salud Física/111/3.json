@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Te dan miedo los latidos rápidos de tu corazón?"
+            "text": "¿Te dan miedo los latidos rápidos de tu corazón?"
         },
         {
             "type": "Buttons",

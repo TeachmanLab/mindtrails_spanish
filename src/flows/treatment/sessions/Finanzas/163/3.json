@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Invertir ahora dará tus frutos en el futuro?"
+            "text": "¿Invertir ahora dará tus frutos en el futuro?"
         },
         {
             "type": "Buttons",

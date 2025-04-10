@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Cuando te imaginas un matrimonio con tu pareja ..."
+            "text": "Cuando te imaginas un matrimonio con tu pareja ..."
         },
         {
             "type": "Buttons",

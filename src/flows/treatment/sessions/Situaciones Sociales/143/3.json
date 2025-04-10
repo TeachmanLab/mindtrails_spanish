@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus compañeros se ríen de ti?"
+            "text": "¿Tus compañeros se ríen de ti?"
         },
         {
             "type": "Buttons",

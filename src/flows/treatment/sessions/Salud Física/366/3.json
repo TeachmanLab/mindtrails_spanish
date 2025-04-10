@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu colega olvidó su mascarilla?"
+            "text": "¿Tu colega olvidó su mascarilla?"
         },
         {
             "type": "Buttons",

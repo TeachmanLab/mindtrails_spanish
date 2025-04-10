@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tus piernas inestables son una señal de que no te estás mal?"
+            "text": "¿Tus piernas inestables son una señal de que no te estás mal?"
         },
         {
             "type": "Buttons",

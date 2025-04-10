@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Tu colega te juzga por vivir con muchos miembros de tu familia extendida?"
+            "text": "¿Tu colega te juzga por vivir con muchos miembros de tu familia extendida?"
         },
         {
             "type": "Buttons",

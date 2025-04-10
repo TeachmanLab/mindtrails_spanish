@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Te sientes extraño porque ..."
+            "text": "Te sientes extraño porque ..."
         },
         {
             "type": "Buttons",

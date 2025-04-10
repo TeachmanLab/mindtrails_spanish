@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Puedes comunicarte con tu supervisor para obtener ayuda con las finanzas relacionadas con el trabajo?"
+            "text": "¿Puedes comunicarte con tu supervisor para obtener ayuda con las finanzas relacionadas con el trabajo?"
         },
         {
             "type": "Buttons",

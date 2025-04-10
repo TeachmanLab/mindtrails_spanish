@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Podrás hacer un presupuesto?"
+            "text": "¿Podrás hacer un presupuesto?"
         },
         {
             "type": "Buttons",

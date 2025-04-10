@@ -9,14 +9,17 @@
         {
             "type": "TimedText",
             "text": [
-                "Incluso si obtengo un mal desempeño en un informe de progreso, eso no significa que perderé mi trabajo.",
                 "Puede que mi jefe no esté impresionado con mi progreso, pero puedo progresar más la próxima vez.",
-                "Me da pereza no trabajar más.",
+                "Incluso si obtengo un mal desempeño en un informe de progreso, eso no significa que perderé mi trabajo.",
+                "Haré lo mejor que pueda para progresar la próxima semana.",
                 "Soy un buen empleado.",
-                "Haré lo mejor que pueda para progresar la próxima semana."
+                "Me da pereza no trabajar más."
             ],
             "Duration": 15
         }
     ],
-    "show_buttons": "WhenCorrect"
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
 }

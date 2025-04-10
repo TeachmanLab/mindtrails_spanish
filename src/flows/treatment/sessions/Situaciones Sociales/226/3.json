@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "¿Cómo crees que se sentirán los demás invitados a la fiesta acerca de tu actuación en el piano?"
+            "text": "¿Cómo crees que se sentirán los demás invitados a la fiesta acerca de tu actuación en el piano?"
         },
         {
             "type": "Buttons",
