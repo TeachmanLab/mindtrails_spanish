@@ -24,9 +24,9 @@ def create_nav_conditions(buttons:Literal["WhenCorrect","AfterTimeout","Never","
     if 'puzzle' in list(map(lower,inputs)):
         return {"navigation_conditions": "wait_for_correct"}
     if timeout and buttons == "aftertimeout":
-        return {"navigation_conditions": [{"wait_for_time": timeout}, "wait_for_click"]}
+        return {"navigation_conditions": [{"wait_for_time": int(timeout)*1000}, "wait_for_click"]}
     if timeout:
-        return {"navigation_conditions": [{"wait_for_time": timeout}]}
+        return {"navigation_conditions": [{"wait_for_time": int(timeout)*1000}]}
     if buttons == "whencorrect":
         return {"navigation_conditions": ["wait_for_correct", "wait_for_click"]}
     if buttons == "whencomplete":
