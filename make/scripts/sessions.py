@@ -300,7 +300,7 @@ for pop,s,l in populations:
     folders['treatment/sessions/__after__'] = flat(surveys["AfterDomain_All"])
     folders['treatment/sessions/Discriminación'] = discrim_dose
     for domain, doses in domain_doses.items():
-        folders[f'treatment/sessions/{dir_safe(domain)}/__flow__.json'] ={"mode":"sequential", "size":1, "repeat":True}
+        folders[f'treatment/sessions/{dir_safe(domain)}/__flow__.json'] ={"mode":"sequential", "take":1, "repeat":True}
         for i, dose in enumerate(doses,1):
             folders[f'treatment/sessions/{dir_safe(domain)}/{i}'] = dose
 

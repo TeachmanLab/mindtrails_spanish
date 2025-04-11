@@ -39,7 +39,7 @@ with open(f"{dir_csv}/MTSpanish_on-demand.csv", "r", encoding="utf-8") as read_o
 # Define folders
 folders = {'__flow__.json': {"mode":"select", "title_case": True, "column_count": 2, "text":resource_domain_selection_text()}}
 for domain, subdomains in domains.items():
-    folders[f"{dir_safe(domain)}/__flow__.json"] = {"mode":"select", "text":resource_subdomain_selection_text()}
+    folders[f"{dir_safe(domain)}/__flow__.json"] = {"mode":"select", "text":resource_subdomain_selection_text(), "last_item": "Otro"}
     for subdomain, resources in subdomains.items():
         folders[f"{dir_safe(domain)}/{dir_safe(subdomain)}.json"] = create_subdomain_page(subdomain,resources)
 
