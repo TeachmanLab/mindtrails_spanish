@@ -4,19 +4,24 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás viajando en el extranjero con tu mejor amigo. Tienes una idea general de lo que harán cada día, pero no planeaste todos los detalles con anticipación. Esta incertidumbre causa algo de ansiedad que es..."
+            "text": "¿La espontaneidad de tu viaje será tolerable?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Planes de viajar_Salud Mental_puzzle1",
+            "type": "Buttons",
+            "name": "Planes de viajar_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "words": [
-                "tolerable"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
 }

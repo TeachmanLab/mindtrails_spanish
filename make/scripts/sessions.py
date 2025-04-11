@@ -177,7 +177,7 @@ def create_short_doses(i):
 
             # Every 40 doses we want to show them lessons learned.
             # This doesn't account for long scenarios or write your own
-            lessons_learned = domain_ndoses[domain_1] % 40 == 0
+            lessons_learned = domain_ndoses[domain_1] and domain_ndoses[domain_1] % 40 == 0
 
             dose = create_scenario_pages(domain=domain_1, label=label, scenario_num=domain_rindex[domain_1],
                                          puzzle_text_1=puzzle1[0], word_1=puzzle1[1],

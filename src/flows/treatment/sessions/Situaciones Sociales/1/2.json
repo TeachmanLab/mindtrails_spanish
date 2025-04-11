@@ -3,12 +3,20 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Gente fiestera"
+            "type": "Text",
+            "text": "Llegas a una fiesta grande y te das cuenta rápidamente de que hay muchas personas que no conoces allí. Te sientes ansioso y consideras irte a casa. Mirando a tu alrededor, decides..."
         },
         {
-            "type": "Media",
-            "url": "./images/Gente_fiestera.jpg"
+            "type": "WordPuzzle",
+            "name": "Gente fiestera_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "words": [
+                "quedarte"
+            ],
+            "missing_letter_count": 1
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

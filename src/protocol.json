@@ -51,7 +51,7 @@
 			"action": "flow://flows/rationale.json"
 		},
 		{
-			"text": "<INTRO>",
+			"text": "Introducción",
 			"icon": "/assets/menu_mindtrails.png",
 			"action": "flow://flows/treatment/intro"
 		},
