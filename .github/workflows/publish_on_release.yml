@@ -11,5 +11,7 @@ jobs:
   Release_Creation:
     runs-on: ubuntu-latest    
     steps:
+      - name: checkout protocol
+        uses: actions/checkout@v4
       - name: call workflow
         uses: digital-trails/protocol-releaser@v1.6.3
