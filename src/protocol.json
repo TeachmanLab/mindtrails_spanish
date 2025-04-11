@@ -31,7 +31,7 @@
 		"button_br": {
 			"text": "Recursos",
 			"icon": "/assets/home_resources.png",
-			"action": "page://flows/treatment/resources"
+			"action": "flow://flows/treatment/resources"
 		},
 		"button_bl": {
 			"text": "¿Qué es la Ansiedad?",
