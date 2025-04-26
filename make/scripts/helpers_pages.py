@@ -54,6 +54,7 @@ def create_input(tipe, items=None, min=None, max=None, text=None):
         "right_feedback": "Correcto!",  # changed
         "wrong_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",  # changed
         "wrong_delay": 5000,
+        "display_delay": 2000,
         "words": items
     }
     return None
@@ -185,6 +186,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                 "correct_feedback": "Correcto!",  # changed
                 "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",  # changed
                 "incorrect_delay": 5000,
+                "display_delay": 2000,
                 "words": [word_1]
             }
         ],
@@ -210,6 +212,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                     "correct_feedback": "Correcto!",  # changed
                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",  # changed
                     "incorrect_delay": 5000,
+                    "display_delay": 2000,
                     "words": [word_2]
                 }
             ],
