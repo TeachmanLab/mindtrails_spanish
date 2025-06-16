@@ -269,9 +269,12 @@ for pop,s,l in populations:
     domains      = short_doses.keys()
     domain_doses = defaultdict(list)
 
-#    info_dict = {}
-#    for col1,col2 in islice(csv.reader("info_bubbles.csv"),1):
-#        info_dict[col1] = col2
+    # Load info bubbles data
+    info_dict = {}
+    with open(f"{dir_csv}/Info_Bubbles.csv", "r", encoding="utf-8") as info_file:
+        for row in islice(csv.reader(info_file), 1, None):
+            timing, text = row[0], row[1]
+            info_dict[int(timing)] = clean_up_unicode(text)
 
     # Create doses
     for domain in domains:
@@ -286,8 +289,9 @@ for pop,s,l in populations:
 
             domain_doses[domain].append(short_dose)
 
-#            if dose_count in info_dict:
-#                short_dose[0]["information"] = info_dict[dose_count]
+            # Add info bubble if timing matches dose count
+            if dose_count in info_dict:
+                short_dose[0]["information"] = info_dict[dose_count]
 
             if dose_count % 10 == 0:
                 domain_doses[domain].append(resources(domain))
