@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Simplemente olvidé abrir la aplicación."
+            "text": "Problemas personales me impidieron usar la aplicación."
         },
         {
             "type": "Buttons",
@@ -17,7 +17,7 @@
                 "^Prefiero no responder"
             ],
             "selectable": true,
-            "name": "forgot"
+            "name": "personal_issues"
         }
     ]
 }

@@ -16,11 +16,9 @@
             "name": "social_support_helpful"
         }
     ],
-    "conditions": [
-        {
-            "variable": "HelpReceived",
-            "comparator": "=",
-            "value": "Social"
-        }
-    ]
+    "condition": {
+        "variable": "HelpReceived",
+        "comparator": "=",
+        "value": "Social"
+    }
 }

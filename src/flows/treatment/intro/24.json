@@ -25,11 +25,9 @@
             "name": "length_anxiety_symptoms"
         }
     ],
-    "conditions": [
-        {
-            "variable": "anxiety_or_depression",
-            "comparator": "=",
-            "value": "Inseguro"
-        }
-    ]
+    "condition": {
+        "variable": "anxiety_or_depression",
+        "comparator": "=",
+        "value": "Inseguro"
+    }
 }

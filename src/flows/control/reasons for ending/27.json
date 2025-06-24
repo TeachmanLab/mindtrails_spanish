@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "La aplicación era demasiado difícil de entender."
+            "text": "La aplicación no me pareció muy útil."
         },
         {
             "type": "Buttons",
@@ -17,7 +17,7 @@
                 "^Prefiero no responder"
             ],
             "selectable": true,
-            "name": "hard_to_understand"
+            "name": "not_useful"
         }
     ]
 }

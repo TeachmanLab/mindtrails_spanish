@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "¿Cuánto te gustó la función \"favoritos\" de la aplicación?"
+            "text": "¿Qué tan útiles te parecieron las estrategias y consejos proporcionados por la aplicación?"
         },
         {
             "type": "Buttons",
@@ -17,7 +17,7 @@
                 "^Prefiero no responder"
             ],
             "selectable": true,
-            "name": "favorites"
+            "name": "tips_use"
         }
     ]
 }

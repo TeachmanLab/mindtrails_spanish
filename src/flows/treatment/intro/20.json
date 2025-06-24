@@ -30,11 +30,9 @@
             "name": "reasons_not_receiving_help"
         }
     ],
-    "conditions": [
-        {
-            "variable": "HelpReceived",
-            "comparator": "=",
-            "value": "Ninguno"
-        }
-    ]
+    "condition": {
+        "variable": "HelpReceived",
+        "comparator": "=",
+        "value": "Ninguno"
+    }
 }

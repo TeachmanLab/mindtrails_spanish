@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "La aplicación tenía demasiadas palabras."
+            "text": "La pantalla era difícil de leer (por ejemplo, las palabras eran demasiado pequenas)."
         },
         {
             "type": "Buttons",
@@ -17,7 +17,7 @@
                 "^Prefiero no responder"
             ],
             "selectable": true,
-            "name": "too_many_words"
+            "name": "difficult_to_read"
         }
     ]
 }

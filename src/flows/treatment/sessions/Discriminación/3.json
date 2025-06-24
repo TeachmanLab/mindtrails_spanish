@@ -11,11 +11,9 @@
             "name": "journal_entry_discrimination "
         }
     ],
-    "conditions": [
-        {
-            "variable": "Discrimination",
-            "comparator": "=",
-            "value": "Diario"
-        }
-    ]
+    "condition": {
+        "variable": "Discrimination",
+        "comparator": "=",
+        "value": "Diario"
+    }
 }

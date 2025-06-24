@@ -20,14 +20,12 @@
             "name": "imagery_well"
         }
     ],
-    "conditions": [
-        {
-            "variable": "StressLevel",
-            "comparator": "in",
-            "value": [
-                6,
-                7
-            ]
-        }
-    ]
+    "condition": {
+        "variable": "StressLevel",
+        "comparator": "in",
+        "value": [
+            6,
+            7
+        ]
+    }
 }

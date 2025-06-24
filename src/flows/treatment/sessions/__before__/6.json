@@ -7,16 +7,14 @@
             "text": "Juega esta situación en tu cabeza durante los próximos 20 segundos. \n\nLa pantalla cambiará en 20 segundos."
         }
     ],
-    "conditions": [
-        {
-            "variable": "StressLevel",
-            "comparator": "in",
-            "value": [
-                6,
-                7
-            ]
-        }
-    ],
+    "condition": {
+        "variable": "StressLevel",
+        "comparator": "in",
+        "value": [
+            6,
+            7
+        ]
+    },
     "navigation_conditions": [
         {
             "wait_for_time": 20000

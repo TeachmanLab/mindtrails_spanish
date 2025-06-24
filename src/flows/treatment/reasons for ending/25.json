@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Problemas personales me impidieron usar la aplicación."
+            "text": "La aplicación era demasiado difícil de navegar."
         },
         {
             "type": "Buttons",
@@ -17,7 +17,7 @@
                 "^Prefiero no responder"
             ],
             "selectable": true,
-            "name": "personal_issues"
+            "name": "navigate"
         }
     ]
 }

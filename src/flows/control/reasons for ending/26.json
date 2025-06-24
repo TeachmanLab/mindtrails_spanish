@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "La aplicación era demasiado difícil de navegar."
+            "text": "La aplicación era demasiado difícil de entender."
         },
         {
             "type": "Buttons",
@@ -17,7 +17,7 @@
                 "^Prefiero no responder"
             ],
             "selectable": true,
-            "name": "navigate"
+            "name": "hard_to_understand"
         }
     ]
 }
