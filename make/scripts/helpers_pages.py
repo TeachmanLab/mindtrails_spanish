@@ -16,7 +16,7 @@ def create_conditions(args):
     variable, value = [a.strip() for a in args]
     if ',' in value: value = [int(v) for v in value.split(",") if is_int(v)]
     comparison = "=" if not isinstance(value,list) else "in"
-    return { "conditions": [{ "variable": variable, "comparator": comparison, "value": value }] }
+    return { "condition": { "variable": variable, "comparator": comparison, "value": value } }
 
 def create_nav_conditions(buttons:Literal["WhenCorrect","AfterTimeout","Never","WhenComplete"]=None,timeout=None,inputs=None):
     buttons = lower(buttons)
