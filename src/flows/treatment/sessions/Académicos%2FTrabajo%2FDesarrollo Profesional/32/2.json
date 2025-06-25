@@ -1,20 +1,20 @@
 {
-    "header_text": "Discutir la evaluación",
+    "header_text": "Esperando grandes noticias",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Acabas de recibir tu evaluación de desempeño y nota que hay algunas críticas sobre tu trabajo que no sabías que era un problema. Mientras esperas tu reunión con tu jefe, te sientes..."
+            "text": "Hoy recibirás un correo electrónico importante. Te dirá si recibiste un ascenso que realmente avanzaría tu carrera. Mientras piensas en esperar el correo electrónico, te sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Discutir la evaluación_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "name": "Esperando grandes noticias_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "preparado"
+                "emocionado"
             ],
             "missing_letter_count": 1
         }

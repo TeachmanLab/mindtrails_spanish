@@ -1,14 +1,14 @@
 {
-    "header_text": "Dando vueltas",
+    "header_text": "Sentirse mareado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dando vueltas"
+            "text": "Sentirse mareado"
         },
         {
             "type": "Media",
-            "url": "./images/Dando_vueltas.jpg"
+            "url": "./images/Sentirse_mareado.jpg"
         }
     ]
 }

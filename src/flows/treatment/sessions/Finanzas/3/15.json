@@ -1,0 +1,23 @@
+{
+    "header_text": "Ahorrar dinero",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Necesitas ahorrar dinero para llevar siempre la comida de casa. Cuando comes con tus amigos, notas que todos salen a comer cada almuerzo. Te das cuenta de que tienes una situación diferente a la de tus amigos y está..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Ahorrar dinero_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "bien"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

@@ -1,14 +1,14 @@
 {
-    "header_text": "Solicitar una subvención",
+    "header_text": "Preocupándote por gastar",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Solicitar una subvención"
+            "text": "Preocupándote por gastar"
         },
         {
             "type": "Media",
-            "url": "./images/Solicitar_una_subvención.jpg"
+            "url": "./images/Preocupándote_por_gastar.jpg"
         }
     ]
 }

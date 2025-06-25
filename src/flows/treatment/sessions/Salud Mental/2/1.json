@@ -1,14 +1,14 @@
 {
-    "header_text": "Puerta con seguro",
+    "header_text": "Confiar en ti mismo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Puerta con seguro"
+            "text": "Confiar en ti mismo"
         },
         {
             "type": "Media",
-            "url": "./images/Puerta_con_seguro.jpg"
+            "url": "./images/Confiar_en_ti_mismo.jpg"
         }
     ]
 }

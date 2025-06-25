@@ -1,14 +1,14 @@
 {
-    "header_text": "La cita",
+    "header_text": "Día especial",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "La cita"
+            "text": "Día especial"
         },
         {
             "type": "Media",
-            "url": "./images/La_cita.jpg"
+            "url": "./images/Día_especial.jpg"
         }
     ]
 }

@@ -1,20 +1,20 @@
 {
-    "header_text": "Puerta cerrada",
+    "header_text": "Cancelar con amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Llegas a casa del trabajo un viernes por la noche y te preguntas si has cerrado la puerta de la oficina. Normalmente cierras la puerta con llave, pero todavía te sientes ansioso sin saberlo con seguridad. Tu fin de semana fuera de la oficina será..."
+            "text": "Recientemente te has sentido agotado y cancelas los planes que hiciste con tus amigos. Tus amigos expresan frustración, diciendo que planearon esto hace mucho tiempo y quierian verte. Piensas que has tomado la mejor decisión de ti... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Puerta cerrada_Salud Mental_puzzle1",
+            "name": "Cancelar con amigos_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "agradable"
+                "mismo"
             ],
             "missing_letter_count": 1
         }

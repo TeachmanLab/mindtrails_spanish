@@ -1,14 +1,14 @@
 {
-    "header_text": "Planificación de pagos",
+    "header_text": "Presentación de impuestos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Planificación de pagos"
+            "text": "Presentación de impuestos"
         },
         {
             "type": "Media",
-            "url": "./images/Planificación_de_pagos.jpg"
+            "url": "./images/Presentación_de_impuestos.jpg"
         }
     ]
 }

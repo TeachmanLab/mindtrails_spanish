@@ -1,14 +1,14 @@
 {
-    "header_text": "Sentirse diferente",
+    "header_text": "El escaparate de danza",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sentirse diferente"
+            "text": "El escaparate de danza"
         },
         {
             "type": "Media",
-            "url": "./images/Sentirse_diferente.jpg"
+            "url": "./images/El_escaparate_de_danza.jpg"
         }
     ]
 }

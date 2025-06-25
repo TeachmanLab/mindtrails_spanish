@@ -1,14 +1,14 @@
 {
-    "header_text": "Limitaciones financieras",
+    "header_text": "Lecciones Aprendidas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Limitaciones financieras"
+            "type": "Text",
+            "Text": "¡Excelente trabajo! ¡Estás progresando mucho al probar nuevas perspectivas relacionadas con las finanzas! Tómate unos minutos para reflexionar sobre los cuentos cortos que has leído hasta ahora. ¿Qué has aprendido? ¿Cuáles son tus principales conclusiones? Por ejemplo, podrías notar que hay muchas formas diferentes de abordar los desafíos financieros para hacer que se sientan más manejables."
         },
         {
-            "type": "Media",
-            "url": "./images/Limitaciones_financieras.jpg"
+            "type": "Entry",
+            "name": "lessons_learned_Finanzas_0"
         }
     ]
 }

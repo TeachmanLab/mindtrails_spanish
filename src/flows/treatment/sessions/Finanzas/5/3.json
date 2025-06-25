@@ -1,27 +1,23 @@
 {
-    "header_text": "Ir a la quiebra",
+    "header_text": "Costos inesperados",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te arruinarás una vez que regreses a la escuela?"
+            "text": "Has estado alquilando tu casa. sientes que ya es hora de comprar una casa y que ahora tienes un trabajo estable, pero te preocupan los costos inesperados. Considerando la posibilidad de comprar, crees que estos costos serán..."
         },
         {
-            "type": "Buttons",
-            "name": "Ir a la quiebra_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Costos inesperados_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "manejables"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct"
 }

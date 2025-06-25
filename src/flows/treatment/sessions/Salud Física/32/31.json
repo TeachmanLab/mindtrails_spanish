@@ -1,0 +1,14 @@
+{
+    "header_text": "Un dolor de garganta",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Un dolor de garganta"
+        },
+        {
+            "type": "Media",
+            "url": "./images/Un_dolor_de_garganta.jpg"
+        }
+    ]
+}

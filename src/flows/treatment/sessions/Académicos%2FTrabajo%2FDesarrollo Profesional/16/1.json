@@ -1,14 +1,10 @@
 {
-    "header_text": "Certidumbre de estar en lo correcto",
+    "header_text": "Haciendo lo mejor que puedas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Certidumbre de estar en lo correcto"
-        },
-        {
-            "type": "Media",
-            "url": "./images/Certidumbre_de_estar_en_lo_correcto.jpg"
+            "type": "Text",
+            "text": "A continuación, verá una situación que podría provocarle ansiedad. Mientras lees el cuento, imagínate en esa situación. Después de imaginarse a sí mismo en la situación, haga clic en \"Siguiente\" y luego verá ejemplos de pensamientos, sentimientos y comportamientos que podrían ocurrir en esa situación. \n\nAlgunos de los pensamientos, sentimientos y comportamientos serán útiles y otros no."
         }
     ]
 }

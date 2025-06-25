@@ -1,14 +1,14 @@
 {
-    "header_text": "Rendimiento deficiente",
+    "header_text": "sintiéndote Preparado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Rendimiento deficiente"
+            "text": "sintiéndote Preparado"
         },
         {
             "type": "Media",
-            "url": "./images/Rendimiento_deficiente.jpg"
+            "url": "./images/sintiéndote_Preparado.jpg"
         }
     ]
 }

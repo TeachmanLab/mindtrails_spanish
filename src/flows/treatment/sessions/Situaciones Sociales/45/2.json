@@ -1,14 +1,14 @@
 {
-    "header_text": "Encontrando un campo para sentarte",
+    "header_text": "Participación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Encontrando un campo para sentarte"
+            "text": "Participación"
         },
         {
             "type": "Media",
-            "url": "./images/Encontrando_un_campo_para_sentarte.jpg"
+            "url": "./images/Participación.jpg"
         }
     ]
 }

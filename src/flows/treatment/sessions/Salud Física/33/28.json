@@ -1,0 +1,14 @@
+{
+    "header_text": "Vacacionando en avión",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Vacacionando en avión"
+        },
+        {
+            "type": "Media",
+            "url": "./images/Vacacionando_en_avión.jpg"
+        }
+    ]
+}

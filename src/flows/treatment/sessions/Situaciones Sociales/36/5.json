@@ -1,0 +1,25 @@
+{
+    "header_text": "Amigo ruidoso:Pensamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu auto se averió y un amigo te va a dejar en una reunión. Cuando te dejan, hacen mucho ruido y todos los que están allí te miran. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Mucha gente notó el ruido que hicimos y tal vez se molestó, pero fue sólo por un momento y no fue gran cosa.",
+                "Esta gente me juzgará porque mi amigo es molesto.",
+                "Algunas personas probablemente piensen que mi amigo es grosero, pero no puedo controlar lo que hace ni cómo se siente la gente.",
+                "Fue agradable no tener que tomar el autobús.",
+                "Pienso en lo que quiero hablar en la reunión de hoy."
+            ],
+            "Duration": 15
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

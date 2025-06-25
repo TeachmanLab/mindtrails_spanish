@@ -1,14 +1,14 @@
 {
-    "header_text": "Cita con alguien nuevo",
+    "header_text": "Ponerse ahí fuera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cita con alguien nuevo"
+            "text": "Ponerse ahí fuera"
         },
         {
             "type": "Media",
-            "url": "./images/Cita_con_alguien_nuevo.jpg"
+            "url": "./images/Ponerse_ahí_fuera.jpg"
         }
     ]
 }

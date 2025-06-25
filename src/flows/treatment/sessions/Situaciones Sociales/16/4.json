@@ -1,27 +1,15 @@
 {
-    "header_text": "Plato típico",
+    "header_text": "Salir sin ti",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Crees que a la gente le gustará tu comida?"
+            "text": "Estás en el trabajo y escuchas a algunos de tus companeros de trabajo conversando detrás de ti. Mientras escuchas, te das cuenta de que no te invitaron a una pequena reunión y que algunos de tus companeros de trabajo y amigos estaban pasando el rato sin ti. \n\nHaga clic en Siguiente para ver algunas ideas."
         },
         {
-            "type": "Buttons",
-            "name": "Plato típico_Situaciones Sociales_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "columnCount": 1,
-            "correct_value": "Sí"
+            "type": "Media",
+            "url": "./images/Salir_sin_ti.jpg",
+            "border": true
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
     ]
 }

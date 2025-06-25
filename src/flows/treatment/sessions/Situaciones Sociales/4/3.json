@@ -1,23 +1,23 @@
 {
-    "header_text": "Mantenerse al día con los amigos",
+    "header_text": "Ir al cine solo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Probablemente, tu amigo..."
+            "text": "¿Estás bien sentarte solo?"
         },
         {
             "type": "Buttons",
-            "name": "Mantenerse al día con los amigos_Situaciones Sociales_comp_question",
+            "name": "Ir al cine solo_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Comprende que a veces las cosas se ponen muy ocupadas.",
-                "Esta molesto contigo por no permanecer en contacto."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Comprende que a veces las cosas se ponen muy ocupadas."
+            "correct_value": "Sí"
         }
     ],
     "navigation_conditions": [

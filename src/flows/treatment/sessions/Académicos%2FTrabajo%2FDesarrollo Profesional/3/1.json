@@ -1,14 +1,14 @@
 {
-    "header_text": "Oportunidad nueva",
+    "header_text": "Quedando atrás",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Oportunidad nueva"
+            "text": "Quedando atrás"
         },
         {
             "type": "Media",
-            "url": "./images/Oportunidad_nueva.jpg"
+            "url": "./images/Quedando_atrás.jpg"
         }
     ]
 }

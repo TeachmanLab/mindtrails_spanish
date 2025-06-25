@@ -1,14 +1,12 @@
 {
-    "header_text": "Cita con el doctor",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
-            "type": "Label",
-            "text": "Cita con el doctor"
-        },
-        {
-            "type": "Media",
-            "url": "./images/Cita_con_el_doctor.jpg"
+            "type": "Text",
+            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
         }
     ]
 }

@@ -1,15 +1,10 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "El regalo de cumpleaños",
     "header_icon": "assets/subtitle.png",
-    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en una situación desafiante que se avecina pronto. ¿Cuáles son algunas de las maneras en que podrías aplicar lo que aprendiste en esta capacitación para manejar tu propia situación? "
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #7_entry"
+            "text": "A continuación, verá una situación que podría provocarle ansiedad. Mientras lees el cuento, imagínate en esa situación. Después de imaginarse a sí mismo en la situación, haga clic en \"Siguiente\" y luego verá ejemplos de pensamientos, sentimientos y comportamientos que podrían ocurrir en esa situación. \n\nAlgunos de los pensamientos, sentimientos y comportamientos serán útiles y otros no."
         }
     ]
 }

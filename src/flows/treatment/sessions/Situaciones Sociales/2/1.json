@@ -1,14 +1,14 @@
 {
-    "header_text": "Practicando la presentación",
+    "header_text": "Sugerencia para volver a encontrarnos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Practicando la presentación"
+            "text": "Sugerencia para volver a encontrarnos"
         },
         {
             "type": "Media",
-            "url": "./images/Practicando_la_presentación.jpg"
+            "url": "./images/Sugerencia_para_volver_a_encontrarnos.jpg"
         }
     ]
 }

@@ -1,22 +1,22 @@
 {
-    "header_text": "Solicitar una subvención",
+    "header_text": "Preocupándote por gastar",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Quieres iniciar un nuevo proyecto de investigación en tu laboratorio, por lo que solicitas una subvención de financiación. sin esta financiación, no podrás realizar la investigación que esperas realizar, pero no sabes si tu propuesta es lo suficientemente buena. Crees que no obtendrás la..."
+            "text": "Unos amigos van a salir a cenar y te invitan. Sabes que ustedes han salido a cenar mucho recientemente, y no sabes si puedes seguir así. Les dices a tus amigos que saldrás con ellos la próxima vez, y estás felíz quedarte en casa por la... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Solicitar una subvención_Finanzas_puzzle1",
+            "name": "Preocupándote por gastar_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "financiación"
+                "noche"
             ],
-            "missing_letter_count": 1
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct"

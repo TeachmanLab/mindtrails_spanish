@@ -1,14 +1,14 @@
 {
-    "header_text": "Relaciones futuras",
+    "header_text": "Citas en línea",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Relaciones futuras"
+            "text": "Citas en línea"
         },
         {
             "type": "Media",
-            "url": "./images/Relaciones_futuras.jpg"
+            "url": "./images/Citas_en_línea.jpg"
         }
     ]
 }

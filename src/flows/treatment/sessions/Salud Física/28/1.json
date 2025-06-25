@@ -1,14 +1,12 @@
 {
-    "header_text": "Celebraciones en un juego deportivo",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
-            "type": "Label",
-            "text": "Celebraciones en un juego deportivo"
-        },
-        {
-            "type": "Media",
-            "url": "./images/Celebraciones_en_un_juego_deportivo.jpg"
+            "type": "Text",
+            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
         }
     ]
 }

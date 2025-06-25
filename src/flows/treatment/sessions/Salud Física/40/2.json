@@ -1,23 +1,10 @@
 {
-    "header_text": "Cómodo sofá",
+    "header_text": "Instrucciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has tenido un día muy ocupado y por la noche finalmente puedes relajarte. Mientras te sientas en tu sofá, te sientes desorientado. Estás..."
-        },
-        {
-            "type": "WordPuzzle",
-            "name": "Cómodo sofá_Salud Física_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "tranquilo"
-            ],
-            "missing_letter_count": 2
+            "text": "Las historias que estás a punto de ver son un poco diferentes a las que has vistovisto antes. En lugar de completar las letras que faltan para completar la palabra final,Vamos a desafiarte a generar tu propia última palabra que completarála historia. Tu objetivo es pensar en una palabra que terminará la historia en un nota positiva. El final no tiene por qué ser tan positivo como para no serloParece posible, pero queremos que imagines que estás manejando bien la situación."
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

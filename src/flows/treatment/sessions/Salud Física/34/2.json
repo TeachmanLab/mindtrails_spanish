@@ -1,20 +1,20 @@
 {
-    "header_text": "Película intermitente",
+    "header_text": "Resultados de análisis de sangre",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás viendo una película en el cine. Hay muchos planos de cámara rápidos que te hacen sentir mareado. Esta sensación te parece..."
+            "text": "En tu última cita con el médico, su doctor te hizo unos análisis de sangre. Tu doctor te dijo que te darán los resultados en unos días y te sientes nervioso mientras los esperas. Crees que tus nervios son... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Película intermitente_Salud Física_puzzle1",
+            "name": "Resultados de análisis de sangre_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "curioso"
+                "manejables"
             ],
             "missing_letter_count": 2
         }

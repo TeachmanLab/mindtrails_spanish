@@ -1,0 +1,23 @@
+{
+    "header_text": "Cambio de planes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Decides aceptar una oferta de trabajo en una oficina diferente. Muchos de tus compañeros de trabajo aún no saben acerca de esta decisión, y te preocupa que se sientan decepcionados al respecto. Piensas que estarán felices de que finalmente estás siguiendo tus..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Cambio de planes_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "pasiones"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

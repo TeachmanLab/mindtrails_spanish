@@ -1,0 +1,27 @@
+{
+    "header_text": "Oportunidad nueva",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu jefe piensa que no deberías aplicar para un ascenso ahora porque..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Oportunidad nueva_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Estarás listo para uno el próximo año.",
+                "Nunca serás capaz."
+            ],
+            "columnCount": 1,
+            "correct_value": "Estarás listo para uno el próximo año."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

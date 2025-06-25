@@ -1,14 +1,12 @@
 {
-    "header_text": "Controles en el dentista.",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
-            "type": "Label",
-            "text": "Controles en el dentista."
-        },
-        {
-            "type": "Media",
-            "url": "./images/Controles_en_el_dentista..jpg"
+            "type": "Text",
+            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
         }
     ]
 }

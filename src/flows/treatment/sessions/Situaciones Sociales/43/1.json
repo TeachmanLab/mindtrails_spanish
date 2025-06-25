@@ -1,14 +1,12 @@
 {
-    "header_text": "Comparaciones de redes sociales",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
-            "type": "Label",
-            "text": "Comparaciones de redes sociales"
-        },
-        {
-            "type": "Media",
-            "url": "./images/Comparaciones_de_redes_sociales.jpg"
+            "type": "Text",
+            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
         }
     ]
 }

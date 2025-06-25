@@ -1,23 +1,23 @@
 {
-    "header_text": "Nervios en un momento importante",
+    "header_text": "Entrando a una discoteca",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Las sensaciones de temblor significan que no estás preparado para la presentación?"
+            "text": "Las luces y los sonidos del club te hacen sentir..."
         },
         {
             "type": "Buttons",
-            "name": "Nervios en un momento importante_Situaciones Sociales_comp_question",
+            "name": "Entrando a una discoteca_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Emocionado y animado.",
+                "Desorientado y asustado."
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Emocionado y animado."
         }
     ],
     "navigation_conditions": [

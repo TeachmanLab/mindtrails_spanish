@@ -1,20 +1,20 @@
 {
-    "header_text": "Oportunidad nueva",
+    "header_text": "Quedando atrás",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en el trabajo y te enteras de que surgió una oportunidad de ascenso en tu departamento. Piensas que podrías ser elegible y decides preguntarle a tu jefe por más detalles. Tu jefe te dice que los criterios de selección son muy estrictos y que es probable que tu aplicación sea..."
+            "text": "Recientemente comenzaste un nuevo trabajo. Mientras trabajas, parece que todos los que te rodean saben lo que están haciendo, pero aún estás confundido. Crees que esto se debe a que todavía estás aprendiendo y pronto te darás..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Oportunidad nueva_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "name": "Quedando atrás_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "rechazada"
+                "cuenta"
             ],
             "missing_letter_count": 1
         }

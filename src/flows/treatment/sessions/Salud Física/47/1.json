@@ -1,14 +1,14 @@
 {
-    "header_text": "Controles en el dentista.",
+    "header_text": "Viendo a un viejo amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Controles en el dentista."
+            "text": "Viendo a un viejo amigo"
         },
         {
             "type": "Media",
-            "url": "./images/Controles_en_el_dentista..jpg"
+            "url": "./images/Viendo_a_un_viejo_amigo.jpg"
         }
     ]
 }

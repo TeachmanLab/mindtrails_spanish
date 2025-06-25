@@ -1,0 +1,25 @@
+{
+    "header_text": "Balancear responsibilidades:Pensamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tienes muchas tareas domésticas que hacer esta noche y también tienes un gran proyecto que debes entregar manana. Ambos tienen que hacerse y usted piensa en cómo manejará todo.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "No sé cómo voy a encajar todo esto esta noche, pero puedo hacer un plan.",
+                "Pienso en lo maravilloso que es estar ocupado.",
+                "Es abrumador tener tanto que hacer, pero puedo hacerlo de una en una.",
+                "Puedo equilibrar mucho.",
+                "No voy a poder hacer todo esto esta noche."
+            ],
+            "Duration": 15
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

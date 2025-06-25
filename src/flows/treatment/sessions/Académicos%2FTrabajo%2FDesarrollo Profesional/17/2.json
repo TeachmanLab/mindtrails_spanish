@@ -1,20 +1,20 @@
 {
-    "header_text": "Reunión uno a uno",
+    "header_text": "Presentación importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hoy tienes una reunión individual con tu intimidante jefe, lo que te pone nervioso. Durante la reunión, pierdes momentáneamente el hilo de tus pensamientos. Después de eso, tu ansiedad es..."
+            "text": "Te han pedido que hagas una presentación sobre algunos de tus últimos proyectos en una conferencia importante. Esta es una gran oportunidad para resaltar el buen trabajo que has estado haciendo, pero te sientes nervioso al hablar frente a un grupo tan grande de..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Reunión uno a uno_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "name": "Presentación importante_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "tolerable"
+                "compañeros"
             ],
             "missing_letter_count": 1
         }

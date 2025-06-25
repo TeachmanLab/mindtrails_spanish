@@ -1,14 +1,14 @@
 {
-    "header_text": "Decidiendo algo",
+    "header_text": "Permitirse la educación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Decidiendo algo"
+            "text": "Permitirse la educación"
         },
         {
             "type": "Media",
-            "url": "./images/Decidiendo_algo.jpg"
+            "url": "./images/Permitirse_la_educación.jpg"
         }
     ]
 }

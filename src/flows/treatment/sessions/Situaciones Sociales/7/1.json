@@ -1,14 +1,14 @@
 {
-    "header_text": "Nervios en un momento importante",
+    "header_text": "Entrando a una discoteca",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nervios en un momento importante"
+            "text": "Entrando a una discoteca"
         },
         {
             "type": "Media",
-            "url": "./images/Nervios_en_un_momento_importante.jpg"
+            "url": "./images/Entrando_a_una_discoteca.jpg"
         }
     ]
 }

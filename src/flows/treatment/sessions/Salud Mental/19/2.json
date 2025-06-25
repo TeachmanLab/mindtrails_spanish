@@ -1,22 +1,22 @@
 {
-    "header_text": "Probando comidas diferentes",
+    "header_text": "Redes sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tus colegas están en un restaurante. Mientras todos tus colegas ordenan el mismo plato, tú quieres pedir algo diferente y aventurero, pero te preocupa que piensen que es raro o desagradable. Decides pedir el plato de todos modos y disfrutar de los nuevos..."
+            "text": "Mientras te desplazas por tus redes sociales, ves una foto de todos tus amigos pasándolo bien en una llamada de video. No te invitaron a pasar el rato con ellos en línea. Lo piensas y decides que puedes sobrellevar tus..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Probando comidas diferentes_Salud Mental_puzzle1",
+            "name": "Redes sociales_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "sabores"
+                "sentimientos"
             ],
-            "missing_letter_count": 1
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct"

@@ -1,14 +1,14 @@
 {
-    "header_text": "Un sonido fuerte",
+    "header_text": "Tu primer hijo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un sonido fuerte"
+            "text": "Tu primer hijo"
         },
         {
             "type": "Media",
-            "url": "./images/Un_sonido_fuerte.jpg"
+            "url": "./images/Tu_primer_hijo.jpg"
         }
     ]
 }

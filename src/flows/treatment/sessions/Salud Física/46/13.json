@@ -1,0 +1,25 @@
+{
+    "header_text": "Nuevo mercado: Comportamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás en una nueva tienda de comestibles y buscas pan. De repente notas que tu corazón late rápidamente y con fuerza.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Empiezo a irme pero me doy la vuelta y me digo a mí mismo que puedo manejarlo.",
+                "Noto la sensación en mi pecho y sigo buscando el pan.",
+                "Me quedo inmóvil y empiezo a entrar en pánico.",
+                "Le pregunto a un empleado dónde está el pan.",
+                "Me siento incómodo, pero respiro lentamente unas cuantas veces y sigo comprando."
+            ],
+            "Duration": 15
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

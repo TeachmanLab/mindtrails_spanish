@@ -1,14 +1,12 @@
 {
-    "header_text": "Apoyándose en sus compañeros",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
-            "type": "Label",
-            "text": "Apoyándose en sus compañeros"
-        },
-        {
-            "type": "Media",
-            "url": "./images/Apoyándose_en_sus_compañeros.jpg"
+            "type": "Text",
+            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
         }
     ]
 }

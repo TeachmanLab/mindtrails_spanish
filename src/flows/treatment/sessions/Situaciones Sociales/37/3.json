@@ -1,14 +1,14 @@
 {
-    "header_text": "Confrontación de COVID",
+    "header_text": "Broma interna",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿siempre puedes evitar preocupar a los demás?"
+            "text": "¿Otros te juzgan por el comentario de tu amigo en tu publicación?"
         },
         {
             "type": "Buttons",
-            "name": "Confrontación de COVID_Situaciones Sociales_comp_question",
+            "name": "Broma interna_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

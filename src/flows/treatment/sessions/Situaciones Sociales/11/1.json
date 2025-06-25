@@ -1,15 +1,10 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Respondiendo una pregunta",
     "header_icon": "assets/subtitle.png",
-    "name": "¡Consejo para aplicar!",
     "elements": [
         {
             "type": "Text",
-            "text": "Imaginas que estás impartiendo un taller sobre cómo pensar de manera flexible sobre situaciones ambiguas y potencialmente amenzantes. ¿Cuál sería tu mensaje para los participantes?"
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #6_entry"
+            "text": "A continuación, verá una situación que podría provocarle ansiedad. Mientras lees el cuento, imagínate en esa situación. Después de imaginarse a sí mismo en la situación, haga clic en \"Siguiente\" y luego verá ejemplos de pensamientos, sentimientos y comportamientos que podrían ocurrir en esa situación. \n\nAlgunos de los pensamientos, sentimientos y comportamientos serán útiles y otros no."
         }
     ]
 }

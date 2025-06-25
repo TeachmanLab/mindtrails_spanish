@@ -1,14 +1,14 @@
 {
-    "header_text": "Planes de viajar",
+    "header_text": "Manejando tareas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Planes de viajar"
+            "text": "Manejando tareas"
         },
         {
             "type": "Media",
-            "url": "./images/Planes_de_viajar.jpg"
+            "url": "./images/Manejando_tareas.jpg"
         }
     ]
 }

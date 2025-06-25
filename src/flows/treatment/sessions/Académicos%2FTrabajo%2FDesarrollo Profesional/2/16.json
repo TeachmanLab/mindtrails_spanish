@@ -1,0 +1,27 @@
+{
+    "header_text": "Certidumbre de estar en lo correcto",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Te sientes inseguro acerca de tu respuesta?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Certidumbre de estar en lo correcto_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

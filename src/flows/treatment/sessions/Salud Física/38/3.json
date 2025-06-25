@@ -1,22 +1,14 @@
 {
-    "header_text": "Sentirse mareado",
+    "header_text": "Conociendo alguien nuevo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Decides prestar atención a las sensaciones sin juzgarlas como buenas o malas. Esto reduce tu preocupación y te hace sentir más..."
+            "text": "Estás en una fiesta de cumpleaños para un amigo de un amigo. Te das cuenta de que estás ruborizado y un poco sudado. Parado allí, piensas que estas sensaciones son..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Sentirse mareado_Salud Física_puzzle_word2",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "tranquilo"
-            ],
-            "missing_letter_count": 2
+            "type": "Entry",
+            "name": "Conociendo alguien nuevo_Salud Física_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct"

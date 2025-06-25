@@ -1,14 +1,14 @@
 {
-    "header_text": "Una presentación pequeña",
+    "header_text": "Presentación importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una presentación pequeña"
+            "text": "Presentación importante"
         },
         {
             "type": "Media",
-            "url": "./images/Una_presentación_pequeña.jpg"
+            "url": "./images/Presentación_importante.jpg"
         }
     ]
 }

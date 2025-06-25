@@ -1,14 +1,14 @@
 {
-    "header_text": "Un tropiezo repentino",
+    "header_text": "Equilibrio de trabajo y amistades",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un tropiezo repentino"
+            "text": "Equilibrio de trabajo y amistades"
         },
         {
             "type": "Media",
-            "url": "./images/Un_tropiezo_repentino.jpg"
+            "url": "./images/Equilibrio_de_trabajo_y_amistades.jpg"
         }
     ]
 }

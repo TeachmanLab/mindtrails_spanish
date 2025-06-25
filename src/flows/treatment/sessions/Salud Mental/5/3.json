@@ -1,27 +1,23 @@
 {
-    "header_text": "Corte de pelo",
+    "header_text": "Conducción segura",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Los demás te va a juzgar cuando ven tu corte de pelo en la foto?"
+            "text": "Tu amigo es un buen conductor, pero hoy está lloviendo fuertemente. Están conduciendo muy rápido, así que les pides que disminuyan la velocidad. Respiras profundamente, porque las posibilidades de sufrir un accidente son... "
         },
         {
-            "type": "Buttons",
-            "name": "Corte de pelo_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Conducción segura_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "pequeñas"
             ],
-            "columnCount": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct"
 }

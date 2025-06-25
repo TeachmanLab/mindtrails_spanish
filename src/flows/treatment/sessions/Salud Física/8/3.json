@@ -1,22 +1,14 @@
 {
-    "header_text": "sintiéndote enfermo en un día caluroso",
+    "header_text": "Recuperando el aliento",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Aunque no disfrutas de esta sensación, te das cuenta de que es algo que pasará naturalmente con..."
+            "text": "Es una mañana fresca y estás subiendo unas escaleras para llegar a tu trabajo. Empiezas a sentirte realmente sin aliento cuando llegas al último escalón. Tomas un segundo para respirar y sentirte..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "sintiéndote enfermo en un día caluroso_Salud Física_puzzle_word2",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "tiempo"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "Recuperando el aliento_Salud Física_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct"

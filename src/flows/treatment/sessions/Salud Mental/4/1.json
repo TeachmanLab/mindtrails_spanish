@@ -1,14 +1,14 @@
 {
-    "header_text": "Pensamientos acelerados",
+    "header_text": "Ir a terapia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pensamientos acelerados"
+            "text": "Ir a terapia"
         },
         {
             "type": "Media",
-            "url": "./images/Pensamientos_acelerados.jpg"
+            "url": "./images/Ir_a_terapia.jpg"
         }
     ]
 }

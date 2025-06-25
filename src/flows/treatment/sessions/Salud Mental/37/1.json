@@ -1,14 +1,14 @@
 {
-    "header_text": "Revisando tus cualificaciones",
+    "header_text": "Broma interna",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Revisando tus cualificaciones"
+            "text": "Broma interna"
         },
         {
             "type": "Media",
-            "url": "./images/Revisando_tus_cualificaciones.jpg"
+            "url": "./images/Broma_interna.jpg"
         }
     ]
 }

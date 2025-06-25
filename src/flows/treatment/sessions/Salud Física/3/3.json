@@ -1,23 +1,23 @@
 {
-    "header_text": "Carrera matutina del domingo",
+    "header_text": "Explorando una cueva estrecha",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Debes..."
+            "text": "Mientras estés en la cueva, probablemente..."
         },
         {
             "type": "Buttons",
-            "name": "Carrera matutina del domingo_Salud Física_comp_question",
+            "name": "Explorando una cueva estrecha_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Tomarte una botella de ague y comerte un bocado despues del ejercicio.",
-                "Hacer una llamada de emergencia porque esto es señal de algo grave."
+                "Aprenderás cosas interesantes.",
+                "No podrás encontrar la salida."
             ],
             "columnCount": 1,
-            "correct_value": "Tomarte una botella de ague y comerte un bocado despues del ejercicio."
+            "correct_value": "Aprenderás cosas interesantes."
         }
     ],
     "navigation_conditions": [

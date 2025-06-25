@@ -1,0 +1,25 @@
+{
+    "header_text": "Miembro de la familia de edad avanzada: Comportamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Vas a la casa de tus padres por primera vez en mucho tiempo y notas que tu padre parece mucho menos saludable de lo que recuerdas. Ninguno de tus padres menciona nada sobre su salud.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Hago una broma divertida para hacer reír a mis padres.",
+                "Decido darle un gran abrazo y sonreír.",
+                "No hablo con mis padres porque no me dijeron que estaba enfermo.",
+                "Noto mi tristeza pero le pregunto amablemente a mi padre cómo está y acepto cualquier respuesta que me dé.",
+                "Quiero irme y llorar, pero decido quedarme con la familia y conversar."
+            ],
+            "Duration": 15
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

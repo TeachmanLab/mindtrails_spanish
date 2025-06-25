@@ -1,14 +1,14 @@
 {
-    "header_text": "Una presentación grande",
+    "header_text": "Ingresos adicionales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Una presentación grande"
+            "text": "Ingresos adicionales"
         },
         {
             "type": "Media",
-            "url": "./images/Una_presentación_grande.jpg"
+            "url": "./images/Ingresos_adicionales.jpg"
         }
     ]
 }

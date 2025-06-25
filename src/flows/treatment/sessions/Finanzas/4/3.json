@@ -1,27 +1,23 @@
 {
-    "header_text": "Planes divertidos",
+    "header_text": "Saludando gente en bibliotecas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tus amigos se molestarán porque no puedes salir a cenar?"
+            "text": "Te das cuenta de que podrían estar yendo a terminar algún trabajo juntos. Esto te hace sentir..."
         },
         {
-            "type": "Buttons",
-            "name": "Planes divertidos_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Saludando gente en bibliotecas_Finanzas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "mejor"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct"
 }

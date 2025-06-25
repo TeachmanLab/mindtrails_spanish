@@ -1,0 +1,27 @@
+{
+    "header_text": "Costear los gastos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "En el próximo mes, te ves..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Costear los gastos_Finanzas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Pagando tu factura de alquiler en su totalidad.",
+                "Atrasado en el pago de tu alquiler."
+            ],
+            "columnCount": 1,
+            "correct_value": "Atrasado en el pago de tu alquiler."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

@@ -1,14 +1,14 @@
 {
-    "header_text": "Decisiones de viaje",
+    "header_text": "Casa bilingüe",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Decisiones de viaje"
+            "text": "Casa bilingüe"
         },
         {
             "type": "Media",
-            "url": "./images/Decisiones_de_viaje.jpg"
+            "url": "./images/Casa_bilingüe.jpg"
         }
     ]
 }

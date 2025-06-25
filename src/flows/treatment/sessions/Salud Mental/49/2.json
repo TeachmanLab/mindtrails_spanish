@@ -1,20 +1,20 @@
 {
-    "header_text": "Día caluroso",
+    "header_text": "Deprimido",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Regresando a casa en un día muy caluroso, te tomas un vaso grande de agua rápidamente. Pronto te sientes anormalmente lleno y un poco enfermo del..."
+            "text": "Has tenido una semana ocupada y estresante. Generalmente estás feliz, pero te has sentido aburrido y triste durante los últimos días. Recuerdas que es normal tener algunos días..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Día caluroso_Salud Mental_puzzle1",
+            "name": "Deprimido_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "estómago"
+                "difíciles"
             ],
             "missing_letter_count": 2
         }

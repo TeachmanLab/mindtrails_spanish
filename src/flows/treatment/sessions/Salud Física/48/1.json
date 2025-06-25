@@ -1,14 +1,14 @@
 {
-    "header_text": "Desconectandote",
+    "header_text": "Tos después de salir",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Desconectandote"
+            "text": "Tos después de salir"
         },
         {
             "type": "Media",
-            "url": "./images/Desconectandote.jpg"
+            "url": "./images/Tos_después_de_salir.jpg"
         }
     ]
 }

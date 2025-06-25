@@ -1,0 +1,25 @@
+{
+    "header_text": "Ninguna respuesta: Comportamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Has estado enviando mensajes de texto a alguien que realmente te gusta y, por lo general, responde rápidamente. Notas que vieron tu mensaje hace un par de horas y no respondieron. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Quiero pasar el día concentrado en mi teléfono, pero en lugar de eso hago pasatiempos que disfruto.",
+                "Quiero preguntarles qué piensan de mí, pero decido darle más tiempo.",
+                "Sigo con mi día.",
+                "Envío un montón de mensajes seguidos para ver si responden.",
+                "Llamo a un amigo y le pregunto sobre su día."
+            ],
+            "Duration": 15
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

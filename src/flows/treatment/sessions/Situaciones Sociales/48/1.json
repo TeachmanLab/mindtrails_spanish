@@ -1,14 +1,14 @@
 {
-    "header_text": "Comportamiento de riesgo",
+    "header_text": "Conexión perdida",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comportamiento de riesgo"
+            "text": "Conexión perdida"
         },
         {
             "type": "Media",
-            "url": "./images/Comportamiento_de_riesgo.jpg"
+            "url": "./images/Conexión_perdida.jpg"
         }
     ]
 }

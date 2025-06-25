@@ -1,14 +1,14 @@
 {
-    "header_text": "Sentirse diferente",
+    "header_text": "El escaparate de danza",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás participando en una conferencia en línea y miras el video de todos. Notas que entre el grupo de personas te ves diferente a los demás. Piensas en esto y te das cuenta de que está..."
+            "text": "Has estado tomando una clase de baile en el centro comunitario local y ha llegado el momento de tu exhibición de fin de clase. Quieres invitar a tus amigos y familiares al escaparate, pero te preocupa quedar en ridículo si no eres muy bueno. Mientras decides si invitas o no gente a tu programa, te ves bailando..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Sentirse diferente_Situaciones Sociales_puzzle1",
+            "name": "El escaparate de danza_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

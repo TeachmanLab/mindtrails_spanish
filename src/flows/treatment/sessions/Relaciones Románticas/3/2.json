@@ -1,20 +1,20 @@
 {
-    "header_text": "La cita",
+    "header_text": "Día especial",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás yendo a una cita y acabas de llegar al restaurante. Mientras te acercas a la entrada, de repente te sientes muy nervioso y das la vuelta para irte, pero cambias de opinión rápidamente. En ese momento, tu cita llega y parece muy..."
+            "text": "Tienes planeada una cena con alguien con quien querías pasar un tiempo. El día de la cena, te sientes un poco nervioso y te preguntas si les agradarás tanto como a ti. Sentirse nervioso es..."
         },
         {
             "type": "WordPuzzle",
-            "name": "La cita_Relaciones Románticas_puzzle1",
+            "name": "Día especial_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "ofendida"
+                "normal"
             ],
             "missing_letter_count": 1
         }

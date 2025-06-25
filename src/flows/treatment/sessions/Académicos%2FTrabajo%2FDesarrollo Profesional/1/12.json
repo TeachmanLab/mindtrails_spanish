@@ -1,0 +1,23 @@
+{
+    "header_text": "Un tropiezo repentino",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Es tu primer día en un trabajo nuevo y vas a hablar con tu jefe. Al caminar hacia ellos, te tropiezas y luego te recuperas. Se dieron cuenta y su primera impresión de ti probablemente es que estás muy preparado para el..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Un tropiezo repentino_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "trabajo"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

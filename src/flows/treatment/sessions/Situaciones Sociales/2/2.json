@@ -1,20 +1,20 @@
 {
-    "header_text": "Practicando la presentación",
+    "header_text": "Sugerencia para volver a encontrarnos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu supervisor te pide que hagas una presentación en una reunión. Después de practicar durante varias semanas, finalmente te sientes listo. En la presentación, cometes un gran... "
+            "text": "Conoces a alguien en un evento y sientes que se llevan bien. Más tarde, llamas y sugieres volver a reunirse. La respuesta que recibes te hace sentir que la persona piensa que sería agradable volver a..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Practicando la presentación_Situaciones Sociales_puzzle1",
+            "name": "Sugerencia para volver a encontrarnos_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "error"
+                "encontrarse"
             ],
             "missing_letter_count": 1
         }

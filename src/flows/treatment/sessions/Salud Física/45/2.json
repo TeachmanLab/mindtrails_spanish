@@ -1,14 +1,14 @@
 {
-    "header_text": "Resultados del chequeo anual",
+    "header_text": "Dando vueltas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Resultados del chequeo anual"
+            "text": "Dando vueltas"
         },
         {
             "type": "Media",
-            "url": "./images/Resultados_del_chequeo_anual.jpg"
+            "url": "./images/Dando_vueltas.jpg"
         }
     ]
 }

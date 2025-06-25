@@ -1,14 +1,14 @@
 {
-    "header_text": "siendo padre",
+    "header_text": "Una invitación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "siendo padre"
+            "text": "Una invitación"
         },
         {
             "type": "Media",
-            "url": "./images/siendo_padre.jpg"
+            "url": "./images/Una_invitación.jpg"
         }
     ]
 }

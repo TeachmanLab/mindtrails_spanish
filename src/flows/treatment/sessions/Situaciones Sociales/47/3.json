@@ -1,14 +1,14 @@
 {
-    "header_text": "Segundo encuentro",
+    "header_text": "Desconectandote",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tu nuevo amigo quiere volverte a ver?"
+            "text": "¿Te sientes cómodo pidiéndole a la jefa de tu departamento que repita su pregunta?"
         },
         {
             "type": "Buttons",
-            "name": "Segundo encuentro_Situaciones Sociales_comp_question",
+            "name": "Desconectandote_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

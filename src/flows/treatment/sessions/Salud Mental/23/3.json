@@ -1,27 +1,15 @@
 {
-    "header_text": "Tomar un descanso",
+    "header_text": "Boca seca",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Deberías hacer tu trabajo ahora mismo?"
+            "text": "Has sentido sequedad en la boca durante unos días. Esto es algo que no has sentido antes. La probabilidad de que la sequedad de boca signifique un problema de salud grave es..."
         },
         {
-            "type": "Buttons",
-            "name": "Tomar un descanso_Salud Mental_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "type": "Entry",
+            "name": "Boca seca_Salud Mental_entry1"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct"
 }

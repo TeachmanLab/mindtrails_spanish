@@ -1,14 +1,14 @@
 {
-    "header_text": "Confrontación de COVID",
+    "header_text": "Broma interna",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Confrontación de COVID"
+            "text": "Broma interna"
         },
         {
             "type": "Media",
-            "url": "./images/Confrontación_de_COVID.jpg"
+            "url": "./images/Broma_interna.jpg"
         }
     ]
 }

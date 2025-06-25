@@ -1,22 +1,22 @@
 {
-    "header_text": "Controles en el dentista.",
+    "header_text": "Viendo a un viejo amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes una cita de rutina con el dentista y descubres que necesitas algunas pruebas para comprobar la salud de tus encías y dientes. Después de que el dentista realiza las pruebas, continúas recostado en el sillón del dentista mientras esperas los resultados. Crees que tus dientes y encías probablemente estén..."
+            "text": "Ves a un viejo amigo con el que no has hablado en años. Tu corazón da un vuelco. Te sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Controles en el dentista._Salud Física_puzzle1",
+            "name": "Viendo a un viejo amigo_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "enfermos"
+                "emocionado"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct"

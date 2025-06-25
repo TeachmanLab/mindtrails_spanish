@@ -112,32 +112,15 @@ def create_long_pages(label, scenario_description, image_url, thoughts, feelings
     return pages
 
 def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, comp_question,
-                          answers, correct_answer, image_url, row_num, word_2=None,
-                          puzzle_text_2=None, letters_missing=1, lessons_learned=False,
+                          answers, correct_answer, image_url, is_first, word_2=None,
+                          puzzle_text_2=None, n_missing=1, include_lessons_learned=False,
                           lessons_learned_dict=None):
-    """
-    :param domain: domain (e.g., "Romantic Relationships" or "Physical Health")
-    :param label:
-    :param scenario_num:
-    :param puzzle_text_1: text for the first puzzle
-    :param word_1: missing word for the first puzzle
-    :param comp_question: comprehension question
-    :param answers: list of possible answers to the comprehension question
-    :param correct_answer: correct answer from answers
-    :param row_num:
-    :param word_2: missing word for the second puzzle
-    :param puzzle_text_2: text for the second puzzle
-    :param letters_missing:
-    :param lessons_learned:
-    :param lessons_learned_dict:
-    :return:
-    """
 
-    letters_missing = str(letters_missing)
-    is_first_scenario = (int(row_num) - 1) % 10 == 0
+    n_missing = str(n_missing).lower()
+
     pages = []
 
-    if lessons_learned:  # if it should include a "lessons learned" page
+    if include_lessons_learned and domain in lessons_learned_dict:
         pages.append({
             "header_text": "Lecciones Aprendidas",  # changed
             "header_icon": "assets/subtitle.png",
@@ -147,7 +130,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
             ]
         })
 
-    if letters_missing.lower() == "all" and is_first_scenario:
+    if n_missing.lower() == "all" and is_first:
         # if all letters missing, and it's the first scenario, add an instructions page
         pages.append({
             "header_text": "Instrucciones",  # changed
@@ -193,9 +176,9 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
         "navigation_conditions": "wait_for_correct"
     })
 
-    if letters_missing in ["1","2"]:
-        pages[-1]["elements"][-1]["missing_letter_count"] = int(letters_missing)
-    elif letters_missing.lower() == "all":
+    if n_missing in ["1","2"]:
+        pages[-1]["elements"][-1]["missing_letter_count"] = int(n_missing)
+    elif n_missing == "all":
         pages[-1]["elements"][-1] = {"type": "Entry", "name": f"{label}_{domain}_entry1" }
 
     if has_value(word_2) and has_value(puzzle_text_2):
@@ -219,12 +202,12 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
             "navigation_conditions": "wait_for_correct"
         })
 
-        if letters_missing in ["1","2"]:
-            pages[-1]["elements"][-1]["missing_letter_count"] = int(letters_missing)
-        elif letters_missing.lower() == "all":
+        if n_missing in ["1","2"]:
+            pages[-1]["elements"][-1]["missing_letter_count"] = int(n_missing)
+        elif n_missing == "all":
             pages[-1]["elements"][-1] = {"type": "Entry", "name": f"{label}_{domain}_entry2" }
 
-    if letters_missing != "all":
+    if n_missing != "all":
         pages.append({
             "header_text": label,
             "header_icon": "assets/subtitle.png",

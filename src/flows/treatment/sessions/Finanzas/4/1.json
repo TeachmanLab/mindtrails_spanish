@@ -1,14 +1,14 @@
 {
-    "header_text": "Planes divertidos",
+    "header_text": "Saludando gente en bibliotecas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Planes divertidos"
+            "text": "Saludando gente en bibliotecas"
         },
         {
             "type": "Media",
-            "url": "./images/Planes_divertidos.jpg"
+            "url": "./images/Saludando_gente_en_bibliotecas.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Expresar tu opinión",
+    "header_text": "Correo electrónico perspicaz",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Expresar tu opinión"
+            "text": "Correo electrónico perspicaz"
         },
         {
             "type": "Media",
-            "url": "./images/Expresar_tu_opinión.jpg"
+            "url": "./images/Correo_electrónico_perspicaz.jpg"
         }
     ]
 }

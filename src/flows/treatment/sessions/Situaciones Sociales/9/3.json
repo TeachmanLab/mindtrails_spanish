@@ -1,27 +1,15 @@
 {
-    "header_text": "Resolver un desacuerdo",
+    "header_text": "Contacto alternativo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu jefe probablemente piensa que..."
+            "text": "Conoces a un nuevo miembro del personal en la reunión en línea de tu departamento y te preguntan si tienes Facebook. Cuando les dices que no tienes Facebook, se callan. Es posible que estén pensando en otras formas de contactarte, lo que te hará sentir..."
         },
         {
-            "type": "Buttons",
-            "name": "Resolver un desacuerdo_Situaciones Sociales_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Eres estupido y incompetente.",
-                "Eres pensativo y recogido."
-            ],
-            "columnCount": 1,
-            "correct_value": "Eres pensativo y recogido."
+            "type": "Entry",
+            "name": "Contacto alternativo_Situaciones Sociales_entry1"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct"
 }

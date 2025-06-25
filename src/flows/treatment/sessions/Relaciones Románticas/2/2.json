@@ -1,20 +1,20 @@
 {
-    "header_text": "Estar de más",
+    "header_text": "Expresar tus sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Dos de tus mejores amigos están casados. Aunque disfrutas pasar tiempo con ellos, no puedes evitar sentirte como si estuvieras de más. Te das cuenta de que pasan tiempo contigo porque ambos piensan que eres..."
+            "text": "Tu pareja te lleva a cenar y están hablando mientras esperan la comida. Mencionan algo que te molesta, pero te preocupa que si les enfrentas al respecto, se enojarán. Finalmente, decides decirles que lo que dijeron te molestó y ellos se..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Estar de más_Relaciones Románticas_puzzle1",
+            "name": "Expresar tus sentimientos_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "agradable"
+                "disculpan"
             ],
             "missing_letter_count": 1
         }

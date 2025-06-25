@@ -1,27 +1,23 @@
 {
-    "header_text": "Mantenerse al día con los amigos",
+    "header_text": "Manejando el estrés",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Como no has estado en contacto, tu amigo probablemente esté pensando..."
+            "text": "Tienes que hacer una presentación para tus compañeros de trabajo hoy. Cuando te pones de pie frente a tus compañeros, sientes que te arden las mejillas y te tiemblan las manos. Crees que estas sensaciones serán..."
         },
         {
-            "type": "Buttons",
-            "name": "Mantenerse al día con los amigos_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Manejando el estrés_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "\"Estoy seguro de que las cosas están muy ocupadas en este momento\".",
-                "\"Supongo que esta amistad no vale mucho\"."
+            "display_delay": 2000,
+            "words": [
+                "manejables"
             ],
-            "columnCount": 1,
-            "correct_value": "\"Supongo que esta amistad no vale mucho\"."
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct"
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "sin aliento",
+    "header_text": "Chistes de compras",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "sin aliento"
+            "text": "Chistes de compras"
         },
         {
             "type": "Media",
-            "url": "./images/sin_aliento.jpg"
+            "url": "./images/Chistes_de_compras.jpg"
         }
     ]
 }

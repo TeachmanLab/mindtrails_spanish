@@ -1,27 +1,15 @@
 {
-    "header_text": "Sensación de noche",
+    "header_text": "Tu primer hijo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Necesitas luchar contra tus sentimientos extraños para que tu ansiedad desaparezca?"
+            "text": "Acabas de tener tu primer hijo. Quieres tener una buena relación durante toda la vida de su hijo, pero te preocupa cometer errores como padre. Cuando tu hijo sea adulto, crees que esa relación será..."
         },
         {
-            "type": "Buttons",
-            "name": "Sensación de noche_Salud Mental_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "type": "Entry",
+            "name": "Tu primer hijo_Salud Mental_entry1"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct"
 }

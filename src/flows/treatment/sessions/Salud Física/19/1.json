@@ -1,14 +1,14 @@
 {
-    "header_text": "Clase de ejercicio con un amigo",
+    "header_text": "Amigo tosiendo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Clase de ejercicio con un amigo"
+            "text": "Amigo tosiendo"
         },
         {
             "type": "Media",
-            "url": "./images/Clase_de_ejercicio_con_un_amigo.jpg"
+            "url": "./images/Amigo_tosiendo.jpg"
         }
     ]
 }

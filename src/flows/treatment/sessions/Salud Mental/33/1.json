@@ -1,11 +1,14 @@
 {
-    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_text": "Revisando tu trabajo",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Text",
-            "text": "Si se siente ansioso o nervioso, pregúntese: \"¿Qué me dice mi cerebro ansioso?\" Una vez que puedas identificar ese pensamiento, pregúntate: \"¿Es esto realista?\""
+            "type": "Label",
+            "text": "Revisando tu trabajo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/Revisando_tu_trabajo.jpg"
         }
     ]
 }

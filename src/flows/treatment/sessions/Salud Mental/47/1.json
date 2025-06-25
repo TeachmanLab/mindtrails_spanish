@@ -1,14 +1,14 @@
 {
-    "header_text": "Revisando tu trabajo",
+    "header_text": "Vaso de agua",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Revisando tu trabajo"
+            "text": "Vaso de agua"
         },
         {
             "type": "Media",
-            "url": "./images/Revisando_tu_trabajo.jpg"
+            "url": "./images/Vaso_de_agua.jpg"
         }
     ]
 }

@@ -1,23 +1,10 @@
 {
-    "header_text": "Mensajes de texto honestos",
+    "header_text": "Araña perdida",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Obtuviste el número de alguien de una aplicación de citas y le has estado enviando mensajes de texto por algunos días. No te sientes muy interesado en ellos, pero hoy te envían un mensaje de texto diciendo que están muy interesados en ti y que quieren encontrarse para una cita y te preocupa que se enojen si rechazas su oferta. Decides ser sincero acerca de no sentir lo mismo y decirles que no ves que tu relación desarolle... "
-        },
-        {
-            "type": "WordPuzzle",
-            "name": "Mensajes de texto honestos_Salud Mental_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "mucho"
-            ],
-            "missing_letter_count": 1
+            "text": "El objetivo de este ejercicio es ayudarle a aprender que hay muchas reacciones diferentes que puede tener en una situación estresante y que no todos estos pensamientos, sentimientos y comportamientos tienen que ser negativos. \n\nDespués de ver algunos pensamientos, se le pedirá que escriba su propio ejemplo de un pensamiento útil que pueda tener en esa situación. Harás lo mismo con los sentimientos y comportamientos. \n\nLa misma situación se presentará varias veces. Esta repetición es intencionada para que puedas practicar pensar en la misma situación de muchas maneras diferentes."
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Listo para trabajar",
+    "header_text": "Gestión de responsabilidades",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Listo para trabajar"
+            "text": "Gestión de responsabilidades"
         },
         {
             "type": "Media",
-            "url": "./images/Listo_para_trabajar.jpg"
+            "url": "./images/Gestión_de_responsabilidades.jpg"
         }
     ]
 }

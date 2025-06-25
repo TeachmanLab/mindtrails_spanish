@@ -1,27 +1,15 @@
 {
-    "header_text": "Un regalo casero",
+    "header_text": "Fin de semana largo solo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tu amigo está triste porque no le trajiste un regalo?"
+            "text": "Tienes libre el lunes por un feriado y sabes que la gente hará planes para el fin de semana largo. Después de que un amigo cercano te dijo que estaban fuera de la ciudad durante el fin de semana, te das cuenta de que no tienes a nadie con quien pasar el fin de semana largo. Esto te hace optimista acerca de hacer nuevos amigos la próxima..."
         },
         {
-            "type": "Buttons",
-            "name": "Un regalo casero_Situaciones Sociales_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "type": "Entry",
+            "name": "Fin de semana largo solo_Situaciones Sociales_entry1"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct"
 }

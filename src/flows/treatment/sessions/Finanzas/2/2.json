@@ -1,20 +1,20 @@
 {
-    "header_text": "Factura por una reparación",
+    "header_text": "Ingresos adicionales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu techo tiene una fuga, y agua entra en la casa cada vez que llueve. Piensas que va a ser caro contratar a alguien para arreglarlo. Al pensar en pagar la factura para arreglar el techo, sientes que estarás... "
+            "text": "Recientemente te has sentido abrumado con el trabajo, pero sabes que necesitas conseguir un segundo trabajo para estar en una situación financiera más estable. Mientras buscabas trabajo en línea, viste un solicitud para un trabajo que suena muy divertido para ti. Piensas que trabajar este segundo trabajo será... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Factura por una reparación_Finanzas_puzzle1",
+            "name": "Ingresos adicionales_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "bien"
+                "manejable"
             ],
             "missing_letter_count": 1
         }

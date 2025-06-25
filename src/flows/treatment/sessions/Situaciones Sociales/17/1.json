@@ -1,14 +1,14 @@
 {
-    "header_text": "Exposición reciente",
+    "header_text": "Conexión perdida",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Exposición reciente"
+            "text": "Conexión perdida"
         },
         {
             "type": "Media",
-            "url": "./images/Exposición_reciente.jpg"
+            "url": "./images/Conexión_perdida.jpg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Costear los gastos",
+    "header_text": "Planes de cena",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Costear los gastos"
+            "text": "Planes de cena"
         },
         {
             "type": "Media",
-            "url": "./images/Costear_los_gastos.jpg"
+            "url": "./images/Planes_de_cena.jpg"
         }
     ]
 }

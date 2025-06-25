@@ -1,20 +1,20 @@
 {
-    "header_text": "Poniendo la preparación a prueba",
+    "header_text": "Presentación de recaudación de fondos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes una presentación importante hoy. Has estado trabajando duro en ello porque es un requisito para tu trabajo. Cuando comienzas la presentación, te sientes..."
+            "text": "Te ponen a cargo de los esfuerzos de recaudación de fondos de tu oficina y rápidamente te das cuenta de que a tus compañeros de trabajo no les interesa mucho la recaudación de fondos. En una reunión, das una presentación sobre la importancia de ayudar con la recaudación de fondos, durante la cual tus compañeros de trabajo permanecen callados. Cuando te sientas después de tu presentación, piensas que parecían..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Poniendo la preparación a prueba_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "name": "Presentación de recaudación de fondos_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "preparado"
+                "emocionados"
             ],
             "missing_letter_count": 1
         }

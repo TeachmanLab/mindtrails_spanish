@@ -1,23 +1,23 @@
 {
-    "header_text": "Costear los gastos",
+    "header_text": "Planes de cena",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Asumir los turnos adicionales..."
+            "text": "¿Perderte la cena te hace sentir mal?"
         },
         {
             "type": "Buttons",
-            "name": "Costear los gastos_Finanzas_comp_question",
+            "name": "Planes de cena_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "significará que ahorrarás lo suficiente para pagar el alquiler.",
-                "Aún te dejará corto y te retrasarás en el pago del alquiler."
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "significará que ahorrarás lo suficiente para pagar el alquiler."
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

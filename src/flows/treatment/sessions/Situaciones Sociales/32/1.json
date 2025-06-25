@@ -1,14 +1,14 @@
 {
-    "header_text": "Un trago de agua",
+    "header_text": "Celebraciones culturales familiares",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Un trago de agua"
+            "text": "Celebraciones culturales familiares"
         },
         {
             "type": "Media",
-            "url": "./images/Un_trago_de_agua.jpg"
+            "url": "./images/Celebraciones_culturales_familiares.jpg"
         }
     ]
 }

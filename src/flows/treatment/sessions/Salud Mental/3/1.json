@@ -1,14 +1,14 @@
 {
-    "header_text": "Lunes por la mañana",
+    "header_text": "Tomar un descanso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Lunes por la mañana"
+            "text": "Tomar un descanso"
         },
         {
             "type": "Media",
-            "url": "./images/Lunes_por_la_mañana.jpg"
+            "url": "./images/Tomar_un_descanso.jpg"
         }
     ]
 }

@@ -1,14 +1,12 @@
 {
-    "header_text": "Devolución de chaqueta",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
-            "type": "Label",
-            "text": "Devolución de chaqueta"
-        },
-        {
-            "type": "Media",
-            "url": "./images/Devolución_de_chaqueta.jpg"
+            "type": "Text",
+            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
         }
     ]
 }

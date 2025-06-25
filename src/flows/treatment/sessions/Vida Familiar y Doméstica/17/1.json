@@ -1,14 +1,14 @@
 {
-    "header_text": "Yendo de vacaciones",
+    "header_text": "Nueva oportunidad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Yendo de vacaciones"
+            "text": "Nueva oportunidad"
         },
         {
             "type": "Media",
-            "url": "./images/Yendo_de_vacaciones.jpg"
+            "url": "./images/Nueva_oportunidad.jpg"
         }
     ]
 }

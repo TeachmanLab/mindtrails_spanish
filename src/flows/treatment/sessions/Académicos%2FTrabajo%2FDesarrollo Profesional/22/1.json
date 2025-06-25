@@ -1,11 +1,14 @@
 {
-    "header_text": "Maneja tus sentimientos: Académicos/Trabajo/Desarrollo Profesional",
+    "header_text": "Juzgando tu desempeño",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
-            "type": "Text",
-            "text": "Si ha pospuesto una tarea porque le parece abrumadora, intente dividirla en pasos más pequeños y manejables."
+            "type": "Label",
+            "text": "Juzgando tu desempeño"
+        },
+        {
+            "type": "Media",
+            "url": "./images/Juzgando_tu_desempeño.jpg"
         }
     ]
 }

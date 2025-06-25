@@ -1,23 +1,14 @@
 {
-    "header_text": "Pago de reparaciones",
+    "header_text": "Ingresos adicionales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Tu coche necesita reparaciones costosas. Tienes ahorros, pero eres reacio a usarlos. Cuando pague las reparaciones del coche, estará... "
+            "type": "Label",
+            "text": "Ingresos adicionales"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Pago de reparaciones_Finanzas_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "bien"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/Ingresos_adicionales.jpg"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

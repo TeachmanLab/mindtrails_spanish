@@ -1,27 +1,23 @@
 {
-    "header_text": "Futuras amistades",
+    "header_text": "Saludando gente en bibliotecas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Piensas que seguirás siendo cercano a tus amigos actuales en el futuro?"
+            "text": "Te das cuenta de que podrían estar yendo a terminar algún trabajo juntos. Esto te hace sentir..."
         },
         {
-            "type": "Buttons",
-            "name": "Futuras amistades_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Saludando gente en bibliotecas_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "mejor"
             ],
-            "columnCount": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct"
 }

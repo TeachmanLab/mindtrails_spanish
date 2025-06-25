@@ -1,23 +1,23 @@
 {
-    "header_text": "Puerta con seguro",
+    "header_text": "Confiar en ti mismo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Durante el resto del camino te sientes..."
+            "text": "¿Crees que eres tonto porque cometiste un error?"
         },
         {
             "type": "Buttons",
-            "name": "Puerta con seguro_Salud Mental_comp_question",
+            "name": "Confiar en ti mismo_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Tranquilo y relajado cuando llegas al trabajo.",
-                "Preocupado de que hayas dejado la puerta de tu casa sin seguro."
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "Tranquilo y relajado cuando llegas al trabajo."
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

@@ -1,0 +1,23 @@
+{
+    "header_text": "Visitando familia",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": " Se acerca un fin de semana largo y habías planeado visitar a tu familia. Esta mañana, te das cuenta de que estuviste expuesto a alguien con COVID. Estás vacunado, pero no estás seguro del riesgo de contraer COVID y posiblemente transmitírselo a tu familia. Piensas que tu familia entenderá si decides no ir a visitarlos para... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Visitando familia_Vida Familiar y Doméstica_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "protegerlos"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}
