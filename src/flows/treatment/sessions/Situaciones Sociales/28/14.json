@@ -1,7 +1,6 @@
 {
     "header_text": "Recurso: Situaciones Sociales",
     "header_icon": "assets/subtitle.png",
-    "name": "Acceso Latino",
     "elements": [
         {
             "type": "Text",

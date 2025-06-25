@@ -1,7 +1,6 @@
 {
     "header_text": "Recurso: Salud Física",
     "header_icon": "assets/subtitle.png",
-    "name": "Alianza Nacional para la Salud Hispana",
     "elements": [
         {
             "type": "Text",

@@ -1,7 +1,6 @@
 {
     "header_text": "Recurso: Salud Física",
     "header_icon": "assets/subtitle.png",
-    "name": "Oficina para la Salud de la Mujer",
     "elements": [
         {
             "type": "Text",

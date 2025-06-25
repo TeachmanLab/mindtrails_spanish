@@ -1,7 +1,6 @@
 {
     "header_text": "Recurso: Finanzas",
     "header_icon": "assets/subtitle.png",
-    "name": "Money Smart de la FDIC",
     "elements": [
         {
             "type": "Text",

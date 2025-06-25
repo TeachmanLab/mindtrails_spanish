@@ -6,7 +6,7 @@ from itertools import islice
 
 from helpers_utilities import clean_up_unicode, has_value, is_yesno, is_int, shuffle, lower
 
-random.seed(1) #give a fixed seed so that diffs don't make it look like we changed a lot every time we generate
+random.seed(1) #give a fixed seed so that diffs don't make it look like we changed things every time we generate
 
 dir_root = "./make"
 dir_csv  = f"{dir_root}/CSV"
@@ -249,7 +249,6 @@ def create_resource_page(resources_lookup, tips, ER_lookup, domain):
         text = f"{label}\n\n{text}"
 
         title = f"Recurso: {domain}"# changed
-        name =  label
         input  = None
 
     if resource_type == "Tip":
@@ -257,7 +256,6 @@ def create_resource_page(resources_lookup, tips, ER_lookup, domain):
         tips.append([label,text])  # adding that tip back to the end of the list
 
         title = "Aplicar a la vida diaria: ¡Haz que funcione para ti!"  # changed
-        name  = "¡Consejo para aplicar!" # changed
         input = {"type": "Entry", "name": f"{label}_entry"}
 
     if resource_type == "ER Strategy":
@@ -265,13 +263,12 @@ def create_resource_page(resources_lookup, tips, ER_lookup, domain):
         ER_lookup[domain].append([label,text])  # adding it back to the end of the list of lists
 
         title = f"Maneja tus sentimientos: {domain}" # domain name  # changed
-        name  = "Consejo para la regulación de las emociones"  # changed
         input = None
 
     text = { "type": "Text", "text": text }
     elements = [text,input] if input else [text]
 
-    return {"header_text": title, "header_icon": "assets/subtitle.png", "name": name, "elements": elements }
+    return {"header_text": title, "header_icon": "assets/subtitle.png", "elements": elements }
 
 def create_discrimination_page(conditions, text, items, input_1,
                                input_name, title):

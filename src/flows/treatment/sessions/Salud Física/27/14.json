@@ -1,7 +1,6 @@
 {
     "header_text": "Recurso: Salud Física",
     "header_icon": "assets/subtitle.png",
-    "name": "División de Nutrición, Actividad Física y Obesidad (DNPAO) de los CDC",
     "elements": [
         {
             "type": "Text",

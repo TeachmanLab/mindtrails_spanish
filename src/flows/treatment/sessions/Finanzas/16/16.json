@@ -1,7 +1,6 @@
 {
     "header_text": "Recurso: Finanzas",
     "header_icon": "assets/subtitle.png",
-    "name": "Deudores Anónimos",
     "elements": [
         {
             "type": "Text",

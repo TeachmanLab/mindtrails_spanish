@@ -1,7 +1,6 @@
 {
     "header_text": "Maneja tus sentimientos: Finanzas",
     "header_icon": "assets/subtitle.png",
-    "name": "Consejo para la regulación de las emociones",
     "elements": [
         {
             "type": "Text",

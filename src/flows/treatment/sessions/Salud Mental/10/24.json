@@ -1,7 +1,6 @@
 {
     "header_text": "Recurso: Salud Mental",
     "header_icon": "assets/subtitle.png",
-    "name": "Yana app",
     "elements": [
         {
             "type": "Text",
