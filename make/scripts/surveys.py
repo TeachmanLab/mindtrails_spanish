@@ -86,7 +86,7 @@ folders = {
 
 # Delete old JSON
 for key in folders.keys():
-    shutil.rmtree(f"{dir_out}/{key.split('/')[0]}/{key.split('/')[1]}",ignore_errors=True)
+    shutil.rmtree(f"{dir_out}/{str.join('/',key.split('/')[:2])}",ignore_errors=True)
 
 # Write new JSON
 write_output(dir_out, folders)
