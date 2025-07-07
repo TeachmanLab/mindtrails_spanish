@@ -1,13 +1,14 @@
 {
+    "header_text": "Atención en una tienda",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "¡Presione play en el video de entrenamiento a continuación para obtener más información!"
+            "type": "Label",
+            "text": "Atención en una tienda"
         },
         {
             "type": "Media",
-            "url": "/videos/video2.mp4",
-            "border": true
+            "url": "./images/frames.jpg"
         }
     ]
 }

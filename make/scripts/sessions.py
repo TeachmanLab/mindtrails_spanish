@@ -46,20 +46,6 @@ def _create_practice_pages():
                                                     correct_answer=answer, word_2=puzzle2[1],
                                                     puzzle_text_2=puzzle2[0], image_url=image_url,
                                                     is_first=scenario_num==0)
-
-            if scenario_num == 0:
-                make_it_your_own_text =  ("Queremos que MindTrails Español satisfaga sus necesidades. Cuando complete "
-                                          "sesiones de capacitación en la aplicación o buscar recursos en "
-                                          "biblioteca de recursos bajo demanda, verá un botón que parece "
-                                          "como una estrella en la esquina superior derecha de la pantalla. Por "
-                                          "haciendo clic en la estrella, puedes agregar la información que más te parezca "
-                                          "útil (por ejemplo, historias cortas, consejos para controlar el estrés) para su "
-                                          "propia página personal de Favoritos. Luego podrás volver a visitar tu favorito "
-                                          "partes de la aplicación cuando quieras eligiendo Favoritos "
-                                          "¡mosaico de la página de inicio de MindTrails Español!")  # changed
-
-                yield create_survey_page(text=make_it_your_own_text, title="¡Hazlo tuyo!")  # changed
-
             scenario_num += 1
 
 def _create_survey_page(row):
