@@ -16,9 +16,9 @@
             "name": "prescriptions_helpful"
         }
     ],
-    "condition": {
-        "variable": "HelpReceived",
-        "comparator": "=",
-        "value": "Prescripción"
-    }
+    "condition": [
+        "HelpReceived",
+        "=",
+        "Prescripción"
+    ]
 }

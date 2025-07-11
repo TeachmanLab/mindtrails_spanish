@@ -16,12 +16,12 @@
             "name": "imagery_anxiety"
         }
     ],
-    "condition": {
-        "variable": "StressLevel",
-        "comparator": "in",
-        "value": [
+    "condition": [
+        "StressLevel",
+        "in",
+        [
             6,
             7
         ]
-    }
+    ]
 }

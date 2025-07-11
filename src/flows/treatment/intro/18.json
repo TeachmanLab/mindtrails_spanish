@@ -16,9 +16,9 @@
             "name": "OTC_meds_helpful"
         }
     ],
-    "condition": {
-        "variable": "HelpReceived",
-        "comparator": "=",
-        "value": "De Venta Libre"
-    }
+    "condition": [
+        "HelpReceived",
+        "=",
+        "De Venta Libre"
+    ]
 }

@@ -24,9 +24,9 @@
             "name": "length_anxiety_symptoms"
         }
     ],
-    "condition": {
-        "variable": "anxiety_or_depression",
-        "comparator": "=",
-        "value": "Si"
-    }
+    "condition": [
+        "anxiety_or_depression",
+        "=",
+        "Si"
+    ]
 }

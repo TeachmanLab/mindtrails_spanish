@@ -16,9 +16,9 @@
             "name": "self-guided_helpful"
         }
     ],
-    "condition": {
-        "variable": "HelpReceived",
-        "comparator": "=",
-        "value": "Autoayuda"
-    }
+    "condition": [
+        "HelpReceived",
+        "=",
+        "Autoayuda"
+    ]
 }

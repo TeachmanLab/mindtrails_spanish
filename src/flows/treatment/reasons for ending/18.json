@@ -21,9 +21,9 @@
             "name": "interest_in_therapy"
         }
     ],
-    "condition": {
-        "variable": "RFE_anxiety_depression",
-        "comparator": "=",
-        "value": "Si"
-    }
+    "condition": [
+        "RFE_anxiety_depression",
+        "=",
+        "Si"
+    ]
 }

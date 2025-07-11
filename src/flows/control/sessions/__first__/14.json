@@ -16,9 +16,9 @@
             "name": "therapy_helpful"
         }
     ],
-    "condition": {
-        "variable": "HelpReceived",
-        "comparator": "=",
-        "value": "Terapia"
-    }
+    "condition": [
+        "HelpReceived",
+        "=",
+        "Terapia"
+    ]
 }

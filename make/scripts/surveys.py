@@ -32,7 +32,7 @@ def _create_survey_page(row):
     timeout = row[12]
     show_buttons = row[13]
     variable_name = row[16]
-    conditions = row[17].split('; ')
+    conditions = row[17]
     input_name = row[18]
 
     return create_survey_page(conditions=conditions, text=text,

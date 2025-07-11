@@ -16,9 +16,9 @@
             "name": "other_helpful"
         }
     ],
-    "condition": {
-        "variable": "HelpReceived",
-        "comparator": "=",
-        "value": "Otro"
-    }
+    "condition": [
+        "HelpReceived",
+        "=",
+        "Otro"
+    ]
 }

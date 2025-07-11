@@ -88,7 +88,7 @@ def create_long_pages(label, scenario_description, image_url, thoughts, feelings
     with open(f"{dir_csv}/Spanish htc_long_scenarios_structure.csv","r", encoding="utf-8") as csvfile:
         for row in islice(csv.reader(csvfile),1,None):
 
-            input_1, is_image, timeout = row[6].lower(), row[10].lower() == "true", row[13]
+            input_1, is_image, timeout = lower(row[6]), lower(row[10]) == "true", row[13]
 
             title = row[0].replace("[Scenario_Name]", label)
             descr = clean_up_unicode(row[4].replace("[Scenario_Description]", scenario_description))
@@ -125,7 +125,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                           puzzle_text_2=None, n_missing=1, include_lessons_learned=False,
                           lessons_learned_dict=None):
 
-    n_missing = str(n_missing).lower()
+    n_missing = lower(str(n_missing))
 
     pages = []
 
@@ -139,7 +139,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
             ]
         })
 
-    if n_missing.lower() == "all" and is_first:
+    if n_missing == "all" and is_first:
         # if all letters missing, and it's the first scenario, add an instructions page
         pages.append({
             "header_text": "Instrucciones",  # changed
@@ -328,13 +328,16 @@ def create_survey_page(text=None, media=None, image_framed=None, items=None, inp
     """
 
     textinput  = {"type": "Text", "text": text} if has_value(text) else None
-    mediainput = {"type": "Media", "url": media, "border": lower(image_framed) == "true"} if media else None
+    mediainput = {"type": "Media", "url": lower(media), "border": lower(image_framed) == "true"} if media else None
 
     input1 = create_input(input_1, items, minimum, maximum)
     input2 = create_input(input_2, items, minimum, maximum)
 
-    if input1 and input_name: input1["name"] = input_name if input_1 != 'Scheduler' else 'schedule_session'
-    if input2 and input_name: input2["name"] = input_name if input_2 != 'Scheduler' else 'schedule_session'
+    if lower(input_1) == "scheduler": input1["name"] = 'schedule_session'
+    if lower(input_2) == "scheduler": input2["name"] = 'schedule_session'
+
+    if input1 and input_name: input1["name"] = input_name
+    if input2 and input_name: input2["name"] = input_name
 
     if variable_name and     input1            : input1["variable_name"] = variable_name
     if variable_name and not input1 and input2 : input2["variable_name"] = variable_name

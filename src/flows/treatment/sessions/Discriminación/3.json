@@ -8,12 +8,12 @@
         },
         {
             "type": "Entry",
-            "name": "journal_entry_discrimination "
+            "name": "journal_entry_discrimination"
         }
     ],
-    "condition": {
-        "variable": "Discrimination",
-        "comparator": "=",
-        "value": "Diario"
-    }
+    "condition": [
+        "Diario",
+        "in",
+        "Selected_Support"
+    ]
 }
