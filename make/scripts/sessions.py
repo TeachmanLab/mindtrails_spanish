@@ -62,7 +62,7 @@ def _create_survey_page(row):
     timeout = row[12]
     show_buttons = row[13]
     variable_name = row[16]
-    conditions = row[17].split('; ')
+    conditions = row[17]
     input_name = row[18]
 
     return create_survey_page(conditions=conditions, text=text,
@@ -227,17 +227,16 @@ def create_discrimination_session(pop):
     pages = []
     with open(f"{dir_csv}/Discrimination.csv", "r", encoding="utf-8") as f:
         for row in islice(csv.reader(f),1,None):
-            title, input_1, population, input_name = row[0], row[2], row[3], row[15]
-            items, conditions = row[7], row[14].split('; ')
+            title, text, input_1, var_name, input_name = row[0], row[1], row[2], row[13], row[15]
+            items, conditions = row[7], row[14]
             text = f'Vaya a la libreria de recursos disponibles los enlaces a estos recursos.\n\n{clean_up_unicode(row[1])}' #changed
-
-            if pop not in population: continue  # checking if it corresponds to the group we're dealing with
 
             pages.append(create_discrimination_page(conditions=conditions,
                                                     text=text,
                                                     items=items,
                                                     input_1=input_1,
                                                     input_name=input_name,
+                                                    variable_name=var_name,
                                                     title=title))
 
     return pages

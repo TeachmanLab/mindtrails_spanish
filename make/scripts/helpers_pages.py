@@ -12,11 +12,20 @@ dir_root = "./make"
 dir_csv  = f"{dir_root}/CSV"
 
 def create_conditions(args):
+    if args: args = args.split(';')
     if args == [''] or not args: return {}
-    variable, value = [a.strip() for a in args]
-    if ',' in value: value = [int(v) for v in value.split(",") if is_int(v)]
-    comparison = "=" if not isinstance(value,list) else "in"
-    return { "condition": { "variable": variable, "comparator": comparison, "value": value } }
+    
+    args = [a.strip() for a in args]
+    
+    if len(args) == 3:
+        left,comparison,right = args
+
+    if len(args) == 2:
+        left, right = args
+        if ',' in right: right = [int(v) for v in right.split(",") if is_int(v)]
+        comparison = "=" if not isinstance(right,list) else "in"
+
+    return { "condition": [ left, comparison, right ] }
 
 def create_nav_conditions(buttons:Literal["WhenCorrect","AfterTimeout","Never","WhenComplete"]=None,timeout=None,inputs=None):
     buttons = lower(buttons)
@@ -270,12 +279,13 @@ def create_resource_page(resources_lookup, tips, ER_lookup, domain):
 
     return {"header_text": title, "header_icon": "assets/subtitle.png", "elements": elements }
 
-def create_discrimination_page(conditions, text, items, input_1,
-                               input_name, title):
+def create_discrimination_page(conditions, text, items, input_1, input_name, variable_name, title):
 
     text = {"type": "Text", "text": text}
     input = create_input(input_1, items)
-    if input: input["name"] = input_name
+
+    if input and input_name: input["name"] = input_name
+    if input and variable_name: input["variable_name"] = variable_name
 
     elements = [text,input] if input else [text]
     page = {
@@ -323,11 +333,11 @@ def create_survey_page(text=None, media=None, image_framed=None, items=None, inp
     input1 = create_input(input_1, items, minimum, maximum)
     input2 = create_input(input_2, items, minimum, maximum)
 
-    if input1: input1["name"] = input_name if input_1 != 'Scheduler' else 'schedule_session'
-    if input2: input2["name"] = input_name if input_2 != 'Scheduler' else 'schedule_session'
+    if input1 and input_name: input1["name"] = input_name if input_1 != 'Scheduler' else 'schedule_session'
+    if input2 and input_name: input2["name"] = input_name if input_2 != 'Scheduler' else 'schedule_session'
 
-    if variable_name and input1: input1["variable_name"] = variable_name
-    if variable_name and input2: input2["variable_name"] = variable_name
+    if variable_name and     input1            : input1["variable_name"] = variable_name
+    if variable_name and not input1 and input2 : input2["variable_name"] = variable_name
 
     page = {
         "header_text": title,
