@@ -1,0 +1,14 @@
+{
+    "header_text": "Financiar buenos hábitos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Financiar buenos hábitos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/297.jpg"
+        }
+    ]
+}

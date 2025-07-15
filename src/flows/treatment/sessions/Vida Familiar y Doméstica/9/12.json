@@ -1,0 +1,15 @@
+{
+    "header_text": "Presentando a tus amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Invitaste a tu cónyuge a encontrarse con tus amigos del trabajo esta noche. Sabes que a menudo pueden contar historias vergonzosas sobre ti a otras personas. Piensas en lo que van a hacer esta noche y te sientes..."
+        },
+        {
+            "type": "Entry",
+            "name": "Presentando a tus amigos_Vida Familiar y Doméstica_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

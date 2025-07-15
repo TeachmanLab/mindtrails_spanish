@@ -1,0 +1,11 @@
+{
+    "header_text": "Desempleo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "html": true,
+            "text": "<b><font color=\"#9769ED\" size=6>CareerOneStop: Reempleo del trabajador</font></b>\n               <br/><br/>El portal de reempleo del trabajador incluye información estatal, capacitaciones, ayuda con la búsqueda de empleo, y más beneficios.<br/><br/>\n               <a href=\"https://www.careeronestop.org/Site/worker-reemployment.aspx?&frd=true&lang=es\">https://www.careeronestop.org/Site/worker-reemployment.aspx?&frd=true&lang=es</a>"
+        }
+    ]
+}

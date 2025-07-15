@@ -1,0 +1,19 @@
+{
+    "header_text": "El viaje de compras",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Estás comprando solo?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "selectable": true,
+            "name": "IBM_shopping"
+        }
+    ]
+}

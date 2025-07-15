@@ -1,0 +1,14 @@
+{
+    "header_text": "Amgio del trabajo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Amgio del trabajo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/232.jpg"
+        }
+    ]
+}

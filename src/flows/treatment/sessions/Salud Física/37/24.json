@@ -1,0 +1,14 @@
+{
+    "header_text": "Película intermitente",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Película intermitente"
+        },
+        {
+            "type": "Media",
+            "url": "./images/390.jpg"
+        }
+    ]
+}

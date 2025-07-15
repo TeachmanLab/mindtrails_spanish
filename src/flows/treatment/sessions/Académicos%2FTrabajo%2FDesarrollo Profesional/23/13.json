@@ -1,0 +1,15 @@
+{
+    "header_text": "Comprometerse con las actividades",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te das cuenta de que volver a estar en persona es un ajuste y te llevará algún tiempo acostumbrarte al ajetreo de un semestre en persona. Piensas que con todo lo que estás pasando estás haciendo un gran..."
+        },
+        {
+            "type": "Entry",
+            "name": "Comprometerse con las actividades_Académicos/Trabajo/Desarrollo Profesional_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

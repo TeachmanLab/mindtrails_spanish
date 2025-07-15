@@ -1,0 +1,15 @@
+{
+    "header_text": "Una lectura larga",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Se te ha asignado una tarea y te esfuerzas mucho para asegurarte de que sea exhaustiva. El trabajo es bastante difícil. Cuando tu supervisor te vea, crees que juzgará tus esfuerzos como..."
+        },
+        {
+            "type": "Entry",
+            "name": "Una lectura larga_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

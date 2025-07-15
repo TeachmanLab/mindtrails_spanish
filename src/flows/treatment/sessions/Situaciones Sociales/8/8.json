@@ -1,0 +1,14 @@
+{
+    "header_text": "Comparación de puntuaciones en redes sociales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comparación de puntuaciones en redes sociales"
+        },
+        {
+            "type": "Media",
+            "url": "./images/490.jpg"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "header_text": "Maquinas apagadas: Sentimientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tú y tu familia van a salir de la ciudad por unos días y tu pareja te pide que revises que todos los electrodomésticos de tu casa estén apagados antes de partir. Tenías que apresurarte a hacer las maletas, así que no pudiste comprobarlo todo. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Me siento culpable por no volver a comprobarlo todo, pero me recuerdo a mí mismo que comprobarlo una vez fue suficiente.",
+                "Estoy seguro de que todo estaba cerrado.",
+                "Tengo miedo de haberme perdido algo y luego me concentro suavemente en lo que está sucediendo en el auto.",
+                "Me siento emocionado por el viaje.",
+                "Me preocupa que se haya dejado algún electrodoméstico encendido."
+            ],
+            "Duration": 15
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "header_text": "Ahorrando dinero",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Al pensar en reducir tus gastos, no te imaginas gastando demasiado otra vez, y crees que ahorrar lo suficiente para tu viaje es..."
+        },
+        {
+            "type": "Entry",
+            "name": "Ahorrando dinero_Finanzas_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

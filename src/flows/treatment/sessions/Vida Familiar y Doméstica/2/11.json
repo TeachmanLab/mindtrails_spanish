@@ -1,0 +1,14 @@
+{
+    "header_text": "Un hallazgo afortunado",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Un hallazgo afortunado"
+        },
+        {
+            "type": "Media",
+            "url": "./images/140.jpg"
+        }
+    ]
+}

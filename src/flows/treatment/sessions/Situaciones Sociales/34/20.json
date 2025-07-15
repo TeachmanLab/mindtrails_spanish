@@ -1,0 +1,14 @@
+{
+    "header_text": "Almuerzo con un amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Almuerzo con un amigo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/547.jpg"
+        }
+    ]
+}

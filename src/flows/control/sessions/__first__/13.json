@@ -1,0 +1,27 @@
+{
+    "header_text": "Cuestionario de tratamiento y salud mental",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Recibes actualmente alguna ayuda por temas relacionados con la salud mental? Seleccione todo lo que corresponda o \"No recibo ayuda\"."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Terapia::Terapia (hablar con un profesional capacitado)\n\nEjemplos: psicólogo, profesional de salud mental autorizado (LMHC), consejero escolar, trabajador social, terapeuta matrimonial y familiar, terapeuta de grupo",
+                "Receta:: Medicamentos recetados\n\nEjemplos: psiquiatra, médico",
+                "Social::Buscar apoyo social (hablar con personas no profesionales)\n\nEjemplos: maestro, familiar, amigo, líder religioso, entrenador",
+                "SelfHelp::Ayuda autoguiada\n\nEjemplos: libros de autoayuda, blogs, intervención en línea (que no sean MindTrails Espanol), aplicaciones móviles",
+                "OTC::Medicamentos y/o suplementos sin receta",
+                "^Ninguno::No recibo ayuda",
+                "^NoAnswer::Prefiero no responder",
+                "!Otro otro:"
+            ],
+            "selectable": true,
+            "multi_select": true,
+            "name": "help",
+            "variable_name": "HelpReceived"
+        }
+    ]
+}

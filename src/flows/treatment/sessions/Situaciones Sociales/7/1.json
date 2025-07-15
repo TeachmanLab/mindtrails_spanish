@@ -1,0 +1,14 @@
+{
+    "header_text": "Entrando a una discoteca",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Entrando a una discoteca"
+        },
+        {
+            "type": "Media",
+            "url": "./images/485.jpg"
+        }
+    ]
+}

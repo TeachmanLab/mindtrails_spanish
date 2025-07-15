@@ -1,0 +1,23 @@
+{
+    "header_text": "Completando trabajos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "En tu trabajo, las tareas se han acumulado recientemente, y tenías planeado aprovechar el fin de semana para ponerlas al día. sin embargo, tu amigo te recordó de un evento este fin de semana al que te comprometiste, y sería grosero cancelar en el último minuto. Piensas que será posible completar tu..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Completando trabajos_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "trabajo"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

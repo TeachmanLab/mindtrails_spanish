@@ -1,0 +1,14 @@
+{
+    "header_text": "Compromisos equilibrados",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Compromisos equilibrados"
+        },
+        {
+            "type": "Media",
+            "url": "./images/289.jpg"
+        }
+    ]
+}

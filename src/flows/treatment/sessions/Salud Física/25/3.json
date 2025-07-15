@@ -1,0 +1,14 @@
+{
+    "header_text": "El dolor de muelas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "El dolor de muelas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/413.jpg"
+        }
+    ]
+}

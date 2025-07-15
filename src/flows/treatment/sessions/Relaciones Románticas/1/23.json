@@ -1,0 +1,14 @@
+{
+    "header_text": "Priorización de responsabilidades",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Priorización de responsabilidades"
+        },
+        {
+            "type": "Media",
+            "url": "./images/180.jpg"
+        }
+    ]
+}

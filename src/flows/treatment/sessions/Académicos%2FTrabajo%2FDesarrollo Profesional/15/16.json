@@ -1,0 +1,14 @@
+{
+    "header_text": "Completando trabajos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Completando trabajos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/82.jpg"
+        }
+    ]
+}

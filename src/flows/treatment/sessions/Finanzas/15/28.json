@@ -1,0 +1,14 @@
+{
+    "header_text": "Estabilidad laboral",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Estabilidad laboral"
+        },
+        {
+            "type": "Media",
+            "url": "./images/266.jpg"
+        }
+    ]
+}

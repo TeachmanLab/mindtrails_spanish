@@ -1,0 +1,14 @@
+{
+    "header_text": "Tu mejor amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tu mejor amigo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/507.jpg"
+        }
+    ]
+}

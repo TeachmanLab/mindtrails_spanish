@@ -1,0 +1,14 @@
+{
+    "header_text": "Pidiendo dinero",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Pidiendo dinero"
+        },
+        {
+            "type": "Media",
+            "url": "./images/254.jpg"
+        }
+    ]
+}

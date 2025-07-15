@@ -1,0 +1,14 @@
+{
+    "header_text": "Esta reunión",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Esta reunión"
+        },
+        {
+            "type": "Media",
+            "url": "./images/1.jpg"
+        }
+    ]
+}

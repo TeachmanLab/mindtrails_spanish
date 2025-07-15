@@ -1,0 +1,14 @@
+{
+    "header_text": "Corte de dedo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Corte de dedo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/380.jpg"
+        }
+    ]
+}

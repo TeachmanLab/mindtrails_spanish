@@ -1,0 +1,25 @@
+{
+    "header_text": "Conocer a alguien nuevo: Comportamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "En una fiesta de trabajo, tu amigo te presenta a un amigo suyo atractivo que no habías conocido antes. A la manana siguiente, notas que te enviaron un correo electrónico.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Hablo con mi amigo sobre lo emocionado que estoy.",
+                "Hago una broma en mi respuesta.",
+                "Quiero preguntarles por qué me enviaron un correo electrónico, pero decido simplemente ver cómo se desarrollan las cosas.",
+                "Ignoro su correo electrónico porque estoy ansioso por responder.",
+                "Me pone nervioso enviar la respuesta perfecta, pero decido ser yo mismo."
+            ],
+            "Duration": 15
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

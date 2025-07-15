@@ -1,0 +1,22 @@
+{
+    "header_text": "Conociendo a un amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "CONOCER A UN AMIGO: Llegas un poco tarde y...\n\nPide tu snack favorito."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Muy diferente",
+                "Diferente",
+                "Similar",
+                "Muy similar",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "IBM_friend_interpretation_1"
+        }
+    ]
+}

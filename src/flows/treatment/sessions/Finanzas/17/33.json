@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Finanzas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cada semana, disfrute de una actividad divertida que no requiera dinero, como salir a caminar."
+        }
+    ]
+}

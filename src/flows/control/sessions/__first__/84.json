@@ -1,0 +1,23 @@
+{
+    "header_text": "Escala de ansiedad",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Durante la semana pasada, ¿en qué medida interfirió su ansiedad con su capacidad para hacer las cosas que necesitaba hacer en el trabajo, en la escuela o en casa?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Ninguno: No hay interferencia en el trabajo/hogar/escuela debido a la ansiedad",
+                "Leve: Mi ansiedad ha causado alguna interferencia en el trabajo/casa/escuela. Las cosas son más difíciles, pero aún se está haciendo todo lo que hay que hacer",
+                "Moderada: Mi ansiedad definitivamente interfiere con las tareas. La mayoría de las cosas todavía se están haciendo, pero pocas se están haciendo tan bien como en el pasado.",
+                "Grave: Mi ansiedad realmente ha cambiado debido a mi capacidad para hacer las cosas. Algunas tareas todavía se están haciendo, pero muchas cosas no. Mi desempeno definitivamente se ha visto afectado.",
+                "Extremo: Mi ansiedad se ha vuelto incapacitante. No he podido completar tareas y he tenido que dejar la escuela, he renunciado o me han despedido de mi trabajo, o no he podido completar tareas en casa y he enfrentado consecuencias como cobradores, desalojo, etc.",
+                "^Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "OASIS_work"
+        }
+    ]
+}

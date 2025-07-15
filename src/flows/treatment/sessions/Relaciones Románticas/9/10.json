@@ -1,0 +1,15 @@
+{
+    "header_text": "Consejería para parejas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tú y tu pareja han comenzado la terapia de parejas. Han asistido a algunas sesiones, pero aún tienen problemas. Piensas que el proceso simplemente tomará..."
+        },
+        {
+            "type": "Entry",
+            "name": "Consejería para parejas_Relaciones Románticas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

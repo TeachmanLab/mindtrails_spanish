@@ -1,0 +1,14 @@
+{
+    "header_text": "sintiendote apurado",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "sintiendote apurado"
+        },
+        {
+            "type": "Media",
+            "url": "./images/218.jpg"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "header_text": "Ponerse ahí fuera",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Vas a almorzar con un amigo nuevo. Tú y tu amigo tuvieron una conversación muy buena y te hicieron algunas preguntas que te hacen sentir vulnerable. si llegan a conocer tu \"verdadero yo\", crees que te van a..."
+        },
+        {
+            "type": "Entry",
+            "name": "Ponerse ahí fuera_Salud Mental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

@@ -1,0 +1,15 @@
+{
+    "header_text": "Permitirse la educación",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tus hijos están pensando en ir a la universidad, pero tú piensas que tendrías que pedir un préstamo para ayudar a enviarlos. Recuerdas historias que has escuchado de personas que todavía pagan sus préstamos cuando están... "
+        },
+        {
+            "type": "Entry",
+            "name": "Permitirse la educación_Finanzas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

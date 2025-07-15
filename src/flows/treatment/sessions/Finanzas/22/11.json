@@ -1,0 +1,14 @@
+{
+    "header_text": "Visita médica inesperada",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Visita médica inesperada"
+        },
+        {
+            "type": "Media",
+            "url": "./images/295.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Ir al dentista",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ir al dentista"
+        },
+        {
+            "type": "Media",
+            "url": "./images/284.jpg"
+        }
+    ]
+}

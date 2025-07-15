@@ -1,0 +1,14 @@
+{
+    "header_text": "El escaparate de danza",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "El escaparate de danza"
+        },
+        {
+            "type": "Media",
+            "url": "./images/500.jpg"
+        }
+    ]
+}

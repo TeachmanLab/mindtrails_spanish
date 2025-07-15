@@ -1,0 +1,15 @@
+{
+    "header_text": "Caminata con amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Observas que tus amigos también están cansándose. Decides que probablemente estarás..."
+        },
+        {
+            "type": "Entry",
+            "name": "Caminata con amigos_Salud Física_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

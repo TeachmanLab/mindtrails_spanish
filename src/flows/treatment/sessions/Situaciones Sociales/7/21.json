@@ -1,0 +1,23 @@
+{
+    "header_text": "Encontrarte con un viejo conocido",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Un conocido de hace muchos años se acaba de mudar a tu ciudad y te invita a tomar un café. Estás nervioso por volver a verlos después de tantos años y podrías decirles que estás demasiado ocupado. Estás en casa cuando llaman para cordinar el café y decides..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Encontrarte con un viejo conocido_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "contestar"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

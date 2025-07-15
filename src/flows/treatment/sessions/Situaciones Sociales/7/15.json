@@ -1,0 +1,23 @@
+{
+    "header_text": "Miedo al COVID",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Decides hablar con tu amigo y aprender que estaba evitando ir al doctor porque le faltaba información sobre el proceso. Le dices lo que sabes y te alegras de haber sido capaz de proporcionar.."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Miedo al COVID_Situaciones Sociales_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "apoyo"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

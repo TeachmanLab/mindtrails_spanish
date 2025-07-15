@@ -1,0 +1,15 @@
+{
+    "header_text": "Planificación de pagos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Acabas de empezar un nuevo trabajo y necesitas seleccionar uno de los planes de jubilación que ofrece tu empresa. Has estado investigando un poco sobre los diferentes tipos de planes, pero te sientes un poco abrumado y tu fecha límite para elegir se acerca rápidamente. Crees que el plan que elijas te dejará en una posición financiera..."
+        },
+        {
+            "type": "Entry",
+            "name": "Planificación de pagos_Finanzas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

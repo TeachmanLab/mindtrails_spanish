@@ -1,0 +1,14 @@
+{
+    "header_text": "Costear la terapia",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Costear la terapia"
+        },
+        {
+            "type": "Media",
+            "url": "./images/167.jpg"
+        }
+    ]
+}

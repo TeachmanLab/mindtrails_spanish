@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Es posible que en este momento sientas algo de dolor en tu cuerpo. Recuerde que el dolor fluye y refluye y que probablemente no será tan intenso para siempre."
+        }
+    ]
+}

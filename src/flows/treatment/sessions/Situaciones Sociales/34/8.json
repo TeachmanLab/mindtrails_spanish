@@ -1,0 +1,23 @@
+{
+    "header_text": "Recuerdo conduciendo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás manejando a la casa de un amigo en el pueblo donde vivías antes. Cuando llegas a la entrada, tienes un fuerte recuerdo de cuando solías visitar esta casa hace muchos años. Empiezas a sentir ansiedad por sentirte desorientado, y decides que lo que harás con estos sentimientos es simplemente dejarlos..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Recuerdo conduciendo_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "pasar"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

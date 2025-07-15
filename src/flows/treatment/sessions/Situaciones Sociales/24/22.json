@@ -1,0 +1,14 @@
+{
+    "header_text": "Genio cómico",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Genio cómico"
+        },
+        {
+            "type": "Media",
+            "url": "./images/535.jpg"
+        }
+    ]
+}

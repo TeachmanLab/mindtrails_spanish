@@ -1,0 +1,15 @@
+{
+    "header_text": "Preocupaciones por el ritmo cardíaco",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cuando el evento se vuelve más ruidoso a medida que llega más gente, consideras irte, pero decides que puedes manejar estos sentimientos y seguir..."
+        },
+        {
+            "type": "Entry",
+            "name": "Preocupaciones por el ritmo cardíaco_Salud Mental_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

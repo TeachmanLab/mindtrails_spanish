@@ -1,0 +1,14 @@
+{
+    "header_text": "Un trago de agua",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Un trago de agua"
+        },
+        {
+            "type": "Media",
+            "url": "./images/33.jpg"
+        }
+    ]
+}

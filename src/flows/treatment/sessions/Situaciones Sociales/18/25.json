@@ -1,0 +1,14 @@
+{
+    "header_text": "Dolor de garganta en la cena",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dolor de garganta en la cena"
+        },
+        {
+            "type": "Media",
+            "url": "./images/513.jpg"
+        }
+    ]
+}

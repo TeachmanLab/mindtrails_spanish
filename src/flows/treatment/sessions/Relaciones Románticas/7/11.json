@@ -1,0 +1,14 @@
+{
+    "header_text": "Abrirse",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Abrirse"
+        },
+        {
+            "type": "Media",
+            "url": "./images/217.jpg"
+        }
+    ]
+}

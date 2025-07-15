@@ -1,0 +1,14 @@
+{
+    "header_text": "Mercado de trabajo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Mercado de trabajo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/52.jpg"
+        }
+    ]
+}

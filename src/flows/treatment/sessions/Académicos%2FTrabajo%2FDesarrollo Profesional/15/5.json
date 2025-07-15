@@ -1,0 +1,14 @@
+{
+    "header_text": "Recuperándote despues de un error",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Recuperándote despues de un error"
+        },
+        {
+            "type": "Media",
+            "url": "./images/46.jpg"
+        }
+    ]
+}

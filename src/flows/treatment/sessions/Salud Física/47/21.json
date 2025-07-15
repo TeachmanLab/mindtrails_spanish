@@ -1,0 +1,14 @@
+{
+    "header_text": "Distanciamiento social adentro",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Distanciamiento social adentro"
+        },
+        {
+            "type": "Media",
+            "url": "./images/436.jpg"
+        }
+    ]
+}

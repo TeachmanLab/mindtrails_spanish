@@ -1,0 +1,22 @@
+{
+    "header_text": "Conociendo a un amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "En la calle te encuentras con un viejo amigo al que no ves desde hace mucho tiempo. Ella está demasiado ocupada para detenerse, así que quedan para encontrarse más tarde en un bar. Llegas un poco tarde pero el bar está vacío y unos minutos después ella todavía no está..."
+        },
+        {
+            "type": "WordPuzzle",
+            "right_feedback": "Correcto!",
+            "wrong_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "wrong_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "allá"
+            ],
+            "name": "IBM_friend_puzzle"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

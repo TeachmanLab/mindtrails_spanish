@@ -1,0 +1,14 @@
+{
+    "header_text": "Relación a largo plazo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Relación a largo plazo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/197.jpg"
+        }
+    ]
+}

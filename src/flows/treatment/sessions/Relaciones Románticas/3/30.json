@@ -1,0 +1,14 @@
+{
+    "header_text": "Primera reunión",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Primera reunión"
+        },
+        {
+            "type": "Media",
+            "url": "./images/200.jpg"
+        }
+    ]
+}

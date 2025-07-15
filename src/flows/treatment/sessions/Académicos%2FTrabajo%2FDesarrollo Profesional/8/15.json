@@ -1,0 +1,14 @@
+{
+    "header_text": "Corrección rápida",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Corrección rápida"
+        },
+        {
+            "type": "Media",
+            "url": "./images/60.jpg"
+        }
+    ]
+}

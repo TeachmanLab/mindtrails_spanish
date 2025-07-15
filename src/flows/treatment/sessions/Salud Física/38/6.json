@@ -1,0 +1,15 @@
+{
+    "header_text": "Corriendo con un amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Crees que mañana no te quedarás atrás, y las posibilidades de que puedas seguir el ritmo de tu amigo son..."
+        },
+        {
+            "type": "Entry",
+            "name": "Corriendo con un amigo_Salud Física_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

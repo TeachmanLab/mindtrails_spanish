@@ -1,0 +1,14 @@
+{
+    "header_text": "Proyecto eliminado",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Proyecto eliminado"
+        },
+        {
+            "type": "Media",
+            "url": "./images/69.jpg"
+        }
+    ]
+}

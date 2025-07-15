@@ -1,0 +1,14 @@
+{
+    "header_text": "Sentirse llamado",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sentirse llamado"
+        },
+        {
+            "type": "Media",
+            "url": "./images/106.jpg"
+        }
+    ]
+}

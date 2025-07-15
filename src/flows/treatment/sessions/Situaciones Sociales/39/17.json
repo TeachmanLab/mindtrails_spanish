@@ -1,0 +1,14 @@
+{
+    "header_text": "Devolución de chaqueta",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Devolución de chaqueta"
+        },
+        {
+            "type": "Media",
+            "url": "./images/258.jpg"
+        }
+    ]
+}

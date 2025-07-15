@@ -1,0 +1,14 @@
+{
+    "header_text": "Nerviosismo de cumpleaños",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Nerviosismo de cumpleaños"
+        },
+        {
+            "type": "Media",
+            "url": "./images/148.jpg"
+        }
+    ]
+}

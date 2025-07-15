@@ -1,0 +1,15 @@
+{
+    "header_text": "Pensamientos intrusivos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Después de un tiempo, te das cuenta de que son solo pensamientos y que no significan nada acerca de ti como persona. Piensas que no estás volviéndote loco y que eres una buena..."
+        },
+        {
+            "type": "Entry",
+            "name": "Pensamientos intrusivos_Salud Mental_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

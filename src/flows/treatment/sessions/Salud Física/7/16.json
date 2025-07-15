@@ -1,0 +1,14 @@
+{
+    "header_text": "Recuperando el aliento",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Recuperando el aliento"
+        },
+        {
+            "type": "Media",
+            "url": "./images/410.jpg"
+        }
+    ]
+}

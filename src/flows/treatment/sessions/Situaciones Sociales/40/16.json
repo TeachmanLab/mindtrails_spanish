@@ -1,0 +1,15 @@
+{
+    "header_text": "Una discusión acalorada",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mientras limpias después, te das cuenta de que a pesar de haber sido acalorado, el debate entre tus invitados fue respetuoso y refrescante. Probablemente la fiesta les pareció..."
+        },
+        {
+            "type": "Entry",
+            "name": "Una discusión acalorada_Situaciones Sociales_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

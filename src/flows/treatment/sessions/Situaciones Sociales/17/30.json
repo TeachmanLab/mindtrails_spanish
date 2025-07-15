@@ -1,0 +1,14 @@
+{
+    "header_text": "Saliendo en ropa de día",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Saliendo en ropa de día"
+        },
+        {
+            "type": "Media",
+            "url": "./images/508.jpg"
+        }
+    ]
+}

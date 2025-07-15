@@ -1,0 +1,38 @@
+{
+    "header_text": "Cuestionario de tratamiento y salud mental",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Hay muchas razones por las que las personas no reciben ayuda. ¿Por qué no recibes tratamiento de salud mental? Por favor seleccione todas las respuestas válidas."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "No creo que un medicamento recetado me ayude",
+                "No me gusta la idea de tomar medicamentos recetados",
+                "No puedo permitirme pagar el tratamiento",
+                "No quiero hablar con un profesional de salud mental (por ejemplo, un terapeuta)",
+                "No creo que un profesional de la salud mental pueda ayudarme",
+                "Es difícil encontrar un profesional de salud mental cerca de mí",
+                "No sé cómo encontrar un profesional de salud mental",
+                "Me da vergüenza buscar tratamiento",
+                "No quiero que me pidan que enfrente mis miedos (por ejemplo, no querer interactuar con una arana para una persona que tiene miedo a las aranas)",
+                "No quiero hablar de mis sentimientos",
+                "No tengo tiempo",
+                "Tuve tratamiento anteriormente y no lo encontré útil",
+                "No necesito ayuda en este momento",
+                "^Prefiero no responder",
+                "!Otro:"
+            ],
+            "selectable": true,
+            "multi_select": true,
+            "name": "reasons_not_receiving_help"
+        }
+    ],
+    "condition": [
+        "HelpReceived",
+        "=",
+        "Ninguno"
+    ]
+}

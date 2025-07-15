@@ -1,0 +1,23 @@
+{
+    "header_text": "Preocuparse por los ahorros",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Saliste con algunos amigos que no habías visto en mucho tiempo y terminaste en el tema de las finanzas. Mientras pensabas que tu situación financiera eras estable, tus amigos comienzan a hablar sobre el dinero que están ahorrando para la jubilación. Has estado usando tu dinero para pagar tus necesidades y no has pensado en comenzar a..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Preocuparse por los ahorros_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "ahorrar"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

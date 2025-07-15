@@ -1,0 +1,14 @@
+{
+    "header_text": "Comparar su trabajo con el de otros",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comparar su trabajo con el de otros"
+        },
+        {
+            "type": "Media",
+            "url": "./images/90.jpg"
+        }
+    ]
+}

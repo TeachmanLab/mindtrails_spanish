@@ -1,0 +1,23 @@
+{
+    "header_text": "Los celos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu mejor amigo acaba de entrar en una nueva relación. Te sientes celoso de su nueva pareja porque no vas a pasar tanto tiempo con tu amigo como de costumbre. Reflexionando sobre la situación, te das cuenta de que pueden estar en una relación y seguir siendo un gran... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Los celos_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "amigo"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

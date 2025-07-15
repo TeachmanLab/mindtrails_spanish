@@ -1,0 +1,14 @@
+{
+    "header_text": "Viejo amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Viejo amigo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/559.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Inseguridades de la Mascarilla",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Inseguridades de la Mascarilla"
+        },
+        {
+            "type": "Media",
+            "url": "./images/204.jpg"
+        }
+    ]
+}

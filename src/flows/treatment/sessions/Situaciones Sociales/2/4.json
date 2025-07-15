@@ -1,0 +1,14 @@
+{
+    "header_text": "Trabajando en grupo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Trabajando en grupo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/17.jpg"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "header_text": "Nuevo estilo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Vas de compras a tu tienda de ropa favorita. Ves un conjunto que te encanta pero no crees que sea adecuado para tu tipo de cuerpo. Después de conseguirlo y probártelo, quieres comprarlo a pesar de que no es algo que usas..."
+        },
+        {
+            "type": "Entry",
+            "name": "Nuevo estilo_Salud Mental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Regalos de días festivos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Regalos de días festivos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/262.jpg"
+        }
+    ]
+}

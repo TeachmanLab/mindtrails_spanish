@@ -1,0 +1,14 @@
+{
+    "header_text": "Tu Currículum",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tu Currículum"
+        },
+        {
+            "type": "Media",
+            "url": "./images/77.jpg"
+        }
+    ]
+}

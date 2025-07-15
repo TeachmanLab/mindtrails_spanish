@@ -1,0 +1,14 @@
+{
+    "header_text": "Compartiendo programas favoritos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Compartiendo programas favoritos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/346.jpg"
+        }
+    ]
+}

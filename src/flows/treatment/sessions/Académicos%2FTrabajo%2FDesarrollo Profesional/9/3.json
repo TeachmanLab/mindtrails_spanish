@@ -1,0 +1,15 @@
+{
+    "header_text": "Una presentación importante",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu jefe está viendo tu presentación en tu reunión de hoy. Durante la presentación, tropiezas mucho con tus palabras. Te sientes...  "
+        },
+        {
+            "type": "Entry",
+            "name": "Una presentación importante_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

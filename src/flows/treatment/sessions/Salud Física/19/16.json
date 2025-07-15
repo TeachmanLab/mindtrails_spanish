@@ -1,0 +1,27 @@
+{
+    "header_text": "Corriendo una maratón",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Piensas que si te apuntas a una maratón, el día de la carrera es probable que..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Corriendo una maratón_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Te sentirás orgulloso de haber logrado para lo que entrenaste.",
+                "Colapsaras antes de cruzar la línea de meta."
+            ],
+            "columnCount": 1,
+            "correct_value": "Colapsaras antes de cruzar la línea de meta."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

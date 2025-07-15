@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Finanzas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Escriba dónde entra y sale su dinero y vea dónde se pueden hacer ajustes para que sus finanzas parezcan más manejables."
+        }
+    ]
+}

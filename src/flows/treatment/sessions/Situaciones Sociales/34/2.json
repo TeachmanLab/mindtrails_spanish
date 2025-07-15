@@ -1,0 +1,23 @@
+{
+    "header_text": "Almuerzo maloliente",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Publicas una foto tuya en las redes sociales en la que sientes que te ves muy bien. Después de un par de días, ves que has recibido muy pocos gustas y comentarios. Todavía te sientes seguro en la foto a pesar de tu participación en las redes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Almuerzo maloliente_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "sociales"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

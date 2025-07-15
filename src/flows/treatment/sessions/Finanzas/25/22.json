@@ -1,0 +1,14 @@
+{
+    "header_text": "Oportunidad de espectáculo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Oportunidad de espectáculo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/265.jpg"
+        }
+    ]
+}

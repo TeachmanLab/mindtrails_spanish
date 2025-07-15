@@ -1,0 +1,21 @@
+{
+    "header_text": "Ejercicio de limón",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Ahora imagina que te rascas la piel con la una, luego te llevas el limón a la nariz y puedes oler el jugo fresco y picante de la piel."
+        },
+        {
+            "type": "Media",
+            "url": "./images/lemon4.jpg",
+            "border": true
+        }
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 2000
+        },
+        "wait_for_click"
+    ]
+}

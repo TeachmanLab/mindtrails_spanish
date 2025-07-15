@@ -1,0 +1,23 @@
+{
+    "header_text": "Presupuestar su asignación",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te das cuenta de que acabas de recibir tu sueldo hace una semana. Observas que tu cuenta bancaria es más baja de lo esperado. Estás preocupado por tus gastos, pero sabes que puedes hacer un presupuesto..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Presupuestar su asignación_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "eficaz"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

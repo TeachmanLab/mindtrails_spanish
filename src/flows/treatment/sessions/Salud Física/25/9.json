@@ -1,0 +1,15 @@
+{
+    "header_text": "Día caluroso",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Regresando a casa en un día muy caluroso, te tomas un vaso grande de agua rápidamente. Pronto te sientes anormalmente lleno y un poco enfermo del..."
+        },
+        {
+            "type": "Entry",
+            "name": "Día caluroso_Salud Física_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

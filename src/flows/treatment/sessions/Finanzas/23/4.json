@@ -1,0 +1,14 @@
+{
+    "header_text": "Medicina asequible",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Medicina asequible"
+        },
+        {
+            "type": "Media",
+            "url": "./images/300.jpg"
+        }
+    ]
+}

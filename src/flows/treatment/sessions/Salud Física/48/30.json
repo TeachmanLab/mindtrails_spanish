@@ -1,0 +1,14 @@
+{
+    "header_text": "Dolor de cabeza en la oficina médica",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dolor de cabeza en la oficina médica"
+        },
+        {
+            "type": "Media",
+            "url": "./images/442.jpg"
+        }
+    ]
+}

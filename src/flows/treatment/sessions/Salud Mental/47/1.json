@@ -1,0 +1,14 @@
+{
+    "header_text": "Vaso de agua",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Vaso de agua"
+        },
+        {
+            "type": "Media",
+            "url": "./images/198.jpg"
+        }
+    ]
+}

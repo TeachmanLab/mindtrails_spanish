@@ -1,0 +1,14 @@
+{
+    "header_text": "No recibir una invitación",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "No recibir una invitación"
+        },
+        {
+            "type": "Media",
+            "url": "./images/147.jpg"
+        }
+    ]
+}

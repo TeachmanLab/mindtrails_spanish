@@ -1,0 +1,14 @@
+{
+    "header_text": "Corriendo una milla",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Corriendo una milla"
+        },
+        {
+            "type": "Media",
+            "url": "./images/420.jpg"
+        }
+    ]
+}

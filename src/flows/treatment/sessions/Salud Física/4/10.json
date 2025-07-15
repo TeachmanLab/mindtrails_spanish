@@ -1,0 +1,14 @@
+{
+    "header_text": "Corriendo tu primera carrera",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Corriendo tu primera carrera"
+        },
+        {
+            "type": "Media",
+            "url": "./images/396.jpg"
+        }
+    ]
+}

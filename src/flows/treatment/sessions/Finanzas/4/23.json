@@ -1,0 +1,27 @@
+{
+    "header_text": "Planificación de pagos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu selección de plan de jubilación probablemente significa que..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Planificación de pagos_Finanzas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Tendras un futuro financiero cómodo.",
+                "Tendrás que preocuparte por el dinero más adelante en la vida."
+            ],
+            "columnCount": 1,
+            "correct_value": "Tendrás que preocuparte por el dinero más adelante en la vida."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

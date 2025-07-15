@@ -1,0 +1,14 @@
+{
+    "header_text": "Relaciones futuras",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Relaciones futuras"
+        },
+        {
+            "type": "Media",
+            "url": "./images/177.jpg"
+        }
+    ]
+}

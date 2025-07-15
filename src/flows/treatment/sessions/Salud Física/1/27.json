@@ -1,0 +1,14 @@
+{
+    "header_text": "Evaluación de salud",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Evaluación de salud"
+        },
+        {
+            "type": "Media",
+            "url": "./images/375.jpg"
+        }
+    ]
+}

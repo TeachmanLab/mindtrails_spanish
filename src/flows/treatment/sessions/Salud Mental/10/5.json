@@ -1,0 +1,14 @@
+{
+    "header_text": "Sentado en una reunión",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sentado en una reunión"
+        },
+        {
+            "type": "Media",
+            "url": "./images/46.jpg"
+        }
+    ]
+}

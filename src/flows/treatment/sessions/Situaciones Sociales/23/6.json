@@ -1,0 +1,15 @@
+{
+    "header_text": "Una gran risa",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "En una cena, tu amigo cuenta un chiste. Te ries tanto que sientes que no puedes respirar sufieciente. Esta experiencia es... "
+        },
+        {
+            "type": "Entry",
+            "name": "Una gran risa_Situaciones Sociales_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

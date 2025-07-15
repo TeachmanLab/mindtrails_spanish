@@ -1,0 +1,14 @@
+{
+    "header_text": "Nueva oportunidad para amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Nueva oportunidad para amigos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/46.jpg"
+        }
+    ]
+}

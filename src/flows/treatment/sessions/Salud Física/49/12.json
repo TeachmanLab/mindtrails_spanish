@@ -1,0 +1,14 @@
+{
+    "header_text": "Entrega Responsable",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Entrega Responsable"
+        },
+        {
+            "type": "Media",
+            "url": "./images/455.jpg"
+        }
+    ]
+}

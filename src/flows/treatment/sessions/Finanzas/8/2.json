@@ -1,0 +1,14 @@
+{
+    "header_text": "Ingresos adicionales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ingresos adicionales"
+        },
+        {
+            "type": "Media",
+            "url": "./images/11.jpg"
+        }
+    ]
+}

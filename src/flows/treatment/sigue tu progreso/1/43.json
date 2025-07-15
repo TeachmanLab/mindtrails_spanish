@@ -1,0 +1,22 @@
+{
+    "header_text": "El trabajo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "EL TRABAJO: Piensas en no tener ingresos durante unas semanas...\n\nY estás triste por dejar a tus companeros de trabajo actuales."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Muy diferente",
+                "Diferente",
+                "Similar",
+                "Muy similar",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "IBM_job_interpretation_4"
+        }
+    ]
+}

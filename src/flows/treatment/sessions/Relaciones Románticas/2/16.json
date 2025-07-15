@@ -1,0 +1,27 @@
+{
+    "header_text": "Preocupaciones por las relaciones",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cuando piensas en el futuro lejano, puedes verte a ti mismo"
+        },
+        {
+            "type": "Buttons",
+            "name": "Preocupaciones por las relaciones_Relaciones Románticas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Lamentar que tu cónyuge y tú no hayan podido hacer que las cosas funcionen.",
+                "Disfrutando de tus años dorados con tu cónyuge."
+            ],
+            "columnCount": 1,
+            "correct_value": "Lamentar que tu cónyuge y tú no hayan podido hacer que las cosas funcionen."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

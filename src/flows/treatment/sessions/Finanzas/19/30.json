@@ -1,0 +1,14 @@
+{
+    "header_text": "Traje de fiesta",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Traje de fiesta"
+        },
+        {
+            "type": "Media",
+            "url": "./images/286.jpg"
+        }
+    ]
+}

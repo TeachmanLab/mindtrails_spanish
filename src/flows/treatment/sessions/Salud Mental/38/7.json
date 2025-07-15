@@ -1,0 +1,15 @@
+{
+    "header_text": "Zambullirte",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás en la piscina local. Está lleno y te das cuenta de que mucha gente podrá verte en traje de baño. Piensas en esto y te sientes..."
+        },
+        {
+            "type": "Entry",
+            "name": "Zambullirte_Salud Mental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

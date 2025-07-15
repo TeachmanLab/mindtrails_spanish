@@ -1,0 +1,14 @@
+{
+    "header_text": "Ninguna respuesta",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ninguna respuesta"
+        },
+        {
+            "type": "Media",
+            "url": "./images/43.jpg"
+        }
+    ]
+}

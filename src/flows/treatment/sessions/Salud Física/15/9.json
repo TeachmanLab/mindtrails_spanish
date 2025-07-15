@@ -1,0 +1,14 @@
+{
+    "header_text": "Dando una presentación",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dando una presentación"
+        },
+        {
+            "type": "Media",
+            "url": "./images/46.jpg"
+        }
+    ]
+}

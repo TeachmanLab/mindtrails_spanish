@@ -1,0 +1,14 @@
+{
+    "header_text": "Breve introducción",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Breve introducción"
+        },
+        {
+            "type": "Media",
+            "url": "./images/66.jpg"
+        }
+    ]
+}

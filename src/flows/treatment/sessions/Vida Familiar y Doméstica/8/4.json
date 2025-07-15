@@ -1,0 +1,14 @@
+{
+    "header_text": "Sonidos por la noche",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sonidos por la noche"
+        },
+        {
+            "type": "Media",
+            "url": "./images/171.jpg"
+        }
+    ]
+}

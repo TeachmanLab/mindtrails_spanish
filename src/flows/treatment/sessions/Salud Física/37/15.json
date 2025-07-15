@@ -1,0 +1,14 @@
+{
+    "header_text": "Desconectandote",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Desconectandote"
+        },
+        {
+            "type": "Media",
+            "url": "./images/402.jpg"
+        }
+    ]
+}

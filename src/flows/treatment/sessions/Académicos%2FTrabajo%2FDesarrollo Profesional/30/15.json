@@ -1,0 +1,14 @@
+{
+    "header_text": "Sentirse diferente",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sentirse diferente"
+        },
+        {
+            "type": "Media",
+            "url": "./images/97.jpg"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "header_text": "Mantener a la familia",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Quieres que tu familia tenga buenas oportunidades educativas. Tú quieres que tus hijos puedan asistir a buenas universidades, pero comprendas que esto tiene un precio..."
+        },
+        {
+            "type": "Entry",
+            "name": "Mantener a la familia_Vida Familiar y Doméstica_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

@@ -1,0 +1,25 @@
+{
+    "header_text": "Fiesta de Halloween: Comportamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás invitado a una fiesta de Halloween con tus companeros de trabajo y allí solo estás cerca de un par de personas. Decides usar un disfraz. Cuando llegas, todos te miran. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Quiero preguntarle a alguien si mi disfraz es demasiado, pero decido no pedir opiniones.",
+                "Quiero empezar a llorar, pero luego recordarme que hice un gran trabajo con este disfraz.",
+                "Empezaré a bailar porque hay buena música.",
+                "Sonreiré y usaré mi atuendo con orgullo.",
+                "Quiero ir al baño y tratar de bajar el tono de lo que llevo puesto."
+            ],
+            "Duration": 15
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

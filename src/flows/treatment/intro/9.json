@@ -1,0 +1,31 @@
+{
+    "header_text": "Demografía",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Cuál es el ingreso anual de tu hogar, antes de impuestos y otras deducciones (en dólares estadounidenses o su equivalente)?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Menos de $5,000",
+                "$5,000 a $11,999",
+                "$12,000 a $15,999",
+                "$16,000 a $24,999",
+                "$25,000 a $34,999",
+                "$35,000 a $49,999",
+                "$50,000 a $74,999",
+                "$75,000 a $99,999",
+                "$100,000 a $149,999",
+                "$150,000 a $199,999",
+                "$200,000 a $249,999",
+                "$250,000 o más",
+                "No lo sé",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "income"
+        }
+    ]
+}

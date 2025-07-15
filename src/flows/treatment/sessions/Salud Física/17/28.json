@@ -1,0 +1,14 @@
+{
+    "header_text": "Vecino sin mascarilla",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Vecino sin mascarilla"
+        },
+        {
+            "type": "Media",
+            "url": "./images/452.jpg"
+        }
+    ]
+}

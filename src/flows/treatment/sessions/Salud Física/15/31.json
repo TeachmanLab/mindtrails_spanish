@@ -1,0 +1,14 @@
+{
+    "header_text": "Nadando en la playa",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Nadando en la playa"
+        },
+        {
+            "type": "Media",
+            "url": "./images/444.jpg"
+        }
+    ]
+}

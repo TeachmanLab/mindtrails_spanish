@@ -1,0 +1,14 @@
+{
+    "header_text": "Mascarillas para invitados",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Mascarillas para invitados"
+        },
+        {
+            "type": "Media",
+            "url": "./images/168.jpg"
+        }
+    ]
+}

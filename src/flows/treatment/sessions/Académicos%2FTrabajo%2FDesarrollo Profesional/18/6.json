@@ -1,0 +1,27 @@
+{
+    "header_text": "Cambiando tu trayectoria",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Dado tu probable resultado en el mercado laboral, tu mejor opción es..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Cambiando tu trayectoria_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Quedarte quieto aunque sea aburrido.",
+                "Intentar encontrar un trabajo en algún lugar que realmente te desafíe."
+            ],
+            "columnCount": 1,
+            "correct_value": "Quedarte quieto aunque sea aburrido."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

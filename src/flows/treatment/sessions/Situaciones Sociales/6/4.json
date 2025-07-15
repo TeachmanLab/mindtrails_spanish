@@ -1,0 +1,15 @@
+{
+    "header_text": "Fiesta de Halloween",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás invitado a una fiesta de Halloween con tus companeros de trabajo y allí solo estás cerca de un par de personas. Decides usar un disfraz. Cuando llegas, todos te miran. \n\nHaga clic en Siguiente para ver algunas ideas."
+        },
+        {
+            "type": "Media",
+            "url": "./images/571.jpg",
+            "border": true
+        }
+    ]
+}

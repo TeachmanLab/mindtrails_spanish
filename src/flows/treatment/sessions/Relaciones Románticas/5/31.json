@@ -1,0 +1,14 @@
+{
+    "header_text": "Pajera silenciosa",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Pajera silenciosa"
+        },
+        {
+            "type": "Media",
+            "url": "./images/213.jpg"
+        }
+    ]
+}

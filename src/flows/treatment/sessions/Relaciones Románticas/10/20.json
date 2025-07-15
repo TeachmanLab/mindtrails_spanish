@@ -1,0 +1,14 @@
+{
+    "header_text": "Preguntas de la familia",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Preguntas de la familia"
+        },
+        {
+            "type": "Media",
+            "url": "./images/225.jpg"
+        }
+    ]
+}

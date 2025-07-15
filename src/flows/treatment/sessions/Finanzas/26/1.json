@@ -1,0 +1,10 @@
+{
+    "header_text": "El regalo de cumpleaños",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A continuación, verá una situación que podría provocarle ansiedad. Mientras lees el cuento, imagínate en esa situación. Después de imaginarse a sí mismo en la situación, haga clic en \"Siguiente\" y luego verá ejemplos de pensamientos, sentimientos y comportamientos que podrían ocurrir en esa situación. \n\nAlgunos de los pensamientos, sentimientos y comportamientos serán útiles y otros no."
+        }
+    ]
+}

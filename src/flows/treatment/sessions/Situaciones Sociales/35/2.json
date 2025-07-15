@@ -1,0 +1,14 @@
+{
+    "header_text": "Saludando gente en bibliotecas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Saludando gente en bibliotecas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/260.jpg"
+        }
+    ]
+}

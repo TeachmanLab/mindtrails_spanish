@@ -1,0 +1,14 @@
+{
+    "header_text": "Relación a distancia",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Relación a distancia"
+        },
+        {
+            "type": "Media",
+            "url": "./images/158.jpg"
+        }
+    ]
+}

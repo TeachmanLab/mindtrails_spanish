@@ -1,0 +1,14 @@
+{
+    "header_text": "Cena en una casa de amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cena en una casa de amigos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/149.jpg"
+        }
+    ]
+}

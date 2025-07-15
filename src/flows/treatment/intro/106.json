@@ -1,0 +1,23 @@
+{
+    "header_text": "Imágenes ansiosas principales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Qué tan vívidamente imaginaste la situación?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Nada vívido",
+                "Algo vívido",
+                "Moderadamente vívido",
+                "Muy vívido",
+                "Totalmente vívido",
+                "^Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "imagery_vivid"
+        }
+    ]
+}

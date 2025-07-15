@@ -1,0 +1,14 @@
+{
+    "header_text": "Finalización rápida de tareas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Finalización rápida de tareas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/85.jpg"
+        }
+    ]
+}

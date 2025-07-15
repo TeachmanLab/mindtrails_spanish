@@ -1,0 +1,21 @@
+{
+    "header_text": "Demografía",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cuál es tu etnia?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Hispano o latino",
+                "No Hispano o Latino",
+                "Desconocido",
+                "^Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "ethnicity"
+        }
+    ]
+}

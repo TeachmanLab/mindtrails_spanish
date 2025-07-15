@@ -1,0 +1,14 @@
+{
+    "header_text": "Yendo a una cita",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Yendo a una cita"
+        },
+        {
+            "type": "Media",
+            "url": "./images/183.jpg"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "header_text": "Saludando a alguien",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mientras estás caminando, ves a un vecino al que no conoces bien. Decides saludarlo de pasada, pero luego te preguntas si en realidad molestastes al vecino. Mientras sigues caminando, crees que piensan que eres..."
+        },
+        {
+            "type": "Entry",
+            "name": "Saludando a alguien_Situaciones Sociales_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

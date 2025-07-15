@@ -1,0 +1,14 @@
+{
+    "header_text": "Ruidos del exterior",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ruidos del exterior"
+        },
+        {
+            "type": "Media",
+            "url": "./images/145.jpg"
+        }
+    ]
+}

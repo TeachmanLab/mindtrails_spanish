@@ -1,0 +1,14 @@
+{
+    "header_text": "Opiniones opuestas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Opiniones opuestas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/155.jpg"
+        }
+    ]
+}

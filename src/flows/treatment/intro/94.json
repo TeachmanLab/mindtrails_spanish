@@ -1,0 +1,21 @@
+{
+    "header_text": "Ejercicio de limón",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "En este ejercicio, y durante todo el programa de entrenamiento, recuerde imaginar lo que sucede a través de tus propios ojos, de forma similar a la imagen de la izquierda. Esto es más eficaz que ver la situación desde un observador externo, como en la imagen de la derecha."
+        },
+        {
+            "type": "Media",
+            "url": "./images/lemon1.jpg",
+            "border": true
+        }
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 2000
+        },
+        "wait_for_click"
+    ]
+}

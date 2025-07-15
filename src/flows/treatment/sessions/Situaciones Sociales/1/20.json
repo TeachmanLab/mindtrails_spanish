@@ -1,0 +1,14 @@
+{
+    "header_text": "Nervios en un momento importante",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Nervios en un momento importante"
+        },
+        {
+            "type": "Media",
+            "url": "./images/466.jpg"
+        }
+    ]
+}

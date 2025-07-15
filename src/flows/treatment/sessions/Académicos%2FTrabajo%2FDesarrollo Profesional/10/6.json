@@ -1,0 +1,15 @@
+{
+    "header_text": "Expresando tus ideas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mientras trabajas en un proyecto de grupo colaborativo en el trabajo, compartes tus ideas con tu grupo. Los demás miembros del grupo no reaccionan. Deben estar pensando en el..."
+        },
+        {
+            "type": "Entry",
+            "name": "Expresando tus ideas_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

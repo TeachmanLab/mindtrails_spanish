@@ -1,0 +1,23 @@
+{
+    "header_text": "Razones para terminar",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Qué tan útil le resultó MindTrails Espanol para reducir su ansiedad?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Nada",
+                "Levemente",
+                "Un poco",
+                "Principalmente",
+                "Muy",
+                "^Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "reduce_anxiety"
+        }
+    ]
+}

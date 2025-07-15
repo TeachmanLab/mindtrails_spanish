@@ -1,0 +1,23 @@
+{
+    "header_text": "Un panel de entrevista",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Eres el tercer y último candidato que será entrevistado para un trabajo. El panel de entrevistas te saluda cuando entras a la sala de conferencias. Cuando te sientas, sientes que tus mejillas arden y comienzas a temblar. Probablemente, el panel te percibe como..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Un panel de entrevista_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "nervioso"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Anticipando una cita",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Anticipando una cita"
+        },
+        {
+            "type": "Media",
+            "url": "./images/189.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Un regalo casero",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Un regalo casero"
+        },
+        {
+            "type": "Media",
+            "url": "./images/148.jpg"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "header_text": "Una mesa sucia",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te encuentras con un amigo para almorzar en un nuevo restaurante. Una vez que te sientas, te das cuenta de que tu mesa no fue limpiada después de que los clientes anteriores se fueron, lo que te pone ansioso por los gérmenes. Decides quedarte a almorzar con tu amigo y tu ansiedad es..."
+        },
+        {
+            "type": "Entry",
+            "name": "Una mesa sucia_Salud Física_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

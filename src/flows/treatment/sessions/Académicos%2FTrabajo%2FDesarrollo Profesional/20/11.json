@@ -1,0 +1,14 @@
+{
+    "header_text": "Opiniones fuertes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Opiniones fuertes"
+        },
+        {
+            "type": "Media",
+            "url": "./images/108.jpg"
+        }
+    ]
+}

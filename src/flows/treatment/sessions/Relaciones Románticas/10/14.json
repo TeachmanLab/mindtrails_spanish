@@ -1,0 +1,14 @@
+{
+    "header_text": "Citas en línea",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Citas en línea"
+        },
+        {
+            "type": "Media",
+            "url": "./images/190.jpg"
+        }
+    ]
+}

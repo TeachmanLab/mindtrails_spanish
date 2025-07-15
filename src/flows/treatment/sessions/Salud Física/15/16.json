@@ -1,0 +1,14 @@
+{
+    "header_text": "Despertándote mareado",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Despertándote mareado"
+        },
+        {
+            "type": "Media",
+            "url": "./images/423.jpg"
+        }
+    ]
+}

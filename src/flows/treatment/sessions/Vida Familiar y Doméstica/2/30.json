@@ -1,0 +1,14 @@
+{
+    "header_text": "Padres divorciados",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Padres divorciados"
+        },
+        {
+            "type": "Media",
+            "url": "./images/146.jpg"
+        }
+    ]
+}

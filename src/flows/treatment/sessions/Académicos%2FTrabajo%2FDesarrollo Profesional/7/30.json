@@ -1,0 +1,14 @@
+{
+    "header_text": "Tomar una decisión",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tomar una decisión"
+        },
+        {
+            "type": "Media",
+            "url": "./images/54.jpg"
+        }
+    ]
+}

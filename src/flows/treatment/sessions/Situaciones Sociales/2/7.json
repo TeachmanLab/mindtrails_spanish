@@ -1,0 +1,14 @@
+{
+    "header_text": "Conversando en una fiesta",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Conversando en una fiesta"
+        },
+        {
+            "type": "Media",
+            "url": "./images/470.jpg"
+        }
+    ]
+}

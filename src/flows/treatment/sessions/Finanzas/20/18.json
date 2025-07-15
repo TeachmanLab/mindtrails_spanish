@@ -1,0 +1,14 @@
+{
+    "header_text": "Planificación de pagos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Planificación de pagos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/255.jpg"
+        }
+    ]
+}

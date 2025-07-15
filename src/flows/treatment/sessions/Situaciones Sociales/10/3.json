@@ -1,0 +1,14 @@
+{
+    "header_text": "Puntuaciones de redes sociales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Puntuaciones de redes sociales"
+        },
+        {
+            "type": "Media",
+            "url": "./images/180.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Un corte de pelo diferente",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Un corte de pelo diferente"
+        },
+        {
+            "type": "Media",
+            "url": "./images/548.jpg"
+        }
+    ]
+}

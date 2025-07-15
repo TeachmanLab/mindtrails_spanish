@@ -1,0 +1,23 @@
+{
+    "header_text": "Planes divertidos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tus amigos te piden que salgas a cenar a un restaurante de lujo con ellos este fin de semana. Es muy caro y sabes que no podrás pagarlo. Cuando te imaginas diciéndole a tus amigos que no puedes ir, te sientes... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Planes divertidos_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "nervioso"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

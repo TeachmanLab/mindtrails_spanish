@@ -1,0 +1,14 @@
+{
+    "header_text": "Usando un chiste diferente",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Usando un chiste diferente"
+        },
+        {
+            "type": "Media",
+            "url": "./images/109.jpg"
+        }
+    ]
+}

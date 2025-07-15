@@ -1,0 +1,14 @@
+{
+    "header_text": "Noticias controvertidas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Noticias controvertidas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/520.jpg"
+        }
+    ]
+}

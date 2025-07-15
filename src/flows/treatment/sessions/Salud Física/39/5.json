@@ -1,0 +1,15 @@
+{
+    "header_text": "Pánico de presentación",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás dando una presentación que has estado realmente nervioso por dar. Mientras hablas, sientes un nudo en la garganta y comienzas a toser. Estos sentimientos probablemente significan que estás entrando en..."
+        },
+        {
+            "type": "Entry",
+            "name": "Pánico de presentación_Salud Física_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

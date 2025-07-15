@@ -1,0 +1,14 @@
+{
+    "header_text": "Traer un nuevo amigo a casa",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Traer un nuevo amigo a casa"
+        },
+        {
+            "type": "Media",
+            "url": "./images/161.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Una gran risa",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Una gran risa"
+        },
+        {
+            "type": "Media",
+            "url": "./images/530.jpg"
+        }
+    ]
+}

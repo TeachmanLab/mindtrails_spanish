@@ -1,0 +1,15 @@
+{
+    "header_text": "Desayuno con amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tus amigos quieren desayunar juntos. No quieres perderte pasar tiempo con ellos, pero estás tratando de no comer fuera tanto. Cuando les dices que comerás la comida que tienes en casa, crees que será... "
+        },
+        {
+            "type": "Entry",
+            "name": "Desayuno con amigos_Finanzas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

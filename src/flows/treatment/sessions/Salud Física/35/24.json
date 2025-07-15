@@ -1,0 +1,27 @@
+{
+    "header_text": "Quemadura",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Después de correr agua sobre tu dedo, la quemadura probablemente..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Quemadura_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Dolerá mucho menos.",
+                "\nPermanecerá muy dolorosa."
+            ],
+            "columnCount": 1,
+            "correct_value": "Dolerá mucho menos."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

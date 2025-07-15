@@ -1,0 +1,14 @@
+{
+    "header_text": "Quedando atrás",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Quedando atrás"
+        },
+        {
+            "type": "Media",
+            "url": "./images/21.jpg"
+        }
+    ]
+}

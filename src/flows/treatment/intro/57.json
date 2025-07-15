@@ -1,0 +1,22 @@
+{
+    "header_text": "El ruido fuerte",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "EL RUIDO FUERTE: Mientras bajas las escaleras...\n\nTe sientes feliz y piensas en lo hermosa que es tu casa."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Muy diferente",
+                "Diferente",
+                "Similar",
+                "Muy similar",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "IBM_loud_interpretation_1"
+        }
+    ]
+}

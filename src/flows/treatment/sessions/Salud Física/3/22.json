@@ -1,0 +1,14 @@
+{
+    "header_text": "Controles en el dentista.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Controles en el dentista."
+        },
+        {
+            "type": "Media",
+            "url": "./images/389.jpg"
+        }
+    ]
+}

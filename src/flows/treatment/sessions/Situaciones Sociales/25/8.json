@@ -1,0 +1,14 @@
+{
+    "header_text": "Comentarios honestos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comentarios honestos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/536.jpg"
+        }
+    ]
+}

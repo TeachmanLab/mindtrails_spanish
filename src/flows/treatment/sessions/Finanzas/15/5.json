@@ -1,0 +1,14 @@
+{
+    "header_text": "Equilibrio entre trabajo y estudios",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Equilibrio entre trabajo y estudios"
+        },
+        {
+            "type": "Media",
+            "url": "./images/264.jpg"
+        }
+    ]
+}

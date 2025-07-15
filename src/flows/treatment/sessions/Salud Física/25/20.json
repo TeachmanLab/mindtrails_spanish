@@ -1,0 +1,14 @@
+{
+    "header_text": "Agarrando el ritmo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Agarrando el ritmo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/427.jpg"
+        }
+    ]
+}

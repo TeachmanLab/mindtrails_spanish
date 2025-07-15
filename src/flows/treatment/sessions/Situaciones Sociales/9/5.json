@@ -1,0 +1,15 @@
+{
+    "header_text": "Tomando el mando",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Durante tu reunión de departamento por Zoom, te colocan en salas separadas. Cuando comienzas la discusión, tu cámara está encendida pero todos los demás mantienen sus cámaras apagadas y sus micrófonos silenciados. Piensas que los demás pensarán que estás..."
+        },
+        {
+            "type": "Entry",
+            "name": "Tomando el mando_Situaciones Sociales_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

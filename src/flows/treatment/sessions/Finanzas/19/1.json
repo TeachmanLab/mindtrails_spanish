@@ -1,0 +1,14 @@
+{
+    "header_text": "Comparando situaciones financieras",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comparando situaciones financieras"
+        },
+        {
+            "type": "Media",
+            "url": "./images/280.jpg"
+        }
+    ]
+}

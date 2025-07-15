@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Finanzas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tómate 15 minutos para trabajar en un aspecto de tu presupuesto que te cause estrés. Luego planifique algo agradable para hacer después."
+        }
+    ]
+}

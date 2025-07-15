@@ -1,0 +1,23 @@
+{
+    "header_text": "Padres visitando",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás organizando una fiesta de nacimiento para un miembro de tu familia hoy y ambos de tus padres están asistiendo. Están divorciados y a veces causan una escena embarazosa en público. Durante la fiesta, piensas en tus..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Padres visitando_Vida Familiar y Doméstica_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "padres"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

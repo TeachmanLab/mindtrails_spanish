@@ -1,0 +1,14 @@
+{
+    "header_text": "Lunes por la mañana",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Lunes por la mañana"
+        },
+        {
+            "type": "Media",
+            "url": "./images/304.jpg"
+        }
+    ]
+}

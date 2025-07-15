@@ -1,0 +1,14 @@
+{
+    "header_text": "Recuerdo conduciendo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Recuerdo conduciendo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/324.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Noticias decepcionantes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Noticias decepcionantes"
+        },
+        {
+            "type": "Media",
+            "url": "./images/70.jpg"
+        }
+    ]
+}

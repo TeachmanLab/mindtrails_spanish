@@ -1,0 +1,23 @@
+{
+    "header_text": "Creencias diferentes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tú y tu familia extendida tienen creencias políticas y religiosas muy diferentes. Haces un esfuerzo considerable para tener una buena relación con tu familia, pero desacuerdos en una reunión reciente causaron tensión. Con el tiempo, piensas que tu familia se volverá más..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Creencias diferentes_Vida Familiar y Doméstica_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "unida"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

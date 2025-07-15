@@ -1,0 +1,15 @@
+{
+    "header_text": "Opinión importante",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Terminas una tarea que tienes que entregar la próxima semana para le pides la opinión a tu jefe. Te dicen que el trabajo está bien, excepto por una sección incompleta. sientes que piensan que eres..."
+        },
+        {
+            "type": "Entry",
+            "name": "Opinión importante_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

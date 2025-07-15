@@ -1,0 +1,14 @@
+{
+    "header_text": "Going to Therapy",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Going to Therapy"
+        },
+        {
+            "type": "Media",
+            "url": "./images/167.jpg"
+        }
+    ]
+}

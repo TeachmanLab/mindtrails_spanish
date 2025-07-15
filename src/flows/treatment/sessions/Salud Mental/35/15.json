@@ -1,0 +1,14 @@
+{
+    "header_text": "Redes sociales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Redes sociales"
+        },
+        {
+            "type": "Media",
+            "url": "./images/356.jpg"
+        }
+    ]
+}

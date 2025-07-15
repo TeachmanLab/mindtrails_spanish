@@ -1,0 +1,15 @@
+{
+    "header_text": "Corriendo fuerte",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Quieres ir a algún lugar privado para estar lejos de los demás. Decides quedarte donde estás y respirar..."
+        },
+        {
+            "type": "Entry",
+            "name": "Corriendo fuerte_Salud Física_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Errores tipográficos problemáticos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Errores tipográficos problemáticos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/47.jpg"
+        }
+    ]
+}

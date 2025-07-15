@@ -1,0 +1,23 @@
+{
+    "header_text": "Haciendo un brindis",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás en una fiesta de cumpleaños con algunos amigos. Más tarde en la noche, tu amigo te pide que hagas un brindis aunque no tengas nada preparado. Después, sientes que a los demás les gustó tu..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Haciendo un brindis_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "brindis"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

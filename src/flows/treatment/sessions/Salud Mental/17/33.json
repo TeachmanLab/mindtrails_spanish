@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "La tristeza es una respuesta natural cuando no podemos controlar una situación o hemos experimentado una pérdida. Si se siente triste, intente descubrir qué está causando ese sentimiento."
+        }
+    ]
+}

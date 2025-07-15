@@ -1,0 +1,15 @@
+{
+    "header_text": "Subiendo una montaña",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Llegas a la cima de las montañas y tus amigos están tomando fotos. Aunque estás ansioso, miras alrededor y..."
+        },
+        {
+            "type": "Entry",
+            "name": "Subiendo una montaña_Salud Física_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

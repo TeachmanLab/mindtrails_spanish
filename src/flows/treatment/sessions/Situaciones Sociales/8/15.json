@@ -1,0 +1,14 @@
+{
+    "header_text": "Mensajes en redes sociales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Mensajes en redes sociales"
+        },
+        {
+            "type": "Media",
+            "url": "./images/223.jpg"
+        }
+    ]
+}

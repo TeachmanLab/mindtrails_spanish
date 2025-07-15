@@ -1,0 +1,11 @@
+{
+    "header_text": "Apoyo y Consejo Financiero",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "html": true,
+            "text": "<b><font color=\"#9769ED\" size=6>211 (EEUU) en español</font></b>\n               <br/><br/>211 conecta a personas en EEUU con recursos económicos locales.<br/><br/>\n               <a href=\"https://www.es.211.org/\">https://www.es.211.org/</a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>Money Smart de la FDIC</font></b>\n               <br/><br/>El programa “Money Smart” de la FDIC ayuda a las personas a aprender más habilidades financieras y a crear relaciones bancarias positivas. También incluye información para apoyar a los padres/cuidadores de niños de todas las edades.<br/><br/>\n               <a href=\"https://bit.ly/ams_es\">https://bit.ly/ams_es</a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>Deudores Anónimos</font></b>\n               <br/><br/>Ofrece programa de 12 pasos para personas que quieren dejar de incurrir en deudas.<br/><br/>\n               <a href=\"http://bit.ly/DeAn_espr\">http://bit.ly/DeAn_espr</a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>Mi Dinero: Herramientas</font></b>\n               <br/><br/>Mi Dinero: Herramientas es una página que ofrece información y plantillas para ayudar con la educación y la planificación financiera. Cada sección tiene herramientas para temas como la elaboración de presupuestos, manejo de deudas, y más.<br/><br/>\n               <a href=\"https://bit.ly/mdh_espr \">https://bit.ly/mdh_espr </a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>Cómo dar prioridad a las deudas: ¿Cuáles pago primero?</font></b>\n               <br/><br/>Este sitio explica las prioridades que uno mismo puede tener al decidir salir de deudas. Ofrece consejos e ideas para recursos<br/><br/>\n               <a href=\"https://bit.ly/3gQ8VCR\">https://bit.ly/3gQ8VCR</a>"
+        }
+    ]
+}

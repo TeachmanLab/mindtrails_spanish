@@ -1,0 +1,14 @@
+{
+    "header_text": "No invitado a cenar",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "No invitado a cenar"
+        },
+        {
+            "type": "Media",
+            "url": "./images/15.jpg"
+        }
+    ]
+}

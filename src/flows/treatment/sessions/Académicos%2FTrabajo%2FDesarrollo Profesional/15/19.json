@@ -1,0 +1,14 @@
+{
+    "header_text": "Tomando notas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tomando notas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/83.jpg"
+        }
+    ]
+}

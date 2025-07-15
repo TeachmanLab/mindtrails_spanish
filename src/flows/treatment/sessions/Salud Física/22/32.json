@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Si nota que no se siente bien, recuerde que hay una variedad de razones de bajo riesgo por las cuales podría sentirse así (por ejemplo, puede estar cansado, puede haber comido algo malo, etc.)."
+        }
+    ]
+}

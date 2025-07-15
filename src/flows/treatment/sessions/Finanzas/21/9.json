@@ -1,0 +1,25 @@
+{
+    "header_text": "Responsibilidad financiera: Sentimientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Su pareja estuvo en el hospital recientemente y usted ha estado ayudando a pagar sus facturas médicas. Te preguntas qué significará esto para tus finanzas en el futuro.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Me aterroriza pensar que nunca nos recuperaremos financieramente de esto.",
+                "Estoy encantada de que mi pareja haya salido del hospital.",
+                "Tengo miedo de lo que esto significa para mis finanzas, pero confío en que lo resolveremos.",
+                "Confío en nuestro plan para manejar esta situación.",
+                "La incertidumbre de esta situación es incómoda, pero puedo tolerarla."
+            ],
+            "Duration": 15
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Trabajos bien pagados",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Trabajos bien pagados"
+        },
+        {
+            "type": "Media",
+            "url": "./images/274.jpg"
+        }
+    ]
+}

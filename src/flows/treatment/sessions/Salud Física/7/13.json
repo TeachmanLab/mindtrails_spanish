@@ -1,0 +1,14 @@
+{
+    "header_text": "Fiesta de cumpleaños",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Fiesta de cumpleaños"
+        },
+        {
+            "type": "Media",
+            "url": "./images/409.jpg"
+        }
+    ]
+}

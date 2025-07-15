@@ -1,0 +1,14 @@
+{
+    "header_text": "Preocupaciones por el ritmo cardíaco",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Preocupaciones por el ritmo cardíaco"
+        },
+        {
+            "type": "Media",
+            "url": "./images/363.jpg"
+        }
+    ]
+}

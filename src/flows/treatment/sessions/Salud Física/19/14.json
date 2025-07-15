@@ -1,0 +1,14 @@
+{
+    "header_text": "Corriendo una maratón",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Corriendo una maratón"
+        },
+        {
+            "type": "Media",
+            "url": "./images/417.jpg"
+        }
+    ]
+}

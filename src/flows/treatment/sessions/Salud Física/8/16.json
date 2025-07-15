@@ -1,0 +1,14 @@
+{
+    "header_text": "sintiéndote mareado",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "sintiéndote mareado"
+        },
+        {
+            "type": "Media",
+            "url": "./images/418.jpg"
+        }
+    ]
+}

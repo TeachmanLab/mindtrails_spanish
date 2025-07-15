@@ -1,0 +1,22 @@
+{
+    "header_text": "El análisis de sangre",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás en una cita médica de rutina. En la cita, el médico decide realizar algunos análisis de sangre para comprobar tu salud. El médico dice que te llamará en unas semanas y que en ese momento conocerás los resultados de tus pruebas..."
+        },
+        {
+            "type": "WordPuzzle",
+            "right_feedback": "Correcto!",
+            "wrong_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "wrong_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "tiempo"
+            ],
+            "name": "IBM_blood_puzzle"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

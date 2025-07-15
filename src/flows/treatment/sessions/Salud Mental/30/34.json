@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cuando se sienta abrumado, tómese un momento para notar tres cosas en su entorno que le llamen la atención (por ejemplo, ¿la persona sentada a su lado usa zapatos geniales?)"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "Corriendo con un amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Imaginas que la carrera será..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Corriendo con un amigo_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Demasiado rápida para ti, sin importar cuánto te esfuerces.",
+                "A un ritmo que puedes lograr si te esfuerzas mucho."
+            ],
+            "columnCount": 1,
+            "correct_value": "Demasiado rápida para ti, sin importar cuánto te esfuerces."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

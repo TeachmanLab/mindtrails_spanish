@@ -1,0 +1,14 @@
+{
+    "header_text": "Nueva ciudad, nuevos amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Nueva ciudad, nuevos amigos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/475.jpg"
+        }
+    ]
+}

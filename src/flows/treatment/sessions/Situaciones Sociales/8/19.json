@@ -1,0 +1,14 @@
+{
+    "header_text": "Prepararte para tener éxito",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Prepararte para tener éxito"
+        },
+        {
+            "type": "Media",
+            "url": "./images/64.jpg"
+        }
+    ]
+}

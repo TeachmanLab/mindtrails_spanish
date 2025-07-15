@@ -1,0 +1,15 @@
+{
+    "header_text": "sintiéndote preocupado por las noticias",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Notas que tu pareja no parece molesto al escuchar las noticias. Piensas que todo estará..."
+        },
+        {
+            "type": "Entry",
+            "name": "sintiéndote preocupado por las noticias_Finanzas_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

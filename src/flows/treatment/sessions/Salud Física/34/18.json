@@ -1,0 +1,14 @@
+{
+    "header_text": "Prueba de enfermedad",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Prueba de enfermedad"
+        },
+        {
+            "type": "Media",
+            "url": "./images/382.jpg"
+        }
+    ]
+}

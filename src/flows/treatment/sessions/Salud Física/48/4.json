@@ -1,0 +1,14 @@
+{
+    "header_text": "Ruido repentino",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ruido repentino"
+        },
+        {
+            "type": "Media",
+            "url": "./images/386.jpg"
+        }
+    ]
+}

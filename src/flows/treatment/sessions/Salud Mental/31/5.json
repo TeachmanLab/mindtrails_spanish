@@ -1,0 +1,25 @@
+{
+    "header_text": "Araña perdida:Pensamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cuando entras a la ducha, ves una enorme arana en la pared. Te das la vuelta por un segundo, miras hacia atrás y te das cuenta de que ya no está. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Creo que volvió a su casa.",
+                "Pienso en cómo podría morderme, pero recuerdo que probablemente esté tratando de evitarme a mí y al agua.",
+                "¡Se me va a arrastrar encima!",
+                "Me alegro que se haya ido.",
+                "Pienso que podría ser venenoso, pero me doy cuenta de que las posibilidades de que ocurra son escasas."
+            ],
+            "Duration": 15
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

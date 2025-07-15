@@ -1,0 +1,14 @@
+{
+    "header_text": "Manejando tu tarjeta de crédito",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Manejando tu tarjeta de crédito"
+        },
+        {
+            "type": "Media",
+            "url": "./images/279.jpg"
+        }
+    ]
+}

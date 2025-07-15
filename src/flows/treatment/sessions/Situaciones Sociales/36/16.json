@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Piensa en algo positivo que haya sucedido cuando interactuaste con alguien hoy y saborea cómo te sentiste durante esa experiencia. "
+        }
+    ]
+}

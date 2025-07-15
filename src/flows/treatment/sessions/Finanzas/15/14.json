@@ -1,0 +1,14 @@
+{
+    "header_text": "Asistiendo a un espectáculo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Asistiendo a un espectáculo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/265.jpg"
+        }
+    ]
+}

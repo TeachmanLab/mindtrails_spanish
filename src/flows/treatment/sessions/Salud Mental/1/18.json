@@ -1,0 +1,27 @@
+{
+    "header_text": "Una oportunidad perdida",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Reflexionando sobre el partido de fútbol, piensas que..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Una oportunidad perdida_Salud Mental_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Intentaste lo mejor posible y jugaste bien.",
+                "Jugaste mal."
+            ],
+            "columnCount": 1,
+            "correct_value": "Intentaste lo mejor posible y jugaste bien."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

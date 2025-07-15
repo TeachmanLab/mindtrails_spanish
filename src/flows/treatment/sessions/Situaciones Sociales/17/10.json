@@ -1,0 +1,27 @@
+{
+    "header_text": "Presentación importante",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "En la conferencia, la gente probablemente pensará que..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Presentación importante_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Te ves incómodo dando tu presentación.",
+                "Haces un buen trabajo explicando tu trabajo reciente."
+            ],
+            "columnCount": 1,
+            "correct_value": "Haces un buen trabajo explicando tu trabajo reciente."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

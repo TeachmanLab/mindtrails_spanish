@@ -1,0 +1,14 @@
+{
+    "header_text": "Amigo ruidoso",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Amigo ruidoso"
+        },
+        {
+            "type": "Media",
+            "url": "./images/531.jpg"
+        }
+    ]
+}

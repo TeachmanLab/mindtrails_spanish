@@ -1,0 +1,15 @@
+{
+    "header_text": "Presentación de tu trabajo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Has estado trabajando duro todo el año en un proyecto y tu jefe de departamento te ha invitado a hablar de ello en un evento. Muchos de tus amigos y compañeros de trabajo estarán allí, y no crees que tu trabajo sea suficiente para impresionarlos. Piensas que su jefe de departamento le invitó por una razón y su trabajo vale la pena... "
+        },
+        {
+            "type": "Entry",
+            "name": "Presentación de tu trabajo_Salud Mental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

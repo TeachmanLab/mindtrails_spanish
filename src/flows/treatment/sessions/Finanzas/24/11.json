@@ -1,0 +1,15 @@
+{
+    "header_text": "Tratar a un amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu amigo te ha estado apoyando en un momento difícil y estás realmente agradecido por su apoyo. Quieres darle las gracias tratándolos a cenar, pero no tienes suficiente dinero para llevarlos a un restaurante. Decides hacerles una cena casera y pensas que serán... "
+        },
+        {
+            "type": "Entry",
+            "name": "Tratar a un amigo_Finanzas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

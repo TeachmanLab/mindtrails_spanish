@@ -1,0 +1,14 @@
+{
+    "header_text": "Buscando una casa",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Buscando una casa"
+        },
+        {
+            "type": "Media",
+            "url": "./images/276.jpg"
+        }
+    ]
+}

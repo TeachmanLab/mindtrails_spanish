@@ -1,0 +1,15 @@
+{
+    "header_text": "Foto con amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tú y tu amigo tomaron algunas fotos juntos. Ves que te etiquetaron en una publicación y realmente no te gusta cómo te ves, pero sabes que a largo plazo no..."
+        },
+        {
+            "type": "Entry",
+            "name": "Foto con amigos_Salud Mental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

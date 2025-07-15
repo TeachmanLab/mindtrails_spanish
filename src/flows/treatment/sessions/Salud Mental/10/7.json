@@ -1,0 +1,15 @@
+{
+    "header_text": "Sentado en una reunión",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tomas un poco de agua y comienzas a sentirte más despierto, recordando que anoche no dormiste tanto como de costumbre. Decides que simplemente estás..."
+        },
+        {
+            "type": "Entry",
+            "name": "Sentado en una reunión_Salud Mental_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

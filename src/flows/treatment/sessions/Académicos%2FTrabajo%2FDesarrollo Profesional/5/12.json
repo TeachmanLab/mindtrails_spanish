@@ -1,0 +1,14 @@
+{
+    "header_text": "Tomar tu propia trayectoria profesional",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tomar tu propia trayectoria profesional"
+        },
+        {
+            "type": "Media",
+            "url": "./images/38.jpg"
+        }
+    ]
+}

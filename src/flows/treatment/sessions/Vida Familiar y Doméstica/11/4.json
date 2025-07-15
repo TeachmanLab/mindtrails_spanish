@@ -1,0 +1,15 @@
+{
+    "header_text": "Opiniones fuertes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu pareja tiene opiniones firmes y no siempre estás de acuerdo con ellas. Una noche, invitas a un amigo a cenar y sientes una posible tensión. \n\nHaga clic en Siguiente para ver algunas ideas."
+        },
+        {
+            "type": "Media",
+            "url": "./images/581.jpg",
+            "border": true
+        }
+    ]
+}

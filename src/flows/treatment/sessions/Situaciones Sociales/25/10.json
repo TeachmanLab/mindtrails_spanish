@@ -1,0 +1,14 @@
+{
+    "header_text": "Confianza creativa",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Confianza creativa"
+        },
+        {
+            "type": "Media",
+            "url": "./images/537.jpg"
+        }
+    ]
+}

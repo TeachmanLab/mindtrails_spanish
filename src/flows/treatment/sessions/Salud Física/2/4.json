@@ -1,0 +1,14 @@
+{
+    "header_text": "Cita con el doctor",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cita con el doctor"
+        },
+        {
+            "type": "Media",
+            "url": "./images/377.jpg"
+        }
+    ]
+}

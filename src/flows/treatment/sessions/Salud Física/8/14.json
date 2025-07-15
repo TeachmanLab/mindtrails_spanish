@@ -1,0 +1,15 @@
+{
+    "header_text": "Corriendo una maratón",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Has corrido unos 10 kilómetros y estás pensando en entrenar para correr una maratón. Disfrutas la sensación de logro cuando terminas una carrera de 10 km, pero te preocupa si tienes lo necesario para correr más de cuatro veces esa..."
+        },
+        {
+            "type": "Entry",
+            "name": "Corriendo una maratón_Salud Física_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

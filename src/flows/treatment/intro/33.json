@@ -1,0 +1,19 @@
+{
+    "header_text": "El ruido fuerte",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Te han despertado en mitad de la noche?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "selectable": true,
+            "name": "IBM_noise"
+        }
+    ]
+}

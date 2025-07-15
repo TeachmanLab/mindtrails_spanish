@@ -1,0 +1,14 @@
+{
+    "header_text": "Calentador",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Calentador"
+        },
+        {
+            "type": "Media",
+            "url": "./images/131.jpg"
+        }
+    ]
+}

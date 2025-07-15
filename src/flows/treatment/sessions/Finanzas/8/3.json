@@ -1,0 +1,15 @@
+{
+    "header_text": "Ingresos adicionales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recientemente te has sentido abrumado con el trabajo, pero sabes que necesitas conseguir un segundo trabajo para estar en una situación financiera más estable. Mientras buscabas trabajo en línea, viste un solicitud para un trabajo que suena muy divertido para ti. Piensas que trabajar este segundo trabajo será... "
+        },
+        {
+            "type": "Entry",
+            "name": "Ingresos adicionales_Finanzas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

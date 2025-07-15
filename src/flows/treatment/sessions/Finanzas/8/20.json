@@ -1,0 +1,15 @@
+{
+    "header_text": "Mercado de trabajo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recientemente viste en las noticias que la economía ha estado particularmente mal. Aunque tu jefe normalmente te da buenas críticas, te preguntas si tu trabajo es seguro. Crees que probablemente estarás..."
+        },
+        {
+            "type": "Entry",
+            "name": "Mercado de trabajo_Finanzas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

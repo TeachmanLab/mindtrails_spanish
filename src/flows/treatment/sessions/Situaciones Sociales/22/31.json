@@ -1,0 +1,14 @@
+{
+    "header_text": "Un saludo de bienvenida",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Un saludo de bienvenida"
+        },
+        {
+            "type": "Media",
+            "url": "./images/529.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Proyecto de escritura",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Proyecto de escritura"
+        },
+        {
+            "type": "Media",
+            "url": "./images/102.jpg"
+        }
+    ]
+}

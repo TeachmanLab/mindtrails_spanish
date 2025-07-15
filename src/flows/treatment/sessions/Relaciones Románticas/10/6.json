@@ -1,0 +1,14 @@
+{
+    "header_text": "Terminando a large distancia",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Terminando a large distancia"
+        },
+        {
+            "type": "Media",
+            "url": "./images/234.jpg"
+        }
+    ]
+}

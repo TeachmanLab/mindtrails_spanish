@@ -1,0 +1,23 @@
+{
+    "header_text": "Escala de ansiedad",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Durante la semana pasada, ¿con qué frecuencia te sentiste ansioso?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Sin ansiedad en la última semana",
+                "Ansiedad poco frecuente. Me sentí ansioso algunas veces.",
+                "Ansiedad ocasional. Me sentí ansioso la mayor parte del tiempo. Fue difícil relajarse.",
+                "Ansiedad frecuente. Me sentí ansioso la mayor parte del tiempo. Fue muy difícil relajarse.",
+                "Ansiedad constante. Me sentí ansioso todo el tiempo y nunca realmente relajado.",
+                "^Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "biweekly_days_anxious"
+        }
+    ]
+}

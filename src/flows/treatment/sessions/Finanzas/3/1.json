@@ -1,0 +1,14 @@
+{
+    "header_text": "Permitirse la educación",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Permitirse la educación"
+        },
+        {
+            "type": "Media",
+            "url": "./images/158.jpg"
+        }
+    ]
+}

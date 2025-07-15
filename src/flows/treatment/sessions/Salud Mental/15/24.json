@@ -1,0 +1,14 @@
+{
+    "header_text": "Resultados de la evaluación",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Resultados de la evaluación"
+        },
+        {
+            "type": "Media",
+            "url": "./images/72.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Usando algo viejo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Usando algo viejo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/146.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Comparándote con otros",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comparándote con otros"
+        },
+        {
+            "type": "Media",
+            "url": "./images/188.jpg"
+        }
+    ]
+}

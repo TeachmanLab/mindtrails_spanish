@@ -1,0 +1,14 @@
+{
+    "header_text": "Costos de la sesión",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Costos de la sesión"
+        },
+        {
+            "type": "Media",
+            "url": "./images/295.jpg"
+        }
+    ]
+}

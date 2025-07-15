@@ -1,0 +1,14 @@
+{
+    "header_text": "Celebraciones en un juego deportivo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Celebraciones en un juego deportivo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/388.jpg"
+        }
+    ]
+}

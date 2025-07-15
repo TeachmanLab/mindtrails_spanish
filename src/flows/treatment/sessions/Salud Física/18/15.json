@@ -1,0 +1,14 @@
+{
+    "header_text": "Planes para visitar a la familia",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Planes para visitar a la familia"
+        },
+        {
+            "type": "Media",
+            "url": "./images/456.jpg"
+        }
+    ]
+}

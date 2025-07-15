@@ -1,0 +1,23 @@
+{
+    "header_text": "Reorganización después de la exposición",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tiene una presentación para su departamento próximamente y ha estado trabajando duro con la esperanza de impresionar a su supervisor. La noche anterior, descubres que un amigo con el que cenaste dio positivo por COVID. Cree que su supervisor lo comprenderá y lo ayudará a hacer los arreglos necesarios para realizar la presentación de manera..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Reorganización después de la exposición_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "segura"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

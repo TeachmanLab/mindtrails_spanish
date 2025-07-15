@@ -1,0 +1,15 @@
+{
+    "header_text": "Devolución de chaqueta",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Al final, te das cuenta de que la persona en el mostrador estaba muy estresada debido a un cliente anterior, y cuando empezaron a ayudarte, fueron muy..."
+        },
+        {
+            "type": "Entry",
+            "name": "Devolución de chaqueta_Situaciones Sociales_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

@@ -1,0 +1,15 @@
+{
+    "header_text": "Tomando transporte",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "sientes un impulso fuerte de bajarte del avión y volver a casa, pero te sientas en el asiento más cercano. En lugar de salir, decides observar estas sensaciones y quedarte..."
+        },
+        {
+            "type": "Entry",
+            "name": "Tomando transporte_Salud Física_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

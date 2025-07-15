@@ -1,0 +1,14 @@
+{
+    "header_text": "Cambiar tus planes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cambiar tus planes"
+        },
+        {
+            "type": "Media",
+            "url": "./images/110.jpg"
+        }
+    ]
+}

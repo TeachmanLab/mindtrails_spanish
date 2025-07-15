@@ -1,0 +1,14 @@
+{
+    "header_text": "Invitando a alguien a salir",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Invitando a alguien a salir"
+        },
+        {
+            "type": "Media",
+            "url": "./images/178.jpg"
+        }
+    ]
+}

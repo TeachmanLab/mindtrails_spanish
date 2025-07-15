@@ -1,0 +1,14 @@
+{
+    "header_text": "Hablando sobre vivienda",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Hablando sobre vivienda"
+        },
+        {
+            "type": "Media",
+            "url": "./images/166.jpg"
+        }
+    ]
+}

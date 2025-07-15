@@ -1,0 +1,14 @@
+{
+    "header_text": "Presentación de clase",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Presentación de clase"
+        },
+        {
+            "type": "Media",
+            "url": "./images/431.jpg"
+        }
+    ]
+}

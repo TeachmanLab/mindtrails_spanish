@@ -1,0 +1,15 @@
+{
+    "header_text": "Respondiendo una pregunta",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "En una reunión con algunos colegas y su jefe, su jefe le pide que responda una pregunta. Dices tu mejor respuesta y tus companeros guardan silencio.\n\nHaga clic en Siguiente para ver algunas ideas."
+        },
+        {
+            "type": "Media",
+            "url": "./images/563.jpg",
+            "border": true
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Compartir las tradiciones familiares",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Compartir las tradiciones familiares"
+        },
+        {
+            "type": "Media",
+            "url": "./images/170.jpg"
+        }
+    ]
+}

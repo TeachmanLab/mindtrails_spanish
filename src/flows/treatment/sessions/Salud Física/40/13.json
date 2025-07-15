@@ -1,0 +1,14 @@
+{
+    "header_text": "Sudando a través de tu camisa",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sudando a través de tu camisa"
+        },
+        {
+            "type": "Media",
+            "url": "./images/428.jpg"
+        }
+    ]
+}

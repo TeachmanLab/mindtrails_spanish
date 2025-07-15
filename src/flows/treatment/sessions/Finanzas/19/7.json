@@ -1,0 +1,14 @@
+{
+    "header_text": "Encontrando un compañero de cuarto",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Encontrando un compañero de cuarto"
+        },
+        {
+            "type": "Media",
+            "url": "./images/282.jpg"
+        }
+    ]
+}

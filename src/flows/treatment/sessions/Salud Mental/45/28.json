@@ -1,0 +1,14 @@
+{
+    "header_text": "Decidir compartir una imagen",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Decidir compartir una imagen"
+        },
+        {
+            "type": "Media",
+            "url": "./images/362.jpg"
+        }
+    ]
+}

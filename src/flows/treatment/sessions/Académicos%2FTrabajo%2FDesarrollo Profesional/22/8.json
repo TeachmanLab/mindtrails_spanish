@@ -1,0 +1,14 @@
+{
+    "header_text": "Cambiando tu trayectoria",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cambiando tu trayectoria"
+        },
+        {
+            "type": "Media",
+            "url": "./images/53.jpg"
+        }
+    ]
+}

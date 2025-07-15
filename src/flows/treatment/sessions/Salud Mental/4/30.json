@@ -1,0 +1,14 @@
+{
+    "header_text": "Pensamientos acelerados",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Pensamientos acelerados"
+        },
+        {
+            "type": "Media",
+            "url": "./images/314.jpg"
+        }
+    ]
+}

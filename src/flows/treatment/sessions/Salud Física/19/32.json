@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Piense en momentos de su pasado en los que estuvo preocupado por un aspecto de su salud física que terminó siendo perfectamente normal."
+        }
+    ]
+}

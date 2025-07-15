@@ -1,0 +1,25 @@
+{
+    "header_text": "Trabajar en grupos: Sentimientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu jefe les dice a todos que manana os dividiréis en pequenos grupos para planificar nuevos proyectos de trabajo. También dicen que tendrás que elegir tu grupo, pero te das cuenta de que no tienes amigos cercanos en tu lugar de trabajo.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Me entristece que nadie me conozca tan bien, pero me siento mejor pensando que les agradaré una vez que me conozcan mejor.",
+                "Estoy nervioso porque no tengo buenas ideas.",
+                "Estoy emocionado de hacer nuevos amigos.",
+                "Me siento impulsado a hacer mi mejor trabajo.",
+                "Tengo miedo de que mi grupo me excluya, pero sepan que esta discusión sólo durará unos minutos."
+            ],
+            "Duration": 15
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

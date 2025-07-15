@@ -1,0 +1,23 @@
+{
+    "header_text": "Subiendo una montaña",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás en una caminata con un grupo de amigos y todos quieren subir una montaña bastante alta. Mientras escalas la montaña, miras hacia abajo y sientes cómo se te cae el estómago. Piensas que esta caminata será..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Subiendo una montaña_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "aterradora"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "El partido de futból",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "El partido de futból"
+        },
+        {
+            "type": "Media",
+            "url": "./images/506.jpg"
+        }
+    ]
+}

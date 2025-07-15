@@ -1,0 +1,14 @@
+{
+    "header_text": "Tomando un descanso",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tomando un descanso"
+        },
+        {
+            "type": "Media",
+            "url": "./images/291.jpg"
+        }
+    ]
+}

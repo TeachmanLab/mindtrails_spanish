@@ -1,0 +1,14 @@
+{
+    "header_text": "Malentendido",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Malentendido"
+        },
+        {
+            "type": "Media",
+            "url": "./images/80.jpg"
+        }
+    ]
+}

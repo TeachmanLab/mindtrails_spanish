@@ -1,0 +1,14 @@
+{
+    "header_text": "Reunión de mañana",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Reunión de mañana"
+        },
+        {
+            "type": "Media",
+            "url": "./images/544.jpg"
+        }
+    ]
+}

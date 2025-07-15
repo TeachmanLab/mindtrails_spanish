@@ -1,0 +1,14 @@
+{
+    "header_text": "Llamada telefónica del lunes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Llamada telefónica del lunes"
+        },
+        {
+            "type": "Media",
+            "url": "./images/141.jpg"
+        }
+    ]
+}

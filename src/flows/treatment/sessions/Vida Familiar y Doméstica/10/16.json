@@ -1,0 +1,15 @@
+{
+    "header_text": "Costos inesperados",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Considerando la posibilidad de comprar, decides elaborar un presupuesto para comprar una casa y piensas que manejar la incertidumbre de tus estimaciones será..."
+        },
+        {
+            "type": "Entry",
+            "name": "Costos inesperados_Vida Familiar y Doméstica_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

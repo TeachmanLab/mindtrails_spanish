@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Escribe tus sentimientos y valida cada uno de los que expresas. Recuerde que no existen emociones \"buenas\" o \"malas\", aunque puede resultar útil identificar la fuente de sus emociones para comprender la función que cumplen."
+        }
+    ]
+}

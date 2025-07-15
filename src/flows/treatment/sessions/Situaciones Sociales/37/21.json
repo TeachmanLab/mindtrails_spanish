@@ -1,0 +1,14 @@
+{
+    "header_text": "Aprender a bailar en las redes sociales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Aprender a bailar en las redes sociales"
+        },
+        {
+            "type": "Media",
+            "url": "./images/551.jpg"
+        }
+    ]
+}

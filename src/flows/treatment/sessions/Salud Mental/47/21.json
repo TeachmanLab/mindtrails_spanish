@@ -1,0 +1,14 @@
+{
+    "header_text": "Tiempo para ti mismo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tiempo para ti mismo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/149.jpg"
+        }
+    ]
+}

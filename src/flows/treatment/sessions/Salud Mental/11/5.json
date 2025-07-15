@@ -1,0 +1,25 @@
+{
+    "header_text": "Marcado en una foto:Pensamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tú y tus amigos tomaron algunas fotografías juntos. Al día siguiente, recibes una notificación de que te etiquetaron en una publicación en las redes sociales. No te gusta cómo te ves en la foto.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Mis amigos tienen perfiles hermosos.",
+                "Puede que a la gente no le guste la foto, pero me siento bien cuando mis amigos me aprecian.",
+                "A mis amigos les gusta salir conmigo.",
+                "La gente va a juzgar cómo me veo.",
+                "No creo que luzco bien en la foto, pero probablemente luzco mejor ante otras personas."
+            ],
+            "Duration": 15
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

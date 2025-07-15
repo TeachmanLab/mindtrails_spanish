@@ -1,0 +1,14 @@
+{
+    "header_text": "1, 2, 3. Ojos puestos en mí",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "1, 2, 3. Ojos puestos en mí"
+        },
+        {
+            "type": "Media",
+            "url": "./images/101.jpg"
+        }
+    ]
+}

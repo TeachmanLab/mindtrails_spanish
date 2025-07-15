@@ -1,0 +1,14 @@
+{
+    "header_text": "Conflictos de convivencia",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Conflictos de convivencia"
+        },
+        {
+            "type": "Media",
+            "url": "./images/139.jpg"
+        }
+    ]
+}

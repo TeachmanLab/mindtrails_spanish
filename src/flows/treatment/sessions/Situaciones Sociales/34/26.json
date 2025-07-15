@@ -1,0 +1,14 @@
+{
+    "header_text": "Plato típico",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Plato típico"
+        },
+        {
+            "type": "Media",
+            "url": "./images/471.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Dedos hormigueando",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dedos hormigueando"
+        },
+        {
+            "type": "Media",
+            "url": "./images/394.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Presentando a tus amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Presentando a tus amigos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/150.jpg"
+        }
+    ]
+}

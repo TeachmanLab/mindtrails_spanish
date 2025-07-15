@@ -1,0 +1,14 @@
+{
+    "header_text": "Sentirse entumecido",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sentirse entumecido"
+        },
+        {
+            "type": "Media",
+            "url": "./images/327.jpg"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "header_text": "Yendo de vacaciones",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te vas de vacaciones por unos días. Decides verificar nuevamente que todos los electrodomésticos de tu casa estén apagados. Al cerrar la puerta de tu casa, te sientes..."
+        },
+        {
+            "type": "Entry",
+            "name": "Yendo de vacaciones_Salud Mental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

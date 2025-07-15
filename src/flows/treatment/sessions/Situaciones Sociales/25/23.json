@@ -1,0 +1,14 @@
+{
+    "header_text": "sintiéndote ansioso",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "sintiéndote ansioso"
+        },
+        {
+            "type": "Media",
+            "url": "./images/11.jpg"
+        }
+    ]
+}

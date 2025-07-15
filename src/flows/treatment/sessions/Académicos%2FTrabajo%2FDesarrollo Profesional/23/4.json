@@ -1,0 +1,14 @@
+{
+    "header_text": "Certidumbre de estar en lo correcto",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Certidumbre de estar en lo correcto"
+        },
+        {
+            "type": "Media",
+            "url": "./images/15.jpg"
+        }
+    ]
+}

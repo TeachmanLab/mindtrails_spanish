@@ -1,0 +1,14 @@
+{
+    "header_text": "Tocando el piano",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tocando el piano"
+        },
+        {
+            "type": "Media",
+            "url": "./images/533.jpg"
+        }
+    ]
+}

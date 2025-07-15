@@ -1,0 +1,14 @@
+{
+    "header_text": "Asistir a una boda solo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Asistir a una boda solo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/480.jpg"
+        }
+    ]
+}

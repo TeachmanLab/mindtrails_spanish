@@ -1,0 +1,14 @@
+{
+    "header_text": "Miedo de la decepción",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Miedo de la decepción"
+        },
+        {
+            "type": "Media",
+            "url": "./images/273.jpg"
+        }
+    ]
+}

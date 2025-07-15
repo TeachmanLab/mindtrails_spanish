@@ -1,0 +1,15 @@
+{
+    "header_text": "Pánico de presentación",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Decides tomar un respiro lento y profundo. Al empezar a hablar de nuevo, te das cuenta de que lo que sentiste era..."
+        },
+        {
+            "type": "Entry",
+            "name": "Pánico de presentación_Salud Física_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

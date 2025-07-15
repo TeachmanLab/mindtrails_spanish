@@ -1,0 +1,14 @@
+{
+    "header_text": "Boca seca",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Boca seca"
+        },
+        {
+            "type": "Media",
+            "url": "./images/395.jpg"
+        }
+    ]
+}

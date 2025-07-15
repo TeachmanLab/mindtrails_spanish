@@ -1,0 +1,14 @@
+{
+    "header_text": "Ver a otros salir",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ver a otros salir"
+        },
+        {
+            "type": "Media",
+            "url": "./images/525.jpg"
+        }
+    ]
+}

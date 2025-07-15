@@ -1,0 +1,14 @@
+{
+    "header_text": "Cumpleaños de un amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cumpleaños de un amigo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/268.jpg"
+        }
+    ]
+}

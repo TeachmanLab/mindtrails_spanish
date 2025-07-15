@@ -1,0 +1,14 @@
+{
+    "header_text": "Exposure Guilt",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Exposure Guilt"
+        },
+        {
+            "type": "Media",
+            "url": "./images/451.jpg"
+        }
+    ]
+}

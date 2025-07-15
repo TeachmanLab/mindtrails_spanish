@@ -1,0 +1,14 @@
+{
+    "header_text": "Una discusión acalorada",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Una discusión acalorada"
+        },
+        {
+            "type": "Media",
+            "url": "./images/565.jpg"
+        }
+    ]
+}

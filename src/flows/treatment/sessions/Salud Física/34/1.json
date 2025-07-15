@@ -1,0 +1,14 @@
+{
+    "header_text": "Resultados de análisis de sangre",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Resultados de análisis de sangre"
+        },
+        {
+            "type": "Media",
+            "url": "./images/328.jpg"
+        }
+    ]
+}

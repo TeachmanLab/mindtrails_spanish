@@ -1,0 +1,14 @@
+{
+    "header_text": "Vecino amigable",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Vecino amigable"
+        },
+        {
+            "type": "Media",
+            "url": "./images/408.jpg"
+        }
+    ]
+}

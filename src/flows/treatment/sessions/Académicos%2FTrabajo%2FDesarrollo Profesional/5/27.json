@@ -1,0 +1,14 @@
+{
+    "header_text": "Comentarios en las redes sociales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comentarios en las redes sociales"
+        },
+        {
+            "type": "Media",
+            "url": "./images/43.jpg"
+        }
+    ]
+}

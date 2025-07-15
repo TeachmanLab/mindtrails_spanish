@@ -1,0 +1,14 @@
+{
+    "header_text": "Anticipación de entrevista",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Anticipación de entrevista"
+        },
+        {
+            "type": "Media",
+            "url": "./images/87.jpg"
+        }
+    ]
+}

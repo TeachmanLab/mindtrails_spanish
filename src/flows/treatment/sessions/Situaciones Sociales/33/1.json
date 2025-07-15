@@ -1,0 +1,14 @@
+{
+    "header_text": "Compañero de cuarto ausente",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Compañero de cuarto ausente"
+        },
+        {
+            "type": "Media",
+            "url": "./images/169.jpg"
+        }
+    ]
+}

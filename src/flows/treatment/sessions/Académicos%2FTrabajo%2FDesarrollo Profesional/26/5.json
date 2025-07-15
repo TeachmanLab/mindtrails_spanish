@@ -1,0 +1,25 @@
+{
+    "header_text": "Balancear responsibilidades:Pensamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tienes muchas tareas domésticas que hacer esta noche y también tienes un gran proyecto que debes entregar manana. Ambos tienen que hacerse y usted piensa en cómo manejará todo.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Creo que esto me ayudará a organizarme cuidadosamente en el futuro.",
+                "Creo que esto es demasiado trabajo, pero considere lo bien que se sentirá cuando esté todo terminado.",
+                "No creo que pueda realizar todas estas tareas.",
+                "Puedo gestionar ambas tareas.",
+                "Odio sentir que tengo mucho que hacer, pero haré lo mejor que pueda para hacerlo todo."
+            ],
+            "Duration": 15
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

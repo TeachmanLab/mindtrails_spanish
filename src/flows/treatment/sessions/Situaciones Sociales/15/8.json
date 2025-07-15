@@ -1,0 +1,14 @@
+{
+    "header_text": "Esperando una respuesta",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Esperando una respuesta"
+        },
+        {
+            "type": "Media",
+            "url": "./images/174.jpg"
+        }
+    ]
+}

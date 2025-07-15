@@ -1,0 +1,14 @@
+{
+    "header_text": "Recibir reconocimiento",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Recibir reconocimiento"
+        },
+        {
+            "type": "Media",
+            "url": "./images/109.jpg"
+        }
+    ]
+}

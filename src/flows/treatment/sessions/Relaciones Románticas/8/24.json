@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Relaciones Románticas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Usa frases en primera persona (Yo siento ___ porque ___) cuando comuniques tus emociones a tu pareja. Y, trate de no usar declaraciones \"tú\" (Estás siendo). "
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Equilibrio de trabajo y amistades",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Equilibrio de trabajo y amistades"
+        },
+        {
+            "type": "Media",
+            "url": "./images/29.jpg"
+        }
+    ]
+}

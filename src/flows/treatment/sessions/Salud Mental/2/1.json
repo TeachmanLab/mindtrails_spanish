@@ -1,0 +1,14 @@
+{
+    "header_text": "Confiar en ti mismo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Confiar en ti mismo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/321.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Corriendo fuerte",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Corriendo fuerte"
+        },
+        {
+            "type": "Media",
+            "url": "./images/438.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Asustado en tu caminata",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Asustado en tu caminata"
+        },
+        {
+            "type": "Media",
+            "url": "./images/386.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Pasando tiempo con amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Pasando tiempo con amigos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/518.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Reloj favorito",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Reloj favorito"
+        },
+        {
+            "type": "Media",
+            "url": "./images/320.jpg"
+        }
+    ]
+}

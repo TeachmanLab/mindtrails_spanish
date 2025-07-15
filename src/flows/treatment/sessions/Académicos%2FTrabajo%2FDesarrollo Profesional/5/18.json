@@ -1,0 +1,14 @@
+{
+    "header_text": "La audición",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "La audición"
+        },
+        {
+            "type": "Media",
+            "url": "./images/40.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Nueva pareja",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Nueva pareja"
+        },
+        {
+            "type": "Media",
+            "url": "./images/225.jpg"
+        }
+    ]
+}

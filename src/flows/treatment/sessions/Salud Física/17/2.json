@@ -1,0 +1,23 @@
+{
+    "header_text": "Mascarillas con piel sensible",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tienes la piel sensible y usar una mascarilla te provoca brotes. Cuando ves personas sin máscaras, su piel está completamente clara. Te sientes inseguro acerca de cuánto acné..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Mascarillas con piel sensible_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "tienes"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

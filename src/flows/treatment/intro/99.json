@@ -1,0 +1,21 @@
+{
+    "header_text": "Ejercicio de limón",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Ahora imagina que exprimes el limón y un poco del jugo te cae directamente a los ojos, y te pica mucho y te lloran."
+        },
+        {
+            "type": "Media",
+            "url": "./images/lemon6.jpg",
+            "border": true
+        }
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 2000
+        },
+        "wait_for_click"
+    ]
+}

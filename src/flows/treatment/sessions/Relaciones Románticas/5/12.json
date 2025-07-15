@@ -1,0 +1,14 @@
+{
+    "header_text": "Temas difíciles",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Temas difíciles"
+        },
+        {
+            "type": "Media",
+            "url": "./images/208.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Trip After COVID",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Trip After COVID"
+        },
+        {
+            "type": "Media",
+            "url": "./images/263.jpg"
+        }
+    ]
+}

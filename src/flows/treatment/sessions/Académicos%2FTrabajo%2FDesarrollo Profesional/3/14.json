@@ -1,0 +1,14 @@
+{
+    "header_text": "Mente va en blanco",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Mente va en blanco"
+        },
+        {
+            "type": "Media",
+            "url": "./images/24.jpg"
+        }
+    ]
+}

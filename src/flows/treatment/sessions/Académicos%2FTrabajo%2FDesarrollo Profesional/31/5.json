@@ -1,0 +1,25 @@
+{
+    "header_text": "Trabajar en grupos:Pensamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu jefe les dice a todos que manana os dividiréis en pequenos grupos para planificar nuevos proyectos de trabajo. También dicen que tendrás que elegir tu grupo, pero te das cuenta de que no tienes amigos cercanos en tu lugar de trabajo.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Puede que la gente no esté de acuerdo con mis ideas, pero creo que aun así tendremos una discusión interesante.",
+                "Nadie querrá estar en mi grupo.",
+                "Encontraré el grupo adecuado para mí.",
+                "Todos decidirán que quieren estar con personas que ya conocen, pero lo entiendo.",
+                "Hay mucha gente agradable en mi lugar de trabajo."
+            ],
+            "Duration": 15
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

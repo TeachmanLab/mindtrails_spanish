@@ -1,0 +1,14 @@
+{
+    "header_text": "Enviar mensajes de texto a otras personas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Enviar mensajes de texto a otras personas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/209.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Fecha límite cercana",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Fecha límite cercana"
+        },
+        {
+            "type": "Media",
+            "url": "./images/22.jpg"
+        }
+    ]
+}

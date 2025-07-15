@@ -1,0 +1,23 @@
+{
+    "header_text": "Ejercicio con un amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Es miércoles por la noche y tu amigo te convence ir a una clase de ejercicio cardiovascular de alta intensidad. En medio de la clase, dejas de hacer ejercicio porque sientes que no puedes recuperar el aliento. Cuando comienzas a tener pensamientos ansiosos de desmayarte, decides simplemente..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Ejercicio con un amigo_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "notarlos"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

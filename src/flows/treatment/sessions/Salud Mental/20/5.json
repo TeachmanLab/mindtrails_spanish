@@ -1,0 +1,14 @@
+{
+    "header_text": "Tu propio estilo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tu propio estilo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/345.jpg"
+        }
+    ]
+}

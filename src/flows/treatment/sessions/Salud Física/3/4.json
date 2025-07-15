@@ -1,0 +1,14 @@
+{
+    "header_text": "en un barco",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "en un barco"
+        },
+        {
+            "type": "Media",
+            "url": "./images/384.jpg"
+        }
+    ]
+}

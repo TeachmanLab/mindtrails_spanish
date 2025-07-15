@@ -1,0 +1,14 @@
+{
+    "header_text": "Fotos divertidas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Fotos divertidas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/538.jpg"
+        }
+    ]
+}

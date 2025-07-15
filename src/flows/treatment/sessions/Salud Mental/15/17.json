@@ -1,0 +1,14 @@
+{
+    "header_text": "Nadando vueltas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Nadando vueltas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/350.jpg"
+        }
+    ]
+}

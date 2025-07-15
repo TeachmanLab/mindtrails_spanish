@@ -1,0 +1,25 @@
+{
+    "header_text": "Opiniones fuertes: Sentimientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu pareja tiene opiniones firmes y no siempre estás de acuerdo con ellas. Una noche, invitas a un amigo a cenar y sientes una posible tensión. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Me preocupa que mi amigo me juzgue por lo que piensa mi pareja, pero aun así estoy feliz de que podamos reunirnos y hablar de ello.",
+                "Tengo miedo de que mi pareja diga algo ofensivo, pero sé que lo que dice no es un reflejo de mí.",
+                "Estoy tranquilo mientras nos sentamos y cenamos juntos.",
+                "Estoy feliz de invitar a mi amigo a cenar.",
+                "Me preocupa que mi pareja diga algo vergonzoso."
+            ],
+            "Duration": 15
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

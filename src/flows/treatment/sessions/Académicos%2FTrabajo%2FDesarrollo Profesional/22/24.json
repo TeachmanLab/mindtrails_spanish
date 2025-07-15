@@ -1,0 +1,14 @@
+{
+    "header_text": "Hablando en público",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Hablando en público"
+        },
+        {
+            "type": "Media",
+            "url": "./images/116.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Probando un dicho divertido",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Probando un dicho divertido"
+        },
+        {
+            "type": "Media",
+            "url": "./images/342.jpg"
+        }
+    ]
+}

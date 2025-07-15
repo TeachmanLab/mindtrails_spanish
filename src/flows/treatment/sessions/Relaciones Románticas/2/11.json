@@ -1,0 +1,14 @@
+{
+    "header_text": "Discute con tu pareja",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Discute con tu pareja"
+        },
+        {
+            "type": "Media",
+            "url": "./images/151.jpg"
+        }
+    ]
+}

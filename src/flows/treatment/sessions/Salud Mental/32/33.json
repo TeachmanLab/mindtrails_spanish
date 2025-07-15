@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Pregúntese si se están satisfaciendo sus necesidades sociales. (¿Quieres estar rodeado de otras personas en este momento? ¿Quieres estar solo?) Permítete honrar estas necesidades dejando que las personas que te rodean sepan cómo te sientes y qué necesitas."
+        }
+    ]
+}

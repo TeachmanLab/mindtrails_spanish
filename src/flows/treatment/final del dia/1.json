@@ -1,0 +1,19 @@
+{
+    "header_text": "Encuesta nocturna",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "En general, hoy me sentí...\n\n1 = Muy mal/negativo\n\n7 = Muy bien/positivo"
+        },
+        {
+            "type": "Slider",
+            "min": "1",
+            "max": "7",
+            "others": [
+                "^Prefiero no responder"
+            ],
+            "name": "EOD_mood"
+        }
+    ]
+}

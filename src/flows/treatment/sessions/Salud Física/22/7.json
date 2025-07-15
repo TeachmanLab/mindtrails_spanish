@@ -1,0 +1,14 @@
+{
+    "header_text": "Ejercicio con un amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ejercicio con un amigo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/339.jpg"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "Puerta con seguro",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Durante el resto del camino te sientes..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Puerta con seguro_Salud Mental_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Preocupado de que hayas dejado la puerta de tu casa sin seguro.",
+                "Tranquilo y relajado cuando llegas al trabajo."
+            ],
+            "columnCount": 1,
+            "correct_value": "Tranquilo y relajado cuando llegas al trabajo."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

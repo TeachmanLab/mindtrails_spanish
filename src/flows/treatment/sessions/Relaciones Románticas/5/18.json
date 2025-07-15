@@ -1,0 +1,14 @@
+{
+    "header_text": "Presencia en redes sociales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Presencia en redes sociales"
+        },
+        {
+            "type": "Media",
+            "url": "./images/210.jpg"
+        }
+    ]
+}

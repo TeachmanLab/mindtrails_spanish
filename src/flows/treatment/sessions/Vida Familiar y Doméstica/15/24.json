@@ -1,0 +1,14 @@
+{
+    "header_text": "Expectativas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Expectativas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/123.jpg"
+        }
+    ]
+}

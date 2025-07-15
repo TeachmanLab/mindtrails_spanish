@@ -1,0 +1,14 @@
+{
+    "header_text": "Tomándo el autobús",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tomándo el autobús"
+        },
+        {
+            "type": "Media",
+            "url": "./images/462.jpg"
+        }
+    ]
+}

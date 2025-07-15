@@ -1,0 +1,14 @@
+{
+    "header_text": "Conociendo gente nueva",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Conociendo gente nueva"
+        },
+        {
+            "type": "Media",
+            "url": "./images/545.jpg"
+        }
+    ]
+}

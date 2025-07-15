@@ -1,0 +1,14 @@
+{
+    "header_text": "Hora para dormir",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Hora para dormir"
+        },
+        {
+            "type": "Media",
+            "url": "./images/378.jpg"
+        }
+    ]
+}

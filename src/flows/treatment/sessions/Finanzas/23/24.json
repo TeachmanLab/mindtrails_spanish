@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Finanzas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Las personas provienen de diferentes orígenes socioeconómicos. Si se siente presionado a gastar tanto dinero como sus amigos, recuerde que no es necesario."
+        }
+    ]
+}

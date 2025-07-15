@@ -1,0 +1,14 @@
+{
+    "header_text": "Sequedad",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sequedad"
+        },
+        {
+            "type": "Media",
+            "url": "./images/429.jpg"
+        }
+    ]
+}

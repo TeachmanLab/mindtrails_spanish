@@ -1,0 +1,14 @@
+{
+    "header_text": "Ir a terapia",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ir a terapia"
+        },
+        {
+            "type": "Media",
+            "url": "./images/167.jpg"
+        }
+    ]
+}

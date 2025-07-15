@@ -1,0 +1,14 @@
+{
+    "header_text": "Listo para trabajar",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Listo para trabajar"
+        },
+        {
+            "type": "Media",
+            "url": "./images/7.jpg"
+        }
+    ]
+}

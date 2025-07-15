@@ -1,0 +1,14 @@
+{
+    "header_text": "Experiencia en el supermercado",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Experiencia en el supermercado"
+        },
+        {
+            "type": "Media",
+            "url": "./images/566.jpg"
+        }
+    ]
+}

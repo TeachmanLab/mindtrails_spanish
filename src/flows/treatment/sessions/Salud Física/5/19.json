@@ -1,0 +1,27 @@
+{
+    "header_text": "Una mesa sucia",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mientras almuerzas con tu amigo, tu ..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Una mesa sucia_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Estás insoportablemente ansiosos.",
+                "eres capaces de disfrutar la conversación."
+            ],
+            "columnCount": 1,
+            "correct_value": "eres capaces de disfrutar la conversación."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

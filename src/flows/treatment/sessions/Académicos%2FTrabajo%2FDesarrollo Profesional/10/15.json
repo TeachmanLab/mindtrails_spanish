@@ -1,0 +1,15 @@
+{
+    "header_text": "Evaluación importante",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Ya casi has completado un proyecto importante. Parte de tu evaluación la determinan tus compañeros de trabajo. Conoces bien a la mayoría de ellos y sientes que sus opiniones sobre ti harán que te evalúen..."
+        },
+        {
+            "type": "Entry",
+            "name": "Evaluación importante_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

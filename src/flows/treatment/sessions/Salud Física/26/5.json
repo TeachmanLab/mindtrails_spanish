@@ -1,0 +1,25 @@
+{
+    "header_text": "Subiendo escaleras:Pensamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te estás reuniendo con tu jefe. Para llegar a tiempo, simplemente subió dos tramos de escaleras rápidamente y sintió que su corazón latía muy rápidamente.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Mi jefe podría notar lo sin aliento que estoy y está bien si lo hace.",
+                "Estoy emocionado por la reunión.",
+                "Da miedo sentir mi corazón latiendo rápido, pero sé que todo terminará pronto.",
+                "¿Estoy sufriendo un infarto?",
+                "Subí esas escaleras muy rápido."
+            ],
+            "Duration": 15
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "header_text": "Nuevo estilo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Después de luchar contigo mismo en el vestidor, te sientes seguro y quieres ponertelo para salir, así que compras el nuevo..."
+        },
+        {
+            "type": "Entry",
+            "name": "Nuevo estilo_Salud Mental_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

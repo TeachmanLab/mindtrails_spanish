@@ -1,0 +1,14 @@
+{
+    "header_text": "Haciendo un brindis",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Haciendo un brindis"
+        },
+        {
+            "type": "Media",
+            "url": "./images/514.jpg"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "header_text": "Larga caminata afuera",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recuerdas que es la primera vez en unas semanas que caminas una distancia larga. Probablemente sientes que el latido de tu corazón se acelera debido a la..."
+        },
+        {
+            "type": "Entry",
+            "name": "Larga caminata afuera_Salud Física_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

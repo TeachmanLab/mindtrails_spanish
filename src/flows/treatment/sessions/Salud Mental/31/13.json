@@ -1,0 +1,25 @@
+{
+    "header_text": "Araña perdida: Comportamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cuando entras a la ducha, ves una enorme arana en la pared. Te das la vuelta por un segundo, miras hacia atrás y te das cuenta de que ya no está. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Empiezo a tocar algo de música.",
+                "Quiero rociar repelente de insectos en todas partes, pero decido continuar con mi rutina de ducha ya que el rociador podría hacer más daño que la araña.",
+                "Quiero llamar a alguien para que me ayude a encontrar la araña, pero decido simplemente ducharme.",
+                "Grito y salgo corriendo.",
+                "Decido abrir el agua."
+            ],
+            "Duration": 15
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

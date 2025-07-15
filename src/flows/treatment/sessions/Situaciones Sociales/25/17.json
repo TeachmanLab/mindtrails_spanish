@@ -1,0 +1,15 @@
+{
+    "header_text": "Compañero de autobús",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Despues de un largo dia de compras, te montas al bus con muchas bolsas y notas que el único asiento libre está al frente de otro pasajero. Cuando te sientas, el otro pasajero en frente ti no te mira. Probablemente están pensando en otras... "
+        },
+        {
+            "type": "Entry",
+            "name": "Compañero de autobús_Situaciones Sociales_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

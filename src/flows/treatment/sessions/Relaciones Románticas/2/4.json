@@ -1,0 +1,14 @@
+{
+    "header_text": "Tu vejez",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tu vejez"
+        },
+        {
+            "type": "Media",
+            "url": "./images/184.jpg"
+        }
+    ]
+}

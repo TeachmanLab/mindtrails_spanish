@@ -1,0 +1,14 @@
+{
+    "header_text": "Dando la mano",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dando la mano"
+        },
+        {
+            "type": "Media",
+            "url": "./images/37.jpg"
+        }
+    ]
+}

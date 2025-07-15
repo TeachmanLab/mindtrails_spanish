@@ -1,0 +1,14 @@
+{
+    "header_text": "Expectativas diferentes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Expectativas diferentes"
+        },
+        {
+            "type": "Media",
+            "url": "./images/117.jpg"
+        }
+    ]
+}

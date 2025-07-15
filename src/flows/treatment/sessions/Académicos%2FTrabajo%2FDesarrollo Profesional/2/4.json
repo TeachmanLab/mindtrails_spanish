@@ -1,0 +1,14 @@
+{
+    "header_text": "Terminando el trabajo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Terminando el trabajo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/12.jpg"
+        }
+    ]
+}

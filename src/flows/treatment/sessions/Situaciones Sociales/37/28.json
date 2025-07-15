@@ -1,0 +1,14 @@
+{
+    "header_text": "Interrumpiendo el silencio",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Interrumpiendo el silencio"
+        },
+        {
+            "type": "Media",
+            "url": "./images/552.jpg"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "header_text": "La recepción de la boda",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "LA RECEPCIÓN DE BODA: Al entrar en la sala...\n\nLa gente del público considera ridículos sus esfuerzos."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Muy diferente",
+                "Diferente",
+                "Similar",
+                "Muy similar",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "IBM_wedding_interpretation_3"
+        }
+    ]
+}

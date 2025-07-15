@@ -1,0 +1,24 @@
+{
+    "header_text": "Cuestionario de tratamiento y salud mental",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Ha sido útil la terapia (hablar con un profesional capacitado)? \n\n1 = Nada útil\n4 = Algo útil\n7=Extremadamente útil"
+        },
+        {
+            "type": "Slider",
+            "min": "1",
+            "max": "7",
+            "others": [
+                "^Prefiero no responder"
+            ],
+            "name": "therapy_helpful"
+        }
+    ],
+    "condition": [
+        "HelpReceived",
+        "=",
+        "Terapia"
+    ]
+}

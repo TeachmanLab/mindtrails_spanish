@@ -1,0 +1,14 @@
+{
+    "header_text": "Ahorro para reparaciones",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ahorro para reparaciones"
+        },
+        {
+            "type": "Media",
+            "url": "./images/304.jpg"
+        }
+    ]
+}

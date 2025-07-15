@@ -1,0 +1,12 @@
+{
+    "header_text": "¡Escribe El Tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Ahora, en la página siguiente, enumera tantas razones como puedas imaginar por las que es probable que se te ocurra el final del escenario. Por ejemplo, ¿por qué cree que podrá manejar la situación o qué evidencia hay que sugiera que la situación saldrá bien?"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Rendimiento deficiente",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Rendimiento deficiente"
+        },
+        {
+            "type": "Media",
+            "url": "./images/18.jpg"
+        }
+    ]
+}

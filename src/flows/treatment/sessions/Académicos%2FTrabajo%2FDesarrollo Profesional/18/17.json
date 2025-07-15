@@ -1,0 +1,14 @@
+{
+    "header_text": "Errores en el trabajo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Errores en el trabajo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/96.jpg"
+        }
+    ]
+}

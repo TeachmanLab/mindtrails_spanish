@@ -1,0 +1,14 @@
+{
+    "header_text": "Tratarse a sí mismo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tratarse a sí mismo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/251.jpg"
+        }
+    ]
+}

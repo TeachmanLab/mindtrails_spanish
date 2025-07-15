@@ -1,0 +1,14 @@
+{
+    "header_text": "Subiendo escaleras",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Subiendo escaleras"
+        },
+        {
+            "type": "Media",
+            "url": "./images/419.jpg"
+        }
+    ]
+}

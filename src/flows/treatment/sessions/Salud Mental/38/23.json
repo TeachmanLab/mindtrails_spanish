@@ -1,0 +1,15 @@
+{
+    "header_text": "Club de lectura",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás intentando conocer gente nueva y decides unirte a un club de lectura. El libro de la semana es realmente interesante, pero cuando llegas a la reunión, las personas hacen preguntas sobre el libro que parecen más profundas de lo que puedes responder. Recuerdas que también leíste el libro y tienes pensamientos valiosos, al igual que los..."
+        },
+        {
+            "type": "Entry",
+            "name": "Club de lectura_Salud Mental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Puerta cerrada",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Puerta cerrada"
+        },
+        {
+            "type": "Media",
+            "url": "./images/6.jpg"
+        }
+    ]
+}

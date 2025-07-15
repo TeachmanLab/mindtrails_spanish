@@ -1,0 +1,14 @@
+{
+    "header_text": "Suministros para la cena",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Suministros para la cena"
+        },
+        {
+            "type": "Media",
+            "url": "./images/372.jpg"
+        }
+    ]
+}

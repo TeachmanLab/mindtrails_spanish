@@ -1,0 +1,15 @@
+{
+    "header_text": "Proyecto eliminado",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Respiras hondo y decides contarle a tu jefe lo sucedido. Tú te sientes..."
+        },
+        {
+            "type": "Entry",
+            "name": "Proyecto eliminado_Salud Mental_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

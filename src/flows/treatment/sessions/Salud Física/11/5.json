@@ -1,0 +1,25 @@
+{
+    "header_text": "Reírse de un chiste:Pensamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Un amigo cuenta un chiste gracioso y te empiezas a reír mucho. Mientras te ríes, sientes una opresión incómoda en el pecho que nunca antes habías sentido. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Realmente no me gusta este sentimiento, pero puedo tolerarlo.",
+                "Algo está mal conmigo.",
+                "Esta tensión da un poco de miedo, pero ahora puedo disfrutar de la risa y ver si todavía me molesta más tarde.",
+                "Nunca me había reído tanto de un chiste que me había contado mi amigo.",
+                "Debe haber sido una broma muy divertida."
+            ],
+            "Duration": 15
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

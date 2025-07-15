@@ -1,0 +1,14 @@
+{
+    "header_text": "Conocido sin mascarilla",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Conocido sin mascarilla"
+        },
+        {
+            "type": "Media",
+            "url": "./images/458.jpg"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Si tienes dificultades para iniciar una conversación con alguien, piensa en un cumplido o una palabra amable para compartir con esa persona. "
+        }
+    ]
+}

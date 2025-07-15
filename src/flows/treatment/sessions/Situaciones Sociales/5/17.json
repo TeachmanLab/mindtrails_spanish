@@ -1,0 +1,14 @@
+{
+    "header_text": "Una salida organizada",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Una salida organizada"
+        },
+        {
+            "type": "Media",
+            "url": "./images/482.jpg"
+        }
+    ]
+}

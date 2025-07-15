@@ -1,0 +1,14 @@
+{
+    "header_text": "Compañero de autobús",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Compañero de autobús"
+        },
+        {
+            "type": "Media",
+            "url": "./images/539.jpg"
+        }
+    ]
+}

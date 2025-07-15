@@ -1,0 +1,14 @@
+{
+    "header_text": "Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Salud Mental"
+        },
+        {
+            "type": "Media",
+            "url": "./images/187.jpg"
+        }
+    ]
+}

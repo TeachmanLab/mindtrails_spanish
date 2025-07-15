@@ -1,0 +1,14 @@
+{
+    "header_text": "Llamada breve",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Llamada breve"
+        },
+        {
+            "type": "Media",
+            "url": "./images/95.jpg"
+        }
+    ]
+}

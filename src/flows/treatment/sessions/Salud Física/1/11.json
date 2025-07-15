@@ -1,0 +1,23 @@
+{
+    "header_text": "Vacacionando en avión",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás viajando hacia tu destino de vacaciones en avión. A medida que el avión acelera durante el despegue, sientes que tu pecho se tensa. A pesar de eso, te encuentras..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Vacacionando en avión_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "relajado"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

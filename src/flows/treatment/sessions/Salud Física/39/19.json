@@ -1,0 +1,15 @@
+{
+    "header_text": "Un pastel de cumpleaños",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu amigo te compra un pastel para tu cumpleaños. Cuando lo traen por la noche, notan que recientemente han pasado de estar enfermos. Sosteniendo el paste, piensas que tus posibilidades de enfermarse son bastante... "
+        },
+        {
+            "type": "Entry",
+            "name": "Un pastel de cumpleaños_Salud Física_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

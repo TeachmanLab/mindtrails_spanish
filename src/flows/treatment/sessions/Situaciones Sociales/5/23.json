@@ -1,0 +1,14 @@
+{
+    "header_text": "sin planes para el fin de semana",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "sin planes para el fin de semana"
+        },
+        {
+            "type": "Media",
+            "url": "./images/483.jpg"
+        }
+    ]
+}

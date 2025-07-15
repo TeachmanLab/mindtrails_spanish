@@ -1,0 +1,14 @@
+{
+    "header_text": "Desordenado para vivir",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Desordenado para vivir"
+        },
+        {
+            "type": "Media",
+            "url": "./images/512.jpg"
+        }
+    ]
+}

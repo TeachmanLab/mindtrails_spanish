@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Académicos/Trabajo/Desarrollo Profesional",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Antes de comenzar a estudiar/trabajar, tómate un momento para anotar cómo te sientes y qué objetivos puedes alcanzar en función de cómo te sientes."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "La cita",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "La cita"
+        },
+        {
+            "type": "Media",
+            "url": "./images/176.jpg"
+        }
+    ]
+}

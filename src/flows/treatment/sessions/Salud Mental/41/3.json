@@ -1,0 +1,10 @@
+{
+    "header_text": "Serpientes en el parque",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Imagínese en la situación de la página siguiente."
+        }
+    ]
+}

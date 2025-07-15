@@ -1,0 +1,14 @@
+{
+    "header_text": "Mal rumor",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Mal rumor"
+        },
+        {
+            "type": "Media",
+            "url": "./images/113.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Presentación estresante",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Presentación estresante"
+        },
+        {
+            "type": "Media",
+            "url": "./images/28.jpg"
+        }
+    ]
+}

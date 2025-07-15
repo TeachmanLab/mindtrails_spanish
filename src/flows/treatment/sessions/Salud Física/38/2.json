@@ -1,0 +1,14 @@
+{
+    "header_text": "Conociendo alguien nuevo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Conociendo alguien nuevo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/409.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Pensando en volar",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Pensando en volar"
+        },
+        {
+            "type": "Media",
+            "url": "./images/319.jpg"
+        }
+    ]
+}

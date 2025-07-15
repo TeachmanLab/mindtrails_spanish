@@ -1,0 +1,14 @@
+{
+    "header_text": "Visitando a los vecinos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Visitando a los vecinos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/408.jpg"
+        }
+    ]
+}

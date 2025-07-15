@@ -1,0 +1,14 @@
+{
+    "header_text": "Conexión perdida",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Conexión perdida"
+        },
+        {
+            "type": "Media",
+            "url": "./images/505.jpg"
+        }
+    ]
+}

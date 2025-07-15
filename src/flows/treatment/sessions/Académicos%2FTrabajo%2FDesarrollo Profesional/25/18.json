@@ -1,0 +1,15 @@
+{
+    "header_text": "Tu Currículum",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mientras revisas tu currículum, no anticipas que tu futuro empleador te descarte, y piensas que el entrevistador quedará..."
+        },
+        {
+            "type": "Entry",
+            "name": "Tu Currículum_Académicos/Trabajo/Desarrollo Profesional_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

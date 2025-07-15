@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Si ha tenido dificultades para dormir recientemente, intente guardar su teléfono media hora antes de acostarse."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Sala de espera del hospital",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sala de espera del hospital"
+        },
+        {
+            "type": "Media",
+            "url": "./images/373.jpg"
+        }
+    ]
+}

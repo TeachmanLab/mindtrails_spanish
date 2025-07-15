@@ -1,0 +1,15 @@
+{
+    "header_text": "Equilibrio de trabajo y amistades",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sabes que tendrás más flexibilidad en las próximas semanas para ver a tu amigo y que ellos entenderán que necesitas..."
+        },
+        {
+            "type": "Entry",
+            "name": "Equilibrio de trabajo y amistades_Situaciones Sociales_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Recogiendo a un viejo amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Recogiendo a un viejo amigo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/495.jpg"
+        }
+    ]
+}

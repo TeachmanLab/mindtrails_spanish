@@ -1,0 +1,14 @@
+{
+    "header_text": "La familia no aprueba a su pareja",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "La familia no aprueba a su pareja"
+        },
+        {
+            "type": "Media",
+            "url": "./images/203.jpg"
+        }
+    ]
+}

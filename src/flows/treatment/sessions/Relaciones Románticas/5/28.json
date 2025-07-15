@@ -1,0 +1,14 @@
+{
+    "header_text": "Tiempo de calidad",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tiempo de calidad"
+        },
+        {
+            "type": "Media",
+            "url": "./images/212.jpg"
+        }
+    ]
+}

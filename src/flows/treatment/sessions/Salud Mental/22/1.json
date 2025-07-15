@@ -1,0 +1,14 @@
+{
+    "header_text": "Planes para el fin de semana",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Planes para el fin de semana"
+        },
+        {
+            "type": "Media",
+            "url": "./images/359.jpg"
+        }
+    ]
+}

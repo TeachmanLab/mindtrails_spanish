@@ -1,0 +1,15 @@
+{
+    "header_text": "Contacto alternativo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Conoces a un nuevo miembro del personal en la reunión en línea de tu departamento y te preguntan si tienes Facebook. Cuando les dices que no tienes Facebook, se callan. Es posible que estén pensando en otras formas de contactarte, lo que te hará sentir..."
+        },
+        {
+            "type": "Entry",
+            "name": "Contacto alternativo_Situaciones Sociales_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

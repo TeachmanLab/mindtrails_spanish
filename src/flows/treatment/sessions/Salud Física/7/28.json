@@ -1,0 +1,23 @@
+{
+    "header_text": "Estar cerca de alguien enfermo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Vas al hospital a visitar a un amigo. Alguien detrás de ti tose un par de veces mientras estás en la sala de espera. La probabilidad de que te enfermes es..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Estar cerca de alguien enfermo_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "baja"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

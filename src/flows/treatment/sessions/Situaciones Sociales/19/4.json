@@ -1,0 +1,14 @@
+{
+    "header_text": "Planes de cena",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Planes de cena"
+        },
+        {
+            "type": "Media",
+            "url": "./images/515.jpg"
+        }
+    ]
+}

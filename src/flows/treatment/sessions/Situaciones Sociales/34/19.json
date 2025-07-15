@@ -1,0 +1,27 @@
+{
+    "header_text": "Conociendo nuevos amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "si les preguntas a tus compañeros de trabajo si quieren tomar un café después del trabajo, probablemente..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Conociendo nuevos amigos_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Rechacen cortésmente tu invitación.",
+                "Estén de acuerdo en que tomar café es una buena idea."
+            ],
+            "columnCount": 1,
+            "correct_value": "Estén de acuerdo en que tomar café es una buena idea."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

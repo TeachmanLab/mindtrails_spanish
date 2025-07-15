@@ -1,0 +1,14 @@
+{
+    "header_text": "Conocer a los padres",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Conocer a los padres"
+        },
+        {
+            "type": "Media",
+            "url": "./images/235.jpg"
+        }
+    ]
+}

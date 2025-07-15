@@ -1,0 +1,22 @@
+{
+    "header_text": "El raspado",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "EL RASPÓN: El rasguno duele un poco...\n\nPero estás contento de estar haciendo ejercicio."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Muy diferente",
+                "Diferente",
+                "Similar",
+                "Muy similar",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "IBM_scrape_interpretation_4"
+        }
+    ]
+}

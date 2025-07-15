@@ -1,0 +1,14 @@
+{
+    "header_text": "Probando comidas nuevas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Probando comidas nuevas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/329.jpg"
+        }
+    ]
+}

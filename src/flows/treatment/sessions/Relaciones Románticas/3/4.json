@@ -1,0 +1,14 @@
+{
+    "header_text": "Invitando tu amigo a una cita",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Invitando tu amigo a una cita"
+        },
+        {
+            "type": "Media",
+            "url": "./images/192.jpg"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "header_text": "Reconciliándote con tu amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Unos días después de un pleito con tu amigo, decides romper el hielo y le propones que vayan a tomar un café. Te alistas y cuando estás por irte, te llaman para decirte que después de todo no pueden llegar. Cuando cuelgas, piensas que cancelaron debido a que están... "
+        },
+        {
+            "type": "Entry",
+            "name": "Reconciliándote con tu amigo_Vida Familiar y Doméstica_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

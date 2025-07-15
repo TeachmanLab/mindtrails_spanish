@@ -1,0 +1,14 @@
+{
+    "header_text": "Una llamada crucial",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Una llamada crucial"
+        },
+        {
+            "type": "Media",
+            "url": "./images/106.jpg"
+        }
+    ]
+}

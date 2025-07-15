@@ -1,0 +1,14 @@
+{
+    "header_text": "Deprimido",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Deprimido"
+        },
+        {
+            "type": "Media",
+            "url": "./images/48.jpg"
+        }
+    ]
+}

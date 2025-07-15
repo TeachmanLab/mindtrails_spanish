@@ -1,0 +1,14 @@
+{
+    "header_text": "Saludable pero caro",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Saludable pero caro"
+        },
+        {
+            "type": "Media",
+            "url": "./images/299.jpg"
+        }
+    ]
+}

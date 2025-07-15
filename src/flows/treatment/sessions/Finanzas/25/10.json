@@ -1,0 +1,14 @@
+{
+    "header_text": "Dinero de la familia",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dinero de la familia"
+        },
+        {
+            "type": "Media",
+            "url": "./images/311.jpg"
+        }
+    ]
+}

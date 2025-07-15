@@ -1,0 +1,14 @@
+{
+    "header_text": "Cambio de planes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cambio de planes"
+        },
+        {
+            "type": "Media",
+            "url": "./images/532.jpg"
+        }
+    ]
+}

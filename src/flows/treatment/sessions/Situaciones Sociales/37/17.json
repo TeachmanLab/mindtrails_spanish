@@ -1,0 +1,14 @@
+{
+    "header_text": "Pensamientos del grupo de teatro",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Pensamientos del grupo de teatro"
+        },
+        {
+            "type": "Media",
+            "url": "./images/510.jpg"
+        }
+    ]
+}

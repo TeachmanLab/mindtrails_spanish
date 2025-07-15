@@ -1,0 +1,23 @@
+{
+    "header_text": "Almuerzo con un amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sales a almorzar con un amigo. Mientras comes tu ensalada y hablas con ellos, te miran. Probablemente piensan que eres...  "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Almuerzo con un amigo_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "interesante"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

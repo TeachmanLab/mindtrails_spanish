@@ -1,0 +1,14 @@
+{
+    "header_text": "Sugerencia para volver a encontrarnos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sugerencia para volver a encontrarnos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/469.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Obteniendo ayuda",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Obteniendo ayuda"
+        },
+        {
+            "type": "Media",
+            "url": "./images/11.jpg"
+        }
+    ]
+}

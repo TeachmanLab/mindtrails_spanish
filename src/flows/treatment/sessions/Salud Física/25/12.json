@@ -1,0 +1,14 @@
+{
+    "header_text": "Resultados del chequeo anual",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Resultados del chequeo anual"
+        },
+        {
+            "type": "Media",
+            "url": "./images/400.jpg"
+        }
+    ]
+}

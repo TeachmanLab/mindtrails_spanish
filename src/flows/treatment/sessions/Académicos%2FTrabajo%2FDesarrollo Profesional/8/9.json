@@ -1,0 +1,15 @@
+{
+    "header_text": "Contribuir a una discusión",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu jefe convoca a una reunión para discutir un nuevo proyecto que involucrará a la mayoría del personal de tu oficina. De repente se te pide que contribuya con tus ideas a la discusión. Rápidamente se te ocurren algunas ideas en el momento y piensas que tus colegas encontrarán que tus ideas son..."
+        },
+        {
+            "type": "Entry",
+            "name": "Contribuir a una discusión_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

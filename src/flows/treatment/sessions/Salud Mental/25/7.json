@@ -1,0 +1,14 @@
+{
+    "header_text": "Pensamientos intrusivos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Pensamientos intrusivos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/327.jpg"
+        }
+    ]
+}

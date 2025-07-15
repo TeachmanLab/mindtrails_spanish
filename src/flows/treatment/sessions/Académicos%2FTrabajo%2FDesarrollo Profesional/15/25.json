@@ -1,0 +1,14 @@
+{
+    "header_text": "Preparándote para la evaluación",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Preparándote para la evaluación"
+        },
+        {
+            "type": "Media",
+            "url": "./images/84.jpg"
+        }
+    ]
+}

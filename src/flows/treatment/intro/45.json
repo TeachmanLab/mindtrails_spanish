@@ -1,0 +1,22 @@
+{
+    "header_text": "El ascensor",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "EL ASCENSOR: El edificio parece viejo, y cuando subes al ascensor...\n\nCrees que el ascensor probablemente se estropeará mientras estás en él."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Muy diferente",
+                "Diferente",
+                "Similar",
+                "Muy similar",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "IBM_elevator_interpretation_1"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Comprando productos de oficina",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comprando productos de oficina"
+        },
+        {
+            "type": "Media",
+            "url": "./images/278.jpg"
+        }
+    ]
+}

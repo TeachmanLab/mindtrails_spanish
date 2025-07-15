@@ -1,0 +1,14 @@
+{
+    "header_text": "Garganta seca",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Garganta seca"
+        },
+        {
+            "type": "Media",
+            "url": "./images/429.jpg"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "header_text": "Rompiendo el código de honor:Pensamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás trabajando en un informe con algunos colegas y necesitas informar algunas estadísticas. Un colega sugiere que cambie las estadísticas para que su informe se vea mejor, pero eso sería mentir.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Daré una mala impresión delante de mi supervisor si no cambio los números.",
+                "Nuestros hallazgos son interesantes y valiosos por sí solos.",
+                "Puede que mi supervisor esté decepcionado con nuestros resultados, pero puedo manejarlo.",
+                "Puede que no haga la mejor presentación, pero lo único que puedo hacer es hacer lo mejor que pueda.",
+                "Creo que es importante compartir esta información, incluso si los resultados son inesperados."
+            ],
+            "Duration": 15
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

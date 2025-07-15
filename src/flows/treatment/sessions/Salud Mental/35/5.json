@@ -1,0 +1,14 @@
+{
+    "header_text": "Comentarios de publicaciones de Instagram",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comentarios de publicaciones de Instagram"
+        },
+        {
+            "type": "Media",
+            "url": "./images/338.jpg"
+        }
+    ]
+}

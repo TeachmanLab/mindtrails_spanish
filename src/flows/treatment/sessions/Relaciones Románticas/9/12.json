@@ -1,0 +1,15 @@
+{
+    "header_text": "Escuchando un desacuerdo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Anoche, tú y tu pareja tuvieron una discusión. Aunque intentaron mantener la voz baja, sus hijos escucharon. Crees que tus hijos estarán..."
+        },
+        {
+            "type": "Entry",
+            "name": "Escuchando un desacuerdo_Relaciones Románticas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

@@ -1,0 +1,23 @@
+{
+    "header_text": "Listo para trabajar",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tienes muchas tareas que tienes que entregar mañana. Has estado postergando hacerlos porque van a ser difíciles. Cuando piensas si podrás hacer el trabajo, piensas que..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Listo para trabajar_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "puedes"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

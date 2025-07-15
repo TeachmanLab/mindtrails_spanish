@@ -1,0 +1,15 @@
+{
+    "header_text": "Pensamientos intrusivos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recientemente, has notado que estás teniendo pensamientos intrusivos. Estos pensamientos te están molestando, y no puedes creer que estás pensando en cosas tan horribles. sientes que te estás volviendo..."
+        },
+        {
+            "type": "Entry",
+            "name": "Pensamientos intrusivos_Salud Mental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

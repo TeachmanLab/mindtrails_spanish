@@ -1,0 +1,14 @@
+{
+    "header_text": "Estar de más",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Estar de más"
+        },
+        {
+            "type": "Media",
+            "url": "./images/175.jpg"
+        }
+    ]
+}

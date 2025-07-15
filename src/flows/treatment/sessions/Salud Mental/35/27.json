@@ -1,0 +1,14 @@
+{
+    "header_text": "Corte de pelo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Corte de pelo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/315.jpg"
+        }
+    ]
+}

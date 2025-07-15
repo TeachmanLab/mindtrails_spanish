@@ -1,0 +1,15 @@
+{
+    "header_text": "Gestión de crédito",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Al pensar en lo que harías con la tarjeta de crédito, no te imaginas que de repente gastarás imprudentemente, y piensas que probablemente gastarías el dinero... "
+        },
+        {
+            "type": "Entry",
+            "name": "Gestión de crédito_Finanzas_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

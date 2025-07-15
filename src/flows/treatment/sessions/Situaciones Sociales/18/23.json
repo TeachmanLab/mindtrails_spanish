@@ -1,0 +1,23 @@
+{
+    "header_text": "Desordenado para vivir",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cuando lo mencionas, explican que ha estado extremadamente abrumados recientemente y que ha sido difícil mantenersen al día con las cosas. Llegan a un acuerdo sobre cómo mantener limpio el... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Desordenado para vivir_Situaciones Sociales_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "espacio"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

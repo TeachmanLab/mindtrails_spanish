@@ -1,0 +1,27 @@
+{
+    "header_text": "El curso difícil",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Lo más probable es que vas a..."
+        },
+        {
+            "type": "Buttons",
+            "name": "El curso difícil_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Salir del programa porque lo estás haciendo mal.",
+                "Completes el programa y aprendas algunas habilidades útiles en ciencia de datos."
+            ],
+            "columnCount": 1,
+            "correct_value": "Salir del programa porque lo estás haciendo mal."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

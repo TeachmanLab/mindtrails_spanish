@@ -1,0 +1,14 @@
+{
+    "header_text": "Año ocupado",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Año ocupado"
+        },
+        {
+            "type": "Media",
+            "url": "./images/182.jpg"
+        }
+    ]
+}

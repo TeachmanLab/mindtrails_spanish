@@ -1,0 +1,14 @@
+{
+    "header_text": "Gestión de responsabilidades",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Gestión de responsabilidades"
+        },
+        {
+            "type": "Media",
+            "url": "./images/45.jpg"
+        }
+    ]
+}

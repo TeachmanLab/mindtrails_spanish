@@ -1,0 +1,14 @@
+{
+    "header_text": "No sentirte preparado",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "No sentirte preparado"
+        },
+        {
+            "type": "Media",
+            "url": "./images/124.jpg"
+        }
+    ]
+}

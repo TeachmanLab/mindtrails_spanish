@@ -1,0 +1,14 @@
+{
+    "header_text": "Yendo de vacaciones",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Yendo de vacaciones"
+        },
+        {
+            "type": "Media",
+            "url": "./images/142.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Error en una tarea",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Error en una tarea"
+        },
+        {
+            "type": "Media",
+            "url": "./images/104.jpg"
+        }
+    ]
+}

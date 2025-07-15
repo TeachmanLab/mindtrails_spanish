@@ -1,0 +1,14 @@
+{
+    "header_text": "Chistes con amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Chistes con amigos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/489.jpg"
+        }
+    ]
+}

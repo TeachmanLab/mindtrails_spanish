@@ -1,0 +1,14 @@
+{
+    "header_text": "Una respuesta tardía",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Una respuesta tardía"
+        },
+        {
+            "type": "Media",
+            "url": "./images/201.jpg"
+        }
+    ]
+}

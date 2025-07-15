@@ -1,0 +1,14 @@
+{
+    "header_text": "Primeras impresiones",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Primeras impresiones"
+        },
+        {
+            "type": "Media",
+            "url": "./images/111.jpg"
+        }
+    ]
+}

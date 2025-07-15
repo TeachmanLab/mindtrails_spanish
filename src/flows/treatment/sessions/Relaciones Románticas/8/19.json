@@ -1,0 +1,14 @@
+{
+    "header_text": "Superarlo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Superarlo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/227.jpg"
+        }
+    ]
+}

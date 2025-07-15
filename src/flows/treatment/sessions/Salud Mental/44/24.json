@@ -1,0 +1,14 @@
+{
+    "header_text": "Clima lluvioso",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Clima lluvioso"
+        },
+        {
+            "type": "Media",
+            "url": "./images/332.jpg"
+        }
+    ]
+}

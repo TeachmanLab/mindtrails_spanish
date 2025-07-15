@@ -1,0 +1,15 @@
+{
+    "header_text": "No sentirse apoyado",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recuerdas por qué trabajaste en el proyecto en primer lugar. Después de pensarlo, aprecias lo duro que trabajaste y te sientes..."
+        },
+        {
+            "type": "Entry",
+            "name": "No sentirse apoyado_Situaciones Sociales_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

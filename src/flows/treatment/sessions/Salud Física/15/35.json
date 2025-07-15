@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Si siente malestar físico, intente notar y nombrar lo que está sintiendo. Recuerde que el malestar suele pasar o disminuir con el tiempo."
+        }
+    ]
+}

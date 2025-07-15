@@ -1,0 +1,14 @@
+{
+    "header_text": "Seguridad de la trampolina",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Seguridad de la trampolina"
+        },
+        {
+            "type": "Media",
+            "url": "./images/407.jpg"
+        }
+    ]
+}

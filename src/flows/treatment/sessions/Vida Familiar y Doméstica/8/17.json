@@ -1,0 +1,14 @@
+{
+    "header_text": "Salud y envejecimiento",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Salud y envejecimiento"
+        },
+        {
+            "type": "Media",
+            "url": "./images/129.jpg"
+        }
+    ]
+}

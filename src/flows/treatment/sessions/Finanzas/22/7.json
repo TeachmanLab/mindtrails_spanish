@@ -1,0 +1,14 @@
+{
+    "header_text": "Preocuparse por los ahorros",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Preocuparse por los ahorros"
+        },
+        {
+            "type": "Media",
+            "url": "./images/197.jpg"
+        }
+    ]
+}

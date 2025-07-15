@@ -1,0 +1,14 @@
+{
+    "header_text": "Mascarillas con piel sensible",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Mascarillas con piel sensible"
+        },
+        {
+            "type": "Media",
+            "url": "./images/445.jpg"
+        }
+    ]
+}

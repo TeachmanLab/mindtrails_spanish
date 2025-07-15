@@ -1,0 +1,14 @@
+{
+    "header_text": "Encontrarte con un viejo conocido",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Encontrarte con un viejo conocido"
+        },
+        {
+            "type": "Media",
+            "url": "./images/487.jpg"
+        }
+    ]
+}

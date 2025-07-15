@@ -1,0 +1,14 @@
+{
+    "header_text": "Tomarse tu tiempo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tomarse tu tiempo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/24.jpg"
+        }
+    ]
+}

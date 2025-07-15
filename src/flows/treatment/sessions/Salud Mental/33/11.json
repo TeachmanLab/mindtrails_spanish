@@ -1,0 +1,14 @@
+{
+    "header_text": "Trabajando para salir adelante",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Trabajando para salir adelante"
+        },
+        {
+            "type": "Media",
+            "url": "./images/23.jpg"
+        }
+    ]
+}

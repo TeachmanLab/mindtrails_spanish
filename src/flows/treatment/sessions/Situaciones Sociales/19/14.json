@@ -1,0 +1,14 @@
+{
+    "header_text": "Una pregunta personal",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Una pregunta personal"
+        },
+        {
+            "type": "Media",
+            "url": "./images/517.jpg"
+        }
+    ]
+}

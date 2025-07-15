@@ -1,0 +1,15 @@
+{
+    "header_text": "sintiéndote preocupado por las noticias",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Esta mañana, tu pareja está viendo las noticias y escuchas que muchas empresas están reduciendo personal. Piensas en qué sucederá si tu pareja pierde su trabajo. Te sientes..."
+        },
+        {
+            "type": "Entry",
+            "name": "sintiéndote preocupado por las noticias_Finanzas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

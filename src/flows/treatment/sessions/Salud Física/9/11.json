@@ -1,0 +1,15 @@
+{
+    "header_text": "Dolor de estómago",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Has estado nervioso por una próxima evaluación en el trabajo. El día de la evaluación notas que te duele el estómago. Piensas que el dolor de estómago probablemente se deber a la..."
+        },
+        {
+            "type": "Entry",
+            "name": "Dolor de estómago_Salud Física_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

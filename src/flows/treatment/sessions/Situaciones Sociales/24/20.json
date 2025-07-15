@@ -1,0 +1,14 @@
+{
+    "header_text": "Hablando sobre televisión",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Hablando sobre televisión"
+        },
+        {
+            "type": "Media",
+            "url": "./images/346.jpg"
+        }
+    ]
+}

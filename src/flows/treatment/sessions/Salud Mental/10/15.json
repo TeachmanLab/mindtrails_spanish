@@ -1,0 +1,15 @@
+{
+    "header_text": "Atascado en el medio",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás en casa leyendo un libro cuando escuchas a miembros de tu hogar peleando. Te preguntas por qué se están gritando el uno al otro, y luego uno de ellos dice tu nombre. Te das cuenta de que la razón por la que están discutiendo probablemente no sea tu... "
+        },
+        {
+            "type": "Entry",
+            "name": "Atascado en el medio_Salud Mental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

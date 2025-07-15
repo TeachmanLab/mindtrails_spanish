@@ -1,0 +1,15 @@
+{
+    "header_text": "Tomar una decisión",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu pareja quiere que acceptes un trabajo específico. Preferirías trabajar en un lugar diferente, pero tu pareja ha dejado claro que no está de acuerdo con esa decisión.  Cuando piensas en hablar con tu pareja sobre tu decisión, te sientes... "
+        },
+        {
+            "type": "Entry",
+            "name": "Tomar una decisión_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

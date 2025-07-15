@@ -1,0 +1,14 @@
+{
+    "header_text": "Reconforto sobre la vacunación",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Reconforto sobre la vacunación"
+        },
+        {
+            "type": "Media",
+            "url": "./images/340.jpg"
+        }
+    ]
+}

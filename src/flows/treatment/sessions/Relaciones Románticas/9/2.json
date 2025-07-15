@@ -1,0 +1,14 @@
+{
+    "header_text": "Encontrar al indicado",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Encontrar al indicado"
+        },
+        {
+            "type": "Media",
+            "url": "./images/229.jpg"
+        }
+    ]
+}

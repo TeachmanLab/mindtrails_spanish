@@ -1,0 +1,14 @@
+{
+    "header_text": "Ir a la quiebra",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ir a la quiebra"
+        },
+        {
+            "type": "Media",
+            "url": "./images/249.jpg"
+        }
+    ]
+}

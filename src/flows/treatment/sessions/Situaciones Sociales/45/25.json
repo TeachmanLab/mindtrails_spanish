@@ -1,0 +1,14 @@
+{
+    "header_text": "Apartamento nuevo para ti",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Apartamento nuevo para ti"
+        },
+        {
+            "type": "Media",
+            "url": "./images/168.jpg"
+        }
+    ]
+}

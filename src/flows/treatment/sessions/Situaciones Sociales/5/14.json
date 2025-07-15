@@ -1,0 +1,14 @@
+{
+    "header_text": "Invitar gente",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Invitar gente"
+        },
+        {
+            "type": "Media",
+            "url": "./images/344.jpg"
+        }
+    ]
+}

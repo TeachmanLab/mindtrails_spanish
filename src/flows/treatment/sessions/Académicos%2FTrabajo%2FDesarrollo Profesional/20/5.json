@@ -1,0 +1,14 @@
+{
+    "header_text": "Bromistas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Bromistas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/107.jpg"
+        }
+    ]
+}

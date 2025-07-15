@@ -1,0 +1,25 @@
+{
+    "header_text": "Demografía",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Cómo te enteraste de MindTrails Espanol? (Seleccione todas las que correspondan)"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Del sitio web de un recurso comunitario",
+                "De un boletín informativo asociado con un recurso comunitario",
+                "De un folleto",
+                "Un amigo o colega",
+                "Lo recomendó un profesional de salud mental",
+                "^Prefiero no responder",
+                "!Otro:"
+            ],
+            "selectable": true,
+            "multi_select": true,
+            "name": "learn_abt_HTC"
+        }
+    ]
+}

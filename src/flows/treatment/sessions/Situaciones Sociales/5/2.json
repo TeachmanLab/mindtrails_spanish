@@ -1,0 +1,14 @@
+{
+    "header_text": "Encontrando un campo para sentarte",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Encontrando un campo para sentarte"
+        },
+        {
+            "type": "Media",
+            "url": "./images/479.jpg"
+        }
+    ]
+}

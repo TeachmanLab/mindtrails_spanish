@@ -1,0 +1,14 @@
+{
+    "header_text": "Zambullirte",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Zambullirte"
+        },
+        {
+            "type": "Media",
+            "url": "./images/207.jpg"
+        }
+    ]
+}

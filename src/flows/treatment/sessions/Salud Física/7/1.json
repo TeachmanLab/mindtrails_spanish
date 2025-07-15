@@ -1,0 +1,14 @@
+{
+    "header_text": "Aprendiendo a esquíar",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Aprendiendo a esquíar"
+        },
+        {
+            "type": "Media",
+            "url": "./images/406.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Problemas de computadora",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Problemas de computadora"
+        },
+        {
+            "type": "Media",
+            "url": "./images/443.jpg"
+        }
+    ]
+}

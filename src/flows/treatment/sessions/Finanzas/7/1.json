@@ -1,0 +1,14 @@
+{
+    "header_text": "Preocupándote por gastar",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Preocupándote por gastar"
+        },
+        {
+            "type": "Media",
+            "url": "./images/252.jpg"
+        }
+    ]
+}

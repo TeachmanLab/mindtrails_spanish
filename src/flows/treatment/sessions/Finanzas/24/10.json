@@ -1,0 +1,14 @@
+{
+    "header_text": "Tratar a un amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tratar a un amigo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/305.jpg"
+        }
+    ]
+}

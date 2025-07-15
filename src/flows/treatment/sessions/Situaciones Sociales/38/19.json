@@ -1,0 +1,14 @@
+{
+    "header_text": "Viejos amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Viejos amigos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/557.jpg"
+        }
+    ]
+}

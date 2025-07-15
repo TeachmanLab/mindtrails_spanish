@@ -1,0 +1,14 @@
+{
+    "header_text": "Cancelar con amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cancelar con amigos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/174.jpg"
+        }
+    ]
+}

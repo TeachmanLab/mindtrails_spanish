@@ -1,0 +1,23 @@
+{
+    "header_text": "Conversando en una fiesta",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás en una fiesta con personas que no conoces bien. Decides unirte a algunas personas que están sentados en un sofá conversando. Cuando intentas entrar en la conversación, las personas en el sofá continúan hablando entre ellos, probablemente porque estaban..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Conversando en una fiesta_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "distraídos"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

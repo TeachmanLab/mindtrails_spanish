@@ -1,0 +1,14 @@
+{
+    "header_text": "Amigo descuidando las tareas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Amigo descuidando las tareas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/501.jpg"
+        }
+    ]
+}

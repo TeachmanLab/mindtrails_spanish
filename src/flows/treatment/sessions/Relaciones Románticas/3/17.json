@@ -1,0 +1,14 @@
+{
+    "header_text": "Yendo a una boda",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Yendo a una boda"
+        },
+        {
+            "type": "Media",
+            "url": "./images/196.jpg"
+        }
+    ]
+}

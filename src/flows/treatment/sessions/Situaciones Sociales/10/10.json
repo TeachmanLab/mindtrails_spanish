@@ -1,0 +1,15 @@
+{
+    "header_text": "Cumpleaños de un amigo cercano",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mañana es el cumpleaños de un buen amigo. Olvidaste comprarle un regalo y no tienes mucho tiempo para buscar algo bueno. Recoges algo mediocre en una tienda cercana y piensas que estarán..."
+        },
+        {
+            "type": "Entry",
+            "name": "Cumpleaños de un amigo cercano_Situaciones Sociales_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

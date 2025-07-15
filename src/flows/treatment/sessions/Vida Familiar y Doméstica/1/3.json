@@ -1,0 +1,27 @@
+{
+    "header_text": "Reconciliándote con tu amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Tu amigo canceló la reunion porque están..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Reconciliándote con tu amigo_Vida Familiar y Doméstica_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Cansados de una semana ocupada.",
+                "Enojados con tí."
+            ],
+            "columnCount": 1,
+            "correct_value": "Cansados de una semana ocupada."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

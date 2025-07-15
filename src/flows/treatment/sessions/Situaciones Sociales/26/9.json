@@ -1,0 +1,25 @@
+{
+    "header_text": "Marcado en una foto: Sentimientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tú y tus amigos tomaron algunas fotografías juntos. Al día siguiente, recibes una notificación de que te etiquetaron en una publicación en las redes sociales. No te gusta cómo te ves en la foto.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Me molesta que esta no sea una foto mía halagadora.",
+                "Tengo confianza en mis amistades.",
+                "Me siento inseguro acerca de cómo me veo en la foto, pero eso fue sólo un momento en el tiempo.",
+                "Me siento enojado con mi amigo, pero sé que ellos no sabían lo que siento por la foto.",
+                "Soy feliz pensando en ese recuerdo."
+            ],
+            "Duration": 15
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Nuevo ambiente",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Nuevo ambiente"
+        },
+        {
+            "type": "Media",
+            "url": "./images/549.jpg"
+        }
+    ]
+}

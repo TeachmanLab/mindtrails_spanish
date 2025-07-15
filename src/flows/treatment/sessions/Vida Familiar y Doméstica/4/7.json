@@ -1,0 +1,14 @@
+{
+    "header_text": "Tensión familiar",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tensión familiar"
+        },
+        {
+            "type": "Media",
+            "url": "./images/151.jpg"
+        }
+    ]
+}

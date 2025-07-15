@@ -1,0 +1,23 @@
+{
+    "header_text": "Opiniones de otros",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te negaron un ascenso este año y sabes que tu amigo te estaba apoyando para que obtuvieras un ascenso. Fruncen el ceño cuando les cuentas que no han conseguido uno. Les dices que trabajaste muy duro a pesar de no conseguir un ascenso y ellos están orgullosos del esfuerzo que hiciste durante todo el..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Opiniones de otros_Vida Familiar y Doméstica_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "año"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Presentación de impuestos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Presentación de impuestos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/254.jpg"
+        }
+    ]
+}

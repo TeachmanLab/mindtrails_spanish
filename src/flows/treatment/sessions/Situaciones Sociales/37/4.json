@@ -1,0 +1,14 @@
+{
+    "header_text": "Expresando tus ideas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Expresando tus ideas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/73.jpg"
+        }
+    ]
+}

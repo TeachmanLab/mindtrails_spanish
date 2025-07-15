@@ -1,0 +1,14 @@
+{
+    "header_text": "Viendo a un viejo amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Viendo a un viejo amigo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/432.jpg"
+        }
+    ]
+}

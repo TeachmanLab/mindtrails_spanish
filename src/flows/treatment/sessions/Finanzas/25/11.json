@@ -1,0 +1,15 @@
+{
+    "header_text": "Dinero de la familia",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu hermano está en una situación financiera difícil y está pidiendo dinero. Amas a tu hermano y realmente quieres ayudarlo, pero estás lidiando con tus propios desafïos financieros y necesitas pagar tu alquiler. Pensando en los otros tipos de apoyo que puedes ofrecer a tu hermano, piensas que le... "
+        },
+        {
+            "type": "Entry",
+            "name": "Dinero de la familia_Finanzas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

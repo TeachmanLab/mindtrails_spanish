@@ -1,0 +1,14 @@
+{
+    "header_text": "Limitaciones futuras",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Limitaciones futuras"
+        },
+        {
+            "type": "Media",
+            "url": "./images/65.jpg"
+        }
+    ]
+}

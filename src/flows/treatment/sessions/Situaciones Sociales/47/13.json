@@ -1,0 +1,23 @@
+{
+    "header_text": "Fotos en redes sociales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Al final, te das cuenta de que muchas personas se sienten avergonzadas al ver su propia foto en público. Otras personas probablemente disfrutarán viendo tu foto en el sitio de redes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Fotos en redes sociales_Situaciones Sociales_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "sociales"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

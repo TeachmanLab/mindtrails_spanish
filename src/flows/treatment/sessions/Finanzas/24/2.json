@@ -1,0 +1,14 @@
+{
+    "header_text": "Gastar dinero con amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Gastar dinero con amigos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/303.jpg"
+        }
+    ]
+}

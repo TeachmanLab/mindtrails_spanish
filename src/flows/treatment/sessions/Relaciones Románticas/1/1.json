@@ -1,0 +1,14 @@
+{
+    "header_text": "Enviar mensajes de texto a alguien que te gusta",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Enviar mensajes de texto a alguien que te gusta"
+        },
+        {
+            "type": "Media",
+            "url": "./images/174.jpg"
+        }
+    ]
+}

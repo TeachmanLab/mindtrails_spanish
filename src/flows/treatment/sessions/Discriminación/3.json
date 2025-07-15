@@ -1,0 +1,19 @@
+{
+    "header_text": "Diario ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Vaya a la libreria de recursos disponibles los enlaces a estos recursos.\n\nSiéntase libre de utilizar el espacio a continuación de cualquier forma que le resulte útil:"
+        },
+        {
+            "type": "Entry",
+            "name": "journal_entry_discrimination"
+        }
+    ],
+    "condition": [
+        "Diario",
+        "in",
+        "Selected_Support"
+    ]
+}

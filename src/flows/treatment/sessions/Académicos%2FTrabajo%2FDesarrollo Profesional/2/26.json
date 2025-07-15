@@ -1,0 +1,14 @@
+{
+    "header_text": "Visítas importantes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Visítas importantes"
+        },
+        {
+            "type": "Media",
+            "url": "./images/19.jpg"
+        }
+    ]
+}

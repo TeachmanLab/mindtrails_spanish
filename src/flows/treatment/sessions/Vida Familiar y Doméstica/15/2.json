@@ -1,0 +1,14 @@
+{
+    "header_text": "Planes de vacaciones",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Planes de vacaciones"
+        },
+        {
+            "type": "Media",
+            "url": "./images/147.jpg"
+        }
+    ]
+}

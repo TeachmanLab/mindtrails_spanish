@@ -1,0 +1,14 @@
+{
+    "header_text": "Te extraen sangre para tu examen físico anual. Tu médico te dice que tendrás que esperar unos días para recibir los resultados y te preocupas por lo que dirán los resultados. Durante los próximos días, las preocupaciones son soportables.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Te extraen sangre para tu examen físico anual. Tu médico te dice que tendrás que esperar unos días para recibir los resultados y te preocupas por lo que dirán los resultados. Durante los próximos días, las preocupaciones son soportables."
+        },
+        {
+            "type": "Media",
+            "url": "./images/400.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "El torneo de fútbol",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "El torneo de fútbol"
+        },
+        {
+            "type": "Media",
+            "url": "./images/504.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Los celos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Los celos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/219.jpg"
+        }
+    ]
+}

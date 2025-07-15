@@ -1,0 +1,14 @@
+{
+    "header_text": "sintiéndote Preparado",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "sintiéndote Preparado"
+        },
+        {
+            "type": "Media",
+            "url": "./images/84.jpg"
+        }
+    ]
+}

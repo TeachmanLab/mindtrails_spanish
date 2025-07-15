@@ -1,0 +1,14 @@
+{
+    "header_text": "Gente fiestera",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Gente fiestera"
+        },
+        {
+            "type": "Media",
+            "url": "./images/340.jpg"
+        }
+    ]
+}

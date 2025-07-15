@@ -1,0 +1,15 @@
+{
+    "header_text": "El malestar de estómago",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te has estado sintiendo mal del estómago durante unos días. Tú haces una cita con su médico. Las náuseas probablemente significan que usted está..."
+        },
+        {
+            "type": "Entry",
+            "name": "El malestar de estómago_Salud Física_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Cargando bolsas de compras",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cargando bolsas de compras"
+        },
+        {
+            "type": "Media",
+            "url": "./images/372.jpg"
+        }
+    ]
+}

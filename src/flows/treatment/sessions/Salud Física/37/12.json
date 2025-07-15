@@ -1,0 +1,14 @@
+{
+    "header_text": "Cómodo sofá",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cómodo sofá"
+        },
+        {
+            "type": "Media",
+            "url": "./images/397.jpg"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Todos los sentimientos pasan. Cuando sienta que un sentimiento negativo (como la tristeza o el miedo) nunca terminará, recuérdese suavemente que este sentimiento eventualmente pasará."
+        }
+    ]
+}

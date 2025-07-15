@@ -1,0 +1,15 @@
+{
+    "header_text": "Ponerse ahí fuera",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Decides abrirte y compartir, y ellos hacen lo mismo. Mientras hablas, te sientes... "
+        },
+        {
+            "type": "Entry",
+            "name": "Ponerse ahí fuera_Salud Mental_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

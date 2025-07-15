@@ -1,0 +1,14 @@
+{
+    "header_text": "Lidiar con la vergüenza",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Lidiar con la vergüenza"
+        },
+        {
+            "type": "Media",
+            "url": "./images/136.jpg"
+        }
+    ]
+}

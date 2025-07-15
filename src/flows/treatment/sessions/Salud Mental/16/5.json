@@ -1,0 +1,25 @@
+{
+    "header_text": "Maquinas apagadas:Pensamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tú y tu familia van a salir de la ciudad por unos días y tu pareja te pide que revises que todos los electrodomésticos de tu casa estén apagados antes de partir. Tenías que apresurarte a hacer las maletas, así que no pudiste comprobarlo todo. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Pienso en que todo está bien.",
+                "Es posible que un electrodoméstico provoque un incendio, pero es bastante improbable. Incluso si sucediera, nuestra alarma contra incendios alertaría a los vecinos.",
+                "Pienso en lo emocionado que estoy por nuestro viaje.",
+                "Me preocupa que tener pensamientos sobre cosas terribles que suceden haga que sea más probable que ocurran, pero me recuerdo a mí mismo que eso no es cierto.",
+                "Pienso en que puede pasar algo malo porque no revisé bien los electrodomésticos."
+            ],
+            "Duration": 15
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

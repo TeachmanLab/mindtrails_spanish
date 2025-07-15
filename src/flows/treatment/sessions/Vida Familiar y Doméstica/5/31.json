@@ -1,0 +1,14 @@
+{
+    "header_text": "Publicar sobre la familia",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Publicar sobre la familia"
+        },
+        {
+            "type": "Media",
+            "url": "./images/163.jpg"
+        }
+    ]
+}

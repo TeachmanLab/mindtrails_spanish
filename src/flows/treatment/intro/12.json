@@ -1,0 +1,35 @@
+{
+    "header_text": "Cuestionario de tratamiento y salud mental",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Estas actualmente luchando con alguno de los siguientes trastornos mentales? Por favor selecciona todas las respuestas válidas."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Trastorno de ansiedad generalizada (TAG)",
+                "Trastorno obsesivo-compulsivo (TOC)",
+                "Trastorno de pánico",
+                "Agorafobia",
+                "Trastorno de estrés postraumático (TEPT)",
+                "Desorden de ansiedad social",
+                "Fobias específicas",
+                "Demencia u otro trastorno cognitivo",
+                "Trastorno por uso de sustancias",
+                "Esquizofrenia u otro trastorno psicótico",
+                "Depresión",
+                "Trastorno bipolar",
+                "Desorden alimenticio",
+                "Desorden de personalidad",
+                "^No estoy luchando contra un trastorno mental",
+                "^Prefiero no responder",
+                "!Otro:"
+            ],
+            "selectable": true,
+            "multi_select": true,
+            "name": "mental_health_disorders"
+        }
+    ]
+}

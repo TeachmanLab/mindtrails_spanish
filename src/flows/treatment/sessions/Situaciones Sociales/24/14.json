@@ -1,0 +1,15 @@
+{
+    "header_text": "Mantenerse al día con los amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mientras piensas en tu reacción antes de esta pausa en el contacto, no te preocupas por la fuerza de tu amistad y crees que tu amigo será..."
+        },
+        {
+            "type": "Entry",
+            "name": "Mantenerse al día con los amigos_Situaciones Sociales_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

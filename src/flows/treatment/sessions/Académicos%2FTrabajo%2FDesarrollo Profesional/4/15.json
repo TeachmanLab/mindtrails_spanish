@@ -1,0 +1,14 @@
+{
+    "header_text": "Llegando tarde",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Llegando tarde"
+        },
+        {
+            "type": "Media",
+            "url": "./images/30.jpg"
+        }
+    ]
+}

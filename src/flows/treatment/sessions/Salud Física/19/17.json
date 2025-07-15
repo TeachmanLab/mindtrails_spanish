@@ -1,0 +1,14 @@
+{
+    "header_text": "Demasiada atención",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Demasiada atención"
+        },
+        {
+            "type": "Media",
+            "url": "./images/434.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Miedo al COVID",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Miedo al COVID"
+        },
+        {
+            "type": "Media",
+            "url": "./images/457.jpg"
+        }
+    ]
+}

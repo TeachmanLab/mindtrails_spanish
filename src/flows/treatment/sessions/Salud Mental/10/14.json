@@ -1,0 +1,14 @@
+{
+    "header_text": "Atascado en el medio",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Atascado en el medio"
+        },
+        {
+            "type": "Media",
+            "url": "./images/135.jpg"
+        }
+    ]
+}

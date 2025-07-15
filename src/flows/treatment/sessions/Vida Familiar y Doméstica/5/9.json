@@ -1,0 +1,14 @@
+{
+    "header_text": "Puerta con seguro",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Puerta con seguro"
+        },
+        {
+            "type": "Media",
+            "url": "./images/157.jpg"
+        }
+    ]
+}

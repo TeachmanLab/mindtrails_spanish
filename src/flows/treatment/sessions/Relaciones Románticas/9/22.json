@@ -1,0 +1,14 @@
+{
+    "header_text": "Familia grande",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Familia grande"
+        },
+        {
+            "type": "Media",
+            "url": "./images/233.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Permitirse un viaje",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Permitirse un viaje"
+        },
+        {
+            "type": "Media",
+            "url": "./images/287.jpg"
+        }
+    ]
+}

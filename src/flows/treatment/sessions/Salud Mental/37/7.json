@@ -1,0 +1,14 @@
+{
+    "header_text": "Revisando tus cualificaciones",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Revisando tus cualificaciones"
+        },
+        {
+            "type": "Media",
+            "url": "./images/53.jpg"
+        }
+    ]
+}

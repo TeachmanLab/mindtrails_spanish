@@ -1,0 +1,14 @@
+{
+    "header_text": "Hablando de ti",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Hablando de ti"
+        },
+        {
+            "type": "Media",
+            "url": "./images/562.jpg"
+        }
+    ]
+}

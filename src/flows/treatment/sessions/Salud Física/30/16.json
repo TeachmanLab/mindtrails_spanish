@@ -1,0 +1,14 @@
+{
+    "header_text": "Cancelación de concierto",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cancelación de concierto"
+        },
+        {
+            "type": "Media",
+            "url": "./images/450.jpg"
+        }
+    ]
+}

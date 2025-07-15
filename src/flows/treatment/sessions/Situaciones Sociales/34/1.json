@@ -1,0 +1,14 @@
+{
+    "header_text": "Almuerzo maloliente",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Almuerzo maloliente"
+        },
+        {
+            "type": "Media",
+            "url": "./images/357.jpg"
+        }
+    ]
+}

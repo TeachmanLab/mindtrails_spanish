@@ -1,0 +1,14 @@
+{
+    "header_text": "Manejando el estrés",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Manejando el estrés"
+        },
+        {
+            "type": "Media",
+            "url": "./images/431.jpg"
+        }
+    ]
+}

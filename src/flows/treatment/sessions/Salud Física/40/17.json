@@ -1,0 +1,14 @@
+{
+    "header_text": "Carrera en un día frío",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Carrera en un día frío"
+        },
+        {
+            "type": "Media",
+            "url": "./images/439.jpg"
+        }
+    ]
+}

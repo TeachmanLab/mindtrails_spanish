@@ -1,0 +1,14 @@
+{
+    "header_text": "Hilo de pensamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Hilo de pensamientos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/67.jpg"
+        }
+    ]
+}

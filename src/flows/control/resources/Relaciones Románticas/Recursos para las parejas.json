@@ -1,0 +1,11 @@
+{
+    "header_text": "Recursos para las parejas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "html": true,
+            "text": "<b><font color=\"#9769ED\" size=6>Love is Respect (El Amor es Respeto)</font></b>\n               <br/><br/>Love is Respect incluye mucha información apropiada para edades diversas acerca del consentimiento y relaciones sanas. También ofrece una línea de ayuda.<br/><br/>\n               <a href=\"https://bit.ly/3wQKNFH\">https://bit.ly/3wQKNFH</a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>Inicios suaves: habilidad de comunicación</font></b>\n               <br/><br/>Esta hoja informativa ofrece consejos y ejemplos para mejorar la comunicación efectiva entre pareja.<br/><br/>\n               <a href=\"https://bit.ly/isc_es\">https://bit.ly/isc_es</a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>Consentimiento 101</font></b>\n               <br/><br/>Consentimiento 101 describe lo que es el consentimiento entusiasta y lo que no constituye consentimiento, como la vestimenta o el coqueteo<br/><br/>\n               <a href=\"https://bit.ly/3gR9rRc\">https://bit.ly/3gR9rRc</a>"
+        }
+    ]
+}

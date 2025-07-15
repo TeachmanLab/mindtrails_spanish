@@ -1,0 +1,14 @@
+{
+    "header_text": "Ignorando",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ignorando"
+        },
+        {
+            "type": "Media",
+            "url": "./images/206.jpg"
+        }
+    ]
+}

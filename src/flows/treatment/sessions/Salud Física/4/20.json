@@ -1,0 +1,27 @@
+{
+    "header_text": "Preocupaciones por el ritmo cardíaco",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cuando tu corazón comenzó a latir muy rápido..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Preocupaciones por el ritmo cardíaco_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Manejaste tu ansiedad y te quedaste.",
+                "Te fuiste debido a tu ansiedad."
+            ],
+            "columnCount": 1,
+            "correct_value": "Manejaste tu ansiedad y te quedaste."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

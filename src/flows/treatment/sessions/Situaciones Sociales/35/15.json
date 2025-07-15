@@ -1,0 +1,14 @@
+{
+    "header_text": "Dejado sin respuesta",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dejado sin respuesta"
+        },
+        {
+            "type": "Media",
+            "url": "./images/180.jpg"
+        }
+    ]
+}

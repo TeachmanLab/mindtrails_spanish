@@ -1,0 +1,14 @@
+{
+    "header_text": "Gestión de crédito",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Gestión de crédito"
+        },
+        {
+            "type": "Media",
+            "url": "./images/253.jpg"
+        }
+    ]
+}

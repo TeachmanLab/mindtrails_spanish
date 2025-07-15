@@ -1,0 +1,14 @@
+{
+    "header_text": "Confiar en los padres",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Confiar en los padres"
+        },
+        {
+            "type": "Media",
+            "url": "./images/296.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Comprando ropa nueva",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comprando ropa nueva"
+        },
+        {
+            "type": "Media",
+            "url": "./images/292.jpg"
+        }
+    ]
+}

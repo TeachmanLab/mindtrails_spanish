@@ -1,0 +1,14 @@
+{
+    "header_text": "Probando comidas diferentes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Probando comidas diferentes"
+        },
+        {
+            "type": "Media",
+            "url": "./images/326.jpg"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "header_text": "Desacuerdos con tu hermana",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tú y tu hermana recientemente tuvieron una discusión, y no se han hablado en semanas. Quieres mucho a tu hermana, pero ambos aún están molestos por lo que el otro dijo la última vez que hablaron. Al pensar en volver a hablar con tu hermana, crees que ambos se..."
+        },
+        {
+            "type": "Entry",
+            "name": "Desacuerdos con tu hermana_Vida Familiar y Doméstica_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

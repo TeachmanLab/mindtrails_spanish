@@ -1,0 +1,14 @@
+{
+    "header_text": "Multitud del discurso",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Multitud del discurso"
+        },
+        {
+            "type": "Media",
+            "url": "./images/51.jpg"
+        }
+    ]
+}

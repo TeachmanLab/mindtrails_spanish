@@ -1,0 +1,23 @@
+{
+    "header_text": "Conversación con un desconocido",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás en una fiesta de cumpleaños para un amigo y estás hablando con alguien que acabas de conocer. No puedes decir si la persona piensa que eres interesante o aburrido, y decides que está bien no..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Conversación con un desconocido_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "saber"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

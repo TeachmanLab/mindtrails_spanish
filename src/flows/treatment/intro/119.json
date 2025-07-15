@@ -1,0 +1,14 @@
+{
+    "header_text": "Una pastel de cumpleaños",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Una pastel de cumpleaños"
+        },
+        {
+            "type": "Media",
+            "url": "./images/391.jpg"
+        }
+    ]
+}

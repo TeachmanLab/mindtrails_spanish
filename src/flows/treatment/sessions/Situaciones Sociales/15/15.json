@@ -1,0 +1,14 @@
+{
+    "header_text": "Gustos musicales diferentes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Gustos musicales diferentes"
+        },
+        {
+            "type": "Media",
+            "url": "./images/503.jpg"
+        }
+    ]
+}

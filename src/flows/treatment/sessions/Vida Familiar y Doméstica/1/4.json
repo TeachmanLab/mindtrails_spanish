@@ -1,0 +1,14 @@
+{
+    "header_text": "Un sonido fuerte",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Un sonido fuerte"
+        },
+        {
+            "type": "Media",
+            "url": "./images/128.jpg"
+        }
+    ]
+}

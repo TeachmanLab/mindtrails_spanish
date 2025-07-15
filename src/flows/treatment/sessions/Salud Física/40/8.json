@@ -1,0 +1,14 @@
+{
+    "header_text": "Caminando para despejar la mente",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Caminando para despejar la mente"
+        },
+        {
+            "type": "Media",
+            "url": "./images/463.jpg"
+        }
+    ]
+}

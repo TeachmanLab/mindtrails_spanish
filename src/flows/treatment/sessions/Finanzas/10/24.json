@@ -1,0 +1,15 @@
+{
+    "header_text": "Regalos de días festivos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Se acerca un día festivo que tu familia celebra. Quieres comprar regalos para todos, pero no está al su alcansa. Decides comprar un regalo para que tu familia comparta, y piensas que será..."
+        },
+        {
+            "type": "Entry",
+            "name": "Regalos de días festivos_Finanzas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

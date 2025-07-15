@@ -1,0 +1,14 @@
+{
+    "header_text": "Broma interna",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Broma interna"
+        },
+        {
+            "type": "Media",
+            "url": "./images/342.jpg"
+        }
+    ]
+}

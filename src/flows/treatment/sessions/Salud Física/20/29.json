@@ -1,0 +1,14 @@
+{
+    "header_text": "Paracaidismo por primera vez",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Paracaidismo por primera vez"
+        },
+        {
+            "type": "Media",
+            "url": "./images/379.jpg"
+        }
+    ]
+}

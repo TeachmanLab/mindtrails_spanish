@@ -1,0 +1,14 @@
+{
+    "header_text": "Presupuestar su asignación",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Presupuestar su asignación"
+        },
+        {
+            "type": "Media",
+            "url": "./images/294.jpg"
+        }
+    ]
+}

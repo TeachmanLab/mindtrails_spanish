@@ -1,0 +1,14 @@
+{
+    "header_text": "Un comentario grosero",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Un comentario grosero"
+        },
+        {
+            "type": "Media",
+            "url": "./images/334.jpg"
+        }
+    ]
+}

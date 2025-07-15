@@ -1,0 +1,14 @@
+{
+    "header_text": "Sensaciones de dormir",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sensaciones de dormir"
+        },
+        {
+            "type": "Media",
+            "url": "./images/426.jpg"
+        }
+    ]
+}

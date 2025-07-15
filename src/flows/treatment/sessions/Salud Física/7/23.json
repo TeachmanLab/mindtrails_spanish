@@ -1,0 +1,14 @@
+{
+    "header_text": "Clima frío",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Clima frío"
+        },
+        {
+            "type": "Media",
+            "url": "./images/411.jpg"
+        }
+    ]
+}

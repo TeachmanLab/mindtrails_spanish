@@ -1,0 +1,27 @@
+{
+    "header_text": "El curso difícil",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Crees que tu desempeño en este programa de ciencia de datos probablemente será:"
+        },
+        {
+            "type": "Buttons",
+            "name": "El curso difícil_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Por debajo del promedio",
+                "Por encima del promedio"
+            ],
+            "columnCount": 1,
+            "correct_value": "Por encima del promedio"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

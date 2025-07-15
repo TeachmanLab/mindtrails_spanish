@@ -1,0 +1,14 @@
+{
+    "header_text": "Escuchando un desacuerdo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Escuchando un desacuerdo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/151.jpg"
+        }
+    ]
+}

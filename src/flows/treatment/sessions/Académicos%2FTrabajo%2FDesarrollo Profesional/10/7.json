@@ -1,0 +1,14 @@
+{
+    "header_text": "Gestión de múltiples posiciones",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Gestión de múltiples posiciones"
+        },
+        {
+            "type": "Media",
+            "url": "./images/74.jpg"
+        }
+    ]
+}

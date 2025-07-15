@@ -1,0 +1,23 @@
+{
+    "header_text": "Escala de ansiedad",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Durante la semana pasada, ¿en qué medida la ansiedad interfirió con su vida social y sus relaciones?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Ninguno: Mi ansiedad no afecta mis relaciones.",
+                "Leve: Mi ansiedad interfiere levemente con mis relaciones. Algunas de mis amistades y otras relaciones han sufrido, pero, en general, mi vida social sigue siendo satisfactoria.",
+                "Moderado: He experimentado cierta interferencia en mi vida social, pero todavía tengo algunas relaciones cercanas. Ya no paso tanto tiempo con los demás como antes, pero a veces todavía socializo.",
+                "Severo: Mis amistades y otras relaciones han sufrido mucho debido a la ansiedad. No disfruto de las actividades sociales. Socializo muy poco.",
+                "Extremo: Mi ansiedad ha trastornado por completo mis actividades sociales. Todas mis relaciones han sufrido o terminado. Mi vida familiar es extremadamente tensa.",
+                "^Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "OASIS_social"
+        }
+    ]
+}

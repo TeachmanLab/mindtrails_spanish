@@ -1,0 +1,14 @@
+{
+    "header_text": "Opiniones inusuales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Opiniones inusuales"
+        },
+        {
+            "type": "Media",
+            "url": "./images/563.jpg"
+        }
+    ]
+}

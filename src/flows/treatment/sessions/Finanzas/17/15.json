@@ -1,0 +1,23 @@
+{
+    "header_text": "Pagando la tarjeta de crédito",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Este mes gastaste más dinero en comestibles de lo normal, y usaste una tarjeta de crédito para pagarlos. Al pensar en tus gastos, te preocupa no poder cubrir la factura de la tarjeta de crédito y endeudarte. Cuando llega la factura, ves que tienes suficiente..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Pagando la tarjeta de crédito_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "dinero"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

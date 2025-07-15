@@ -1,0 +1,14 @@
+{
+    "header_text": "Recibir mensajes explícitos en las redes sociales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Recibir mensajes explícitos en las redes sociales"
+        },
+        {
+            "type": "Media",
+            "url": "./images/223.jpg"
+        }
+    ]
+}

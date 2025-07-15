@@ -1,0 +1,14 @@
+{
+    "header_text": "Respondiendo a preguntas inesperadas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Respondiendo a preguntas inesperadas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/36.jpg"
+        }
+    ]
+}

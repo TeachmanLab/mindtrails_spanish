@@ -1,0 +1,14 @@
+{
+    "header_text": "Truco o trato",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Truco o trato"
+        },
+        {
+            "type": "Media",
+            "url": "./images/541.jpg"
+        }
+    ]
+}

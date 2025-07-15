@@ -1,0 +1,14 @@
+{
+    "header_text": "Participación",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Participación"
+        },
+        {
+            "type": "Media",
+            "url": "./images/63.jpg"
+        }
+    ]
+}

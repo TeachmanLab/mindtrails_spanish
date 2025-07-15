@@ -1,0 +1,23 @@
+{
+    "header_text": "Ir al dentista",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Vas a tu cita dental de rutina y descubres que tienes una caries. Te dicen que habrá que pagar una tarifa extra y empiezas a preocuparte por el costo. Te aseguras que vale la pena tratar la caries ahora antes de que se empeore y crees que el costo será..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Ir al dentista_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "manejable"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

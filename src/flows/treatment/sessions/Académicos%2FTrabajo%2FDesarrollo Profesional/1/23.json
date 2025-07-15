@@ -1,0 +1,14 @@
+{
+    "header_text": "Comentarios sobre tu trabajo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comentarios sobre tu trabajo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/8.jpg"
+        }
+    ]
+}

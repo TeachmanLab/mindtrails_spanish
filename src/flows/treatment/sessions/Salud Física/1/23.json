@@ -1,0 +1,14 @@
+{
+    "header_text": "sintiéndote enfermo en un día caluroso",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "sintiéndote enfermo en un día caluroso"
+        },
+        {
+            "type": "Media",
+            "url": "./images/336.jpg"
+        }
+    ]
+}

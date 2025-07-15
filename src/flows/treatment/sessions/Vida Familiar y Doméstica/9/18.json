@@ -1,0 +1,15 @@
+{
+    "header_text": "Cena en una casa de amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu familia no hace cenas sentadas juntas. Tu amiga te invita a unirte a su familia para la cena, y cuando llegues, todos se sientan a la mesa y comienzan a hacer preguntas sobre los días del otro. Cuando es tu turno, no estás seguro de cómo responder, pero después de decir algo, te sientes... "
+        },
+        {
+            "type": "Entry",
+            "name": "Cena en una casa de amigos_Vida Familiar y Doméstica_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

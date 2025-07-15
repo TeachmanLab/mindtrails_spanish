@@ -1,0 +1,14 @@
+{
+    "header_text": "Enfrentando a un amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Enfrentando a un amigo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/354.jpg"
+        }
+    ]
+}

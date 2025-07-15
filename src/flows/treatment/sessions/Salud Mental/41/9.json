@@ -1,0 +1,25 @@
+{
+    "header_text": "Serpientes en el parque: Sentimientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu amigo te convence para dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Estoy tranquila pensando en ir al parque.",
+                "Tengo miedo de que me pase algo malo.",
+                "Estoy feliz de que mi amigo me haya pedido que saliéramos a caminar.",
+                "Me da ansiedad que me muerdan, pero recuerdo que ese es el peor de los casos y que probablemente no sucederá.",
+                "Estoy preocupado por lo que veremos en el parque, pero sé que puedo soportar sentirme un poco preocupado."
+            ],
+            "Duration": 15
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Quemadura",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Quemadura"
+        },
+        {
+            "type": "Media",
+            "url": "./images/387.jpg"
+        }
+    ]
+}

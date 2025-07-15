@@ -1,0 +1,15 @@
+{
+    "header_text": "Superarlo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recientemente visitaste a un amigo al que no habías visto en mucho tiempo y, cuando regresas, descubres que tu pareja se ha despertado con dolor de garganta. Tu pareja se hará una prueba de COVID hoy, pero tú estás preocupado por los resultados y tienes miedo de haber expuesto accidentalmente a tu amigo. Piensas en lo que sucederá si tu pareja da positivo y sientes que tu amigo te entenderá y te..."
+        },
+        {
+            "type": "Entry",
+            "name": "Superarlo_Relaciones Románticas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Pedido de un niño",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Pedido de un niño"
+        },
+        {
+            "type": "Media",
+            "url": "./images/526.jpg"
+        }
+    ]
+}

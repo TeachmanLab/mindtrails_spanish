@@ -1,0 +1,15 @@
+{
+    "header_text": "Tratarse a sí mismo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Has tenido mucho que hacer recientemente, y no te has sentido tú mismo. Quieres darte un capricho con algo que disfrutes, pero no estás seguro de que tengas espacio en tu presupuesto. Usted decide comprarse algo pequeño que definitivamente puede... "
+        },
+        {
+            "type": "Entry",
+            "name": "Tratarse a sí mismo_Finanzas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

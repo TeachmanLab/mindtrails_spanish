@@ -1,0 +1,14 @@
+{
+    "header_text": "Cita con alguien nuevo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cita con alguien nuevo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/179.jpg"
+        }
+    ]
+}

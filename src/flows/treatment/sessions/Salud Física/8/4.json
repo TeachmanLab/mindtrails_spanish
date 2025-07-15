@@ -1,0 +1,14 @@
+{
+    "header_text": "Dando vueltas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dando vueltas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/414.jpg"
+        }
+    ]
+}

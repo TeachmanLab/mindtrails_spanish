@@ -1,0 +1,14 @@
+{
+    "header_text": "Salir a almorzar",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Salir a almorzar"
+        },
+        {
+            "type": "Media",
+            "url": "./images/306.jpg"
+        }
+    ]
+}

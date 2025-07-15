@@ -1,0 +1,14 @@
+{
+    "header_text": "Presentación de recaudación de fondos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Presentación de recaudación de fondos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/94.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Personalidades diferentes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Personalidades diferentes"
+        },
+        {
+            "type": "Media",
+            "url": "./images/221.jpg"
+        }
+    ]
+}

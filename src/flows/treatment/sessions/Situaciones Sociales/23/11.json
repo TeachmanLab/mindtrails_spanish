@@ -1,0 +1,15 @@
+{
+    "header_text": "Cambio de planes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Decides decírselo de todos modos. Cuando les cuentas tus planes, te sientes... "
+        },
+        {
+            "type": "Entry",
+            "name": "Cambio de planes_Situaciones Sociales_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

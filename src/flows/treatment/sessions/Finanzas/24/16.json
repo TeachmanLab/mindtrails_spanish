@@ -1,0 +1,14 @@
+{
+    "header_text": "Cena con amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cena con amigos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/308.jpg"
+        }
+    ]
+}

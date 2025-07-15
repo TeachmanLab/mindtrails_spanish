@@ -1,0 +1,15 @@
+{
+    "header_text": "Decidir compartir una imagen",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Le tomas una foto a un compañero de trabajo en un evento que es realmente genial. Quieres mostrárselo a tus otros compañeros de trabajo en un correo electrónico, pero recuerdes que acabas de enviar un correo electrónico ayer. si vuelves a enviar un correo electrónico, crees que la gente no se dará..."
+        },
+        {
+            "type": "Entry",
+            "name": "Decidir compartir una imagen_Salud Mental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

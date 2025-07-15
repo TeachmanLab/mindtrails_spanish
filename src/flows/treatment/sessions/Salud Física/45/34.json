@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "MiBuscadorDeSalud\n\nOperado por el Departamento de Salud de los EE. UU., brinda información, artículos sobre cuestiones de salud, servicios de búsqueda para recursos de salud nacionales y locales.\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+        }
+    ]
+}

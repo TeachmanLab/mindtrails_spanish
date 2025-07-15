@@ -1,0 +1,14 @@
+{
+    "header_text": "Atención en la tienda",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Atención en la tienda"
+        },
+        {
+            "type": "Media",
+            "url": "./images/511.jpg"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "header_text": "Problemas de computadora",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mientras trabajas en tu computadora, empiezas a tener dolor de cabeza. El dolor de cabeza persiste y comienzas a preocuparte de que sea algo más serio, como COVID. No has estado expuesto a nadie que haya dado positivo en la prueba, así que conclusi que tu dolor de cabeza se debe a mirar la computadora durante demasiado..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Problemas de computadora_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "tiempo"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

@@ -1,0 +1,15 @@
+{
+    "header_text": "Comparación de puntuaciones en redes sociales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "No has tenido mucha experiencia con este aspecto y tus compañeros lo saben. Probablemente han pasado por experiencias similares y no estaban tratando de ser..."
+        },
+        {
+            "type": "Entry",
+            "name": "Comparación de puntuaciones en redes sociales_Situaciones Sociales_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

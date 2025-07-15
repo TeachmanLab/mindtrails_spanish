@@ -1,0 +1,15 @@
+{
+    "header_text": "Amgio del trabajo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu pareja te deja saber que está cenando con un amigo del trabajo. Nunca has escuchado a tu pareja hablar de amigos del trabajo y te preocupa con quién está cenando tu pareja. sin embargo, confías en tu pareja y le dices que disfrute de su... "
+        },
+        {
+            "type": "Entry",
+            "name": "Amgio del trabajo_Relaciones Románticas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

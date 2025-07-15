@@ -1,0 +1,14 @@
+{
+    "header_text": "Sensaciones desconocidas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sensaciones desconocidas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/425.jpg"
+        }
+    ]
+}

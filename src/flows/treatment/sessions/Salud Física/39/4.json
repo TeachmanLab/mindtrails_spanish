@@ -1,0 +1,14 @@
+{
+    "header_text": "Pánico de presentación",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Pánico de presentación"
+        },
+        {
+            "type": "Media",
+            "url": "./images/46.jpg"
+        }
+    ]
+}

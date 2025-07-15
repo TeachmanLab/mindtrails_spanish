@@ -1,0 +1,14 @@
+{
+    "header_text": "Reorganización después de la exposición",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Reorganización después de la exposición"
+        },
+        {
+            "type": "Media",
+            "url": "./images/47.jpg"
+        }
+    ]
+}

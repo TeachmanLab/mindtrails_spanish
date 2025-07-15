@@ -1,0 +1,32 @@
+{
+    "header_text": "Cuestionario de tratamiento y salud mental",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Cuánto tiempo lleva experimentando síntomas de ansiedad o depresión de moderados a graves?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Una semana",
+                "Entre 1 semana y 1 mes",
+                "Entre 1-3 meses",
+                "Entre 3-6 meses",
+                "Entre 6-12 meses",
+                "Entre 1-2 anos",
+                "Entre 2-5 anos",
+                "Entre 5 y 10 anos",
+                "Más de 10 anos",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "length_anxiety_symptoms"
+        }
+    ],
+    "condition": [
+        "anxiety_or_depression",
+        "=",
+        "Sí"
+    ]
+}

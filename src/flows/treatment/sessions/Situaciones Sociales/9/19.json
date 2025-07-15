@@ -1,0 +1,14 @@
+{
+    "header_text": "Tropezar en público",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tropezar en público"
+        },
+        {
+            "type": "Media",
+            "url": "./images/496.jpg"
+        }
+    ]
+}

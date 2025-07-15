@@ -1,0 +1,14 @@
+{
+    "header_text": "Comprometerse con las actividades",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comprometerse con las actividades"
+        },
+        {
+            "type": "Media",
+            "url": "./images/68.jpg"
+        }
+    ]
+}

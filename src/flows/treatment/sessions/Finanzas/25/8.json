@@ -1,0 +1,14 @@
+{
+    "header_text": "Dar regalos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dar regalos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/262.jpg"
+        }
+    ]
+}

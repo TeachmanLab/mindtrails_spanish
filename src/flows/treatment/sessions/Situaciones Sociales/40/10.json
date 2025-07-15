@@ -1,0 +1,14 @@
+{
+    "header_text": "situación de embriaguez",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "situación de embriaguez"
+        },
+        {
+            "type": "Media",
+            "url": "./images/340.jpg"
+        }
+    ]
+}

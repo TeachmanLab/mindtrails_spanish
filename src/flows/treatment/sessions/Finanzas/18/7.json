@@ -1,0 +1,14 @@
+{
+    "header_text": "Presiones laborales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Presiones laborales"
+        },
+        {
+            "type": "Media",
+            "url": "./images/275.jpg"
+        }
+    ]
+}

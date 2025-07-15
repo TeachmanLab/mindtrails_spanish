@@ -1,0 +1,15 @@
+{
+    "header_text": "Zambullirte",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recuerdas que estarán concentrados en nadar y que todos los demás también estarán usando trajes de baño. Esto te..."
+        },
+        {
+            "type": "Entry",
+            "name": "Zambullirte_Salud Mental_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

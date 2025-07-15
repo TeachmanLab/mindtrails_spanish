@@ -1,0 +1,14 @@
+{
+    "header_text": "Dolor de estómago",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dolor de estómago"
+        },
+        {
+            "type": "Media",
+            "url": "./images/352.jpg"
+        }
+    ]
+}

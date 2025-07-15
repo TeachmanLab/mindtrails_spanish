@@ -1,0 +1,25 @@
+{
+    "header_text": "Rompiendo el código de honor: Comportamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás trabajando en un informe con algunos colegas y necesitas informar algunas estadísticas. Un colega sugiere que cambie las estadísticas para que su informe se vea mejor, pero eso sería mentir.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Cambio nuestros resultados porque no tengo confianza en nuestro trabajo.",
+                "Estoy tentado a cambiar nuestros resultados, pero decido no hacerlo.",
+                "Quiero cambiar nuestros resultados para terminar la presentación más rápido, pero sigo intentando trabajar con lo que tenemos.",
+                "Sugiero armar la presentación sin cambiar los resultados.",
+                "Me entusiasma encontrar formas de presentar nuestros hallazgos de forma clara y eficaz."
+            ],
+            "Duration": 15
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

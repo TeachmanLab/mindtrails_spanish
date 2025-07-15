@@ -1,0 +1,14 @@
+{
+    "header_text": "Sentir presión al salir",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sentir presión al salir"
+        },
+        {
+            "type": "Media",
+            "url": "./images/283.jpg"
+        }
+    ]
+}

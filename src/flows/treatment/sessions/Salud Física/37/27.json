@@ -1,0 +1,14 @@
+{
+    "header_text": "Visión borrosa",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Visión borrosa"
+        },
+        {
+            "type": "Media",
+            "url": "./images/404.jpg"
+        }
+    ]
+}

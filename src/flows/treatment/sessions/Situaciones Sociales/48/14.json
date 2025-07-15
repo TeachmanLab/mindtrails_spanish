@@ -1,0 +1,14 @@
+{
+    "header_text": "Planes cancelados",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Planes cancelados"
+        },
+        {
+            "type": "Media",
+            "url": "./images/333.jpg"
+        }
+    ]
+}

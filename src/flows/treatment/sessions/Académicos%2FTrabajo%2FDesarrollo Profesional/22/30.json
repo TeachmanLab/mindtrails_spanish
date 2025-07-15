@@ -1,0 +1,14 @@
+{
+    "header_text": "Trabajo placentero",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Trabajo placentero"
+        },
+        {
+            "type": "Media",
+            "url": "./images/118.jpg"
+        }
+    ]
+}

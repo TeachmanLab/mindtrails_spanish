@@ -1,0 +1,14 @@
+{
+    "header_text": "Nuevo atuendo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Nuevo atuendo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/348.jpg"
+        }
+    ]
+}

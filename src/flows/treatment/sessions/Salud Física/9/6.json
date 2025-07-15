@@ -1,0 +1,15 @@
+{
+    "header_text": "Problemas de visión",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Respiras y te das cuenta de que tu visión completamente. Luego, recuerdas que a veces esto pasa cuando te sientas demasiado... "
+        },
+        {
+            "type": "Entry",
+            "name": "Problemas de visión_Salud Física_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

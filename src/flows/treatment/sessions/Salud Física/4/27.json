@@ -1,0 +1,14 @@
+{
+    "header_text": "Un vuelo internacional",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Un vuelo internacional"
+        },
+        {
+            "type": "Media",
+            "url": "./images/398.jpg"
+        }
+    ]
+}

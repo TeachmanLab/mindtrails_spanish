@@ -1,0 +1,14 @@
+{
+    "header_text": "Decisiones de viaje",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Decisiones de viaje"
+        },
+        {
+            "type": "Media",
+            "url": "./images/130.jpg"
+        }
+    ]
+}

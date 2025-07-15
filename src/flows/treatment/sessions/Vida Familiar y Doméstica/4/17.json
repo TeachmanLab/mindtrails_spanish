@@ -1,0 +1,14 @@
+{
+    "header_text": "Creencias diferentes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Creencias diferentes"
+        },
+        {
+            "type": "Media",
+            "url": "./images/138.jpg"
+        }
+    ]
+}

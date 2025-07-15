@@ -1,0 +1,14 @@
+{
+    "header_text": "Tus habilidades con los bolos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tus habilidades con los bolos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/322.jpg"
+        }
+    ]
+}

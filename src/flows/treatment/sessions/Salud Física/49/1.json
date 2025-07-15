@@ -1,0 +1,14 @@
+{
+    "header_text": "Alergias de primavera",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Alergias de primavera"
+        },
+        {
+            "type": "Media",
+            "url": "./images/447.jpg"
+        }
+    ]
+}

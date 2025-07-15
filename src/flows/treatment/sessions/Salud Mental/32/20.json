@@ -1,0 +1,14 @@
+{
+    "header_text": "Participación en las redes sociales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Participación en las redes sociales"
+        },
+        {
+            "type": "Media",
+            "url": "./images/357.jpg"
+        }
+    ]
+}

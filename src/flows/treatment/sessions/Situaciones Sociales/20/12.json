@@ -1,0 +1,14 @@
+{
+    "header_text": "Tomando una llamada",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tomando una llamada"
+        },
+        {
+            "type": "Media",
+            "url": "./images/522.jpg"
+        }
+    ]
+}

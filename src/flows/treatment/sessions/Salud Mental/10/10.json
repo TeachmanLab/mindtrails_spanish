@@ -1,0 +1,14 @@
+{
+    "header_text": "Estar a cargo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Estar a cargo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/92.jpg"
+        }
+    ]
+}

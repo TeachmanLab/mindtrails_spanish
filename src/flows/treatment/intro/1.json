@@ -1,0 +1,10 @@
+{
+    "header_text": "¡Bienvenido!",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¡Bienvenidos a MindTrails Espanol! Esta sesión inicial será un poco más larga que las sesiones futuras. Primero te pedirá que complete algunas encuestas sobre tu salud mental y tus patrones de pensamiento. Luego, te brindaremos más información sobre el fundamento de este programa y te explicaremos cómo aprovechar al máximo la aplicación. Tendrás la oportunidad de programar una reunión con el equipo de investigación al final de esta sesión si tienes alguna pregunta o inquietud. ¿Listo para comenzar? Presione el botón Siguiente a continuación para comenzar a completar cuestionarios."
+        }
+    ]
+}

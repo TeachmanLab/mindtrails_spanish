@@ -1,0 +1,14 @@
+{
+    "header_text": "Afecto desigual",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Afecto desigual"
+        },
+        {
+            "type": "Media",
+            "url": "./images/216.jpg"
+        }
+    ]
+}

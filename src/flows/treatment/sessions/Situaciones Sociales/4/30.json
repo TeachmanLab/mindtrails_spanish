@@ -1,0 +1,14 @@
+{
+    "header_text": "Comparaciones de redes sociales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comparaciones de redes sociales"
+        },
+        {
+            "type": "Media",
+            "url": "./images/478.jpg"
+        }
+    ]
+}

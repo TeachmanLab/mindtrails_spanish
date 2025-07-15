@@ -1,0 +1,15 @@
+{
+    "header_text": "Un tropiezo repentino",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Es tu primer día en un trabajo nuevo y vas a hablar con tu jefe. Al caminar hacia ellos, te tropiezas y luego te recuperas. Se dieron cuenta y su primera impresión de ti probablemente es que estás muy preparado para el..."
+        },
+        {
+            "type": "Entry",
+            "name": "Un tropiezo repentino_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

@@ -1,0 +1,15 @@
+{
+    "header_text": "Dando vueltas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Decides girar rápidamente en una silla de oficina. sientes mariposas en el estómago y te mareas cuando la silla se desacelera. Estas sensaciones probablemente significan que estás..."
+        },
+        {
+            "type": "Entry",
+            "name": "Dando vueltas_Salud Física_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

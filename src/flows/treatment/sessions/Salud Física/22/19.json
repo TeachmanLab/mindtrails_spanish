@@ -1,0 +1,14 @@
+{
+    "header_text": "Montar a caballo durante el fin de semana",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Montar a caballo durante el fin de semana"
+        },
+        {
+            "type": "Media",
+            "url": "./images/381.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "El coche de tu familia",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "El coche de tu familia"
+        },
+        {
+            "type": "Media",
+            "url": "./images/156.jpg"
+        }
+    ]
+}

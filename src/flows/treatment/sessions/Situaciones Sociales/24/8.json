@@ -1,0 +1,14 @@
+{
+    "header_text": "Equilibrar la vida familiar y los amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Equilibrar la vida familiar y los amigos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/160.jpg"
+        }
+    ]
+}

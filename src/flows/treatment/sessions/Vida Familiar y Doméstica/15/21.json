@@ -1,0 +1,14 @@
+{
+    "header_text": "Nueva receta",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Nueva receta"
+        },
+        {
+            "type": "Media",
+            "url": "./images/144.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Correo electrónico importante",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Correo electrónico importante"
+        },
+        {
+            "type": "Media",
+            "url": "./images/367.jpg"
+        }
+    ]
+}

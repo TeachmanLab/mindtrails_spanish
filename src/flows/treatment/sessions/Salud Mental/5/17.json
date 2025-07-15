@@ -1,0 +1,14 @@
+{
+    "header_text": "No ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "No "
+        },
+        {
+            "type": "Media",
+            "url": "./images/174.jpg"
+        }
+    ]
+}

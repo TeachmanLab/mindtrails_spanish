@@ -1,0 +1,14 @@
+{
+    "header_text": "Picadura de araña",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Picadura de araña"
+        },
+        {
+            "type": "Media",
+            "url": "./images/401.jpg"
+        }
+    ]
+}

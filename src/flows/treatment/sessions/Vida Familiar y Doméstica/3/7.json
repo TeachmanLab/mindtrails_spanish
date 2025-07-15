@@ -1,0 +1,14 @@
+{
+    "header_text": "Opiniones de otros",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Opiniones de otros"
+        },
+        {
+            "type": "Media",
+            "url": "./images/62.jpg"
+        }
+    ]
+}

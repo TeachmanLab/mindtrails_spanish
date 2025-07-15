@@ -1,0 +1,14 @@
+{
+    "header_text": "Persona de apoyo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Persona de apoyo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/79.jpg"
+        }
+    ]
+}

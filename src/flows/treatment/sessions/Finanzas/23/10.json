@@ -1,0 +1,15 @@
+{
+    "header_text": "Costear la terapia",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Has estado queriendo ir a terapia por un tiempo. sin embargo, no está seguro de si tiene el presupuesto para pagarlo. Piensas que es probable que encuentre un proveedor cuyos servicios son... "
+        },
+        {
+            "type": "Entry",
+            "name": "Costear la terapia_Finanzas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

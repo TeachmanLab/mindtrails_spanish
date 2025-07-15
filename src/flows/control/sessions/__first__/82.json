@@ -1,0 +1,23 @@
+{
+    "header_text": "Escala de ansiedad",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Durante la semana pasada, cuando se sintió ansioso, ¿qué tan intensa o grave fue su ansiedad?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Poco o nada: la ansiedad estaba ausente o apenas se notaba",
+                "Leve: La ansiedad estaba en un nivel bajo. Fue posible relajarme cuando lo intenté. Los síntomas físicos fueron sólo levemente incómodos.",
+                "Moderada: la ansiedad era angustiosa en ocasiones. Era difícil relajarme o concentrarme, pero podía hacerlo si lo intentaba. Los síntomas físicos fueron incómodos.",
+                "Severo: La ansiedad fue intensa la mayor parte del tiempo. Era muy difícil relajarse o concentrarse en cualquier otra cosa. Los síntomas físicos fueron incómodos.",
+                "Extremo: la ansiedad era abrumadora. Era imposible relajarse en absoluto. Los síntomas físicos eran insoportables.",
+                "^Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "OASIS_intensity_anxiety"
+        }
+    ]
+}

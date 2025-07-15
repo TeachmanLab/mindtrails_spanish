@@ -1,0 +1,14 @@
+{
+    "header_text": "Corriendo en el frío",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Corriendo en el frío"
+        },
+        {
+            "type": "Media",
+            "url": "./images/254.jpg"
+        }
+    ]
+}

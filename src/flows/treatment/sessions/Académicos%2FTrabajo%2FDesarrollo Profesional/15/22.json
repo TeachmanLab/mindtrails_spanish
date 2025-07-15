@@ -1,0 +1,14 @@
+{
+    "header_text": "El curso difícil",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "El curso difícil"
+        },
+        {
+            "type": "Media",
+            "url": "./images/9.jpg"
+        }
+    ]
+}

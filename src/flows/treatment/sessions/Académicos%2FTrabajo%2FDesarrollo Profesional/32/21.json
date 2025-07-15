@@ -1,0 +1,14 @@
+{
+    "header_text": "Solicitar una subvención",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Solicitar una subvención"
+        },
+        {
+            "type": "Media",
+            "url": "./images/53.jpg"
+        }
+    ]
+}

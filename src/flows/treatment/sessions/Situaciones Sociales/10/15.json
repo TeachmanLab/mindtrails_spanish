@@ -1,0 +1,14 @@
+{
+    "header_text": "Tiempo en silencio",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tiempo en silencio"
+        },
+        {
+            "type": "Media",
+            "url": "./images/499.jpg"
+        }
+    ]
+}

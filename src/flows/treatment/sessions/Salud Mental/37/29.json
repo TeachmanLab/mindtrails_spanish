@@ -1,0 +1,14 @@
+{
+    "header_text": "Día especial",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Día especial"
+        },
+        {
+            "type": "Media",
+            "url": "./images/191.jpg"
+        }
+    ]
+}

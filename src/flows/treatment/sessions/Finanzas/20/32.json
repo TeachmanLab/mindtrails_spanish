@@ -1,0 +1,23 @@
+{
+    "header_text": "Pagando hacia adelante",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tienes una cantidad de dinero que te gustaría intentar invertir. A medida que lees más sobre inversiones, te das cuenta de que no estás completamente seguro de lo que estás haciendo. Crees que es probable que tus habilidades de inversión sigan mejorando con la..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Pagando hacia adelante_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "práctica"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Caminata con un amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Caminata con un amigo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/385.jpg"
+        }
+    ]
+}

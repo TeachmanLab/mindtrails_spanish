@@ -1,0 +1,14 @@
+{
+    "header_text": "Revisión física anual",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Revisión física anual"
+        },
+        {
+            "type": "Media",
+            "url": "./images/355.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Evento social",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Evento social"
+        },
+        {
+            "type": "Media",
+            "url": "./images/269.jpg"
+        }
+    ]
+}

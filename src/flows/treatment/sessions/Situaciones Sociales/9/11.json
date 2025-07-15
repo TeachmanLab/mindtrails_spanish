@@ -1,0 +1,14 @@
+{
+    "header_text": "Corriendo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Corriendo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/494.jpg"
+        }
+    ]
+}

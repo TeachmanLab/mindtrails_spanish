@@ -1,0 +1,14 @@
+{
+    "header_text": "sin aliento",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "sin aliento"
+        },
+        {
+            "type": "Media",
+            "url": "./images/440.jpg"
+        }
+    ]
+}

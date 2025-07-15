@@ -1,0 +1,14 @@
+{
+    "header_text": "Explorando una cueva estrecha",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Explorando una cueva estrecha"
+        },
+        {
+            "type": "Media",
+            "url": "./images/383.jpg"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "header_text": "Chistes con Amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Un grupo de tus compañeros están susurrando y mirando en tu dirección. Algunos se están riendo mucho. No tienes tiempo de ir a saludarlos, y piensas que probablemente se estaban riendo de un... "
+        },
+        {
+            "type": "Entry",
+            "name": "Chistes con Amigos_Situaciones Sociales_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

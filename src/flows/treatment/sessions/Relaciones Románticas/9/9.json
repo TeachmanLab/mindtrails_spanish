@@ -1,0 +1,14 @@
+{
+    "header_text": "Consejería para parejas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Consejería para parejas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/230.jpg"
+        }
+    ]
+}

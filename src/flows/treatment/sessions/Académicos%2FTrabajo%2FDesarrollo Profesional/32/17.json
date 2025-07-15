@@ -1,0 +1,14 @@
+{
+    "header_text": "Una presentación importante",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Una presentación importante"
+        },
+        {
+            "type": "Media",
+            "url": "./images/64.jpg"
+        }
+    ]
+}

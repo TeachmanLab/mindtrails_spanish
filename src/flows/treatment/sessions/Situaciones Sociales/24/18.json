@@ -1,0 +1,15 @@
+{
+    "header_text": "Conociendo gente nueva",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Empezaste a trabajar en una nueva escuela este otoño. Como todas las clases son en línea, no has podido conocer a ninguno de tus colegas en persona. Has visto a algunos de ellos pasar el rato y sentirse..."
+        },
+        {
+            "type": "Entry",
+            "name": "Conociendo gente nueva_Situaciones Sociales_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

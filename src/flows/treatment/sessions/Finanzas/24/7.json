@@ -1,0 +1,15 @@
+{
+    "header_text": "Ahorro para reparaciones",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu coche necesita reparaciones importantes. Tus amigos te invitan a salir con ellos este fin de semana, pero necesitas ahorrar tu dinero para pagar tu coche. Niegas la invitación de tus amigos y te sientes... "
+        },
+        {
+            "type": "Entry",
+            "name": "Ahorro para reparaciones_Finanzas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

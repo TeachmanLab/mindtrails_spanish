@@ -1,0 +1,14 @@
+{
+    "header_text": "Gestión de facturas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Gestión de facturas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/245.jpg"
+        }
+    ]
+}

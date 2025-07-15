@@ -1,0 +1,14 @@
+{
+    "header_text": "Amigos del club de lectura",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Amigos del club de lectura"
+        },
+        {
+            "type": "Media",
+            "url": "./images/366.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Segundo encuentro",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Segundo encuentro"
+        },
+        {
+            "type": "Media",
+            "url": "./images/481.jpg"
+        }
+    ]
+}

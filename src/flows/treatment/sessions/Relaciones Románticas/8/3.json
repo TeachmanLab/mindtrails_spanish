@@ -1,0 +1,15 @@
+{
+    "header_text": "Yendo a una cita",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Vas a salir en una cita esta noche. No conoces muy bien a la persona y sabes que habrá algunos silencios en la conversación. Aunque podría ser incómodo, sabes que te..."
+        },
+        {
+            "type": "Entry",
+            "name": "Yendo a una cita_Relaciones Románticas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

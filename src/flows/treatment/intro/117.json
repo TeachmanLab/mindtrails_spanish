@@ -1,0 +1,27 @@
+{
+    "header_text": "Atención en una tienda",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Los otros compradores probablemente piensen que tu eres..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Atención en una tienda_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Considerado para disculparse.",
+                "Torpe y descoordinado."
+            ],
+            "columnCount": 1,
+            "correct_value": "Considerado para disculparse."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

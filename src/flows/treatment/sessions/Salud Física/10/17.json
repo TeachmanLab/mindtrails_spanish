@@ -1,0 +1,14 @@
+{
+    "header_text": "Manejando con una amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Manejando con una amigo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/433.jpg"
+        }
+    ]
+}

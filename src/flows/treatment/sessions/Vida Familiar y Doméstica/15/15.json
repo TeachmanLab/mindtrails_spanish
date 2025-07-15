@@ -1,0 +1,14 @@
+{
+    "header_text": "Tu primer hijo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tu primer hijo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/137.jpg"
+        }
+    ]
+}

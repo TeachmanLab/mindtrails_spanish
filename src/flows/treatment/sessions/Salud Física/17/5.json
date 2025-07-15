@@ -1,0 +1,14 @@
+{
+    "header_text": "El malestar de estómago",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "El malestar de estómago"
+        },
+        {
+            "type": "Media",
+            "url": "./images/446.jpg"
+        }
+    ]
+}

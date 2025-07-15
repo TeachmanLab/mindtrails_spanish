@@ -1,0 +1,14 @@
+{
+    "header_text": "Presentación opcional",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Presentación opcional"
+        },
+        {
+            "type": "Media",
+            "url": "./images/61.jpg"
+        }
+    ]
+}

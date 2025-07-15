@@ -1,0 +1,14 @@
+{
+    "header_text": "Fuera de tu control",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Fuera de tu control"
+        },
+        {
+            "type": "Media",
+            "url": "./images/117.jpg"
+        }
+    ]
+}

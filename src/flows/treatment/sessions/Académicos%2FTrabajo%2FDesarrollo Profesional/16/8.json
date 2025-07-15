@@ -1,0 +1,10 @@
+{
+    "header_text": "Respondiendo una pregunta: Sentimientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¡Gran trabajo! Ahora verás algunos sentimientos."
+        }
+    ]
+}

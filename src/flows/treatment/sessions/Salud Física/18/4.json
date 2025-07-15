@@ -1,0 +1,14 @@
+{
+    "header_text": "sintiendo mareos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "sintiendo mareos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/414.jpg"
+        }
+    ]
+}

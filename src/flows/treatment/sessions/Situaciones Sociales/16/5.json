@@ -1,0 +1,25 @@
+{
+    "header_text": "Salir sin ti:Pensamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás en el trabajo y escuchas a algunos de tus companeros de trabajo conversando detrás de ti. Mientras escuchas, te das cuenta de que no te invitaron a una pequena reunión y que algunos de tus companeros de trabajo y amigos estaban pasando el rato sin ti. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "Parece que se lo pasaron muy bien.",
+                "Me pregunto si realmente no les agrado a mis compañeros de trabajo, pero luego me desafío a pensar en momentos en los que todos hemos pasado un buen rato juntos.",
+                "Me pregunto si no me invitaron porque piensan que soy aburrido.",
+                "Creo que se habrán olvidado de mí, pero la próxima vez lo recordarán.",
+                "Es bueno que mis compañeros de trabajo puedan pasar tiempo juntos fuera del trabajo."
+            ],
+            "Duration": 15
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Sábado sin planes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sábado sin planes"
+        },
+        {
+            "type": "Media",
+            "url": "./images/532.jpg"
+        }
+    ]
+}

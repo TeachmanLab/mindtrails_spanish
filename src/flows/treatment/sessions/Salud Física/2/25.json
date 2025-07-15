@@ -1,0 +1,27 @@
+{
+    "header_text": "Clase de ejercicio con un amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cuando sientes que no puedes recuperar el aliento, es mejor..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Clase de ejercicio con un amigo_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Juzgar tu dificultad para respirar como algo malo o dañino.",
+                "simplemente observe sus pensamientos y sensaciones de ansiedad sin juzgarlos."
+            ],
+            "columnCount": 1,
+            "correct_value": "simplemente observe sus pensamientos y sensaciones de ansiedad sin juzgarlos."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

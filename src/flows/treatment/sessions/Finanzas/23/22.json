@@ -1,0 +1,14 @@
+{
+    "header_text": "Gestión de puestos de trabajo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Gestión de puestos de trabajo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/302.jpg"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "Imágenes ansiosas principales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Qué tan ansioso se sintió (en el nivel más alto de ansiedad) al completar la tarea de visualización? Presione la barra para ver el control deslizante.\n\n0 = Absolutamente sin ansiedad. \n\n10 = Totalmente ansioso."
+        },
+        {
+            "type": "Slider",
+            "min": "0",
+            "max": "10",
+            "others": [
+                "Prefiero no responder"
+            ],
+            "name": "imagery_anxiety"
+        }
+    ],
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Problemas de amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Problemas de amigos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/527.jpg"
+        }
+    ]
+}

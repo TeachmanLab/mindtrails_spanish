@@ -1,0 +1,32 @@
+{
+    "header_text": "Demografía",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Cuál es su máximo nivel educativo?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Escuela primaria",
+                "Secundaria",
+                "Algún instituto",
+                "Graduado de preparatoria",
+                "Alguna educación superior",
+                "Grado Asociado",
+                "Licenciatura",
+                "Alguna escuela de posgrado",
+                "Maestría",
+                "MBA",
+                "JD",
+                "MARYLAND.",
+                "Doctor.",
+                "Otros Títulos Avanzados",
+                "^Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "education"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "header_text": "Rompiendo el código de honor",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Imagínese en la situación de la página siguiente."
+        }
+    ]
+}

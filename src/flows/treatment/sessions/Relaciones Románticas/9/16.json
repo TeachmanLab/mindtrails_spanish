@@ -1,0 +1,15 @@
+{
+    "header_text": "Relaciones futuras",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Acabas de romper con tu pareja, con quien estuviste por más tiempo que cualquier otra persona importante que hayas tenido antes. Crees que fue lo mejor, pero también te preocupa si alguna vez conocerás a alguien más por quien sientes tanta..."
+        },
+        {
+            "type": "Entry",
+            "name": "Relaciones futuras_Relaciones Románticas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

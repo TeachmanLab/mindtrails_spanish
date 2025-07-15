@@ -1,0 +1,14 @@
+{
+    "header_text": "Expresándote",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Expresándote"
+        },
+        {
+            "type": "Media",
+            "url": "./images/75.jpg"
+        }
+    ]
+}

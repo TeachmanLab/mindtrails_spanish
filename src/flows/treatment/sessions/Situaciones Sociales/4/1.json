@@ -1,0 +1,14 @@
+{
+    "header_text": "Ir al cine solo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ir al cine solo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/476.jpg"
+        }
+    ]
+}

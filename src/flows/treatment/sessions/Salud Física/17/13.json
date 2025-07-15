@@ -1,0 +1,14 @@
+{
+    "header_text": "Prueba positiva",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Prueba positiva"
+        },
+        {
+            "type": "Media",
+            "url": "./images/448.jpg"
+        }
+    ]
+}

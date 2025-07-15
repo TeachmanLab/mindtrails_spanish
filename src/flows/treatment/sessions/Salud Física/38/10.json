@@ -1,0 +1,14 @@
+{
+    "header_text": "Un golpe accidental",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Un golpe accidental"
+        },
+        {
+            "type": "Media",
+            "url": "./images/405.jpg"
+        }
+    ]
+}

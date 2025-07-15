@@ -1,0 +1,14 @@
+{
+    "header_text": "Camiseta nueva",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Camiseta nueva"
+        },
+        {
+            "type": "Media",
+            "url": "./images/271.jpg"
+        }
+    ]
+}

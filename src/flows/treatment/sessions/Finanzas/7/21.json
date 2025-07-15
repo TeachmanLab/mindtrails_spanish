@@ -1,0 +1,14 @@
+{
+    "header_text": "Ahorrar dinero",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ahorrar dinero"
+        },
+        {
+            "type": "Media",
+            "url": "./images/257.jpg"
+        }
+    ]
+}

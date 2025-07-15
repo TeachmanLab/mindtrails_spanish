@@ -1,0 +1,14 @@
+{
+    "header_text": "Conversaciones incómodas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Conversaciones incómodas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/224.jpg"
+        }
+    ]
+}

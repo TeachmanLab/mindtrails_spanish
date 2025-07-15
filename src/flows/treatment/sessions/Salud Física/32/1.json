@@ -1,0 +1,14 @@
+{
+    "header_text": "Sentirse mareado",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sentirse mareado"
+        },
+        {
+            "type": "Media",
+            "url": "./images/360.jpg"
+        }
+    ]
+}

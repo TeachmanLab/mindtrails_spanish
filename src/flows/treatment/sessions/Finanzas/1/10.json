@@ -1,0 +1,14 @@
+{
+    "header_text": "Planes divertidos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Planes divertidos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/248.jpg"
+        }
+    ]
+}

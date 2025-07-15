@@ -1,0 +1,14 @@
+{
+    "header_text": "Cafetería",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cafetería"
+        },
+        {
+            "type": "Media",
+            "url": "./images/119.jpg"
+        }
+    ]
+}

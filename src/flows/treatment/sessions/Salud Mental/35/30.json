@@ -1,0 +1,14 @@
+{
+    "header_text": "Aceptando elogios",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Aceptando elogios"
+        },
+        {
+            "type": "Media",
+            "url": "./images/335.jpg"
+        }
+    ]
+}

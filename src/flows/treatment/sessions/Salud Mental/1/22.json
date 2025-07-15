@@ -1,0 +1,14 @@
+{
+    "header_text": "Sensación de noche",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sensación de noche"
+        },
+        {
+            "type": "Media",
+            "url": "./images/318.jpg"
+        }
+    ]
+}

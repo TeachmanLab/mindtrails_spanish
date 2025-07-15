@@ -1,0 +1,14 @@
+{
+    "header_text": "Recuperarse de COVID",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Recuperarse de COVID"
+        },
+        {
+            "type": "Media",
+            "url": "./images/285.jpg"
+        }
+    ]
+}

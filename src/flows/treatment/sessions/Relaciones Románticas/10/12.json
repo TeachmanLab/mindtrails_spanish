@@ -1,0 +1,14 @@
+{
+    "header_text": "Por primera vez",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Por primera vez"
+        },
+        {
+            "type": "Media",
+            "url": "./images/236.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "No sentirse apoyado",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "No sentirse apoyado"
+        },
+        {
+            "type": "Media",
+            "url": "./images/55.jpg"
+        }
+    ]
+}

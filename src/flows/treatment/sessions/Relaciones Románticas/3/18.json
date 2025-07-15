@@ -1,0 +1,23 @@
+{
+    "header_text": "Yendo a una boda",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás muy emocionado de ir a la boda de tu amigo. Cuando llegas allí, notas que la mayoría de la gente tiene un acompañante y tú no. Recuerdas lo feliz que estás por tu amigo y lo pasas genial..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Yendo a una boda_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "celebrando"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

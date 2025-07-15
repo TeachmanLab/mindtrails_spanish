@@ -1,0 +1,14 @@
+{
+    "header_text": "Fotos en redes sociales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Fotos en redes sociales"
+        },
+        {
+            "type": "Media",
+            "url": "./images/478.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Solo amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Solo amigo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/237.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Un conocido",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Un conocido"
+        },
+        {
+            "type": "Media",
+            "url": "./images/564.jpg"
+        }
+    ]
+}

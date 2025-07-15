@@ -1,0 +1,10 @@
+{
+    "header_text": "Un breve ejercicio",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "En este breve ejercicio, leerás varias historias cortas.\n\nLee cada una de ellas con atención e intenta imaginarte en la situación.\n\nLa última palabra de cada historia está incompleta. Haga clic en la letra que falta para completar la palabra.\n\nDespués de completar correctamente la palabra, se te hará una pregunta sobre la historia. Responde la pregunta basándote en la información del cuento."
+        }
+    ]
+}

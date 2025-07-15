@@ -1,0 +1,14 @@
+{
+    "header_text": "Foto con amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Foto con amigos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/330.jpg"
+        }
+    ]
+}

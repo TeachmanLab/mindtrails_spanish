@@ -1,0 +1,14 @@
+{
+    "header_text": "Mensajes de texto honestos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Mensajes de texto honestos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/333.jpg"
+        }
+    ]
+}

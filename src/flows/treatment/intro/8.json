@@ -1,0 +1,27 @@
+{
+    "header_text": "Demografía",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Cuál es tu situación laboral?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Trabajando a tiempo completo",
+                "Trabajar a tiempo parcial",
+                "Desempleado o despedido",
+                "Buscando trabajo",
+                "Ama de casa/cuidando la casa o criando hijos a tiempo completo",
+                "Jubilado",
+                "Alumno",
+                "Otro",
+                "Desconocido",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "employment"
+        }
+    ]
+}

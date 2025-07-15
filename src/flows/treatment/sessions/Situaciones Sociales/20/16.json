@@ -1,0 +1,14 @@
+{
+    "header_text": "Invitación a cenar",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Invitación a cenar"
+        },
+        {
+            "type": "Media",
+            "url": "./images/523.jpg"
+        }
+    ]
+}

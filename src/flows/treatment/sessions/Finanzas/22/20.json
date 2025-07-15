@@ -1,0 +1,14 @@
+{
+    "header_text": "Límite de tarjeta de crédito",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Límite de tarjeta de crédito"
+        },
+        {
+            "type": "Media",
+            "url": "./images/253.jpg"
+        }
+    ]
+}

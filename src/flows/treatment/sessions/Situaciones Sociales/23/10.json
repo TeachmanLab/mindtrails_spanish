@@ -1,0 +1,15 @@
+{
+    "header_text": "Cambio de planes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu familia espera que te asciendan en tu trabajo. Todavía no les has dicho que en realidad quieres tomarte unos años sabáticos para viajar. Piensas en decírselo y te sientes..."
+        },
+        {
+            "type": "Entry",
+            "name": "Cambio de planes_Situaciones Sociales_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

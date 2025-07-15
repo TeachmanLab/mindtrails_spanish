@@ -1,0 +1,14 @@
+{
+    "header_text": "Apoyándose en sus compañeros",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Apoyándose en sus compañeros"
+        },
+        {
+            "type": "Media",
+            "url": "./images/25.jpg"
+        }
+    ]
+}

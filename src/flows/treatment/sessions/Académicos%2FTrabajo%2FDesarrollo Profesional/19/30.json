@@ -1,0 +1,14 @@
+{
+    "header_text": "Emoción prospectiva",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Emoción prospectiva"
+        },
+        {
+            "type": "Media",
+            "url": "./images/105.jpg"
+        }
+    ]
+}

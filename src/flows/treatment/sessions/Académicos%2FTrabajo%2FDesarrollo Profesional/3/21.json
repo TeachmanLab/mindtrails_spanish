@@ -1,0 +1,14 @@
+{
+    "header_text": "Tartamudeo en la oficina",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tartamudeo en la oficina"
+        },
+        {
+            "type": "Media",
+            "url": "./images/26.jpg"
+        }
+    ]
+}

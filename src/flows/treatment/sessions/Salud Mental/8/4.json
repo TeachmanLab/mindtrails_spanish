@@ -1,0 +1,14 @@
+{
+    "header_text": "Una oportunidad perdida",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Una oportunidad perdida"
+        },
+        {
+            "type": "Media",
+            "url": "./images/316.jpg"
+        }
+    ]
+}

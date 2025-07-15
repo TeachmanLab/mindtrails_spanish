@@ -1,0 +1,14 @@
+{
+    "header_text": "Trabajando duro",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Trabajando duro"
+        },
+        {
+            "type": "Media",
+            "url": "./images/99.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Permitiendo que otros vean tu trabajo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Permitiendo que otros vean tu trabajo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/126.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Nuevo seguidor atractivo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Nuevo seguidor atractivo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/199.jpg"
+        }
+    ]
+}

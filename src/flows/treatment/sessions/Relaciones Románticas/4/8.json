@@ -1,0 +1,14 @@
+{
+    "header_text": "Encontrandote con alguien",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Encontrandote con alguien"
+        },
+        {
+            "type": "Media",
+            "url": "./images/202.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Pensando en preguntas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Pensando en preguntas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/89.jpg"
+        }
+    ]
+}

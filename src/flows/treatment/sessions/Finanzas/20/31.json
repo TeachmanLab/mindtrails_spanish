@@ -1,0 +1,14 @@
+{
+    "header_text": "Pagando hacia adelante",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Pagando hacia adelante"
+        },
+        {
+            "type": "Media",
+            "url": "./images/293.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Fiesta sensacional",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Fiesta sensacional"
+        },
+        {
+            "type": "Media",
+            "url": "./images/409.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Una audiencia captada",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Una audiencia captada"
+        },
+        {
+            "type": "Media",
+            "url": "./images/35.jpg"
+        }
+    ]
+}

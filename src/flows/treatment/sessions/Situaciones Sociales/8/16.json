@@ -1,0 +1,15 @@
+{
+    "header_text": "Mensajes en redes sociales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Uno de tus amigos ha comenzado a enviarte imágenes chistosos por redes sociales. Hoy notas que abrieron tu última imagen y no respondieron. Deben haberse..."
+        },
+        {
+            "type": "Entry",
+            "name": "Mensajes en redes sociales_Situaciones Sociales_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

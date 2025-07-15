@@ -1,0 +1,14 @@
+{
+    "header_text": "Complicaciones en terminar",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Complicaciones en terminar"
+        },
+        {
+            "type": "Media",
+            "url": "./images/50.jpg"
+        }
+    ]
+}

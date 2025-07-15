@@ -1,0 +1,14 @@
+{
+    "header_text": "Tu nueva publicación",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tu nueva publicación"
+        },
+        {
+            "type": "Media",
+            "url": "./images/365.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Un momento de olvido",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Un momento de olvido"
+        },
+        {
+            "type": "Media",
+            "url": "./images/331.jpg"
+        }
+    ]
+}

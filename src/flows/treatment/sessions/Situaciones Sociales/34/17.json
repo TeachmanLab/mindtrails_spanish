@@ -1,0 +1,14 @@
+{
+    "header_text": "Conociendo nuevos amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Conociendo nuevos amigos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/110.jpg"
+        }
+    ]
+}

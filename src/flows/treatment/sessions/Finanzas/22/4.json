@@ -1,0 +1,14 @@
+{
+    "header_text": "Reclamación del seguro",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Reclamación del seguro"
+        },
+        {
+            "type": "Media",
+            "url": "./images/127.jpg"
+        }
+    ]
+}

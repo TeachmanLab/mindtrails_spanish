@@ -1,0 +1,23 @@
+{
+    "header_text": "Dejado sin respuesta",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Puedes ver que tu amigo abrió la foto que enviaste pero no te respondió. Sabes que están publicando otras cosas, así que probablemente no te respondieron porque se les..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Dejado sin respuesta_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "olvidó"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

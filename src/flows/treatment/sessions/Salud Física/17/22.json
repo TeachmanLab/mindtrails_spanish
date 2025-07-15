@@ -1,0 +1,14 @@
+{
+    "header_text": "Tos después de salir",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tos después de salir"
+        },
+        {
+            "type": "Media",
+            "url": "./images/368.jpg"
+        }
+    ]
+}

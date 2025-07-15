@@ -1,0 +1,15 @@
+{
+    "header_text": "Gastar dinero con amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu presupuesto ha sido más ajustado este mes. Tus amigos quieren salir a comer este fin de semana, y eligen un lugar muy caro. si les pides que elijan un restaurante diferente, crees que serán... "
+        },
+        {
+            "type": "Entry",
+            "name": "Gastar dinero con amigos_Finanzas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

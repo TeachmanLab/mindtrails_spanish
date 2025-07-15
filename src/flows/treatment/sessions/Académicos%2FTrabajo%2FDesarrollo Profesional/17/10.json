@@ -1,0 +1,14 @@
+{
+    "header_text": "Presentación de tu trabajo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Presentación de tu trabajo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/88.jpg"
+        }
+    ]
+}

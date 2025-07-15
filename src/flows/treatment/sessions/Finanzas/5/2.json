@@ -1,0 +1,14 @@
+{
+    "header_text": "Costos inesperados",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Costos inesperados"
+        },
+        {
+            "type": "Media",
+            "url": "./images/159.jpg"
+        }
+    ]
+}

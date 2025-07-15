@@ -1,0 +1,14 @@
+{
+    "header_text": "Clase de baile",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Clase de baile"
+        },
+        {
+            "type": "Media",
+            "url": "./images/459.jpg"
+        }
+    ]
+}

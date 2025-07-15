@@ -1,0 +1,14 @@
+{
+    "header_text": "Expresar tu opinión",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Expresar tu opinión"
+        },
+        {
+            "type": "Media",
+            "url": "./images/197.jpg"
+        }
+    ]
+}

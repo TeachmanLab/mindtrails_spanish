@@ -1,0 +1,15 @@
+{
+    "header_text": "Amigos en las relaciones",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Todos tus amigos están en relaciones. Actualmente no estás en una relación y te preguntas si hay algo malo en ti. Piensas que eres..."
+        },
+        {
+            "type": "Entry",
+            "name": "Amigos en las relaciones_Relaciones Románticas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

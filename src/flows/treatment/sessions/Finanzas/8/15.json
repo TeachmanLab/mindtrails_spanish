@@ -1,0 +1,14 @@
+{
+    "header_text": "Decidiendo algo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Decidiendo algo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/247.jpg"
+        }
+    ]
+}

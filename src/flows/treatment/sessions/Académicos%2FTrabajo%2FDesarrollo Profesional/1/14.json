@@ -1,0 +1,14 @@
+{
+    "header_text": "Mostrar tu experiencia",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Mostrar tu experiencia"
+        },
+        {
+            "type": "Media",
+            "url": "./images/5.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Vecinos ruidosos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Vecinos ruidosos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/86.jpg"
+        }
+    ]
+}

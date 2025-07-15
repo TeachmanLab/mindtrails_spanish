@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Piensa en un momento del pasado en el que un evento social individual salió bien. "
+        }
+    ]
+}

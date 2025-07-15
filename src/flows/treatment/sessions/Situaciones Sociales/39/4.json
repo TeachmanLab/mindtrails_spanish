@@ -1,0 +1,14 @@
+{
+    "header_text": "Publicando nuevo contenido",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Publicando nuevo contenido"
+        },
+        {
+            "type": "Media",
+            "url": "./images/558.jpg"
+        }
+    ]
+}
