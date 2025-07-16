@@ -158,7 +158,7 @@ def shuffle(items,key=None):
     rng[key].shuffle(items)
 
 def lower(str):
-    return str.lower() if str else None
+    return str.lower() if str else ""
 
 def media_url(media):
     if media and media.strip():

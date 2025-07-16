@@ -8,7 +8,7 @@ from pathlib import Path
 
 from helpers_pages import create_discrimination_page, create_scenario_pages, create_survey_page,create_resource_page
 from helpers_pages import create_long_pages, create_write_your_own_page, create_video_page
-from helpers_utilities import get_resources, get_ER, get_tips, clean_up_unicode, has_value, create_puzzle, dir_safe, shuffle, write_output, media_url
+from helpers_utilities import get_resources, get_ER, get_tips, clean_up_unicode, has_value, create_puzzle, dir_safe, shuffle, write_output, media_url, lower
 
 dir_root = "./make"
 dir_csv    = f"{dir_root}/CSV"
@@ -52,8 +52,8 @@ def _create_survey_page(row):
     text = clean_up_unicode(row[4])
 
     title = row[1].strip()
-    input_1 = row[5].lower()
-    input_2 = row[6].lower()
+    input_1 = lower(row[5])
+    input_2 = lower(row[6])
     minimum = row[7]
     maximum = row[8]
     media = media_url(row[9])
@@ -136,10 +136,11 @@ def create_short_sessions(i):
             domain    = row[0].strip()
             label     = row[4]
             image_url = media_url(row[11])
+            tipe      = lower(row[3]).strip()
 
             if not domain or not label: continue
 
-            is_wyo = "write your own" in label.lower()
+            is_wyo = "write your own" in lower(label)
 
             if len(scenarios[domain]) == 10 or is_wyo and len(scenarios[domain]) > 6:
                 sessions[domain].append(sum(scenarios[domain],[]))
@@ -157,7 +158,7 @@ def create_short_sessions(i):
 
                 comp_question, choices, answer  = row[i+2], row[i+3:i+5], row[i+3]
 
-                if choices[0].strip().lower() in ['yes','si','no','sí']: choices = ["Sí","No"] #changed
+                if lower(choices[0]).strip() in ['yes','si','no','sí']: choices = ["Sí","No"] #changed
 
                 shuffle(choices)
 
@@ -177,7 +178,7 @@ def create_short_sessions(i):
                         n_missing=letters_missing,
                         include_lessons_learned=show_lessons_learned,
                         lessons_learned_dict=lessons_learned_dict,
-                        is_first=is_first_scenario
+                        is_first=is_first_scenario, tipe=tipe
                     )
                 )
 

@@ -123,7 +123,7 @@ def create_long_pages(label, scenario_description, image_url, thoughts, feelings
 def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, comp_question,
                           answers, correct_answer, image_url, is_first, word_2=None,
                           puzzle_text_2=None, n_missing=1, include_lessons_learned=False,
-                          lessons_learned_dict=None):
+                          lessons_learned_dict=None, tipe=None):
 
     n_missing = lower(str(n_missing))
 
@@ -237,6 +237,10 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
             ],
             "navigation_conditions":["wait_for_correct","wait_for_click"]
         })
+
+    if tipe:
+        for page in pages:
+            page["type"] = tipe
 
     return pages
 
