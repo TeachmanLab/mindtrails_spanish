@@ -115,14 +115,14 @@
       "frequency": "1",
       "time": "20:00",
       "action": "notification",
-      "content": "flow://flows/treatment/final del dia"
+      "content": {"path":"flow://flows/treatment/final del dia"}
     },
     {
       "type": "timing",
       "frequency": "14",
       "time": "20:00",
       "action": "notification",
-      "content": "flow://flows/treatment/sigue tu progreso"
+      "content": {"path":"flow://flows/treatment/sigue tu progreso"}
     }
   ]
 }
