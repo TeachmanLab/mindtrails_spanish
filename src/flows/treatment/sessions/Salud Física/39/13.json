@@ -11,5 +11,7 @@
             "name": "Primera vez pantinaje sobre hielo_Salud Física_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
 }

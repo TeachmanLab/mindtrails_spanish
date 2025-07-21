@@ -11,5 +11,7 @@
             "name": "El torneo de fútbol_Situaciones Sociales_entry2"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
 }

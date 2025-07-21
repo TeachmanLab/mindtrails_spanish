@@ -6,5 +6,7 @@
             "type": "Text",
             "text": "Las historias que estás a punto de ver son un poco diferentes a las que has vistovisto antes. En lugar de completar las letras que faltan para completar la palabra final,Vamos a desafiarte a generar tu propia última palabra que completarála historia. Tu objetivo es pensar en una palabra que terminará la historia en un nota positiva. El final no tiene por qué ser tan positivo como para no serloParece posible, pero queremos que imagines que estás manejando bien la situación."
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

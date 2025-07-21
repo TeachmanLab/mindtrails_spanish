@@ -11,5 +11,7 @@
             "name": "Citas en línea_Relaciones Románticas_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 5
 }

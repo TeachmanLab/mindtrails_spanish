@@ -10,5 +10,17 @@
             "type": "Media",
             "url": "./images/137.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Cuanto más te sumerjas en la historia, más probabilidades tendrás de beneficiarte de nuestro programa; imagínate realmente en la situación actual."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

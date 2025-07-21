@@ -241,6 +241,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
     if tipe:
         for page in pages:
             page["type"] = tipe
+            page["scenario_num"] = scenario_num
 
     return pages
 

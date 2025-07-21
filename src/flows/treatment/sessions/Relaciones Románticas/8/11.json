@@ -11,5 +11,17 @@
             "name": "Nueva pareja_Relaciones Románticas_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Al igual que un músculo, tu cerebro fortalece las vías que más utiliza. Por eso practicar muchas situaciones te ayuda a cambiar tus hábitos de pensamiento."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

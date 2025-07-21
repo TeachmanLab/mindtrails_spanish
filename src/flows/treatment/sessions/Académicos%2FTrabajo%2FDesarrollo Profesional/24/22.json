@@ -11,5 +11,7 @@
             "name": "El curso difícil_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 9
 }

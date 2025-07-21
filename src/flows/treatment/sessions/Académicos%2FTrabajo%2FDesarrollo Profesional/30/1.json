@@ -10,5 +10,7 @@
             "type": "Entry",
             "name": "lessons_learned_Académicos/Trabajo/Desarrollo Profesional_0"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 0
 }

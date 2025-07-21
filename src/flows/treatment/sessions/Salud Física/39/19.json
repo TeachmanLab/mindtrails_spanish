@@ -11,5 +11,7 @@
             "name": "Un pastel de cumpleaños_Salud Física_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 7
 }

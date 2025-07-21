@@ -11,5 +11,17 @@
             "name": "Una presentación grande_Situaciones Sociales_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Recuerda, MindTrails no solo cambia tu perspectiva sobre las situaciones que estás leyendo aquí, ¡sino también tu perspectiva en la vida real!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

@@ -10,5 +10,7 @@
             "type": "Media",
             "url": "./images/248.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

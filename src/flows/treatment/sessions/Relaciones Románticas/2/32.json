@@ -23,5 +23,17 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 9,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Recuerde, cuanto más practique pensar en situaciones de nuevas maneras en nuestra aplicación, podras pensar positivamente sobre situaciones aterradoras en tu vida."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

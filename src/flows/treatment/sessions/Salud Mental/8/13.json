@@ -11,5 +11,17 @@
             "name": "Revisando tu trabajo_Salud Mental_entry2"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Al igual que un músculo, tu cerebro fortalece las vías que más utiliza. Por eso practicar muchas situaciones te ayuda a cambiar tus hábitos de pensamiento."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

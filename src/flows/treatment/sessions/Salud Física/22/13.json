@@ -10,5 +10,7 @@
             "type": "Media",
             "url": "./images/461.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 4
 }

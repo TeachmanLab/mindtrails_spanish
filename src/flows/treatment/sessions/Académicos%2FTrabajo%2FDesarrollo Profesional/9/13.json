@@ -11,5 +11,17 @@
             "name": "Trabajo inacabado_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "MindTrails te brinda el coraje para enfrentar situaciones inciertas, brindándote la confianza para abordarlas en la vida real."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

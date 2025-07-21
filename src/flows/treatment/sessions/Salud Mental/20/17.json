@@ -23,5 +23,17 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Recuerda, MindTrails no solo cambia tu perspectiva sobre las situaciones que estás leyendo aquí, ¡sino también tu perspectiva en la vida real!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

@@ -8,7 +8,7 @@ from pathlib import Path
 
 from helpers_pages import create_discrimination_page, create_scenario_pages, create_survey_page,create_resource_page
 from helpers_pages import create_long_pages, create_write_your_own_page, create_video_page
-from helpers_utilities import get_resources, get_ER, get_tips, clean_up_unicode, has_value, create_puzzle, dir_safe, shuffle, write_output, media_url, lower
+from helpers_utilities import get_resources, get_ER, get_tips, clean_up_unicode, has_value, create_puzzle, dir_safe, shuffle, write_output, media_url, lower, get_page_index, get_reminder_element
 
 dir_root = "./make"
 dir_csv    = f"{dir_root}/CSV"
@@ -126,7 +126,6 @@ def create_long_sessions(i):
 def create_short_sessions(i):
     sessions     = defaultdict(list)
     scenarios    = defaultdict(list)
-    scenario_num = defaultdict(int)
 
     lessons_learned_dict = create_lessons_learned()
 
@@ -170,7 +169,7 @@ def create_short_sessions(i):
                 show_lessons_learned = not is_first_session and is_first_scenario and len(sessions[domain]) % 4 == 0
 
                 scenarios[domain].append(
-                    create_scenario_pages(domain=domain, label=label, scenario_num=scenario_num[domain],
+                    create_scenario_pages(domain=domain, label=label, scenario_num=len(scenarios[domain]),
                         puzzle_text_1=puzzle1[0], word_1=puzzle1[1],
                         comp_question=comp_question, answers=choices,
                         correct_answer=answer, word_2=puzzle2[1],
@@ -242,6 +241,26 @@ def create_discrimination_session(pop):
 
     return pages
 
+def create_reminders():
+    reminders = defaultdict(list)
+    with open(f"{dir_csv}/Reminders.csv", "r", encoding="utf-8") as read_obj:
+        for row in islice(csv.reader(read_obj),1,None):
+            reminders[row[0].strip()].append([lower(row[1]).strip(), lower(row[2]).strip(), row[5]])
+
+    return reminders
+
+def try_add_reminders(session_number, session, reminders):
+    if str(session_number+1) in reminders:
+        for page,position,reminder in reminders[str(session_number+1)]:
+
+            position = lower(position).strip()
+            index = get_page_index(page,session,position)
+
+            if index is not None:
+                session[index]["information"] = get_reminder_element(reminder,position,1)
+
+    return session
+
 populations = [ ["Español", 5, 4] ]
 
 for pop,s,l in populations:
@@ -252,16 +271,10 @@ for pop,s,l in populations:
     wyo_session     = create_write_your_own_session()      # one session used over and over again
     resources       = create_resource_dose_creator()       # lambda that takes a domain and returns a dose
     discrim_session = create_discrimination_session(pop)   # one session used over and over again
+    reminders       = create_reminders()
 
     domains  = short_sessions.keys()
     sessions = defaultdict(list)
-
-    # Load info bubbles data
-    # info_dict = {}
-    # with open(f"{dir_csv}/Info_Bubbles.csv", "r", encoding="utf-8") as info_file:
-    #     for row in islice(csv.reader(info_file), 1, None):
-    #         timing, text = row[0], row[1]
-    #         info_dict[int(timing)] = clean_up_unicode(text)
 
     # Create doses
     for domain in domains:
@@ -271,7 +284,14 @@ for pop,s,l in populations:
             if short_session == "Write Your Own":
                 sessions[domain].append(wyo_session + resources(domain))
             else:
+                short_session = try_add_reminders(len(sessions[domain]), short_session, reminders)
                 sessions[domain].append(short_session + resources(domain))
+
+    for key in [k for k in reminders.keys() if k.startswith("<")]:
+        for page,position,reminder in reminders[key]:
+            for p in flat(surveys["BeforeDomain_All"]):
+                if page in lower(p["header_text"]):
+                    p["information"] = get_reminder_element(reminder,position,3)
 
     # Define folders
     folders = {}
