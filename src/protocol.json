@@ -2,7 +2,7 @@
   "icon": "/assets/home_mindtrails.png",
   "home": {
     "title": "MindTrails",
-    "element": {"type": "list", "elements": [
+    "element": { "type": "list", "elements": [
       {
         "type": "alert",
         "title": "MindTrails",
@@ -12,7 +12,7 @@
       {
         "type": "sessions",
         "left": {
-          "text": "{0} Completed Sessions",
+          "text": "{0} Sesiones completadas",
           "icon": "/assets/completed.png"
         },
         "right": {
@@ -57,7 +57,7 @@
           }
         ]
       }
-    ] },
+    ] }
   },
   "settings": {
     "unenroll": "flow://flows/treatment/reasons for ending"
