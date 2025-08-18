@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Mi amigo será mi amigo sin importar lo que piense mi pareja.",
                 "Podremos discutir cuidadosamente las diferentes opiniones.",
                 "Mi pareja dirá algo que hará que mi amigo me odie.",
                 "Incluso si mi pareja dice algo que le molesta, mi amigo y yo podemos hablar de ello más tarde.",
                 "Si mi pareja dice cosas con las que no estoy de acuerdo, sigue siendo mi pareja y la amo."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

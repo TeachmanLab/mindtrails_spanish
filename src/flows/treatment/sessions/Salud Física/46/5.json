@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Me pregunto si hay algún problema con mi corazón, pero puedo obtener ayuda y resolver el problema si es necesario.",
                 "¡Me va a dar un infarto!",
                 "Incluso si esta sensación en mi pecho es realmente incómoda, sé que desaparecerá pronto.",
                 "Mi corazón debe estar latiendo más rápido porque camino muy rápido por los pasillos.",
                 "Es sorprendente la cantidad de opciones de comida diferentes que hay en esta tienda de comestibles."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

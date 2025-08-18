@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Estoy ansioso por poder hacer todo.",
                 "Me emociona escuchar a mi artista favorito mientras hago mis quehaceres.",
                 "Estoy tranquila mientras priorizo ​​mis tareas domésticas y mi proyecto.",
                 "Me siento molesto por todo lo que tengo que hacer, pero me imagino cómo se sentirá tenerlo todo logrado.",
                 "Aunque me siento abrumado, intento sentirme agradecido por el trabajo que tengo y por la casa en la que vivo."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

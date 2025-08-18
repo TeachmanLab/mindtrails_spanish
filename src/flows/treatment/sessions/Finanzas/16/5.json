@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Creo que no hay solución para este problema, pero doy un paso atrás y pienso en mis opciones.",
                 "Esta es una situación difícil, pero no tendré todos estos gastos todos los meses.",
                 "Nunca podré permitirme todo esto.",
                 "He enfrentado con éxito desafíos financieros en el pasado y puedo hacerlo de nuevo ahora.",
                 "Puedo encontrar una manera de manejar esto."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

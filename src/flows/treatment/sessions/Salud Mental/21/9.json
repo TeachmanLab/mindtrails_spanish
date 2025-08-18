@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Me siento culpable por no volver a comprobarlo todo, pero me recuerdo a mí mismo que comprobarlo una vez fue suficiente.",
                 "Estoy seguro de que todo estaba cerrado.",
                 "Tengo miedo de haberme perdido algo y luego me concentro suavemente en lo que está sucediendo en el auto.",
                 "Me siento emocionado por el viaje.",
                 "Me preocupa que se haya dejado algún electrodoméstico encendido."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

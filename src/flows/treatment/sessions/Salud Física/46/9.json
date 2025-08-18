@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Estoy nervioso por mi salud, pero me doy cuenta de que mi corazón probablemente late porque estoy emocionado de estar en un lugar nuevo.",
                 "Tengo miedo de que mi corazón se acelere porque algo anda realmente mal.",
                 "Estoy preocupado por mi corazón, pero luego me recuerdo a mí mismo que todo estará bien.",
                 "Soy feliz buscando mis comidas favoritas en un lugar nuevo.",
                 "Estoy emocionado de estar en una nueva tienda."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

@@ -16,7 +16,7 @@
                 "Podrás seguir el ritmo de tu amigo.",
                 "Te quedarás atras de tu amigo durante tu carrera."
             ],
-            "columnCount": 1,
+            "column_Count": 1,
             "correct_value": "Podrás seguir el ritmo de tu amigo."
         }
     ],

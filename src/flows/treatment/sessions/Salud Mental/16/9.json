@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Me preocupa que la casa se queme, pero sé que puedo tolerar este sentimiento y pasará.",
                 "Tengo miedo de que nuestra casa se queme.",
                 "Me siento miserable preocupándome por si todo está mal, pero recuerdo concentrarme en el presente y respirar profundamente.",
                 "Estoy satisfecho de haber revisado los electrodomésticos que pude al salir.",
                 "Me siento tranquilo ahora que estoy en el auto y saliendo de la ciudad con mi familia."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

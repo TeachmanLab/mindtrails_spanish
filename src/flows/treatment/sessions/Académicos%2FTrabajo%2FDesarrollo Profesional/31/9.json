@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Me entristece que nadie me conozca tan bien, pero me siento mejor pensando que les agradaré una vez que me conozcan mejor.",
                 "Estoy nervioso porque no tengo buenas ideas.",
                 "Estoy emocionado de hacer nuevos amigos.",
                 "Me siento impulsado a hacer mi mejor trabajo.",
                 "Tengo miedo de que mi grupo me excluya, pero sepan que esta discusión sólo durará unos minutos."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

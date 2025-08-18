@@ -3,7 +3,7 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
+            "type": "Text",
             "text": "Dolor de cabeza en la oficina médica"
         },
         {

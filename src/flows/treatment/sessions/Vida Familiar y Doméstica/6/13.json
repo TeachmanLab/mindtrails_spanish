@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Describo un cronograma a seguir.",
                 "Me quejo de lo mucho que tengo que hacer.",
                 "Lo pospongo para llamar a un amigo, pero decido comenzar con las tareas del hogar después.",
                 "Como un refrigerio y luego empiezo con las tareas del hogar primero.",
                 "Me siento y empiezo a evitar tanto las tareas del hogar como mi proyecto, pero decido hacer lo correcto y me levanto para comenzar la primera tarea."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Quiero quedarme callado, pero decido contribuir.",
                 "Quiero trabajar solo, pero pruébalo en grupo.",
                 "Hablaré con la gente de mi lugar de trabajo y pediré estar en un grupo.",
                 "Iré al baño para no tener que pedirle a nadie que esté en su grupo.",
                 "Expresaré lo emocionado que estoy de conocer a todos."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

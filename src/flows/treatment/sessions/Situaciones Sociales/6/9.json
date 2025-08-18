@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Me da mucha vergüenza destacar tanto, pero honestamente la gente lo olvidará en unos minutos.",
                 "Me preocupa que otros se burlen de mí a mis espaldas.",
                 "Me siento feliz usando lo que amo.",
                 "Me siento tan liberada usando algo tan divertido.",
                 "Me preocupa lo que piensen los demás, pero me doy cuenta de que puedo usar lo que me hace feliz."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

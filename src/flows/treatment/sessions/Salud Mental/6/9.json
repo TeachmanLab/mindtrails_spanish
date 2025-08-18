@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Me alegro de tener la conciencia de saber que necesito hablar pronto con mi jefe.",
                 "Me preocupa lo que dirá mi jefe sobre mi presentación.",
                 "Estoy incómodo en este momento, pero puedo respirar profundamente para sentirme más tranquilo.",
                 "Me siento inseguro acerca de la calidad de mi presentación, pero nada de lo que haga será perfecto.",
                 "Me siento tranquilo sabiendo que hice lo mejor que pude sin importar lo que pase."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

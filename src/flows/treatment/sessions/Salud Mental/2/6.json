@@ -16,7 +16,7 @@
                 "Lo poco que han seguido mejorando tus habilidades.",
                 "Cuánto has mejorado desde que empezaste."
             ],
-            "columnCount": 1,
+            "column_Count": 1,
             "correct_value": "Lo poco que han seguido mejorando tus habilidades."
         }
     ],

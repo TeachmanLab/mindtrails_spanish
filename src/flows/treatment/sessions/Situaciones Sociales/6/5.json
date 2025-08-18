@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Puede que haya usado algo demasiado loco, pero me gusta.",
                 "A todos les encantará este disfraz.",
                 "Creo que este disfraz es divertido.",
                 "A nadie le gusta mi disfraz.",
                 "Tal vez debería haberlo suavizado, pero sé que esto es cierto para mí."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

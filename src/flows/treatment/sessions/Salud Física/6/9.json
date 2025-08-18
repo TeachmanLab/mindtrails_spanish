@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Me siento ansioso y empiezo a pensar demasiado en lo que podría estar mal, pero recuerdo que no puedo controlar su salud.",
                 "Me inquieta la apariencia de mi padre.",
                 "Estoy agradecido de poder pasar tiempo con mi padre.",
                 "Empiezo a sentirme enojado por cómo está envejeciendo, pero sé que esto es parte de la vida y no puedo cambiarlo.",
                 "Me emociona que mi padre esté entablando una conversación."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

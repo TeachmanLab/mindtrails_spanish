@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Me siento halagado de que quisieran enviarme un correo electrónico.",
                 "Estoy emocionado de leer su respuesta.",
                 "Me siento inseguro de mantener una conversación con ellos.",
                 "No estoy seguro de la razón por la que me enviaron un correo electrónico, pero me doy cuenta de que es solo porque querían hacerlo.",
                 "Me preocupa lo que piensen de mí, pero sé que puedo lidiar con el no saberlo."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

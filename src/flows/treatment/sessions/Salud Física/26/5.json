@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Mi jefe podría notar lo sin aliento que estoy y está bien si lo hace.",
                 "Estoy emocionado por la reunión.",
                 "Da miedo sentir mi corazón latiendo rápido, pero sé que todo terminará pronto.",
                 "¿Estoy sufriendo un infarto?",
                 "Subí esas escaleras muy rápido."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

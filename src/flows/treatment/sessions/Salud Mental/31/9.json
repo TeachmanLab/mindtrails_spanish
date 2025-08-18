@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Me da asco, pero recuerdo que la araña probablemente no pueda hacerme daño.",
                 "Tengo miedo de que la araña aparezca cuando menos lo espere.",
                 "Tengo curiosidad por saber adónde fue.",
                 "Estoy tranquilo mientras me meto en la ducha.",
                 "Estoy ansioso por meterme en la ducha, pero sé que puedo superar mi miedo."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

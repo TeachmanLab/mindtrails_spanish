@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Le cuento a mi amigo lo que me gustó su perfil.",
                 "Elimino todas las imágenes que puedan resultar embarazosas.",
                 "Quiero cambiar algunas de mis imágenes, pero mantenerlas igual.",
                 "Quiero desactivar mi cuenta, pero decido mantenerla.",
                 "Les envío un mensaje para iniciar la conversación."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

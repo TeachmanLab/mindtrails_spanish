@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Pienso en decirle a mi amigo que deberíamos ir a caminar a otro lugar, pero decido que estará bien si caminamos por el parque.",
                 "Le digo a mi amigo que estoy listo para partir.",
                 "Llamo a mi amigo y le digo que de repente estoy ocupado.",
                 "Me pongo una chaqueta y salgo.",
                 "Quiero decirle a mi amigo que no puedo ir, pero me esfuerzo por ir al parque de todos modos."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

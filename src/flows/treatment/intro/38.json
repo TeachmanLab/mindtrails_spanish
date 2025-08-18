@@ -8,9 +8,9 @@
         },
         {
             "type": "WordPuzzle",
-            "right_feedback": "Correcto!",
-            "wrong_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "wrong_delay": 5000,
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
                 "sangrar"

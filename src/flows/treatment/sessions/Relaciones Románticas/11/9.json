@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Me siento mal por no recibir una respuesta rápida, pero recuerda que no necesito intentar controlar la situación.",
                 "Estoy feliz con quien soy, respondan o no.",
                 "Me preocupa no haber recibido respuesta, pero me doy cuenta de que no necesito recibir respuesta inmediatamente sobre lo que envié.",
                 "Me da vergüenza haberme expuesto.",
                 "Me parece bien que no hayan respondido."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

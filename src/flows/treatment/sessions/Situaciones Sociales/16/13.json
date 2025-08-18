@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Decido evitar hablar con mis compañeros de trabajo cuando sea posible.",
                 "Quiero llorar, pero recuerdo que he salido con algunos de estos amigos y compañeros de trabajo sin que todos estuvieran presentes.",
                 "Realmente quiero preguntarles a mis compañeros de trabajo por qué no me invitaron, pero decido que no es necesario preguntar.",
                 "Me comunico con uno de mis compañeros de trabajo y le hago saber que me encantaría pasar el rato con él la próxima vez.",
                 "Les digo algo lindo."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

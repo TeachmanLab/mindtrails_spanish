@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Quiero pasar el día concentrado en mi teléfono, pero en lugar de eso hago pasatiempos que disfruto.",
                 "Quiero preguntarles qué piensan de mí, pero decido darle más tiempo.",
                 "Sigo con mi día.",
                 "Envío un montón de mensajes seguidos para ver si responden.",
                 "Llamo a un amigo y le pregunto sobre su día."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

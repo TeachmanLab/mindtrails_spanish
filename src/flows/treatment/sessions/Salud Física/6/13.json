@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Evito pensar en su salud.",
                 "Quiero interrogar a la familia sobre su salud, pero decido disfrutar de la reunión.",
                 "Me río de una tontería que dijo mi padre.",
                 "Siento la necesidad de preguntarle sobre su salud, pero respiro hondo y escucho lo que habla mi familia ahora sabiendo que hay una razón por la que no me han dicho nada.",
                 "Empiezo a conversar con mi familia."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

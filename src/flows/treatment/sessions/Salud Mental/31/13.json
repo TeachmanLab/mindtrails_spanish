@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Empiezo a tocar algo de música.",
                 "Quiero rociar repelente de insectos en todas partes, pero decido continuar con mi rutina de ducha ya que el rociador podría hacer más daño que la araña.",
                 "Quiero llamar a alguien para que me ayude a encontrar la araña, pero decido simplemente ducharme.",
                 "Grito y salgo corriendo.",
                 "Decido abrir el agua."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

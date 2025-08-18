@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Pienso en todas las cosas divertidas que mi familia y yo haremos en nuestro viaje.",
                 "Pienso en todas las cosas horribles que podrían pasar en la casa.",
                 "Aunque no pude comprobarlo completamente por segunda vez antes de que todos nos fuéramos, recuerdo que nunca antes había dejado los electrodomésticos encendidos al salir de casa.",
                 "Incluso si no estoy 100% seguro de que los electrodomésticos estén apagados, puedo vivir con eso.",
                 "Pienso en cómo noté que todo estaba apagado durante la primera revisión."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

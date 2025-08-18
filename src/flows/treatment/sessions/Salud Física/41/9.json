@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Estoy feliz de haber decidido finalmente venir aquí.",
                 "Tengo miedo de este sentimiento en mi pecho, pero pienso en todas las veces que mi corazón latió con fuerza y ​​terminé bien.",
                 "Estoy nervioso por mi corazón, pero recuerda que a veces mi corazón late rápido cuando estoy emocionado.",
                 "Tengo miedo de que mi corazón palpite, significa que algo malo está sucediendo.",
                 "Estoy emocionado de ver lo que tiene esta nueva tienda de comestibles."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

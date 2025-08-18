@@ -16,7 +16,7 @@
                 "Tendrás que cancelar debido a problemas de dinero.",
                 "Podrás elegir un hotel bastante bonito."
             ],
-            "columnCount": 1,
+            "column_Count": 1,
             "correct_value": "Tendrás que cancelar debido a problemas de dinero."
         }
     ],

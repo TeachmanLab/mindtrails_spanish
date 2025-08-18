@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "La gente puede juzgarme por mi don, pero sé que puse mucha atención y esfuerzo en encontrar algo especial.",
                 "Mi amigo estará feliz de que pueda ir.",
                 "Será bueno ver a muchos de mis amigos.",
                 "Puede que mi amigo esté decepcionado con mi regalo, pero aun así me alegro de haber venido y haber demostrado que me importaba.",
                 "A mi amigo le dará vergüenza tenerme como amigo porque mi regalo no es tan bonito como el de los demás."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

@@ -47,6 +47,7 @@ def create_input(tipe, items=None, min=None, max=None, text=None):
 
     if items: items = clean_up_unicode(items).split("; ")
     if items == [""]: items = None
+    if items: [i.strip() for i in items]
 
     tipe = lower(tipe)
 
@@ -57,12 +58,12 @@ def create_input(tipe, items=None, min=None, max=None, text=None):
     if tipe == "buttons"  : return {"type": "Buttons", "buttons": items, "selectable": True, **({"ColumnCount": 2} if is_yesno(items) else {}) }
     if tipe == "scheduler": return {"type": "Scheduler", "days_ahead": 1, "flow": "flow://flows/sessions", "count":2, "message": "¡Es hora de practicar el pensamiento flexible! Dirígete a MindTrails Español para tu sesión programada."}
     if tipe == "checkbox" : return {"type": "Buttons", "buttons": items, "selectable": True, "multi_select": True }
-    if tipe == "timedtext": return {"type": "TimedText", "text": text,  "Duration": 15 }
+    if tipe == "timedtext": return {"type": "TimedText", "texts": text,  "Duration": 15000 }
     if tipe == "puzzle"   : return {
         "type": "WordPuzzle",
-        "right_feedback": "Correcto!",  # changed
-        "wrong_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",  # changed
-        "wrong_delay": 5000,
+        "correct_feedback": "Correcto!",  # changed
+        "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",  # changed
+        "incorrect_delay": 5000,
         "display_delay": 2000,
         "words": items
     }
@@ -125,8 +126,9 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                           puzzle_text_2=None, n_missing=1, include_lessons_learned=False,
                           lessons_learned_dict=None, tipe=None):
 
-    n_missing = lower(str(n_missing))
+    assert correct_answer.lower() in [a.lower() for a in answers]
 
+    n_missing = lower(str(n_missing))
     pages = []
 
     if include_lessons_learned and domain in lessons_learned_dict:
@@ -160,7 +162,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
         "header_text": label,
         "header_icon": "assets/subtitle.png",
         "elements": [
-            {"type": "Label", "text": label },
+            {"type": "Text", "text": label },
             {"type": "Media", "url": image_url }
         ]
     })
@@ -230,8 +232,8 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                     "correct_feedback": "Correcto!",  # changed
                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",  # changed
                     "incorrect_delay": 5000,
-                    "buttons": answers,
-                    "columnCount": 1,
+                    "buttons": [a.strip() for a in answers],
+                    "column_Count": 1,
                     "correct_value": correct_answer
                 }
             ],

@@ -3,7 +3,7 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
+            "type": "Text",
             "text": "Invitando tu Amigo a una Cita"
         },
         {

@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Tengo suerte de tener un amigo que me ayuda con el transporte.",
                 "Estoy deseando que llegue esta reunión.",
                 "Mi pensamiento inmediato es que la gente en la reunión se enojará conmigo, pero me recuerdo que no juzgo a las personas por lo que hacen sus amigos.",
                 "La gente en la reunión me va a juzgar.",
                 "Interrumpimos a mucha gente al hacer tanto ruido, pero es probable que no lo recuerden ni piensen en ello después."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

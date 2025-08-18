@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Me saltaré esta reunión mañana.",
                 "Quiero evitar trabajar en la presentación, pero sé que progresar un poco me ayudará a sentirme realizado.",
                 "Le preguntaré a mi jefe qué más puedo hacer para demostrar mis habilidades.",
                 "Quiero preguntarles a mis colegas cómo piensan que lo hice, pero realmente no importa lo que piensen los demás.",
                 "No me esconderé en mi oficina después de mi presentación."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

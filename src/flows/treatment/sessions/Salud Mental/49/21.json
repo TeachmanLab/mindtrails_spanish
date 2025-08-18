@@ -16,7 +16,7 @@
                 "Nunca has salido con esta persona antes.",
                 "Eres desagradable."
             ],
-            "columnCount": 1,
+            "column_Count": 1,
             "correct_value": "Nunca has salido con esta persona antes."
         }
     ],

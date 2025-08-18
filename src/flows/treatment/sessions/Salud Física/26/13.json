@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Quiero entrar en pánico, pero recuerdo que en realidad es solo la reacción de mi cuerpo al subir las escaleras rápidamente.",
                 "Siento la necesidad de decirle a mi jefe que algo anda realmente mal conmigo, pero recordarme a mí mismo que en realidad estoy bien.",
                 "Respiro profundamente unas cuantas veces.",
                 "Empiezo a buscar síntomas de un ataque cardíaco en línea para ver si me estoy muriendo.",
                 "Tomo unos sorbos de mi botella de agua."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

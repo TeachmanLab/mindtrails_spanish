@@ -16,7 +16,7 @@
                 "No",
                 "Sí"
             ],
-            "columnCount": 1,
+            "column_Count": 1,
             "correct_value": "Sí"
         }
     ],
@@ -25,5 +25,15 @@
         "wait_for_click"
     ],
     "type": "negative",
-    "scenario_num": 7
+    "scenario_num": 7,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "En el mundo real, a veces las cosas no van bien. ¡Es importante tener algunas historias que terminen negativamente para enseñarte a manejar tu ansiedad cuando surgen situaciones negativas!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

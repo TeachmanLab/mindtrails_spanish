@@ -16,7 +16,7 @@
                 "Tienes que parar tu exposición y huir de la situación.",
                 "Tienes la capacidad de continuar con tu exposición."
             ],
-            "columnCount": 1,
+            "column_Count": 1,
             "correct_value": "Tienes la capacidad de continuar con tu exposición."
         }
     ],

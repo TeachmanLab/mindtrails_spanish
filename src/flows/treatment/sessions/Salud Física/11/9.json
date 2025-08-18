@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Estoy ansiosa por este sentimiento en mi pecho, pero sé que es solo por reírme mucho.",
                 "Me preocupa la opresión en el pecho, pero creo que desaparecerá pronto.",
                 "¡Estoy tan sorprendido por ese chiste!",
                 "Estoy aterrorizada por la opresión en mi pecho.",
                 "Estoy feliz de que mis amigos sean tan divertidos."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

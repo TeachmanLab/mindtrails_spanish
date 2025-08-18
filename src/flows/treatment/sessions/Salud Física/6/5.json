@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Mi padre se alegra de que esté de visita.",
                 "Pienso si mis padres me están ocultando algo, pero me digo a mí mismo que no puedo controlar la salud de mi padre.",
                 "Me pregunto qué estará pasando con su salud, pero me tranquilizo sabiendo que mi familia lo cuida.",
                 "Se ve muy feliz de estar con la familia.",
                 "Probablemente fallezca pronto."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Mucha gente notó el ruido que hicimos y tal vez se molestó, pero fue sólo por un momento y no fue gran cosa.",
                 "Esta gente me juzgará porque mi amigo es molesto.",
                 "Algunas personas probablemente piensen que mi amigo es grosero, pero no puedo controlar lo que hace ni cómo se siente la gente.",
                 "Fue agradable no tener que tomar el autobús.",
                 "Pienso en lo que quiero hablar en la reunión de hoy."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

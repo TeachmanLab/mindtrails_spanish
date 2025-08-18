@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Creo que volvió a su casa.",
                 "Pienso en cómo podría morderme, pero recuerdo que probablemente esté tratando de evitarme a mí y al agua.",
                 "¡Se me va a arrastrar encima!",
                 "Me alegro que se haya ido.",
                 "Pienso que podría ser venenoso, pero me doy cuenta de que las posibilidades de que ocurra son escasas."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Me llevo al hospital inmediatamente.",
                 "Considero salir de la tienda pero decido que puede calmarme para terminar esta tarea.",
                 "Le pido a un empleado que me ayude a encontrar el pan.",
                 "Sigo caminando por los pasillos.",
                 "No me gusta esta sensación pero empiezo a buscar buenas ventas."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

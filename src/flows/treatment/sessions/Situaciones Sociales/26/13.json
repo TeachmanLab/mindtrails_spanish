@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Empiezo a borrar todas las fotos en las que no me veo bien, pero dejo de hacerlo porque conservar los recuerdos es más importante.",
                 "Llamo a mi amigo y le grito.",
                 "Me gusta la publicación.",
                 "Quiero que eliminen la foto, pero decido dejar que mi amigo siga así.",
                 "Comento en la foto lo bien que nos lo pasamos."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

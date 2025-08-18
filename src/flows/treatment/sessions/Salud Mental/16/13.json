@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Hablo con mi familia sobre lo que vamos a hacer en nuestro viaje.",
                 "Quiero preguntarle a mi pareja si cree que todos los electrodomésticos están apagados, pero decido hablar sobre las partes del viaje que espero con ansias.",
                 "Quiero enojarme por la situación, pero decido charlar con mi familia.",
                 "Recordaré que no tengo que revisar todos los electrodomésticos varias veces antes de irnos.",
                 "Me concentro en todo lo que podría salir mal porque no tuve tiempo de comprobarlo."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

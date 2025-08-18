@@ -16,7 +16,7 @@
                 "Cuántos problemas tuviste para dar la charla.",
                 "Que bien lo hiciste en tu charla."
             ],
-            "columnCount": 1,
+            "column_Count": 1,
             "correct_value": "Cuántos problemas tuviste para dar la charla."
         }
     ],

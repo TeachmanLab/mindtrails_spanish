@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Aunque es difícil, me digo a mí mismo que este sentimiento pasará.",
                 "Tomo un sorbo de agua y continúo la conversación.",
                 "Salgo de la habitación para que la gente no me vea.",
                 "Quiero gritarle a mi amigo que se calle, pero respiro hondo y decido no hacerlo.",
                 "Respiro hondo y le digo a mi amigo que fue una buena broma."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

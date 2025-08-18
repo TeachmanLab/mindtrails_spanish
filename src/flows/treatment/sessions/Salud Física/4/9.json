@@ -16,7 +16,7 @@
                 "Una medicacion nueva.",
                 "Una enfermedad seria."
             ],
-            "columnCount": 1,
+            "column_Count": 1,
             "correct_value": "Una medicacion nueva."
         }
     ],

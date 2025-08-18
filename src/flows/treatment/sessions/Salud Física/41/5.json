@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "¡Debo estar teniendo un ataque de pánico!",
                 "Probablemente siento que mi corazón late porque estoy emocionado de probar esta nueva tienda.",
                 "Me pregunto si estoy realmente enfermo, pero sé que este sentimiento no durará para siempre.",
                 "Los latidos de mi corazón me distraen, pero me concentraré en mi lista de compras para mantenerme firme.",
                 "Me gusta el desafío de encontrar mis comidas favoritas en esta nueva tienda."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

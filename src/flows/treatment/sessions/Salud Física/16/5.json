@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Será agradable caminar por el parque.",
                 "Tengo muchas ganas de hablar con mi amigo.",
                 "Realmente no tengo muchas ganas de ir al parque que podría tener serpientes, pero sé que puedo tolerar mis sentimientos de ansiedad.",
                 "¡Me va a morder una serpiente!",
                 "Aunque he oído que puede haber serpientes en el parque, creo que es poco probable que vea una."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Me aterroriza pensar que nunca nos recuperaremos financieramente de esto.",
                 "Estoy encantada de que mi pareja haya salido del hospital.",
                 "Tengo miedo de lo que esto significa para mis finanzas, pero confío en que lo resolveremos.",
                 "Confío en nuestro plan para manejar esta situación.",
                 "La incertidumbre de esta situación es incómoda, pero puedo tolerarla."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

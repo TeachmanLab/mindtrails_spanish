@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Siento la necesidad de faltar a la reunión porque me da vergüenza, pero me quedo porque ir a esta reunión es importante.",
                 "Camino hacia la sala de reuniones y empiezo a hablar con la gente.",
                 "Voy al baño para evitar hablar con la gente.",
                 "Quiero evitar a todos los que me rodean, pero recordarme a mí mismo que lo pasaré mejor si hablo con la gente.",
                 "Guardo mi teléfono para estar más dispuesto a hablar con la gente."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

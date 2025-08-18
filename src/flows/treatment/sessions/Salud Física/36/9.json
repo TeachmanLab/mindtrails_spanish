@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Me siento feliz de ver a mi padre.",
                 "Me siento emocionado de ponerlo al día con todas las cosas nuevas que están sucediendo en mi vida.",
                 "Me siento ansioso por su salud, pero tolero la ansiedad.",
                 "Me preocupa cómo se ve.",
                 "Tengo miedo de perderlo, pero sé que puedo soportar el dolor."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Me entristeció no poder dar una mejor respuesta, pero siempre hay una próxima vez.",
                 "Me siento inteligente acerca de cómo navegué por la pregunta.",
                 "Me avergüenza que mi respuesta haya sonado mal, pero todo el mundo tiene momentos así.",
                 "Me alegra que mis compañeros de trabajo puedan escuchar mi respuesta.",
                 "Me sentí cohibido al responder."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

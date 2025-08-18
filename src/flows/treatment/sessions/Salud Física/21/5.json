@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Está tan hermoso hoy.",
                 "Puedo mantener un buen ritmo en este trote.",
                 "Siento que voy a morir por quedarme sin aliento, pero sé que no lo haré.",
                 "Mis amigos podrían juzgarme por jadear un poco cuando llego a ellos, pero probablemente no lo harán.",
                 "Mis amigos pensarán que estoy fuera de forma porque necesito recuperar el aliento."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

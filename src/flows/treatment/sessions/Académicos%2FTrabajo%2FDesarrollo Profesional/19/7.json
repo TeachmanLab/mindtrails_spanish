@@ -3,7 +3,7 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
+            "type": "Text",
             "text": "1, 2, 3. Ojos puestos en mí"
         },
         {

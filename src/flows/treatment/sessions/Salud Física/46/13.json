@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Empiezo a irme pero me doy la vuelta y me digo a mí mismo que puedo manejarlo.",
                 "Noto la sensación en mi pecho y sigo buscando el pan.",
                 "Me quedo inmóvil y empiezo a entrar en pánico.",
                 "Le pregunto a un empleado dónde está el pan.",
                 "Me siento incómodo, pero respiro lentamente unas cuantas veces y sigo comprando."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Le sonrío a mi amigo mientras salgo del auto.",
                 "Siento la necesidad de saltarme la reunión, pero me obligo a enfrentar mis miedos y entrar.",
                 "Quiero seguir disculpándome con las personas en la reunión hasta estar seguro de que no están enojados, pero decido que una vez es suficiente.",
                 "Evito hacer contacto visual con la gente.",
                 "Empiezo a sacar mis notas para la reunión."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

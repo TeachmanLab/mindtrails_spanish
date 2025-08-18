@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Mi jefe se sentirá decepcionado por mis esfuerzos, pero aún puedo sentirme orgulloso del trabajo que realicé.",
                 "Esta presentación será una buena oportunidad para practicar mis habilidades para hablar en público.",
                 "Mi jefe estará orgulloso de mí porque me estoy esforzando mucho.",
                 "Mis colegas se aburrirán y hablarán entre ellos durante mi presentación.",
                 "Puede que no haga lo mejor que pueda en esta presentación, pero la superaré."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

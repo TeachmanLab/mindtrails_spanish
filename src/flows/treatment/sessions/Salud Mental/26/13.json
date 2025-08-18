@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Publico una foto de hace unas semanas donde me gusta mucho cómo me veo.",
                 "Quiero fingir que la imagen no existe, pero decido poner un comentario agradable en su lugar.",
                 "Le digo a mi amigo que fue una buena idea publicar una foto de todos.",
                 "Dejo un comentario sobre lo que me da vergüenza.",
                 "Quiero preguntarles a mis amigos si creen que me veo bien, pero decido que me veo bien por mi cuenta."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

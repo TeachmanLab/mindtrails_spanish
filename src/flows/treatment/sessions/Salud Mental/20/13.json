@@ -16,7 +16,7 @@
                 "Incapable de obtener la posición que quieres.",
                 "Capable de hacer el trabajao neccesario para obtener el trabajor que quieres."
             ],
-            "columnCount": 1,
+            "column_Count": 1,
             "correct_value": "Capable de hacer el trabajao neccesario para obtener el trabajor que quieres."
         }
     ],

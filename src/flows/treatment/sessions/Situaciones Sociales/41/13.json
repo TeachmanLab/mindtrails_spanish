@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Hablo con mi amigo sobre lo emocionado que estoy.",
                 "Hago una broma en mi respuesta.",
                 "Quiero preguntarles por qué me enviaron un correo electrónico, pero decido simplemente ver cómo se desarrollan las cosas.",
                 "Ignoro su correo electrónico porque estoy ansioso por responder.",
                 "Me pone nervioso enviar la respuesta perfecta, pero decido ser yo mismo."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

@@ -16,7 +16,7 @@
                 "Iniciará una conversación.",
                 "Evitará hablar contigo."
             ],
-            "columnCount": 1,
+            "column_Count": 1,
             "correct_value": "Iniciará una conversación."
         }
     ],

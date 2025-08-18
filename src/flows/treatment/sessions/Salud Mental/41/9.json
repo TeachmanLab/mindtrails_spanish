@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Estoy tranquila pensando en ir al parque.",
                 "Tengo miedo de que me pase algo malo.",
                 "Estoy feliz de que mi amigo me haya pedido que saliéramos a caminar.",
                 "Me da ansiedad que me muerdan, pero recuerdo que ese es el peor de los casos y que probablemente no sucederá.",
                 "Estoy preocupado por lo que veremos en el parque, pero sé que puedo soportar sentirme un poco preocupado."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "No creo que a nadie le importe cómo luzco.",
                 "No creo que esta sea la mejor publicación, pero es solo una imagen y no es un reflejo de quién soy.",
                 "Es bueno que hayan publicado una foto de todos nosotros.",
                 "Creo que mi amigo podría haber publicado una foto mejor, pero sé que en realidad no fue su intención publicar una mala mía.",
                 "Otras personas juzgarán cómo me veo en la foto."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

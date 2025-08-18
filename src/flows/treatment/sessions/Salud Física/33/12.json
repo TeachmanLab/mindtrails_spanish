@@ -16,7 +16,7 @@
                 "Tu cuerpo necesita descansar después de un largo día de trabajo.",
                 "No estás recibiendo suficiente oxígeno y te desmayarás."
             ],
-            "columnCount": 1,
+            "column_Count": 1,
             "correct_value": "Tu cuerpo necesita descansar después de un largo día de trabajo."
         }
     ],

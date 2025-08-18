@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Me da vergüenza pedirle ayuda a mi jefe, pero admiro mi confianza al exponerme.",
                 "Me siento feliz de que la presentación termine pronto.",
                 "Me siento mejor sabiendo que mis compañeros están pasando por lo mismo que yo.",
                 "Tengo miedo de que mi progreso decepcione a mi jefe.",
                 "Me siento mal porque tal vez no me vaya tan bien en esta presentación, pero es sólo una pequeña parte de toda mi carrera profesional."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

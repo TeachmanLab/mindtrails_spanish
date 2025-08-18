@@ -3,7 +3,7 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
+            "type": "Text",
             "text": "Traer un nuevo amigo a casa"
         },
         {

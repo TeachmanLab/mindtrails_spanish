@@ -3,7 +3,7 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
+            "type": "Text",
             "text": "Una cámara nueva"
         },
         {
@@ -12,15 +12,5 @@
         }
     ],
     "type": "negative",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "En el mundo real, a veces las cosas no van bien. ¡Es importante tener algunas historias que terminen negativamente para enseñarte a manejar tu ansiedad cuando surgen situaciones negativas!"
-            }
-        ],
-        "position": "before",
-        "information_count": 1
-    }
+    "scenario_num": 4
 }

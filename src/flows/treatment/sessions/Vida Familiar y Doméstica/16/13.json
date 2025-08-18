@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Quiero huir, pero decido quedarme y enfrentar mis miedos.",
                 "Pongo mi canción favorita y me meto en la ducha.",
                 "Sigo con mi rutina de baño.",
                 "Quiero gritar, pero en lugar de eso, muevo suavemente a la araña afuera.",
                 "Salgo del baño inmediatamente y no me ducho."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

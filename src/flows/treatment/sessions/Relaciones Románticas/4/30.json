@@ -3,7 +3,7 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
+            "type": "Text",
             "text": "Recientemente tuviste una pelea con tu pareja. Se trataba de un tema grave y te preocupas por qué tu pareja no estuvo de acuerdo con tigo. Crees que ustedes eventualmente se reconciliarán."
         },
         {

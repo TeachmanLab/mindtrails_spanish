@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Entro y abrazo a mi amigo.",
                 "Yo me quedo en la fiesta.",
                 "Decido quedarme una hora y salir.",
                 "Pienso en mentir que olvidé el regalo en casa, pero se lo doy a mi amiga.",
                 "Quiero irme antes de que abran los regalos, pero decido quedarme."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

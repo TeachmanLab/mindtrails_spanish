@@ -16,7 +16,7 @@
                 "Sanará rápidamente.",
                 "Se infectará."
             ],
-            "columnCount": 1,
+            "column_Count": 1,
             "correct_value": "Sanará rápidamente."
         }
     ],

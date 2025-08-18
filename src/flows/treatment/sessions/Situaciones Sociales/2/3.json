@@ -16,7 +16,7 @@
                 "Dirá no si sugieres volver a reunirse.",
                 "Dirá que sí si sugieres volver a reunirse."
             ],
-            "columnCount": 1,
+            "column_Count": 1,
             "correct_value": "Dirá que sí si sugieres volver a reunirse."
         }
     ],

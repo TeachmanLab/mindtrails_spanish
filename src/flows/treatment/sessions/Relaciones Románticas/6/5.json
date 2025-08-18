@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Pienso en cómo podríamos tener una cita.",
                 "Me pregunto si piensan que soy atractiva, pero recuerdo que la apariencia no lo es todo.",
                 "Espero que podamos continuar la gran conversación que iniciamos en la tienda.",
                 "Pienso si pensarán que mis fotos son tontas, pero luego me recuerdo a mí mismo que estoy orgulloso de mi perfil.",
                 "Esta persona pensará que soy raro por darle me gusta a su perfil."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Puede que la gente no esté de acuerdo con mis ideas, pero creo que aun así tendremos una discusión interesante.",
                 "Nadie querrá estar en mi grupo.",
                 "Encontraré el grupo adecuado para mí.",
                 "Todos decidirán que quieren estar con personas que ya conocen, pero lo entiendo.",
                 "Hay mucha gente agradable en mi lugar de trabajo."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

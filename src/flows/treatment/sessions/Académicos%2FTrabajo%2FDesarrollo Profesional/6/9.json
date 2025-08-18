@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Me pone nervioso estar en desacuerdo con mis compañeros de trabajo, pero sé que es lo correcto",
                 "Estoy molesto porque mis compañeros de trabajo quieren que tome el camino más fácil.",
                 "Me sentiré más orgulloso de nuestro trabajo si no cambio nuestros resultados.",
                 "Me da vergüenza decirles a mis compañeros de trabajo que esto está mal, pero incluso si me juzgan, estaré bien.",
                 "Tendré más confianza trabajando en proyectos en el futuro sabiendo que puedo interpretar datos reales de manera efectiva."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

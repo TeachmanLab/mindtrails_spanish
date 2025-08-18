@@ -13,10 +13,10 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "\nEstás seriamente lesionado.",
+                "Estás seriamente lesionado.",
                 "Estás mejorando."
             ],
-            "columnCount": 1,
+            "column_Count": 1,
             "correct_value": "\nEstás seriamente lesionado."
         }
     ],

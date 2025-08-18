@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Siento entusiasmo por compartir mi buena energía.",
                 "Me siento culpable por traer un regalo menos costoso.",
                 "Me siento feliz de estar cerca de todos mis amigos.",
                 "Me siento fatal, pero decido que la fiesta continuará.",
                 "Me revuelve el estómago pensando si a mi amigo le gustará su regalo, pero recuerdo que apreciarán mi consideración."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Me siento completamente bajo el agua.",
                 "Estoy orgulloso de mí mismo por manejar una situación financiera difícil.",
                 "Confío en mi capacidad para encontrar una solución.",
                 "Me preocupa no poder ahorrar dinero este mes, pero tengo la esperanza de poder ahorrar en el futuro.",
                 "Estoy realmente frustrado porque todo esto está sucediendo al mismo tiempo y reconozco que está bien sentirse así."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

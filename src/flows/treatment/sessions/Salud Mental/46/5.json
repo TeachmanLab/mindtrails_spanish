@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "La araña no me va a hacer daño.",
                 "Pienso en todos los lugares donde podría estar la araña, pero no puedo controlar lo que está haciendo.",
                 "Los movimientos de la araña son realmente interesantes.",
                 "¡Me va a saltar encima!",
                 "Pienso en lo aterradora que parecía la araña, pero también en lo pequeña que era en realidad."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Estoy lleno de energía porque esta reunión suele ser interesante.",
                 "Me siento enojado con mi amigo pero me recuerdo a mí mismo que me está haciendo un favor.",
                 "Me avergüenza que mi amigo sea tan ruidoso.",
                 "Estoy feliz de tener amigos que están dispuestos a ayudarme.",
                 "Estoy realmente avergonzado, pero recuerdo que puedo tolerar estos sentimientos y que pasarán rápidamente."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

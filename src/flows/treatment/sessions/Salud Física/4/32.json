@@ -16,7 +16,7 @@
                 "Estás en peligro de caerte.",
                 "Estás seguro parado encima de las vías."
             ],
-            "columnCount": 1,
+            "column_Count": 1,
             "correct_value": "Estás seguro parado encima de las vías."
         }
     ],

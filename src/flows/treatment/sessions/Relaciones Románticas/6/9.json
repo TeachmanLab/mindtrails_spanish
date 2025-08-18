@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Tengo miedo de nunca encontrar a alguien que esté interesado románticamente en mí.",
                 "Me siento avergonzado por algunas fotografías que tengo subidas, pero decido sentirme seguro de ellas.",
                 "Me siento feliz de que me haya gustado su perfil.",
                 "Me siento emocionado porque tengo una perspectiva romántica.",
                 "Me da vergüenza que me guste su perfil, pero decido entusiasmarme con la oportunidad."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

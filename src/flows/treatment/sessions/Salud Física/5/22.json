@@ -16,7 +16,7 @@
                 "Estás especialmente cansado.",
                 "Podrías estar perdiendo tu visión permanentemente."
             ],
-            "columnCount": 1,
+            "column_Count": 1,
             "correct_value": "Estás especialmente cansado."
         }
     ],

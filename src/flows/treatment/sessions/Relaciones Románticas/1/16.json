@@ -16,7 +16,7 @@
                 "Acepte tu oferta, porque ustedes dos lo pasaron bien en el tren.",
                 "Rechace tu oferta, porque no están interesados en volver a verte."
             ],
-            "columnCount": 1,
+            "column_Count": 1,
             "correct_value": "Acepte tu oferta, porque ustedes dos lo pasaron bien en el tren."
         }
     ],

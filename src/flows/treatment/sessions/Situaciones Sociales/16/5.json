@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Parece que se lo pasaron muy bien.",
                 "Me pregunto si realmente no les agrado a mis compañeros de trabajo, pero luego me desafío a pensar en momentos en los que todos hemos pasado un buen rato juntos.",
                 "Me pregunto si no me invitaron porque piensan que soy aburrido.",
                 "Creo que se habrán olvidado de mí, pero la próxima vez lo recordarán.",
                 "Es bueno que mis compañeros de trabajo puedan pasar tiempo juntos fuera del trabajo."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

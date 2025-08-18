@@ -16,7 +16,7 @@
                 "Estaban molestos contigo.",
                 "Estaban molestos con otra persona."
             ],
-            "columnCount": 1,
+            "column_Count": 1,
             "correct_value": "Estaban molestos con otra persona."
         }
     ],

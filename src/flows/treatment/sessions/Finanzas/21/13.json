@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Quiero enterrar mis emociones, pero decido compartir cómo me siento con mi pareja.",
                 "Hablo con mi pareja sobre nuestras finanzas y hago un plan.",
                 "Quiero evitar la situación, pero elijo afrontarla de frente.",
                 "Evito lidiar con las facturas médicas.",
                 "Ajusto mi presupuesto para poder estar preparado para situaciones como esta en el futuro."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

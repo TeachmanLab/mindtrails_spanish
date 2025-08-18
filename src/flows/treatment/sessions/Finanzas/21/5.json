@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Mi pareja es muy fuerte.",
                 "Pienso en lo desafiante que es esta situación, pero recuerdo que no durará para siempre.",
                 "Vamos a salir de esto.",
                 "Nos vamos a quedar sin dinero para pagar estas facturas.",
                 "Intento imaginar cómo se podría haber evitado esto, pero acepto que mi pareja necesitaba estar en el hospital."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

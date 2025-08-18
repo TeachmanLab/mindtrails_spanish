@@ -16,7 +16,7 @@
                 "Te enfermas de todos modos.",
                 "Te mantienes sano."
             ],
-            "columnCount": 1,
+            "column_Count": 1,
             "correct_value": "Te mantienes sano."
         }
     ],

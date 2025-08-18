@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Daré una mala impresión delante de mi supervisor si no cambio los números.",
                 "Nuestros hallazgos son interesantes y valiosos por sí solos.",
                 "Puede que mi supervisor esté decepcionado con nuestros resultados, pero puedo manejarlo.",
                 "Puede que no haga la mejor presentación, pero lo único que puedo hacer es hacer lo mejor que pueda.",
                 "Creo que es importante compartir esta información, incluso si los resultados son inesperados."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

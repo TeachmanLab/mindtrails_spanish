@@ -16,7 +16,7 @@
                 "Sólo tomaste un vaso de agua hoy.",
                 "Te estás enfermando de gripe."
             ],
-            "columnCount": 1,
+            "column_Count": 1,
             "correct_value": "Sólo tomaste un vaso de agua hoy."
         }
     ],

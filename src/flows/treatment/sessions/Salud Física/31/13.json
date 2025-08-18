@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Me encuentro con mi amigo en la entrada del parque.",
                 "Me pongo los zapatos y salgo por la puerta.",
                 "Quiero evitar ir al parque, pero desafiarme a ir.",
                 "Le digo a mi amigo que no me siento bien y que no puedo ir.",
                 "Considero abandonar a mi amigo, pero me obligo a seguir caminando de todos modos."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

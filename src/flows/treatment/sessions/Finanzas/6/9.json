@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Me siento avergonzado, pero decido que los obsequios bien pensados ​​son más significativos que los caros.",
                 "Me siento triste porque no gano tanto dinero como mis amigos.",
                 "Me siento emocionado de que comience la fiesta.",
                 "Me siento culpable por traer un regalo más barato, pero recuerdo que mi amigo probablemente aún lo apreciará.",
                 "Me siento agradecido de haber sido invitado."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

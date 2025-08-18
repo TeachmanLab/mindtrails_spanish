@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Puede que no estén interesados ​​románticamente en mí, pero puedo pasar a otra persona.",
                 "No les debo agradar.",
                 "Simplemente están ocupados.",
                 "Soy una buena persona con quien hablar.",
                 "Quizás piensen que soy aburrido, pero nadie es interesante todo el tiempo."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

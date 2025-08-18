@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Estoy feliz de haber podido hablar en mi reunión.",
                 "Todos piensan que mi respuesta es incorrecta.",
                 "Puede que mi respuesta no haya sido correcta, pero está bien.",
                 "Lo que dije no fue perfecto, pero mis colegas probablemente no lo notaron.",
                 "Mi respuesta fue inteligente."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

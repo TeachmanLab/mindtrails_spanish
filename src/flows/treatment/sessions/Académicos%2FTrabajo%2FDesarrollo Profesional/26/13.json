@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Me siento y no hago nada.",
                 "Solo quiero ser perezoso y tomar una siesta, pero decido comenzar con una tarea.",
                 "Empiezo con el proyecto primero.",
                 "Empiezo con las tareas del hogar.",
                 "Quiero evitar todas las tareas, pero decido hacer un horario para ayudarme a organizar mi tiempo."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Quiero aprovechar al máximo mi tiempo con mi padre.",
                 "Pienso en lo miserable que seré cuando él fallezca, pero luego me recuerdo a mí mismo que hoy debo disfrutar mi tiempo con él.",
                 "Está feliz de verme.",
                 "Mis padres deben estar guardando un secreto sobre su salud, pero luego me dicen que todo el mundo envejece.",
                 "Mi padre debe estar muriendo."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

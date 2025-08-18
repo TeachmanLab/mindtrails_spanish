@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Le pido ayuda a un amigo para idear un plan.",
                 "Me siento y no hago nada.",
                 "Solo quiero ser perezoso y tomar una siesta, pero decido empezar a hacer un plan.",
                 "Quiero evitar lidiar con esta situación, pero decido hacer un presupuesto para ayudarme a organizar mis finanzas.",
                 "Hablo con mi compañía de seguros sobre las opciones de pago."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

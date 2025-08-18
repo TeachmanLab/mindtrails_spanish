@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Es posible que dejen de enviarme correos electrónicos después de que responda, pero probablemente estén muy ocupados.",
                 "Pensaron que era agradable hablar conmigo.",
                 "Quizás quieran ser simplemente mis amigos, y eso me parece bien.",
                 "Probablemente querían enviar un correo electrónico a otra persona.",
                 "Creo que quieren conocerme."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

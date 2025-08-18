@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Le digo bruscamente a mi compañero y le digo que se calle.",
                 "Sonrío mientras mi amigo y mi compañero hablan.",
                 "Empiezo a decirle a mi pareja que no diga nada vergonzoso delante de mi amigo, sino que respire hondo.",
                 "Empiezo a enviar un mensaje de texto para cancelar la cena, pero me recuerdo a mí mismo que realmente quiero que mi amigo y mi pareja se conozcan.",
                 "Practico escuchar atentamente con la mente abierta."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

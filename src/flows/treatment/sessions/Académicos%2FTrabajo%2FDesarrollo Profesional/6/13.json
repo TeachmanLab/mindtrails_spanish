@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Cambio nuestros resultados porque no tengo confianza en nuestro trabajo.",
                 "Estoy tentado a cambiar nuestros resultados, pero decido no hacerlo.",
                 "Quiero cambiar nuestros resultados para terminar la presentación más rápido, pero sigo intentando trabajar con lo que tenemos.",
                 "Sugiero armar la presentación sin cambiar los resultados.",
                 "Me entusiasma encontrar formas de presentar nuestros hallazgos de forma clara y eficaz."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Me siento emocionado ahora que mi sangre está bombeando.",
                 "Me preocupa que algo esté mal conmigo, pero me recuerdo a mí mismo que es normal sentirme sin aliento después de subir un montón de escaleras.",
                 "Estoy feliz de haber llegado a tiempo a la reunión.",
                 "Me da vergüenza quedarme sin aliento, pero puedo concentrarme en lo que mi jefe tiene que decir.",
                 "Me preocupa que haya algo realmente mal en mí."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

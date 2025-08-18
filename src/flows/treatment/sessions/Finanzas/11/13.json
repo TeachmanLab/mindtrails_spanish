@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Quiero saltarme la fiesta para lidiar con mi ansiedad por el regalo, pero decido esforzarme para ir de todos modos.",
                 "Les sonrío a todos mis amigos.",
                 "Estoy tentado de irme antes de que abran los regalos, pero recuerdo que en realidad me estoy divirtiendo.",
                 "Intento escabullirme junto a mi amigo para que no me note cuando entro.",
                 "Me divierto bailando en la fiesta."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

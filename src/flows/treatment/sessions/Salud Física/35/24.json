@@ -14,9 +14,9 @@
             "incorrect_delay": 5000,
             "buttons": [
                 "Dolerá mucho menos.",
-                "\nPermanecerá muy dolorosa."
+                "Permanecerá muy dolorosa."
             ],
-            "columnCount": 1,
+            "column_Count": 1,
             "correct_value": "Dolerá mucho menos."
         }
     ],

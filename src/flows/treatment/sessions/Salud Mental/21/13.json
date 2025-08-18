@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Me concentro en mi conversación con mi familia.",
                 "Regreso a la casa para asegurarme de haber apagado todo.",
                 "Quiero llorar pensando en lo ansiosa que me siento, pero sé que este sentimiento no durará para siempre.",
                 "Quiero volver y comprobarlo, pero sé que eso empeorará mi ansiedad en el futuro.",
                 "Empiezo a planificar algunas actividades que podemos hacer en nuestro viaje."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Practico mi presentación.",
                 "Inventaré una excusa de por qué no me preparé lo suficiente para la presentación.",
                 "Hago un chiste al inicio de mi presentación para romper el hielo.",
                 "Puede que me sienta molesto y quiera abandonar la reunión, pero respiro unas cuantas veces para calmarme.",
                 "Quiero abandonar esta tarea, pero decido seguir intentándolo."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [
