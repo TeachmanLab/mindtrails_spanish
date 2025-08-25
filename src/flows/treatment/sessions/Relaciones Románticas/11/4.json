@@ -1,14 +1,14 @@
 {
-    "header_text": "Ninguna respuesta",
+    "header_text": "Puntos de vista opuestos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado enviando mensajes de texto a alguien que realmente te gusta y, por lo general, responde rápidamente. Notas que vieron tu mensaje hace un par de horas y no respondieron. \n\nHaga clic en Siguiente para ver algunas ideas."
+            "text": "Tanto usted como su pareja tienen opiniones firmes y no siempre están de acuerdo. Una noche, durante la cena, entablas una acalorada discusión sobre un tema que te apasiona.\n\nHaga clic en Siguiente para ver algunas ideas."
         },
         {
             "type": "Media",
-            "url": "./images/330.jpg",
+            "url": "./images/593.jpg",
             "border": true
         }
     ]

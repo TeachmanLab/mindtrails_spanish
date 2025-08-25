@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Están enojados contigo debido a su desacuerdo anterior.",
-                "Recordaron que tenían una reunión importante en el trabajo al mismo tiempo."
+                "Recordaron que tenían una reunión importante en el trabajo al mismo tiempo.",
+                "Están enojados contigo debido a su desacuerdo anterior."
             ],
             "column_Count": 1,
             "correct_value": "Recordaron que tenían una reunión importante en el trabajo al mismo tiempo."

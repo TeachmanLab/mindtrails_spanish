@@ -1,19 +1,19 @@
 {
-    "header_text": "Marcado en una foto:Pensamientos",
+    "header_text": "Araña perdida:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tus amigos tomaron algunas fotografías juntos. Al día siguiente, recibes una notificación de que te etiquetaron en una publicación en las redes sociales. No te gusta cómo te ves en la foto.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Cuando entras a la ducha, ves una enorme arana en la pared. Te das la vuelta por un segundo, miras hacia atrás y te das cuenta de que ya no está. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Mis amigos tienen perfiles hermosos.",
-                "Puede que a la gente no le guste la foto, pero me siento bien cuando mis amigos me aprecian.",
-                "A mis amigos les gusta salir conmigo.",
-                "La gente va a juzgar cómo me veo.",
-                "No creo que luzco bien en la foto, pero probablemente luzco mejor ante otras personas."
+                "Pienso en todos los lugares donde podría estar la araña, pero no puedo controlar lo que está haciendo.",
+                "Los movimientos de la araña son realmente interesantes.",
+                "La araña no me va a hacer daño.",
+                "¡Me va a saltar encima!",
+                "Pienso en lo aterradora que parecía la araña, pero también en lo pequeña que era en realidad."
             ],
             "Duration": 15000
         }

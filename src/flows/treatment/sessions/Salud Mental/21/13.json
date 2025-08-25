@@ -1,19 +1,19 @@
 {
-    "header_text": "Maquinas apagadas: Comportamientos",
+    "header_text": "Serpientes en el parque: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tu familia van a salir de la ciudad por unos días y tu pareja te pide que revises que todos los electrodomésticos de tu casa estén apagados antes de partir. Tenías que apresurarte a hacer las maletas, así que no pudiste comprobarlo todo. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Tu amigo te convence para dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me concentro en mi conversación con mi familia.",
-                "Regreso a la casa para asegurarme de haber apagado todo.",
-                "Quiero llorar pensando en lo ansiosa que me siento, pero sé que este sentimiento no durará para siempre.",
-                "Quiero volver y comprobarlo, pero sé que eso empeorará mi ansiedad en el futuro.",
-                "Empiezo a planificar algunas actividades que podemos hacer en nuestro viaje."
+                "Llamo a mi amigo y le digo que de repente estoy ocupado.",
+                "Pienso en decirle a mi amigo que deberíamos ir a caminar a otro lugar, pero decido que estará bien si caminamos por el parque.",
+                "Quiero decirle a mi amigo que no puedo ir, pero me esfuerzo por ir al parque de todos modos.",
+                "Le digo a mi amigo que estoy listo para partir.",
+                "Me pongo una chaqueta y salgo."
             ],
             "Duration": 15000
         }

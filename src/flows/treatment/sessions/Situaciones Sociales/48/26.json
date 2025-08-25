@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Parecías muy tonto y esperan que no los vuelvan a invitar.",
-                "Hiciste un buen trabajo y esperan que los invites a futuras presentaciones."
+                "Hiciste un buen trabajo y esperan que los invites a futuras presentaciones.",
+                "Parecías muy tonto y esperan que no los vuelvan a invitar."
             ],
             "column_Count": 1,
             "correct_value": "Parecías muy tonto y esperan que no los vuelvan a invitar."

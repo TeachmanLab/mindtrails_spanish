@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Tendrá un papel crucial en el eventual éxito de tu empresa.",
-                "Todavía no será suficiente para que tu empresa sobreviva."
+                "Todavía no será suficiente para que tu empresa sobreviva.",
+                "Tendrá un papel crucial en el eventual éxito de tu empresa."
             ],
             "column_Count": 1,
             "correct_value": "Tendrá un papel crucial en el eventual éxito de tu empresa."

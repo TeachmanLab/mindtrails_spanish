@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Dirá no si sugieres volver a reunirse.",
-                "Dirá que sí si sugieres volver a reunirse."
+                "Dirá que sí si sugieres volver a reunirse.",
+                "Dirá no si sugieres volver a reunirse."
             ],
             "column_Count": 1,
             "correct_value": "Dirá que sí si sugieres volver a reunirse."

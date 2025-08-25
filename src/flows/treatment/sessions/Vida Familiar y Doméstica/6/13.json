@@ -1,19 +1,19 @@
 {
-    "header_text": "Balancear responsibilidades: Comportamientos",
+    "header_text": "Niñera: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes muchas tareas domésticas que hacer esta noche y también tienes un gran proyecto que debes entregar manana. Ambos tienen que hacerse y usted piensa en cómo manejará todo.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Estás cuidando al hijo de una amiga y miras televisión mientras ella duerme. Afuera está oscuro y de repente oyes ruidos contra la ventana.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Describo un cronograma a seguir.",
-                "Me quejo de lo mucho que tengo que hacer.",
-                "Lo pospongo para llamar a un amigo, pero decido comenzar con las tareas del hogar después.",
-                "Como un refrigerio y luego empiezo con las tareas del hogar primero.",
-                "Me siento y empiezo a evitar tanto las tareas del hogar como mi proyecto, pero decido hacer lo correcto y me levanto para comenzar la primera tarea."
+                "Saco un libro nuevo y empiezo a leer.",
+                "Preparo unas palomitas de maíz y enciendo la televisión.",
+                "Quiero despertar al niño y preguntarle si escucha algo, pero en lugar de eso dejo pasar mi ansiedad.",
+                "Quiero salir de casa, pero decido quedarme.",
+                "Llamo al amigo para que vuelva a casa inmediatamente."
             ],
             "Duration": 15000
         }

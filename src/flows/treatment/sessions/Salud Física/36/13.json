@@ -1,19 +1,19 @@
 {
-    "header_text": "Miembro de la familia de edad avanzada: Comportamientos",
+    "header_text": "Subiendo escaleras: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vas a la casa de tus padres por primera vez en mucho tiempo y notas que tu padre parece mucho menos saludable de lo que recuerdas. Ninguno de tus padres menciona nada sobre su salud.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Te estás reuniendo con tu jefe. Para llegar a tiempo, simplemente subió dos tramos de escaleras rápidamente y sintió que su corazón latía muy rápidamente.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Hago una broma divertida para hacer reír a mis padres.",
-                "Decido darle un gran abrazo y sonreír.",
-                "No hablo con mis padres porque no me dijeron que estaba enfermo.",
-                "Noto mi tristeza pero le pregunto amablemente a mi padre cómo está y acepto cualquier respuesta que me dé.",
-                "Quiero irme y llorar, pero decido quedarme con la familia y conversar."
+                "Le sonrío a mi jefe una vez que llego a la reunión.",
+                "Respiro profundamente y me concentro en calmarme.",
+                "Le pregunto a mi jefe si podría estar sufriendo un infarto.",
+                "Me recuerdo a mí mismo que debo respirar lentamente unas cuantas veces para volver a centrar mis pensamientos después de sentir la necesidad de llorar.",
+                "Siento la necesidad de buscar mis síntomas en línea, pero recuerdo que sentirme así es normal después de subir muchas escaleras."
             ],
             "Duration": 15000
         }

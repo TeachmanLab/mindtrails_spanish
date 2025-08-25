@@ -1,19 +1,19 @@
 {
-    "header_text": "Opiniones fuertes: Sentimientos",
+    "header_text": "Familia molesta: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu pareja tiene opiniones firmes y no siempre estás de acuerdo con ellas. Una noche, invitas a un amigo a cenar y sientes una posible tensión. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Estás en casa de vacaciones y notas que tus hermanos están molestos entre ellos. Te dan una respuesta breve cuando intentas hablar con ellos.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me preocupa que mi amigo me juzgue por lo que piensa mi pareja, pero aun así estoy feliz de que podamos reunirnos y hablar de ello.",
-                "Tengo miedo de que mi pareja diga algo ofensivo, pero sé que lo que dice no es un reflejo de mí.",
-                "Estoy tranquilo mientras nos sentamos y cenamos juntos.",
-                "Estoy feliz de invitar a mi amigo a cenar.",
-                "Me preocupa que mi pareja diga algo vergonzoso."
+                "Me siento tranquilo aunque ellos estén un poco molestos.",
+                "Me entristece saber que mis hermanos discutieron, pero sé que el conflicto es parte de las relaciones saludables.",
+                "Estoy ansioso por la tensión entre ellos.",
+                "Me siento culpable, pero me doy cuenta de que no hice nada malo.",
+                "Estoy seguro de que resolverán sus diferencias."
             ],
             "Duration": 15000
         }

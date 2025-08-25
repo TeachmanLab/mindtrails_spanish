@@ -1,19 +1,19 @@
 {
-    "header_text": "Miembro de la familia de edad avanzada:Pensamientos",
+    "header_text": "Subiendo escaleras:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vas a la casa de tus padres por primera vez en mucho tiempo y notas que tu padre parece mucho menos saludable de lo que recuerdas. Ninguno de tus padres menciona nada sobre su salud.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Te estás reuniendo con tu jefe. Para llegar a tiempo, simplemente subió dos tramos de escaleras rápidamente y sintió que su corazón latía muy rápidamente.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Quiero aprovechar al máximo mi tiempo con mi padre.",
-                "Pienso en lo miserable que seré cuando él fallezca, pero luego me recuerdo a mí mismo que hoy debo disfrutar mi tiempo con él.",
-                "Está feliz de verme.",
-                "Mis padres deben estar guardando un secreto sobre su salud, pero luego me dicen que todo el mundo envejece.",
-                "Mi padre debe estar muriendo."
+                "Estoy tan fuera de forma.",
+                "Pienso en los latidos de mi corazón y decido que es normal teniendo en cuenta la velocidad a la que iba.",
+                "¡Ese fue un mini entrenamiento impresionante!",
+                "Quiero pensar en cómo esto podría ser un signo de una condición subyacente, pero probablemente sea solo por las escaleras.",
+                "Estoy feliz de llegar a tiempo."
             ],
             "Duration": 15000
         }

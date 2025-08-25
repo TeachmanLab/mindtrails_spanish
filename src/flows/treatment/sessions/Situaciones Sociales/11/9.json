@@ -4,16 +4,16 @@
     "elements": [
         {
             "type": "Text",
-            "text": "En una reunión con algunos colegas y su jefe, su jefe le pide que responda una pregunta. Dices tu mejor respuesta y tus companeros guardan silencio.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "En una reunión con algunos colegas y su jefe, su jefe le pide que responda una pregunta. Dices tu mejor respuesta y tus companeros de trabajo guardan silencio.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me entristeció no poder dar una mejor respuesta, pero siempre hay una próxima vez.",
-                "Me siento inteligente acerca de cómo navegué por la pregunta.",
-                "Me avergüenza que mi respuesta haya sonado mal, pero todo el mundo tiene momentos así.",
-                "Me alegra que mis compañeros de trabajo puedan escuchar mi respuesta.",
-                "Me sentí cohibido al responder."
+                "Estoy decepcionado conmigo mismo porque no pude decir lo que quería decir, pero creo que mi jefe entendió mi punto.",
+                "me asusté al contestar",
+                "Estaba muy ansiosa mientras respondía, pero pude controlar mis sentimientos.",
+                "Me alegra que mi jefe me haya dado la oportunidad de compartir mi respuesta.",
+                "Estoy satisfecho con la forma en que expresé mi respuesta."
             ],
             "Duration": 15000
         }

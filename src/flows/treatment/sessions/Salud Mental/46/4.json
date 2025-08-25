@@ -1,14 +1,14 @@
 {
-    "header_text": "Araña perdida",
+    "header_text": "Luchando con una presentación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando entras a la ducha, ves una enorme arana en la pared. Te das la vuelta por un segundo, miras hacia atrás y te das cuenta de que ya no está. \n\nHaga clic en Siguiente para ver algunas ideas."
+            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Ha estado luchando por armar esta presentación, pero aún no se ha comunicado con su jefe al respecto. \n\nHaga clic en Siguiente para ver algunas ideas."
         },
         {
             "type": "Media",
-            "url": "./images/582.jpg",
+            "url": "./images/76.jpg",
             "border": true
         }
     ]

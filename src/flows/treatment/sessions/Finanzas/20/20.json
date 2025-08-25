@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Tendrás que preocuparte por el dinero más adelante en la vida.",
-                "Tendras un futuro financiero cómodo."
+                "Tendras un futuro financiero cómodo.",
+                "Tendrás que preocuparte por el dinero más adelante en la vida."
             ],
             "column_Count": 1,
             "correct_value": "Tendrás que preocuparte por el dinero más adelante en la vida."

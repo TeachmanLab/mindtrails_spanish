@@ -1,19 +1,19 @@
 {
-    "header_text": "Rompiendo el código de honor:Pensamientos",
+    "header_text": "Luchando con una presentación:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás trabajando en un informe con algunos colegas y necesitas informar algunas estadísticas. Un colega sugiere que cambie las estadísticas para que su informe se vea mejor, pero eso sería mentir.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Ha estado luchando por armar esta presentación, pero aún no se ha comunicado con su jefe al respecto. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Daré una mala impresión delante de mi supervisor si no cambio los números.",
-                "Nuestros hallazgos son interesantes y valiosos por sí solos.",
-                "Puede que mi supervisor esté decepcionado con nuestros resultados, pero puedo manejarlo.",
-                "Puede que no haga la mejor presentación, pero lo único que puedo hacer es hacer lo mejor que pueda.",
-                "Creo que es importante compartir esta información, incluso si los resultados son inesperados."
+                "Mi trabajo estará en riesgo si estropeo esta presentación.",
+                "No haré mi mejor esfuerzo hoy, pero a veces se me permite tener un día libre.",
+                "Mi jefe pensará que mi presentación necesita mejoras y yo estaré de acuerdo con eso.",
+                "Soy muy trabajadora y mi jefe podrá notarlo.",
+                "Mis colegas pensarán que me preparé bien para la presentación."
             ],
             "Duration": 15000
         }

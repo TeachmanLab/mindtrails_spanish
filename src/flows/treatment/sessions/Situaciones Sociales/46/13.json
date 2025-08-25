@@ -1,19 +1,19 @@
 {
-    "header_text": "Ninguna respuesta: Comportamientos",
+    "header_text": "Vidrio roto: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado enviando mensajes de texto a alguien que realmente te gusta y, por lo general, responde rápidamente. Notas que vieron tu mensaje hace un par de horas y no respondieron. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Estás en un restaurante tranquilo con muchos miembros de tu familia para cenar. Mientras tomas un trago de agua, accidentalmente dejas caer el vaso al suelo y se rompe.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Quiero pasar el día concentrado en mi teléfono, pero en lugar de eso hago pasatiempos que disfruto.",
-                "Quiero preguntarles qué piensan de mí, pero decido darle más tiempo.",
-                "Sigo con mi día.",
-                "Envío un montón de mensajes seguidos para ver si responden.",
-                "Llamo a un amigo y le pregunto sobre su día."
+                "Le pregunto si puedo ayudar a limpiar.",
+                "Pido disculpas a los camareros y les agradezco su ayuda.",
+                "Quiero salir del restaurante, pero quedarme y pasar un buen rato.",
+                "Cuando llega el camarero, culpo del derrame a otro miembro de la familia.",
+                "Quiero llorar, pero respiro hondo y recuerdo que esto sucede."
             ],
             "Duration": 15000
         }

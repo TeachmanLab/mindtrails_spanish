@@ -1,19 +1,19 @@
 {
-    "header_text": "Administrar facturas: Comportamientos",
+    "header_text": "El regalo de cumpleaños: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "El pago de su hipoteca vence pronto y también tendrá que pagar algunas facturas médicas inesperadas. Tu presupuesto es ajustado este mes y piensas en cómo podrás afrontar todo esto.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Tu amigo va a celebrar una gran fiesta de cumpleanos y la mayoría de las personas de tu grupo de amigos estarán allí. Muchos de tus amigos son más ricos que tú y pueden permitirse el lujo de hacer regalos más caros.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Le pido ayuda a un amigo para idear un plan.",
-                "Me siento y no hago nada.",
-                "Solo quiero ser perezoso y tomar una siesta, pero decido empezar a hacer un plan.",
-                "Quiero evitar lidiar con esta situación, pero decido hacer un presupuesto para ayudarme a organizar mis finanzas.",
-                "Hablo con mi compañía de seguros sobre las opciones de pago."
+                "Quiero irme antes de que abran los regalos, pero decido quedarme.",
+                "Yo me quedo en la fiesta.",
+                "Entro y abrazo a mi amigo.",
+                "Decido quedarme una hora y salir.",
+                "Pienso en mentir que olvidé el regalo en casa, pero se lo doy a mi amiga."
             ],
             "Duration": 15000
         }

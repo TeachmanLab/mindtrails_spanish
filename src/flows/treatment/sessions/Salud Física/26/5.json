@@ -1,19 +1,19 @@
 {
-    "header_text": "Subiendo escaleras:Pensamientos",
+    "header_text": "Reírse de un chiste:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te estás reuniendo con tu jefe. Para llegar a tiempo, simplemente subió dos tramos de escaleras rápidamente y sintió que su corazón latía muy rápidamente.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Un amigo cuenta un chiste gracioso y te empiezas a reír mucho. Mientras te ríes, sientes una opresión incómoda en el pecho que nunca antes habías sentido. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Mi jefe podría notar lo sin aliento que estoy y está bien si lo hace.",
-                "Estoy emocionado por la reunión.",
-                "Da miedo sentir mi corazón latiendo rápido, pero sé que todo terminará pronto.",
-                "¿Estoy sufriendo un infarto?",
-                "Subí esas escaleras muy rápido."
+                "Desearía que este sentimiento en mi pecho desapareciera, pero puedo soportarlo hasta que desaparezca.",
+                "Mi amigo es hilarante.",
+                "¡No puedo recuperar el aliento!",
+                "Esta tensión es realmente incómoda, pero sé que es por reírme mucho.",
+                "Ése es el chiste más divertido que he oído jamás."
             ],
             "Duration": 15000
         }

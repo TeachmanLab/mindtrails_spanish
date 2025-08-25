@@ -1,19 +1,19 @@
 {
-    "header_text": "Miembro de la familia de edad avanzada:Pensamientos",
+    "header_text": "Dando una presentación:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vas a la casa de tus padres por primera vez en mucho tiempo y notas que tu padre parece mucho menos saludable de lo que recuerdas. Ninguno de tus padres menciona nada sobre su salud.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Tienes que hacer una presentación en una reunión hoy. Cuando te paras frente al grupo, sientes que tus mejillas se calientan y tus manos empiezan a temblar.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Mi padre se alegra de que esté de visita.",
-                "Pienso si mis padres me están ocultando algo, pero me digo a mí mismo que no puedo controlar la salud de mi padre.",
-                "Me pregunto qué estará pasando con su salud, pero me tranquilizo sabiendo que mi familia lo cuida.",
-                "Se ve muy feliz de estar con la familia.",
-                "Probablemente fallezca pronto."
+                "Todos verán que me tiemblan las manos.",
+                "Quiero volver a sentarme, pero decido seguir adelante con la presentación sabiendo que mi arduo trabajo dará sus frutos.",
+                "Quiero cubrirme la cara, pero sé que puedo hacerlo aunque sea incómodo.",
+                "He hecho todo lo que he podido para prepararme para esta presentación.",
+                "Es normal sentir un poco de calor cuando estás ansioso por hacer una presentación."
             ],
             "Duration": 15000
         }

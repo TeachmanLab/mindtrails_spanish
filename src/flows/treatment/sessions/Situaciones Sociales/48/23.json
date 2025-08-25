@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Aliviados de que nadie fue herido.",
-                "Molestos por el sonido fuerte."
+                "Molestos por el sonido fuerte.",
+                "Aliviados de que nadie fue herido."
             ],
             "column_Count": 1,
             "correct_value": "Aliviados de que nadie fue herido."

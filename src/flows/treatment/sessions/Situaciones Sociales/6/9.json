@@ -1,19 +1,19 @@
 {
-    "header_text": "Fiesta de Halloween: Sentimientos",
+    "header_text": "Bebida derramada: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás invitado a una fiesta de Halloween con tus companeros de trabajo y allí solo estás cerca de un par de personas. Decides usar un disfraz. Cuando llegas, todos te miran. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Tienes una cita en una cafetería con una persona que realmente te gusta. Mientras regresas a la mesa, tropiezas, te caes y derramas café por todos lados.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me da mucha vergüenza destacar tanto, pero honestamente la gente lo olvidará en unos minutos.",
-                "Me preocupa que otros se burlen de mí a mis espaldas.",
-                "Me siento feliz usando lo que amo.",
-                "Me siento tan liberada usando algo tan divertido.",
-                "Me preocupa lo que piensen los demás, pero me doy cuenta de que puedo usar lo que me hace feliz."
+                "Me siento como un tonto.",
+                "Estoy seguro de que tendremos una gran conversación.",
+                "Me molesta que la cita haya comenzado de esta manera, pero podría ayudarnos a sentirnos más cómodos hablando entre nosotros.",
+                "Me da vergüenza haber tropezado frente a mi cita, pero este sentimiento pasará.",
+                "Me siento afortunada de no haberme lastimado."
             ],
             "Duration": 15000
         }

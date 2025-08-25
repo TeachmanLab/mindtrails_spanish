@@ -1,19 +1,19 @@
 {
-    "header_text": "Fiesta de Halloween:Pensamientos",
+    "header_text": "Bebida derramada:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás invitado a una fiesta de Halloween con tus companeros de trabajo y allí solo estás cerca de un par de personas. Decides usar un disfraz. Cuando llegas, todos te miran. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Tienes una cita en una cafetería con una persona que realmente te gusta. Mientras regresas a la mesa, tropiezas, te caes y derramas café por todos lados.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Puede que haya usado algo demasiado loco, pero me gusta.",
-                "A todos les encantará este disfraz.",
-                "Creo que este disfraz es divertido.",
-                "A nadie le gusta mi disfraz.",
-                "Tal vez debería haberlo suavizado, pero sé que esto es cierto para mí."
+                "Ojalá hubiera sido un poco más cuidadoso, pero soy humano y sucede.",
+                "Mi cita podría pensar que soy un poco torpe, pero probablemente no les importe.",
+                "Parezco un total torpe frente a mi cita.",
+                "¡Esto será una gran manera de romper el hielo cuando empiece a hablar con mi cita!",
+                "Probablemente esto le haya pasado a mucha gente."
             ],
             "Duration": 15000
         }

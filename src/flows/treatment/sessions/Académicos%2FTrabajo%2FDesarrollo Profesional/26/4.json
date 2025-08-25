@@ -1,14 +1,14 @@
 {
-    "header_text": "Balancear responsibilidades",
+    "header_text": "Trabajar en grupos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes muchas tareas domésticas que hacer esta noche y también tienes un gran proyecto que debes entregar manana. Ambos tienen que hacerse y usted piensa en cómo manejará todo.\n\nHaga clic en Siguiente para ver algunas ideas."
+            "text": "Tu jefe les dice a todos que manana os dividiréis en pequenos grupos para planificar nuevos proyectos de trabajo. También dice que tendrás que elegir tu grupo, pero te das cuenta de que no tienes amigos cercanos en tu lugar de trabajo.\n\nHaga clic en Siguiente para ver algunas ideas."
         },
         {
             "type": "Media",
-            "url": "./images/591.jpg",
+            "url": "./images/46.jpg",
             "border": true
         }
     ]

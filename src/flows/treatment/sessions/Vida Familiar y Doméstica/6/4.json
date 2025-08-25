@@ -1,14 +1,14 @@
 {
-    "header_text": "Balancear responsibilidades",
+    "header_text": "Niñera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes muchas tareas domésticas que hacer esta noche y también tienes un gran proyecto que debes entregar manana. Ambos tienen que hacerse y usted piensa en cómo manejará todo.\n\nHaga clic en Siguiente para ver algunas ideas."
+            "text": "Estás cuidando al hijo de una amiga y miras televisión mientras ella duerme. Afuera está oscuro y de repente oyes ruidos contra la ventana.\n\nHaga clic en Siguiente para ver algunas ideas."
         },
         {
             "type": "Media",
-            "url": "./images/591.jpg",
+            "url": "./images/145.jpg",
             "border": true
         }
     ]

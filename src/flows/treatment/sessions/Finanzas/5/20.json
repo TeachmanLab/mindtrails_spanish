@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "integrarías efectivamente la tarjeta de crédito en tu plan de presupuesto.",
-                "tendrías que trabajar más duro de lo que esperabas para pagar la nueva deuda de la tarjeta de crédito"
+                "tendrías que trabajar más duro de lo que esperabas para pagar la nueva deuda de la tarjeta de crédito",
+                "integrarías efectivamente la tarjeta de crédito en tu plan de presupuesto."
             ],
             "column_Count": 1,
             "correct_value": "tendrías que trabajar más duro de lo que esperabas para pagar la nueva deuda de la tarjeta de crédito"

@@ -1,19 +1,19 @@
 {
-    "header_text": "Ninguna respuesta: Comportamientos",
+    "header_text": "Puntos de vista opuestos: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado enviando mensajes de texto a alguien que realmente te gusta y, por lo general, responde rápidamente. Notas que vieron tu mensaje hace un par de horas y no respondieron. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Tanto usted como su pareja tienen opiniones firmes y no siempre están de acuerdo. Una noche, durante la cena, entablas una acalorada discusión sobre un tema que te apasiona.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Quiero pasar el día concentrado en mi teléfono, pero en lugar de eso hago pasatiempos que disfruto.",
-                "Quiero preguntarles qué piensan de mí, pero decido darle más tiempo.",
-                "Sigo con mi día.",
-                "Envío un montón de mensajes seguidos para ver si responden.",
-                "Llamo a un amigo y le pregunto sobre su día."
+                "Explico mis puntos de vista con calma y claridad.",
+                "Quiero gritarle a mi pareja, pero me tomo unos minutos para calmarme antes de volver a la conversación.",
+                "Intento ver las cosas desde la perspectiva de mi pareja para entender de dónde vienen.",
+                "Quiero encerrarme en mi habitación, pero decido que evitar a mi pareja no será útil a largo plazo.",
+                "Amenazo con romper con mi pareja si no está de acuerdo conmigo."
             ],
             "Duration": 15000
         }

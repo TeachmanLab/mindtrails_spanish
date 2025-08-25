@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Algo que deberías preocuparte.",
-                ""
+                "",
+                "Algo que deberías preocuparte."
             ],
             "column_Count": 1,
             "correct_value": "Algo que deberías preocuparte."

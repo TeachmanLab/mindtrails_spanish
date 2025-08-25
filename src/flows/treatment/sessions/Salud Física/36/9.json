@@ -1,19 +1,19 @@
 {
-    "header_text": "Miembro de la familia de edad avanzada: Sentimientos",
+    "header_text": "Subiendo escaleras: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vas a la casa de tus padres por primera vez en mucho tiempo y notas que tu padre parece mucho menos saludable de lo que recuerdas. Ninguno de tus padres menciona nada sobre su salud.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Te estás reuniendo con tu jefe. Para llegar a tiempo, simplemente subió dos tramos de escaleras rápidamente y sintió que su corazón latía muy rápidamente.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me siento feliz de ver a mi padre.",
-                "Me siento emocionado de ponerlo al día con todas las cosas nuevas que están sucediendo en mi vida.",
-                "Me siento ansioso por su salud, pero tolero la ansiedad.",
-                "Me preocupa cómo se ve.",
-                "Tengo miedo de perderlo, pero sé que puedo soportar el dolor."
+                "Tengo pánico de que voy a morir.",
+                "Aunque estoy preocupada por mi salud, decido concentrarme en el momento con mi jefe.",
+                "Me alegro de haber podido subir las escaleras tan rápido.",
+                "Estoy orgulloso de mí mismo por hacerme sentir un poco incómodo.",
+                "Quiero sentirme preocupado por esta situación, pero desvío mi atención a la reunión."
             ],
             "Duration": 15000
         }

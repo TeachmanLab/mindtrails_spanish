@@ -1,19 +1,19 @@
 {
-    "header_text": "Trabajar en grupos: Comportamientos",
+    "header_text": "Luchando con una presentación: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu jefe les dice a todos que manana os dividiréis en pequenos grupos para planificar nuevos proyectos de trabajo. También dicen que tendrás que elegir tu grupo, pero te das cuenta de que no tienes amigos cercanos en tu lugar de trabajo.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Ha estado luchando por armar esta presentación, pero aún no se ha comunicado con su jefe al respecto. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Quiero quedarme callado, pero decido contribuir.",
-                "Quiero trabajar solo, pero pruébalo en grupo.",
-                "Hablaré con la gente de mi lugar de trabajo y pediré estar en un grupo.",
-                "Iré al baño para no tener que pedirle a nadie que esté en su grupo.",
-                "Expresaré lo emocionado que estoy de conocer a todos."
+                "Inventaré una excusa de por qué no me preparé lo suficiente para la presentación.",
+                "Puede que me sienta molesto y quiera abandonar la reunión, pero respiro unas cuantas veces para calmarme.",
+                "Practico mi presentación.",
+                "Hago un chiste al inicio de mi presentación para romper el hielo.",
+                "Quiero abandonar esta tarea, pero decido seguir intentándolo."
             ],
             "Duration": 15000
         }

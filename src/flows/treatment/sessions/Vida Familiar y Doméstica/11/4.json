@@ -1,14 +1,14 @@
 {
-    "header_text": "Opiniones fuertes",
+    "header_text": "Familia molesta",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu pareja tiene opiniones firmes y no siempre estás de acuerdo con ellas. Una noche, invitas a un amigo a cenar y sientes una posible tensión. \n\nHaga clic en Siguiente para ver algunas ideas."
+            "text": "Estás en casa de vacaciones y notas que tus hermanos están molestos entre ellos. Te dan una respuesta breve cuando intentas hablar con ellos.\n\nHaga clic en Siguiente para ver algunas ideas."
         },
         {
             "type": "Media",
-            "url": "./images/581.jpg",
+            "url": "./images/578.jpg",
             "border": true
         }
     ]

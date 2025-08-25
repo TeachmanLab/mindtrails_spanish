@@ -1,19 +1,19 @@
 {
-    "header_text": "Conocer a alguien nuevo: Sentimientos",
+    "header_text": "Marcado en una foto: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En una fiesta de trabajo, tu amigo te presenta a un amigo suyo atractivo que no habías conocido antes. A la manana siguiente, notas que te enviaron un correo electrónico.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Tú y tus amigos tomaron algunas fotografías juntos. Al día siguiente, recibes una notificación de que te etiquetaron en una publicación en las redes sociales. No te gusta cómo te ves en la foto.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me siento halagado de que quisieran enviarme un correo electrónico.",
-                "Estoy emocionado de leer su respuesta.",
-                "Me siento inseguro de mantener una conversación con ellos.",
-                "No estoy seguro de la razón por la que me enviaron un correo electrónico, pero me doy cuenta de que es solo porque querían hacerlo.",
-                "Me preocupa lo que piensen de mí, pero sé que puedo lidiar con el no saberlo."
+                "Me molesta que se haya publicado una foto mía tan mala, pero recuerdo que este no es el fin del mundo.",
+                "Me da vergüenza que todos los demás luzcan mejor que yo, pero trato de alegrarme de que todos luzcan felices en la foto.",
+                "Me da vergüenza la cara que estoy poniendo en la foto.",
+                "Estoy orgulloso del atuendo de la foto.",
+                "Me siento feliz porque es una foto grupal."
             ],
             "Duration": 15000
         }

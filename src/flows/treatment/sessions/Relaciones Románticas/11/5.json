@@ -1,19 +1,19 @@
 {
-    "header_text": "Ninguna respuesta:Pensamientos",
+    "header_text": "Puntos de vista opuestos:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado enviando mensajes de texto a alguien que realmente te gusta y, por lo general, responde rápidamente. Notas que vieron tu mensaje hace un par de horas y no respondieron. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Tanto usted como su pareja tienen opiniones firmes y no siempre están de acuerdo. Una noche, durante la cena, entablas una acalorada discusión sobre un tema que te apasiona.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Puede que no estén interesados ​​románticamente en mí, pero puedo pasar a otra persona.",
-                "No les debo agradar.",
-                "Simplemente están ocupados.",
-                "Soy una buena persona con quien hablar.",
-                "Quizás piensen que soy aburrido, pero nadie es interesante todo el tiempo."
+                "Mi pareja es realmente inteligente y reflexiva.",
+                "Creo que tengo razón, pero elijo aceptar que es posible que no estemos de acuerdo en este punto.",
+                "Nuestra relación va a terminar por esta discusión.",
+                "Incluso cuando mi pareja y yo estamos enojados el uno con el otro, sé que todavía nos preocupamos profundamente el uno por el otro.",
+                "Éste es un tema muy importante que debemos debatir."
             ],
             "Duration": 15000
         }

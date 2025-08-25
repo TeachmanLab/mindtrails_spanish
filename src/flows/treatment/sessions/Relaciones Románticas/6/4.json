@@ -1,14 +1,14 @@
 {
-    "header_text": "Persona atractiva en las redes sociales.",
+    "header_text": "Ninguna respuesta",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras navegas por una aplicación de citas, ves a una persona atractiva que conociste en el supermercado la semana pasada. Decides que te guste su perfil. \n\nHaga clic en Siguiente para ver algunas ideas."
+            "text": "Has estado enviando mensajes de texto a alguien que realmente te gusta y, por lo general, responde rápidamente. Notas que vieron tu mensaje hace un par de horas y no respondieron. \n\nHaga clic en Siguiente para ver algunas ideas."
         },
         {
             "type": "Media",
-            "url": "./images/590.jpg",
+            "url": "./images/330.jpg",
             "border": true
         }
     ]

@@ -1,19 +1,19 @@
 {
-    "header_text": "Opiniones fuertes: Comportamientos",
+    "header_text": "Rompiendo el código de honor: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu pareja tiene opiniones firmes y no siempre estás de acuerdo con ellas. Una noche, invitas a un amigo a cenar y sientes una posible tensión. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Estás trabajando en un informe con algunos colegas y necesitas informar algunas estadísticas. Un colega sugiere que cambie las estadísticas para que su informe se vea mejor, pero eso sería mentir.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Le digo bruscamente a mi compañero y le digo que se calle.",
-                "Sonrío mientras mi amigo y mi compañero hablan.",
-                "Empiezo a decirle a mi pareja que no diga nada vergonzoso delante de mi amigo, sino que respire hondo.",
-                "Empiezo a enviar un mensaje de texto para cancelar la cena, pero me recuerdo a mí mismo que realmente quiero que mi amigo y mi pareja se conozcan.",
-                "Practico escuchar atentamente con la mente abierta."
+                "Cambio nuestros resultados porque no tengo confianza en nuestro trabajo.",
+                "Me entusiasma encontrar formas de presentar nuestros hallazgos de forma clara y eficaz.",
+                "Estoy tentado a cambiar nuestros resultados, pero decido no hacerlo.",
+                "Sugiero armar la presentación sin cambiar los resultados.",
+                "Quiero cambiar nuestros resultados para terminar la presentación más rápido, pero sigo intentando trabajar con lo que tenemos."
             ],
             "Duration": 15000
         }

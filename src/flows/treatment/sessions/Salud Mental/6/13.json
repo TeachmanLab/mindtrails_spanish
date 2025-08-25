@@ -1,19 +1,19 @@
 {
-    "header_text": "Luchando con una presentación: Comportamientos",
+    "header_text": "Marcado en una foto: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Ha estado luchando por armar esta presentación, pero aún no se ha comunicado con su jefe al respecto. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Tú y tus amigos tomaron algunas fotografías juntos. Al día siguiente, recibes una notificación de que te etiquetaron en una publicación en las redes sociales. No te gusta cómo te ves en la foto.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me saltaré esta reunión mañana.",
-                "Quiero evitar trabajar en la presentación, pero sé que progresar un poco me ayudará a sentirme realizado.",
-                "Le preguntaré a mi jefe qué más puedo hacer para demostrar mis habilidades.",
-                "Quiero preguntarles a mis colegas cómo piensan que lo hice, pero realmente no importa lo que piensen los demás.",
-                "No me esconderé en mi oficina después de mi presentación."
+                "Llamo a mi amigo y le grito.",
+                "Empiezo a borrar todas las fotos en las que no me veo bien, pero dejo de hacerlo porque conservar los recuerdos es más importante.",
+                "Comento en la foto lo bien que nos lo pasamos.",
+                "Me gusta la publicación.",
+                "Quiero que eliminen la foto, pero decido dejar que mi amigo siga así."
             ],
             "Duration": 15000
         }

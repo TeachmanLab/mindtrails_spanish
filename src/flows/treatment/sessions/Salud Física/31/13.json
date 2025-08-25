@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "Me encuentro con mi amigo en la entrada del parque.",
-                "Me pongo los zapatos y salgo por la puerta.",
-                "Quiero evitar ir al parque, pero desafiarme a ir.",
-                "Le digo a mi amigo que no me siento bien y que no puedo ir.",
-                "Considero abandonar a mi amigo, pero me obligo a seguir caminando de todos modos."
+                "Llamo a mi amigo y le digo que de repente estoy ocupado.",
+                "Pienso en decirle a mi amigo que deberíamos ir a caminar a otro lugar, pero decido que estará bien si caminamos por el parque.",
+                "Quiero decirle a mi amigo que no puedo ir, pero me esfuerzo por ir al parque de todos modos.",
+                "Le digo a mi amigo que estoy listo para partir.",
+                "Me pongo una chaqueta y salgo."
             ],
             "Duration": 15000
         }

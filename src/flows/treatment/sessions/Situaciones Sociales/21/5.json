@@ -1,19 +1,19 @@
 {
-    "header_text": "Opiniones fuertes:Pensamientos",
+    "header_text": "Rompiendo el código de honor:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu pareja tiene opiniones firmes y no siempre estás de acuerdo con ellas. Una noche, invitas a un amigo a cenar y sientes una posible tensión. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Estás trabajando en un informe con algunos colegas y necesitas informar algunas estadísticas. Un colega sugiere que cambie las estadísticas para que su informe se vea mejor, pero eso sería mentir.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Mi amigo será mi amigo sin importar lo que piense mi pareja.",
-                "Podremos discutir cuidadosamente las diferentes opiniones.",
-                "Mi pareja dirá algo que hará que mi amigo me odie.",
-                "Incluso si mi pareja dice algo que le molesta, mi amigo y yo podemos hablar de ello más tarde.",
-                "Si mi pareja dice cosas con las que no estoy de acuerdo, sigue siendo mi pareja y la amo."
+                "Daré una mala impresión delante de mi supervisor si no cambio los números.",
+                "Nuestros hallazgos son interesantes y valiosos por sí solos.",
+                "Puede que no haga la mejor presentación, pero lo único que puedo hacer es hacer lo mejor que pueda.",
+                "Creo que es importante compartir esta información, incluso si los resultados son inesperados.",
+                "Puede que mi supervisor esté decepcionado con nuestros resultados, pero puedo manejarlo."
             ],
             "Duration": 15000
         }

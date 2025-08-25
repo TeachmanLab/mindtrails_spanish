@@ -1,19 +1,19 @@
 {
-    "header_text": "Reírse de un chiste: Sentimientos",
+    "header_text": "Saludando a mis amigos: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Un amigo cuenta un chiste gracioso y te empiezas a reír mucho. Mientras te ríes, sientes una opresión incómoda en el pecho que nunca antes habías sentido. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Estás afuera en un día fresco y ves a tus amigos en la calle. Decides correr para saludar. Cuando llegas con tus amigos, te quedas sin aliento.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Estoy ansiosa por este sentimiento en mi pecho, pero sé que es solo por reírme mucho.",
-                "Me preocupa la opresión en el pecho, pero creo que desaparecerá pronto.",
-                "¡Estoy tan sorprendido por ese chiste!",
-                "Estoy aterrorizada por la opresión en mi pecho.",
-                "Estoy feliz de que mis amigos sean tan divertidos."
+                "Estoy muy emocionado de ver a estos amigos que no he visto en mucho tiempo.",
+                "Me da vergüenza tener que recuperar el aliento cuando veo a mis amigos.",
+                "Estoy feliz de poder estirar las piernas.",
+                "Aunque me siento miserable, sé que este sentimiento pasará.",
+                "Me preocupa estar enfermo debido a esta sensación en mi pecho, pero en realidad sé que estoy bien y fue solo el trote."
             ],
             "Duration": 15000
         }

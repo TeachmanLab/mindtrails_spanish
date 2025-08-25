@@ -1,19 +1,19 @@
 {
-    "header_text": "Marcado en una foto: Comportamientos",
+    "header_text": "Araña perdida: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tus amigos tomaron algunas fotografías juntos. Al día siguiente, recibes una notificación de que te etiquetaron en una publicación en las redes sociales. No te gusta cómo te ves en la foto.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Cuando entras a la ducha, ves una enorme arana en la pared. Te das la vuelta por un segundo, miras hacia atrás y te das cuenta de que ya no está. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Empiezo a borrar todas las fotos en las que no me veo bien, pero dejo de hacerlo porque conservar los recuerdos es más importante.",
-                "Llamo a mi amigo y le grito.",
-                "Me gusta la publicación.",
-                "Quiero que eliminen la foto, pero decido dejar que mi amigo siga así.",
-                "Comento en la foto lo bien que nos lo pasamos."
+                "Quiero huir, pero decido quedarme y enfrentar mis miedos.",
+                "Pongo mi canción favorita y me meto en la ducha.",
+                "Sigo con mi rutina de baño.",
+                "Quiero gritar, pero en lugar de eso, muevo suavemente a la araña afuera.",
+                "Salgo del baño inmediatamente y no me ducho."
             ],
             "Duration": 15000
         }

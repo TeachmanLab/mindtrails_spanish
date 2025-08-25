@@ -1,19 +1,19 @@
 {
-    "header_text": "Miembro de la familia de edad avanzada: Sentimientos",
+    "header_text": "Dando una presentación: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vas a la casa de tus padres por primera vez en mucho tiempo y notas que tu padre parece mucho menos saludable de lo que recuerdas. Ninguno de tus padres menciona nada sobre su salud.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Tienes que hacer una presentación en una reunión hoy. Cuando te paras frente al grupo, sientes que tus mejillas se calientan y tus manos empiezan a temblar.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me siento ansioso y empiezo a pensar demasiado en lo que podría estar mal, pero recuerdo que no puedo controlar su salud.",
-                "Me inquieta la apariencia de mi padre.",
-                "Estoy agradecido de poder pasar tiempo con mi padre.",
-                "Empiezo a sentirme enojado por cómo está envejeciendo, pero sé que esto es parte de la vida y no puedo cambiarlo.",
-                "Me emociona que mi padre esté entablando una conversación."
+                "Tengo miedo de que sentir calor en las mejillas signifique que me voy a desmayar, pero respiraré profundamente unas cuantas veces y esta sensación pasará.",
+                "Me pone nervioso que la gente pueda ver que me tiemblan las manos, pero probablemente no lo noten tanto como a mí.",
+                "Me preocupa que me vaya a desmayar.",
+                "Me alivia conocer bien este tema.",
+                "Estoy contento con lo mucho que me he preparado para esta presentación."
             ],
             "Duration": 15000
         }

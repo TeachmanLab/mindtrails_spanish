@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Tener un nuevo grupo de amigos en el que puedes confiar.",
-                "Necesidad de hacerlo todo usted mismo."
+                "Necesidad de hacerlo todo usted mismo.",
+                "Tener un nuevo grupo de amigos en el que puedes confiar."
             ],
             "column_Count": 1,
             "correct_value": "Tener un nuevo grupo de amigos en el que puedes confiar."

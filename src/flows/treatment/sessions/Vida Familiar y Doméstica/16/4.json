@@ -1,14 +1,14 @@
 {
-    "header_text": "Araña perdida",
+    "header_text": "Balancear responsibilidades",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando entras a la ducha, ves una enorme arana en la pared. Te das la vuelta por un segundo, miras hacia atrás y te das cuenta de que ya no está. \n\nHaga clic en Siguiente para ver algunas ideas."
+            "text": "Tienes muchas tareas domésticas que hacer esta noche y también tienes un gran proyecto que debes entregar manana. Ambos tienen que hacerse y usted piensa en cómo manejará todo.\n\nHaga clic en Siguiente para ver algunas ideas."
         },
         {
             "type": "Media",
-            "url": "./images/582.jpg",
+            "url": "./images/591.jpg",
             "border": true
         }
     ]

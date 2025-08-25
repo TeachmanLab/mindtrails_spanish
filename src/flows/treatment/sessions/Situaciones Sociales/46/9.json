@@ -1,19 +1,19 @@
 {
-    "header_text": "Ninguna respuesta: Sentimientos",
+    "header_text": "Vidrio roto: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado enviando mensajes de texto a alguien que realmente te gusta y, por lo general, responde rápidamente. Notas que vieron tu mensaje hace un par de horas y no respondieron. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Estás en un restaurante tranquilo con muchos miembros de tu familia para cenar. Mientras tomas un trago de agua, accidentalmente dejas caer el vaso al suelo y se rompe.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me siento mal por no recibir una respuesta rápida, pero recuerda que no necesito intentar controlar la situación.",
-                "Estoy feliz con quien soy, respondan o no.",
-                "Me preocupa no haber recibido respuesta, pero me doy cuenta de que no necesito recibir respuesta inmediatamente sobre lo que envié.",
-                "Me da vergüenza haberme expuesto.",
-                "Me parece bien que no hayan respondido."
+                "Siento que arruiné la velada, pero todos se olvidarán de los cristales rotos.",
+                "Me siento culpable por haber roto un vaso, pero sé que no lo hice a propósito.",
+                "Me da vergüenza haber llamado la atención sobre mí.",
+                "Estoy feliz de estar comiendo con mi familia.",
+                "Estoy seguro de que la camarera aceptará mis disculpas."
             ],
             "Duration": 15000
         }

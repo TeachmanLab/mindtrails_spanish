@@ -1,19 +1,19 @@
 {
-    "header_text": "Administrar facturas:Pensamientos",
+    "header_text": "El regalo de cumpleaños:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "El pago de su hipoteca vence pronto y también tendrá que pagar algunas facturas médicas inesperadas. Tu presupuesto es ajustado este mes y piensas en cómo podrás afrontar todo esto.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Tu amigo va a celebrar una gran fiesta de cumpleanos y la mayoría de las personas de tu grupo de amigos estarán allí. Muchos de tus amigos son más ricos que tú y pueden permitirse el lujo de hacer regalos más caros.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Creo que no hay solución para este problema, pero doy un paso atrás y pienso en mis opciones.",
-                "Esta es una situación difícil, pero no tendré todos estos gastos todos los meses.",
-                "Nunca podré permitirme todo esto.",
-                "He enfrentado con éxito desafíos financieros en el pasado y puedo hacerlo de nuevo ahora.",
-                "Puedo encontrar una manera de manejar esto."
+                "Supongo que todos trajeron un regalo caro, pero en realidad no sé si eso es cierto.",
+                "Tengo muchas ganas de celebrarlo con amigos.",
+                "Creo que soy un mal amigo, pero sé que el regalo que traigo es considerado.",
+                "Creo que mi amigo estará feliz de verme.",
+                "Mi amigo se sentirá decepcionado con el regalo que puedo permitirme llevarle."
             ],
             "Duration": 15000
         }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Persona atractiva en las redes sociales.: Comportamientos",
+    "header_text": "Ninguna respuesta: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras navegas por una aplicación de citas, ves a una persona atractiva que conociste en el supermercado la semana pasada. Decides que te guste su perfil. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Has estado enviando mensajes de texto a alguien que realmente te gusta y, por lo general, responde rápidamente. Notas que vieron tu mensaje hace un par de horas y no respondieron. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Le cuento a mi amigo lo que me gustó su perfil.",
-                "Elimino todas las imágenes que puedan resultar embarazosas.",
-                "Quiero cambiar algunas de mis imágenes, pero mantenerlas igual.",
-                "Quiero desactivar mi cuenta, pero decido mantenerla.",
-                "Les envío un mensaje para iniciar la conversación."
+                "Quiero eliminarlos de mi teléfono, pero decido darle algo de tiempo a la situación y calmarme.",
+                "Me acerco a un amigo.",
+                "Cancelo mis planes del día.",
+                "Quiero enviarle varios mensajes a esta persona, pero en lugar de eso llamar a un amigo.",
+                "Empiezo a trabajar en otras cosas importantes que quiero hacer hoy."
             ],
             "Duration": 15000
         }

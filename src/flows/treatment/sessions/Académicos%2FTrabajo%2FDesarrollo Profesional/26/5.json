@@ -1,19 +1,19 @@
 {
-    "header_text": "Balancear responsibilidades:Pensamientos",
+    "header_text": "Trabajar en grupos:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes muchas tareas domésticas que hacer esta noche y también tienes un gran proyecto que debes entregar manana. Ambos tienen que hacerse y usted piensa en cómo manejará todo.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Tu jefe les dice a todos que manana os dividiréis en pequenos grupos para planificar nuevos proyectos de trabajo. También dice que tendrás que elegir tu grupo, pero te das cuenta de que no tienes amigos cercanos en tu lugar de trabajo.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Creo que esto me ayudará a organizarme cuidadosamente en el futuro.",
-                "Creo que esto es demasiado trabajo, pero considere lo bien que se sentirá cuando esté todo terminado.",
-                "No creo que pueda realizar todas estas tareas.",
-                "Puedo gestionar ambas tareas.",
-                "Odio sentir que tengo mucho que hacer, pero haré lo mejor que pueda para hacerlo todo."
+                "Podría hacer un comentario que el grupo considere tonto, pero probablemente olvidarán lo que dije después de la discusión.",
+                "La gente estará feliz de trabajar conmigo.",
+                "Terminaré en un grupo de alguna manera y estará bien, incluso si no es mi primera opción.",
+                "Todos elegirán su grupo antes de que yo llegue y no podré encontrar un grupo.",
+                "Haré buenas contribuciones a la discusión del grupo."
             ],
             "Duration": 15000
         }

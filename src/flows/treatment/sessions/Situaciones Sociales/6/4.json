@@ -1,14 +1,14 @@
 {
-    "header_text": "Fiesta de Halloween",
+    "header_text": "Bebida derramada",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás invitado a una fiesta de Halloween con tus companeros de trabajo y allí solo estás cerca de un par de personas. Decides usar un disfraz. Cuando llegas, todos te miran. \n\nHaga clic en Siguiente para ver algunas ideas."
+            "text": "Tienes una cita en una cafetería con una persona que realmente te gusta. Mientras regresas a la mesa, tropiezas, te caes y derramas café por todos lados.\n\nHaga clic en Siguiente para ver algunas ideas."
         },
         {
             "type": "Media",
-            "url": "./images/571.jpg",
+            "url": "./images/569.jpg",
             "border": true
         }
     ]

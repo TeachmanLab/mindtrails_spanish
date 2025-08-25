@@ -1,19 +1,19 @@
 {
-    "header_text": "Maquinas apagadas: Sentimientos",
+    "header_text": "Serpientes en el parque: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tu familia van a salir de la ciudad por unos días y tu pareja te pide que revises que todos los electrodomésticos de tu casa estén apagados antes de partir. Tenías que apresurarte a hacer las maletas, así que no pudiste comprobarlo todo. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Tu amigo te convence para dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me siento culpable por no volver a comprobarlo todo, pero me recuerdo a mí mismo que comprobarlo una vez fue suficiente.",
-                "Estoy seguro de que todo estaba cerrado.",
-                "Tengo miedo de haberme perdido algo y luego me concentro suavemente en lo que está sucediendo en el auto.",
-                "Me siento emocionado por el viaje.",
-                "Me preocupa que se haya dejado algún electrodoméstico encendido."
+                "Estoy feliz de que mi amigo me haya pedido que saliéramos a caminar.",
+                "Tengo miedo de que me pase algo malo.",
+                "Estoy preocupado por lo que veremos en el parque, pero sé que puedo soportar sentirme un poco preocupado.",
+                "Me da ansiedad que me muerdan, pero recuerdo que ese es el peor de los casos y que probablemente no sucederá.",
+                "Estoy tranquila pensando en ir al parque."
             ],
             "Duration": 15000
         }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Maquinas apagadas",
+    "header_text": "Serpientes en el parque",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tu familia van a salir de la ciudad por unos días y tu pareja te pide que revises que todos los electrodomésticos de tu casa estén apagados antes de partir. Tenías que apresurarte a hacer las maletas, así que no pudiste comprobarlo todo. \n\nHaga clic en Siguiente para ver algunas ideas."
+            "text": "Tu amigo te convence para dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nHaga clic en Siguiente para ver algunas ideas."
         },
         {
             "type": "Media",
-            "url": "./images/583.jpg",
+            "url": "./images/184.jpg",
             "border": true
         }
     ]

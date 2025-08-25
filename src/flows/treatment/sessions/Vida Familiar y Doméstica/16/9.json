@@ -1,19 +1,19 @@
 {
-    "header_text": "Araña perdida: Sentimientos",
+    "header_text": "Balancear responsibilidades: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando entras a la ducha, ves una enorme arana en la pared. Te das la vuelta por un segundo, miras hacia atrás y te das cuenta de que ya no está. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Tienes muchas tareas domésticas que hacer esta noche y también tienes un gran proyecto que debes entregar manana. Ambos tienen que hacerse y usted piensa en cómo manejará todo.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Estoy nervioso por la araña, pero recuerdo que probablemente ella me tenga más miedo.",
-                "Me preocupa saber dónde se arrastrará la araña a continuación.",
-                "Me siento asustado, pero sé que soy lo suficientemente valiente como para ducharme de todos modos.",
-                "Agradezco que la araña esté aquí para comerse otros insectos en mi casa.",
-                "Me sentiré tan renovado después de esta ducha."
+                "Estoy tranquilo mientras descubro cómo hacer todo esta noche.",
+                "Me emociona descubrir nueva música mientras hago las tareas del hogar.",
+                "Me siento frustrado por la falta de tiempo, pero sé que una vez que empiece, todo empezará a fluir.",
+                "Tengo un nudo en el estómago porque no sé si haré mi trabajo.",
+                "Siento que no quiero hacer nada, pero sé que será maravilloso haber realizado estas tareas."
             ],
             "Duration": 15000
         }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Responsibilidad financiera:Pensamientos",
+    "header_text": "El regalo de cumpleaños:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Su pareja estuvo en el hospital recientemente y usted ha estado ayudando a pagar sus facturas médicas. Te preguntas qué significará esto para tus finanzas en el futuro.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Tu amigo va a celebrar una gran fiesta de cumpleanos y la mayoría de las personas de tu grupo de amigos estarán allí. Muchos de tus amigos son más ricos que tú y pueden permitirse el lujo de hacer regalos más caros.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Mi pareja es muy fuerte.",
-                "Pienso en lo desafiante que es esta situación, pero recuerdo que no durará para siempre.",
-                "Vamos a salir de esto.",
-                "Nos vamos a quedar sin dinero para pagar estas facturas.",
-                "Intento imaginar cómo se podría haber evitado esto, pero acepto que mi pareja necesitaba estar en el hospital."
+                "Será bueno ver a muchos de mis amigos.",
+                "Mi amigo estará feliz de que pueda ir.",
+                "A mi amigo le dará vergüenza tenerme como amigo porque mi regalo no es tan bonito como el de los demás.",
+                "La gente puede juzgarme por mi don, pero sé que puse mucha atención y esfuerzo en encontrar algo especial.",
+                "Puede que mi amigo esté decepcionado con mi regalo, pero aun así me alegro de haber venido y haber demostrado que me importaba."
             ],
             "Duration": 15000
         }

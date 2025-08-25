@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Tu matrimonio ha terminado.",
-                "Los dos juntos y felices."
+                "Los dos juntos y felices.",
+                "Tu matrimonio ha terminado."
             ],
             "column_Count": 1,
             "correct_value": "Los dos juntos y felices."

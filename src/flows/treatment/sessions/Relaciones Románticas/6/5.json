@@ -1,19 +1,19 @@
 {
-    "header_text": "Persona atractiva en las redes sociales.:Pensamientos",
+    "header_text": "Ninguna respuesta:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras navegas por una aplicación de citas, ves a una persona atractiva que conociste en el supermercado la semana pasada. Decides que te guste su perfil. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Has estado enviando mensajes de texto a alguien que realmente te gusta y, por lo general, responde rápidamente. Notas que vieron tu mensaje hace un par de horas y no respondieron. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Pienso en cómo podríamos tener una cita.",
-                "Me pregunto si piensan que soy atractiva, pero recuerdo que la apariencia no lo es todo.",
-                "Espero que podamos continuar la gran conversación que iniciamos en la tienda.",
-                "Pienso si pensarán que mis fotos son tontas, pero luego me recuerdo a mí mismo que estoy orgulloso de mi perfil.",
-                "Esta persona pensará que soy raro por darle me gusta a su perfil."
+                "Deben tener mucho que hacer hoy.",
+                "Tal vez los estoy molestando, pero es posible que también estén ocupados.",
+                "Nunca me responderán.",
+                "Si les gusta alguien más y no yo, no me gustará, pero dejaré de hacerlo.",
+                "Me llamarán cuando tengan tiempo."
             ],
             "Duration": 15000
         }

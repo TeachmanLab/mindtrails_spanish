@@ -1,19 +1,19 @@
 {
-    "header_text": "Ninguna respuesta: Sentimientos",
+    "header_text": "Puntos de vista opuestos: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado enviando mensajes de texto a alguien que realmente te gusta y, por lo general, responde rápidamente. Notas que vieron tu mensaje hace un par de horas y no respondieron. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Tanto usted como su pareja tienen opiniones firmes y no siempre están de acuerdo. Una noche, durante la cena, entablas una acalorada discusión sobre un tema que te apasiona.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me siento mal por no recibir una respuesta rápida, pero recuerda que no necesito intentar controlar la situación.",
-                "Estoy feliz con quien soy, respondan o no.",
-                "Me preocupa no haber recibido respuesta, pero me doy cuenta de que no necesito recibir respuesta inmediatamente sobre lo que envié.",
-                "Me da vergüenza haberme expuesto.",
-                "Me parece bien que no hayan respondido."
+                "Estoy molesto porque nos peleamos, pero tengo la esperanza de que podamos salir adelante.",
+                "Me enfurece que no estemos de acuerdo en esto.",
+                "Me decepciona que no estemos de acuerdo en este punto, pero sé que es normal que las parejas tengan desacuerdos.",
+                "Estoy agradecido de tener un socio que se preocupa tanto por temas importantes.",
+                "Me siento respetado cuando discutimos nuestras diferencias de opinión."
             ],
             "Duration": 15000
         }

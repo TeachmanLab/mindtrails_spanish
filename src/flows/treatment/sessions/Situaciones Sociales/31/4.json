@@ -1,14 +1,14 @@
 {
-    "header_text": "Rompiendo el código de honor",
+    "header_text": "Poco interes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás trabajando en un informe con algunos colegas y necesitas informar algunas estadísticas. Un colega sugiere que cambie las estadísticas para que su informe se vea mejor, pero eso sería mentir.\n\nHaga clic en Siguiente para ver algunas ideas."
+            "text": "Decide responder a todos a un correo electrónico de todo el departamento para compartir una idea. Han pasado algunas horas y nadie ha respondido a tu sugerencia todavía.\n\nHaga clic en Siguiente para ver algunas ideas."
         },
         {
             "type": "Media",
-            "url": "./images/568.jpg",
+            "url": "./images/575.jpg",
             "border": true
         }
     ]

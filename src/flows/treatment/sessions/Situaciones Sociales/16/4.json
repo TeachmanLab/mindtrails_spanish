@@ -1,14 +1,14 @@
 {
-    "header_text": "Salir sin ti",
+    "header_text": "Opiniones fuertes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en el trabajo y escuchas a algunos de tus companeros de trabajo conversando detrás de ti. Mientras escuchas, te das cuenta de que no te invitaron a una pequena reunión y que algunos de tus companeros de trabajo y amigos estaban pasando el rato sin ti. \n\nHaga clic en Siguiente para ver algunas ideas."
+            "text": "Los miembros de tu familia tienen opiniones firmes y tú no siempre estás de acuerdo con ellas. Una noche, invitas a un amigo a cenar. \n\nHaga clic en Siguiente para ver algunas ideas."
         },
         {
             "type": "Media",
-            "url": "./images/589.jpg",
+            "url": "./images/581.jpg",
             "border": true
         }
     ]

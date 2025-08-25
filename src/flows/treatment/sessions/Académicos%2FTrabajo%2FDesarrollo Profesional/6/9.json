@@ -1,19 +1,19 @@
 {
-    "header_text": "Rompiendo el código de honor: Sentimientos",
+    "header_text": "Luchando con una presentación: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás trabajando en un informe con algunos colegas y necesitas informar algunas estadísticas. Un colega sugiere que cambie las estadísticas para que su informe se vea mejor, pero eso sería mentir.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Ha estado luchando por armar esta presentación, pero aún no se ha comunicado con su jefe al respecto. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me pone nervioso estar en desacuerdo con mis compañeros de trabajo, pero sé que es lo correcto",
-                "Estoy molesto porque mis compañeros de trabajo quieren que tome el camino más fácil.",
-                "Me sentiré más orgulloso de nuestro trabajo si no cambio nuestros resultados.",
-                "Me da vergüenza decirles a mis compañeros de trabajo que esto está mal, pero incluso si me juzgan, estaré bien.",
-                "Tendré más confianza trabajando en proyectos en el futuro sabiendo que puedo interpretar datos reales de manera efectiva."
+                "Me alegro de tener la conciencia de saber que necesito hablar pronto con mi jefe.",
+                "Me preocupa lo que dirá mi jefe sobre mi presentación.",
+                "Me siento tranquilo sabiendo que hice lo mejor que pude sin importar lo que pase.",
+                "Estoy incómodo en este momento, pero puedo respirar profundamente para sentirme más tranquilo.",
+                "Me siento inseguro acerca de la calidad de mi presentación, pero nada de lo que haga será perfecto."
             ],
             "Duration": 15000
         }

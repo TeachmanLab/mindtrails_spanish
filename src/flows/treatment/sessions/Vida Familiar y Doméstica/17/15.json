@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Trabajarán juntos para establecer mejores relaciones entre ustedes.",
-                "Hablarán cada vez menos entre ustedes a medida que aumenten las tensiones ideológicas."
+                "Hablarán cada vez menos entre ustedes a medida que aumenten las tensiones ideológicas.",
+                "Trabajarán juntos para establecer mejores relaciones entre ustedes."
             ],
             "column_Count": 1,
             "correct_value": "Trabajarán juntos para establecer mejores relaciones entre ustedes."

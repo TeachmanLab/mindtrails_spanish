@@ -4,16 +4,16 @@
     "elements": [
         {
             "type": "Text",
-            "text": "En una reunión con algunos colegas y su jefe, su jefe le pide que responda una pregunta. Dices tu mejor respuesta y tus companeros guardan silencio.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "En una reunión con algunos colegas y su jefe, su jefe le pide que responda una pregunta. Dices tu mejor respuesta y tus companeros de trabajo guardan silencio.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Estoy feliz de haber podido hablar en mi reunión.",
-                "Todos piensan que mi respuesta es incorrecta.",
-                "Puede que mi respuesta no haya sido correcta, pero está bien.",
-                "Lo que dije no fue perfecto, pero mis colegas probablemente no lo notaron.",
-                "Mi respuesta fue inteligente."
+                "Mi respuesta fue reflexiva.",
+                "Mis compañeros de trabajo están juzgando mi respuesta.",
+                "Mi respuesta me pareció tonta porque no entendí la pregunta, pero nadie se acordará mañana.",
+                "No comuniqué mi punto tan bien como me hubiera gustado esta vez, pero sé que tendré más oportunidades de hablar en el futuro.",
+                "Fue agradable poder compartir lo que pienso."
             ],
             "Duration": 15000
         }

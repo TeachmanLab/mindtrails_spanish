@@ -1,19 +1,19 @@
 {
-    "header_text": "Salir sin ti: Comportamientos",
+    "header_text": "Opiniones fuertes: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en el trabajo y escuchas a algunos de tus companeros de trabajo conversando detrás de ti. Mientras escuchas, te das cuenta de que no te invitaron a una pequena reunión y que algunos de tus companeros de trabajo y amigos estaban pasando el rato sin ti. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Los miembros de tu familia tienen opiniones firmes y tú no siempre estás de acuerdo con ellas. Una noche, invitas a un amigo a cenar. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Decido evitar hablar con mis compañeros de trabajo cuando sea posible.",
-                "Quiero llorar, pero recuerdo que he salido con algunos de estos amigos y compañeros de trabajo sin que todos estuvieran presentes.",
-                "Realmente quiero preguntarles a mis compañeros de trabajo por qué no me invitaron, pero decido que no es necesario preguntar.",
-                "Me comunico con uno de mis compañeros de trabajo y le hago saber que me encantaría pasar el rato con él la próxima vez.",
-                "Les digo algo lindo."
+                "Quiero pensar en otra cosa mientras todos hablan, pero recordarme a mí mismo que puedo manejar mis sentimientos y volver a sintonizarme con la conversación.",
+                "Me distraigo y dejo de prestar atención a lo que dice la gente.",
+                "Escucho a mi amigo mientras habla con los miembros de mi familia.",
+                "Quiero cambiar de tema para que podamos hablar de algo menos serio, pero dejo de intentar controlar la conversación.",
+                "Me recuerdo a mí mismo que todos tienen opiniones diferentes."
             ],
             "Duration": 15000
         }

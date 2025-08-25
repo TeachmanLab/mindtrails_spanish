@@ -9,10 +9,10 @@
         {
             "type": "TimedText",
             "texts": [
-                "Estoy tan avergonzado por mi amigo.",
-                "Estoy nervioso por lo que puedan decir las personas en la reunión, pero parecen muy amables y comprensivos.",
                 "Instantáneamente me siento avergonzado de mi ruidoso amigo, pero recuerdo que no puedo controlar lo que hace.",
                 "Estoy ansioso por llegar a la reunión y ver gente.",
+                "Estoy nervioso por lo que puedan decir las personas en la reunión, pero parecen muy amables y comprensivos.",
+                "Estoy tan avergonzado por mi amigo.",
                 "Estoy entusiasmado con esta reunión."
             ],
             "Duration": 15000

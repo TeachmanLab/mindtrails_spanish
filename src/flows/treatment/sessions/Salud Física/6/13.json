@@ -1,19 +1,19 @@
 {
-    "header_text": "Miembro de la familia de edad avanzada: Comportamientos",
+    "header_text": "Dando una presentación: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vas a la casa de tus padres por primera vez en mucho tiempo y notas que tu padre parece mucho menos saludable de lo que recuerdas. Ninguno de tus padres menciona nada sobre su salud.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Tienes que hacer una presentación en una reunión hoy. Cuando te paras frente al grupo, sientes que tus mejillas se calientan y tus manos empiezan a temblar.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Evito pensar en su salud.",
-                "Quiero interrogar a la familia sobre su salud, pero decido disfrutar de la reunión.",
-                "Me río de una tontería que dijo mi padre.",
-                "Siento la necesidad de preguntarle sobre su salud, pero respiro hondo y escucho lo que habla mi familia ahora sabiendo que hay una razón por la que no me han dicho nada.",
-                "Empiezo a conversar con mi familia."
+                "Hablo con voz fuerte.",
+                "Sonrío y comienzo mi presentación.",
+                "Le pregunto a mi jefe si puedo presentarme otro día.",
+                "Considero fingir que estoy enfermo para no tener que presentar, pero me reto a mí mismo a hacer la presentación de todos modos.",
+                "Quiero ir al baño y mojarme la cara con agua, pero decido volver a concentrarme en mi entorno para relajarme y poder."
             ],
             "Duration": 15000
         }

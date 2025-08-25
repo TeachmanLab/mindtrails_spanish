@@ -1,19 +1,19 @@
 {
-    "header_text": "Araña perdida:Pensamientos",
+    "header_text": "Luchando con una presentación:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando entras a la ducha, ves una enorme arana en la pared. Te das la vuelta por un segundo, miras hacia atrás y te das cuenta de que ya no está. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Ha estado luchando por armar esta presentación, pero aún no se ha comunicado con su jefe al respecto. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "La araña no me va a hacer daño.",
-                "Pienso en todos los lugares donde podría estar la araña, pero no puedo controlar lo que está haciendo.",
-                "Los movimientos de la araña son realmente interesantes.",
-                "¡Me va a saltar encima!",
-                "Pienso en lo aterradora que parecía la araña, pero también en lo pequeña que era en realidad."
+                "Mi trabajo estará en riesgo si estropeo esta presentación.",
+                "No haré mi mejor esfuerzo hoy, pero a veces se me permite tener un día libre.",
+                "Mi jefe pensará que mi presentación necesita mejoras y yo estaré de acuerdo con eso.",
+                "Soy muy trabajadora y mi jefe podrá notarlo.",
+                "Mis colegas pensarán que me preparé bien para la presentación."
             ],
             "Duration": 15000
         }

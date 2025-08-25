@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "Aunque me incomoda pensar en las serpientes en el parque, sé que puedo ir al parque de todos modos.",
-                "Pienso en decirle a mi amigo que he cambiado de opinión, pero voy con él de todos modos.",
-                "Me gusta hablar con este amigo.",
-                "Voy a morir si me muerde una serpiente.",
-                "El clima es realmente agradable."
+                "Tengo muchas ganas de hablar con mi amigo.",
+                "Aunque he oído que puede haber serpientes en el parque, creo que es poco probable que vea una.",
+                "Realmente no tengo muchas ganas de ir al parque que podría tener serpientes, pero sé que puedo tolerar mis sentimientos de ansiedad.",
+                "¡Me va a morder una serpiente!",
+                "Será agradable caminar por el parque."
             ],
             "Duration": 15000
         }

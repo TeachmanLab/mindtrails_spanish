@@ -1,19 +1,19 @@
 {
-    "header_text": "Marcado en una foto:Pensamientos",
+    "header_text": "Conocer a alguien nuevo:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tus amigos tomaron algunas fotografías juntos. Al día siguiente, recibes una notificación de que te etiquetaron en una publicación en las redes sociales. No te gusta cómo te ves en la foto.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "En una fiesta de trabajo, tu amigo te presenta a un amigo suyo atractivo que no habías conocido antes. A la manana siguiente, notas que te enviaron un correo electrónico.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Mis amigos tienen perfiles hermosos.",
-                "Puede que a la gente no le guste la foto, pero me siento bien cuando mis amigos me aprecian.",
-                "A mis amigos les gusta salir conmigo.",
-                "La gente va a juzgar cómo me veo.",
-                "No creo que luzco bien en la foto, pero probablemente luzco mejor ante otras personas."
+                "Probablemente querían enviar un correo electrónico a otra persona.",
+                "Creo que quieren conocerme.",
+                "Pensaron que era agradable hablar conmigo.",
+                "Es posible que dejen de enviarme correos electrónicos después de que responda, pero probablemente estén muy ocupados.",
+                "Quizás quieran ser simplemente mis amigos, y eso me parece bien."
             ],
             "Duration": 15000
         }

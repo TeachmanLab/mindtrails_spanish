@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "\"¡Estos errores son simplemente inaceptables en este momento!\"",
-                "\"Todavía estoy muy contento con el trabajo que has estado haciendo\"."
+                "\"Todavía estoy muy contento con el trabajo que has estado haciendo\".",
+                "\"¡Estos errores son simplemente inaceptables en este momento!\""
             ],
             "column_Count": 1,
             "correct_value": "\"¡Estos errores son simplemente inaceptables en este momento!\""

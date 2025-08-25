@@ -1,19 +1,19 @@
 {
-    "header_text": "Salir sin ti: Sentimientos",
+    "header_text": "Opiniones fuertes: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en el trabajo y escuchas a algunos de tus companeros de trabajo conversando detrás de ti. Mientras escuchas, te das cuenta de que no te invitaron a una pequena reunión y que algunos de tus companeros de trabajo y amigos estaban pasando el rato sin ti. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Los miembros de tu familia tienen opiniones firmes y tú no siempre estás de acuerdo con ellas. Una noche, invitas a un amigo a cenar. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me da vergüenza no haber sido invitado.",
-                "Me emociona saber lo bien que se lo pasaron.",
-                "Me preocupa haber perdido todas mis amistades en el lugar de trabajo, pero luego recuerdo que eso no es realista.",
-                "Me siento feliz de que mis compañeros de trabajo se lleven tan bien.",
-                "Me entristece que se hayan olvidado de mí, pero luego me digo a mí mismo que probablemente no pretendían ser malos."
+                "Estoy emocionado de ver una película con mi amigo después de comer.",
+                "Me preocupa que mi familia diga algo que haga que no le agrade a mi amigo, pero tengo más confianza en la fuerza de nuestra amistad.",
+                "Me avergüenza que mi familia tenga un punto de vista tan diferente al mío, pero recuerdo que todos tenemos creencias diferentes.",
+                "Estoy tranquilo sentado a cenar con mi familia y mi amigo.",
+                "Estoy ansioso por lo que puedan decir los miembros de mi familia."
             ],
             "Duration": 15000
         }

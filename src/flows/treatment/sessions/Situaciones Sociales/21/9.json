@@ -1,19 +1,19 @@
 {
-    "header_text": "Opiniones fuertes: Sentimientos",
+    "header_text": "Rompiendo el código de honor: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu pareja tiene opiniones firmes y no siempre estás de acuerdo con ellas. Una noche, invitas a un amigo a cenar y sientes una posible tensión. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Estás trabajando en un informe con algunos colegas y necesitas informar algunas estadísticas. Un colega sugiere que cambie las estadísticas para que su informe se vea mejor, pero eso sería mentir.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me preocupa que mi amigo me juzgue por lo que piensa mi pareja, pero aun así estoy feliz de que podamos reunirnos y hablar de ello.",
-                "Tengo miedo de que mi pareja diga algo ofensivo, pero sé que lo que dice no es un reflejo de mí.",
-                "Estoy tranquilo mientras nos sentamos y cenamos juntos.",
-                "Estoy feliz de invitar a mi amigo a cenar.",
-                "Me preocupa que mi pareja diga algo vergonzoso."
+                "Estoy molesto porque mis compañeros de trabajo quieren que tome el camino más fácil.",
+                "Me sentiré más orgulloso de nuestro trabajo si no cambio nuestros resultados.",
+                "Me da vergüenza decirles a mis compañeros de trabajo que esto está mal, pero incluso si me juzgan, estaré bien.",
+                "Me pone nervioso estar en desacuerdo con mis compañeros de trabajo, pero sé que es lo correcto",
+                "Tendré más confianza trabajando en proyectos en el futuro sabiendo que puedo interpretar datos reales de manera efectiva."
             ],
             "Duration": 15000
         }

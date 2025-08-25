@@ -1,19 +1,19 @@
 {
-    "header_text": "Balancear responsibilidades: Comportamientos",
+    "header_text": "Trabajar en grupos: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes muchas tareas domésticas que hacer esta noche y también tienes un gran proyecto que debes entregar manana. Ambos tienen que hacerse y usted piensa en cómo manejará todo.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Tu jefe les dice a todos que manana os dividiréis en pequenos grupos para planificar nuevos proyectos de trabajo. También dice que tendrás que elegir tu grupo, pero te das cuenta de que no tienes amigos cercanos en tu lugar de trabajo.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me siento y no hago nada.",
-                "Solo quiero ser perezoso y tomar una siesta, pero decido comenzar con una tarea.",
-                "Empiezo con el proyecto primero.",
-                "Empiezo con las tareas del hogar.",
-                "Quiero evitar todas las tareas, pero decido hacer un horario para ayudarme a organizar mi tiempo."
+                "Me aseguraré de saber qué proyectos me interesa planificar antes de la reunión de mañana.",
+                "Durante la discusión, haré todo lo posible para incluir a todos en nuestra conversación grupal.",
+                "Fingiré estar enfermo y simplemente no iré a la discusión.",
+                "Querré saltearlo, pero iré de todos modos y afrontaré la sensación de ansiedad.",
+                "Les pediré a otros que estén en su grupo, incluso si realmente no quiero."
             ],
             "Duration": 15000
         }

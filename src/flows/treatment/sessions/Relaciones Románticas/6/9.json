@@ -1,19 +1,19 @@
 {
-    "header_text": "Persona atractiva en las redes sociales.: Sentimientos",
+    "header_text": "Ninguna respuesta: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras navegas por una aplicación de citas, ves a una persona atractiva que conociste en el supermercado la semana pasada. Decides que te guste su perfil. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Has estado enviando mensajes de texto a alguien que realmente te gusta y, por lo general, responde rápidamente. Notas que vieron tu mensaje hace un par de horas y no respondieron. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Tengo miedo de nunca encontrar a alguien que esté interesado románticamente en mí.",
-                "Me siento avergonzado por algunas fotografías que tengo subidas, pero decido sentirme seguro de ellas.",
-                "Me siento feliz de que me haya gustado su perfil.",
-                "Me siento emocionado porque tengo una perspectiva romántica.",
-                "Me da vergüenza que me guste su perfil, pero decido entusiasmarme con la oportunidad."
+                "Estoy molesto porque no respondieron de inmediato.",
+                "Me preocupa que esto tenga algo que ver conmigo, pero me doy cuenta de que a esta persona le suceden muchas otras cosas en su vida.",
+                "Me entristece que no hayan respondido rápidamente, pero sepan que no me sentiré triste para siempre.",
+                "La anticipación de esperar una respuesta es emocionante.",
+                "Me siento feliz con mi capacidad para enviar mensajes divertidos."
             ],
             "Duration": 15000
         }

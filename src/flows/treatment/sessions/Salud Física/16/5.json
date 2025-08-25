@@ -1,19 +1,19 @@
 {
-    "header_text": "Serpientes en el parque:Pensamientos",
+    "header_text": "Subiendo escaleras:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo te convence para dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Te estás reuniendo con tu jefe. Para llegar a tiempo, simplemente subió dos tramos de escaleras rápidamente y sintió que su corazón latía muy rápidamente.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Será agradable caminar por el parque.",
-                "Tengo muchas ganas de hablar con mi amigo.",
-                "Realmente no tengo muchas ganas de ir al parque que podría tener serpientes, pero sé que puedo tolerar mis sentimientos de ansiedad.",
-                "¡Me va a morder una serpiente!",
-                "Aunque he oído que puede haber serpientes en el parque, creo que es poco probable que vea una."
+                "Estoy emocionado por la reunión.",
+                "Mi jefe podría notar lo sin aliento que estoy y está bien si lo hace.",
+                "Subí esas escaleras muy rápido.",
+                "Da miedo sentir mi corazón latiendo rápido, pero sé que todo terminará pronto.",
+                "¿Estoy sufriendo un infarto?"
             ],
             "Duration": 15000
         }

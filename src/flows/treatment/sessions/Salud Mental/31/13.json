@@ -1,19 +1,19 @@
 {
-    "header_text": "Araña perdida: Comportamientos",
+    "header_text": "Maquinas apagadas: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando entras a la ducha, ves una enorme arana en la pared. Te das la vuelta por un segundo, miras hacia atrás y te das cuenta de que ya no está. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Tú y tu familia van a salir de la ciudad por unos días y tu pareja te pide que revises que todos los electrodomésticos de tu casa estén apagados antes de partir. Tenías que apresurarte a hacer las maletas, así que no pudiste comprobarlo todo. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Empiezo a tocar algo de música.",
-                "Quiero rociar repelente de insectos en todas partes, pero decido continuar con mi rutina de ducha ya que el rociador podría hacer más daño que la araña.",
-                "Quiero llamar a alguien para que me ayude a encontrar la araña, pero decido simplemente ducharme.",
-                "Grito y salgo corriendo.",
-                "Decido abrir el agua."
+                "Recordaré que no tengo que revisar todos los electrodomésticos varias veces antes de irnos.",
+                "Quiero enojarme por la situación, pero decido charlar con mi familia.",
+                "Me concentro en todo lo que podría salir mal porque no tuve tiempo de comprobarlo.",
+                "Quiero preguntarle a mi pareja si cree que todos los electrodomésticos están apagados, pero decido hablar sobre las partes del viaje que espero con ansias.",
+                "Hablo con mi familia sobre lo que vamos a hacer en nuestro viaje."
             ],
             "Duration": 15000
         }
