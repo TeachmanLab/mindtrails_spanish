@@ -13,11 +13,6 @@ from helpers_utilities import get_resources, get_ER, get_tips, clean_up_unicode,
 dir_root = "./make"
 dir_csv    = f"{dir_root}/CSV"
 dir_out    = f"{dir_root}/~out"
-dir_flows  = f"{dir_out}/treatment"
-dir_doses  = f"{dir_flows}/doses"
-dir_before = f"{dir_doses}/__before__"
-dir_after  = f"{dir_doses}/__after__"
-dir_after  = f"{dir_doses}/__first__"
 
 Path(dir_out).mkdir(parents=True,exist_ok=True)
 
@@ -295,9 +290,9 @@ for pop,s,l in populations:
 
     # Define folders
     folders = {}
-    folders['control/sessions/__first__'] = flat(surveys["Control_Dose_1"])
+    folders['control/intro'] = flat(surveys["Control_Dose_1"])
+    folders['treatment/intro'] = flat(surveys["Dose_1"])
     folders['treatment/sessions/__flow__.json'] = {"mode":"select", "title_case": True, "column_count":2, "text": domain_selection_text(), "title":"MindTrails Español"}
-    folders['treatment/sessions/__first__'] = flat(surveys["Dose_1"])
     folders['treatment/sessions/__before__'] = flat(surveys["BeforeDomain_All"])
     folders['treatment/sessions/__after__'] = flat(surveys["AfterDomain_All"])
     folders['treatment/sessions/Discriminación'] = discrim_session

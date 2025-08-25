@@ -4,9 +4,7 @@ import random
 from typing import Literal
 from itertools import islice
 
-from helpers_utilities import clean_up_unicode, has_value, is_yesno, is_int, shuffle, lower
-
-random.seed(1) #give a fixed seed so that diffs don't make it look like we changed things every time we generate
+from helpers_utilities import clean_up_unicode, has_value, is_yesno, is_int, shuffle, choice, lower
 
 dir_root = "./make"
 dir_csv  = f"{dir_root}/CSV"
@@ -14,9 +12,9 @@ dir_csv  = f"{dir_root}/CSV"
 def create_conditions(args):
     if args: args = args.split(';')
     if args == [''] or not args: return {}
-    
+
     args = [a.strip() for a in args]
-    
+
     if len(args) == 3:
         left,comparison,right = args
 
@@ -257,7 +255,7 @@ def create_resource_page(resources_lookup, tips, ER_lookup, domain):
     :return: a page group for a resource, ER strategy, or tip
     """
 
-    resource_type = random.choice(["Resource", "Tip", "ER Strategy"])
+    resource_type = choice(["Resource", "Tip", "ER Strategy"], "resources")
 
     if resource_type == "Resource":
         label,text = resources_lookup[domain].pop(0)  # resource name and text

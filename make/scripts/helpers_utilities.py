@@ -1,11 +1,26 @@
 import csv
 import json
+import random
 
 from pathlib import Path
 from itertools import islice
 from collections import defaultdict
 
-import numpy as np
+class StatefulRandom:
+    def __init__(self,seed):
+        random.seed(seed)
+        self._state = random.getstate()
+
+    def shuffle(self,items):
+        random.setstate(self._state)
+        random.shuffle(items)
+        self._state = random.getstate()
+
+    def choice(self,items):
+        random.setstate(self._state)
+        item = random.choice(items)
+        self._state = random.getstate()
+        return item
 
 # leaving this seed unchanged means
 # that huge diff won't be generated
@@ -14,7 +29,7 @@ import numpy as np
 # needs to be global in order for 
 # participants to experience the
 # order of answers as random.
-rng = defaultdict(lambda: np.random.RandomState(1))
+rng = defaultdict(lambda: StatefulRandom(1))
 
 def write_output(dir_out, structure):
     for path, content in structure.items():
@@ -156,6 +171,9 @@ def create_puzzle(scenario):
 
 def shuffle(items,key=None):
     rng[key].shuffle(items)
+
+def choice(items,key=None):
+    return rng[key].choice(items)
 
 def lower(str):
     return str.lower() if str else ""
