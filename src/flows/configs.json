@@ -1,0 +1,14 @@
+{
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Please choose the protocol group"
+        },
+        {
+            "type": "Buttons",
+            "buttons": ["Treatment","Control"],
+            "variable_name": "global:group"
+        }
+    ],
+    "navigation_conditions": ["wait_for_complete", "wait_for_click"]
+}

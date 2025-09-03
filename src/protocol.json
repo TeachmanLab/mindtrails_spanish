@@ -18,7 +18,7 @@
         "right": {
           "text": "Iniciar sesión",
           "icon": "/assets/unlocked.png",
-          "action": "flow://flows/treatment/sessions"
+          "action": "flow://flows/${global:group}/sessions"
         }
       },
       {
@@ -46,7 +46,7 @@
           {
             "text": "Recursos",
             "icon": "/assets/home_resources.png",
-            "action": "flow://flows/treatment/resources",
+            "action": "flow://flows/${global:group}/resources",
             "backgroundcolor": "#1A00C2FF"
           },
           {
@@ -60,7 +60,8 @@
     ] }
   },
   "settings": {
-    "unenroll": "flow://flows/treatment/reasons for ending"
+    "unenroll": "flow://flows/${global:group}/reasons for ending",
+    "configs": "flow://flows/configs.json"
   },
   "menu": [
     {
@@ -71,7 +72,7 @@
     {
       "text": "Introducción",
       "icon": "/assets/menu_mindtrails.png",
-      "action": "flow://flows/treatment/intro"
+      "action": "flow://flows/${global:group}/intro"
     },
     {
       "text": "Instrucciones",
@@ -86,7 +87,7 @@
     {
       "text": "Recursos",
       "icon": "/assets/menu_resources.png",
-      "action": "flow://flows/treatment/resources"
+      "action": "flow://flows/${global:group}/resources"
     },
     {
       "text": "Preguntas frecuentes",
@@ -113,16 +114,20 @@
     {
       "type": "timing",
       "frequency": "1",
-      "time": "20:00",
       "action": "notification",
-      "content": {"path":"flow://flows/treatment/final del dia"}
+      "content": {
+        "time": "20:00",
+        "path": "flow://flows/${global:group}/final del dia"
+      }
     },
     {
       "type": "timing",
       "frequency": "14",
-      "time": "20:00",
       "action": "notification",
-      "content": {"path":"flow://flows/treatment/sigue tu progreso"}
+      "content": {
+        "time": "20:00",
+        "path": "flow://flows/${global:group}/sigue tu progreso"
+      }
     }
   ]
 }
