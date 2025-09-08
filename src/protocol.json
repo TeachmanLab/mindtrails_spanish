@@ -2,62 +2,65 @@
   "icon": "/assets/home_mindtrails.png",
   "home": {
     "title": "MindTrails",
-    "element": { "type": "list", "elements": [
-      {
-        "type": "alert",
-        "title": "MindTrails",
-        "message": "Comprenede tu manera de pensar. Siéntete menos ansioso.",
-        "icon": "/assets/home_banner.png"
-      },
-      {
-        "type": "sessions",
-        "left": {
-          "text": "{0} Sesiones completadas",
-          "icon": "/assets/completed.png"
+    "element": {
+      "type": "list",
+      "elements": [
+        {
+          "type": "alert",
+          "title": "MindTrails",
+          "message": "Comprenede tu manera de pensar. Siéntete menos ansioso.",
+          "icon": "/assets/home_banner.png"
         },
-        "right": {
-          "text": "Iniciar sesión",
-          "icon": "/assets/unlocked.png",
-          "action": "flow://flows/${global:group}/sessions"
-        }
-      },
-      {
-        "type": "button",
-        "action": {
-          "text": "Mostrar encuestas",
-          "action": "navmodal://Survey"
-        }
-      },
-      {
-        "type": "tiles",
-        "actions": [
-          {
-            "text": "¿Qué es MindTrails Español?",
-            "icon": "/assets/home_mindtrails.png",
-            "action": "flow://flows/rationale.json",
-            "backgroundcolor": "#1A206AFF"
+        {
+          "type": "sessions",
+          "left": {
+            "text": "{0} Sesiones completadas",
+            "icon": "/assets/completed.png"
           },
-          {
-            "text": "Instrucciones",
-            "icon": "/assets/home_instructions.png",
-            "action": "flow://flows/instructions.json",
-            "backgroundcolor": "#1A00E05A"
-          },
-          {
-            "text": "Recursos",
-            "icon": "/assets/home_resources.png",
-            "action": "flow://flows/${global:group}/resources",
-            "backgroundcolor": "#1A00C2FF"
-          },
-          {
-            "text": "¿Qué es la Ansiedad?",
-            "icon": "/assets/home_anxiety.png",
-            "action": "flow://flows/what is anxiety.json",
-            "backgroundcolor": "#1A5C2FDA"
+          "right": {
+            "text": "Iniciar sesión",
+            "icon": "/assets/unlocked.png",
+            "action": "flow://flows/${global:group}/sessions"
           }
-        ]
-      }
-    ] }
+        },
+        {
+          "type": "button",
+          "action": {
+            "text": "Mostrar encuestas",
+            "action": "navmodal://Survey"
+          }
+        },
+        {
+          "type": "tiles",
+          "actions": [
+            {
+              "text": "¿Qué es MindTrails Español?",
+              "icon": "/assets/home_mindtrails.png",
+              "action": "flow://flows/rationale.json",
+              "backgroundcolor": "#1A206AFF"
+            },
+            {
+              "text": "Instrucciones",
+              "icon": "/assets/home_instructions.png",
+              "action": "flow://flows/instructions.json",
+              "backgroundcolor": "#1A00E05A"
+            },
+            {
+              "text": "Recursos",
+              "icon": "/assets/home_resources.png",
+              "action": "flow://flows/${global:group}/resources",
+              "backgroundcolor": "#1A00C2FF"
+            },
+            {
+              "text": "¿Qué es la Ansiedad?",
+              "icon": "/assets/home_anxiety.png",
+              "action": "flow://flows/what is anxiety.json",
+              "backgroundcolor": "#1A5C2FDA"
+            }
+          ]
+        }
+      ]
+    }
   },
   "settings": {
     "unenroll": "flow://flows/${global:group}/reasons for ending",
@@ -114,19 +117,26 @@
     {
       "type": "timing",
       "frequency": "1",
-      "action": "notification",
-      "content": {
-        "time": "20:00",
-        "path": "flow://flows/${global:group}/final del dia"
+      "time": "20:00",
+      "action": {
+        "type": "notification",
+        "survey": true,
+        "path": "flow://flows/${global:group}/final del dia",
+        "title": "¡Alerta de encuesta!",
+        "message": "Es hora de tu encuesta de final del día."
       }
     },
     {
       "type": "timing",
       "frequency": "14",
-      "action": "notification",
-      "content": {
+      "time": "20:00",
+      "action": {
+        "type": "notification",
+        "survey": true,
         "time": "20:00",
-        "path": "flow://flows/${global:group}/sigue tu progreso"
+        "path": "flow://flows/${global:group}/sigue tu progreso",
+        "title": "¡Alerta de encuesta!",
+        "message": "Es hora de tu encuesta de progreso."
       }
     }
   ]
