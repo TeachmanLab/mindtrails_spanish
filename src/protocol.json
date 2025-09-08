@@ -115,6 +115,7 @@
   ],
   "triggers": [
     {
+      "id": "endofdaytrigger",
       "type": "timing",
       "frequency": "1",
       "time": "20:00",
@@ -127,6 +128,7 @@
       }
     },
     {
+      "id": "progresstrigger",
       "type": "timing",
       "frequency": "14",
       "time": "20:00",
