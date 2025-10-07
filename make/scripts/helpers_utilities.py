@@ -76,7 +76,7 @@ def clean_up_unicode(text):
     return text.replace("\u00e2\u20ac\u2122", "'").replace("\u2026", "...").replace("\u2013", " - ") \
         .replace("\u2014", " - ").replace("\u201c", '"').replace("\u201d", '"').replace("\\n", "\n") \
         .replace("\u2019", "'").replace("\u00e1", "á").replace("\u00e9", "é").replace("\u00ed", "í") \
-        .replace("\u00f3", "ó").replace("\u00fa", "ú").replace(u'\xf1', 'n').replace("\u00fc", "ü") \
+        .replace("\u00f3", "ó").replace("\u00fa", "ú").replace(u'\xf1', 'ñ').replace("\u00fc", "ü") \
         .replace("\u00c1", "Á").replace("\u00c9", "É").replace("\u00cd", "Í").replace("\u00d3", "Ó") \
         .replace("\u00da", "Ú").replace("\u00d1", "Ñ").replace("\u00dc", "Ü").replace("  ", " ").strip()
 
