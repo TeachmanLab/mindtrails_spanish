@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "¿Cuál es tu ano de nacimiento?"
+            "text": "¿Cuál es tu año de nacimiento?"
         },
         {
             "type": "Picker",
