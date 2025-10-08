@@ -108,7 +108,7 @@ def get_resources(file_path):
         for i,row in enumerate(islice(reader,1,None),1):
             for resources, domain_index in zip(domain_resources, domain_indexes):
                 res = row[domain_index]
-                text = row[domain_index+1].strip() + "\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
+                text = row[domain_index+1].strip()
                 if res: resources.append([res, text])
 
         return dict(zip(domains,domain_resources))
