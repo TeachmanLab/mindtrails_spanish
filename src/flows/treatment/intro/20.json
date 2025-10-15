@@ -26,7 +26,7 @@
                 "!Otro:"
             ],
             "selectable": true,
-            "multi_select": true,
+            "multiselect": true,
             "name": "reasons_not_receiving_help"
         }
     ],

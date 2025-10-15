@@ -19,7 +19,7 @@
                 "^Prefiero no responder"
             ],
             "selectable": true,
-            "multi_select": true,
+            "multiselect": true,
             "name": "race"
         }
     ]

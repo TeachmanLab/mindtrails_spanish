@@ -1,6 +1,5 @@
 import csv
 import shutil
-import json
 
 from collections import defaultdict
 from itertools import islice, cycle, chain

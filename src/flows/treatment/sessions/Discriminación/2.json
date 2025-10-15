@@ -19,7 +19,7 @@
                 "^NotNeeded::No estoy buscando ningún recurso adicional en este momento"
             ],
             "selectable": true,
-            "multi_select": true,
+            "multiselect": true,
             "name": "Discrimination",
             "variable_name": "Selected_Support"
         }
