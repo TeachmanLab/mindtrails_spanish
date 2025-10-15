@@ -4,7 +4,8 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Vaya a la libreria de recursos disponibles los enlaces a estos recursos.\n\n<strong>División de Derechos Civiles:</strong> The Civil Rights Division enforces federal laws that protect you from discrimination based on your race, color, national origin, disability status, sex, religion, familial status, or loss of other constitutional rights. <a href=\"https://www.hhs.gov/civil-rights/filing-a-complaint/complaint-process/spanish/index.html\">https://www.hhs.gov/civil-rights/filing-a-complaint/complaint-process/spanish/index.html</a><br><br>"
+            "text": "Vaya a la libreria de recursos disponibles los enlaces a estos recursos.\n\n<strong>División de Derechos Civiles:</strong> The Civil Rights Division enforces federal laws that protect you from discrimination based on your race, color, national origin, disability status, sex, religion, familial status, or loss of other constitutional rights. <a href=\"https://www.hhs.gov/civil-rights/filing-a-complaint/complaint-process/spanish/index.html\">https://www.hhs.gov/civil-rights/filing-a-complaint/complaint-process/spanish/index.html</a><br><br>",
+            "html": true
         }
     ],
     "condition": [
