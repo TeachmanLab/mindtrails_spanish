@@ -4,7 +4,8 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Vaya a la libreria de recursos disponibles los enlaces a estos recursos.\n\nAquí hay algunas herramientas y recursos que pueden resultarle útiles en este momento. Seleccione una o más de las siguientes opciones:"
+            "text": "Vaya a la libreria de recursos disponibles los enlaces a estos recursos.\n\nAquí hay algunas herramientas y recursos que pueden resultarle útiles en este momento. Seleccione una o más de las siguientes opciones:",
+            "html": true
         },
         {
             "type": "Buttons",
@@ -19,7 +20,7 @@
                 "^NotNeeded::No estoy buscando ningún recurso adicional en este momento"
             ],
             "selectable": true,
-            "multi_select": true,
+            "multiselect": true,
             "name": "Discrimination",
             "variable_name": "Selected_Support"
         }

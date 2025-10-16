@@ -3,7 +3,7 @@ import json
 import random
 
 from pathlib import Path
-from itertools import islice
+from itertools import islice, count
 from collections import defaultdict
 
 class StatefulRandom:
@@ -126,17 +126,14 @@ def get_ER(file_path):
 
         File I used to make this: https://docs.google.com/spreadsheets/d/1kenROWNI498AcMhjElrFQD9IjOmnVGInVB8BShSYSx8/edit#gid=0
         """
-
-    domain_indexes = [1, 2, 3, 4, 5, 6, 7, 8]
-    domain_strats = [ [] for _ in domain_indexes ]
-
+    
     with open(file_path, 'r', encoding='utf-8') as f:
-
         reader = csv.reader(f)
-        domain_names = list(map(next(reader).__getitem__,domain_indexes))
+        domain_names = list(islice(next(reader),1,None))
+        domain_strats = [ [] for _ in domain_names ]
 
         for i,row in enumerate(reader,1):
-            for strats, domain_index in zip(domain_strats, domain_indexes):
+            for strats, domain_index in zip(domain_strats, count(1)):
                 if row[domain_index]: strats.append([f"Estrategia de Regulación Emocional #{i}", row[domain_index]])
 
         return dict(zip(domain_names,domain_strats))

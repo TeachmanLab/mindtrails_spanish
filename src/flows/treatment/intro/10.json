@@ -18,7 +18,7 @@
                 "!Otro:"
             ],
             "selectable": true,
-            "multi_select": true,
+            "multiselect": true,
             "name": "learn_abt_HTC"
         }
     ]

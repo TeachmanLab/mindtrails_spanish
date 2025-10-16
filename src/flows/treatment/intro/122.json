@@ -18,7 +18,7 @@
                 "!Otros, descríbalos:"
             ],
             "selectable": true,
-            "multi_select": true,
+            "multiselect": true,
             "name": "gain_from_HTC"
         }
     ]

@@ -28,7 +28,7 @@
                 "!Otro:"
             ],
             "selectable": true,
-            "multi_select": true,
+            "multiselect": true,
             "name": "mental_health_disorders"
         }
     ]

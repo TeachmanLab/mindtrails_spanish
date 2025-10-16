@@ -20,7 +20,7 @@
                 "!Otro:"
             ],
             "selectable": true,
-            "multi_select": true,
+            "multiselect": true,
             "name": "changes_treatment"
         }
     ]

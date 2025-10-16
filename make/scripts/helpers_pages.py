@@ -55,7 +55,7 @@ def create_input(tipe, items=None, min=None, max=None, text=None):
     if tipe == "entry"    : return {"type": "Entry" }
     if tipe == "buttons"  : return {"type": "Buttons", "buttons": items, "selectable": True, **({"ColumnCount": 2} if is_yesno(items) else {}) }
     if tipe == "scheduler": return {"type": "Scheduler", "days_ahead": 1, "flow": "flow://flows/sessions", "count":2, "message": "¡Es hora de practicar el pensamiento flexible! Dirígete a MindTrails Español para tu sesión programada."}
-    if tipe == "checkbox" : return {"type": "Buttons", "buttons": items, "selectable": True, "multi_select": True }
+    if tipe == "checkbox" : return {"type": "Buttons", "buttons": items, "selectable": True, "multiselect": True }
     if tipe == "timedtext": return {"type": "TimedText", "texts": text,  "Duration": 15000 }
     if tipe == "puzzle"   : return {
         "type": "WordPuzzle",
@@ -286,7 +286,7 @@ def create_resource_page(resources_lookup, tips, ER_lookup, domain):
 
 def create_discrimination_page(conditions, text, items, input_1, input_name, variable_name, title):
 
-    text = {"type": "Text", "text": text}
+    text = {"type": "Text", "text": text, "html": True}
     input = create_input(input_1, items)
 
     if input and input_name: input["name"] = input_name

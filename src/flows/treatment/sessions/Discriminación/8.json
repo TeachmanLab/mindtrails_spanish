@@ -4,7 +4,8 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Vaya a la libreria de recursos disponibles los enlaces a estos recursos.\n\n<strong>InfoActivismo:</strong> La Guía de Infoactivismo te ayudará a tener una imagen completa de las acciones que puedes hacer para ser mejor activista. <a href=\"https://infoactivismo.org/guias/\">https://infoactivismo.org/guias/</a><br><br>"
+            "text": "Vaya a la libreria de recursos disponibles los enlaces a estos recursos.\n\n<strong>InfoActivismo:</strong> La Guía de Infoactivismo te ayudará a tener una imagen completa de las acciones que puedes hacer para ser mejor activista. <a href=\"https://infoactivismo.org/guias/\">https://infoactivismo.org/guias/</a><br><br>",
+            "html": true
         }
     ],
     "condition": [

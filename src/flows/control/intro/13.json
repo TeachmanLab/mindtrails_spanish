@@ -19,7 +19,7 @@
                 "!Otro otro:"
             ],
             "selectable": true,
-            "multi_select": true,
+            "multiselect": true,
             "name": "help",
             "variable_name": "HelpReceived"
         }
