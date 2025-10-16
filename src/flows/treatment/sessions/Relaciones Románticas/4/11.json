@@ -1,16 +1,16 @@
 {
-    "header_text": "Relación a largo plazo",
+    "header_text": "La familia no aprueba a su pareja",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Relación a largo plazo"
+            "text": "La familia no aprueba a su pareja"
         },
         {
             "type": "Media",
-            "url": "./images/197.jpg"
+            "url": "./images/203.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 3
 }

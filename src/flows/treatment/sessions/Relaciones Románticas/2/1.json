@@ -1,17 +1,17 @@
 {
-    "header_text": "Expresar tus sentimientos",
+    "header_text": "Tu vejez",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Expresar tus sentimientos"
+            "text": "Tu vejez"
         },
         {
             "type": "Media",
-            "url": "./images/183.jpg"
+            "url": "./images/184.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 0,
     "information": {
         "elements": [

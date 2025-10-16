@@ -1,14 +1,14 @@
 {
-    "header_text": "Experiencias pasadas",
+    "header_text": "Amgio del trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Experiencias pasadas"
+            "text": "Amgio del trabajo"
         },
         {
             "type": "Media",
-            "url": "./images/231.jpg"
+            "url": "./images/232.jpg"
         }
     ],
     "type": "positive",

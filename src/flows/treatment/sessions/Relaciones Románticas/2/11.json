@@ -1,16 +1,16 @@
 {
-    "header_text": "Discute con tu pareja",
+    "header_text": "Preocupaciones por las relaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Discute con tu pareja"
+            "text": "Preocupaciones por las relaciones"
         },
         {
             "type": "Media",
-            "url": "./images/151.jpg"
+            "url": "./images/186.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 3
 }

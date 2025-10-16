@@ -1,19 +1,19 @@
 {
-    "header_text": "Bebida derramada: Sentimientos",
+    "header_text": "Vidrio roto: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes una cita en una cafetería con una persona que realmente te gusta. Mientras regresas a la mesa, tropiezas, te caes y derramas café por todos lados.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Estás en un restaurante tranquilo con muchos miembros de tu familia para cenar. Mientras tomas un trago de agua, accidentalmente dejas caer el vaso al suelo y se rompe.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me siento como un tonto.",
-                "Estoy seguro de que tendremos una gran conversación.",
-                "Me molesta que la cita haya comenzado de esta manera, pero podría ayudarnos a sentirnos más cómodos hablando entre nosotros.",
-                "Me da vergüenza haber tropezado frente a mi cita, pero este sentimiento pasará.",
-                "Me siento afortunada de no haberme lastimado."
+                "Siento que arruiné la velada, pero todos se olvidarán de los cristales rotos.",
+                "Me siento culpable por haber roto un vaso, pero sé que no lo hice a propósito.",
+                "Me da vergüenza haber llamado la atención sobre mí.",
+                "Estoy feliz de estar comiendo con mi familia.",
+                "Estoy seguro de que la camarera aceptará mis disculpas."
             ],
             "Duration": 15000
         }

@@ -1,25 +1,25 @@
 {
-    "header_text": "Presencia en redes sociales",
+    "header_text": "Encontrandote con alguien",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Empezaste a salir con una persona nueva y te preguntan sobre tus cuentas de redes sociales. No te gustan las redes sociales, y has decidido no tener cuentas. Ellos pensarán que eres... "
+            "text": "Te estás alistando para ir en una cita con alguien a quien nunca has conocido en persona. Crees que tienen mucho en común, pero te preocupa que a veces te vuelvas muy tímido cuando estás..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Presencia en redes sociales_Relaciones Románticas_puzzle1",
+            "name": "Encontrandote con alguien_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "genial"
+                "nervioso"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 5
 }

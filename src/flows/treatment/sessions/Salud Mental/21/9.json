@@ -1,19 +1,19 @@
 {
-    "header_text": "Serpientes en el parque: Sentimientos",
+    "header_text": "Marcado en una foto: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo te convence para dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Tú y tus amigos tomaron algunas fotografías juntos. Al día siguiente, recibes una notificación de que te etiquetaron en una publicación en las redes sociales. No te gusta cómo te ves en la foto.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Estoy feliz de que mi amigo me haya pedido que saliéramos a caminar.",
-                "Tengo miedo de que me pase algo malo.",
-                "Estoy preocupado por lo que veremos en el parque, pero sé que puedo soportar sentirme un poco preocupado.",
-                "Me da ansiedad que me muerdan, pero recuerdo que ese es el peor de los casos y que probablemente no sucederá.",
-                "Estoy tranquila pensando en ir al parque."
+                "Me molesta que se haya publicado una foto mía tan mala, pero recuerdo que este no es el fin del mundo.",
+                "Me da vergüenza que todos los demás luzcan mejor que yo, pero trato de alegrarme de que todos luzcan felices en la foto.",
+                "Me da vergüenza la cara que estoy poniendo en la foto.",
+                "Estoy orgulloso del atuendo de la foto.",
+                "Me siento feliz porque es una foto grupal."
             ],
             "Duration": 15000
         }

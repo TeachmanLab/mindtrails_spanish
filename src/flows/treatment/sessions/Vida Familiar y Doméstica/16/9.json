@@ -1,19 +1,19 @@
 {
-    "header_text": "Balancear responsibilidades: Sentimientos",
+    "header_text": "Niñera: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes muchas tareas domésticas que hacer esta noche y también tienes un gran proyecto que debes entregar manana. Ambos tienen que hacerse y usted piensa en cómo manejará todo.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Estás cuidando al hijo de una amiga y miras televisión mientras ella duerme. Afuera está oscuro y de repente oyes ruidos contra la ventana.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Estoy tranquilo mientras descubro cómo hacer todo esta noche.",
-                "Me emociona descubrir nueva música mientras hago las tareas del hogar.",
-                "Me siento frustrado por la falta de tiempo, pero sé que una vez que empiece, todo empezará a fluir.",
-                "Tengo un nudo en el estómago porque no sé si haré mi trabajo.",
-                "Siento que no quiero hacer nada, pero sé que será maravilloso haber realizado estas tareas."
+                "Mi corazón late un poco más rápido que antes de escuchar el ruido, pero sé que pronto volverá a la normalidad.",
+                "Tiene sentido que al principio tuviera miedo, pero recuérdeme que probablemente esté a salvo.",
+                "Me preocupa que algo esté mirando por la ventana.",
+                "Estoy feliz de que mi programa favorito esté en la televisión.",
+                "Estoy emocionado de ver a mi amigo y escuchar sobre su noche de fiesta."
             ],
             "Duration": 15000
         }

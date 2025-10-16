@@ -1,17 +1,17 @@
 {
-    "header_text": "Encontrar al indicado",
+    "header_text": "Casarse con tu pareja",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Actualmente estás soltero y has tenido citas para intentar encontrar a la persona indicada. A veces, resulta difícil conectarse realmente con las personas y conocerlas a un nivel más profundo. Cuando piensas en casarte en el futuro, te..."
+            "text": "Tu pareja de cuatro años ha preguntado recientemente cómo te siente acerca del matrimonio. Te sientes muy enamorado de tu pareja, pero te preocupas por las altas tasas de divorcio y si eso te podría... "
         },
         {
             "type": "Entry",
-            "name": "Encontrar al indicado_Relaciones Románticas_entry1"
+            "name": "Casarse con tu pareja_Relaciones Románticas_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 0
 }

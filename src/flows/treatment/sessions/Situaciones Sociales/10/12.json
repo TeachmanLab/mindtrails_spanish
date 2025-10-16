@@ -1,5 +1,5 @@
 {
-    "header_text": "Una presentación grande",
+    "header_text": "Una presentación importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Entry",
-            "name": "Una presentación grande_Situaciones Sociales_entry1"
+            "name": "Una presentación importante_Situaciones Sociales_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",

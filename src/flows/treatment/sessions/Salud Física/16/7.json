@@ -1,10 +1,10 @@
 {
-    "header_text": "Subiendo escaleras: Escribe Algunos Pensamientos",
+    "header_text": "Serpientes en el parque: Escribe Algunos Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te estás reuniendo con tu jefe. Para llegar a tiempo, simplemente subió dos tramos de escaleras rápidamente y sintió que su corazón latía muy rápidamente.\n\nTómese 30 segundos para escribir pensamientos diferentes. El siguiente botón aparecerá automáticamente. \n\nPensamientos en el momento:"
+            "text": "Tu amigo te convence para dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nTómese 30 segundos para escribir pensamientos diferentes. El siguiente botón aparecerá automáticamente. \n\nPensamientos en el momento:"
         },
         {
             "type": "Entry"

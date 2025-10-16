@@ -1,19 +1,19 @@
 {
-    "header_text": "Araña perdida: Sentimientos",
+    "header_text": "Serpientes en el parque: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando entras a la ducha, ves una enorme arana en la pared. Te das la vuelta por un segundo, miras hacia atrás y te das cuenta de que ya no está. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Tu amigo te convence para dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me sentiré tan renovado después de esta ducha.",
-                "Estoy nervioso por la araña, pero recuerdo que probablemente ella me tenga más miedo.",
-                "Me preocupa saber dónde se arrastrará la araña a continuación.",
-                "Me siento asustado, pero sé que soy lo suficientemente valiente como para ducharme de todos modos.",
-                "Agradezco que la araña esté aquí para comerse otros insectos en mi casa."
+                "Estoy feliz de que mi amigo me haya pedido que saliéramos a caminar.",
+                "Tengo miedo de que me pase algo malo.",
+                "Estoy preocupado por lo que veremos en el parque, pero sé que puedo soportar sentirme un poco preocupado.",
+                "Me da ansiedad que me muerdan, pero recuerdo que ese es el peor de los casos y que probablemente no sucederá.",
+                "Estoy tranquila pensando en ir al parque."
             ],
             "Duration": 15000
         }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Puntos de vista opuestos: Sentimientos",
+    "header_text": "Persona atractiva en las redes sociales.: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tanto usted como su pareja tienen opiniones firmes y no siempre están de acuerdo. Una noche, durante la cena, entablas una acalorada discusión sobre un tema que te apasiona.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Mientras navegas por una aplicación de citas, ves a una persona atractiva que conociste en el supermercado la semana pasada. Decides que te guste su perfil. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Estoy molesto porque nos peleamos, pero tengo la esperanza de que podamos salir adelante.",
-                "Me enfurece que no estemos de acuerdo en esto.",
-                "Me decepciona que no estemos de acuerdo en este punto, pero sé que es normal que las parejas tengan desacuerdos.",
-                "Estoy agradecido de tener un socio que se preocupa tanto por temas importantes.",
-                "Me siento respetado cuando discutimos nuestras diferencias de opinión."
+                "Me da vergüenza que me guste su perfil, pero decido entusiasmarme con la oportunidad.",
+                "Me siento emocionado porque tengo una perspectiva romántica.",
+                "Me siento feliz de que me haya gustado su perfil.",
+                "Tengo miedo de nunca encontrar a alguien que esté interesado románticamente en mí.",
+                "Me siento avergonzado por algunas fotografías que tengo subidas, pero decido sentirme seguro de ellas."
             ],
             "Duration": 15000
         }

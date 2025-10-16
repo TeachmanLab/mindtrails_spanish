@@ -1,25 +1,25 @@
 {
-    "header_text": "Vaso de agua",
+    "header_text": "Nuevo seguidor atractivo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Al final, piensas en cómo te sentirías si tu cita derramara un vaso de agua. Te das cuenta de que tú, al igual que la mayoría de las personas, probablemente no te importaría y que derramar un vaso de agua probablemente está.."
+            "text": "Conoces a una persona atractiva de tu edad y te pregunta por tus redes sociales. Notas que te agregaron y ahora pueden ver que no tienes muchos seguidores. Pensarán que esto es..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Vaso de agua_Relaciones Románticas_puzzle_word2",
+            "name": "Nuevo seguidor atractivo_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "bien"
+                "típico"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

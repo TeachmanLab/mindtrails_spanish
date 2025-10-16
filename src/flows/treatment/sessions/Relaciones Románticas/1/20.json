@@ -1,16 +1,16 @@
 {
-    "header_text": "Cita con alguien nuevo",
+    "header_text": "Priorización de responsabilidades",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cita con alguien nuevo"
+            "text": "Priorización de responsabilidades"
         },
         {
             "type": "Media",
-            "url": "./images/179.jpg"
+            "url": "./images/180.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 6
 }

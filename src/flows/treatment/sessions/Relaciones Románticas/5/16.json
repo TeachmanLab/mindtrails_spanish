@@ -1,20 +1,20 @@
 {
-    "header_text": "Enviar mensajes de texto a otras personas",
+    "header_text": "Presencia en redes sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu pareja es muy extrovertida y tienen muchos amigos. Realmente disfrutas el tiempo que pasas con tu pareja, pero a veces te preguntas si preferiría estar con sus otros amigos. Al reflexionar sobre tu relación con tu pareja hasta ahora, te sientes... "
+            "text": "Empezaste a salir con una persona nueva y te preguntan sobre tus cuentas de redes sociales. No te gustan las redes sociales, y has decidido no tener cuentas. Ellos pensarán que eres... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Enviar mensajes de texto a otras personas_Relaciones Románticas_puzzle1",
+            "name": "Presencia en redes sociales_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "seguro"
+                "genial"
             ],
             "missing_letter_count": 2
         }

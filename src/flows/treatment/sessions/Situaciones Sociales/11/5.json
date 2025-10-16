@@ -1,19 +1,19 @@
 {
-    "header_text": "Respondiendo una pregunta:Pensamientos",
+    "header_text": "Granizado derramado:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En una reunión con algunos colegas y su jefe, su jefe le pide que responda una pregunta. Dices tu mejor respuesta y tus companeros de trabajo guardan silencio.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Tú y tus amigos están saliendo a cenar. Llegan tus alimentos y bebidas y accidentalmente derramas tu bebida en la parte delantera de tu nueva camisa blanca.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Mi respuesta fue reflexiva.",
-                "Mis compañeros de trabajo están juzgando mi respuesta.",
-                "Mi respuesta me pareció tonta porque no entendí la pregunta, pero nadie se acordará mañana.",
-                "No comuniqué mi punto tan bien como me hubiera gustado esta vez, pero sé que tendré más oportunidades de hablar en el futuro.",
-                "Fue agradable poder compartir lo que pienso."
+                "Pienso en que este es un accidente común.",
+                "Siento que estoy molestando a mis amigos en este momento, pero ellos entenderán que los accidentes ocurren.",
+                "Siento que estoy provocando una escena, pero las otras personas aquí no me conocen ni les importa esta situación.",
+                "Creo que quedaré tonto delante de todos.",
+                "Pienso en cómo será una historia divertida."
             ],
             "Duration": 15000
         }

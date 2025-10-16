@@ -1,25 +1,25 @@
 {
-    "header_text": "Consejos para un amigo",
+    "header_text": "Estrés en tu relación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Pasas una tarde con un amigo y acabas hablando de sus problemas de relación. Mientras les das algunos consejos, notas que están callados. Una vez que llegas a casa, reflexionas sobre la noche y crees que tus consejos les resultaron..."
+            "text": "Estás planeando tu matrimonio con tu prometido. A veces, planificar el matrimonio ha generado estrés en tu relación, y tú y tu prometido han tenido algunas discusiones durante el..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Consejos para un amigo_Relaciones Románticas_puzzle1",
+            "name": "Estrés en tu relación_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "útiles"
+                "proceso"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 3
 }

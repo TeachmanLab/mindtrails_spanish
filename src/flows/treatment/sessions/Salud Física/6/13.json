@@ -1,19 +1,19 @@
 {
-    "header_text": "Dando una presentación: Comportamientos",
+    "header_text": "Serpientes en el parque: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes que hacer una presentación en una reunión hoy. Cuando te paras frente al grupo, sientes que tus mejillas se calientan y tus manos empiezan a temblar.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Tu amigo te convence para dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Hablo con voz fuerte.",
-                "Sonrío y comienzo mi presentación.",
-                "Le pregunto a mi jefe si puedo presentarme otro día.",
-                "Considero fingir que estoy enfermo para no tener que presentar, pero me reto a mí mismo a hacer la presentación de todos modos.",
-                "Quiero ir al baño y mojarme la cara con agua, pero decido volver a concentrarme en mi entorno para relajarme y poder."
+                "Le digo a mi amigo que no me siento bien y que no puedo ir.",
+                "Me encuentro con mi amigo en la entrada del parque.",
+                "Quiero evitar ir al parque, pero desafiarme a ir.",
+                "Me pongo los zapatos y salgo por la puerta.",
+                "Considero abandonar a mi amigo, pero me obligo a seguir caminando de todos modos."
             ],
             "Duration": 15000
         }

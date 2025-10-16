@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "Deben tener mucho que hacer hoy.",
-                "Tal vez los estoy molestando, pero es posible que también estén ocupados.",
-                "Nunca me responderán.",
-                "Si les gusta alguien más y no yo, no me gustará, pero dejaré de hacerlo.",
-                "Me llamarán cuando tengan tiempo."
+                "Soy una buena persona con quien hablar.",
+                "Puede que no estén interesados ​​románticamente en mí, pero puedo pasar a otra persona.",
+                "Simplemente están ocupados.",
+                "No les debo agradar.",
+                "Quizás piensen que soy aburrido, pero nadie es interesante todo el tiempo."
             ],
             "Duration": 15000
         }

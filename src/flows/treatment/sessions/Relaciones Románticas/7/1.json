@@ -1,16 +1,16 @@
 {
-    "header_text": "Preocupaciones por el COVID",
+    "header_text": "Ponerse ahí fuera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Preocupaciones por el COVID"
+            "text": "Ponerse ahí fuera"
         },
         {
             "type": "Media",
-            "url": "./images/214.jpg"
+            "url": "./images/215.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 0
 }

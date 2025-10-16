@@ -1,23 +1,23 @@
 {
-    "header_text": "Relaciones futuras",
+    "header_text": "Invitando a alguien a salir",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Después de tu separación, piensas que..."
+            "text": "si le preguntas a la otra persona si quiere tomar un café, es probable que..."
         },
         {
             "type": "Buttons",
-            "name": "Relaciones futuras_Relaciones Románticas_comp_question",
+            "name": "Invitando a alguien a salir_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Probablemente nunca encuentres a alguien bueno para ti.",
-                "Eventualmente conocerás a la persona adecuada para ti."
+                "Rechace tu oferta, porque no están interesados en volver a verte.",
+                "Acepte tu oferta, porque ustedes dos lo pasaron bien en el tren."
             ],
             "column_Count": 1,
-            "correct_value": "Eventualmente conocerás a la persona adecuada para ti."
+            "correct_value": "Acepte tu oferta, porque ustedes dos lo pasaron bien en el tren."
         }
     ],
     "navigation_conditions": [

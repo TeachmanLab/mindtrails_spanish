@@ -1,29 +1,29 @@
 {
-    "header_text": "Relación a largo plazo",
+    "header_text": "Temas difíciles",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Crees que lo más probable es que tu conversación con tu pareja:"
+            "text": "¿Todas las conversaciones en una relación tienen que ser fáciles?"
         },
         {
             "type": "Buttons",
-            "name": "Relación a largo plazo_Relaciones Románticas_comp_question",
+            "name": "Temas difíciles_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Se convierta en una discusión.",
-                "Sea un intercambio positivo sobre lo que sienten el uno por el otro."
+                "Sí",
+                "No"
             ],
             "column_Count": 1,
-            "correct_value": "Se convierta en una discusión."
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 2
 }

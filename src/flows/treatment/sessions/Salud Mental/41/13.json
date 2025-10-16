@@ -1,19 +1,19 @@
 {
-    "header_text": "Araña perdida: Comportamientos",
+    "header_text": "Luchando con una presentación: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando entras a la ducha, ves una enorme arana en la pared. Te das la vuelta por un segundo, miras hacia atrás y te das cuenta de que ya no está. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Ha estado luchando por armar esta presentación, pero aún no se ha comunicado con su jefe al respecto. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Quiero rociar repelente de insectos en todas partes, pero decido continuar con mi rutina de ducha ya que el rociador podría hacer más daño que la araña.",
-                "Quiero llamar a alguien para que me ayude a encontrar la araña, pero decido simplemente ducharme.",
-                "Decido abrir el agua.",
-                "Empiezo a tocar algo de música.",
-                "Grito y salgo corriendo."
+                "Me saltaré esta reunión mañana.",
+                "Quiero evitar trabajar en la presentación, pero sé que progresar un poco me ayudará a sentirme realizado.",
+                "Quiero preguntarles a mis colegas cómo piensan que lo hice, pero realmente no importa lo que piensen los demás.",
+                "No me esconderé en mi oficina después de mi presentación.",
+                "Le preguntaré a mi jefe qué más puedo hacer para demostrar mis habilidades."
             ],
             "Duration": 15000
         }

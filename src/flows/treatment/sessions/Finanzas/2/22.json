@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Es muy probable que cometas un error, dado lo poco que sabes sobre cómo funcionan.",
-                "Tomarás una buena decisión porque has investigado."
+                "Tomarás una buena decisión porque has investigado.",
+                "Es muy probable que cometas un error, dado lo poco que sabes sobre cómo funcionan."
             ],
             "column_Count": 1,
             "correct_value": "Tomarás una buena decisión porque has investigado."

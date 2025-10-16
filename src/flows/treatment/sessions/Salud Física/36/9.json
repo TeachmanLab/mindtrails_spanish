@@ -1,19 +1,19 @@
 {
-    "header_text": "Subiendo escaleras: Sentimientos",
+    "header_text": "Reírse de un chiste: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te estás reuniendo con tu jefe. Para llegar a tiempo, simplemente subió dos tramos de escaleras rápidamente y sintió que su corazón latía muy rápidamente.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Un amigo cuenta un chiste gracioso y te empiezas a reír mucho. Mientras te ríes, sientes una opresión incómoda en el pecho que nunca antes habías sentido. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Tengo pánico de que voy a morir.",
-                "Aunque estoy preocupada por mi salud, decido concentrarme en el momento con mi jefe.",
-                "Me alegro de haber podido subir las escaleras tan rápido.",
-                "Estoy orgulloso de mí mismo por hacerme sentir un poco incómodo.",
-                "Quiero sentirme preocupado por esta situación, pero desvío mi atención a la reunión."
+                "¡Estoy tan sorprendido por ese chiste!",
+                "Estoy aterrorizada por la opresión en mi pecho.",
+                "Estoy feliz de que mis amigos sean tan divertidos.",
+                "Me preocupa la opresión en el pecho, pero creo que desaparecerá pronto.",
+                "Estoy ansiosa por este sentimiento en mi pecho, pero sé que es solo por reírme mucho."
             ],
             "Duration": 15000
         }

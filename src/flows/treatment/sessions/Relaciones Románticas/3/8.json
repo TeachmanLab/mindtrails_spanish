@@ -1,25 +1,25 @@
 {
-    "header_text": "Una nueva relación",
+    "header_text": "Consejos para un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Llevas un tiempo con tu pareja y todavía te gustan mucho. Recientemente, tu pareja no ha expresado mucha adoración hacia ti y te preguntas si todavía te aman tanto como tú los amas. Crees que ya no les..."
+            "text": "Pasas una tarde con un amigo y acabas hablando de sus problemas de relación. Mientras les das algunos consejos, notas que están callados. Una vez que llegas a casa, reflexionas sobre la noche y crees que tus consejos les resultaron..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Una nueva relación_Relaciones Románticas_puzzle1",
+            "name": "Consejos para un amigo_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "gustas"
+                "útiles"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 2
 }

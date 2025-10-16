@@ -1,14 +1,14 @@
 {
-    "header_text": "Anticipando una cita",
+    "header_text": "Citas en línea",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Anticipando una cita"
+            "text": "Citas en línea"
         },
         {
             "type": "Media",
-            "url": "./images/189.jpg"
+            "url": "./images/190.jpg"
         }
     ],
     "type": "positive",

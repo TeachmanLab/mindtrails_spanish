@@ -1,16 +1,25 @@
 {
-    "header_text": "Invitando a alguien a salir",
+    "header_text": "Problemas con los amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Invitando a alguien a salir"
+            "text": "Tu pareja te dice que tienen problemas con algunos de tus amigos. También has estado notando esto, pero no quieres hacer que nadie se moleste. Cuando piensas en discutir los temas con tus amigos, crees que la conversación irá... "
         },
         {
-            "type": "Media",
-            "url": "./images/178.jpg"
+            "type": "WordPuzzle",
+            "name": "Problemas con los amigos_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "bien"
+            ],
+            "missing_letter_count": 2
         }
     ],
-    "type": "negative",
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
     "scenario_num": 7
 }

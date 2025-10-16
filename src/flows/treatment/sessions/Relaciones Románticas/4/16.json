@@ -1,25 +1,39 @@
 {
-    "header_text": "La familia no aprueba a su pareja",
+    "header_text": "Preocupaciones por las relaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente empezaste a salir con alguien que realmente te gusta mucho. Se los presentas a tu familia y ellos no parecen aprobarlos. Te recuerdas a ti mismo que esta fue solo la primera reunión y que tu familia llegará a conocer mejor a tu pareja con el..."
+            "text": "Cuando te imaginas a ti y a tu cónyuge en el futuro, ves"
         },
         {
-            "type": "WordPuzzle",
-            "name": "La familia no aprueba a su pareja_Relaciones Románticas_puzzle1",
+            "type": "Buttons",
+            "name": "Preocupaciones por las relaciones_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "tiempo"
+            "buttons": [
+                "Tu matrimonio ha terminado.",
+                "Los dos juntos y felices."
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Los dos juntos y felices."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "¿Por qué estás completando palabras con letras? Al completar repetidamente las letras que faltan para completar palabras positivas, neutrales o negativas, el cerebro adopta patrones de pensamiento flexibles para reducir el pensamiento rígido."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

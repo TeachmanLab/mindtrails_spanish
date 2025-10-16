@@ -4,13 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Vaso de agua"
+            "text": "Tu cita probablemente piensa que tú derramando agua..."
         },
         {
-            "type": "Media",
-            "url": "./images/198.jpg"
+            "type": "Buttons",
+            "name": "Vaso de agua_Relaciones Románticas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No es gran cosa.",
+                "Significa que eres torpe y descuidado."
+            ],
+            "column_Count": 1,
+            "correct_value": "No es gran cosa."
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
-    "scenario_num": 7
+    "scenario_num": 6
 }

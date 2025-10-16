@@ -1,20 +1,20 @@
 {
-    "header_text": "Año ocupado",
+    "header_text": "Expresar tus sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu y tu pareja han tenido un año ocupado, y no han estado pasando mucho tiempo juntos. Cuando pasan tiempo juntos, tú y tu pareja parecen distraídos y tienden a pelear. Piensas que esto es solo una etapa difícil y que tu relación estará..."
+            "text": "Tu pareja te lleva a cenar y están hablando mientras esperan la comida. Mencionan algo que te molesta, pero te preocupa que si les enfrentas al respecto, se enojarán. Finalmente, decides decirles que lo que dijeron te molestó y ellos se..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Año ocupado_Relaciones Románticas_puzzle1",
+            "name": "Expresar tus sentimientos_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "bien"
+                "disculpan"
             ],
             "missing_letter_count": 1
         }

@@ -1,17 +1,16 @@
 {
-    "header_text": "Conocer a los padres",
+    "header_text": "Citas en línea",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus suegros están visitando y vas a cenar con ellos. Nunca los has conocido antes, pero sabes que tienen creencias políticas muy diferentes a las tuyas. Mientras piensas en conocerlos, sabes que serás... "
+            "text": "Citas en línea"
         },
         {
-            "type": "Entry",
-            "name": "Conocer a los padres_Relaciones Románticas_entry1"
+            "type": "Media",
+            "url": "./images/190.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 3
+    "type": "negative",
+    "scenario_num": 4
 }

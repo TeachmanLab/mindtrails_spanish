@@ -1,14 +1,14 @@
 {
-    "header_text": "Nuevo seguidor atractivo",
+    "header_text": "Primera reunión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Nuevo seguidor atractivo"
+            "text": "Primera reunión"
         },
         {
             "type": "Media",
-            "url": "./images/199.jpg"
+            "url": "./images/200.jpg"
         }
     ],
     "type": "positive",

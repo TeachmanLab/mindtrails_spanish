@@ -1,16 +1,16 @@
 {
-    "header_text": "Citas en línea",
+    "header_text": "Una respuesta tardía",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Citas en línea"
+            "text": "Una respuesta tardía"
         },
         {
             "type": "Media",
-            "url": "./images/190.jpg"
+            "url": "./images/201.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 0
 }

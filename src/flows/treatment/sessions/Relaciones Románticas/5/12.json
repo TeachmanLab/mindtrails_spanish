@@ -1,14 +1,14 @@
 {
-    "header_text": "Temas difíciles",
+    "header_text": "Enviar mensajes de texto a otras personas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Temas difíciles"
+            "text": "Enviar mensajes de texto a otras personas"
         },
         {
             "type": "Media",
-            "url": "./images/208.jpg"
+            "url": "./images/209.jpg"
         }
     ],
     "type": "positive",

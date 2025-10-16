@@ -1,19 +1,19 @@
 {
-    "header_text": "Opiniones fuertes: Comportamientos",
+    "header_text": "Amigo ruidoso: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Los miembros de tu familia tienen opiniones firmes y tú no siempre estás de acuerdo con ellas. Una noche, invitas a un amigo a cenar. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Tu auto se averió y un amigo te va a dejar en una reunión. Cuando te dejan, hacen mucho ruido y todos los que están allí te miran. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Quiero pensar en otra cosa mientras todos hablan, pero recordarme a mí mismo que puedo manejar mis sentimientos y volver a sintonizarme con la conversación.",
-                "Me distraigo y dejo de prestar atención a lo que dice la gente.",
-                "Escucho a mi amigo mientras habla con los miembros de mi familia.",
-                "Quiero cambiar de tema para que podamos hablar de algo menos serio, pero dejo de intentar controlar la conversación.",
-                "Me recuerdo a mí mismo que todos tienen opiniones diferentes."
+                "Le sonrío a mi amigo mientras salgo del auto.",
+                "Evito hacer contacto visual con la gente.",
+                "Siento la necesidad de saltarme la reunión, pero me obligo a enfrentar mis miedos y entrar.",
+                "Quiero seguir disculpándome con las personas en la reunión hasta estar seguro de que no están enojados, pero decido que una vez es suficiente.",
+                "Empiezo a sacar mis notas para la reunión."
             ],
             "Duration": 15000
         }

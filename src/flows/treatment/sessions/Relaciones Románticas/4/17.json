@@ -1,39 +1,16 @@
 {
-    "header_text": "La familia no aprueba a su pareja",
+    "header_text": "Inseguridades de la Mascarilla",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tu familia será escéptica con respecto a tu pareja para siempre?"
+            "text": "Inseguridades de la Mascarilla"
         },
         {
-            "type": "Buttons",
-            "name": "La familia no aprueba a su pareja_Relaciones Románticas_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/204.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "¿Por qué estás completando palabras con letras? Al completar repetidamente las letras que faltan para completar palabras positivas, neutrales o negativas, el cerebro adopta patrones de pensamiento flexibles para reducir el pensamiento rígido."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 5
 }

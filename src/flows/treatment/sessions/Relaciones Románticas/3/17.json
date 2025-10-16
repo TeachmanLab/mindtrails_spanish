@@ -1,14 +1,14 @@
 {
-    "header_text": "Yendo a una boda",
+    "header_text": "Relación a largo plazo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Yendo a una boda"
+            "text": "Relación a largo plazo"
         },
         {
             "type": "Media",
-            "url": "./images/196.jpg"
+            "url": "./images/197.jpg"
         }
     ],
     "type": "positive",

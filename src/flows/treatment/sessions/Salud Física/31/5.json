@@ -1,19 +1,19 @@
 {
-    "header_text": "Serpientes en el parque:Pensamientos",
+    "header_text": "Dando una presentación:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo te convence para dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Tienes que hacer una presentación en una reunión hoy. Cuando te paras frente al grupo, sientes que tus mejillas se calientan y tus manos empiezan a temblar.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Tengo muchas ganas de hablar con mi amigo.",
-                "Aunque he oído que puede haber serpientes en el parque, creo que es poco probable que vea una.",
-                "Realmente no tengo muchas ganas de ir al parque que podría tener serpientes, pero sé que puedo tolerar mis sentimientos de ansiedad.",
-                "¡Me va a morder una serpiente!",
-                "Será agradable caminar por el parque."
+                "Todos verán que me tiemblan las manos.",
+                "Quiero volver a sentarme, pero decido seguir adelante con la presentación sabiendo que mi arduo trabajo dará sus frutos.",
+                "Quiero cubrirme la cara, pero sé que puedo hacerlo aunque sea incómodo.",
+                "He hecho todo lo que he podido para prepararme para esta presentación.",
+                "Es normal sentir un poco de calor cuando estás ansioso por hacer una presentación."
             ],
             "Duration": 15000
         }

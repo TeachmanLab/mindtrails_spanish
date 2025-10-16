@@ -1,22 +1,14 @@
 {
-    "header_text": "Personalidades diferentes",
+    "header_text": "Yendo a una cita",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Eres alguien a quien le gusta estar en casa, mientras que a tu pareja le gusta salir. Quieres quedarte en casa por la noche, pero tu pareja quiere ir a un bar. Piensas que pueden trabajar juntos para encontrar un..."
+            "text": "Vas a salir en una cita esta noche. No conoces muy bien a la persona y sabes que habrá algunos silencios en la conversación. Aunque podría ser incómodo, sabes que te..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Personalidades diferentes_Relaciones Románticas_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "compromiso"
-            ],
-            "missing_letter_count": 2
+            "type": "Entry",
+            "name": "Yendo a una cita_Relaciones Románticas_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",

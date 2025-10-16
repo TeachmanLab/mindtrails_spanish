@@ -1,14 +1,14 @@
 {
-    "header_text": "Escuchando un desacuerdo",
+    "header_text": "Expresar tus sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Anoche, tú y tu pareja tuvieron una discusión. Aunque intentaron mantener la voz baja, sus hijos escucharon. Crees que tus hijos estarán..."
+            "text": "Tú pareja ha estado pasando mucho tiempo con sus amigos últimamente. sientes que ellos prefieren pasar el rato con sus amigos que contigo. Decides decirle a tu pareja cómo te..."
         },
         {
             "type": "Entry",
-            "name": "Escuchando un desacuerdo_Relaciones Románticas_entry1"
+            "name": "Expresar tus sentimientos_Relaciones Románticas_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",

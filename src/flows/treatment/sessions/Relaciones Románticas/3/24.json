@@ -1,25 +1,16 @@
 {
-    "header_text": "Vaso de agua",
+    "header_text": "Nuevo seguidor atractivo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras estás en una cita, accidentalmente derramas un vaso de agua. Te sientes ligeramente avergonzado mientras tu cita te ayuda a limpiar el agua. Cuando todo está seco, sientes que el resto de la cita probablemente será..."
+            "text": "Nuevo seguidor atractivo"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Vaso de agua_Relaciones Románticas_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "horrible"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/199.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

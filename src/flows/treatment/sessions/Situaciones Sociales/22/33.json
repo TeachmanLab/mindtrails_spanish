@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Extrañado y amado.",
-                "Como si no pudieras respirar."
+                "Como si no pudieras respirar.",
+                "Extrañado y amado."
             ],
             "column_Count": 1,
             "correct_value": "Extrañado y amado."

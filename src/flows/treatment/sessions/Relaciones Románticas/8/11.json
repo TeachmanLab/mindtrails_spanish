@@ -1,27 +1,17 @@
 {
-    "header_text": "Nueva pareja",
+    "header_text": "Invitando a alguien a salir",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "El cumpleaños de una prima el mes que viene y vas a ir a una gran reunión familiar. Vas a traer a tu pareja al evento y será su primera vez conociendo a tu familia. Cuando piensas en que todos se conocerán, piensas que todo irá..."
+            "text": "Estás en un largo viaje en tren y realmente conectas con una persona atractiva que está sentada a tu lado. A medida que el viaje termina, piensas en lo mucho que te gustaría volver a ver a esta persona, pero te preocupa que puedas parecer demasiado..."
         },
         {
             "type": "Entry",
-            "name": "Nueva pareja_Relaciones Románticas_entry1"
+            "name": "Invitando a alguien a salir_Relaciones Románticas_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Al igual que un músculo, tu cerebro fortalece las vías que más utiliza. Por eso practicar muchas situaciones te ayuda a cambiar tus hábitos de pensamiento."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

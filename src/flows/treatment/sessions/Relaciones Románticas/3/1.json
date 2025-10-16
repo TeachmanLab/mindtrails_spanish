@@ -1,14 +1,14 @@
 {
-    "header_text": "Día especial",
+    "header_text": "Invitando tu amigo a una cita",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Día especial"
+            "text": "Invitando tu amigo a una cita"
         },
         {
             "type": "Media",
-            "url": "./images/191.jpg"
+            "url": "./images/192.jpg"
         }
     ],
     "type": "positive",

@@ -1,14 +1,14 @@
 {
-    "header_text": "Invitando a alguien a salir",
+    "header_text": "Planes de vacaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Invitando a alguien a salir"
+            "text": "Planes de vacaciones"
         },
         {
             "type": "Media",
-            "url": "./images/178.jpg"
+            "url": "./images/147.jpg"
         }
     ],
     "type": "positive",

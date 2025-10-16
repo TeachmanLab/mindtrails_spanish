@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Vas a caerte.",
-                "Vas a sobrepasarla y seguir esquiando cuesta abajo."
+                "Vas a sobrepasarla y seguir esquiando cuesta abajo.",
+                "Vas a caerte."
             ],
             "column_Count": 1,
             "correct_value": "Vas a sobrepasarla y seguir esquiando cuesta abajo."

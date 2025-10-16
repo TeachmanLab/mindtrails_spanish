@@ -1,20 +1,20 @@
 {
-    "header_text": "Temas difíciles",
+    "header_text": "Enviar mensajes de texto a otras personas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tu pareja han estado juntos por mucho tiempo y están lidiando con una discusión recurrente. Amas a tu pareja, pero cada vez que surge este tema, siempre están en desacuerdo, lo que te hace preguntar si realmente son compatibles. Recuerdas que es normal tener desacuerdos y que muchas parejas tienen conversaciones..."
+            "text": "Tu pareja es muy extrovertida y tienen muchos amigos. Realmente disfrutas el tiempo que pasas con tu pareja, pero a veces te preguntas si preferiría estar con sus otros amigos. Al reflexionar sobre tu relación con tu pareja hasta ahora, te sientes... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Temas difíciles_Relaciones Románticas_puzzle1",
+            "name": "Enviar mensajes de texto a otras personas_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "desafiantes"
+                "seguro"
             ],
             "missing_letter_count": 2
         }

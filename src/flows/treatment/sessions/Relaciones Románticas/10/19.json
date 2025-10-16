@@ -1,17 +1,16 @@
 {
-    "header_text": "Tomando una decisión",
+    "header_text": "Preocupaciones por las relaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tu pareja tienen que tomar una decisión importante. La conversación se intensa y se convierte en una discusión que te hace preguntarte si podrán llegar a un compromiso. Te recuerdas a ti mismo que las conversaciones difíciles pueden ser una buena manera para ambos de aprender más sobre la comunicación..."
+            "text": "Preocupaciones por las relaciones"
         },
         {
-            "type": "Entry",
-            "name": "Tomando una decisión_Relaciones Románticas_entry1"
+            "type": "Media",
+            "url": "./images/186.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 7
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

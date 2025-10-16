@@ -1,14 +1,14 @@
 {
-    "header_text": "Tu vejez",
+    "header_text": "Decepción de aniversario",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te imaginas a ti mismo solo cuando seas mayor?"
+            "text": "¿Esperas que tu conversación con tu pareja termine en una pelea?"
         },
         {
             "type": "Buttons",
-            "name": "Tu vejez_Relaciones Románticas_comp_question",
+            "name": "Decepción de aniversario_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
@@ -24,6 +24,6 @@
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

@@ -1,17 +1,17 @@
 {
-    "header_text": "Familia grande",
+    "header_text": "Invitando tu Amigo a una Cita",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu prometido tiene hijos, mientras que tú no. Estás tratando de adaptarte a vivir con niños más pequeños y a cómo tener relación con ellos. Piensas que serás capaz de desarrollar una rutina y adaptarte a esta nueva dinámica... "
+            "text": "Eres buen amigo de alguien desde hace algunos años y realmente valoras tu relación. Te sientes muy atraído por tu amigo, pero no estás seguro de cómo admitir tus sentimientos afectaría tu..."
         },
         {
             "type": "Entry",
-            "name": "Familia grande_Relaciones Románticas_entry1"
+            "name": "Invitando tu Amigo a una Cita_Relaciones Románticas_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 9
 }

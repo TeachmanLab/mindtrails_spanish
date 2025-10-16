@@ -1,27 +1,16 @@
 {
-    "header_text": "Por primera vez",
+    "header_text": "Solo amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¡Te han invitado a salir en una cita por primera vez en mucho tiempo! Te sientes nervioso por esta experiencia un tanto nueva y temes hacer algo embarazoso. Cuando piensas en la cita, te sientes..."
+            "text": "Solo amigo"
         },
         {
-            "type": "Entry",
-            "name": "Por primera vez_Relaciones Románticas_entry1"
+            "type": "Media",
+            "url": "./images/237.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Recuerda, MindTrails no solo cambia tu perspectiva sobre las situaciones que estás leyendo aquí, ¡sino también tu perspectiva en la vida real!"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 5
 }

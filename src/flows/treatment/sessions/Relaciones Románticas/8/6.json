@@ -1,16 +1,16 @@
 {
-    "header_text": "Mensajes en redes sociales",
+    "header_text": "Conversaciones incómodas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mensajes en redes sociales"
+            "text": "Conversaciones incómodas"
         },
         {
             "type": "Media",
-            "url": "./images/223.jpg"
+            "url": "./images/224.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 2
 }

@@ -1,25 +1,25 @@
 {
-    "header_text": "Estrés en tu relación",
+    "header_text": "Yendo a una boda",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Una vez que la boda haya terminado, no prevés que este estrés continúe, y después de todo lo que ha sucedido, piensas que tú y tu cónyuge volverán a sentirse..."
+            "text": "Estás muy emocionado de ir a la boda de tu amigo. Cuando llegas allí, notas que la mayoría de la gente tiene un acompañante y tú no. Recuerdas lo feliz que estás por tu amigo y lo pasas genial..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Estrés en tu relación_Relaciones Románticas_puzzle_word2",
+            "name": "Yendo a una boda_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "cercanos"
+                "celebrando"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 4
 }

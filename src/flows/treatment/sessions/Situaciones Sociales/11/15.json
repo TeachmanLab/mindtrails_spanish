@@ -1,10 +1,10 @@
 {
-    "header_text": "Respondiendo una pregunta: Comportamientos",
+    "header_text": "Granizado derramado: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En una reunión con algunos colegas y su jefe, su jefe le pide que responda una pregunta. Dices tu mejor respuesta y tus companeros de trabajo guardan silencio.\n\nTómese 30 segundos para escribir diferentes comportamientos. El siguiente botón aparecerá automáticamente.\n\nComportamientos que podrías realizar en este momento:"
+            "text": "Tú y tus amigos están saliendo a cenar. Llegan tus alimentos y bebidas y accidentalmente derramas tu bebida en la parte delantera de tu nueva camisa blanca.\n\nTómese 30 segundos para escribir diferentes comportamientos. El siguiente botón aparecerá automáticamente.\n\nComportamientos que podrías realizar en este momento:"
         },
         {
             "type": "Entry"

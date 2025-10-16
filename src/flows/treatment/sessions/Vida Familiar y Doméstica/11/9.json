@@ -1,19 +1,19 @@
 {
-    "header_text": "Familia molesta: Sentimientos",
+    "header_text": "Miembro de la familia de edad avanzada: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en casa de vacaciones y notas que tus hermanos están molestos entre ellos. Te dan una respuesta breve cuando intentas hablar con ellos.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Vas a la casa de tus padres por primera vez en mucho tiempo y notas que tu padre parece mucho menos saludable de lo que recuerdas. Ninguno de tus padres menciona nada sobre su salud.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me siento tranquilo aunque ellos estén un poco molestos.",
-                "Me entristece saber que mis hermanos discutieron, pero sé que el conflicto es parte de las relaciones saludables.",
-                "Estoy ansioso por la tensión entre ellos.",
-                "Me siento culpable, pero me doy cuenta de que no hice nada malo.",
-                "Estoy seguro de que resolverán sus diferencias."
+                "Me siento ansioso y empiezo a pensar demasiado en lo que podría estar mal, pero recuerdo que no puedo controlar su salud.",
+                "Empiezo a sentirme enojado por cómo está envejeciendo, pero sé que esto es parte de la vida y no puedo cambiarlo.",
+                "Estoy agradecido de poder pasar tiempo con mi padre.",
+                "Me inquieta la apariencia de mi padre.",
+                "Me emociona que mi padre esté entablando una conversación."
             ],
             "Duration": 15000
         }

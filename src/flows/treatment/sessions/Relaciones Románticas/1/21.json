@@ -1,25 +1,25 @@
 {
-    "header_text": "Cita con alguien nuevo",
+    "header_text": "Priorización de responsabilidades",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes una cita a las 8 p.m. en un bar local. Llegas a tiempo y te das cuenta de que tu cita aún no ha llegado. Reflexionando sobre su última conversación mientras esperas una mesa, recuerdas que a tu cita le pareciste..."
+            "text": "Tus amigos te invitan a cenar y tienes muchas ganas de ir con ellos. Te das cuenta de que no puedes ir porque tienes que trabajar. Cuando se lo digas a tus amigos, se... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Cita con alguien nuevo_Relaciones Románticas_puzzle1",
+            "name": "Priorización de responsabilidades_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "interesante"
+                "molestarán"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 6
 }

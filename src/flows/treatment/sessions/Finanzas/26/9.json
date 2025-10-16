@@ -1,19 +1,19 @@
 {
-    "header_text": "Responsibilidad financiera: Sentimientos",
+    "header_text": "Administrar facturas: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Su pareja estuvo en el hospital recientemente y usted ha estado ayudando a pagar sus facturas médicas. Te preguntas qué significará esto para tus finanzas en el futuro.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "El pago de su hipoteca vence pronto y también tendrá que pagar algunas facturas médicas inesperadas. Tu presupuesto es ajustado este mes y piensas en cómo podrás afrontar todo esto.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Tengo miedo de lo que esto significa para mis finanzas, pero confío en que lo resolveremos.",
-                "Estoy encantada de que mi pareja haya salido del hospital.",
-                "Confío en nuestro plan para manejar esta situación.",
-                "La incertidumbre de esta situación es incómoda, pero puedo tolerarla.",
-                "Me aterroriza pensar que nunca nos recuperaremos financieramente de esto."
+                "Me siento completamente bajo el agua.",
+                "Confío en mi capacidad para encontrar una solución.",
+                "Estoy orgulloso de mí mismo por manejar una situación financiera difícil.",
+                "Estoy realmente frustrado porque todo esto está sucediendo al mismo tiempo y reconozco que está bien sentirse así.",
+                "Me preocupa no poder ahorrar dinero este mes, pero tengo la esperanza de poder ahorrar en el futuro."
             ],
             "Duration": 15000
         }

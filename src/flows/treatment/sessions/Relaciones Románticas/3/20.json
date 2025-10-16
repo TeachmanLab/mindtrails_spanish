@@ -1,16 +1,16 @@
 {
-    "header_text": "Relación a largo plazo",
+    "header_text": "Vaso de agua",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Relación a largo plazo"
+            "text": "Vaso de agua"
         },
         {
             "type": "Media",
-            "url": "./images/197.jpg"
+            "url": "./images/198.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 6
 }

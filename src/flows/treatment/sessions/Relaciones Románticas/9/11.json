@@ -1,14 +1,14 @@
 {
-    "header_text": "Escuchando un desacuerdo",
+    "header_text": "Expresar tus sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Escuchando un desacuerdo"
+            "text": "Expresar tus sentimientos"
         },
         {
             "type": "Media",
-            "url": "./images/151.jpg"
+            "url": "./images/228.jpg"
         }
     ],
     "type": "positive",

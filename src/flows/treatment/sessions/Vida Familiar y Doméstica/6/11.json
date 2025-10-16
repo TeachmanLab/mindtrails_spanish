@@ -1,10 +1,10 @@
 {
-    "header_text": "Niñera: Escribe Alguno Sentimientos",
+    "header_text": "Balancear responsibilidades: Escribe Alguno Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás cuidando al hijo de una amiga y miras televisión mientras ella duerme. Afuera está oscuro y de repente oyes ruidos contra la ventana.\n\nTómese 30 segundos para escribir diferentes sentimientos. El siguiente botón aparecerá automáticamente. \n\nSentimientos en el momento y cómo manejarías cualquier sentimiento negativo:"
+            "text": "Tienes muchas tareas domésticas que hacer esta noche y también tienes un gran proyecto que debes entregar mañana. Ambos tienen que hacerse y usted piensa en cómo manejará todo.\n\nTómese 30 segundos para escribir diferentes sentimientos. El siguiente botón aparecerá automáticamente. \n\nSentimientos en el momento y cómo manejarías cualquier sentimiento negativo:"
         },
         {
             "type": "Entry"

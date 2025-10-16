@@ -1,19 +1,19 @@
 {
-    "header_text": "Vidrio roto: Sentimientos",
+    "header_text": "Dando una presentación: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en un restaurante tranquilo con muchos miembros de tu familia para cenar. Mientras tomas un trago de agua, accidentalmente dejas caer el vaso al suelo y se rompe.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Tienes que hacer una presentación en una reunión hoy. Cuando te paras frente al grupo, sientes que tus mejillas se calientan y tus manos empiezan a temblar.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Siento que arruiné la velada, pero todos se olvidarán de los cristales rotos.",
-                "Me siento culpable por haber roto un vaso, pero sé que no lo hice a propósito.",
-                "Me da vergüenza haber llamado la atención sobre mí.",
-                "Estoy feliz de estar comiendo con mi familia.",
-                "Estoy seguro de que la camarera aceptará mis disculpas."
+                "Tengo miedo de que sentir calor en las mejillas signifique que me voy a desmayar, pero respiraré profundamente unas cuantas veces y esta sensación pasará.",
+                "Me pone nervioso que la gente pueda ver que me tiemblan las manos, pero probablemente no lo noten tanto como a mí.",
+                "Me preocupa que me vaya a desmayar.",
+                "Me alivia conocer bien este tema.",
+                "Estoy contento con lo mucho que me he preparado para esta presentación."
             ],
             "Duration": 15000
         }

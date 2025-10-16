@@ -1,19 +1,19 @@
 {
-    "header_text": "Reírse de un chiste:Pensamientos",
+    "header_text": "Nuevo mercado:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Un amigo cuenta un chiste gracioso y te empiezas a reír mucho. Mientras te ríes, sientes una opresión incómoda en el pecho que nunca antes habías sentido. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Estás en una nueva tienda de comestibles y buscas pan. De repente notas que tu corazón late rápidamente y con fuerza.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Desearía que este sentimiento en mi pecho desapareciera, pero puedo soportarlo hasta que desaparezca.",
-                "Mi amigo es hilarante.",
-                "¡No puedo recuperar el aliento!",
-                "Esta tensión es realmente incómoda, pero sé que es por reírme mucho.",
-                "Ése es el chiste más divertido que he oído jamás."
+                "Probablemente siento que mi corazón late porque estoy emocionado de probar esta nueva tienda.",
+                "Los latidos de mi corazón me distraen, pero me concentraré en mi lista de compras para mantenerme firme.",
+                "Me pregunto si estoy realmente enfermo, pero sé que este sentimiento no durará para siempre.",
+                "¡Debo estar teniendo un ataque de pánico!",
+                "Me gusta el desafío de encontrar mis comidas favoritas en esta nueva tienda."
             ],
             "Duration": 15000
         }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Dando una presentación: Sentimientos",
+    "header_text": "Serpientes en el parque: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes que hacer una presentación en una reunión hoy. Cuando te paras frente al grupo, sientes que tus mejillas se calientan y tus manos empiezan a temblar.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Tu amigo te convence para dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Tengo miedo de que sentir calor en las mejillas signifique que me voy a desmayar, pero respiraré profundamente unas cuantas veces y esta sensación pasará.",
-                "Me pone nervioso que la gente pueda ver que me tiemblan las manos, pero probablemente no lo noten tanto como a mí.",
-                "Me preocupa que me vaya a desmayar.",
-                "Me alivia conocer bien este tema.",
-                "Estoy contento con lo mucho que me he preparado para esta presentación."
+                "Tengo miedo de ir al parque, pero luego me doy cuenta de que nunca he oído que alguien haya sido mordido en ese parque.",
+                "Estoy ansioso por contarle a mi amigo lo que pasó hoy en el trabajo.",
+                "Estoy emocionado de ponerme al día con mi amigo.",
+                "Estoy ansioso pensando en que me muerda una serpiente, pero sepan que estaré bien en esta caminata.",
+                "Me preocupa mucho ver una serpiente."
             ],
             "Duration": 15000
         }

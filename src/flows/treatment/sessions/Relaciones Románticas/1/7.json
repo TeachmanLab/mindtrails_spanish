@@ -4,13 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "La cita"
+            "text": "La impresión de tu cita sobre ti probablemente fue..."
         },
         {
-            "type": "Media",
-            "url": "./images/176.jpg"
+            "type": "Buttons",
+            "name": "La cita_Relaciones Románticas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Negativa",
+                "Positiva"
+            ],
+            "column_Count": 1,
+            "correct_value": "Positiva"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
-    "scenario_num": 2
+    "scenario_num": 1
 }

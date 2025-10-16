@@ -1,14 +1,14 @@
 {
-    "header_text": "Relaciones futuras",
+    "header_text": "Invitando a alguien a salir",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Relaciones futuras"
+            "text": "Invitando a alguien a salir"
         },
         {
             "type": "Media",
-            "url": "./images/177.jpg"
+            "url": "./images/178.jpg"
         }
     ],
     "type": "positive",

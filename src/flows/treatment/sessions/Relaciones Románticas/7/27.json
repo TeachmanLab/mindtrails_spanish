@@ -1,14 +1,14 @@
 {
-    "header_text": "Prepararse para una cita",
+    "header_text": "Personalidades diferentes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Prepararse para una cita"
+            "text": "Personalidades diferentes"
         },
         {
             "type": "Media",
-            "url": "./images/220.jpg"
+            "url": "./images/221.jpg"
         }
     ],
     "type": "positive",

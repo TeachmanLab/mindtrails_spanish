@@ -1,17 +1,17 @@
 {
-    "header_text": "sin notificaciones",
+    "header_text": "Mensajes en redes sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Ya es tarde en el día y no has hablado con tu pareja. No crees que hayas hecho nada para molestarlos, pero parece que te están ignorando. Te das cuenta de que probablemente están teniendo una semana..."
+            "text": "Uno de tus amigos ha comenzado a enviarte imágenes chistosos por redes sociales. Hoy notas que abrieron tu última imagen y no respondieron. Deben haberse..."
         },
         {
             "type": "Entry",
-            "name": "sin notificaciones_Relaciones Románticas_entry1"
+            "name": "Mensajes en redes sociales_Relaciones Románticas_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 1
 }

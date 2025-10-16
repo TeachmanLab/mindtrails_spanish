@@ -1,10 +1,10 @@
 {
-    "header_text": "Araña perdida: Escribe Alguno Sentimientos",
+    "header_text": "Serpientes en el parque: Escribe Alguno Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando entras a la ducha, ves una enorme arana en la pared. Te das la vuelta por un segundo, miras hacia atrás y te das cuenta de que ya no está. \n\nTómese 30 segundos para escribir diferentes sentimientos. El siguiente botón aparecerá automáticamente. \n\nSentimientos en el momento y cómo manejarías cualquier sentimiento negativo:"
+            "text": "Tu amigo te convence para dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nTómese 30 segundos para escribir diferentes sentimientos. El siguiente botón aparecerá automáticamente. \n\nSentimientos en el momento y cómo manejarías cualquier sentimiento negativo:"
         },
         {
             "type": "Entry"

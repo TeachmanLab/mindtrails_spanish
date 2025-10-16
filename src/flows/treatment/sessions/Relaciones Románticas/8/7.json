@@ -1,17 +1,17 @@
 {
-    "header_text": "Mensajes en redes sociales",
+    "header_text": "Conversaciones incómodas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Uno de tus amigos ha comenzado a enviarte imágenes chistosos por redes sociales. Hoy notas que abrieron tu última imagen y no respondieron. Deben haberse..."
+            "text": "Invitaste a tu cónyuge a pasar el rato contigo y tus amigos para que todos pudieran conocerse. Más tarde, tu cónyuge sacó a relucir un tema controvertido y tus amigos parecían no estar seguros de cómo responder. Sabes que tus amigos reconocen que muchas personas, incluidos tú y tu cónyuge, tienen opiniones..."
         },
         {
             "type": "Entry",
-            "name": "Mensajes en redes sociales_Relaciones Románticas_entry1"
+            "name": "Conversaciones incómodas_Relaciones Románticas_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 2
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Luchando con una presentación:Pensamientos",
+    "header_text": "Trabajar en grupos:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Ha estado luchando por armar esta presentación, pero aún no se ha comunicado con su jefe al respecto. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Tu jefe les dice a todos que mañana os dividiréis en pequeños grupos para planificar nuevos proyectos de trabajo. También dice que tendrás que elegir tu grupo, pero te das cuenta de que no tienes amigos cercanos en tu lugar de trabajo.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Mi trabajo estará en riesgo si estropeo esta presentación.",
-                "No haré mi mejor esfuerzo hoy, pero a veces se me permite tener un día libre.",
-                "Mi jefe pensará que mi presentación necesita mejoras y yo estaré de acuerdo con eso.",
-                "Soy muy trabajadora y mi jefe podrá notarlo.",
-                "Mis colegas pensarán que me preparé bien para la presentación."
+                "Podría hacer un comentario que el grupo considere tonto, pero probablemente olvidarán lo que dije después de la discusión.",
+                "La gente estará feliz de trabajar conmigo.",
+                "Terminaré en un grupo de alguna manera y estará bien, incluso si no es mi primera opción.",
+                "Todos elegirán su grupo antes de que yo llegue y no podré encontrar un grupo.",
+                "Haré buenas contribuciones a la discusión del grupo."
             ],
             "Duration": 15000
         }

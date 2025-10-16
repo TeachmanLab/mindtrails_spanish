@@ -1,16 +1,16 @@
 {
-    "header_text": "Invitando tu amigo a una cita",
+    "header_text": "Una nueva relación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Invitando tu amigo a una cita"
+            "text": "Una nueva relación"
         },
         {
             "type": "Media",
-            "url": "./images/192.jpg"
+            "url": "./images/193.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 1
 }

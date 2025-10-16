@@ -1,14 +1,14 @@
 {
-    "header_text": "Nuevo seguidor atractivo",
+    "header_text": "Primera reunión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Esta persona de tu edad piensa que eres raro por tener sólo unos pocos seguidores?"
+            "text": "¿Crees que causarás una mala impresión a tu nuevo compañero de trabajo?"
         },
         {
             "type": "Buttons",
-            "name": "Nuevo seguidor atractivo_Relaciones Románticas_comp_question",
+            "name": "Primera reunión_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

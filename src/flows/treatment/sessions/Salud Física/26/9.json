@@ -1,19 +1,19 @@
 {
-    "header_text": "Reírse de un chiste: Sentimientos",
+    "header_text": "Nuevo mercado: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Un amigo cuenta un chiste gracioso y te empiezas a reír mucho. Mientras te ríes, sientes una opresión incómoda en el pecho que nunca antes habías sentido. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Estás en una nueva tienda de comestibles y buscas pan. De repente notas que tu corazón late rápidamente y con fuerza.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me preocupa que este sentimiento signifique que algo anda mal en mí, pero sé que probablemente se deba a que me reí mucho.",
-                "Me siento muy conectado con mi amigo.",
-                "Tengo mucho miedo de lo que significa este sentimiento.",
-                "Me encanta cuando mis amigos me hacen reír.",
-                "Me pone nervioso saber por qué tengo opresión en el pecho, pero luego me recuerdo a mí mismo que esto es normal."
+                "Estoy emocionado de ver lo que tiene esta nueva tienda de comestibles.",
+                "Estoy feliz de haber decidido finalmente venir aquí.",
+                "Tengo miedo de este sentimiento en mi pecho, pero pienso en todas las veces que mi corazón latió con fuerza y ​​terminé bien.",
+                "Estoy nervioso por mi corazón, pero recuerda que a veces mi corazón late rápido cuando estoy emocionado.",
+                "Tengo miedo de que mi corazón palpite, significa que algo malo está sucediendo."
             ],
             "Duration": 15000
         }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Bebida derramada: Comportamientos",
+    "header_text": "Vidrio roto: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes una cita en una cafetería con una persona que realmente te gusta. Mientras regresas a la mesa, tropiezas, te caes y derramas café por todos lados.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Estás en un restaurante tranquilo con muchos miembros de tu familia para cenar. Mientras tomas un trago de agua, accidentalmente dejas caer el vaso al suelo y se rompe.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Limpio y compro otro café.",
-                "Tengo ganas de llorar, pero respiro hondo.",
-                "Me río con mi cita por mi derrame.",
-                "Siento la necesidad de evitar hablar con mi cita después de esto, pero decido preguntarles si quieren volver a salir.",
-                "Termino la cita antes porque me da mucha vergüenza."
+                "Le pregunto si puedo ayudar a limpiar.",
+                "Pido disculpas a los camareros y les agradezco su ayuda.",
+                "Quiero salir del restaurante, pero quedarme y pasar un buen rato.",
+                "Cuando llega el camarero, culpo del derrame a otro miembro de la familia.",
+                "Quiero llorar, pero respiro hondo y recuerdo que esto sucede."
             ],
             "Duration": 15000
         }

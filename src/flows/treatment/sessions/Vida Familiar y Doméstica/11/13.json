@@ -1,19 +1,19 @@
 {
-    "header_text": "Familia molesta: Comportamientos",
+    "header_text": "Miembro de la familia de edad avanzada: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en casa de vacaciones y notas que tus hermanos están molestos entre ellos. Te dan una respuesta breve cuando intentas hablar con ellos.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Vas a la casa de tus padres por primera vez en mucho tiempo y notas que tu padre parece mucho menos saludable de lo que recuerdas. Ninguno de tus padres menciona nada sobre su salud.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Quiero obligarlos a resolverlo ahora mismo, pero sal a caminar y recuerda que pronto estarán bien.",
-                "Salgo a caminar para tomar algo de espacio de la situación.",
-                "Quiero preguntarles si están discutiendo por mi culpa, pero decido que estoy bien sin saber los detalles.",
-                "Llamo a mis amigos para ponerme al día.",
-                "Les digo que están siendo egoístas."
+                "Siento la necesidad de preguntarle sobre su salud, pero respiro hondo y escucho lo que habla mi familia ahora sabiendo que hay una razón por la que no me han dicho nada.",
+                "Empiezo a conversar con mi familia.",
+                "Evito pensar en su salud.",
+                "Quiero interrogar a la familia sobre su salud, pero decido disfrutar de la reunión.",
+                "Me río de una tontería que dijo mi padre."
             ],
             "Duration": 15000
         }

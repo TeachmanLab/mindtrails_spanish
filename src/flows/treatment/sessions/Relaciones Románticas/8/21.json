@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Amigos en las relaciones"
+            "text": "Después de un tiempo, te das cuenta de que es muy normal no estar en una relación. Piensas que disfrutas estar soltero y que la persona adecuada aparecerá cuando estés... "
         },
         {
-            "type": "Media",
-            "url": "./images/228.jpg"
+            "type": "Entry",
+            "name": "Amigos en las relaciones_Relaciones Románticas_entry2"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 9
+    "scenario_num": 8
 }

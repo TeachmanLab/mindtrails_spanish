@@ -1,20 +1,20 @@
 {
-    "header_text": "Abrirse",
+    "header_text": "sintiendote apurado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente te has sentido más ansioso de los habitual, y esto está afectando tu capacidad para hacer cosas con tu pareja. Nunca le has contado a tu pareja sobre tu ansiedad, y te preguntas si te juzará por ello. Cuando hablas con tu pareja sobre tu salud mental, esperas que sea... "
+            "text": "Estás soltero y bastante contento con eso. Un día, tus padres comienzan a presionarte y te dicen que estás quedándote sin tiempo para conocer a alguien. Te dices a ti mismo que mientras estés contento, no hay necesidad de..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Abrirse_Relaciones Románticas_puzzle1",
+            "name": "sintiendote apurado_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "comprensiva"
+                "apresurarse"
             ],
             "missing_letter_count": 2
         }

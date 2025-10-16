@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Estás insoportablemente ansiosos.",
-                "eres capaces de disfrutar la conversación."
+                "eres capaces de disfrutar la conversación.",
+                "Estás insoportablemente ansiosos."
             ],
             "column_Count": 1,
             "correct_value": "eres capaces de disfrutar la conversación."

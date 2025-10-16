@@ -4,13 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estrés en tu relación"
+            "text": "¿Crees que tú y tu pareja se sentirán más distanciados después del matrimonio?"
         },
         {
-            "type": "Media",
-            "url": "./images/195.jpg"
+            "type": "Buttons",
+            "name": "Estrés en tu relación_Relaciones Románticas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
-    "scenario_num": 4
+    "scenario_num": 3
 }

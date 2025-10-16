@@ -1,16 +1,16 @@
 {
-    "header_text": "Superarlo",
+    "header_text": "Amigos en las relaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Superarlo"
+            "text": "Amigos en las relaciones"
         },
         {
             "type": "Media",
-            "url": "./images/227.jpg"
+            "url": "./images/228.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

@@ -1,25 +1,25 @@
 {
-    "header_text": "Citas en línea",
+    "header_text": "Relación a distancia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo te ha convencido a inscribirte en un sitio de citas en línea. Revisas tu perfil y aunque crees que refleja muy bien quién eres, te preocupa si muestra los tipos de cualidades que la gente busca en línea. Pensando en tus posibilidades de encontrar a alguien en línea, crees que tus posibilidades de conocer a alguien pronto son... "
+            "text": "Tu pareja ha decidido volver a estudiar en un programa prestigioso en otro estado. Amas mucho a tu pareja, pero sabes que las relaciones a larga distancia pueden ser... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Citas en línea_Relaciones Románticas_puzzle1",
+            "name": "Relación a distancia_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "altas"
+                "difíciles"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Vidrio roto: Comportamientos",
+    "header_text": "Dando una presentación: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en un restaurante tranquilo con muchos miembros de tu familia para cenar. Mientras tomas un trago de agua, accidentalmente dejas caer el vaso al suelo y se rompe.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Tienes que hacer una presentación en una reunión hoy. Cuando te paras frente al grupo, sientes que tus mejillas se calientan y tus manos empiezan a temblar.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Le pregunto si puedo ayudar a limpiar.",
-                "Pido disculpas a los camareros y les agradezco su ayuda.",
-                "Quiero salir del restaurante, pero quedarme y pasar un buen rato.",
-                "Cuando llega el camarero, culpo del derrame a otro miembro de la familia.",
-                "Quiero llorar, pero respiro hondo y recuerdo que esto sucede."
+                "Hablo con voz fuerte.",
+                "Sonrío y comienzo mi presentación.",
+                "Le pregunto a mi jefe si puedo presentarme otro día.",
+                "Considero fingir que estoy enfermo para no tener que presentar, pero me reto a mí mismo a hacer la presentación de todos modos.",
+                "Quiero ir al baño y mojarme la cara con agua, pero decido volver a concentrarme en mi entorno para relajarme y poder."
             ],
             "Duration": 15000
         }

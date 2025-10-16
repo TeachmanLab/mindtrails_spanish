@@ -1,19 +1,19 @@
 {
-    "header_text": "Puntos de vista opuestos: Comportamientos",
+    "header_text": "Persona atractiva en las redes sociales.: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tanto usted como su pareja tienen opiniones firmes y no siempre están de acuerdo. Una noche, durante la cena, entablas una acalorada discusión sobre un tema que te apasiona.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Mientras navegas por una aplicación de citas, ves a una persona atractiva que conociste en el supermercado la semana pasada. Decides que te guste su perfil. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Explico mis puntos de vista con calma y claridad.",
-                "Quiero gritarle a mi pareja, pero me tomo unos minutos para calmarme antes de volver a la conversación.",
-                "Intento ver las cosas desde la perspectiva de mi pareja para entender de dónde vienen.",
-                "Quiero encerrarme en mi habitación, pero decido que evitar a mi pareja no será útil a largo plazo.",
-                "Amenazo con romper con mi pareja si no está de acuerdo conmigo."
+                "Quiero cambiar algunas de mis imágenes, pero mantenerlas igual.",
+                "Le cuento a mi amigo lo que me gustó su perfil.",
+                "Les envío un mensaje para iniciar la conversación.",
+                "Quiero desactivar mi cuenta, pero decido mantenerla.",
+                "Elimino todas las imágenes que puedan resultar embarazosas."
             ],
             "Duration": 15000
         }

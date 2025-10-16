@@ -1,19 +1,19 @@
 {
-    "header_text": "Vidrio roto:Pensamientos",
+    "header_text": "Dando una presentación:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en un restaurante tranquilo con muchos miembros de tu familia para cenar. Mientras tomas un trago de agua, accidentalmente dejas caer el vaso al suelo y se rompe.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Tienes que hacer una presentación en una reunión hoy. Cuando te paras frente al grupo, sientes que tus mejillas se calientan y tus manos empiezan a temblar.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Mi ropa está empapada, pero puedo ir al baño y secarla.",
-                "Estoy seguro de que esta no es la primera vez que este restaurante tiene que lidiar con un vaso roto.",
-                "Soy una persona tan descuidada.",
-                "El camarero está molesto, pero probablemente superará ese sentimiento pronto.",
-                "Pienso en cómo ayudaré a limpiar esto."
+                "Todos verán que me tiemblan las manos.",
+                "Quiero volver a sentarme, pero decido seguir adelante con la presentación sabiendo que mi arduo trabajo dará sus frutos.",
+                "Quiero cubrirme la cara, pero sé que puedo hacerlo aunque sea incómodo.",
+                "He hecho todo lo que he podido para prepararme para esta presentación.",
+                "Es normal sentir un poco de calor cuando estás ansioso por hacer una presentación."
             ],
             "Duration": 15000
         }

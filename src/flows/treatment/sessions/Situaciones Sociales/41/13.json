@@ -1,19 +1,19 @@
 {
-    "header_text": "Marcado en una foto: Comportamientos",
+    "header_text": "Opiniones fuertes: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tus amigos tomaron algunas fotografías juntos. Al día siguiente, recibes una notificación de que te etiquetaron en una publicación en las redes sociales. No te gusta cómo te ves en la foto.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Los miembros de tu familia tienen opiniones firmes y tú no siempre estás de acuerdo con ellas. Una noche, invitas a un amigo a cenar. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Quiero fingir que la imagen no existe, pero decido poner un comentario agradable en su lugar.",
-                "Publico una foto de hace unas semanas donde me gusta mucho cómo me veo.",
-                "Le digo a mi amigo que fue una buena idea publicar una foto de todos.",
-                "Quiero preguntarles a mis amigos si creen que me veo bien, pero decido que me veo bien por mi cuenta.",
-                "Dejo un comentario sobre lo que me da vergüenza."
+                "Quiero pensar en otra cosa mientras todos hablan, pero recordarme a mí mismo que puedo manejar mis sentimientos y volver a sintonizarme con la conversación.",
+                "Me distraigo y dejo de prestar atención a lo que dice la gente.",
+                "Escucho a mi amigo mientras habla con los miembros de mi familia.",
+                "Quiero cambiar de tema para que podamos hablar de algo menos serio, pero dejo de intentar controlar la conversación.",
+                "Me recuerdo a mí mismo que todos tienen opiniones diferentes."
             ],
             "Duration": 15000
         }

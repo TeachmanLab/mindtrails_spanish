@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Habrán permanecido cercanos aunque hayan desarrollado algunos intereses diferentes.",
-                "Se habrán distanciado y realmente no se entenderán mutuamente."
+                "Se habrán distanciado y realmente no se entenderán mutuamente.",
+                "Habrán permanecido cercanos aunque hayan desarrollado algunos intereses diferentes."
             ],
             "column_Count": 1,
             "correct_value": "Se habrán distanciado y realmente no se entenderán mutuamente."

@@ -1,19 +1,19 @@
 {
-    "header_text": "Administrar facturas: Sentimientos",
+    "header_text": "El regalo de cumpleaños: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "El pago de su hipoteca vence pronto y también tendrá que pagar algunas facturas médicas inesperadas. Tu presupuesto es ajustado este mes y piensas en cómo podrás afrontar todo esto.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Tu amigo va a celebrar una gran fiesta de cumpleaños y la mayoría de las personas de tu grupo de amigos estarán allí. Muchos de tus amigos son más ricos que tú y pueden permitirse el lujo de hacer regalos más caros.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me siento completamente bajo el agua.",
-                "Confío en mi capacidad para encontrar una solución.",
-                "Estoy orgulloso de mí mismo por manejar una situación financiera difícil.",
-                "Estoy realmente frustrado porque todo esto está sucediendo al mismo tiempo y reconozco que está bien sentirse así.",
-                "Me preocupa no poder ahorrar dinero este mes, pero tengo la esperanza de poder ahorrar en el futuro."
+                "Me siento feliz de estar cerca de todos mis amigos.",
+                "Siento entusiasmo por compartir mi buena energía.",
+                "Me siento fatal, pero decido que la fiesta continuará.",
+                "Me siento culpable por traer un regalo menos costoso.",
+                "Me revuelve el estómago pensando si a mi amigo le gustará su regalo, pero recuerdo que apreciarán mi consideración."
             ],
             "Duration": 15000
         }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Pajera silenciosa",
+    "header_text": "Preocupaciones por el COVID",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Pajera silenciosa"
+            "text": "Preocupaciones por el COVID"
         },
         {
             "type": "Media",
-            "url": "./images/213.jpg"
+            "url": "./images/214.jpg"
         }
     ],
     "type": "positive",

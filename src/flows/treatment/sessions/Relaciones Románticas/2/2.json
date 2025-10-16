@@ -1,25 +1,25 @@
 {
-    "header_text": "Expresar tus sentimientos",
+    "header_text": "Tu vejez",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu pareja te lleva a cenar y están hablando mientras esperan la comida. Mencionan algo que te molesta, pero te preocupa que si les enfrentas al respecto, se enojarán. Finalmente, decides decirles que lo que dijeron te molestó y ellos se..."
+            "text": "Estás caminando por el parque y ves a una pareja de ancianos caminando tomados de la mano. Comienzas a pensar en tu propia vida y te preguntas si te sentirás cercano a alguien a esa..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Expresar tus sentimientos_Relaciones Románticas_puzzle1",
+            "name": "Tu vejez_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "disculpan"
+                "edad"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 0
 }

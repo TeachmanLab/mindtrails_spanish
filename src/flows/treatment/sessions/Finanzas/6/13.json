@@ -1,19 +1,19 @@
 {
-    "header_text": "Responsibilidad financiera: Comportamientos",
+    "header_text": "Administrar facturas: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Su pareja estuvo en el hospital recientemente y usted ha estado ayudando a pagar sus facturas médicas. Te preguntas qué significará esto para tus finanzas en el futuro.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "El pago de su hipoteca vence pronto y también tendrá que pagar algunas facturas médicas inesperadas. Tu presupuesto es ajustado este mes y piensas en cómo podrás afrontar todo esto.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Quiero enterrar mis emociones, pero decido compartir cómo me siento con mi pareja.",
-                "Evito lidiar con las facturas médicas.",
-                "Quiero evitar la situación, pero elijo afrontarla de frente.",
-                "Hablo con mi pareja sobre nuestras finanzas y hago un plan.",
-                "Ajusto mi presupuesto para poder estar preparado para situaciones como esta en el futuro."
+                "Le pido ayuda a un amigo para idear un plan.",
+                "Me siento y no hago nada.",
+                "Solo quiero ser perezoso y tomar una siesta, pero decido empezar a hacer un plan.",
+                "Quiero evitar lidiar con esta situación, pero decido hacer un presupuesto para ayudarme a organizar mis finanzas.",
+                "Hablo con mi compañía de seguros sobre las opciones de pago."
             ],
             "Duration": 15000
         }

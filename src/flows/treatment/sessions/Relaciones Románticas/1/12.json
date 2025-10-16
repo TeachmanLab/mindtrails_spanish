@@ -1,20 +1,20 @@
 {
-    "header_text": "Relaciones futuras",
+    "header_text": "Invitando a alguien a salir",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Acabas de romper con tu pareja, con quien estuviste por más tiempo que cualquier otra persona importante que hayas tenido antes. Crees que fue lo mejor, pero también te preocupa si alguna vez conocerás a alguien más por quien sientes tanta pasión. Al pensar en tu futura vida amorosa, la idea de encontrar un buen compañero de vida parece..."
+            "text": "Estás en un largo viaje en tren y realmente conectas con una persona atractiva que está sentada a tu lado. A medida que el viaje termina, piensas en lo mucho que te gustaría volver a ver a esta persona, pero te preocupa que puedas parecer demasiado directo. Cuando consideras invitar a la otra persona  a tomar un café, no te preocupa que te rechacen porque estás bastante seguro de que esta persona..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Relaciones futuras_Relaciones Románticas_puzzle1",
+            "name": "Invitando a alguien a salir_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "alcanzable"
+                "aceptará"
             ],
             "missing_letter_count": 1
         }

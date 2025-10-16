@@ -1,19 +1,19 @@
 {
-    "header_text": "Serpientes en el parque: Sentimientos",
+    "header_text": "Luchando con una presentación: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo te convence para dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Ha estado luchando por armar esta presentación, pero aún no se ha comunicado con su jefe al respecto. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Tengo miedo de ir al parque, pero luego me doy cuenta de que nunca he oído que alguien haya sido mordido en ese parque.",
-                "Estoy ansioso por contarle a mi amigo lo que pasó hoy en el trabajo.",
-                "Estoy emocionado de ponerme al día con mi amigo.",
-                "Estoy ansioso pensando en que me muerda una serpiente, pero sepan que estaré bien en esta caminata.",
-                "Me preocupa mucho ver una serpiente."
+                "Me siento mejor sabiendo que mis compañeros están pasando por lo mismo que yo.",
+                "Me siento feliz de que la presentación termine pronto.",
+                "Me siento mal porque tal vez no me vaya tan bien en esta presentación, pero es sólo una pequeña parte de toda mi carrera profesional.",
+                "Tengo miedo de que mi progreso decepcione a mi jefe.",
+                "Me da vergüenza pedirle ayuda a mi jefe, pero admiro mi confianza al exponerme."
             ],
             "Duration": 15000
         }

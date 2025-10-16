@@ -1,19 +1,19 @@
 {
-    "header_text": "Reírse de un chiste: Sentimientos",
+    "header_text": "Miembro de la familia de edad avanzada: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Un amigo cuenta un chiste gracioso y te empiezas a reír mucho. Mientras te ríes, sientes una opresión incómoda en el pecho que nunca antes habías sentido. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Vas a la casa de tus padres por primera vez en mucho tiempo y notas que tu padre parece mucho menos saludable de lo que recuerdas. Ninguno de tus padres menciona nada sobre su salud.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "¡Estoy tan sorprendido por ese chiste!",
-                "Estoy aterrorizada por la opresión en mi pecho.",
-                "Estoy feliz de que mis amigos sean tan divertidos.",
-                "Me preocupa la opresión en el pecho, pero creo que desaparecerá pronto.",
-                "Estoy ansiosa por este sentimiento en mi pecho, pero sé que es solo por reírme mucho."
+                "Me siento ansioso y empiezo a pensar demasiado en lo que podría estar mal, pero recuerdo que no puedo controlar su salud.",
+                "Empiezo a sentirme enojado por cómo está envejeciendo, pero sé que esto es parte de la vida y no puedo cambiarlo.",
+                "Estoy agradecido de poder pasar tiempo con mi padre.",
+                "Me inquieta la apariencia de mi padre.",
+                "Me emociona que mi padre esté entablando una conversación."
             ],
             "Duration": 15000
         }

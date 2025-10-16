@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Una oportunidad relajada y agradable para conocer a una nueva persona.",
-                "situación estresante, porque la persona podría haberte encontrado aburrido."
+                "situación estresante, porque la persona podría haberte encontrado aburrido.",
+                "Una oportunidad relajada y agradable para conocer a una nueva persona."
             ],
             "column_Count": 1,
             "correct_value": "Una oportunidad relajada y agradable para conocer a una nueva persona."

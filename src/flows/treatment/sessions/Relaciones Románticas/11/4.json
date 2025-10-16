@@ -1,14 +1,14 @@
 {
-    "header_text": "Puntos de vista opuestos",
+    "header_text": "Persona atractiva en las redes sociales.",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tanto usted como su pareja tienen opiniones firmes y no siempre están de acuerdo. Una noche, durante la cena, entablas una acalorada discusión sobre un tema que te apasiona.\n\nHaga clic en Siguiente para ver algunas ideas."
+            "text": "Mientras navegas por una aplicación de citas, ves a una persona atractiva que conociste en el supermercado la semana pasada. Decides que te guste su perfil. \n\nHaga clic en Siguiente para ver algunas ideas."
         },
         {
             "type": "Media",
-            "url": "./images/593.jpg",
+            "url": "./images/590.jpg",
             "border": true
         }
     ]

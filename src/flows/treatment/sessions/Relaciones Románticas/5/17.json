@@ -1,14 +1,14 @@
 {
-    "header_text": "Enviar mensajes de texto a otras personas",
+    "header_text": "Presencia en redes sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿A tu pareja le gusta pasar tiempo contigo?"
+            "text": "¿Ellos piensan que está bien que no tienes redes sociales?"
         },
         {
             "type": "Buttons",
-            "name": "Enviar mensajes de texto a otras personas_Relaciones Románticas_comp_question",
+            "name": "Presencia en redes sociales_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

@@ -1,25 +1,16 @@
 {
-    "header_text": "Relación a distancia",
+    "header_text": "Día especial",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu pareja ha decidido volver a estudiar en un programa prestigioso en otro estado. Amas mucho a tu pareja, pero sabes que las relaciones a larga distancia pueden ser... "
+            "text": "Día especial"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Relación a distancia_Relaciones Románticas_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "difíciles"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/191.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 9
 }

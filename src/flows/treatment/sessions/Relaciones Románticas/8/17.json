@@ -1,14 +1,14 @@
 {
-    "header_text": "Aplicaciones de citas",
+    "header_text": "Superarlo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Aplicaciones de citas"
+            "text": "Superarlo"
         },
         {
             "type": "Media",
-            "url": "./images/226.jpg"
+            "url": "./images/227.jpg"
         }
     ],
     "type": "positive",

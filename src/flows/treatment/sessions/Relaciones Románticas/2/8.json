@@ -1,14 +1,14 @@
 {
-    "header_text": "Decepción de aniversario",
+    "header_text": "Discute con tu pareja",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Decepción de aniversario"
+            "text": "Discute con tu pareja"
         },
         {
             "type": "Media",
-            "url": "./images/185.jpg"
+            "url": "./images/151.jpg"
         }
     ],
     "type": "positive",

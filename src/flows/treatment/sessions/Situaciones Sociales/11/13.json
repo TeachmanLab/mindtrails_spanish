@@ -1,19 +1,19 @@
 {
-    "header_text": "Respondiendo una pregunta: Comportamientos",
+    "header_text": "Granizado derramado: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En una reunión con algunos colegas y su jefe, su jefe le pide que responda una pregunta. Dices tu mejor respuesta y tus companeros de trabajo guardan silencio.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Tú y tus amigos están saliendo a cenar. Llegan tus alimentos y bebidas y accidentalmente derramas tu bebida en la parte delantera de tu nueva camisa blanca.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me aseguraré de estar más preparado antes de la próxima reunión.",
-                "Sonrío y me siento.",
-                "Quiero llorar, pero me tomo un momento para calmarme y concentrarme en la siguiente pregunta.",
-                "Siento que debería contar una broma para que mis compañeros de trabajo se olviden de mi respuesta, pero no lo hacen.",
-                "No volveré a hablar en las reuniones."
+                "Quiero tirar la comida e irme, pero limpio y sigo comiendo.",
+                "Quiero irme inmediatamente, pero sé que pronto me olvidaré de la mancha.",
+                "Limpio la bebida, sonrío y sigo comiendo con mis amigos.",
+                "Tengo ganas de llorar y salgo del restaurante.",
+                "Me río y pido otra bebida."
             ],
             "Duration": 15000
         }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Luchando con una presentación:Pensamientos",
+    "header_text": "Maquinas apagadas:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Ha estado luchando por armar esta presentación, pero aún no se ha comunicado con su jefe al respecto. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Tú y tu familia van a salir de la ciudad por unos días y tu pareja te pide que revises que todos los electrodomésticos de tu casa estén apagados antes de partir. Tenías que apresurarte a hacer las maletas, así que no pudiste comprobarlo todo. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Mi trabajo estará en riesgo si estropeo esta presentación.",
-                "No haré mi mejor esfuerzo hoy, pero a veces se me permite tener un día libre.",
-                "Mi jefe pensará que mi presentación necesita mejoras y yo estaré de acuerdo con eso.",
-                "Soy muy trabajadora y mi jefe podrá notarlo.",
-                "Mis colegas pensarán que me preparé bien para la presentación."
+                "Aunque no pude comprobarlo completamente por segunda vez antes de que todos nos fuéramos, recuerdo que nunca antes había dejado los electrodomésticos encendidos al salir de casa.",
+                "Pienso en todas las cosas horribles que podrían pasar en la casa.",
+                "Pienso en todas las cosas divertidas que mi familia y yo haremos en nuestro viaje.",
+                "Pienso en cómo noté que todo estaba apagado durante la primera revisión.",
+                "Incluso si no estoy 100% seguro de que los electrodomésticos estén apagados, puedo vivir con eso."
             ],
             "Duration": 15000
         }

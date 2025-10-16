@@ -1,10 +1,10 @@
 {
-    "header_text": "Puntos de vista opuestos: Escribe Alguno Sentimientos",
+    "header_text": "Persona atractiva en las redes sociales.: Escribe Alguno Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tanto usted como su pareja tienen opiniones firmes y no siempre están de acuerdo. Una noche, durante la cena, entablas una acalorada discusión sobre un tema que te apasiona.\n\nTómese 30 segundos para escribir diferentes sentimientos. El siguiente botón aparecerá automáticamente. \n\nSentimientos en el momento y cómo manejarías cualquier sentimiento negativo:"
+            "text": "Mientras navegas por una aplicación de citas, ves a una persona atractiva que conociste en el supermercado la semana pasada. Decides que te guste su perfil. \n\nTómese 30 segundos para escribir diferentes sentimientos. El siguiente botón aparecerá automáticamente. \n\nSentimientos en el momento y cómo manejarías cualquier sentimiento negativo:"
         },
         {
             "type": "Entry"

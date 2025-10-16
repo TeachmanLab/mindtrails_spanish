@@ -1,10 +1,10 @@
 {
-    "header_text": "Dando una presentación: Escribe Algunos Pensamientos",
+    "header_text": "Serpientes en el parque: Escribe Algunos Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes que hacer una presentación en una reunión hoy. Cuando te paras frente al grupo, sientes que tus mejillas se calientan y tus manos empiezan a temblar.\n\nTómese 30 segundos para escribir pensamientos diferentes. El siguiente botón aparecerá automáticamente. \n\nPensamientos en el momento:"
+            "text": "Tu amigo te convence para dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nTómese 30 segundos para escribir pensamientos diferentes. El siguiente botón aparecerá automáticamente. \n\nPensamientos en el momento:"
         },
         {
             "type": "Entry"

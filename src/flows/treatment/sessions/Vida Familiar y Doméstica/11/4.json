@@ -1,14 +1,14 @@
 {
-    "header_text": "Familia molesta",
+    "header_text": "Miembro de la familia de edad avanzada",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en casa de vacaciones y notas que tus hermanos están molestos entre ellos. Te dan una respuesta breve cuando intentas hablar con ellos.\n\nHaga clic en Siguiente para ver algunas ideas."
+            "text": "Vas a la casa de tus padres por primera vez en mucho tiempo y notas que tu padre parece mucho menos saludable de lo que recuerdas. Ninguno de tus padres menciona nada sobre su salud.\n\nHaga clic en Siguiente para ver algunas ideas."
         },
         {
             "type": "Media",
-            "url": "./images/578.jpg",
+            "url": "./images/592.jpg",
             "border": true
         }
     ]

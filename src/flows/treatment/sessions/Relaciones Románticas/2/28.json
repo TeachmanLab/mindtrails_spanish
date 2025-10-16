@@ -1,29 +1,25 @@
 {
-    "header_text": "Citas en línea",
+    "header_text": "Relación a distancia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Crees que las personas en el sitio probablemente .."
+            "text": "Cuando imaginas el futuro de tu relación con tu pareja, no crees que la distancia terminará tu relación, y crees que los dos permanecerán... "
         },
         {
-            "type": "Buttons",
-            "name": "Citas en línea_Relaciones Románticas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Relación a distancia_Relaciones Románticas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Te ignorarán por completo.",
-                "Responderán bien a tu perfil"
+            "display_delay": 2000,
+            "words": [
+                "juntos"
             ],
-            "column_Count": 1,
-            "correct_value": "Responderán bien a tu perfil"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

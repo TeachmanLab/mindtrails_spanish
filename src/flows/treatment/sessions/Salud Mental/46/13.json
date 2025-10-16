@@ -1,19 +1,19 @@
 {
-    "header_text": "Luchando con una presentación: Comportamientos",
+    "header_text": "Maquinas apagadas: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Ha estado luchando por armar esta presentación, pero aún no se ha comunicado con su jefe al respecto. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Tú y tu familia van a salir de la ciudad por unos días y tu pareja te pide que revises que todos los electrodomésticos de tu casa estén apagados antes de partir. Tenías que apresurarte a hacer las maletas, así que no pudiste comprobarlo todo. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me saltaré esta reunión mañana.",
-                "Quiero evitar trabajar en la presentación, pero sé que progresar un poco me ayudará a sentirme realizado.",
-                "Quiero preguntarles a mis colegas cómo piensan que lo hice, pero realmente no importa lo que piensen los demás.",
-                "No me esconderé en mi oficina después de mi presentación.",
-                "Le preguntaré a mi jefe qué más puedo hacer para demostrar mis habilidades."
+                "Empiezo a planificar algunas actividades que podemos hacer en nuestro viaje.",
+                "Me concentro en mi conversación con mi familia.",
+                "Quiero llorar pensando en lo ansiosa que me siento, pero sé que este sentimiento no durará para siempre.",
+                "Regreso a la casa para asegurarme de haber apagado todo.",
+                "Quiero volver y comprobarlo, pero sé que eso empeorará mi ansiedad en el futuro."
             ],
             "Duration": 15000
         }

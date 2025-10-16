@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Te quedarás atras de tu amigo durante tu carrera.",
-                "Podrás seguir el ritmo de tu amigo."
+                "Podrás seguir el ritmo de tu amigo.",
+                "Te quedarás atras de tu amigo durante tu carrera."
             ],
             "column_Count": 1,
             "correct_value": "Podrás seguir el ritmo de tu amigo."

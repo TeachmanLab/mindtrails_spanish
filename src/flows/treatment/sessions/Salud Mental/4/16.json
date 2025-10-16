@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Nunca te convertirás en un buen jugador de bolos.",
-                "Eventualmente te convertirás en un jugador de bolos fuerte."
+                "Eventualmente te convertirás en un jugador de bolos fuerte.",
+                "Nunca te convertirás en un buen jugador de bolos."
             ],
             "column_Count": 1,
             "correct_value": "Eventualmente te convertirás en un jugador de bolos fuerte."

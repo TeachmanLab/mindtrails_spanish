@@ -12,7 +12,7 @@
                 "Terapia::Terapia (hablar con un profesional capacitado)\n\nEjemplos: psicólogo, profesional de salud mental autorizado (LMHC), consejero escolar, trabajador social, terapeuta matrimonial y familiar, terapeuta de grupo",
                 "Prescripción:: Medicamentos recetados\n\nEjemplos: psiquiatra, médico",
                 "Social::Buscar apoyo social (hablar con personas no profesionales)\n\nEjemplos: maestro, familiar, amigo, líder religioso, entrenador",
-                "Autoayuda::Ayuda autoguiada\n\nEjemplos: libros de autoayuda, blogs, intervención en línea (que no sean MindTrails Espanol ), aplicaciones móviles",
+                "Autoayuda::Ayuda autoguiada\n\nEjemplos: libros de autoayuda, blogs, intervención en línea (que no sean MindTrails Español ), aplicaciones móviles",
                 "De Venta Libre::Medicamentos y/o suplementos sin receta",
                 "^Ninguno::No recibo ayuda",
                 "^NoAnswer::Prefiero no responder",

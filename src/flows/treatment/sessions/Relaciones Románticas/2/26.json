@@ -1,16 +1,16 @@
 {
-    "header_text": "Citas en línea",
+    "header_text": "Relación a distancia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Citas en línea"
+            "text": "Relación a distancia"
         },
         {
             "type": "Media",
-            "url": "./images/190.jpg"
+            "url": "./images/158.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

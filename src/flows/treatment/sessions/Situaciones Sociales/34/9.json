@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "simplemente observar y aceptar los sentimientos.",
-                "Ponerte ansioso por sentirte desorientado."
+                "Ponerte ansioso por sentirte desorientado.",
+                "simplemente observar y aceptar los sentimientos."
             ],
             "column_Count": 1,
             "correct_value": "simplemente observar y aceptar los sentimientos."

@@ -1,14 +1,14 @@
 {
-    "header_text": "sintiéndote inferior por estar soltero",
+    "header_text": "Tiempo de calidad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tienes problemas porque estás soltero?"
+            "text": "¿Puedes hacer tiempo para tu pareja?"
         },
         {
             "type": "Buttons",
-            "name": "sintiéndote inferior por estar soltero_Relaciones Románticas_comp_question",
+            "name": "Tiempo de calidad_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
@@ -17,7 +17,7 @@
                 "Sí"
             ],
             "column_Count": 1,
-            "correct_value": "No"
+            "correct_value": "Sí"
         }
     ],
     "navigation_conditions": [

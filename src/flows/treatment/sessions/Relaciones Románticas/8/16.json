@@ -1,14 +1,14 @@
 {
-    "header_text": "Comparándote con otros",
+    "header_text": "Aplicaciones de citas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente, tu pareja mencionó que encuentran atractiva a cierta celebridad. Esta celebridad no se parece en nada a ti, y te preguntas si tu pareja ha cambiado sus preferencias desde el comienzo de su relación. Piensas que aún se sienten atraída a..."
+            "text": "Llevas un tiempo soltero y te gustaría mucho conocer a alguien. Tus amigos siguen sugiriendo aplicaciones de citas, pero no crees que esto funcione para ti. Piensas en las diferentes formas de conocer a alguien y te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Comparándote con otros_Relaciones Románticas_entry1"
+            "name": "Aplicaciones de citas_Relaciones Románticas_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",

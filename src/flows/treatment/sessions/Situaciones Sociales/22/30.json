@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No lo suficientemente bueno.",
-                "Un buen gesto para su cumpleaños."
+                "Un buen gesto para su cumpleaños.",
+                "No lo suficientemente bueno."
             ],
             "column_Count": 1,
             "correct_value": "Un buen gesto para su cumpleaños."

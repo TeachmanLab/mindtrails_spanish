@@ -1,14 +1,14 @@
 {
-    "header_text": "Enviar mensajes de texto a alguien que te gusta",
+    "header_text": "Estar de más",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Enviar mensajes de texto a alguien que te gusta"
+            "text": "Estar de más"
         },
         {
             "type": "Media",
-            "url": "./images/174.jpg"
+            "url": "./images/175.jpg"
         }
     ],
     "type": "positive",

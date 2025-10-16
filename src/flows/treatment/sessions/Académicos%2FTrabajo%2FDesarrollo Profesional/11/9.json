@@ -1,19 +1,19 @@
 {
-    "header_text": "Amigo ruidoso: Sentimientos",
+    "header_text": "Balancear responsibilidades: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu auto se averió y un amigo te va a dejar en una reunión. Cuando te dejan, hacen mucho ruido y todos los que están allí te miran. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Tienes muchas tareas domésticas que hacer esta noche y también tienes un gran proyecto que debes entregar mañana. Ambos tienen que hacerse y usted piensa en cómo manejará todo.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Instantáneamente me siento avergonzado de mi ruidoso amigo, pero recuerdo que no puedo controlar lo que hace.",
-                "Estoy ansioso por llegar a la reunión y ver gente.",
-                "Estoy nervioso por lo que puedan decir las personas en la reunión, pero parecen muy amables y comprensivos.",
-                "Estoy tan avergonzado por mi amigo.",
-                "Estoy entusiasmado con esta reunión."
+                "Estoy ansioso por poder hacer todo.",
+                "Estoy tranquila mientras priorizo ​​mis tareas domésticas y mi proyecto.",
+                "Me emociona escuchar a mi artista favorito mientras hago mis quehaceres.",
+                "Aunque me siento abrumado, intento sentirme agradecido por el trabajo que tengo y por la casa en la que vivo.",
+                "Me siento molesto por todo lo que tengo que hacer, pero me imagino cómo se sentirá tenerlo todo logrado."
             ],
             "Duration": 15000
         }

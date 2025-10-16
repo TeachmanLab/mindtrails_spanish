@@ -1,14 +1,14 @@
 {
-    "header_text": "Salud Mental",
+    "header_text": "Comparándote con otros",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Salud Mental"
+            "text": "Comparándote con otros"
         },
         {
             "type": "Media",
-            "url": "./images/187.jpg"
+            "url": "./images/188.jpg"
         }
     ],
     "type": "positive",

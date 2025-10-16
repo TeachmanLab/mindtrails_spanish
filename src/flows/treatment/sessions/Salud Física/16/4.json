@@ -1,14 +1,14 @@
 {
-    "header_text": "Subiendo escaleras",
+    "header_text": "Serpientes en el parque",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te estás reuniendo con tu jefe. Para llegar a tiempo, simplemente subió dos tramos de escaleras rápidamente y sintió que su corazón latía muy rápidamente.\n\nHaga clic en Siguiente para ver algunas ideas."
+            "text": "Tu amigo te convence para dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nHaga clic en Siguiente para ver algunas ideas."
         },
         {
             "type": "Media",
-            "url": "./images/572.jpg",
+            "url": "./images/184.jpg",
             "border": true
         }
     ]

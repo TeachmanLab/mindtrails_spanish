@@ -1,16 +1,16 @@
 {
-    "header_text": "Estrés en tu relación",
+    "header_text": "Enviar mensajes de texto a alguien que te gusta",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estrés en tu relación"
+            "text": "Enviar mensajes de texto a alguien que te gusta"
         },
         {
             "type": "Media",
-            "url": "./images/195.jpg"
+            "url": "./images/174.jpg"
         }
     ],
-    "type": "negative",
+    "type": "resilience/negation",
     "scenario_num": 5
 }

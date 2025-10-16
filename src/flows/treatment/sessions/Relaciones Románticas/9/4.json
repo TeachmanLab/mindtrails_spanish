@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Casarse con tu pareja"
+            "text": "Reflexionando sobre la idea de casarte con tu pareja, no te sientes demasiado asustado y crees que tu matrimonio sería... "
         },
         {
-            "type": "Media",
-            "url": "./images/181.jpg"
+            "type": "Entry",
+            "name": "Casarse con tu pareja_Relaciones Románticas_entry2"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 1
+    "scenario_num": 0
 }

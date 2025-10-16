@@ -1,25 +1,25 @@
 {
-    "header_text": "Tu vejez",
+    "header_text": "Decepción de aniversario",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando piensas en ti mismo como una persona mayor, no crees que estarás solo y te imaginas con.."
+            "text": "Tu aniversario con tu pareja es este fin de semana, pero no te han mencionado que hicieron grandes planes. Tener tus expectativas defraudadas parece ser un evento recurrente, y crees que es hora de traerlas a ellos. Descubres una manera de traerlo a colación con calma, sin comenzar una... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Tu vejez_Relaciones Románticas_puzzle_word2",
+            "name": "Decepción de aniversario_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "alguien"
+                "pelea"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

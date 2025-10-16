@@ -1,16 +1,16 @@
 {
-    "header_text": "Preocupaciones por las relaciones",
+    "header_text": "Salud Mental",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Preocupaciones por las relaciones"
+            "text": "Salud Mental"
         },
         {
             "type": "Media",
-            "url": "./images/186.jpg"
+            "url": "./images/187.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 4
 }

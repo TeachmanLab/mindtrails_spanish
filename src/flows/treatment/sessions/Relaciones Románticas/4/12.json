@@ -1,14 +1,14 @@
 {
-    "header_text": "Relación a largo plazo",
+    "header_text": "La familia no aprueba a su pareja",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu pareja, con quien has estado saliendo durante algunos años quiere hablar sobre hacia dónde va tu relación. Esta es la primera vez que sales con alguien por tanto... "
+            "text": "Recientemente empezaste a salir con alguien que realmente te gusta mucho. Se los presentas a tu familia y ellos no parecen aprobarlos. Te recuerdas a ti mismo que esta fue solo la primera reunión y que tu familia llegará a conocer mejor a tu pareja con el..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Relación a largo plazo_Relaciones Románticas_puzzle1",
+            "name": "La familia no aprueba a su pareja_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
@@ -20,6 +20,6 @@
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 3
 }

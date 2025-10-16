@@ -1,16 +1,16 @@
 {
-    "header_text": "Relación a largo plazo",
+    "header_text": "Temas difíciles",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Relación a largo plazo"
+            "text": "Temas difíciles"
         },
         {
             "type": "Media",
-            "url": "./images/197.jpg"
+            "url": "./images/208.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 2
 }

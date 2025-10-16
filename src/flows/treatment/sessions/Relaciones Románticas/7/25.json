@@ -1,20 +1,20 @@
 {
-    "header_text": "Los celos",
+    "header_text": "Prepararse para una cita",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu mejor amigo acaba de entrar en una nueva relación. Te sientes celoso de su nueva pareja porque no vas a pasar tanto tiempo con tu amigo como de costumbre. Reflexionando sobre la situación, te das cuenta de que pueden estar en una relación y seguir siendo un gran... "
+            "text": "Tus amigos te han organizado una cita y te estás preparando. Cuanto más te acerques a irte, más te preguntas si te ves bien y si la persona que estás conociendo se sentirá atraída a ti. Recuerdas que una persona no dictará tu... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Los celos_Relaciones Románticas_puzzle1",
+            "name": "Prepararse para una cita_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "amigo"
+                "valor"
             ],
             "missing_letter_count": 2
         }

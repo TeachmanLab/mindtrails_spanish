@@ -1,10 +1,10 @@
 {
-    "header_text": "Administrar facturas: Escribe Alguno Sentimientos",
+    "header_text": "El regalo de cumpleaños: Escribe Alguno Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "El pago de su hipoteca vence pronto y también tendrá que pagar algunas facturas médicas inesperadas. Tu presupuesto es ajustado este mes y piensas en cómo podrás afrontar todo esto.\n\nTómese 30 segundos para escribir diferentes sentimientos. El siguiente botón aparecerá automáticamente. \n\nSentimientos en el momento y cómo manejarías cualquier sentimiento negativo:"
+            "text": "Tu amigo va a celebrar una gran fiesta de cumpleaños y la mayoría de las personas de tu grupo de amigos estarán allí. Muchos de tus amigos son más ricos que tú y pueden permitirse el lujo de hacer regalos más caros.\n\nTómese 30 segundos para escribir diferentes sentimientos. El siguiente botón aparecerá automáticamente. \n\nSentimientos en el momento y cómo manejarías cualquier sentimiento negativo:"
         },
         {
             "type": "Entry"

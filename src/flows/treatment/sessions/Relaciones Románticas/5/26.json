@@ -1,20 +1,20 @@
 {
-    "header_text": "sintiéndote inferior por estar soltero",
+    "header_text": "Tiempo de calidad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Todos tus amigos han estado saliendo con otras personas por un tiempo o están empezando una relación nueva. No has tenido ni una sola cita y empiezas a preguntarte por qué. Aunque estés decepcionado, recuerdas que tu valor no está definido por tus..."
+            "text": "Con tus hijos en casa, tú y tu pareja no tienen la oportunidad de pasar mucho tiempo de calidad juntos. sientes que tú y tu pareja se están distanciando. Decides planear una noche de cita solo para ustedes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "sintiéndote inferior por estar soltero_Relaciones Románticas_puzzle1",
+            "name": "Tiempo de calidad_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "relación"
+                "dos"
             ],
             "missing_letter_count": 2
         }

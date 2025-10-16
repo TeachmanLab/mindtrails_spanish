@@ -1,16 +1,16 @@
 {
-    "header_text": "Estar de más",
+    "header_text": "La cita",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estar de más"
+            "text": "La cita"
         },
         {
             "type": "Media",
-            "url": "./images/175.jpg"
+            "url": "./images/176.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Subiendo escaleras",
+    "header_text": "Reírse de un chiste",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te estás reuniendo con tu jefe. Para llegar a tiempo, simplemente subió dos tramos de escaleras rápidamente y sintió que su corazón latía muy rápidamente.\n\nHaga clic en Siguiente para ver algunas ideas."
+            "text": "Un amigo cuenta un chiste gracioso y te empiezas a reír mucho. Mientras te ríes, sientes una opresión incómoda en el pecho que nunca antes habías sentido. \n\nHaga clic en Siguiente para ver algunas ideas."
         },
         {
             "type": "Media",
-            "url": "./images/588.jpg",
+            "url": "./images/574.jpg",
             "border": true
         }
     ]

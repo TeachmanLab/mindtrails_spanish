@@ -1,25 +1,25 @@
 {
-    "header_text": "Preocupaciones por las relaciones",
+    "header_text": "Salud Mental",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recibes una llamada de un amigo tuyo, diciéndote que se va a divorciar. Reflexionas sobre tu propio matrimonio; y aunque amas a tu cónyuge, tu amigo y su esposa te dan la misma impresión. Mientras te preguntas sobre tu futuro con tu cónyuge, sientes firmemente que ustedes dos se..."
+            "text": "Recientemente, tu pareja ha estado luchando con su salud mental. Quieres ayudar, pero no sabes cómo. Decides investigar posibles recursos que puedas compartir para..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Preocupaciones por las relaciones_Relaciones Románticas_puzzle1",
+            "name": "Salud Mental_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "divorciarán"
+                "apoyarlos"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 4
 }

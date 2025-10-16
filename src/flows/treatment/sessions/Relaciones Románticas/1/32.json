@@ -1,14 +1,14 @@
 {
-    "header_text": "Año ocupado",
+    "header_text": "Expresar tus sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Terminará su relación?"
+            "text": "¿Tu pareja estaba enojada contigo por expresar tu preocupación?"
         },
         {
             "type": "Buttons",
-            "name": "Año ocupado_Relaciones Románticas_comp_question",
+            "name": "Expresar tus sentimientos_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

@@ -1,39 +1,29 @@
 {
-    "header_text": "Casarse con tu pareja",
+    "header_text": "Año ocupado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando te imaginas un matrimonio con tu pareja ..."
+            "text": "¿Terminará su relación?"
         },
         {
             "type": "Buttons",
-            "name": "Casarse con tu pareja_Relaciones Románticas_comp_question",
+            "name": "Año ocupado_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Ves que la relación finalmente se rompe.",
-                "Ves a los dos creciendo juntos por el resto de sus vidas."
+                "Sí",
+                "No"
             ],
             "column_Count": 1,
-            "correct_value": "Ves que la relación finalmente se rompe."
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "negative",
-    "scenario_num": 8,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "En el mundo real, a veces las cosas no van bien. ¡Es importante tener algunas historias que terminen negativamente para enseñarte a manejar tu ansiedad cuando surgen situaciones negativas!"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "type": "positive",
+    "scenario_num": 8
 }

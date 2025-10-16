@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Te fuiste debido a tu ansiedad.",
-                "Manejaste tu ansiedad y te quedaste."
+                "Manejaste tu ansiedad y te quedaste.",
+                "Te fuiste debido a tu ansiedad."
             ],
             "column_Count": 1,
             "correct_value": "Manejaste tu ansiedad y te quedaste."

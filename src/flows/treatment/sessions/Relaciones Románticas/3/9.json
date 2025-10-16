@@ -1,14 +1,14 @@
 {
-    "header_text": "Una nueva relación",
+    "header_text": "Consejos para un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tu pareja todavía te ama?"
+            "text": "¿Tu amigo pensó que le diste buenos consejos sobre las relaciones?"
         },
         {
             "type": "Buttons",
-            "name": "Una nueva relación_Relaciones Románticas_comp_question",
+            "name": "Consejos para un amigo_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
@@ -17,23 +17,13 @@
                 "Sí"
             ],
             "column_Count": 1,
-            "correct_value": "No"
+            "correct_value": "Sí"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "negative",
-    "scenario_num": 2,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "En el mundo real, a veces las cosas no van bien. ¡Es importante tener algunas historias que terminen negativamente para enseñarte a manejar tu ansiedad cuando surgen situaciones negativas!"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "type": "positive",
+    "scenario_num": 2
 }

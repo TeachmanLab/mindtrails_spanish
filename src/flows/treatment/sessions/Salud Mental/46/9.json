@@ -1,19 +1,19 @@
 {
-    "header_text": "Luchando con una presentación: Sentimientos",
+    "header_text": "Maquinas apagadas: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Ha estado luchando por armar esta presentación, pero aún no se ha comunicado con su jefe al respecto. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Tú y tu familia van a salir de la ciudad por unos días y tu pareja te pide que revises que todos los electrodomésticos de tu casa estén apagados antes de partir. Tenías que apresurarte a hacer las maletas, así que no pudiste comprobarlo todo. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me alegro de tener la conciencia de saber que necesito hablar pronto con mi jefe.",
-                "Me preocupa lo que dirá mi jefe sobre mi presentación.",
-                "Me siento tranquilo sabiendo que hice lo mejor que pude sin importar lo que pase.",
-                "Estoy incómodo en este momento, pero puedo respirar profundamente para sentirme más tranquilo.",
-                "Me siento inseguro acerca de la calidad de mi presentación, pero nada de lo que haga será perfecto."
+                "Tengo miedo de haberme perdido algo y luego me concentro suavemente en lo que está sucediendo en el auto.",
+                "Me siento emocionado por el viaje.",
+                "Me siento culpable por no volver a comprobarlo todo, pero me recuerdo a mí mismo que comprobarlo una vez fue suficiente.",
+                "Estoy seguro de que todo estaba cerrado.",
+                "Me preocupa que se haya dejado algún electrodoméstico encendido."
             ],
             "Duration": 15000
         }

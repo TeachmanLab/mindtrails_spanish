@@ -1,14 +1,14 @@
 {
-    "header_text": "Ponerse ahí fuera",
+    "header_text": "Afecto desigual",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tu amigo te juzgó negativamente?"
+            "text": "¿Seguirás ansioso por esto sabiendo que no es el caso?"
         },
         {
             "type": "Buttons",
-            "name": "Ponerse ahí fuera_Relaciones Románticas_comp_question",
+            "name": "Afecto desigual_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
@@ -24,6 +24,6 @@
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

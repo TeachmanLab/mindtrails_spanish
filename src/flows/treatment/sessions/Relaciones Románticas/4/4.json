@@ -1,29 +1,16 @@
 {
-    "header_text": "Citas en línea",
+    "header_text": "Encontrandote con alguien",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Crees que conocerás a alguien pronto?"
+            "text": "Encontrandote con alguien"
         },
         {
-            "type": "Buttons",
-            "name": "Citas en línea_Relaciones Románticas_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "type": "Media",
+            "url": "./images/202.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 0
+    "type": "positive",
+    "scenario_num": 1
 }

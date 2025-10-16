@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "Estoy molesto porque no respondieron de inmediato.",
-                "Me preocupa que esto tenga algo que ver conmigo, pero me doy cuenta de que a esta persona le suceden muchas otras cosas en su vida.",
-                "Me entristece que no hayan respondido rápidamente, pero sepan que no me sentiré triste para siempre.",
-                "La anticipación de esperar una respuesta es emocionante.",
-                "Me siento feliz con mi capacidad para enviar mensajes divertidos."
+                "Me parece bien que no hayan respondido.",
+                "Me siento mal por no recibir una respuesta rápida, pero recuerda que no necesito intentar controlar la situación.",
+                "Me preocupa no haber recibido respuesta, pero me doy cuenta de que no necesito recibir respuesta inmediatamente sobre lo que envié.",
+                "Estoy feliz con quien soy, respondan o no.",
+                "Me da vergüenza haberme expuesto."
             ],
             "Duration": 15000
         }

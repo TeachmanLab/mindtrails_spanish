@@ -1,30 +1,30 @@
 {
-    "header_text": "Relación a distancia",
+    "header_text": "Día especial",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Crees que tú y tu pareja permanecerán juntos después de que ellos se muden?"
+            "text": "Probablemente te sientes nervioso porque ..."
         },
         {
             "type": "Buttons",
-            "name": "Relación a distancia_Relaciones Románticas_comp_question",
+            "name": "Día especial_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Eres desagradable.",
+                "Nunca has salido con esta persona antes."
             ],
             "column_Count": 1,
-            "correct_value": "Sí"
+            "correct_value": "Nunca has salido con esta persona antes."
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 9,
     "information": {
         "elements": [

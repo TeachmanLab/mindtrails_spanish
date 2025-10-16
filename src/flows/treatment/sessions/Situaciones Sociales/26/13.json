@@ -1,19 +1,19 @@
 {
-    "header_text": "Conocer a alguien nuevo: Comportamientos",
+    "header_text": "Trabajar en grupos: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En una fiesta de trabajo, tu amigo te presenta a un amigo suyo atractivo que no habías conocido antes. A la manana siguiente, notas que te enviaron un correo electrónico.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Tu jefe les dice a todos que mañana os dividiréis en pequeños grupos para planificar nuevos proyectos de trabajo. También dice que tendrás que elegir tu grupo, pero te das cuenta de que no tienes amigos cercanos en tu lugar de trabajo.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me pone nervioso enviar la respuesta perfecta, pero decido ser yo mismo.",
-                "Hablo con mi amigo sobre lo emocionado que estoy.",
-                "Hago una broma en mi respuesta.",
-                "Quiero preguntarles por qué me enviaron un correo electrónico, pero decido simplemente ver cómo se desarrollan las cosas.",
-                "Ignoro su correo electrónico porque estoy ansioso por responder."
+                "Me aseguraré de saber qué proyectos me interesa planificar antes de la reunión de mañana.",
+                "Durante la discusión, haré todo lo posible para incluir a todos en nuestra conversación grupal.",
+                "Fingiré estar enfermo y simplemente no iré a la discusión.",
+                "Querré saltearlo, pero iré de todos modos y afrontaré la sensación de ansiedad.",
+                "Les pediré a otros que estén en su grupo, incluso si realmente no quiero."
             ],
             "Duration": 15000
         }

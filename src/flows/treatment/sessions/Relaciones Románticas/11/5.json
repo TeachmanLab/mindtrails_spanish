@@ -1,19 +1,19 @@
 {
-    "header_text": "Puntos de vista opuestos:Pensamientos",
+    "header_text": "Persona atractiva en las redes sociales.:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tanto usted como su pareja tienen opiniones firmes y no siempre están de acuerdo. Una noche, durante la cena, entablas una acalorada discusión sobre un tema que te apasiona.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Mientras navegas por una aplicación de citas, ves a una persona atractiva que conociste en el supermercado la semana pasada. Decides que te guste su perfil. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Mi pareja es realmente inteligente y reflexiva.",
-                "Creo que tengo razón, pero elijo aceptar que es posible que no estemos de acuerdo en este punto.",
-                "Nuestra relación va a terminar por esta discusión.",
-                "Incluso cuando mi pareja y yo estamos enojados el uno con el otro, sé que todavía nos preocupamos profundamente el uno por el otro.",
-                "Éste es un tema muy importante que debemos debatir."
+                "Pienso si pensarán que mis fotos son tontas, pero luego me recuerdo a mí mismo que estoy orgulloso de mi perfil.",
+                "Esta persona pensará que soy raro por darle me gusta a su perfil.",
+                "Pienso en cómo podríamos tener una cita.",
+                "Espero que podamos continuar la gran conversación que iniciamos en la tienda.",
+                "Me pregunto si piensan que soy atractiva, pero recuerdo que la apariencia no lo es todo."
             ],
             "Duration": 15000
         }

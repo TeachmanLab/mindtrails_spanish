@@ -1,19 +1,19 @@
 {
-    "header_text": "Bebida derramada:Pensamientos",
+    "header_text": "Vidrio roto:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes una cita en una cafetería con una persona que realmente te gusta. Mientras regresas a la mesa, tropiezas, te caes y derramas café por todos lados.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Estás en un restaurante tranquilo con muchos miembros de tu familia para cenar. Mientras tomas un trago de agua, accidentalmente dejas caer el vaso al suelo y se rompe.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Ojalá hubiera sido un poco más cuidadoso, pero soy humano y sucede.",
-                "Mi cita podría pensar que soy un poco torpe, pero probablemente no les importe.",
-                "Parezco un total torpe frente a mi cita.",
-                "¡Esto será una gran manera de romper el hielo cuando empiece a hablar con mi cita!",
-                "Probablemente esto le haya pasado a mucha gente."
+                "Mi ropa está empapada, pero puedo ir al baño y secarla.",
+                "Estoy seguro de que esta no es la primera vez que este restaurante tiene que lidiar con un vaso roto.",
+                "Soy una persona tan descuidada.",
+                "El camarero está molesto, pero probablemente superará ese sentimiento pronto.",
+                "Pienso en cómo ayudaré a limpiar esto."
             ],
             "Duration": 15000
         }

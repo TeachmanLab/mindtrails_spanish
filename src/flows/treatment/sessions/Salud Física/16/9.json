@@ -1,19 +1,19 @@
 {
-    "header_text": "Subiendo escaleras: Sentimientos",
+    "header_text": "Serpientes en el parque: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te estás reuniendo con tu jefe. Para llegar a tiempo, simplemente subió dos tramos de escaleras rápidamente y sintió que su corazón latía muy rápidamente.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Tu amigo te convence para dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me da vergüenza quedarme sin aliento, pero puedo concentrarme en lo que mi jefe tiene que decir.",
-                "Me preocupa que algo esté mal conmigo, pero me recuerdo a mí mismo que es normal sentirme sin aliento después de subir un montón de escaleras.",
-                "Estoy feliz de haber llegado a tiempo a la reunión.",
-                "Me preocupa que haya algo realmente mal en mí.",
-                "Me siento emocionado ahora que mi sangre está bombeando."
+                "Estoy feliz de que mi amigo me haya pedido que saliéramos a caminar.",
+                "Tengo miedo de que me pase algo malo.",
+                "Estoy preocupado por lo que veremos en el parque, pero sé que puedo soportar sentirme un poco preocupado.",
+                "Me da ansiedad que me muerdan, pero recuerdo que ese es el peor de los casos y que probablemente no sucederá.",
+                "Estoy tranquila pensando en ir al parque."
             ],
             "Duration": 15000
         }

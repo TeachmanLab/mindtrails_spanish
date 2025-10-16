@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "significará que ahorrarás lo suficiente para pagar el alquiler.",
-                "Aún te dejará corto y te retrasarás en el pago del alquiler."
+                "Aún te dejará corto y te retrasarás en el pago del alquiler.",
+                "significará que ahorrarás lo suficiente para pagar el alquiler."
             ],
             "column_Count": 1,
             "correct_value": "significará que ahorrarás lo suficiente para pagar el alquiler."

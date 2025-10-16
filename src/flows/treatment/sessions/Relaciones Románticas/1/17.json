@@ -1,14 +1,14 @@
 {
-    "header_text": "Planes de vacaciones",
+    "header_text": "Cita con alguien nuevo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Planes de vacaciones"
+            "text": "Cita con alguien nuevo"
         },
         {
             "type": "Media",
-            "url": "./images/147.jpg"
+            "url": "./images/179.jpg"
         }
     ],
     "type": "positive",

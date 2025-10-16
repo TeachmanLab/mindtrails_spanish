@@ -1,19 +1,19 @@
 {
-    "header_text": "Marcado en una foto: Sentimientos",
+    "header_text": "Araña perdida: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tus amigos tomaron algunas fotografías juntos. Al día siguiente, recibes una notificación de que te etiquetaron en una publicación en las redes sociales. No te gusta cómo te ves en la foto.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Cuando entras a la ducha, ves una enorme araña en la pared. Te das la vuelta por un segundo, miras hacia atrás y te das cuenta de que ya no está. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me molesta que esta no sea una foto mía halagadora.",
-                "Me siento enojado con mi amigo, pero sé que ellos no sabían lo que siento por la foto.",
-                "Me siento inseguro acerca de cómo me veo en la foto, pero eso fue sólo un momento en el tiempo.",
-                "Soy feliz pensando en ese recuerdo.",
-                "Tengo confianza en mis amistades."
+                "Me sentiré tan renovado después de esta ducha.",
+                "Estoy nervioso por la araña, pero recuerdo que probablemente ella me tenga más miedo.",
+                "Me preocupa saber dónde se arrastrará la araña a continuación.",
+                "Me siento asustado, pero sé que soy lo suficientemente valiente como para ducharme de todos modos.",
+                "Agradezco que la araña esté aquí para comerse otros insectos en mi casa."
             ],
             "Duration": 15000
         }

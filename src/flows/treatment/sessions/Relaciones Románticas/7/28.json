@@ -1,20 +1,20 @@
 {
-    "header_text": "Prepararse para una cita",
+    "header_text": "Personalidades diferentes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus amigos te han organizado una cita y te estás preparando. Cuanto más te acerques a irte, más te preguntas si te ves bien y si la persona que estás conociendo se sentirá atraída a ti. Recuerdas que una persona no dictará tu... "
+            "text": "Eres alguien a quien le gusta estar en casa, mientras que a tu pareja le gusta salir. Quieres quedarte en casa por la noche, pero tu pareja quiere ir a un bar. Piensas que pueden trabajar juntos para encontrar un..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Prepararse para una cita_Relaciones Románticas_puzzle1",
+            "name": "Personalidades diferentes_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "valor"
+                "compromiso"
             ],
             "missing_letter_count": 2
         }

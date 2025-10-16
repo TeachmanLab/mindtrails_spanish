@@ -1,14 +1,14 @@
 {
-    "header_text": "Bebida derramada",
+    "header_text": "Vidrio roto",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes una cita en una cafetería con una persona que realmente te gusta. Mientras regresas a la mesa, tropiezas, te caes y derramas café por todos lados.\n\nHaga clic en Siguiente para ver algunas ideas."
+            "text": "Estás en un restaurante tranquilo con muchos miembros de tu familia para cenar. Mientras tomas un trago de agua, accidentalmente dejas caer el vaso al suelo y se rompe.\n\nHaga clic en Siguiente para ver algunas ideas."
         },
         {
             "type": "Media",
-            "url": "./images/569.jpg",
+            "url": "./images/570.jpg",
             "border": true
         }
     ]

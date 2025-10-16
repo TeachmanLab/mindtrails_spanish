@@ -1,19 +1,19 @@
 {
-    "header_text": "Subiendo escaleras: Comportamientos",
+    "header_text": "Reírse de un chiste: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te estás reuniendo con tu jefe. Para llegar a tiempo, simplemente subió dos tramos de escaleras rápidamente y sintió que su corazón latía muy rápidamente.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Un amigo cuenta un chiste gracioso y te empiezas a reír mucho. Mientras te ríes, sientes una opresión incómoda en el pecho que nunca antes habías sentido. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Le sonrío a mi jefe una vez que llego a la reunión.",
-                "Respiro profundamente y me concentro en calmarme.",
-                "Le pregunto a mi jefe si podría estar sufriendo un infarto.",
-                "Me recuerdo a mí mismo que debo respirar lentamente unas cuantas veces para volver a centrar mis pensamientos después de sentir la necesidad de llorar.",
-                "Siento la necesidad de buscar mis síntomas en línea, pero recuerdo que sentirme así es normal después de subir muchas escaleras."
+                "Salgo de la habitación para que la gente no me vea.",
+                "Respiro hondo y le digo a mi amigo que fue una buena broma.",
+                "Quiero gritarle a mi amigo que se calle, pero respiro hondo y decido no hacerlo.",
+                "Tomo un sorbo de agua y continúo la conversación.",
+                "Aunque es difícil, me digo a mí mismo que este sentimiento pasará."
             ],
             "Duration": 15000
         }

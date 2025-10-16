@@ -1,23 +1,23 @@
 {
-    "header_text": "Invitando a alguien a salir",
+    "header_text": "Planes de vacaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "si le preguntas a la otra persona si quiere tomar un café, es probable que..."
+            "text": "Es probable que tus padres piensen que..."
         },
         {
             "type": "Buttons",
-            "name": "Invitando a alguien a salir_Relaciones Románticas_comp_question",
+            "name": "Planes de vacaciones_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Rechace tu oferta, porque no están interesados en volver a verte.",
-                "Acepte tu oferta, porque ustedes dos lo pasaron bien en el tren."
+                "A ti no te importan o que no quieres verlos.",
+                "Solo estás emocionado de pasar los días festivos con tu pareja y no lo tomarán como algo personal."
             ],
             "column_Count": 1,
-            "correct_value": "Acepte tu oferta, porque ustedes dos lo pasaron bien en el tren."
+            "correct_value": "Solo estás emocionado de pasar los días festivos con tu pareja y no lo tomarán como algo personal."
         }
     ],
     "navigation_conditions": [

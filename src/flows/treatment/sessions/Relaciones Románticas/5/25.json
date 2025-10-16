@@ -1,14 +1,14 @@
 {
-    "header_text": "sintiéndote inferior por estar soltero",
+    "header_text": "Tiempo de calidad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "sintiéndote inferior por estar soltero"
+            "text": "Tiempo de calidad"
         },
         {
             "type": "Media",
-            "url": "./images/211.jpg"
+            "url": "./images/212.jpg"
         }
     ],
     "type": "positive",

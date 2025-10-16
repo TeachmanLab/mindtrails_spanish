@@ -1,16 +1,16 @@
 {
-    "header_text": "Consejos para un amigo",
+    "header_text": "Estrés en tu relación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Consejos para un amigo"
+            "text": "Estrés en tu relación"
         },
         {
             "type": "Media",
-            "url": "./images/194.jpg"
+            "url": "./images/195.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 3
 }

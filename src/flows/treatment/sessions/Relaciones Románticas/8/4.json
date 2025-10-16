@@ -1,16 +1,16 @@
 {
-    "header_text": "sin notificaciones",
+    "header_text": "Mensajes en redes sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "sin notificaciones"
+            "text": "Mensajes en redes sociales"
         },
         {
             "type": "Media",
-            "url": "./images/222.jpg"
+            "url": "./images/223.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 1
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Expresar tus sentimientos",
+    "header_text": "Relaciones futuras",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Expresar tus sentimientos"
+            "text": "Relaciones futuras"
         },
         {
             "type": "Media",
-            "url": "./images/228.jpg"
+            "url": "./images/177.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 5
 }

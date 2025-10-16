@@ -1,16 +1,16 @@
 {
-    "header_text": "Nueva pareja",
+    "header_text": "Invitando a alguien a salir",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Nueva pareja"
+            "text": "Invitando a alguien a salir"
         },
         {
             "type": "Media",
-            "url": "./images/225.jpg"
+            "url": "./images/178.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 4
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Ignorando",
+    "header_text": "Zambullirte",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Ignorando"
+            "text": "Zambullirte"
         },
         {
             "type": "Media",
-            "url": "./images/206.jpg"
+            "url": "./images/207.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 0
 }

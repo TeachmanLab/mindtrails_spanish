@@ -1,19 +1,19 @@
 {
-    "header_text": "Responsibilidad financiera:Pensamientos",
+    "header_text": "Administrar facturas:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Su pareja estuvo en el hospital recientemente y usted ha estado ayudando a pagar sus facturas médicas. Te preguntas qué significará esto para tus finanzas en el futuro.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "El pago de su hipoteca vence pronto y también tendrá que pagar algunas facturas médicas inesperadas. Tu presupuesto es ajustado este mes y piensas en cómo podrás afrontar todo esto.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Nos vamos a quedar sin dinero para pagar estas facturas.",
-                "Vamos a salir de esto.",
-                "Mi pareja es muy fuerte.",
-                "Pienso en lo desafiante que es esta situación, pero recuerdo que no durará para siempre.",
-                "Intento imaginar cómo se podría haber evitado esto, pero acepto que mi pareja necesitaba estar en el hospital."
+                "Nunca podré permitirme todo esto.",
+                "Creo que no hay solución para este problema, pero doy un paso atrás y pienso en mis opciones.",
+                "Esta es una situación difícil, pero no tendré todos estos gastos todos los meses.",
+                "He enfrentado con éxito desafíos financieros en el pasado y puedo hacerlo de nuevo ahora.",
+                "Puedo encontrar una manera de manejar esto."
             ],
             "Duration": 15000
         }

@@ -1,20 +1,20 @@
 {
-    "header_text": "Tiempo de calidad",
+    "header_text": "Pajera silenciosa",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Con tus hijos en casa, tú y tu pareja no tienen la oportunidad de pasar mucho tiempo de calidad juntos. sientes que tú y tu pareja se están distanciando. Decides planear una noche de cita solo para ustedes..."
+            "text": "Tú y tu pareja tuvieron un desacuerdo que se convirtió en una gran pelea. No han hablado desde entonces, y han pasado algunas horas. Piensas que probablemente solo necesitan un tiempo solos y que ustedes hablarán..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Tiempo de calidad_Relaciones Románticas_puzzle1",
+            "name": "Pajera silenciosa_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "dos"
+                "pronto"
             ],
             "missing_letter_count": 2
         }

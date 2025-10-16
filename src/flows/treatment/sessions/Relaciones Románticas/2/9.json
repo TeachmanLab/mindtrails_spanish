@@ -1,20 +1,20 @@
 {
-    "header_text": "Decepción de aniversario",
+    "header_text": "Discute con tu pareja",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu aniversario con tu pareja es este fin de semana, pero no te han mencionado que hicieron grandes planes. Tener tus expectativas defraudadas parece ser un evento recurrente, y crees que es hora de traerlas a ellos. Descubres una manera de traerlo a colación con calma, sin comenzar una... "
+            "text": "Recientemente tuviste una pelea con tu pareja. Se trataba de un tema grave y te preocupas por qué tu pareja no estuvo de acuerdo con tú Crees que tú y tu pareja eventualmente se..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Decepción de aniversario_Relaciones Románticas_puzzle1",
+            "name": "Discute con tu pareja_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "pelea"
+                "reconciliarán"
             ],
             "missing_letter_count": 1
         }

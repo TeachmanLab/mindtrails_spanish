@@ -1,17 +1,17 @@
 {
-    "header_text": "Amigos en las relaciones",
+    "header_text": "Encontrar al indicado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Después de un tiempo, te das cuenta de que es muy normal no estar en una relación. Piensas que disfrutas estar soltero y que la persona adecuada aparecerá cuando estés... "
+            "text": "Actualmente estás soltero y has tenido citas para intentar encontrar a la persona indicada. A veces, resulta difícil conectarse realmente con las personas y conocerlas a un nivel más profundo. Cuando piensas en casarte en el futuro, te..."
         },
         {
             "type": "Entry",
-            "name": "Amigos en las relaciones_Relaciones Románticas_entry2"
+            "name": "Encontrar al indicado_Relaciones Románticas_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 9
 }

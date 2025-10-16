@@ -1,16 +1,16 @@
 {
-    "header_text": "Encontrar al indicado",
+    "header_text": "Casarse con tu pareja",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Encontrar al indicado"
+            "text": "Casarse con tu pareja"
         },
         {
             "type": "Media",
-            "url": "./images/229.jpg"
+            "url": "./images/181.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 0
 }

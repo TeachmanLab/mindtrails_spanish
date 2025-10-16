@@ -1,19 +1,19 @@
 {
-    "header_text": "Reírse de un chiste: Comportamientos",
+    "header_text": "Miembro de la familia de edad avanzada: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Un amigo cuenta un chiste gracioso y te empiezas a reír mucho. Mientras te ríes, sientes una opresión incómoda en el pecho que nunca antes habías sentido. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Vas a la casa de tus padres por primera vez en mucho tiempo y notas que tu padre parece mucho menos saludable de lo que recuerdas. Ninguno de tus padres menciona nada sobre su salud.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Salgo de la habitación para que la gente no me vea.",
-                "Respiro hondo y le digo a mi amigo que fue una buena broma.",
-                "Quiero gritarle a mi amigo que se calle, pero respiro hondo y decido no hacerlo.",
-                "Tomo un sorbo de agua y continúo la conversación.",
-                "Aunque es difícil, me digo a mí mismo que este sentimiento pasará."
+                "Siento la necesidad de preguntarle sobre su salud, pero respiro hondo y escucho lo que habla mi familia ahora sabiendo que hay una razón por la que no me han dicho nada.",
+                "Empiezo a conversar con mi familia.",
+                "Evito pensar en su salud.",
+                "Quiero interrogar a la familia sobre su salud, pero decido disfrutar de la reunión.",
+                "Me río de una tontería que dijo mi padre."
             ],
             "Duration": 15000
         }

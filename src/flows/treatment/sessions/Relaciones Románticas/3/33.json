@@ -1,14 +1,29 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Citas en línea",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en las lecciones que aprendiste de las historias que lees hoy. Mirando hacia atrás a una situación reciente que te hizo ansioso, ¿cómo podrías haberlo pensado de una manera diferente para que fuera más fácil de manejar?"
+            "text": "¿Crees que conocerás a alguien pronto?"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #5_entry"
+            "type": "Buttons",
+            "name": "Citas en línea_Relaciones Románticas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 9
 }

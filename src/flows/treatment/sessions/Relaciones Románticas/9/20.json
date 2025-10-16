@@ -1,14 +1,14 @@
 {
-    "header_text": "Amgio del trabajo",
+    "header_text": "Familia grande",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Amgio del trabajo"
+            "text": "Familia grande"
         },
         {
             "type": "Media",
-            "url": "./images/232.jpg"
+            "url": "./images/233.jpg"
         }
     ],
     "type": "positive",

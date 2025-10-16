@@ -1,16 +1,16 @@
 {
-    "header_text": "Primera reunión",
+    "header_text": "Citas en línea",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Primera reunión"
+            "text": "Citas en línea"
         },
         {
             "type": "Media",
-            "url": "./images/200.jpg"
+            "url": "./images/190.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 9
 }

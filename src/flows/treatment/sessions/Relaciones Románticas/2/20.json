@@ -1,14 +1,14 @@
 {
-    "header_text": "Comparándote con otros",
+    "header_text": "Anticipando una cita",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Comparándote con otros"
+            "text": "Anticipando una cita"
         },
         {
             "type": "Media",
-            "url": "./images/188.jpg"
+            "url": "./images/189.jpg"
         }
     ],
     "type": "positive",

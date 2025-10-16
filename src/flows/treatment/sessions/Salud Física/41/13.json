@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "Siento la necesidad de preguntarle sobre su salud, pero respiro hondo y escucho lo que habla mi familia ahora sabiendo que hay una razón por la que no me han dicho nada.",
-                "Empiezo a conversar con mi familia.",
-                "Evito pensar en su salud.",
-                "Quiero interrogar a la familia sobre su salud, pero decido disfrutar de la reunión.",
-                "Me río de una tontería que dijo mi padre."
+                "Quiero irme y llorar, pero decido quedarme con la familia y conversar.",
+                "Decido darle un gran abrazo y sonreír.",
+                "Noto mi tristeza pero le pregunto amablemente a mi padre cómo está y acepto cualquier respuesta que me dé.",
+                "Hago una broma divertida para hacer reír a mis padres.",
+                "No hablo con mis padres porque no me dijeron que estaba enfermo."
             ],
             "Duration": 15000
         }

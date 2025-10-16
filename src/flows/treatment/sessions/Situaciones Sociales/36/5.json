@@ -1,19 +1,19 @@
 {
-    "header_text": "Sentado en el autobús:Pensamientos",
+    "header_text": "Vidrio roto:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás sentado en el autobús y ves subir a tu amigo. Pasan junto a ti y se sientan con otro amigo.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Estás en un restaurante tranquilo con muchos miembros de tu familia para cenar. Mientras tomas un trago de agua, accidentalmente dejas caer el vaso al suelo y se rompe.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Siento que mi amigo está enojado conmigo, pero habría dicho algo.",
-                "Realmente no me gusta sentarme sola, pero sé que puedo soportar este corto viaje en autobús.",
-                "Probablemente mi amigo tenía algo de qué hablar con el otro amigo.",
-                "Mi amigo pasó junto a mí a propósito.",
-                "Puedo sentarme aquí solo por el resto del viaje."
+                "La gente de mi familia ha dejado cosas en restaurantes en el pasado.",
+                "Pienso en cómo todo el mundo a veces tiene momentos de torpeza.",
+                "Puede que mi familia esté molesta, pero puedo esperar hasta que sigan adelante.",
+                "Mi familia debe estar avergonzada de mí.",
+                "El camarero se irritará, pero me disculparé y me ofreceré a ayudar a limpiar."
             ],
             "Duration": 15000
         }

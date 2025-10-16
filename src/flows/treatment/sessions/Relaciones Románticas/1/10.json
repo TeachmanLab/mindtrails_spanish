@@ -1,29 +1,29 @@
 {
-    "header_text": "La cita",
+    "header_text": "Relaciones futuras",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "La impresión de tu cita sobre ti probablemente fue..."
+            "text": "Después de tu separación, piensas que..."
         },
         {
             "type": "Buttons",
-            "name": "La cita_Relaciones Románticas_comp_question",
+            "name": "Relaciones futuras_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Negativa",
-                "Positiva"
+                "Probablemente nunca encuentres a alguien bueno para ti.",
+                "Eventualmente conocerás a la persona adecuada para ti."
             ],
             "column_Count": 1,
-            "correct_value": "Positiva"
+            "correct_value": "Eventualmente conocerás a la persona adecuada para ti."
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 2
 }

@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "Se ve muy feliz de estar con la familia.",
-                "Probablemente fallezca pronto.",
-                "Mi padre se alegra de que esté de visita.",
-                "Me pregunto qué estará pasando con su salud, pero me tranquilizo sabiendo que mi familia lo cuida.",
-                "Pienso si mis padres me están ocultando algo, pero me digo a mí mismo que no puedo controlar la salud de mi padre."
+                "Mi padre debe estar muriendo.",
+                "Está feliz de verme.",
+                "Quiero aprovechar al máximo mi tiempo con mi padre.",
+                "Mis padres deben estar guardando un secreto sobre su salud, pero luego me dicen que todo el mundo envejece.",
+                "Pienso en lo miserable que seré cuando él fallezca, pero luego me recuerdo a mí mismo que hoy debo disfrutar mi tiempo con él."
             ],
             "Duration": 15000
         }

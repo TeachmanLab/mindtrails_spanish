@@ -1,16 +1,16 @@
 {
-    "header_text": "Una nueva relación",
+    "header_text": "Consejos para un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Una nueva relación"
+            "text": "Consejos para un amigo"
         },
         {
             "type": "Media",
-            "url": "./images/193.jpg"
+            "url": "./images/194.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 2
 }

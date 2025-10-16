@@ -1,10 +1,10 @@
 {
-    "header_text": "Conocer a alguien nuevo: Escribe Alguno Sentimientos",
+    "header_text": "Trabajar en grupos: Escribe Alguno Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En una fiesta de trabajo, tu amigo te presenta a un amigo suyo atractivo que no habías conocido antes. A la manana siguiente, notas que te enviaron un correo electrónico.\n\nTómese 30 segundos para escribir diferentes sentimientos. El siguiente botón aparecerá automáticamente. \n\nSentimientos en el momento y cómo manejarías cualquier sentimiento negativo:"
+            "text": "Tu jefe les dice a todos que mañana os dividiréis en pequeños grupos para planificar nuevos proyectos de trabajo. También dice que tendrás que elegir tu grupo, pero te das cuenta de que no tienes amigos cercanos en tu lugar de trabajo.\n\nTómese 30 segundos para escribir diferentes sentimientos. El siguiente botón aparecerá automáticamente. \n\nSentimientos en el momento y cómo manejarías cualquier sentimiento negativo:"
         },
         {
             "type": "Entry"

@@ -1,19 +1,19 @@
 {
-    "header_text": "Conocer a alguien nuevo:Pensamientos",
+    "header_text": "Trabajar en grupos:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En una fiesta de trabajo, tu amigo te presenta a un amigo suyo atractivo que no habías conocido antes. A la manana siguiente, notas que te enviaron un correo electrónico.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Tu jefe les dice a todos que mañana os dividiréis en pequeños grupos para planificar nuevos proyectos de trabajo. También dice que tendrás que elegir tu grupo, pero te das cuenta de que no tienes amigos cercanos en tu lugar de trabajo.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Probablemente querían enviar un correo electrónico a otra persona.",
-                "Creo que quieren conocerme.",
-                "Pensaron que era agradable hablar conmigo.",
-                "Es posible que dejen de enviarme correos electrónicos después de que responda, pero probablemente estén muy ocupados.",
-                "Quizás quieran ser simplemente mis amigos, y eso me parece bien."
+                "Podría hacer un comentario que el grupo considere tonto, pero probablemente olvidarán lo que dije después de la discusión.",
+                "La gente estará feliz de trabajar conmigo.",
+                "Terminaré en un grupo de alguna manera y estará bien, incluso si no es mi primera opción.",
+                "Todos elegirán su grupo antes de que yo llegue y no podré encontrar un grupo.",
+                "Haré buenas contribuciones a la discusión del grupo."
             ],
             "Duration": 15000
         }

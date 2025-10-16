@@ -1,19 +1,19 @@
 {
-    "header_text": "Rompiendo el código de honor: Comportamientos",
+    "header_text": "Salir sin ti: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás trabajando en un informe con algunos colegas y necesitas informar algunas estadísticas. Un colega sugiere que cambie las estadísticas para que su informe se vea mejor, pero eso sería mentir.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Estás en el trabajo y escuchas a algunos de tus compañeros de trabajo conversando detrás de ti. Mientras escuchas, te das cuenta de que no te invitaron a una pequeña reunión y que algunos de tus compañeros de trabajo y amigos estaban pasando el rato sin ti. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Cambio nuestros resultados porque no tengo confianza en nuestro trabajo.",
-                "Me entusiasma encontrar formas de presentar nuestros hallazgos de forma clara y eficaz.",
-                "Estoy tentado a cambiar nuestros resultados, pero decido no hacerlo.",
-                "Sugiero armar la presentación sin cambiar los resultados.",
-                "Quiero cambiar nuestros resultados para terminar la presentación más rápido, pero sigo intentando trabajar con lo que tenemos."
+                "Invitaré a algunos de mis compañeros de trabajo a salir más adelante esta semana.",
+                "Quiero contar chismes sobre lo horrible que fue que no me invitaran, pero decido que eso no sería útil.",
+                "Saludo a mis compañeros de trabajo cuando los veo en nuestra oficina.",
+                "Lloro y pienso en otras ocasiones en las que he sido excluido.",
+                "Quiero ignorarlos por no invitarme, pero recordarme que eso sería infantil."
             ],
             "Duration": 15000
         }

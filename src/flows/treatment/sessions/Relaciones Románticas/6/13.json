@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "Quiero eliminarlos de mi teléfono, pero decido darle algo de tiempo a la situación y calmarme.",
-                "Me acerco a un amigo.",
-                "Cancelo mis planes del día.",
-                "Quiero enviarle varios mensajes a esta persona, pero en lugar de eso llamar a un amigo.",
-                "Empiezo a trabajar en otras cosas importantes que quiero hacer hoy."
+                "Llamo a un amigo y le pregunto sobre su día.",
+                "Envío un montón de mensajes seguidos para ver si responden.",
+                "Quiero pasar el día concentrado en mi teléfono, pero en lugar de eso hago pasatiempos que disfruto.",
+                "Quiero preguntarles qué piensan de mí, pero decido darle más tiempo.",
+                "Sigo con mi día."
             ],
             "Duration": 15000
         }

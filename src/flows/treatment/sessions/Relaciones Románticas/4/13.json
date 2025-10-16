@@ -1,25 +1,29 @@
 {
-    "header_text": "Relación a largo plazo",
+    "header_text": "La familia no aprueba a su pareja",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "No te preocupas por tu relación y ves que tu relación se..."
+            "text": "¿Tu familia será escéptica con respecto a tu pareja para siempre?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Relación a largo plazo_Relaciones Románticas_puzzle_word2",
+            "type": "Buttons",
+            "name": "La familia no aprueba a su pareja_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "fortalece"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 3
 }

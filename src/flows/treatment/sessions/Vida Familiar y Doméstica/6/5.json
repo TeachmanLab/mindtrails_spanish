@@ -1,19 +1,19 @@
 {
-    "header_text": "Niñera:Pensamientos",
+    "header_text": "Balancear responsibilidades:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás cuidando al hijo de una amiga y miras televisión mientras ella duerme. Afuera está oscuro y de repente oyes ruidos contra la ventana.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Tienes muchas tareas domésticas que hacer esta noche y también tienes un gran proyecto que debes entregar mañana. Ambos tienen que hacerse y usted piensa en cómo manejará todo.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Pienso en que hay muchos animales afuera en este momento.",
-                "Me doy cuenta de que estoy asumiendo que va a pasar lo peor y recuerdo que, en realidad, todo estará bien.",
-                "Aunque mi cerebro automáticamente piensa en el peor de los casos, me recuerdo a mí mismo que probablemente estoy a salvo.",
-                "Pienso en cómo alguien podría estar intentando entrar.",
-                "Creo que debe ser el viento."
+                "No creo que pueda realizar todas estas tareas.",
+                "Odio sentir que tengo mucho que hacer, pero haré lo mejor que pueda para hacerlo todo.",
+                "Creo que esto me ayudará a organizarme cuidadosamente en el futuro.",
+                "Puedo gestionar ambas tareas.",
+                "Creo que esto es demasiado trabajo, pero considere lo bien que se sentirá cuando esté todo terminado."
             ],
             "Duration": 15000
         }

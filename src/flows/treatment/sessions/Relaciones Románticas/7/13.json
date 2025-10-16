@@ -1,14 +1,14 @@
 {
-    "header_text": "Abrirse",
+    "header_text": "sintiendote apurado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Le contarás a tu pareja sobre tu ansiedad?"
+            "text": "¿Estás quedándote sin tiempo para conocer a alguien?"
         },
         {
             "type": "Buttons",
-            "name": "Abrirse_Relaciones Románticas_comp_question",
+            "name": "sintiendote apurado_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
@@ -17,7 +17,7 @@
                 "No"
             ],
             "column_Count": 1,
-            "correct_value": "Sí"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

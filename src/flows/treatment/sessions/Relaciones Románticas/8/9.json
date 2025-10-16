@@ -1,14 +1,14 @@
 {
-    "header_text": "Conversaciones incómodas",
+    "header_text": "Nueva pareja",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Invitaste a tu cónyuge a pasar el rato contigo y tus amigos para que todos pudieran conocerse. Más tarde, tu cónyuge sacó a relucir un tema controvertido y tus amigos parecían no estar seguros de cómo responder. Sabes que tus amigos reconocen que muchas personas, incluidos tú y tu cónyuge, tienen opiniones..."
+            "text": "El cumpleaños de una prima el mes que viene y vas a ir a una gran reunión familiar. Vas a traer a tu pareja al evento y será su primera vez conociendo a tu familia. Cuando piensas en que todos se conocerán, piensas que todo irá..."
         },
         {
             "type": "Entry",
-            "name": "Conversaciones incómodas_Relaciones Románticas_entry1"
+            "name": "Nueva pareja_Relaciones Románticas_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",

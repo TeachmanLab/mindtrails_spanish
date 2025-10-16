@@ -1,10 +1,10 @@
 {
-    "header_text": "Luchando con una presentación: Escribe Alguno Sentimientos",
+    "header_text": "Maquinas apagadas: Escribe Alguno Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Ha estado luchando por armar esta presentación, pero aún no se ha comunicado con su jefe al respecto. \n\nTómese 30 segundos para escribir diferentes sentimientos. El siguiente botón aparecerá automáticamente. \n\nSentimientos en el momento y cómo manejarías cualquier sentimiento negativo:"
+            "text": "Tú y tu familia van a salir de la ciudad por unos días y tu pareja te pide que revises que todos los electrodomésticos de tu casa estén apagados antes de partir. Tenías que apresurarte a hacer las maletas, así que no pudiste comprobarlo todo. \n\nTómese 30 segundos para escribir diferentes sentimientos. El siguiente botón aparecerá automáticamente. \n\nSentimientos en el momento y cómo manejarías cualquier sentimiento negativo:"
         },
         {
             "type": "Entry"

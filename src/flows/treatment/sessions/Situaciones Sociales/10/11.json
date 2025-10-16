@@ -1,10 +1,10 @@
 {
-    "header_text": "Una presentación grande",
+    "header_text": "Una presentación importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Una presentación grande"
+            "text": "Una presentación importante"
         },
         {
             "type": "Media",

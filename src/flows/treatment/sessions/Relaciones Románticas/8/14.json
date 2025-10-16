@@ -1,17 +1,17 @@
 {
-    "header_text": "Invitando a alguien a salir",
+    "header_text": "Comparándote con otros",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando consideras invitar a la otra persona  a tomar un café, no te preocupa que te rechacen porque estás bastante seguro de que esta persona..."
+            "text": "Recientemente, tu pareja mencionó que encuentran atractiva a cierta celebridad. Esta celebridad no se parece en nada a ti, y te preguntas si tu pareja ha cambiado sus preferencias desde el comienzo de su relación. Piensas que aún se sienten atraída a..."
         },
         {
             "type": "Entry",
-            "name": "Invitando a alguien a salir_Relaciones Románticas_entry2"
+            "name": "Comparándote con otros_Relaciones Románticas_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

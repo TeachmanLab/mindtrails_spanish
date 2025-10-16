@@ -1,14 +1,14 @@
 {
-    "header_text": "Vidrio roto",
+    "header_text": "Dando una presentación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en un restaurante tranquilo con muchos miembros de tu familia para cenar. Mientras tomas un trago de agua, accidentalmente dejas caer el vaso al suelo y se rompe.\n\nHaga clic en Siguiente para ver algunas ideas."
+            "text": "Tienes que hacer una presentación en una reunión hoy. Cuando te paras frente al grupo, sientes que tus mejillas se calientan y tus manos empiezan a temblar.\n\nHaga clic en Siguiente para ver algunas ideas."
         },
         {
             "type": "Media",
-            "url": "./images/570.jpg",
+            "url": "./images/59.jpg",
             "border": true
         }
     ]

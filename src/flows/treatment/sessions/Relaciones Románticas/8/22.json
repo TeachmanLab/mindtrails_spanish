@@ -1,17 +1,16 @@
 {
-    "header_text": "Amigos en las relaciones",
+    "header_text": "Encontrar al indicado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Todos tus amigos están en relaciones. Actualmente no estás en una relación y te preguntas si hay algo malo en ti. Piensas que eres..."
+            "text": "Encontrar al indicado"
         },
         {
-            "type": "Entry",
-            "name": "Amigos en las relaciones_Relaciones Románticas_entry1"
+            "type": "Media",
+            "url": "./images/229.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 9
 }
