@@ -223,7 +223,7 @@ def create_discrimination_session(pop):
         for row in islice(csv.reader(f),1,None):
             title, text, input_1, var_name, input_name = row[0], row[1], row[2], row[13], row[15]
             items, conditions = row[7], row[14]
-            text = f'Vaya a la libreria de recursos disponibles los enlaces a estos recursos.\n\n{clean_up_unicode(row[1])}' #changed
+            text = clean_up_unicode(row[1]) #changed
 
             pages.append(create_discrimination_page(conditions=conditions,
                                                     text=text,
