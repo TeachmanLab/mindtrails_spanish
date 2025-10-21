@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Establezca una hora/fecha en la que tomará una decisión sobre si necesita consultar a un médico (por ejemplo, si todavía me siento mal dentro de 3 días, programaré una cita)"
+            "text": "Establece una fecha y hora en la que tomarás una decisión sobre si necesitas consultar a un médico (por ejemplo, si todavía me siento mal dentro de 3 días, haré una cita)."
         }
     ]
 }
