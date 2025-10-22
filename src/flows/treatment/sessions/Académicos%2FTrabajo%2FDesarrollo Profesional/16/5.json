@@ -1,19 +1,19 @@
 {
-    "header_text": "Rompiendo el código de honor:Pensamientos",
+    "header_text": "Trabajar en grupos:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás trabajando en un informe con algunos colegas y necesitas informar algunas estadísticas. Un colega sugiere que cambie las estadísticas para que su informe se vea mejor, pero eso sería mentir.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Tu jefe les dice a todos que mañana os dividiréis en pequeños grupos para planificar nuevos proyectos de trabajo. También dice que tendrás que elegir tu grupo, pero te das cuenta de que no tienes amigos cercanos en tu lugar de trabajo.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "La gente pensará que el informe es bueno.",
-                "Mis colegas deciden cambiar las estadísticas, pero sé que puedo acudir a mi supervisor si me preocupa.",
-                "Mis colegas se reirán de mí por decir que no quiero incluir números falsos.",
-                "Mis colegas no querrán trabajar conmigo en otro informe, pero estoy orgulloso de mí mismo por hacer lo correcto.",
-                "Quiero escribir este informe sin mentir."
+                "Podría hacer un comentario que el grupo considere tonto, pero probablemente olvidarán lo que dije después de la discusión.",
+                "La gente estará feliz de trabajar conmigo.",
+                "Terminaré en un grupo de alguna manera y estará bien, incluso si no es mi primera opción.",
+                "Todos elegirán su grupo antes de que yo llegue y no podré encontrar un grupo.",
+                "Haré buenas contribuciones a la discusión del grupo."
             ],
             "Duration": 15000
         }

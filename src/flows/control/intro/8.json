@@ -10,13 +10,13 @@
             "type": "Buttons",
             "buttons": [
                 "Trabajando a tiempo completo",
-                "Trabajando a tiempo parcial",
-                "Desempleado o despedido",
+                "Trabajar a tiempo parcial",
+                "Desempleado/a o despedido/a",
                 "Buscando trabajo",
                 "Ama de casa/cuidando la casa o criando hijos a tiempo completo",
-                "Jubilado",
-                "Alumno",
-                "!Otro",
+                "Jubilado/a",
+                "Estudiante",
+                "Otro",
                 "Desconocido",
                 "Prefiero no responder"
             ],

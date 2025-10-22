@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "En este breve ejercicio, leerás varias historias cortas.\n\nLee cada una de ellas con atención e intenta imaginarte en la situación.\n\nLa última palabra de cada historia está incompleta. Haga clic en la letra que falta para completar la palabra.\n\nDespués de completar correctamente la palabra, te hará unas preguntas sobre la historia. Responde la pregunta basándote en la información del cuento."
+            "text": "En este breve ejercicio, leerás varias historias cortas.\n\nLee cada una con atención e intenta imaginarte en la situación.\n\nLa última palabra de cada historia está incompleta. Haz clic en la letra que falta para completar la palabra.\n\nDespués de completar correctamente la palabra, se te harán unas preguntas sobre la historia. Responde basándote en la información del cuento."
         }
     ]
 }

@@ -4,7 +4,20 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Algunas personas tienen problemas al intentar utilizar una aplicación móvil. Lea las siguientes declaraciones y díganos qué problema tuvo al intentar utilizar la aplicación."
+            "text": "¿Qué tan útiles te parecieron los recursos y referencias proporcionados en la aplicación?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "No",
+                "Levemente",
+                "Un poco",
+                "Principalmente",
+                "Mucho",
+                "^Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "resources_use"
         }
     ]
 }

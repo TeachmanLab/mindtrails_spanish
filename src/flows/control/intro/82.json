@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Durante la semana pasada, cuando se sintió ansioso, ¿qué tan intensa o grave fue su ansiedad?"
+            "text": "Durante la semana pasada, cuando te sentiste ansioso, ¿qué tan intensa o grave fue tu ansiedad?"
         },
         {
             "type": "Buttons",

@@ -1,10 +1,10 @@
 {
-    "header_text": "Maquinas apagadas: Comportamientos",
+    "header_text": "Marcado en una foto: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tu familia van a salir de la ciudad por unos días y tu pareja te pide que revises que todos los electrodomésticos de tu casa estén apagados antes de partir. Tenías que apresurarte a hacer las maletas, así que no pudiste comprobarlo todo. \n\nTómese 30 segundos para escribir diferentes comportamientos. El siguiente botón aparecerá automáticamente.\n\nComportamientos que podrías realizar en este momento:"
+            "text": "Tú y tus amigos tomaron algunas fotografías juntos. Al día siguiente, recibes una notificación de que te etiquetaron en una publicación en las redes sociales. No te gusta cómo te ves en la foto.\n\nTómese 30 segundos para escribir diferentes comportamientos. El siguiente botón aparecerá automáticamente.\n\nComportamientos que podrías realizar en este momento:"
         },
         {
             "type": "Entry"

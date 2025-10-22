@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Pude manejar mis emociones hoy.\n\n1 = Nada efectivo\n\n7 = Muy efectivamente"
+            "text": "Podía manejar mis emociones hoy.\n\n1 = Nada efectivo\n\n7 = Muy efectivamente"
         },
         {
             "type": "Slider",

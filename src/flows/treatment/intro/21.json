@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "En los últimos dos meses, ha habido algún cambio en tu tratamiento de salud mental? Marque todo lo que corresponda."
+            "text": "En los últimos dos meses, ¿ha habido algún cambio en tu tratamiento de salud mental? Marca todo lo que corresponda."
         },
         {
             "type": "Buttons",
@@ -12,7 +12,7 @@
                 "Empecé terapia",
                 "Terminé la terapia",
                 "Cambié de terapeuta",
-                "Mi médico cambió mi dosis recetada",
+                "Mi médico cambió mi dosis de medicamento recetado",
                 "Comencé a tomar medicamentos recetados",
                 "Dejé de tomar un medicamento recetado",
                 "No he tenido ningún cambio",

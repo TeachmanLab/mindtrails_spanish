@@ -1,10 +1,10 @@
 {
-    "header_text": "Balancear responsibilidades: Escribe Algunos Pensamientos",
+    "header_text": "Respondiendo una pregunta: Escribe Algunos Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes muchas tareas domésticas que hacer esta noche y también tienes un gran proyecto que debes entregar mañana. Ambos tienen que hacerse y usted piensa en cómo manejará todo.\n\nTómese 30 segundos para escribir pensamientos diferentes. El siguiente botón aparecerá automáticamente. \n\nPensamientos en el momento:"
+            "text": "En una reunión con algunos colegas y su jefe, su jefe le pide que responda una pregunta. Dices tu mejor respuesta y tus compañeros de trabajo guardan silencio.\n\nTómese 30 segundos para escribir pensamientos diferentes. El siguiente botón aparecerá automáticamente. \n\nPensamientos en el momento:"
         },
         {
             "type": "Entry"

@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en una cita médica de rutina. En la cita, el médico decide realizar algunos análisis de sangre para comprobar tu salud. El médico dice que te llamará en unas semanas y que en ese momento conocerás los resultados de tus pruebas..."
+            "text": "Estás en una cita médica de rutina. Durante la cita, el médico decide realizar algunos análisis de sangre para comprobar tu salud. Te dice que te llamará en unas semanas y que entonces conocerás los resultados de tus pruebas..."
         },
         {
             "type": "WordPuzzle",

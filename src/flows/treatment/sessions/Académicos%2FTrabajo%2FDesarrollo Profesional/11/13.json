@@ -1,19 +1,19 @@
 {
-    "header_text": "Balancear responsibilidades: Comportamientos",
+    "header_text": "Respondiendo una pregunta: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes muchas tareas domésticas que hacer esta noche y también tienes un gran proyecto que debes entregar mañana. Ambos tienen que hacerse y usted piensa en cómo manejará todo.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "En una reunión con algunos colegas y su jefe, su jefe le pide que responda una pregunta. Dices tu mejor respuesta y tus compañeros de trabajo guardan silencio.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Empiezo con el proyecto primero.",
-                "Me siento y no hago nada.",
-                "Quiero evitar todas las tareas, pero decido hacer un horario para ayudarme a organizar mi tiempo.",
-                "Solo quiero ser perezoso y tomar una siesta, pero decido comenzar con una tarea.",
-                "Empiezo con las tareas del hogar."
+                "Me aseguraré de estar más preparado antes de la próxima reunión.",
+                "Sonrío y me siento.",
+                "Quiero llorar, pero me tomo un momento para calmarme y concentrarme en la siguiente pregunta.",
+                "Siento que debería contar una broma para que mis compañeros de trabajo se olviden de mi respuesta, pero no lo hacen.",
+                "No volveré a hablar en las reuniones."
             ],
             "Duration": 15000
         }

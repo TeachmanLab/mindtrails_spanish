@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás almorzando con un amigo. Cuando empiezas a comer tu ensalada, describes tus planes para el fin de semana. Accidentalmente se te cae un trozo de lechuga y tu amigo mira..."
+            "text": "Estás almorzando con un amigo. Cuando empiezas a comer tu ensalada, le describes tus planes para el fin de semana. Accidentalmente se te cae un trozo de lechuga y tu amigo mira..."
         },
         {
             "type": "WordPuzzle",

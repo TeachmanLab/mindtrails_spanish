@@ -1,19 +1,19 @@
 {
-    "header_text": "Amigo ruidoso: Comportamientos",
+    "header_text": "Respondiendo una pregunta: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu auto se averió y un amigo te va a dejar en una reunión. Cuando te dejan, hacen mucho ruido y todos los que están allí te miran. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "En una reunión con algunos colegas y su jefe, su jefe le pide que responda una pregunta. Dices tu mejor respuesta y tus compañeros de trabajo guardan silencio.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Le sonrío a mi amigo mientras salgo del auto.",
-                "Evito hacer contacto visual con la gente.",
-                "Siento la necesidad de saltarme la reunión, pero me obligo a enfrentar mis miedos y entrar.",
-                "Quiero seguir disculpándome con las personas en la reunión hasta estar seguro de que no están enojados, pero decido que una vez es suficiente.",
-                "Empiezo a sacar mis notas para la reunión."
+                "Me aseguraré de estar más preparado antes de la próxima reunión.",
+                "Sonrío y me siento.",
+                "Quiero llorar, pero me tomo un momento para calmarme y concentrarme en la siguiente pregunta.",
+                "Siento que debería contar una broma para que mis compañeros de trabajo se olviden de mi respuesta, pero no lo hacen.",
+                "No volveré a hablar en las reuniones."
             ],
             "Duration": 15000
         }

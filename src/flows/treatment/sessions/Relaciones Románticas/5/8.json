@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sea un intercambio positivo sobre lo que sienten el uno por el otro.",
-                "Se convierta en una discusión."
+                "Se convierta en una discusión.",
+                "Sea un intercambio positivo sobre lo que sienten el uno por el otro."
             ],
             "column_Count": 1,
             "correct_value": "Se convierta en una discusión."

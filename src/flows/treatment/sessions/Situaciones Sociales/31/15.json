@@ -1,10 +1,10 @@
 {
-    "header_text": "Poco interes: Comportamientos",
+    "header_text": "Conocer a alguien nuevo: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Decide responder a todos a un correo electrónico de todo el departamento para compartir una idea. Han pasado algunas horas y nadie ha respondido a tu sugerencia todavía.\n\nTómese 30 segundos para escribir diferentes comportamientos. El siguiente botón aparecerá automáticamente.\n\nComportamientos que podrías realizar en este momento:"
+            "text": "En una fiesta de trabajo, tu amigo te presenta a un amigo suyo atractivo que no habías conocido antes. A la mañana siguiente, notas que te enviaron un correo electrónico.\n\nTómese 30 segundos para escribir diferentes comportamientos. El siguiente botón aparecerá automáticamente.\n\nComportamientos que podrías realizar en este momento:"
         },
         {
             "type": "Entry"

@@ -1,19 +1,19 @@
 {
-    "header_text": "Dando una presentación: Comportamientos",
+    "header_text": "Saludando a mis amigos: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes que hacer una presentación en una reunión hoy. Cuando te paras frente al grupo, sientes que tus mejillas se calientan y tus manos empiezan a temblar.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Estás afuera en un día fresco y ves a tus amigos en la calle. Decides correr para saludar. Cuando llegas con tus amigos, te quedas sin aliento.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Hablo con voz fuerte.",
-                "Sonrío y comienzo mi presentación.",
-                "Le pregunto a mi jefe si puedo presentarme otro día.",
-                "Considero fingir que estoy enfermo para no tener que presentar, pero me reto a mí mismo a hacer la presentación de todos modos.",
-                "Quiero ir al baño y mojarme la cara con agua, pero decido volver a concentrarme en mi entorno para relajarme y poder."
+                "Sonrío cuando veo a mis amigos.",
+                "Quiero sentarme en el suelo y evitar hablar hasta que me recupere, pero reconozco mis sentimientos y contengo el aliento.",
+                "Les pregunto cómo están mis amigos después de recuperar el aliento.",
+                "Les digo a mis amigos que no puedo respirar y que necesito ayuda.",
+                "Pienso en llamar a mi pareja para asegurarme de que no me estoy muriendo, pero sé que en realidad estoy bien."
             ],
             "Duration": 15000
         }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Balancear responsibilidades:Pensamientos",
+    "header_text": "Respondiendo una pregunta:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes muchas tareas domésticas que hacer esta noche y también tienes un gran proyecto que debes entregar mañana. Ambos tienen que hacerse y usted piensa en cómo manejará todo.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "En una reunión con algunos colegas y su jefe, su jefe le pide que responda una pregunta. Dices tu mejor respuesta y tus compañeros de trabajo guardan silencio.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "No creo que pueda realizar todas estas tareas.",
-                "Odio sentir que tengo mucho que hacer, pero haré lo mejor que pueda para hacerlo todo.",
-                "Creo que esto me ayudará a organizarme cuidadosamente en el futuro.",
-                "Puedo gestionar ambas tareas.",
-                "Creo que esto es demasiado trabajo, pero considere lo bien que se sentirá cuando esté todo terminado."
+                "Mi respuesta fue reflexiva.",
+                "Mis compañeros de trabajo están juzgando mi respuesta.",
+                "Mi respuesta me pareció tonta porque no entendí la pregunta, pero nadie se acordará mañana.",
+                "No comuniqué mi punto tan bien como me hubiera gustado esta vez, pero sé que tendré más oportunidades de hablar en el futuro.",
+                "Fue agradable poder compartir lo que pienso."
             ],
             "Duration": 15000
         }

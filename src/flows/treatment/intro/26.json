@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en el vestíbulo del nuevo edificio de apartamentos de tu amigo. Pulsas el botón del ascensor para subir. El edificio parece viejo. Al subir al ascensor piensas en la..."
+            "text": "Estás en el vestíbulo del nuevo edificio de apartamentos de tu amigo. Pulsas el botón del ascensor para subir. El edificio parece viejo. Al subir al ascensor, piensas en la..."
         },
         {
             "type": "WordPuzzle",

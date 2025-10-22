@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "¿Qué tan abierto o interesado está en buscar otras formas de tratamiento por parte de un profesional de salud mental (por ejemplo, terapia, medicación) en comparación con antes de comenzar el programa?"
+            "text": "¿Qué tan abierto o interesado estás en buscar otras formas de tratamiento por parte de un profesional de salud mental (por ejemplo, terapia, medicación) en comparación con antes de comenzar el programa?"
         },
         {
             "type": "Buttons",
@@ -24,6 +24,6 @@
     "condition": [
         "RFE_anxiety_depression",
         "=",
-        "Inseguro"
+        "Si"
     ]
 }

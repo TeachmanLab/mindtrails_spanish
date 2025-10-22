@@ -1,19 +1,19 @@
 {
-    "header_text": "Poco interes: Sentimientos",
+    "header_text": "Conocer a alguien nuevo: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Decide responder a todos a un correo electrónico de todo el departamento para compartir una idea. Han pasado algunas horas y nadie ha respondido a tu sugerencia todavía.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "En una fiesta de trabajo, tu amigo te presenta a un amigo suyo atractivo que no habías conocido antes. A la mañana siguiente, notas que te enviaron un correo electrónico.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me siento valiente por compartir una idea con todo el departamento.",
-                "Estoy feliz de colaborar con mi departamento.",
-                "Me avergüenza que a nadie le haya gustado mi idea, pero probablemente la olvidarán pronto.",
-                "Me siento decepcionado por no haber recibido respuesta, pero probablemente la gente todavía esté pensando en ello.",
-                "Me siento totalmente expuesto."
+                "Me siento inseguro de mantener una conversación con ellos.",
+                "Me siento halagado de que quisieran enviarme un correo electrónico.",
+                "No estoy seguro de la razón por la que me enviaron un correo electrónico, pero me doy cuenta de que es solo porque querían hacerlo.",
+                "Me preocupa lo que piensen de mí, pero sé que puedo lidiar con el no saberlo.",
+                "Estoy emocionado de leer su respuesta."
             ],
             "Duration": 15000
         }

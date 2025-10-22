@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Te caigas y te lastimes.",
-                "Patines con éxito alrededor de la pista varias veces."
+                "Patines con éxito alrededor de la pista varias veces.",
+                "Te caigas y te lastimes."
             ],
             "column_Count": 1,
             "correct_value": "Patines con éxito alrededor de la pista varias veces."

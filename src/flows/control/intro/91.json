@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "En el último mes, ¿con qué frecuencia ha sentido que las dificultades se acumulaban tanto que no podías superarlas?"
+            "text": "En el último mes, ¿con qué frecuencia has sentido que las dificultades se acumulaban tanto que no podías superarlas?"
         },
         {
             "type": "Buttons",

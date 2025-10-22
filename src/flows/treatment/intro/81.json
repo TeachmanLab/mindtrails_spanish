@@ -10,10 +10,10 @@
             "type": "Buttons",
             "buttons": [
                 "Sin ansiedad en la última semana",
-                "Ansiedad poco frecuente. Me sentí ansioso algunas veces.",
-                "Ansiedad ocasional. Me sentí ansioso la mayor parte del tiempo. Fue difícil relajarse.",
-                "Ansiedad frecuente. Me sentí ansioso la mayor parte del tiempo. Fue muy difícil relajarse.",
-                "Ansiedad constante. Me sentí ansioso todo el tiempo y nunca realmente relajado.",
+                "Ansiedad de poca frecuencia. Me sentí ansioso algunas veces.",
+                "Ansiedad ocasional. Me sentí ansioso la mayor parte de la semana. Fue difícil relajarse.",
+                "Ansiedad frecuente. Me sentí ansioso la mayor parte de la semana. Fue muy difícil relajarse.",
+                "Ansiedad constante. Me sentí ansioso todo el tiempo y nunca realmente me relajé.",
                 "^Prefiero no responder"
             ],
             "selectable": true,

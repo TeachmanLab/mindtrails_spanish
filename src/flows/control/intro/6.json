@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "¿Cuál es su máximo nivel educativo?"
+            "text": "¿Cuál es tu máximo nivel educativo?"
         },
         {
             "type": "Buttons",
@@ -20,7 +20,6 @@
                 "Maestría",
                 "MBA",
                 "JD",
-                "MARYLAND.",
                 "Doctor.",
                 "Otros Títulos Avanzados",
                 "^Prefiero no responder"

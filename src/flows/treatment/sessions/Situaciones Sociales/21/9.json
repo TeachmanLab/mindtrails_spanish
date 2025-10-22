@@ -1,19 +1,19 @@
 {
-    "header_text": "Salir sin ti: Sentimientos",
+    "header_text": "Amigo ruidoso: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en el trabajo y escuchas a algunos de tus compañeros de trabajo conversando detrás de ti. Mientras escuchas, te das cuenta de que no te invitaron a una pequeña reunión y que algunos de tus compañeros de trabajo y amigos estaban pasando el rato sin ti. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Tu auto se averió y un amigo te va a dejar en una reunión. Cuando te dejan, hacen mucho ruido y todos los que están allí te miran. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me siento triste, pero decido pensar en los buenos momentos que he pasado con mis amigos del trabajo.",
-                "Me preocupa que me hayan dejado fuera a propósito, pero recuerda todas las veces que me han incluido.",
-                "Me alegro de tener a estas personas como compañeros de trabajo.",
-                "Estoy tranquilo escuchando lo que hicieron.",
-                "Me entristece que se hayan olvidado de mí."
+                "Estoy realmente avergonzado, pero recuerdo que puedo tolerar estos sentimientos y que pasarán rápidamente.",
+                "Estoy feliz de tener amigos que están dispuestos a ayudarme.",
+                "Estoy lleno de energía porque esta reunión suele ser interesante.",
+                "Me siento enojado con mi amigo pero me recuerdo a mí mismo que me está haciendo un favor.",
+                "Me avergüenza que mi amigo sea tan ruidoso."
             ],
             "Duration": 15000
         }

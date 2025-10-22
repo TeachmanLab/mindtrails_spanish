@@ -1,19 +1,19 @@
 {
-    "header_text": "Amigo ruidoso: Sentimientos",
+    "header_text": "Luchando con una presentación: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu auto se averió y un amigo te va a dejar en una reunión. Cuando te dejan, hacen mucho ruido y todos los que están allí te miran. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Ha estado luchando por armar esta presentación, pero aún no se ha comunicado con su jefe al respecto. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Instantáneamente me siento avergonzado de mi ruidoso amigo, pero recuerdo que no puedo controlar lo que hace.",
-                "Estoy ansioso por llegar a la reunión y ver gente.",
-                "Estoy nervioso por lo que puedan decir las personas en la reunión, pero parecen muy amables y comprensivos.",
-                "Estoy tan avergonzado por mi amigo.",
-                "Estoy entusiasmado con esta reunión."
+                "Me siento mejor sabiendo que mis compañeros están pasando por lo mismo que yo.",
+                "Me siento feliz de que la presentación termine pronto.",
+                "Me siento mal porque tal vez no me vaya tan bien en esta presentación, pero es sólo una pequeña parte de toda mi carrera profesional.",
+                "Tengo miedo de que mi progreso decepcione a mi jefe.",
+                "Me da vergüenza pedirle ayuda a mi jefe, pero admiro mi confianza al exponerme."
             ],
             "Duration": 15000
         }

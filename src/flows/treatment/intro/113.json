@@ -1,13 +1,10 @@
 {
+    "header_text": "Gran trabajo",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¡Presione play en el video de entrenamiento a continuación para obtener más información!"
-        },
-        {
-            "type": "Media",
-            "url": "/videos/video2.mp4",
-            "border": true
+            "text": "¿Aún tienes preguntas? ¡Pónte en contacto con el equipo en mindtrailsespanol@gmail.com! Estaremos encantados de programar una llamada de Zoom para abordar cualquier pregunta o inquietud que puedas tener."
         }
     ]
 }

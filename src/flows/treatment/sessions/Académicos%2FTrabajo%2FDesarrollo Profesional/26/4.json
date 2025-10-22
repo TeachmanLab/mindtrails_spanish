@@ -1,14 +1,14 @@
 {
-    "header_text": "Subiendo escaleras",
+    "header_text": "Balancear responsibilidades",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te estás reuniendo con tu jefe. Para llegar a tiempo, simplemente subió dos tramos de escaleras rápidamente y sintió que su corazón latía muy rápidamente.\n\nHaga clic en Siguiente para ver algunas ideas."
+            "text": "Tienes muchas tareas domésticas que hacer esta noche y también tienes un gran proyecto que debes entregar mañana. Ambos tienen que hacerse y usted piensa en cómo manejará todo.\n\nHaga clic en Siguiente para ver algunas ideas."
         },
         {
             "type": "Media",
-            "url": "./images/572.jpg",
+            "url": "./images/591.jpg",
             "border": true
         }
     ]

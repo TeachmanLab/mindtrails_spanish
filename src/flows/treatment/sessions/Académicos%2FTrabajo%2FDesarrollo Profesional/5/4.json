@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Estaban enfocados en tu presentación.",
-                "Estaban aburridos con tu presentación."
+                "Estaban aburridos con tu presentación.",
+                "Estaban enfocados en tu presentación."
             ],
             "column_Count": 1,
             "correct_value": "Estaban enfocados en tu presentación."

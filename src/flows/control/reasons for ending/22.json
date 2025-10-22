@@ -4,20 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Los problemas técnicos con la aplicación móvil (por ejemplo, la aplicación falla o se congela) dificultaron la tarea. usar."
-        },
-        {
-            "type": "Buttons",
-            "buttons": [
-                "No",
-                "Levemente",
-                "Un poco",
-                "Principalmente",
-                "Muy",
-                "^Prefiero no responder"
-            ],
-            "selectable": true,
-            "name": "tech_problems"
+            "text": "Algunas personas tienen problemas al intentar utilizar una aplicación móvil. Lee las siguientes declaraciones y dinos qué problema tuviste al intentar utilizar la aplicación."
         }
     ]
 }

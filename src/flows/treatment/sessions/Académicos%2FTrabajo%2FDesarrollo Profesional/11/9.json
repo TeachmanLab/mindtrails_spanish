@@ -1,19 +1,19 @@
 {
-    "header_text": "Balancear responsibilidades: Sentimientos",
+    "header_text": "Respondiendo una pregunta: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes muchas tareas domésticas que hacer esta noche y también tienes un gran proyecto que debes entregar mañana. Ambos tienen que hacerse y usted piensa en cómo manejará todo.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "En una reunión con algunos colegas y su jefe, su jefe le pide que responda una pregunta. Dices tu mejor respuesta y tus compañeros de trabajo guardan silencio.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Estoy ansioso por poder hacer todo.",
-                "Estoy tranquila mientras priorizo ​​mis tareas domésticas y mi proyecto.",
-                "Me emociona escuchar a mi artista favorito mientras hago mis quehaceres.",
-                "Aunque me siento abrumado, intento sentirme agradecido por el trabajo que tengo y por la casa en la que vivo.",
-                "Me siento molesto por todo lo que tengo que hacer, pero me imagino cómo se sentirá tenerlo todo logrado."
+                "Estoy decepcionado conmigo mismo porque no pude decir lo que quería decir, pero creo que mi jefe entendió mi punto.",
+                "me asusté al contestar",
+                "Estaba muy ansiosa mientras respondía, pero pude controlar mis sentimientos.",
+                "Me alegra que mi jefe me haya dado la oportunidad de compartir mi respuesta.",
+                "Estoy satisfecho con la forma en que expresé mi respuesta."
             ],
             "Duration": 15000
         }

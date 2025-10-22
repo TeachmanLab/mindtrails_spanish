@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Simplemente olvidé abrir la aplicación."
+            "text": "Los problemas técnicos con la aplicación móvil (por ejemplo, que la aplicación falle o se congele) dificultaron su uso."
         },
         {
             "type": "Buttons",
@@ -13,11 +13,11 @@
                 "Levemente",
                 "Un poco",
                 "Principalmente",
-                "Muy",
+                "Mucho",
                 "^Prefiero no responder"
             ],
             "selectable": true,
-            "name": "forgot"
+            "name": "tech_problems"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Dando una presentación",
+    "header_text": "Saludando a mis amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes que hacer una presentación en una reunión hoy. Cuando te paras frente al grupo, sientes que tus mejillas se calientan y tus manos empiezan a temblar.\n\nHaga clic en Siguiente para ver algunas ideas."
+            "text": "Estás afuera en un día fresco y ves a tus amigos en la calle. Decides correr para saludar. Cuando llegas con tus amigos, te quedas sin aliento.\n\nHaga clic en Siguiente para ver algunas ideas."
         },
         {
             "type": "Media",
-            "url": "./images/59.jpg",
+            "url": "./images/587.jpg",
             "border": true
         }
     ]

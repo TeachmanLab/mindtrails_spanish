@@ -4,13 +4,13 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Durante la semana pasada, ¿con qué frecuencia se sintió ansioso?"
+            "text": "Durante la semana pasada, ¿con qué frecuencia te sentiste ansioso?"
         },
         {
             "type": "Buttons",
             "buttons": [
                 "Sin ansiedad en la última semana",
-                "Ansiedad poco frecuente. Me sentí ansioso algunas veces.",
+                "Ansiedad de poco frecuencia. Me sentí ansioso algunas veces.",
                 "Ansiedad ocasional. Me sentí ansioso la mayor parte del tiempo. Fue difícil relajarse.",
                 "Ansiedad frecuente. Me sentí ansioso la mayor parte del tiempo. Fue muy difícil relajarse.",
                 "Ansiedad constante. Me sentí ansioso todo el tiempo y nunca realmente relajado.",

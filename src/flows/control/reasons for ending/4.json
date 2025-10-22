@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "¿Qué tan útil le resultó MindTrails Español para reducir su ansiedad?"
+            "text": "¿Qué tan útil te resultó MindTrails Español para reducir tu ansiedad?"
         },
         {
             "type": "Buttons",
@@ -13,7 +13,7 @@
                 "Levemente",
                 "Un poco",
                 "Principalmente",
-                "Muy",
+                "Mucho",
                 "^Prefiero no responder"
             ],
             "selectable": true,

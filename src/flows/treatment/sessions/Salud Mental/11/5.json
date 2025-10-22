@@ -1,19 +1,19 @@
 {
-    "header_text": "Serpientes en el parque:Pensamientos",
+    "header_text": "Luchando con una presentación:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo te convence para dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Ha estado luchando por armar esta presentación, pero aún no se ha comunicado con su jefe al respecto. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Tengo muchas ganas de hablar con mi amigo.",
-                "Aunque he oído que puede haber serpientes en el parque, creo que es poco probable que vea una.",
-                "Realmente no tengo muchas ganas de ir al parque que podría tener serpientes, pero sé que puedo tolerar mis sentimientos de ansiedad.",
-                "¡Me va a morder una serpiente!",
-                "Será agradable caminar por el parque."
+                "Mi jefe estará orgulloso de mí porque me estoy esforzando mucho.",
+                "Esta presentación será una buena oportunidad para practicar mis habilidades para hablar en público.",
+                "Mis colegas se aburrirán y hablarán entre ellos durante mi presentación.",
+                "Puede que no haga lo mejor que pueda en esta presentación, pero la superaré.",
+                "Mi jefe se sentirá decepcionado por mis esfuerzos, pero aún puedo sentirme orgulloso del trabajo que realicé."
             ],
             "Duration": 15000
         }

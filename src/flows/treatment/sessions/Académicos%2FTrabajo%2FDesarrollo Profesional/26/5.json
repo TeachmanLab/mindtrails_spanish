@@ -1,19 +1,19 @@
 {
-    "header_text": "Subiendo escaleras:Pensamientos",
+    "header_text": "Balancear responsibilidades:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te estás reuniendo con tu jefe. Para llegar a tiempo, simplemente subió dos tramos de escaleras rápidamente y sintió que su corazón latía muy rápidamente.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Tienes muchas tareas domésticas que hacer esta noche y también tienes un gran proyecto que debes entregar mañana. Ambos tienen que hacerse y usted piensa en cómo manejará todo.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Estoy emocionado por la reunión.",
-                "Mi jefe podría notar lo sin aliento que estoy y está bien si lo hace.",
-                "Subí esas escaleras muy rápido.",
-                "Da miedo sentir mi corazón latiendo rápido, pero sé que todo terminará pronto.",
-                "¿Estoy sufriendo un infarto?"
+                "No creo que pueda realizar todas estas tareas.",
+                "Odio sentir que tengo mucho que hacer, pero haré lo mejor que pueda para hacerlo todo.",
+                "Creo que esto me ayudará a organizarme cuidadosamente en el futuro.",
+                "Puedo gestionar ambas tareas.",
+                "Creo que esto es demasiado trabajo, pero considere lo bien que se sentirá cuando esté todo terminado."
             ],
             "Duration": 15000
         }

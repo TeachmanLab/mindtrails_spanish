@@ -1,10 +1,10 @@
 {
-    "header_text": "Salir sin ti: Comportamientos",
+    "header_text": "Amigo ruidoso: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en el trabajo y escuchas a algunos de tus compañeros de trabajo conversando detrás de ti. Mientras escuchas, te das cuenta de que no te invitaron a una pequeña reunión y que algunos de tus compañeros de trabajo y amigos estaban pasando el rato sin ti. \n\nTómese 30 segundos para escribir diferentes comportamientos. El siguiente botón aparecerá automáticamente.\n\nComportamientos que podrías realizar en este momento:"
+            "text": "Tu auto se averió y un amigo te va a dejar en una reunión. Cuando te dejan, hacen mucho ruido y todos los que están allí te miran. \n\nTómese 30 segundos para escribir diferentes comportamientos. El siguiente botón aparecerá automáticamente.\n\nComportamientos que podrías realizar en este momento:"
         },
         {
             "type": "Entry"

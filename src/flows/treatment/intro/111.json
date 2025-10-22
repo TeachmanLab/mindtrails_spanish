@@ -1,23 +1,10 @@
 {
-    "header_text": "Contribuyendo a una discusión",
+    "header_text": "Gran trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu jefe convoca una reunión para discutir un nuevo proyecto que involucrará a la mayor parte del personal de tu oficina. De repente te pide que contribuyas con tus ideas a la discusión. Rápidamente se te ocurren algunas ideas sobre el terreno y crees que tus colegas encontrarán tus ideas..."
-        },
-        {
-            "type": "WordPuzzle",
-            "name": "Contribuyendo a una discusión_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "interesantes"
-            ],
-            "missing_letter_count": 1
+            "text": "¡Gran trabajo! Esperamos que esta breve capacitación haya ayudado a aclarar el propósito de estas historias cortas y lo que podrías obtener de MindTrails Español. En el futuro, podrás elegir áreas de la vida que te causen mayor estrés para que las historias que leas sean más relevantes para ti. Durante sesiones futuras, también recibirás consejos diseñados para ayudarte a manejar tus emociones, conectarse con recursos y aplicar lo que aprendas de los cuentos en tu propia vida."
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }
