@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Vaya a la libreria de recursos disponibles los enlaces a estos recursos.\n\n<strong>\\Hablando Sobre Raza:</strong> Las conversaciones sobre raza son importantes: aquí le mostramos cómo mantenerlas bien. <a href=\"https://jfsneworleans.org/wp-content/uploads/2020/03/Talking-about-Race-Discrimination-espanol.pdf\">https://jfsneworleans.org/wp-content/uploads/2020/03/Talking-about-Race-Discrimination-espanol.pdf</a><br><br>",
+            "text": "<strong>\\Hablando Sobre Raza:</strong> Las conversaciones sobre raza son importantes: aquí le mostramos cómo mantenerlas bien. <a href=\"https://jfsneworleans.org/wp-content/uploads/2020/03/Talking-about-Race-Discrimination-espanol.pdf\">https://jfsneworleans.org/wp-content/uploads/2020/03/Talking-about-Race-Discrimination-espanol.pdf</a><br><br>",
             "html": true
         }
     ],

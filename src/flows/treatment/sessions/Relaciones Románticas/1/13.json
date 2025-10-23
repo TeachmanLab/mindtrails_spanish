@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "si le preguntas a la otra persona si quiere tomar un café, es probable que..."
+            "text": "Si le preguntas a la otra persona si quiere tomar un café, es probable que..."
         },
         {
             "type": "Buttons",
@@ -13,7 +13,7 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Rechace tu oferta, porque no están interesados en volver a verte.",
+                "Rechace tu oferta, porque no está interesado en volver a verte.",
                 "Acepte tu oferta, porque ustedes dos lo pasaron bien en el tren."
             ],
             "column_Count": 1,

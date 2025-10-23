@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tu jefe probablemente pensará que..."
+            "text": "Tu jefe probablemente piensa que..."
         },
         {
             "type": "Buttons",
@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Estás listo para enfrentar desafíos.",
-                "Eres una persona torpe."
+                "Eres una persona torpe.",
+                "Estás listo para enfrentar desafíos."
             ],
             "column_Count": 1,
             "correct_value": "Estás listo para enfrentar desafíos."

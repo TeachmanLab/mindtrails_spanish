@@ -1,19 +1,19 @@
 {
-    "header_text": "Rompiendo el código de honor:Pensamientos",
+    "header_text": "Haciendo lo mejor que puedas:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás trabajando en un informe con algunos colegas y necesitas informar algunas estadísticas. Un colega sugiere que cambie las estadísticas para que su informe se vea mejor, pero eso sería mentir.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Vas a presentar tu progreso en un proyecto a tu jefe la próxima semana. Tu vida personal ha sido agitada últimamente y no has tenido mucho tiempo para dedicarle al proyecto, lo que te deja con menos actualizaciones que informar de lo habitual.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "La gente pensará que el informe es bueno.",
-                "Mis colegas deciden cambiar las estadísticas, pero sé que puedo acudir a mi supervisor si me preocupa.",
-                "Mis colegas se reirán de mí por decir que no quiero incluir números falsos.",
-                "Mis colegas no querrán trabajar conmigo en otro informe, pero estoy orgulloso de mí mismo por hacer lo correcto.",
-                "Quiero escribir este informe sin mentir."
+                "Me da pereza no trabajar más.",
+                "Soy un buen empleado.",
+                "Haré lo mejor que pueda para progresar la próxima semana.",
+                "Incluso si obtengo un mal desempeño en un informe de progreso, eso no significa que perderé mi trabajo.",
+                "Puede que mi jefe no esté impresionado con mi progreso, pero puedo avanzar más la próxima vez."
             ],
             "Duration": 15000
         }

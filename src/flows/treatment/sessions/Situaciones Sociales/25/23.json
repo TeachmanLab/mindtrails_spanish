@@ -1,10 +1,10 @@
 {
-    "header_text": "sintiéndote ansioso",
+    "header_text": "Sintiéndote ansioso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "sintiéndote ansioso"
+            "text": "Sintiéndote ansioso"
         },
         {
             "type": "Media",

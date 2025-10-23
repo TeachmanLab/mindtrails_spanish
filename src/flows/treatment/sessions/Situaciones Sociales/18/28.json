@@ -1,10 +1,10 @@
 {
-    "header_text": "Usando algo viejo",
+    "header_text": "Llevando algo viejo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Usando algo viejo"
+            "text": "Llevando algo viejo"
         },
         {
             "type": "Media",

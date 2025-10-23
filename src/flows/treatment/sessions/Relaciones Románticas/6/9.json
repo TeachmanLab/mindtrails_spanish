@@ -4,15 +4,15 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado enviando mensajes de texto a alguien que realmente te gusta y, por lo general, responde rápidamente. Notas que vieron tu mensaje hace un par de horas y no respondieron. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Has estado enviando mensajes de texto a alguien que realmente te gusta y, por lo general, responde rápidamente. Notas que vio tu mensaje hace un par de horas y no respondió. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me parece bien que no hayan respondido.",
+                "Me parece bien que no haya respondido.",
                 "Me siento mal por no recibir una respuesta rápida, pero recuerda que no necesito intentar controlar la situación.",
-                "Me preocupa no haber recibido respuesta, pero me doy cuenta de que no necesito recibir respuesta inmediatamente sobre lo que envié.",
-                "Estoy feliz con quien soy, respondan o no.",
+                "Me preocupo no recibir una respuesta, pero me doy cuenta de que no necesito recibir respuesta inmediatamente sobre lo que envié.",
+                "Estoy feliz con quien soy, responda o no.",
                 "Me da vergüenza haberme expuesto."
             ],
             "Duration": 15000

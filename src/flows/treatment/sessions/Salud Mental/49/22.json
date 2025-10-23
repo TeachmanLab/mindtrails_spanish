@@ -1,16 +1,16 @@
 {
-    "header_text": "siendo padre",
+    "header_text": "Día especial",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "siendo padre"
+            "text": "Día especial"
         },
         {
             "type": "Media",
-            "url": "./images/325.jpg"
+            "url": "./images/191.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

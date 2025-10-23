@@ -1,14 +1,14 @@
 {
-    "header_text": "Pensamientos acelerados",
+    "header_text": "Charla de oficina",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Pensamientos acelerados"
+            "text": "Charla de oficina"
         },
         {
             "type": "Media",
-            "url": "./images/314.jpg"
+            "url": "./images/317.jpg"
         }
     ],
     "type": "positive",

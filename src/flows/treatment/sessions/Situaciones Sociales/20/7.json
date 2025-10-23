@@ -1,14 +1,14 @@
 {
-    "header_text": "Arriesgándote",
+    "header_text": "Asumir un riesgo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": " Un orador que admiras viene a dar una charla en tu departamento. Quieres hacerles una pregunta despues de la presentación, pero no quieres avergonsarte en frente de ellos. Cuando piesas en hablar con ellos, sientes... "
+            "text": " Un orador que admiras viene a dar una charla en tu departamento. Quieres hacerle una pregunta despues de la presentación, pero no quieres avergonsarte en frente de todos. Cuando piesas en hablar con él, sientes... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Arriesgándote_Situaciones Sociales_puzzle1",
+            "name": "Asumir un riesgo_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

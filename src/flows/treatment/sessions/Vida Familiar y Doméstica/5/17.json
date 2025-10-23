@@ -14,10 +14,10 @@
             "incorrect_delay": 5000,
             "buttons": [
                 "Ser más allá de tus posibilidades, incluso con tu trabajo.",
-                "Ser asequible y salir bien."
+                "Ser asequible y saldrá bien."
             ],
             "column_Count": 1,
-            "correct_value": "Ser asequible y salir bien."
+            "correct_value": "Ser asequible y saldrá bien."
         }
     ],
     "navigation_conditions": [

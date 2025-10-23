@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "¿En qué medida podría identificarse con las historias presentadas durante las sesiones de capacitación?"
+            "text": "¿En qué medida podrías identificarte con las historias presentadas durante las sesiones de capacitación?"
         },
         {
             "type": "Buttons",
@@ -13,7 +13,7 @@
                 "Levemente",
                 "Un poco",
                 "Principalmente",
-                "Muy",
+                "Mucho",
                 "^Prefiero no responder"
             ],
             "selectable": true,

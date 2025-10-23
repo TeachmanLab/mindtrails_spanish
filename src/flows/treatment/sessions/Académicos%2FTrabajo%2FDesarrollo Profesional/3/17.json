@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "¿Eres capaz de responder a la pregunta?"
+            "text": "¿Eres capaz de responder la pregunta?"
         },
         {
             "type": "Buttons",
@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Sí",
+                "No"
             ],
             "column_Count": 1,
             "correct_value": "Sí"

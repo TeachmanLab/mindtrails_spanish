@@ -1,13 +1,5 @@
 {
-    "elements": [
-        {
-            "type": "Text",
-            "text": "¡Presione play en el video de entrenamiento a continuación para obtener más información!"
-        },
-        {
-            "type": "Media",
-            "url": "/videos/video1.mp4",
-            "border": true
-        }
-    ]
+    "header_text": "Practica CBM-I",
+    "header_icon": "assets/subtitle.png",
+    "elements": []
 }

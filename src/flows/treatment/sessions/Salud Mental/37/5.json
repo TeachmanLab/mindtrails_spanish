@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Acabas de tener tu primer hijo. Quieres tener una buena relación durante toda la vida de su hijo, pero te preocupa cometer errores como padre. Cuando tu hijo sea adulto, crees que la relación será..."
+            "text": "Acabas de tener tu primer hijo. Quieres tener una buena relación durante toda la vida de tu hijo, pero te preocupa cometer errores como padre. Cuando tu hijo sea adulto, crees que la relación será..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "tensa"
+                "fuerte"
             ],
             "missing_letter_count": 2
         }

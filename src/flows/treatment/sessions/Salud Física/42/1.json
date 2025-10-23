@@ -1,12 +1,12 @@
 {
-    "header_text": "¡Escribe El Tuyo!",
+    "header_text": "¡Escribe el tuyo!",
     "header_icon": [
         "assets/subtitle.png"
     ],
     "elements": [
         {
             "type": "Text",
-            "text": "En este ejercicio, ayude al equipo de MindTrails Espanol a idear nuevas historias de capacitación que puedan incluirse en nuestro programa futuro para ayudar a otros participantes."
+            "text": "En este ejercicio, ayuda al equipo de MindTrails Espanol a idear nuevas historias de capacitación que podamos incluir en nuestro programa futuro para ayudar a otros participantes."
         }
     ]
 }

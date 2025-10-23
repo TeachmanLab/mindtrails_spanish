@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Los compañeros de trabajo probablemente están pensando..."
+            "text": "Tus compañeros de trabajo probablemente están pensando..."
         },
         {
             "type": "Buttons",
@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Que no quieren ayudarte con la recaudación de fondos.",
-                "Que quieren ayudarte con la recaudación de fondos."
+                "Que quieren ayudarte con la recaudación de fondos.",
+                "Que no quieren ayudarte con la recaudación de fondos."
             ],
             "column_Count": 1,
             "correct_value": "Que quieren ayudarte con la recaudación de fondos."

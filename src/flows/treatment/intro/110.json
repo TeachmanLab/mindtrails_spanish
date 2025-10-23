@@ -1,14 +1,25 @@
 {
-    "header_text": "Contribuyendo a una discusión",
+    "header_text": "Comprensión / Compromiso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Contribuyendo a una discusión"
+            "text": "¿Qué espera obtener del programa MindTrails Español? Seleccione todas las que correspondan."
         },
         {
-            "type": "Media",
-            "url": "./images/57.jpg"
+            "type": "Buttons",
+            "buttons": [
+                "Quiero pensar con más flexibilidad y menos negativamente.",
+                "Quiero poder gestionar situaciones estresantes de forma más eficaz.",
+                "Quiero reducir mi estrés y/o ansiedad.",
+                "Quiero practicar habilidades que he aprendido o estoy aprendiendo actualmente de un proveedor de atención de salud mental.",
+                "Quiero mantener los avances que he logrado durante el tratamiento de salud mental.",
+                "Quiero evitar que vuelva la ansiedad y/o el estrés que he experimentado en el pasado.",
+                "!Otros, descríbalos:"
+            ],
+            "selectable": true,
+            "multiselect": true,
+            "name": "gain_from_HTC"
         }
     ]
 }

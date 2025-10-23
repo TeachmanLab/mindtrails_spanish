@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "¿Está actualmente luchando con alguno de los siguientes trastornos mentales? Por favor seleccione todas las respuestas válidas."
+            "text": "¿Estás actualmente luchando con alguno de los siguientes trastornos mentales? Por favor seleccione todas las respuestas válidas."
         },
         {
             "type": "Buttons",

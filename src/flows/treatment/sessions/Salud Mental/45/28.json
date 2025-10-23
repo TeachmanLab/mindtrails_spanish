@@ -1,16 +1,16 @@
 {
-    "header_text": "Decidir compartir una imagen",
+    "header_text": "Dolor de estómago",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Decidir compartir una imagen"
+            "text": "Dolor de estómago"
         },
         {
             "type": "Media",
-            "url": "./images/362.jpg"
+            "url": "./images/352.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 8
 }

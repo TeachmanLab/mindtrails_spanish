@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "¿En qué medida MindTrails Español mantuvo su interés y atención?"
+            "text": "¿En qué medida MindTrails Español mantuvo tu interés y atención?"
         },
         {
             "type": "Buttons",
@@ -13,7 +13,7 @@
                 "Levemente",
                 "Un poco",
                 "Principalmente",
-                "Muy",
+                "Mucho",
                 "^Prefiero no responder"
             ],
             "selectable": true,

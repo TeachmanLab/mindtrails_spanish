@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "El fin de semana pasado corriste tu primera carrera. Desde entonces, has estado sintiendo un dolor leve en la cadera. Mientras caminas, crees que este dolor probablemente no tiene..."
+            "text": "El fin de semana pasado corriste tu primera carrera. Desde entonces, has estado sintiendo un dolor leve en la cadera. Mientras caminas, crees que este dolor probablemente no es..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "importancia"
+                "importante"
             ],
             "missing_letter_count": 2
         }

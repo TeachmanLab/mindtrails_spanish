@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "¿Han sido útiles los prescripciónes recetados? \n\n1 = Nada útil\n4 = Algo útil\n7=Extremadamente útil"
+            "text": "¿Han sido útiles las prescripciónes recetados? \n\n1 = Nada útil\n4 = Algo útil\n7=Extremadamente útil"
         },
         {
             "type": "Slider",

@@ -1,16 +1,16 @@
 {
-    "header_text": "Correo electrónico importante",
+    "header_text": "Atascado en el medio",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Correo electrónico importante"
+            "text": "Atascado en el medio"
         },
         {
             "type": "Media",
-            "url": "./images/367.jpg"
+            "url": "./images/135.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 3
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Amigo ruidoso:Pensamientos",
+    "header_text": "Trabajar en grupos:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu auto se averió y un amigo te va a dejar en una reunión. Cuando te dejan, hacen mucho ruido y todos los que están allí te miran. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Tu jefe les dice a todos que mañana los dividirá en pequeños grupos para planificar nuevos proyectos de trabajo. También dice que tendrás que elegir tu grupo, pero te das cuenta de que no tienes amigos cercanos en tu lugar de trabajo.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Interrumpimos a mucha gente al hacer tanto ruido, pero es probable que no lo recuerden ni piensen en ello después.",
-                "Mi pensamiento inmediato es que la gente en la reunión se enojará conmigo, pero me recuerdo que no juzgo a las personas por lo que hacen sus amigos.",
-                "Tengo suerte de tener un amigo que me ayuda con el transporte.",
-                "Estoy deseando que llegue esta reunión.",
-                "La gente en la reunión me va a juzgar."
+                "Nadie querrá estar en mi grupo.",
+                "Todos decidirán que quieren estar con personas que ya conocen, pero lo entiendo.",
+                "Hay mucha gente agradable en mi lugar de trabajo.",
+                "Encontraré el grupo adecuado para mí.",
+                "Puede que la gente no esté de acuerdo con mis ideas, pero creo que aun así tendremos una discusión interesante."
             ],
             "Duration": 15000
         }

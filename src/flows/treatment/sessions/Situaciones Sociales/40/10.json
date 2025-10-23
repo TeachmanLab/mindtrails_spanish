@@ -1,10 +1,10 @@
 {
-    "header_text": "situación de embriaguez",
+    "header_text": "Situación de embriaguez",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "situación de embriaguez"
+            "text": "Situación de embriaguez"
         },
         {
             "type": "Media",

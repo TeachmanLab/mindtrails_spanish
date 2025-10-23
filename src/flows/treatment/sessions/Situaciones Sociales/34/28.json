@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando piensas en las reacciones a tu comida, te imaginas a los otros invitados..."
+            "text": "Cuando piensas en las reacciones a tu comida, te imaginas que los otros invitados..."
         },
         {
             "type": "Buttons",
@@ -13,11 +13,11 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Dejando sus porciones en sus platos.",
-                "sirviéndose una segunda vez."
+                "Se sirven una segunda vez.",
+                "Dejan  sus porciones en sus platos."
             ],
             "column_Count": 1,
-            "correct_value": "Dejando sus porciones en sus platos."
+            "correct_value": "Dejan  sus porciones en sus platos."
         }
     ],
     "navigation_conditions": [

@@ -1,16 +1,16 @@
 {
-    "header_text": "Comparar su trabajo con el de otros",
+    "header_text": "Solicitar una subvención",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Comparar su trabajo con el de otros"
+            "text": "Solicitar una subvención"
         },
         {
             "type": "Media",
-            "url": "./images/90.jpg"
+            "url": "./images/53.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 3
 }

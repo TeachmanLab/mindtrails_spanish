@@ -1,14 +1,14 @@
 {
-    "header_text": "Broma interna",
+    "header_text": "Pensando en preguntas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Broma interna"
+            "text": "Pensando en preguntas"
         },
         {
             "type": "Media",
-            "url": "./images/342.jpg"
+            "url": "./images/89.jpg"
         }
     ],
     "type": "positive",

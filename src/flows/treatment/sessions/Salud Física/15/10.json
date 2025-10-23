@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás dando una presentación que has estado realmente nervioso por dar. Mientras hablas, sientes un nudo en la garganta y comienzas a toser. Estos sentimientos probablemente significan que estás entrando en..."
+            "text": "Estás dando una presentación que te tenía realmente nervioso. Mientras hablas, sientes un nudo en la garganta y comienzas a toser. Estos sentimientos probablemente significan que estás..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "pánico"
+                "ansioso"
             ],
             "missing_letter_count": 1
         }

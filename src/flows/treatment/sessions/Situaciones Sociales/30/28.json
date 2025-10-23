@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tus suegros te han invitado a unirte a ellos para los días festivos. Estás emocionado de pasar tiempo con la familia de tu pareja, pero te preocupa que tus propios padres se sientan decepcionados de no estar con... "
+            "text": "Tus suegros te han invitado a reunirse a ellos para los días festivos. Estás emocionado de pasar tiempo con la familia de tu pareja, pero te preocupas que tus propios padres se sientan decepcionados de no estar con ellos. Cuando piensas en decirles a tus padres que te gustaría pasar los días festivos con tu pareja y su familia, crees que se tomarán mal la..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "ellos"
+                "noticia"
             ],
             "missing_letter_count": 1
         }

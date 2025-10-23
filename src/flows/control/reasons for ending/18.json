@@ -4,26 +4,18 @@
     "elements": [
         {
             "type": "Text",
-            "text": "¿Qué tan abierto o interesado está en buscar otras formas de tratamiento por parte de un profesional de salud mental (por ejemplo, terapia, medicación) en comparación con antes de comenzar el programa?"
+            "text": "¿Tienes síntomas de ansiedad o depresión de moderados a graves?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "Mucho más probable",
-                "Un poco más probable",
-                "Igualmente probable",
-                "Un poco menos probable",
-                "Mucho menos probable",
-                "No aplicable (por ejemplo, actualmente estoy recibiendo otra forma de tratamiento)",
-                "Prefiero no responder"
+                "Sí::Sí",
+                "No::no",
+                "Inseguro::Inseguro"
             ],
             "selectable": true,
-            "name": "interest_in_therapy"
+            "name": "anxiety_or_depression",
+            "variable_name": "RFE_anxiety_depression"
         }
-    ],
-    "condition": [
-        "RFE_anxiety_depression",
-        "=",
-        "Si"
     ]
 }

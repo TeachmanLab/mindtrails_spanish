@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Vives con algunos miembros de tu familia extendida. Tu colega te pregunta si puede venir a cenar algún día y no sabe cuántas personas viven en tu casa. Cuando imaginas a tu colega entrando a tu casa, crees que te..."
+            "text": "Vives con algunos miembros de tu familia extendida. Tu colega te pregunta si puede venir a cenar algún día y no sabe cuántas personas viven en tu casa. Cuando imaginas a tu colega entrando a tu casa, crees que se..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "sorprenderás"
+                "sorprenderá"
             ],
             "missing_letter_count": 2
         }

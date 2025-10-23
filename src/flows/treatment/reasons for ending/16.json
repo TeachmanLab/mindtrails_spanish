@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "¿Qué probabilidades hay de que recomiende MindTrails Español a otras personas con dificultades de ansiedad similares?"
+            "text": "¿Qué tan útiles te parecieron las estrategias y consejos proporcionados por la aplicación?"
         },
         {
             "type": "Buttons",
@@ -13,11 +13,11 @@
                 "Levemente",
                 "Un poco",
                 "Principalmente",
-                "Muy",
+                "Mucho",
                 "^Prefiero no responder"
             ],
             "selectable": true,
-            "name": "recommend"
+            "name": "tips_use"
         }
     ]
 }

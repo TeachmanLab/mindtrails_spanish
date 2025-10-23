@@ -1,14 +1,14 @@
 {
-    "header_text": "Deprimido",
+    "header_text": "Amigo en el hospital",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Deprimido"
+            "text": "Amigo en el hospital"
         },
         {
             "type": "Media",
-            "url": "./images/48.jpg"
+            "url": "./images/343.jpg"
         }
     ],
     "type": "positive",

@@ -1,5 +1,5 @@
 {
-    "header_text": "Usando algo viejo",
+    "header_text": "Llevando algo viejo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "Usando algo viejo_Situaciones Sociales_comp_question",
+            "name": "Llevando algo viejo_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Sí",
+                "No"
             ],
             "column_Count": 1,
             "correct_value": "No"

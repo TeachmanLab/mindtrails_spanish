@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "¿Qué tan fácil fue usar MindTrails Español ?"
+            "text": "¿Qué tan fácil fue usar MindTrails Español?"
         },
         {
             "type": "Buttons",
@@ -13,7 +13,7 @@
                 "Levemente",
                 "Un poco",
                 "Principalmente",
-                "Muy",
+                "Mucho",
                 "^Prefiero no responder"
             ],
             "selectable": true,

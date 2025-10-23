@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Más allá de tus capacidades.",
-                "Un objetivo a tu alcance."
+                "Un objetivo a tu alcance.",
+                "Más allá de tus capacidades."
             ],
             "column_Count": 1,
             "correct_value": "Un objetivo a tu alcance."

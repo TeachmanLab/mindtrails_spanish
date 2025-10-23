@@ -9,17 +9,17 @@
         {
             "type": "Buttons",
             "buttons": [
-                "Soltero",
-                "Soltero, pero saliendo casualmente",
-                "Soltero, pero actualmente comprometido para casarse",
-                "Soltero, pero actualmente vive con alguien en una relación similar a un matrimonio",
-                "Casado",
+                "Soltero/a",
+                "Soltero/a, pero saliendo casualmente",
+                "Soltero/a, pero actualmente comprometido para casarse",
+                "Soltero/a, pero actualmente vive con alguien en una relación similar a un matrimonio",
+                "Casado/a",
                 "En unión doméstica o civil",
-                "Apartado",
-                "Divorciado",
-                "Viuda/viudo",
-                "Otro",
-                "Prefiero no responder"
+                "Separado/a",
+                "Divorciado/a",
+                "Viudo/a",
+                "!Otro",
+                "^Prefiero no responder"
             ],
             "selectable": true,
             "name": "relationship"

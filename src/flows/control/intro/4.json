@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "¿Cuál es su raza?"
+            "text": "¿Cuál es tu raza?"
         },
         {
             "type": "Buttons",

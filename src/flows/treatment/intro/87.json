@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Durante las últimas 2 semanas, ¿con qué frecuencia te han molestado alguno de los siguientes problemas?\n\nSentirse deprimido, deprimido o desesperado."
+            "text": "Durante las últimas 2 semanas, ¿con qué frecuencia te han molestado alguno de los siguientes problemas?\n\nSentirse deprimido o desesperado."
         },
         {
             "type": "Buttons",

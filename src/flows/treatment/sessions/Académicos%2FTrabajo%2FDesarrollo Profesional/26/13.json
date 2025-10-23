@@ -1,19 +1,19 @@
 {
-    "header_text": "Subiendo escaleras: Comportamientos",
+    "header_text": "Amigo ruidoso: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te estás reuniendo con tu jefe. Para llegar a tiempo, simplemente subió dos tramos de escaleras rápidamente y sintió que su corazón latía muy rápidamente.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Tu auto se descompuso y un amigo te va a dejar en una reunión. Cuando te deja, hace mucho ruido y todos los que están allí te miran. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Respiro profundamente unas cuantas veces.",
-                "Siento la necesidad de decirle a mi jefe que algo anda realmente mal conmigo, pero recordarme a mí mismo que en realidad estoy bien.",
-                "Empiezo a buscar síntomas de un ataque cardíaco en línea para ver si me estoy muriendo.",
-                "Tomo unos sorbos de mi botella de agua.",
-                "Quiero entrar en pánico, pero recuerdo que en realidad es solo la reacción de mi cuerpo al subir las escaleras rápidamente."
+                "Quiero evitar a todos los que me rodean, pero me acuerdo de que lo pasaré mejor si hablo con la gente.",
+                "Guardo mi teléfono para estar más dispuesto a hablar con la gente.",
+                "Tengo ganas de faltar a la reunión porque me da vergüenza, pero me quedo porque sé que es importante asistir.",
+                "Voy al baño para evitar hablar con la gente.",
+                "Camino hacia la sala de reuniones y empiezo a hablar con la gente."
             ],
             "Duration": 15000
         }

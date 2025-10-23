@@ -1,19 +1,19 @@
 {
-    "header_text": "Balancear responsibilidades:Pensamientos",
+    "header_text": "Rompiendo el código de honor:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes muchas tareas domésticas que hacer esta noche y también tienes un gran proyecto que debes entregar mañana. Ambos tienen que hacerse y usted piensa en cómo manejará todo.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Estás trabajando en un informe con algunos colegas y necesitas informar algunas estadísticas. Un colega sugiere que cambies las estadísticas para que tu informe se vea mejor, pero eso sería mentir.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "No creo que pueda realizar todas estas tareas.",
-                "Odio sentir que tengo mucho que hacer, pero haré lo mejor que pueda para hacerlo todo.",
-                "Creo que esto me ayudará a organizarme cuidadosamente en el futuro.",
-                "Puedo gestionar ambas tareas.",
-                "Creo que esto es demasiado trabajo, pero considere lo bien que se sentirá cuando esté todo terminado."
+                "La gente pensará que el informe es bueno.",
+                "Mis colegas deciden cambiar las estadísticas, pero sé que puedo acudir a mi supervisor si me preocupa.",
+                "Mis colegas se reirán de mí por decir que no quiero incluir números falsos.",
+                "Mis colegas no querrán trabajar conmigo en otro informe, pero estoy orgulloso de mí mismo por hacer lo correcto.",
+                "Quiero escribir este informe sin mentir."
             ],
             "Duration": 15000
         }

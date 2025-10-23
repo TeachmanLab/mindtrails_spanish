@@ -1,14 +1,14 @@
 {
-    "header_text": "Tomándo el autobús",
+    "header_text": "Tomando el autobús",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "sientes una necesidad de bajarte del bús y regresar a casa, pero te sientas en el asiento más cercano. En lugar de salir, decides observar estas sensaciones y quedarte..."
+            "text": "Sientes una necesidad de bajarte del bús y regresar a casa, pero te sientas en el asiento más cercano. En lugar de salir, decides observar estas sensaciones y quedarte..."
         },
         {
             "type": "Entry",
-            "name": "Tomándo el autobús_Salud Física_entry2"
+            "name": "Tomando el autobús_Salud Física_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",

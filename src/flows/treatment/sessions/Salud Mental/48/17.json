@@ -1,16 +1,16 @@
 {
-    "header_text": "Tomando transporte",
+    "header_text": "Expectativas diferentes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tomando transporte"
+            "text": "Expectativas diferentes"
         },
         {
             "type": "Media",
-            "url": "./images/153.jpg"
+            "url": "./images/117.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

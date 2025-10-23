@@ -1,20 +1,20 @@
 {
-    "header_text": "Pensando en preguntas",
+    "header_text": "Clima lluvioso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Las preguntas de los demás son mejores que las tuyas?"
+            "text": "¿La tristeza de hoy va a durar para siempre?"
         },
         {
             "type": "Buttons",
-            "name": "Pensando en preguntas_Salud Mental_comp_question",
+            "name": "Clima lluvioso_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "No",
+                "Sí"
             ],
             "column_Count": 1,
             "correct_value": "No"

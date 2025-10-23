@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Como no has estado en contacto, tu amigo probablemente esté pensando..."
+            "text": "Como no has estado en contacto, tu amigo probablemente está pensando..."
         },
         {
             "type": "Buttons",

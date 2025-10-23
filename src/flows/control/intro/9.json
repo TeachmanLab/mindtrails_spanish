@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "¿Cuál es el ingreso anual de su hogar, antes de impuestos y otras deducciones (en dólares estadounidenses o su equivalente)?"
+            "text": "¿Cuál es el ingreso anual de tu hogar, antes de impuestos y otras deducciones (en dólares estadounidenses o su equivalente)?"
         },
         {
             "type": "Buttons",

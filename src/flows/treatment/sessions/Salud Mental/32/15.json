@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Hoy recibirás un correo electrónico que te informará si recibiste un ascenso. Tienes algunas horas para esperar hasta recibir el correo. Cuando piensas en esperar tanto tiempo, te sientes..."
+            "text": "Hoy recibirás un correo electrónico que te informará si recibiste un ascenso. Tienes que esperar unas horas hasta recibir el correo. Cuando piensas en esperar tanto tiempo, te sientes..."
         },
         {
             "type": "WordPuzzle",

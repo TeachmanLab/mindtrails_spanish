@@ -1,16 +1,16 @@
 {
-    "header_text": "Yendo de vacaciones",
+    "header_text": "Tiempo para ti mismo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Yendo de vacaciones"
+            "text": "Tiempo para ti mismo"
         },
         {
             "type": "Media",
-            "url": "./images/142.jpg"
+            "url": "./images/149.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 7
 }

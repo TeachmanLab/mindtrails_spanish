@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Es un día caliente y tú y tus amigos están caminando afuera. Notas que estás empezando a sudar y puedes ver algunas manchas en tu camiseta. Conoces bien a estos amigos y no les..."
+            "text": "Es tu cumpleaños y cuando llega la hora del pastel, la gente se reúne a tu alrededor y empiezan a cantar. Sientes que tu corazón empieza a latir más rápido y comienzas a sudar. Tus amigos y familiares no se darán..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "importará"
+                "cuenta"
             ],
             "missing_letter_count": 2
         }

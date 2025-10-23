@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Describa la situación en pocas palabras:"
+            "text": "Describe la situación en pocas palabras:"
         },
         {
             "type": "Entry",

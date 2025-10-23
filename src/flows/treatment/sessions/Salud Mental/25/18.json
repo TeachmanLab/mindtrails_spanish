@@ -1,14 +1,14 @@
 {
-    "header_text": "Views Towards Therapy",
+    "header_text": "Opiniones sobre la terapia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado yendo a terapia últimamente. No te lo has contado a tu familia porque han expresado opiniones negativas sobre la terapia en el pasado. Crees que esta vez te..."
+            "text": "Has estado yendo a terapia últimamente. No se lo has contado a tu familia porque han expresado opiniones negativas sobre la terapia en el pasado. Crees que esta vez te..."
         },
         {
             "type": "Entry",
-            "name": "Views Towards Therapy_Salud Mental_entry1"
+            "name": "Opiniones sobre la terapia_Salud Mental_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",

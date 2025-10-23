@@ -1,10 +1,10 @@
 {
-    "header_text": "Ponerse ahí fuera",
+    "header_text": "Darte a conocer",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Ponerse ahí fuera"
+            "text": "Darte a conocer"
         },
         {
             "type": "Media",

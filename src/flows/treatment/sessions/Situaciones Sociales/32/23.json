@@ -1,10 +1,10 @@
 {
-    "header_text": "silencio en un viaje en coche",
+    "header_text": "Silencio en un viaje en coche",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "silencio en un viaje en coche"
+            "text": "Silencio en un viaje en coche"
         },
         {
             "type": "Media",

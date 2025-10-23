@@ -1,16 +1,16 @@
 {
-    "header_text": "Opinión importante",
+    "header_text": "Puntos de vista hacia la terapia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Opinión importante"
+            "text": "Puntos de vista hacia la terapia"
         },
         {
             "type": "Media",
-            "url": "./images/58.jpg"
+            "url": "./images/167.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 0
 }

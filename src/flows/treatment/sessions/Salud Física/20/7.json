@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Continuando a preocuparte que tienes un problema médico.",
-                "Tolerando tu corazón acelerado y enfocandote en la conversación."
+                "Tolerando tu corazón acelerado y enfocandote en la conversación.",
+                "Continuando a preocuparte que tienes un problema médico."
             ],
             "column_Count": 1,
             "correct_value": "Tolerando tu corazón acelerado y enfocandote en la conversación."

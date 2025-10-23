@@ -1,10 +1,10 @@
 {
-    "header_text": "Comentarios de redes sociales",
+    "header_text": "Un malentendido",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Comentarios de redes sociales"
+            "text": "Un malentendido"
         },
         {
             "type": "Media",

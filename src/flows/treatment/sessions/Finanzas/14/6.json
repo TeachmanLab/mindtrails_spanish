@@ -1,12 +1,12 @@
 {
-    "header_text": "¡Escribe El Tuyo!",
+    "header_text": "¡Escribe el tuyo!",
     "header_icon": [
         "assets/subtitle.png"
     ],
     "elements": [
         {
             "type": "Text",
-            "text": "Parte 2: Resuelve la incertidumbre de forma no amenazante con la sentencia final"
+            "text": "Parte 2: Resuelve la incertidumbre de forma no amenazante con la frase final"
         },
         {
             "type": "Entry",

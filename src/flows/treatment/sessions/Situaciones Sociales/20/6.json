@@ -1,10 +1,10 @@
 {
-    "header_text": "Arriesgándote",
+    "header_text": "Asumir un riesgo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Arriesgándote"
+            "text": "Asumir un riesgo"
         },
         {
             "type": "Media",

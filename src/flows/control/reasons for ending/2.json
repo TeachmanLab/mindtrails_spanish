@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "¿Por qué decidiste terminar el programa? Por favor marque todos los que apliquen."
+            "text": "¿Por qué decidiste terminar el programa? Por favor, marque todos los que apliquen."
         },
         {
             "type": "Buttons",
@@ -15,7 +15,7 @@
                 "No creía que un programa como este pudiera funcionar",
                 "Encontré el programa frustrante de usar",
                 "Ya no necesitaba el programa (es decir, ya no me sentía ansioso)",
-                "Creo que me asignaron la condición de control (es decir, la condición que no se esperaba que cambiara la ansiedad)",
+                "Creo que me asignaron a la condición de control (es decir, la condición que no se esperaba que cambiara la ansiedad)",
                 "Otro",
                 "^Prefiero no responder"
             ],

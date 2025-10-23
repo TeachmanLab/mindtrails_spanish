@@ -1,20 +1,20 @@
 {
-    "header_text": "Clima lluvioso",
+    "header_text": "Expresándote",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te despiertas y miras por la ventana y ves que afuera está lluvioso y sombrío. Te quedas dentro todo el día y cuando recuerdas ese día te das cuenta de que la mayoría te sentiste triste por ello. Decides que probablemente fue porque no pudiste..."
+            "text": "En el trabajo, tu jefe te da la responsabilidad de resolver un problema complicado. Tienes una idea que crees que podría funcionar, pero te preguntas si es demasiado simple. Mientras consideras compartir tu idea, decides..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Clima lluvioso_Salud Mental_puzzle1",
+            "name": "Expresándote_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "salir"
+                "intentarlo"
             ],
             "missing_letter_count": 1
         }

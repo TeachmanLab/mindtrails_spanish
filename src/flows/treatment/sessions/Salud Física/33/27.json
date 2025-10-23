@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Hacer una llamada de emergencia porque esto es señal de algo grave.",
-                "Tomarte una botella de ague y comerte un bocado despues del ejecicio."
+                "Tomarte una botella de ague y comerte un bocado despues del ejecicio.",
+                "Hacer una llamada de emergencia porque esto es señal de algo grave."
             ],
             "column_Count": 1,
             "correct_value": "Tomarte una botella de ague y comerte un bocado despues del ejecicio."

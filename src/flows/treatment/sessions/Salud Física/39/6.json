@@ -1,5 +1,5 @@
 {
-    "header_text": "Pánico de presentación",
+    "header_text": "Pánico de una presentación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Entry",
-            "name": "Pánico de presentación_Salud Física_entry2"
+            "name": "Pánico de una presentación_Salud Física_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",

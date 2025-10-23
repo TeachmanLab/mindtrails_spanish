@@ -1,19 +1,19 @@
 {
-    "header_text": "Amigo ruidoso: Comportamientos",
+    "header_text": "Trabajar en grupos: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu auto se averió y un amigo te va a dejar en una reunión. Cuando te dejan, hacen mucho ruido y todos los que están allí te miran. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Tu jefe les dice a todos que mañana los dividirá en pequeños grupos para planificar nuevos proyectos de trabajo. También dice que tendrás que elegir tu grupo, pero te das cuenta de que no tienes amigos cercanos en tu lugar de trabajo.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Quiero evitar a todos los que me rodean, pero recordarme a mí mismo que lo pasaré mejor si hablo con la gente.",
-                "Guardo mi teléfono para estar más dispuesto a hablar con la gente.",
-                "Siento la necesidad de faltar a la reunión porque me da vergüenza, pero me quedo porque ir a esta reunión es importante.",
-                "Voy al baño para evitar hablar con la gente.",
-                "Camino hacia la sala de reuniones y empiezo a hablar con la gente."
+                "Quiero trabajar solo, pero probaré hacerlo en grupo.",
+                "Expresaré lo emocionado que estoy de conocer a todos.",
+                "Hablaré con la gente de mi lugar de trabajo y pediré estar en un grupo.",
+                "Quiero quedarme callado, pero decido contribuir.",
+                "Iré al baño para no tener que pedirle a nadie que esté en su grupo."
             ],
             "Duration": 15000
         }

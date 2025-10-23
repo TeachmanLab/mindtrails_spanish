@@ -1,20 +1,20 @@
 {
-    "header_text": "Trabajo placentero",
+    "header_text": "Boca seca",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y algunos compañeros de trabajo recibieron tareas adicionales para completar antes de que termine la semana, y han estado trabajando mucho. Escuchaste a tus compañeros diciendo que sería \"una locura\" disfrutar del trabajo adicional. Piensas en lo productivo que te hace sentir trabajar tan duro y te sientes..."
+            "text": "Has sentido sequedad en la boca durante unos días. Esto es algo que no habías sentido antes. La probabilidad de que la sequedad de boca signifique un problema de salud grave es..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Trabajo placentero_Salud Mental_puzzle1",
+            "name": "Boca seca_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "feliz"
+                "baja"
             ],
             "missing_letter_count": 1
         }

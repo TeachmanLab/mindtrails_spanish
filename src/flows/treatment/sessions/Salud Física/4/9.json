@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Una medicacion nueva.",
-                "Una enfermedad seria."
+                "Una enfermedad seria.",
+                "Una medicacion nueva."
             ],
             "column_Count": 1,
             "correct_value": "Una medicacion nueva."

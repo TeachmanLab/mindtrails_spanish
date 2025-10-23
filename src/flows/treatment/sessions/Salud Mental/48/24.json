@@ -1,14 +1,14 @@
 {
-    "header_text": "Charla de oficina",
+    "header_text": "Boca seca",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Charla de oficina"
+            "text": "Boca seca"
         },
         {
             "type": "Media",
-            "url": "./images/317.jpg"
+            "url": "./images/337.jpg"
         }
     ],
     "type": "positive",

@@ -1,16 +1,16 @@
 {
-    "header_text": "Quedando atrás",
+    "header_text": "Correo electrónico importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Quedando atrás"
+            "text": "Correo electrónico importante"
         },
         {
             "type": "Media",
-            "url": "./images/21.jpg"
+            "url": "./images/367.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 4
 }

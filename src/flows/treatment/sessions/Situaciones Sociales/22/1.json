@@ -1,10 +1,10 @@
 {
-    "header_text": "en un barco",
+    "header_text": "En un barco",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "en un barco"
+            "text": "En un barco"
         },
         {
             "type": "Media",

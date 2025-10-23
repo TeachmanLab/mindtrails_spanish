@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Pensé que el programa iba a durar demasiado."
+            "text": "La aplicación no me pareció muy útil."
         },
         {
             "type": "Buttons",
@@ -13,11 +13,11 @@
                 "Levemente",
                 "Un poco",
                 "Principalmente",
-                "Muy",
+                "Mucho",
                 "^Prefiero no responder"
             ],
             "selectable": true,
-            "name": "too_long"
+            "name": "not_useful"
         }
     ]
 }

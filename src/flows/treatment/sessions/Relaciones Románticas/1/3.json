@@ -1,23 +1,23 @@
 {
-    "header_text": "Estar de más",
+    "header_text": "Enviar mensajes de texto a alguien que te gusta",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿A tus amigos les gusta pasar tiempo contigo?"
+            "text": ""
         },
         {
             "type": "Buttons",
-            "name": "Estar de más_Relaciones Románticas_comp_question",
+            "name": "Enviar mensajes de texto a alguien que te gusta_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "",
+                ""
             ],
             "column_Count": 1,
-            "correct_value": "Sí"
+            "correct_value": ""
         }
     ],
     "navigation_conditions": [

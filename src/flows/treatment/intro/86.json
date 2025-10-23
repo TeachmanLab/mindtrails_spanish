@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Durante las últimas 2 semanas, ¿con qué frecuencia le han molestado alguno de los siguientes problemas?\n\nPoco interés o placer en hacer cosas."
+            "text": "Durante las últimas 2 semanas, ¿con qué frecuencia te han molestado alguno de los siguientes problemas?\n\nPoco interés o placer en hacer cosas."
         },
         {
             "type": "Buttons",

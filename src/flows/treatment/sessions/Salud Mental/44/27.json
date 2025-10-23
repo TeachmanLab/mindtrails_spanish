@@ -1,14 +1,14 @@
 {
-    "header_text": "Pensando en preguntas",
+    "header_text": "Clima lluvioso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Pensando en preguntas"
+            "text": "Clima lluvioso"
         },
         {
             "type": "Media",
-            "url": "./images/89.jpg"
+            "url": "./images/332.jpg"
         }
     ],
     "type": "positive",

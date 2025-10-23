@@ -13,11 +13,11 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Enferme más en el futuro.",
-                "Manténgase saludable en el futuro."
+                "Se mantendrá saludable en el futuro.",
+                "Se enfermará más en el futuro."
             ],
             "column_Count": 1,
-            "correct_value": "Enferme más en el futuro."
+            "correct_value": "Se enfermará más en el futuro."
         }
     ],
     "navigation_conditions": [

@@ -1,19 +1,19 @@
 {
-    "header_text": "Subiendo escaleras: Sentimientos",
+    "header_text": "Amigo ruidoso: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te estás reuniendo con tu jefe. Para llegar a tiempo, simplemente subió dos tramos de escaleras rápidamente y sintió que su corazón latía muy rápidamente.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Tu auto se descompuso y un amigo te va a dejar en una reunión. Cuando te deja, hace mucho ruido y todos los que están allí te miran. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me da vergüenza quedarme sin aliento, pero puedo concentrarme en lo que mi jefe tiene que decir.",
-                "Me preocupa que algo esté mal conmigo, pero me recuerdo a mí mismo que es normal sentirme sin aliento después de subir un montón de escaleras.",
-                "Estoy feliz de haber llegado a tiempo a la reunión.",
-                "Me preocupa que haya algo realmente mal en mí.",
-                "Me siento emocionado ahora que mi sangre está bombeando."
+                "Instantáneamente me siento avergonzado de mi ruidoso amigo, pero me recuerdo a mí mismo que no puedo controlar lo que hace.",
+                "Estoy ansioso por llegar a la reunión y ver gente.",
+                "Estoy nervioso por lo que puedan decir las personas en la reunión, pero parecen muy amables y comprensivos.",
+                "Estoy tan avergonzado por mi amigo.",
+                "Estoy entusiasmado con esta reunión."
             ],
             "Duration": 15000
         }

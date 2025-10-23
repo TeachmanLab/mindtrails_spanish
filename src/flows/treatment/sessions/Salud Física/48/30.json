@@ -1,10 +1,10 @@
 {
-    "header_text": "Dolor de cabeza en la oficina médica",
+    "header_text": "Dolor de cabeza en el consultorio",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Dolor de cabeza en la oficina médica"
+            "text": "Dolor de cabeza en el consultorio"
         },
         {
             "type": "Media",

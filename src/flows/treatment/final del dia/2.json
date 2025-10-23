@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Hoy pude pensar en situaciones estresantes o perturbadoras de una manera nueva o diferente.\n\n1 = Para nada cierto\n\n7 = Muy cierto"
+            "text": "Hoy podía pensar en situaciones estresantes o perturbadoras de una manera nueva o diferente.\n\n1 = Para nada cierto\n\n7 = Muy cierto"
         },
         {
             "type": "Slider",

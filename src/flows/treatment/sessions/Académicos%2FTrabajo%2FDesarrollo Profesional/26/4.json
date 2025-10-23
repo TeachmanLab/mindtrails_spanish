@@ -1,14 +1,14 @@
 {
-    "header_text": "Subiendo escaleras",
+    "header_text": "Amigo ruidoso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te estás reuniendo con tu jefe. Para llegar a tiempo, simplemente subió dos tramos de escaleras rápidamente y sintió que su corazón latía muy rápidamente.\n\nHaga clic en Siguiente para ver algunas ideas."
+            "text": "Tu auto se descompuso y un amigo te va a dejar en una reunión. Cuando te deja, hace mucho ruido y todos los que están allí te miran. \n\nHaga clic en Siguiente para ver algunas ideas."
         },
         {
             "type": "Media",
-            "url": "./images/572.jpg",
+            "url": "./images/579.jpg",
             "border": true
         }
     ]

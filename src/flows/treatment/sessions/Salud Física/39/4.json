@@ -1,10 +1,10 @@
 {
-    "header_text": "Pánico de presentación",
+    "header_text": "Pánico de una presentación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Pánico de presentación"
+            "text": "Pánico de una presentación"
         },
         {
             "type": "Media",

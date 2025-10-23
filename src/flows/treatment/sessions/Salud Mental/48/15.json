@@ -1,20 +1,20 @@
 {
-    "header_text": "Expectativas diferentes",
+    "header_text": "Usando tecnología diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Buscas en línea si te seleccionaron para un aumento y ves que no lo hicieron, a pesar de que esperabas que sí. Piensas en lo que esto significará para tu futuro y sabes que todo estará..."
+            "text": "Recientemente reemplazaste tu computadora portátil y tuviste que optar por una opción más económica. Tu jefe te pide que completes un proyecto que requerirá una aplicación que tu nueva computadora no tiene. Cuando piensas en completar tu trabajo para este proyecto, te sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Expectativas diferentes_Salud Mental_puzzle1",
+            "name": "Usando tecnología diferente_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "bien"
+                "capaz"
             ],
             "missing_letter_count": 2
         }

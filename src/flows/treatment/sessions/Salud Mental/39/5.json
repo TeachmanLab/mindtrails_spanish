@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes que entregar un proyecto importante hoy. Cuando abres tu computadora, no puedes encontrar el archivo en ninguna parte. El proyecto debe haber sido..."
+            "text": "Tienes que entregar un proyecto importante hoy. Cuando abres tu computadora, no puedes encontrar el archivo en ninguna parte. El proyecto debe haberse..."
         },
         {
             "type": "Entry",

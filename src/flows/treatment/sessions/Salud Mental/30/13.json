@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Has sido seleccionado para dirigir una clase de capacitación para nuevos empleados. El líder anterior era muy querido y te preocupa no poder estar a la altura de las expectativas de los demás sobre el curso. Recuerdas que conoces bien el material y cuando piensas en liderar el curso, tienes..."
+            "text": "Has sido seleccionado para dirigir una clase de capacitación para nuevos empleados. El líder anterior era muy querido y te preocupa no poder estar a la altura de las expectativas de los demás con respecto al curso. Recuerdas que conoces bien el material y, cuando piensas en liderar el curso, te sientes..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "esperanzas"
+                "esperanzado"
             ],
             "missing_letter_count": 1
         }

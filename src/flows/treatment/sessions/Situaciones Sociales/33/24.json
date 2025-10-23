@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tu pareja te lleva a cenar y están hablando mientras esperan la comida. Mencionan algo que te molesta, pero te preocupa que si les enfrentas al respecto, se enojarán. Finalmente, decides decirles que lo que dijeron te molestó y ellos se..."
+            "text": "Tu pareja te lleva a cenar y está hablando mientras espera la comida. Menciona algo que te molesta, pero te preocupas que si le enfrentas al respecto, se enojará. Finalmente, decides decirle que lo que dijó te molestó y se..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "disculpan"
+                "disculpa"
             ],
             "missing_letter_count": 1
         }

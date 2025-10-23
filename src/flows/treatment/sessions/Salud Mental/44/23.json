@@ -1,14 +1,14 @@
 {
-    "header_text": "Expresándote",
+    "header_text": "Una presentación importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Compartarás tu idea?"
+            "text": "¿Está bien que hayas cometido un error frente a tu jefe?"
         },
         {
             "type": "Buttons",
-            "name": "Expresándote_Salud Mental_comp_question",
+            "name": "Una presentación importante_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
@@ -24,6 +24,6 @@
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 6
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Lunes por la mañana",
+    "header_text": "Deprimido",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Lunes por la mañana"
+            "text": "Deprimido"
         },
         {
             "type": "Media",
-            "url": "./images/304.jpg"
+            "url": "./images/48.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

@@ -13,7 +13,7 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "sirviéndose una segunda vez.",
+                "Sirviéndose una segunda vez.",
                 "Dejando sus porciones en sus platos."
             ],
             "column_Count": 1,

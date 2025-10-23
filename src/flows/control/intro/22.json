@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tiene síntomas de ansiedad o depresión de moderados a graves?"
+            "text": "¿Tienes síntomas de ansiedad o depresión de moderados a graves?"
         },
         {
             "type": "Buttons",

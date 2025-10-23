@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Es un fin de semana largo y estás invitado al matrimonio de un amigo. Cuando llegas al evento notas que mucha gente ha traído un acompañante y tú has venido solo. Te das cuenta de que aún puedes disfrutar de la boda  y conocer a otros invitados aunque estés..."
+            "text": "Es un fin de semana largo y estás invitado al matrimonio de un amigo. Cuando llegas al evento te das cuenta que mucha gente ha traído un acompañante y tú has venido solo. Te das cuenta de que aún puedes disfrutar de la boda  y conocer a otros invitados que están..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "solo"
+                "solos"
             ],
             "missing_letter_count": 2
         }

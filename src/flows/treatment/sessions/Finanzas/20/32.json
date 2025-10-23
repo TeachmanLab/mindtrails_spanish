@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes una cantidad de dinero que te gustaría intentar invertir. A medida que lees más sobre inversiones, te das cuenta de que no estás completamente seguro de lo que estás haciendo. Crees que es probable que tus habilidades de inversión sigan mejorando con la..."
+            "text": "Tienes una cantidad de dinero que te gustaría intentar invertir. A medida que lees más sobre inversiones, te das cuenta de que no estás completamente seguro de lo que haces. Crees que es probable que tus habilidades de inversión sigan mejorando con la..."
         },
         {
             "type": "WordPuzzle",

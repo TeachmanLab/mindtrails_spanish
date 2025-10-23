@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estuviste expuesto recientemente a alguien que dio positivo, pero hiciste la prueba y no has experimentado ningún síntoma. Tus amigos te invitan a cenar con ellos y te preguntas si deberías ir. Das negativo y sales con tus..."
+            "text": "Has estado expuesto recientemente a alguien que dio positivo, pero te hiciste la prueba y no has experimentado ningún síntoma. Tus amigos te invitan a cenar con ellos y te preguntas si deberías ir. Das negativo y decides salir con tus..."
         },
         {
             "type": "Entry",

@@ -1,25 +1,25 @@
 {
-    "header_text": "Una presentación importante",
+    "header_text": "Resultados de la evaluación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu jefe está viendo tu presentación en tu reunión de hoy. Durante la presentación, tropiezas mucho con tus palabras. Te sientes...  "
+            "text": "El tiempo para las evaluaciones de desempeño acaba de cerrar y no estás seguro de si saliste bien o no. Te sientes nervioso al pensar en cómo te calificaron otras personas. Piensas que estar nervioso es..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Una presentación importante_Salud Mental_puzzle1",
+            "name": "Resultados de la evaluación_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "derrotado"
+                "manejable"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

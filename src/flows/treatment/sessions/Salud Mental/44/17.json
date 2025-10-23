@@ -1,16 +1,16 @@
 {
-    "header_text": "Una presentación importante",
+    "header_text": "Resultados de la evaluación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Una presentación importante"
+            "text": "Resultados de la evaluación"
         },
         {
             "type": "Media",
-            "url": "./images/64.jpg"
+            "url": "./images/72.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Tu relación con ellos se volverá tensa.",
-                "Encontrarás formas de mantenerte en contacto y permanecer conectado."
+                "Encontrarás formas de mantenerte en contacto y permanecer conectado.",
+                "Tu relación con ellos se volverá tensa."
             ],
             "column_Count": 1,
             "correct_value": "Encontrarás formas de mantenerte en contacto y permanecer conectado."

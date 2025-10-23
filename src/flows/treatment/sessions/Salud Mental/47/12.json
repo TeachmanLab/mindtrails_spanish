@@ -1,16 +1,25 @@
 {
-    "header_text": "sintiéndote ansioso",
+    "header_text": "Comprometerse con las actividades",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "sintiéndote ansioso"
+            "text": "Estabas muy emocionado de regresar a las clases presenciales y decidiste comprometerte con muchas actividades. Te ha resultado difícil cumplir con todas tus responsabilidades y te preocupa estar fallando en..."
         },
         {
-            "type": "Media",
-            "url": "./images/11.jpg"
+            "type": "WordPuzzle",
+            "name": "Comprometerse con las actividades_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "todo"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 3
 }

@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "Quiero pensar en otra cosa mientras todos hablan, pero recordarme a mí mismo que puedo manejar mis sentimientos y volver a sintonizarme con la conversación.",
+                "Quiero pensar en otra cosa mientras todos hablan, pero me recuerdo a mí mismo que puedo manejar mis sentimientos y volver a sintonizarme con la conversación.",
                 "Me distraigo y dejo de prestar atención a lo que dice la gente.",
                 "Escucho a mi amigo mientras habla con los miembros de mi familia.",
                 "Quiero cambiar de tema para que podamos hablar de algo menos serio, pero dejo de intentar controlar la conversación.",
-                "Me recuerdo a mí mismo que todos tienen opiniones diferentes."
+                "Me acuerdo de que todos tienen opiniones diferentes."
             ],
             "Duration": 15000
         }

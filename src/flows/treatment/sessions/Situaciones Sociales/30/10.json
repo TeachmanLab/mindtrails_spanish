@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Desaparecen de tu vida con el tiempo.",
-                "Permanecen una parte importante de tu vida."
+                "Permanecen una parte importante de tu vida.",
+                "Desaparecen de tu vida con el tiempo."
             ],
             "column_Count": 1,
             "correct_value": "Desaparecen de tu vida con el tiempo."

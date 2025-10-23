@@ -1,10 +1,10 @@
 {
-    "header_text": "sin aliento",
+    "header_text": "Sin aliento",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "sin aliento"
+            "text": "Sin aliento"
         },
         {
             "type": "Media",

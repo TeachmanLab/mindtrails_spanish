@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Vas al hospital a visitar a un amigo. En la sala de espera, alguien detrás de ti tose. si te lavas las manos, la probabilidad de enfermarte permanece..."
+            "text": "Vas al hospital a visitar a un amigo. En la sala de espera, alguien detrás de ti tose. Si te lavas las manos, la probabilidad de enfermarte es..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "alta"
+                "baja"
             ],
             "missing_letter_count": 1
         }

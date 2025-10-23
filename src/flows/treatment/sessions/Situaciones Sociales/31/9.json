@@ -1,18 +1,18 @@
 {
-    "header_text": "Poco interes: Sentimientos",
+    "header_text": "Poco interés: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Decide responder a todos a un correo electrónico de todo el departamento para compartir una idea. Han pasado algunas horas y nadie ha respondido a tu sugerencia todavía.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Decides responder a todos por un correo electrónico de todo el departamento para compartir una idea. Han pasado algunas horas y nadie ha respondido a tu sugerencia todavía.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
                 "Me siento valiente por compartir una idea con todo el departamento.",
                 "Estoy feliz de colaborar con mi departamento.",
-                "Me avergüenza que a nadie le haya gustado mi idea, pero probablemente la olvidarán pronto.",
-                "Me siento decepcionado por no haber recibido respuesta, pero probablemente la gente todavía esté pensando en ello.",
+                "Me avergüenza que a nadie le haya gustado mi idea, pero probablemente la olvidará pronto.",
+                "Me siento decepcionado al no recibir una respuesta, pero probablemente la gente todavía esté pensando en ello.",
                 "Me siento totalmente expuesto."
             ],
             "Duration": 15000

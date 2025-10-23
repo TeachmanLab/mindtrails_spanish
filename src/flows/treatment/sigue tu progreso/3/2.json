@@ -4,12 +4,12 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Durante la semana pasada, cuando se sintió ansioso, ¿qué tan intensa o grave fue su ansiedad?"
+            "text": "Durante la semana pasada, cuando te sentiste ansioso, ¿qué tan intensa o grave fue tu ansiedad?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "Poco o nada: La ansiedad estaba ausente o apenas se notaba",
+                "Poco o nada: La ansiedad estaba ausente o apenas la notaba",
                 "Leve: La ansiedad estaba en un nivel bajo. Fue posible relajarme cuando lo intenté. Los síntomas físicos fueron sólo levemente incómodos.",
                 "Moderada: La ansiedad era angustiosa en ocasiones. Era difícil relajarme o concentrarme, pero podía hacerlo si lo intentaba. Los síntomas físicos fueron incómodos.",
                 "Severo: La ansiedad fue intensa la mayor parte del tiempo. Era muy difícil relajarse o concentrarse en cualquier otra cosa. Los síntomas físicos fueron incómodos.",

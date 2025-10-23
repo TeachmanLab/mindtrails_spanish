@@ -1,5 +1,5 @@
 {
-    "header_text": "sin planes para el fin de semana",
+    "header_text": "Sin planes para el fin de semana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "sin planes para el fin de semana_Situaciones Sociales_puzzle1",
+            "name": "Sin planes para el fin de semana_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

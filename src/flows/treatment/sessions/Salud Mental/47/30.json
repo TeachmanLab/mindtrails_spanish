@@ -1,14 +1,14 @@
 {
-    "header_text": "Respondiendo a preguntas inesperadas",
+    "header_text": "Reloj favorito",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Respondiendo a preguntas inesperadas"
+            "text": "Reloj favorito"
         },
         {
             "type": "Media",
-            "url": "./images/36.jpg"
+            "url": "./images/320.jpg"
         }
     ],
     "type": "positive",

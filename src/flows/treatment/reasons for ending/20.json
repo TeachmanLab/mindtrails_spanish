@@ -4,20 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "¿Qué tan útiles le parecieron los recursos y referencias proporcionados en la aplicación?"
+            "text": "¿Qué tan abierto o interesado estás en buscar otras formas de tratamiento por parte de un profesional de salud mental (por ejemplo, terapia, medicación) en comparación con antes de comenzar el programa?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "No",
-                "Levemente",
-                "Un poco",
-                "Principalmente",
-                "Muy",
-                "^Prefiero no responder"
+                "Mucho más probable",
+                "Un poco más probable",
+                "Igualmente probable",
+                "Un poco menos probable",
+                "Mucho menos probable",
+                "No aplicable (por ejemplo, actualmente estoy recibiendo otra forma de tratamiento)",
+                "Prefiero no responder"
             ],
             "selectable": true,
-            "name": "resources_use"
+            "name": "interest_in_therapy"
         }
+    ],
+    "condition": [
+        "RFE_anxiety_depression",
+        "=",
+        "Inseguro"
     ]
 }

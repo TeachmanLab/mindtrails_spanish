@@ -13,11 +13,11 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Capable de hacer el trabajao neccesario para obtener el trabajor que quieres.",
-                "Incapable de obtener la posición que quieres."
+                "Capaz de hacer el trabajao neccesario para obtener el trabajor que quieres.",
+                "Incapaz de obtener la posición que quieres."
             ],
             "column_Count": 1,
-            "correct_value": "Capable de hacer el trabajao neccesario para obtener el trabajor que quieres."
+            "correct_value": "Capaz de hacer el trabajao neccesario para obtener el trabajor que quieres."
         }
     ],
     "navigation_conditions": [

@@ -1,16 +1,16 @@
 {
-    "header_text": "Manejando tareas",
+    "header_text": "Respondiendo a preguntas inesperadas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Manejando tareas"
+            "text": "Respondiendo a preguntas inesperadas"
         },
         {
             "type": "Media",
-            "url": "./images/122.jpg"
+            "url": "./images/36.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 0
 }

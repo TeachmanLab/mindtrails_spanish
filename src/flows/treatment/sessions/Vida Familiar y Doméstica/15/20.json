@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "También piensas en lo mucho que disfrutas verlos y crees que siempre tendrás relación cercana con ellos.",
-                "Te preocupa perderlos de tu vida."
+                "Te preocupa perderlos de tu vida.",
+                "Piensas en lo mucho que disfrutas verlos y crees que siempre tendrás relación cercana con ellos."
             ],
             "column_Count": 1,
             "correct_value": "Te preocupa perderlos de tu vida."

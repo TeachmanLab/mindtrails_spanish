@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "En tu cita médica anual, te piden que te hagas una prueba para detectar una enfermedad. Después de la prueba, esperas los resultados en la sala de espera por mucho tiempo. Crees que las posibilidades de que tienes la enfermedad son..."
+            "text": "En tu cita médica anual, te piden que te hagas una prueba para detectar una enfermedad. Después de la prueba, esperas los resultados en la sala de espera durante mucho tiempo. Crees que las posibilidades de tener la enfermedad son..."
         },
         {
             "type": "WordPuzzle",

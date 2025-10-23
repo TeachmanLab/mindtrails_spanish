@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Jugaste mal.",
-                "Intentaste lo mejor posible y jugaste bien."
+                "Intentaste lo mejor posible y jugaste bien.",
+                "Jugaste mal."
             ],
             "column_Count": 1,
             "correct_value": "Intentaste lo mejor posible y jugaste bien."

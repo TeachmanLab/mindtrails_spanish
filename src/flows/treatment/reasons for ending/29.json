@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "La aplicación tenía demasiadas palabras."
+            "text": "Pensé que el programa iba a durar demasiado."
         },
         {
             "type": "Buttons",
@@ -13,11 +13,11 @@
                 "Levemente",
                 "Un poco",
                 "Principalmente",
-                "Muy",
+                "Mucho",
                 "^Prefiero no responder"
             ],
             "selectable": true,
-            "name": "too_many_words"
+            "name": "too_long"
         }
     ]
 }
