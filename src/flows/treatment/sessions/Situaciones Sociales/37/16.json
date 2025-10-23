@@ -14,10 +14,10 @@
             "incorrect_delay": 5000,
             "buttons": [
                 "Notarán que estás sudando.",
-                "No te verán sudar ya que la habitación está poco iluminada."
+                "No te verán tu sudor ya que la habitación está poco iluminada."
             ],
             "column_Count": 1,
-            "correct_value": "No te verán sudar ya que la habitación está poco iluminada."
+            "correct_value": "No te verán tu sudor ya que la habitación está poco iluminada."
         }
     ],
     "navigation_conditions": [

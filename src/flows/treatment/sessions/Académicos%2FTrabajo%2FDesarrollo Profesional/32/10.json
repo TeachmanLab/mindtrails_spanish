@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Las personas en su oficina probablemente..."
+            "text": "Las personas en tu oficina probablemente..."
         },
         {
             "type": "Buttons",
@@ -13,11 +13,11 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No les gusten tus ideas",
-                "Apoyen tus ideas"
+                "No les gustarán tus ideas",
+                "Apoyarán tus ideas"
             ],
             "column_Count": 1,
-            "correct_value": "Apoyen tus ideas"
+            "correct_value": "Apoyarán tus ideas"
         }
     ],
     "navigation_conditions": [

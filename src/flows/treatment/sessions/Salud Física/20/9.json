@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Visitas a un amigo de la infancia durante las vacaciones y notas que está envejeciendo. Te preguntas cómo será su salud en el futuro. Cree que su salud probablemente estará..."
+            "text": "Visitas a un amigo de la infancia durante las vacaciones y notas que está envejeciendo. Te preguntas cómo será su salud en el futuro. Crees que su salud probablemente estará..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "empeorando"
+                "bien"
             ],
             "missing_letter_count": 2
         }

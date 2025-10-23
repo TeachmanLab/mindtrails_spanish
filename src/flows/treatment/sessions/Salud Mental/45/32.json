@@ -1,20 +1,20 @@
 {
-    "header_text": "Atascado en el medio",
+    "header_text": "Decidir compartir una imagen",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en casa leyendo un libro cuando escuchas a miembros de tu hogar peleando. Te preguntas por qué se están gritando el uno al otro, y luego uno de ellos dice tu nombre. Te das cuenta de que la razón por la que están discutiendo probablemente no sea tu... "
+            "text": "Le tomas una foto a un compañero de trabajo en un evento que es realmente genial. Quieres mostrársela a tus otros compañeros de trabajo en un correo electrónico, pero recuerdas que acabas de enviar uno ayer. Si vuelves a enviar un correo, crees que la gente no se dará..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Atascado en el medio_Salud Mental_puzzle1",
+            "name": "Decidir compartir una imagen_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "culpa"
+                "cuenta"
             ],
             "missing_letter_count": 1
         }

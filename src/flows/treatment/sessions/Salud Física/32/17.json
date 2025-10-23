@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en el doctor y te preguntan si tienes algún síntoma de COVID. Mencionan los dolores de cabeza como un posible síntoma, algo que has estado sintiendo pero no reconociste como un problema, y eso te asusta porque recuerdas lo enfermos que se pusieron tus amigos con COVID. Recuerdas que puedes enfocarte en tu salud y descansar hasta que te sientas..."
+            "text": "Estás en el consultorio del médico y te preguntan si tienes algún síntoma de COVID. Mencionan los dolores de cabeza como un posible síntoma, algo que has estado sintiendo pero no reconociste como un problema, y eso te asusta porque recuerdas lo enfermos que se pusieron tus amigos. Recuerdas que puedes enfocarte en tu salud y descansar hasta que te sientas..."
         },
         {
             "type": "WordPuzzle",

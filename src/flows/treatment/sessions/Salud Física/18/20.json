@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Demasiado rápida para ti, sin importar cuánto te esfuerces.",
-                "A un ritmo que puedes lograr si te esfuerzas mucho."
+                "A un ritmo que puedes lograr si te esfuerzas mucho.",
+                "Demasiado rápida para ti, sin importar cuánto te esfuerces."
             ],
             "column_Count": 1,
             "correct_value": "Demasiado rápida para ti, sin importar cuánto te esfuerces."

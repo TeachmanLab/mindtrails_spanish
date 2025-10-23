@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras estás en un festival, ves a un amigo no muy lejos y le llamas el nombre. No te responden. Decides que es porque están..."
+            "text": "Mientras estás en un festival, ves a un amigo no muy lejos y le llamas el nombre. No te responde. Decides que es porque está..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "distraídos"
+                "distraído"
             ],
             "missing_letter_count": 1
         }

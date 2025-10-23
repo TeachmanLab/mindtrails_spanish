@@ -1,14 +1,14 @@
 {
-    "header_text": "Clima lluvioso",
+    "header_text": "Expresándote",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Clima lluvioso"
+            "text": "Expresándote"
         },
         {
             "type": "Media",
-            "url": "./images/332.jpg"
+            "url": "./images/75.jpg"
         }
     ],
     "type": "positive",

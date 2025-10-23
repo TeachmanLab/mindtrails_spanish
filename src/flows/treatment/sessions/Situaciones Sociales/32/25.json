@@ -1,5 +1,5 @@
 {
-    "header_text": "silencio en un viaje en coche",
+    "header_text": "Silencio en un viaje en coche",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "silencio en un viaje en coche_Situaciones Sociales_comp_question",
+            "name": "Silencio en un viaje en coche_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

@@ -1,19 +1,19 @@
 {
-    "header_text": "Saludando a mis amigos:Pensamientos",
+    "header_text": "Dando una presentación:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás afuera en un día fresco y ves a tus amigos en la calle. Decides correr para saludar. Cuando llegas con tus amigos, te quedas sin aliento.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Tienes que hacer una presentación en una reunión hoy. Cuando te paras frente al grupo, sientes que tus mejillas se calientan y tus manos empiezan a temblar.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Creo que mis amigos me juzgan por quedarme sin aliento, pero probablemente ni siquiera se dan cuenta.",
-                "Es genial ver a mis amigos.",
-                "Siento que voy a morir.",
-                "La opresión en mi pecho es realmente incómoda, pero sé que desaparecerá pronto.",
-                "Es un buen día para hacer jogging."
+                "Todos verán que me tiemblan las manos.",
+                "Quiero volver a sentarme, pero decido seguir adelante con la presentación sabiendo que mi arduo trabajo dará sus frutos.",
+                "Quiero cubrirme la cara, pero sé que puedo hacerlo aunque sea incómodo.",
+                "He hecho todo lo que he podido para prepararme para esta presentación.",
+                "Es normal sentir un poco de calor cuando estás ansioso por hacer una presentación."
             ],
             "Duration": 15000
         }

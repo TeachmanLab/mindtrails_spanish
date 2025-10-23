@@ -1,10 +1,10 @@
 {
-    "header_text": "Respondiendo una pregunta: Escribe Algunos Pensamientos",
+    "header_text": "Rompiendo el código de honor: Escribe Algunos Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En una reunión con algunos colegas y su jefe, su jefe le pide que responda una pregunta. Dices tu mejor respuesta y tus compañeros de trabajo guardan silencio.\n\nTómese 30 segundos para escribir pensamientos diferentes. El siguiente botón aparecerá automáticamente. \n\nPensamientos en el momento:"
+            "text": "Estás trabajando en un informe con algunos colegas y necesitas informar algunas estadísticas. Un colega sugiere que cambie las estadísticas para que su informe se vea mejor, pero eso sería mentir.\n\nTómese 30 segundos para escribir pensamientos diferentes. El siguiente botón aparecerá automáticamente. \n\nPensamientos en el momento:"
         },
         {
             "type": "Entry"

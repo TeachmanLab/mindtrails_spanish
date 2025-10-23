@@ -4,26 +4,13 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tu cita probablemente piensa que tú derramando agua..."
+            "text": "Vaso de agua"
         },
         {
-            "type": "Buttons",
-            "name": "Vaso de agua_Salud Mental_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No es gran cosa.",
-                "Significa que eres torpe y descuidado."
-            ],
-            "column_Count": 1,
-            "correct_value": "No es gran cosa."
+            "type": "Media",
+            "url": "./images/198.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "resilience/negation",
-    "scenario_num": 0
+    "scenario_num": 1
 }

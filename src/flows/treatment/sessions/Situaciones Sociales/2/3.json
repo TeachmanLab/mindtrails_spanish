@@ -14,10 +14,10 @@
             "incorrect_delay": 5000,
             "buttons": [
                 "Dirá no si sugieres volver a reunirse.",
-                "Dirá que sí si sugieres volver a reunirse."
+                "Dirá sí si sugieres volver a reunirse."
             ],
             "column_Count": 1,
-            "correct_value": "Dirá que sí si sugieres volver a reunirse."
+            "correct_value": "Dirá sí si sugieres volver a reunirse."
         }
     ],
     "navigation_conditions": [

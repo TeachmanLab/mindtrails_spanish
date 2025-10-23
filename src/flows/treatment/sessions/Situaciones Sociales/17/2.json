@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás sentado en una cafetería cuando ves a tu amigo. Pasa junto a ti y se sienta al lado de otra persona. Deben haber estado..."
+            "text": "Estás sentado en una cafetería cuando ves a tu amigo. Pasa junto a ti y se sienta al lado de otra persona. Es probable que está..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "distraídos"
+                "distraído"
             ],
             "missing_letter_count": 1
         }

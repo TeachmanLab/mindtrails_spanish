@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Quieres hablar con alguien sobre tus planes para el futuro, pero no quieres hablar con tu familia al respecto. Piensas en otras personas cercanas a tu vida y decides hablar con tu amigo más cercano. Cuando piensas en su reacción, piensas que probablemente serán..."
+            "text": "Quieres hablar con alguien sobre tus planes para el futuro, pero no quieres hablar con tu familia al respecto. Piensas en otras personas cercanas a tu vida y decides hablar con tu amigo más cercano. Cuando piensas en su reacción, piensas que probablemente será..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "alentadores"
+                "alentadora"
             ],
             "missing_letter_count": 2
         }

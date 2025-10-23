@@ -1,14 +1,14 @@
 {
-    "header_text": "Correo electrónico importante",
+    "header_text": "Atascado en el medio",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te sientes bien teniendo que esperar el correo electrónico?"
+            "text": "¿Es tu culpa que estén peleando?"
         },
         {
             "type": "Buttons",
-            "name": "Correo electrónico importante_Salud Mental_comp_question",
+            "name": "Atascado en el medio_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
@@ -24,6 +24,6 @@
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 3
 }

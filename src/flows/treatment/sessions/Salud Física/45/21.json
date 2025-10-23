@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas que el dolor de cabeza es señal que..."
+            "text": "Piensas que el dolor de cabeza es una señal que..."
         },
         {
             "type": "Buttons",
@@ -17,7 +17,7 @@
                 "Estás seriamente lesionado."
             ],
             "column_Count": 1,
-            "correct_value": "\nEstás seriamente lesionado."
+            "correct_value": "\r\nEstás seriamente lesionado."
         }
     ],
     "navigation_conditions": [

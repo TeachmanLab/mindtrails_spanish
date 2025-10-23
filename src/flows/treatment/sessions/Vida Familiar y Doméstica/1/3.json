@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tu amigo canceló la reunion porque están..."
+            "text": "¿Tu amigo canceló la reunion porque está..."
         },
         {
             "type": "Buttons",
@@ -13,11 +13,11 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Enojados con tí.",
-                "Cansados de una semana ocupada."
+                "Enojado contigo.",
+                "Cansado de una semana ocupada."
             ],
             "column_Count": 1,
-            "correct_value": "Cansados de una semana ocupada."
+            "correct_value": "Cansado de una semana ocupada."
         }
     ],
     "navigation_conditions": [

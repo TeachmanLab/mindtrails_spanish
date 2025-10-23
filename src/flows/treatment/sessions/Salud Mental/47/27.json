@@ -1,16 +1,16 @@
 {
-    "header_text": "Reloj favorito",
+    "header_text": "Yendo de vacaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Reloj favorito"
+            "text": "Yendo de vacaciones"
         },
         {
             "type": "Media",
-            "url": "./images/320.jpg"
+            "url": "./images/142.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 8
 }

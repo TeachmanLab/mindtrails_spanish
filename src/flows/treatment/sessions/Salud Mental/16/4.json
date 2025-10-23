@@ -1,14 +1,14 @@
 {
-    "header_text": "Serpientes en el parque",
+    "header_text": "Luchando con una presentación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo te convence para dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nHaga clic en Siguiente para ver algunas ideas."
+            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Ha estado luchando por armar esta presentación, pero aún no se ha comunicado con su jefe al respecto. \n\nHaga clic en Siguiente para ver algunas ideas."
         },
         {
             "type": "Media",
-            "url": "./images/184.jpg",
+            "url": "./images/76.jpg",
             "border": true
         }
     ]

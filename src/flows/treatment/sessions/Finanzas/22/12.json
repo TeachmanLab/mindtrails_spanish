@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente tuviste una visita médica inesperada. Tú y tu cónyuge comparten un plan de seguro y te preocupas que tu cónyuge se preocupe por las finanzas si lo ve en tu declaración de seguro. si te preguntan al respecto, crees que serán..."
+            "text": "Recientemente tuviste una visita médica inesperada. Tú y tu pareja comparten un plan de seguro y te preocupas de que tu pareja se preocupe por las finanzas si lo ve en tu declaración de seguro. Si te pregunta al respecto, crees que será..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "comprensivos"
+                "comprensiva"
             ],
             "missing_letter_count": 2
         }

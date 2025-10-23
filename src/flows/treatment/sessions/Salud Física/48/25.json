@@ -1,14 +1,14 @@
 {
-    "header_text": "sin aliento",
+    "header_text": "Sentirse sin aliento",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Durante una caminata este el fin de semana, notaste que te quedabas sin aliento más rápido de lo normal. Recuerdas que el COVID afecta a los pulmones y comienzas sentir pánico. Afortunadamente, sabes que has estado usando tu mascarilla y has hecho todo lo posible para prevenir el..."
+            "text": "Durante una caminata este fin de semana, notaste que te quedabas sin aliento más rápido de lo normal. Recuerdas que el COVID afecta a los pulmones y comienzas sentir pánico. Afortunadamente, sabes que has usado tu mascarilla y has hecho todo lo posible para prevenir el..."
         },
         {
             "type": "WordPuzzle",
-            "name": "sin aliento_Salud Física_puzzle1",
+            "name": "Sentirse sin aliento_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

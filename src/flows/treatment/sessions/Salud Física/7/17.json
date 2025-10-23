@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Es una mañana fresca y estás subiendo unas escaleras para llegar a tu trabajo. Empiezas a sentirte realmente sin aliento cuando llegas al último escalón. Tomas un segundo para respirar y sentirte..."
+            "text": "Es una mañana fresca y estás subiendo unas escaleras para llegar a tu trabajo. Empiezas a sentirte realmente sin aliento cuando llegas al último escalón. Tomas un segundo para respirar y..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "tranquilo"
+                "tranquilizarte"
             ],
             "missing_letter_count": 2
         }

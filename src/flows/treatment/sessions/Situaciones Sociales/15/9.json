@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en casa y es el primer fin de semana que tienes tiempo libre en un rato. Después de enviar un mensaje de texto a un amigo para hacer planes hace varias horas, notas que aún no han respondido. Ves que han estado activos en sus cuentas de redes sociales y te preguntas si te están ignorando o si no quieren pasar tiempo..."
+            "text": "Estás en casa y es el primer fin de semana que tienes tiempo libre en un rato. Después de enviar un mensaje de texto a un amigo para hacer planes hace varias horas, te das cuenta que aún no ha respondido. Ves que ha estado activos en sus cuentas de redes sociales y te preguntas si te está ignorando o si no quiere pasar tiempo..."
         },
         {
             "type": "WordPuzzle",

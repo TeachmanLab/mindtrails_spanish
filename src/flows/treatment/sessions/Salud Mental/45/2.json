@@ -1,16 +1,16 @@
 {
-    "header_text": "Nadando vueltas",
+    "header_text": "Broma interna",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Nadando vueltas"
+            "text": "Broma interna"
         },
         {
             "type": "Media",
-            "url": "./images/350.jpg"
+            "url": "./images/342.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 0
 }

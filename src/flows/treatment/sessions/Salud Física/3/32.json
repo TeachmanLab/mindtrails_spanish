@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Vas a dar una vuelta en una atracción de un carnaval. Cuando bajas, te sientes mareado. Estás..."
+            "text": "Vas a dar una vuelta en una atracción de carnaval. Cuando bajas, te sientes mareado. Estás..."
         },
         {
             "type": "WordPuzzle",

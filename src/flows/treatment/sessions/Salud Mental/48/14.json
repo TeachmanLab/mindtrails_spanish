@@ -1,14 +1,14 @@
 {
-    "header_text": "Expectativas diferentes",
+    "header_text": "Usando tecnología diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Expectativas diferentes"
+            "text": "Usando tecnología diferente"
         },
         {
             "type": "Media",
-            "url": "./images/117.jpg"
+            "url": "./images/69.jpg"
         }
     ],
     "type": "positive",

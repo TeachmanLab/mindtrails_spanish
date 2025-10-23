@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando te despiertas en la mañana, te sientas rápidamente. Tu visión se vuelve borrosa y luego todo se pone negro por un momento. Tu visión regresa despues de ese momento, y te convences que te estás quedando... "
+            "text": "Cuando te despiertas por la mañana, te sientas rápidamente. Tu visión se vuelve borrosa y luego todo se pone negro por un momento. Tu visión regresa después de ese momento, y te convences de que no es nada..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "siego"
+                "grave"
             ],
             "missing_letter_count": 1
         }

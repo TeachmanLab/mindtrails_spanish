@@ -1,19 +1,19 @@
 {
-    "header_text": "Rompiendo el código de honor: Comportamientos",
+    "header_text": "Balancear responsibilidades: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás trabajando en un informe con algunos colegas y necesitas informar algunas estadísticas. Un colega sugiere que cambie las estadísticas para que su informe se vea mejor, pero eso sería mentir.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Tienes muchas tareas domésticas que hacer esta noche y también tienes un gran proyecto que debes entregar mañana. Ambos tienen que hacerse y usted piensa en cómo manejará todo.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Decido que no inventaré las estadísticas.",
-                "Me meto con las estadísticas para sentirme tranquilo frente a mis compañeros.",
-                "Quiero gritarles a mis compañeros por esta idea, pero decido decirles amablemente lo que pienso.",
-                "Animo a mis colegas a que intenten trabajar un poco más en este informe.",
-                "Siento que quiero cambiar los números del informe, pero sé que realmente valoro ser honesto y no hacerlo."
+                "Me quejo de lo mucho que tengo que hacer.",
+                "Me siento y empiezo a evitar tanto las tareas del hogar como mi proyecto, pero decido hacer lo correcto y me levanto para comenzar la primera tarea.",
+                "Describo un cronograma a seguir.",
+                "Lo pospongo para llamar a un amigo, pero decido comenzar con las tareas del hogar después.",
+                "Como un refrigerio y luego empiezo con las tareas del hogar primero."
             ],
             "Duration": 15000
         }

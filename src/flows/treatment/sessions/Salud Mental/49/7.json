@@ -1,16 +1,16 @@
 {
-    "header_text": "Atascado en el medio",
+    "header_text": "Lunes por la mañana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Atascado en el medio"
+            "text": "Lunes por la mañana"
         },
         {
             "type": "Media",
-            "url": "./images/135.jpg"
+            "url": "./images/304.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Revisión física anual",
+    "header_text": "Planes para el fin de semana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Revisión física anual"
+            "text": "Planes para el fin de semana"
         },
         {
             "type": "Media",
-            "url": "./images/355.jpg"
+            "url": "./images/359.jpg"
         }
     ],
     "type": "positive",

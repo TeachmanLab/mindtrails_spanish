@@ -13,7 +13,7 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Preocúpate por si cerraste la puerta con llave.",
+                "Preocuparte por si cerraste la puerta con llave.",
                 "Descansar y pasar tiempo con amigos o familiares."
             ],
             "column_Count": 1,

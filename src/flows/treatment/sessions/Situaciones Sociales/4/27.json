@@ -1,5 +1,5 @@
 {
-    "header_text": "sintiéndote excluido por amigos",
+    "header_text": "Sintiéndote excluido por amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "sintiéndote excluido por amigos_Situaciones Sociales_puzzle1",
+            "name": "Sintiéndote excluido por amigos_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

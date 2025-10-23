@@ -1,25 +1,25 @@
 {
-    "header_text": "Manejando tareas",
+    "header_text": "Respondiendo a preguntas inesperadas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado muy ocupado estos últimos meses y no has tenido tiempo para trabajar en tu propio desarrollo profesional. Uno de tus colegas también está muy ocupado, y sin embargo, recibió un ascenso. Esto te hace sentir como un..."
+            "text": "Estás presentando tu trabajo a un grupo de tus compañeros. Después de tu presentación, alguien te hace una pregunta muy específica a la que no sabes responder y sientes que no estás calificado. Recuerdas que hiciste mucha investigación y que esta pregunta puede simplemente no ser..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Manejando tareas_Salud Mental_puzzle1",
+            "name": "Respondiendo a preguntas inesperadas_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "fracaso"
+                "relevante"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 0
 }

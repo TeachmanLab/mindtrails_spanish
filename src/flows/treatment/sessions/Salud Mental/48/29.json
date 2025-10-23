@@ -1,14 +1,14 @@
 {
-    "header_text": "Pensamientos acelerados",
+    "header_text": "Charla de oficina",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Lo encuentras útil cuando tus pensamientos parecen acelerarse?"
+            "text": "¿Puedes continuar la discusión con tu jefe?"
         },
         {
             "type": "Buttons",
-            "name": "Pensamientos acelerados_Salud Mental_comp_question",
+            "name": "Charla de oficina_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás hablando con tu mejor amigo de muchos años. Durante la conversación, te critican, diciendo que no creen que valga la pena seguir en tu trabajo. Te preguntas si deberías seguir siendo amigos con..."
+            "text": "Estás hablando con tu mejor amigo de muchos años. Durante la conversación, te critica, diciendo que no cree que valga la pena seguir en tu trabajo. Te preguntas si deberías seguir siendo amigos con..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "ellos"
+                "él"
             ],
             "missing_letter_count": 2
         }

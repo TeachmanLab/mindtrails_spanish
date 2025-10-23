@@ -1,10 +1,10 @@
 {
-    "header_text": "Mascarillas para invitados",
+    "header_text": "Mascarillas para los invitados",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mascarillas para invitados"
+            "text": "Mascarillas para los invitados"
         },
         {
             "type": "Media",

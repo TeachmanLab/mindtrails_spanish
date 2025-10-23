@@ -13,7 +13,7 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "siendo propietario de una casa.",
+                "Siendo propietario de una casa.",
                 "Continuando alquilar una casa."
             ],
             "column_Count": 1,

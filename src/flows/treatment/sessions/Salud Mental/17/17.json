@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás a punto de hacer tu primera entrevista en línea para una importante promoción. Haces clic en el enlace cuando es hora de unirte a la reunión, pero tu conexión a internet se corta. Piensas en que los entrevistadores podrían asumir que llegaste tarde y sientes..."
+            "text": "Estás a punto de hacer tu primera entrevista en línea para una importante promoción. Haces clic en el enlace cuando es hora de unirte a la reunión, pero tu conexión a internet se corta. Piensas que los entrevistadores podrían asumir que llegaste tarde y sientes..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "nausea"
+                "náusea"
             ],
             "missing_letter_count": 1
         }

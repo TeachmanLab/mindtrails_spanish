@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te sientes bien usando tu traje de baño frente a ellos?"
+            "text": "¿Te sientes bien llevando tu traje de baño frente a ellos?"
         },
         {
             "type": "Buttons",
@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Sí",
+                "No"
             ],
             "column_Count": 1,
             "correct_value": "Sí"

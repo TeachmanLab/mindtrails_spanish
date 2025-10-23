@@ -1,14 +1,14 @@
 {
-    "header_text": "Enfrentando a un amigo",
+    "header_text": "Tu nueva publicación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Enfrentando a un amigo"
+            "text": "Tu nueva publicación"
         },
         {
             "type": "Media",
-            "url": "./images/354.jpg"
+            "url": "./images/365.jpg"
         }
     ],
     "type": "positive",

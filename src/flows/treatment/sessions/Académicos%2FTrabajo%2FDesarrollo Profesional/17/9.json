@@ -13,11 +13,11 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Consigas el trabajo y avanza aún más en tu carrera.",
-                "No terminaras cumpliendo tus sueños y sentirte decepcionado de dónde terminas."
+                "Consigas el trabajo y avanzes aún más en tu carrera.",
+                "No terminaras cumpliendo tus sueños y te sentiras decepcionado de dónde terminas."
             ],
             "column_Count": 1,
-            "correct_value": "No terminaras cumpliendo tus sueños y sentirte decepcionado de dónde terminas."
+            "correct_value": "No terminaras cumpliendo tus sueños y te sentiras decepcionado de dónde terminas."
         }
     ],
     "navigation_conditions": [

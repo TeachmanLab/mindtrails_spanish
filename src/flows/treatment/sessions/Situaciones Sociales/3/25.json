@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Como no has estado en contacto, tu amigo probablemente esté pensando..."
+            "text": "Como no has estado en contacto, tu amigo probablemente está pensando..."
         },
         {
             "type": "Buttons",
@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "\"Supongo que esta amistad no vale mucho\".",
-                "\"Estoy seguro de que las cosas están muy ocupadas en este momento\"."
+                "\"Estoy seguro de que las cosas están muy ocupadas en este momento\".",
+                "\"Supongo que esta amistad no vale mucho\"."
             ],
             "column_Count": 1,
             "correct_value": "\"Supongo que esta amistad no vale mucho\"."

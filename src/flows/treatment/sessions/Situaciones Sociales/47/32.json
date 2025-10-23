@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Piensas que tu mejor amigo no empatizará con tus experiencias.",
-                "Esperas que tu mejor amigo trate de entender lo que estás pasando."
+                "Esperas que tu mejor amigo trate de entender lo que estás pasando.",
+                "Piensas que tu mejor amigo no empatizará con tus experiencias."
             ],
             "column_Count": 1,
             "correct_value": "Esperas que tu mejor amigo trate de entender lo que estás pasando."

@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Hay un evento comunitario pronto para celebrar el final del semestre, y realmente quieres ir. Después de creer que el evento será gratuito, te sorprende descubrir que en realidad será muy caro asistir. Decides ponerte en contacto con los organizadores del evento y llegar a un..."
+            "text": "Hay un evento comunitario próximo para celebrar el final del semestre, y realmente quieres ir. Después de pensar que el evento será gratuito, te sorprende descubrir que en realidad será muy caro asistir. Decides ponerte en contacto con los organizadores del evento y llegar a un..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "compromiso"
+                "acuerdo"
             ],
             "missing_letter_count": 1
         }

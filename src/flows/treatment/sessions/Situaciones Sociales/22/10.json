@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás cuidando al hijo de un amigo. El niño pide ir a un parque en un vecindario diferente. En tu opinión, una salida normal como esta es..."
+            "text": "Estás cuidando al hijo de un amigo. El niño te pide ir a un parque en un vecindario diferente. En tu opinión, una salida normal como esta es..."
         },
         {
             "type": "WordPuzzle",

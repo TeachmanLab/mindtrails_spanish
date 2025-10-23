@@ -13,11 +13,11 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Uno que no destacará en una buena piscina.",
+                "Una que no destacará en una buena piscina.",
                 "Una buena, en relación con las otras presentaciones."
             ],
             "column_Count": 1,
-            "correct_value": "Uno que no destacará en una buena piscina."
+            "correct_value": "Una que no destacará en una buena piscina."
         }
     ],
     "navigation_conditions": [

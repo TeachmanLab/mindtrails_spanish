@@ -1,19 +1,19 @@
 {
-    "header_text": "Luchando con una presentación:Pensamientos",
+    "header_text": "Marcado en una foto:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Ha estado luchando por armar esta presentación, pero aún no se ha comunicado con su jefe al respecto. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Tú y tus amigos tomaron algunas fotografías juntos. Al día siguiente, recibes una notificación de que te etiquetaron en una publicación en las redes sociales. No te gusta cómo te ves en la foto.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Mi trabajo estará en riesgo si estropeo esta presentación.",
-                "No haré mi mejor esfuerzo hoy, pero a veces se me permite tener un día libre.",
-                "Mi jefe pensará que mi presentación necesita mejoras y yo estaré de acuerdo con eso.",
-                "Soy muy trabajadora y mi jefe podrá notarlo.",
-                "Mis colegas pensarán que me preparé bien para la presentación."
+                "No creo que esta sea la mejor publicación, pero es solo una imagen y no es un reflejo de quién soy.",
+                "Creo que mi amigo podría haber publicado una foto mejor, pero sé que en realidad no fue su intención publicar una mala mía.",
+                "Es bueno que hayan publicado una foto de todos nosotros.",
+                "Otras personas juzgarán cómo me veo en la foto.",
+                "No creo que a nadie le importe cómo luzco."
             ],
             "Duration": 15000
         }

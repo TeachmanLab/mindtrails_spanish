@@ -1,10 +1,10 @@
 {
-    "header_text": "Rompiendo el código de honor: Comportamientos",
+    "header_text": "Balancear responsibilidades: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás trabajando en un informe con algunos colegas y necesitas informar algunas estadísticas. Un colega sugiere que cambie las estadísticas para que su informe se vea mejor, pero eso sería mentir.\n\nTómese 30 segundos para escribir diferentes comportamientos. El siguiente botón aparecerá automáticamente.\n\nComportamientos que podrías realizar en este momento:"
+            "text": "Tienes muchas tareas domésticas que hacer esta noche y también tienes un gran proyecto que debes entregar mañana. Ambos tienen que hacerse y usted piensa en cómo manejará todo.\n\nTómese 30 segundos para escribir diferentes comportamientos. El siguiente botón aparecerá automáticamente.\n\nComportamientos que podrías realizar en este momento:"
         },
         {
             "type": "Entry"

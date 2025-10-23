@@ -1,19 +1,19 @@
 {
-    "header_text": "Conocer a alguien nuevo:Pensamientos",
+    "header_text": "Poco interes:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En una fiesta de trabajo, tu amigo te presenta a un amigo suyo atractivo que no habías conocido antes. A la mañana siguiente, notas que te enviaron un correo electrónico.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Decide responder a todos a un correo electrónico de todo el departamento para compartir una idea. Han pasado algunas horas y nadie ha respondido a tu sugerencia todavía.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Probablemente querían enviar un correo electrónico a otra persona.",
-                "Creo que quieren conocerme.",
-                "Pensaron que era agradable hablar conmigo.",
-                "Es posible que dejen de enviarme correos electrónicos después de que responda, pero probablemente estén muy ocupados.",
-                "Quizás quieran ser simplemente mis amigos, y eso me parece bien."
+                "Puede que a mis colegas no les guste mi idea y puedo aceptarlo.",
+                "La gente aún no ha revisado su correo electrónico.",
+                "La gente ignoró la idea.",
+                "Mi sugerencia no fue la mejor, pero no tengo que ser perfecto.",
+                "Estoy orgulloso de mi idea."
             ],
             "Duration": 15000
         }

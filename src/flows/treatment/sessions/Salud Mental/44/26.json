@@ -1,14 +1,14 @@
 {
-    "header_text": "Clima lluvioso",
+    "header_text": "Expresándote",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿La tristeza de hoy va a durar para siempre?"
+            "text": "¿Compartarás tu idea?"
         },
         {
             "type": "Buttons",
-            "name": "Clima lluvioso_Salud Mental_comp_question",
+            "name": "Expresándote_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
@@ -17,7 +17,7 @@
                 "No"
             ],
             "column_Count": 1,
-            "correct_value": "No"
+            "correct_value": "Sí"
         }
     ],
     "navigation_conditions": [

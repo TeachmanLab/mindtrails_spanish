@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás buscando lugares para vivir el próximo año y tu pareja encontró un lugar genial para ambos. Verificas el precio y ves que está muy por encima de tu rango de precio. Piensas que podrás encontrar un lugar diferente que te..."
+            "text": "Estás buscando lugares para vivir el próximo año y tu pareja encontró un lugar genial para ambos. Verificas el precio y ves que está muy por encima de tu presupuesto. Piensas que podrás encontrar un lugar diferente que te funcione..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "funcione"
+                "mejor"
             ],
             "missing_letter_count": 1
         }

@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Unos días después de un pleito con tu amigo, decides romper el hielo y le propones que vayan a tomar un café. Te alistas y cuando estás por irte, te llaman para decirte que después de todo no pueden llegar. Cuando cuelgas, piensas que cancelaron debido a que están... "
+            "text": "Unos días después de un pleito con tu amigo, decides romper el hielo y le propones que vayan a tomar un café. Te alistas y cuando estás por irte, te llama para decirte que después de todo no puede llegar. Cuando cuelgas, piensas que canceló debido a que está... "
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "cansados"
+                "cansado"
             ],
             "missing_letter_count": 2
         }

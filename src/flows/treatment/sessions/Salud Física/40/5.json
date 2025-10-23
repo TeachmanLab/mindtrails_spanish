@@ -1,10 +1,10 @@
 {
-    "header_text": "Tomándo el autobús",
+    "header_text": "Tomando el autobús",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tomándo el autobús"
+            "text": "Tomando el autobús"
         },
         {
             "type": "Media",

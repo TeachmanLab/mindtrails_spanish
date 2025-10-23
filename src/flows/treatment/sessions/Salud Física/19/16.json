@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Te sentirás orgulloso de haber logrado para lo que entrenaste.",
-                "Colapsaras antes de cruzar la línea de meta."
+                "Colapsaras antes de cruzar la línea de meta.",
+                "Te sentirás orgulloso de haber logrado para lo que entrenaste."
             ],
             "column_Count": 1,
             "correct_value": "Colapsaras antes de cruzar la línea de meta."

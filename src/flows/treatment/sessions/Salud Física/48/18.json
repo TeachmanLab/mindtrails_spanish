@@ -1,10 +1,10 @@
 {
-    "header_text": "Manejando con una amigo",
+    "header_text": "Manejando con un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Manejando con una amigo"
+            "text": "Manejando con un amigo"
         },
         {
             "type": "Media",

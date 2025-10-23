@@ -1,5 +1,5 @@
 {
-    "header_text": "sintiéndote mareado",
+    "header_text": "Te sientes maread﻿o / Sintiéndote mareado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Entry",
-            "name": "sintiéndote mareado_Salud Física_entry1"
+            "name": "Te sientes maread﻿o / Sintiéndote mareado_Salud Física_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",

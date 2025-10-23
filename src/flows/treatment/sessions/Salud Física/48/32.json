@@ -1,5 +1,5 @@
 {
-    "header_text": "Dolor de cabeza en la oficina médica",
+    "header_text": "Dolor de cabeza en el consultorio",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "Dolor de cabeza en la oficina médica_Salud Física_comp_question",
+            "name": "Dolor de cabeza en el consultorio_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

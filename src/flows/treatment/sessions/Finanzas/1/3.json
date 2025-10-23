@@ -13,11 +13,11 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "fuera de control",
-                "manejable"
+                "fueras de control",
+                "manejables"
             ],
             "column_Count": 1,
-            "correct_value": "manejable"
+            "correct_value": "manejables"
         }
     ],
     "navigation_conditions": [

@@ -1,25 +1,25 @@
 {
-    "header_text": "Correo electrónico importante",
+    "header_text": "Atascado en el medio",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hoy recibirás un correo electrónico que te informará si recibiste un ascenso. Tienes algunas horas para esperar hasta recibir el correo. Cuando piensas en esperar tanto tiempo, te sientes..."
+            "text": "Estás en casa leyendo un libro cuando escuchas a miembros de tu hogar pelear. Te preguntas por qué se están gritando entre sí, y luego uno de ellos dice tu nombre. Te das cuenta de que la razón por la que están discutiendo probablemente no sea tu..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Correo electrónico importante_Salud Mental_puzzle1",
+            "name": "Atascado en el medio_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "miserable"
+                "culpa"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 3
 }

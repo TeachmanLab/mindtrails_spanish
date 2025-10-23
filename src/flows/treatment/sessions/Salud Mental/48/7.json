@@ -1,16 +1,16 @@
 {
-    "header_text": "Larga caminata afuera",
+    "header_text": "Comparar su trabajo con el de otros",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Larga caminata afuera"
+            "text": "Comparar su trabajo con el de otros"
         },
         {
             "type": "Media",
-            "url": "./images/364.jpg"
+            "url": "./images/90.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 2
 }

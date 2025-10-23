@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Llevas un tiempo con tu pareja y todavía te gustan mucho. Recientemente, tu pareja no ha expresado mucha adoración hacia ti y te preguntas si todavía te aman tanto como tú los amas. Crees que ya no les..."
+            "text": "Llevas un tiempo con tu pareja y todavía te gusta mucho. Recientemente, tu pareja no ha expresado mucha adoración hacia ti y te preguntas si todavía te ama tanto como tú la amas. Crees que ya no te..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "gustas"
+                "ama"
             ],
             "missing_letter_count": 2
         }

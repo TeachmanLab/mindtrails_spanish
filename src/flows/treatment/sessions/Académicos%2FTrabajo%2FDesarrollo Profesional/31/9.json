@@ -1,19 +1,19 @@
 {
-    "header_text": "Luchando con una presentación: Sentimientos",
+    "header_text": "Trabajar en grupos: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Ha estado luchando por armar esta presentación, pero aún no se ha comunicado con su jefe al respecto. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Tu jefe les dice a todos que mañana os dividiréis en pequeños grupos para planificar nuevos proyectos de trabajo. También dicen que tendrás que elegir tu grupo, pero te das cuenta de que no tienes amigos cercanos en tu lugar de trabajo.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Me siento mejor sabiendo que mis compañeros están pasando por lo mismo que yo.",
-                "Me siento feliz de que la presentación termine pronto.",
-                "Me siento mal porque tal vez no me vaya tan bien en esta presentación, pero es sólo una pequeña parte de toda mi carrera profesional.",
-                "Tengo miedo de que mi progreso decepcione a mi jefe.",
-                "Me da vergüenza pedirle ayuda a mi jefe, pero admiro mi confianza al exponerme."
+                "Estoy emocionado de hacer nuevos amigos.",
+                "Me siento impulsado a hacer mi mejor trabajo.",
+                "Estoy nervioso porque no tengo buenas ideas.",
+                "Tengo miedo de que mi grupo me excluya, pero sepan que esta discusión sólo durará unos minutos.",
+                "Me entristece que nadie me conozca tan bien, pero me siento mejor pensando que les agradaré una vez que me conozcan mejor."
             ],
             "Duration": 15000
         }

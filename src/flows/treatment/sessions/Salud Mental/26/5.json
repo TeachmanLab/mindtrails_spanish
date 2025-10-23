@@ -1,19 +1,19 @@
 {
-    "header_text": "Serpientes en el parque:Pensamientos",
+    "header_text": "Marcado en una foto:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo te convence para dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Tú y tus amigos tomaron algunas fotografías juntos. Al día siguiente, recibes una notificación de que te etiquetaron en una publicación en las redes sociales. No te gusta cómo te ves en la foto.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "El clima es realmente agradable.",
-                "Voy a morir si me muerde una serpiente.",
-                "Aunque me incomoda pensar en las serpientes en el parque, sé que puedo ir al parque de todos modos.",
-                "Pienso en decirle a mi amigo que he cambiado de opinión, pero voy con él de todos modos.",
-                "Me gusta hablar con este amigo."
+                "A mis amigos les gusta salir conmigo.",
+                "No creo que luzco bien en la foto, pero probablemente luzco mejor ante otras personas.",
+                "Puede que a la gente no le guste la foto, pero me siento bien cuando mis amigos me aprecian.",
+                "Mis amigos tienen perfiles hermosos.",
+                "La gente va a juzgar cómo me veo."
             ],
             "Duration": 15000
         }

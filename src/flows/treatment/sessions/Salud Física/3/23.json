@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes una cita de rutina con el dentista y descubres que necesitas algunas pruebas para comprobar la salud de tus encías y dientes. Después de que el dentista realiza las pruebas, continúas recostado en el sillón del dentista mientras esperas los resultados. Crees que tus dientes y encías probablemente estén..."
+            "text": "Tienes una cita de rutina con el dentista y descubres que necesitas algunas pruebas para comprobar la salud de tus encías y dientes. Después de que el dentista realiza las pruebas, continúas recostado en el sillón mientras esperas los resultados. Crees que tus dientes y encías probablemente estén..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "enfermos"
+                "sanos"
             ],
             "missing_letter_count": 1
         }

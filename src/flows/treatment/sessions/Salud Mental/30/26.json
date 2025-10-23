@@ -13,11 +13,11 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Lo coloca en una buena posición para conseguir este nuevo trabajo.",
+                "te coloca en una buena posición para conseguir este nuevo trabajo.",
                 "No será lo suficientemente bueno para conseguirte el trabajo."
             ],
             "column_Count": 1,
-            "correct_value": "Lo coloca en una buena posición para conseguir este nuevo trabajo."
+            "correct_value": "te coloca en una buena posición para conseguir este nuevo trabajo."
         }
     ],
     "navigation_conditions": [

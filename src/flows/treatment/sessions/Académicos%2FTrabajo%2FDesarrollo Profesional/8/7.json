@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Acabas de enviar un correo electrónico importante. Al releer lo que envaste, ves un error tipográfico en la primera oración. Crees que deberías..."
+            "text": "Acabas de enviar un correo electrónico importante. Al releer lo que enviaste, ves un error tipográfico en la primera oración. Crees que deberías..."
         },
         {
             "type": "Entry",

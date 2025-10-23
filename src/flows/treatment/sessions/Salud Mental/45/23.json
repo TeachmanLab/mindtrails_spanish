@@ -1,20 +1,20 @@
 {
-    "header_text": "Enfrentando a un amigo",
+    "header_text": "Tu nueva publicación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En una conversación con un amigo, ellos dicen algo un poco ofensivo y no parecen darse cuenta de que te hicieron sentir incómodo. Los confrontas sobre su comentario y por qué fue ofensivo, y en ese momento te preocupas que estarán enojados contigo. Cuando responden, te agradecen por tu comunicación y te piden... "
+            "text": "Acabas de publicar una nueva foto hace una hora. Cuando revisas cuántos “me gusta” ha recibido, ves que a nadie le ha gustado todavía. Es tarde en la noche, lo que significa que todos están..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Enfrentando a un amigo_Salud Mental_puzzle1",
+            "name": "Tu nueva publicación_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "disculpas"
+                "durmiendo"
             ],
             "missing_letter_count": 1
         }

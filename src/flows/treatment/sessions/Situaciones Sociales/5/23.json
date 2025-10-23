@@ -1,10 +1,10 @@
 {
-    "header_text": "sin planes para el fin de semana",
+    "header_text": "Sin planes para el fin de semana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "sin planes para el fin de semana"
+            "text": "Sin planes para el fin de semana"
         },
         {
             "type": "Media",

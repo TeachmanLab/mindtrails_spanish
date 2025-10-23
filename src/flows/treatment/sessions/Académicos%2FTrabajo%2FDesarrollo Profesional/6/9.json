@@ -1,19 +1,19 @@
 {
-    "header_text": "Rompiendo el código de honor: Sentimientos",
+    "header_text": "Balancear responsibilidades: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás trabajando en un informe con algunos colegas y necesitas informar algunas estadísticas. Un colega sugiere que cambie las estadísticas para que su informe se vea mejor, pero eso sería mentir.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Tienes muchas tareas domésticas que hacer esta noche y también tienes un gran proyecto que debes entregar mañana. Ambos tienen que hacerse y usted piensa en cómo manejará todo.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Estoy un poco frustrado porque mi colega dijo que deberíamos inventar nuevas estadísticas.",
-                "Me sentiré aliviado cuando este informe esté terminado.",
-                "Me preocupa mi desempeño en el informe, pero sé que estoy haciendo lo mejor que puedo.",
-                "Soy más feliz escribiendo este informe con mis colegas que cuando estoy solo.",
-                "Me preocupa que mis compañeros se burlen de mí, pero si lo hacen, puedo soportarlo."
+                "Estoy tranquilo mientras descubro cómo hacer todo esta noche.",
+                "Me emociona descubrir nueva música mientras hago las tareas del hogar.",
+                "Me siento frustrado por la falta de tiempo, pero sé que una vez que empiece, todo empezará a fluir.",
+                "Tengo un nudo en el estómago porque no sé si haré mi trabajo.",
+                "Siento que no quiero hacer nada, pero sé que será maravilloso haber realizado estas tareas."
             ],
             "Duration": 15000
         }

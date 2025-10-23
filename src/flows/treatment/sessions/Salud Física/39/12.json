@@ -1,10 +1,10 @@
 {
-    "header_text": "Primera vez pantinaje sobre hielo",
+    "header_text": "Primera vez patinas sobre hielo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Primera vez pantinaje sobre hielo"
+            "text": "Primera vez patinas sobre hielo"
         },
         {
             "type": "Media",

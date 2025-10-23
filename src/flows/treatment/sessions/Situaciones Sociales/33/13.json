@@ -1,10 +1,10 @@
 {
-    "header_text": "sintiéndote abandonado por un amigo cercano",
+    "header_text": "Sintiéndote abandonado por un amigo cercano",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "sintiéndote abandonado por un amigo cercano"
+            "text": "Sintiéndote abandonado por un amigo cercano"
         },
         {
             "type": "Media",

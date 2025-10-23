@@ -1,14 +1,14 @@
 {
-    "header_text": "Foto con amigos",
+    "header_text": "Quedando atrás",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Foto con amigos"
+            "text": "Quedando atrás"
         },
         {
             "type": "Media",
-            "url": "./images/330.jpg"
+            "url": "./images/21.jpg"
         }
     ],
     "type": "positive",

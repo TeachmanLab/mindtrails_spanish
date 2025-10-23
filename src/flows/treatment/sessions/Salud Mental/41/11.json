@@ -1,10 +1,10 @@
 {
-    "header_text": "Araña perdida: Escribe Alguno Sentimientos",
+    "header_text": "Luchando con una presentación: Escribe Alguno Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando entras a la ducha, ves una enorme araña en la pared. Te das la vuelta por un segundo, miras hacia atrás y te das cuenta de que ya no está. \n\nTómese 30 segundos para escribir diferentes sentimientos. El siguiente botón aparecerá automáticamente. \n\nSentimientos en el momento y cómo manejarías cualquier sentimiento negativo:"
+            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Ha estado luchando por armar esta presentación, pero aún no se ha comunicado con su jefe al respecto. \n\nTómese 30 segundos para escribir diferentes sentimientos. El siguiente botón aparecerá automáticamente. \n\nSentimientos en el momento y cómo manejarías cualquier sentimiento negativo:"
         },
         {
             "type": "Entry"

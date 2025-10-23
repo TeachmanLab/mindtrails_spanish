@@ -1,19 +1,19 @@
 {
-    "header_text": "Saludando a mis amigos: Sentimientos",
+    "header_text": "Dando una presentación: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás afuera en un día fresco y ves a tus amigos en la calle. Decides correr para saludar. Cuando llegas con tus amigos, te quedas sin aliento.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Tienes que hacer una presentación en una reunión hoy. Cuando te paras frente al grupo, sientes que tus mejillas se calientan y tus manos empiezan a temblar.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Aunque es incómodo sentirse sin aliento, sé que es normal sentirse así después de correr.",
-                "Sentirme sin aliento me recuerda cómo me siento cuando estoy un poco ansioso, lo cual es interesante notar.",
-                "Me preocupa estar muy enfermo debido a la opresión en mi pecho.",
-                "Me siento feliz de ver a mis amigos.",
-                "Me siento vigorizado."
+                "Tengo miedo de que sentir calor en las mejillas signifique que me voy a desmayar, pero respiraré profundamente unas cuantas veces y esta sensación pasará.",
+                "Me pone nervioso que la gente pueda ver que me tiemblan las manos, pero probablemente no lo noten tanto como a mí.",
+                "Me preocupa que me vaya a desmayar.",
+                "Me alivia conocer bien este tema.",
+                "Estoy contento con lo mucho que me he preparado para esta presentación."
             ],
             "Duration": 15000
         }

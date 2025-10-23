@@ -1,16 +1,16 @@
 {
-    "header_text": "Dolor de estómago",
+    "header_text": "Enfrentando a un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Dolor de estómago"
+            "text": "Enfrentando a un amigo"
         },
         {
             "type": "Media",
-            "url": "./images/352.jpg"
+            "url": "./images/354.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 7
 }

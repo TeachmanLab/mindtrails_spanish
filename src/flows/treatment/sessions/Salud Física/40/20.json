@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Vas al hospital a visitar a un amigo. Alguien detrás de ti tose un par de veces mientras estás en la sala de espera. La probabilidad de que te enfermes es..."
+            "text": "Vas al hospital para visitar a un amigo. Alguien detrás de ti tose un par de veces mientras estás en la sala de espera. La probabilidad de que te enfermes es..."
         },
         {
             "type": "Entry",

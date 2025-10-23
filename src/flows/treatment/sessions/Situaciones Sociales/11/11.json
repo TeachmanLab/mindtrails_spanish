@@ -1,10 +1,10 @@
 {
-    "header_text": "Poco interes: Escribe Alguno Sentimientos",
+    "header_text": "Granizado derramado: Escribe Alguno Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Decide responder a todos a un correo electrónico de todo el departamento para compartir una idea. Han pasado algunas horas y nadie ha respondido a tu sugerencia todavía.\n\nTómese 30 segundos para escribir diferentes sentimientos. El siguiente botón aparecerá automáticamente. \n\nSentimientos en el momento y cómo manejarías cualquier sentimiento negativo:"
+            "text": "Tú y tus amigos están saliendo a cenar. Llegan tus alimentos y bebidas y accidentalmente derramas tu bebida en la parte delantera de tu nueva camisa blanca.\n\nTómese 30 segundos para escribir diferentes sentimientos. El siguiente botón aparecerá automáticamente. \n\nSentimientos en el momento y cómo manejarías cualquier sentimiento negativo:"
         },
         {
             "type": "Entry"

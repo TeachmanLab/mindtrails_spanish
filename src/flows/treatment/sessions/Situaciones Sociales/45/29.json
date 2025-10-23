@@ -1,14 +1,14 @@
 {
-    "header_text": "Usando algo viejo",
+    "header_text": "Llevar algo viejo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te invitan a una fiesta en la oficina y decides usar un traje que compraste el año pasado. Llegas y todos los demás parecen tener un atuendo nuevo. Mientras caminas, el anfitrión se te acerca y te dice que luces..."
+            "text": "Te invitan a una fiesta en la oficina y decides llevar un traje que compraste el año pasado. Llegas y todos los demás parecen tener un atuendo nuevo. Mientras caminas, el anfitrión se te acerca y te dice que luces..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Usando algo viejo_Situaciones Sociales_puzzle1",
+            "name": "Llevar algo viejo_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

@@ -1,14 +1,14 @@
 {
-    "header_text": "Club de lectura",
+    "header_text": "Un comentario grosero",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Club de lectura"
+            "text": "Un comentario grosero"
         },
         {
             "type": "Media",
-            "url": "./images/366.jpg"
+            "url": "./images/334.jpg"
         }
     ],
     "type": "positive",

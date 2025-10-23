@@ -1,14 +1,14 @@
 {
-    "header_text": "sin aliento",
+    "header_text": "Sin aliento",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Es vergonzoso tener que recuperar el aliento?"
+            "text": "¿Es vergonzoso que tienes que recuperar el aliento?"
         },
         {
             "type": "Buttons",
-            "name": "sin aliento_Situaciones Sociales_comp_question",
+            "name": "Sin aliento_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "¿Crees que el hormigueo en la garganta de tu amigo es una señal de COVID?"
+            "text": "¿Crees que el hormigueo en la garganta de tus amigos son una señal de COVID?"
         },
         {
             "type": "Buttons",
@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Sí",
+                "No"
             ],
             "column_Count": 1,
             "correct_value": "No"

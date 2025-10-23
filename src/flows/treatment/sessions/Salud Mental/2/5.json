@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Llevas varios años jugando a los bolos en una liga recreativa con algunos amigos. Has mejorado desde que empezaste, pero aún no eres tan hábil como te gustaría ser. Cuando piensas en ti mismo en los años venideros, ves que tus habilidades con los bolos son..."
+            "text": "Llevas varios años jugando a los bolos en una liga recreativa con algunos amigos. Has mejorado desde que empezaste, pero aún no eres tan hábil como te gustaría ser. Cuando piensas en ti mismo en los años que vienen, ves que tus habilidades con los bolos podrían ser..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "decepcionantes"
+                "mejores"
             ],
             "missing_letter_count": 1
         }

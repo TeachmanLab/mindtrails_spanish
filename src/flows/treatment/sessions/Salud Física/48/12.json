@@ -1,10 +1,10 @@
 {
-    "header_text": "Exposure Guilt",
+    "header_text": "Culpar para enfermar a otra persona",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Exposure Guilt"
+            "text": "Culpar para enfermar a otra persona"
         },
         {
             "type": "Media",

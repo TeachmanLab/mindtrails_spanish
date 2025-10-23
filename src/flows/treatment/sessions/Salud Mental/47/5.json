@@ -1,16 +1,25 @@
 {
-    "header_text": "Fiesta con amigos",
+    "header_text": "Vaso de agua",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Fiesta con amigos"
+            "text": "Mientras estás en una cita, accidentalmente derramas un vaso de agua. Te sientes ligeramente avergonzado mientras tu cita te ayuda a limpiar el agua. Cuando todo está seco, sientes que el resto de la cita probablemente saldrá..."
         },
         {
-            "type": "Media",
-            "url": "./images/347.jpg"
+            "type": "WordPuzzle",
+            "name": "Vaso de agua_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "bien"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

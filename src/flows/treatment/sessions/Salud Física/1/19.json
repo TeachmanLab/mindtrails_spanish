@@ -13,8 +13,8 @@
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Te enfermas de todos modos.",
-                "Te mantienes sano."
+                "Te mantienes sano.",
+                "Te enfermas de todos modos."
             ],
             "column_Count": 1,
             "correct_value": "Te enfermas de todos modos."

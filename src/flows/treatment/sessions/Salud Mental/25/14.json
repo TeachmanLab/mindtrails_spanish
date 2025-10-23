@@ -1,5 +1,5 @@
 {
-    "header_text": "Ponerse ahí fuera",
+    "header_text": "Darte a conocer",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Entry",
-            "name": "Ponerse ahí fuera_Salud Mental_entry2"
+            "name": "Darte a conocer_Salud Mental_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",

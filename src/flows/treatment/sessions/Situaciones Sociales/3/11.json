@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras caminas por una calle llena de gente, ves a tu compañero de trabajo al otro lado. Llamas, pero no te responden. Piensas que están..."
+            "text": "Mientras caminas por una calle llena de gente, ves a tu compañero de trabajo al otro lado. Llamas, pero no te responde. Piensas que está..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "distraídos"
+                "distraído"
             ],
             "missing_letter_count": 1
         }

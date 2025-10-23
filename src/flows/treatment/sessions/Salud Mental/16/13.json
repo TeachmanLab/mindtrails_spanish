@@ -1,19 +1,19 @@
 {
-    "header_text": "Serpientes en el parque: Comportamientos",
+    "header_text": "Luchando con una presentación: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo te convence para dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Ha estado luchando por armar esta presentación, pero aún no se ha comunicado con su jefe al respecto. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Llamo a mi amigo y le digo que de repente estoy ocupado.",
-                "Pienso en decirle a mi amigo que deberíamos ir a caminar a otro lugar, pero decido que estará bien si caminamos por el parque.",
-                "Quiero decirle a mi amigo que no puedo ir, pero me esfuerzo por ir al parque de todos modos.",
-                "Le digo a mi amigo que estoy listo para partir.",
-                "Me pongo una chaqueta y salgo."
+                "Inventaré una excusa de por qué no me preparé lo suficiente para la presentación.",
+                "Puede que me sienta molesto y quiera abandonar la reunión, pero respiro unas cuantas veces para calmarme.",
+                "Practico mi presentación.",
+                "Hago un chiste al inicio de mi presentación para romper el hielo.",
+                "Quiero abandonar esta tarea, pero decido seguir intentándolo."
             ],
             "Duration": 15000
         }

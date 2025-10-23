@@ -1,14 +1,14 @@
 {
-    "header_text": "Atascado en el medio",
+    "header_text": "Lunes por la mañana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Es tu culpa que estén peleando?"
+            "text": "¿Es necesario salir del carro porque sientes que tu corazón este latiendo rápidamente?"
         },
         {
             "type": "Buttons",
-            "name": "Atascado en el medio_Salud Mental_comp_question",
+            "name": "Lunes por la mañana_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
@@ -24,6 +24,6 @@
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

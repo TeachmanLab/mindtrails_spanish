@@ -1,14 +1,14 @@
 {
-    "header_text": "Expectativas diferentes",
+    "header_text": "Usando tecnología diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Habrán consecuencias terribles por no obtener este aumento?"
+            "text": "¿Te sientes capaz de completar el trabajo de este proyecto?"
         },
         {
             "type": "Buttons",
-            "name": "Expectativas diferentes_Salud Mental_comp_question",
+            "name": "Usando tecnología diferente_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
@@ -17,7 +17,7 @@
                 "No"
             ],
             "column_Count": 1,
-            "correct_value": "No"
+            "correct_value": "Sí"
         }
     ],
     "navigation_conditions": [

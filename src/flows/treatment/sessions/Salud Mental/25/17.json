@@ -1,10 +1,10 @@
 {
-    "header_text": "Views Towards Therapy",
+    "header_text": "Opiniones sobre la terapia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Views Towards Therapy"
+            "text": "Opiniones sobre la terapia"
         },
         {
             "type": "Media",

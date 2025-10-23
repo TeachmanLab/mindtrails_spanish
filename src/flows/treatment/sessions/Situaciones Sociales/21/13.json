@@ -1,19 +1,19 @@
 {
-    "header_text": "Amigo ruidoso: Comportamientos",
+    "header_text": "Salir sin ti: Comportamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu auto se averió y un amigo te va a dejar en una reunión. Cuando te dejan, hacen mucho ruido y todos los que están allí te miran. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Estás en el trabajo y escuchas a algunos de tus compañeros de trabajo conversando detrás de ti. Mientras escuchas, te das cuenta de que no te invitaron a una pequeña reunión y que algunos de tus compañeros de trabajo y amigos estaban pasando el rato sin ti. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Le sonrío a mi amigo mientras salgo del auto.",
-                "Evito hacer contacto visual con la gente.",
-                "Siento la necesidad de saltarme la reunión, pero me obligo a enfrentar mis miedos y entrar.",
-                "Quiero seguir disculpándome con las personas en la reunión hasta estar seguro de que no están enojados, pero decido que una vez es suficiente.",
-                "Empiezo a sacar mis notas para la reunión."
+                "Invitaré a algunos de mis compañeros de trabajo a salir más adelante esta semana.",
+                "Quiero contar chismes sobre lo horrible que fue que no me invitaran, pero decido que eso no sería útil.",
+                "Saludo a mis compañeros de trabajo cuando los veo en nuestra oficina.",
+                "Lloro y pienso en otras ocasiones en las que he sido excluido.",
+                "Quiero ignorarlos por no invitarme, pero recordarme que eso sería infantil."
             ],
             "Duration": 15000
         }

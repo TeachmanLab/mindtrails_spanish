@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Conoces a alguien nuevo en una organización local y tienes una discusión estimulante. Hacia el final descubres que no están de acuerdo con algo que dijiste. La próxima vez que la organización se reúna, esperas que lo..."
+            "text": "Conoces a alguien nuevo en una organización local y tienes una discusión estimulante. Hacia el final descubres que no está de acuerdo con algo que dijiste. La próxima vez que la organización se reúna, esperas que lo..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "incluyan"
+                "incluya"
             ],
             "missing_letter_count": 2
         }

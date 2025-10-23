@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "¿Eres capaz de responder a la pregunta?"
+            "text": "¿Eres capaz de responder la pregunta?"
         },
         {
             "type": "Buttons",

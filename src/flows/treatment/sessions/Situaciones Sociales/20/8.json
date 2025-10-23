@@ -1,20 +1,20 @@
 {
-    "header_text": "Arriesgándote",
+    "header_text": "Asumir un riesgo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tienes ansiedad sobre hablar con el orador?"
+            "text": "¿Tienes ansiedad al hablar con el orador?"
         },
         {
             "type": "Buttons",
-            "name": "Arriesgándote_Situaciones Sociales_comp_question",
+            "name": "Asumir un riesgo_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "No",
+                "Sí"
             ],
             "column_Count": 1,
             "correct_value": "No"

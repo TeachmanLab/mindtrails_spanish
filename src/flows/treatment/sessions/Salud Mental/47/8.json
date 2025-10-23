@@ -1,16 +1,16 @@
 {
-    "header_text": "Comprometerse con las actividades",
+    "header_text": "Fiesta con amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Comprometerse con las actividades"
+            "text": "Fiesta con amigos"
         },
         {
             "type": "Media",
-            "url": "./images/68.jpg"
+            "url": "./images/347.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 2
 }

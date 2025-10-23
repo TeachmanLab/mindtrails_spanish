@@ -1,10 +1,10 @@
 {
-    "header_text": "sintiéndote excluido por amigos",
+    "header_text": "Sintiéndote excluido por amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "sintiéndote excluido por amigos"
+            "text": "Sintiéndote excluido por amigos"
         },
         {
             "type": "Media",

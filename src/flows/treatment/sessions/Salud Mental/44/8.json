@@ -1,16 +1,16 @@
 {
-    "header_text": "Solicitar una subvención",
+    "header_text": "Invitar gente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Solicitar una subvención"
+            "text": "Invitar gente"
         },
         {
             "type": "Media",
-            "url": "./images/53.jpg"
+            "url": "./images/344.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 2
 }

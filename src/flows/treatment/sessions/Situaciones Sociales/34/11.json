@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tu mejor amigo se han conocido por muchos años. Ahora trabajan en profesiones diferentes y tienen intereses distintos, y te preocupa que no se relacionarán a medida que..."
+            "text": "Tú y tu mejor amigo se han conocido por muchos años. Ahora trabajan en profesiones diferentes y tienen intereses distintos, y te preocupas que no se relacionarán a medida que envejecen. Cuando piensas en próximos eventos importantes de la vida, piensas que no te..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "envejecen"
+                "apoyará"
             ],
             "missing_letter_count": 2
         }
