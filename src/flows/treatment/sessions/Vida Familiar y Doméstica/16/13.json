@@ -10,10 +10,10 @@
             "type": "TimedText",
             "texts": [
                 "Decido tocar algo de mi música favorita.",
-                "Puse una película divertida.",
+                "Escojo una película divertida.",
                 "Llamo a mi pareja y empiezo a llorar.",
                 "Siento la necesidad de esconderme, pero me digo a mí mismo que probablemente no fue nada afuera.",
-                "Quiero llamar a mi amigo para que regrese pronto a casa, pero decirme a mí mismo que puedo enfrentar mi miedo y que la ansiedad desaparecerá."
+                "Quiero llamar a mi amigo para que regrese pronto a casa, pero me digo a mí mismo que puedo enfrentar mi miedo y que la ansiedad desaparecerá."
             ],
             "Duration": 15000
         }

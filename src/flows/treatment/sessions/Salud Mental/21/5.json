@@ -4,14 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tus amigos tomaron algunas fotografías juntos. Al día siguiente, recibes una notificación de que te etiquetaron en una publicación en las redes sociales. No te gusta cómo te ves en la foto.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Tú y tus amigos tomaron algunas fotografías juntos. El día siguiente, recibes una notificación de que te etiquetaron en una publicación en las redes sociales. No te gusta cómo te ves en la foto.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
                 "No creo que esta sea la mejor publicación, pero es solo una imagen y no es un reflejo de quién soy.",
                 "Creo que mi amigo podría haber publicado una foto mejor, pero sé que en realidad no fue su intención publicar una mala mía.",
-                "Es bueno que hayan publicado una foto de todos nosotros.",
+                "Es bueno que haya publicado una foto de todos nosotros.",
                 "Otras personas juzgarán cómo me veo en la foto.",
                 "No creo que a nadie le importe cómo luzco."
             ],

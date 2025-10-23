@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en un restaurante tranquilo con muchos miembros de tu familia para cenar. Mientras tomas un trago de agua, accidentalmente dejas caer el vaso al suelo y se rompe.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Estás en un restaurante tranquilo con muchos miembros de tu familia para cenar. Mientras tomas un trago de agua, accidentalmente tiras el vaso al suelo y se rompe.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",

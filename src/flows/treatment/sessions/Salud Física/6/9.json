@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo te convence para dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "Tu amigo te convence de dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
         },
         {
             "type": "TimedText",
@@ -12,7 +12,7 @@
                 "Tengo miedo de ir al parque, pero luego me doy cuenta de que nunca he oído que alguien haya sido mordido en ese parque.",
                 "Estoy ansioso por contarle a mi amigo lo que pasó hoy en el trabajo.",
                 "Estoy emocionado de ponerme al día con mi amigo.",
-                "Estoy ansioso pensando en que me muerda una serpiente, pero sepan que estaré bien en esta caminata.",
+                "Estoy ansioso pensando en que me muerda una serpiente, pero sé que estaré bien en esta caminata.",
                 "Me preocupa mucho ver una serpiente."
             ],
             "Duration": 15000

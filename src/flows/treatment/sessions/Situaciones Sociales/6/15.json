@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en un restaurante tranquilo con muchos miembros de tu familia para cenar. Mientras tomas un trago de agua, accidentalmente dejas caer el vaso al suelo y se rompe.\n\nTómese 30 segundos para escribir diferentes comportamientos. El siguiente botón aparecerá automáticamente.\n\nComportamientos que podrías realizar en este momento:"
+            "text": "Estás en un restaurante tranquilo con muchos miembros de tu familia para cenar. Mientras tomas un trago de agua, accidentalmente tiras el vaso al suelo y se rompe.\n\nTómese 30 segundos para escribir diferentes comportamientos. El siguiente botón aparecerá automáticamente.\n\nComportamientos que podrías realizar en este momento:"
         },
         {
             "type": "Entry"

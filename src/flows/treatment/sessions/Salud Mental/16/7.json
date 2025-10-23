@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Ha estado luchando por armar esta presentación, pero aún no se ha comunicado con su jefe al respecto. \n\nTómese 30 segundos para escribir pensamientos diferentes. El siguiente botón aparecerá automáticamente. \n\nPensamientos en el momento:"
+            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Has estado luchando por armar esta presentación, pero aún no te has comunicado con tu jefe al respecto. \n\nTómese 30 segundos para escribir pensamientos diferentes. El siguiente botón aparecerá automáticamente. \n\nPensamientos en el momento:"
         },
         {
             "type": "Entry"

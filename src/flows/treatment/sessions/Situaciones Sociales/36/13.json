@@ -4,16 +4,16 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en un restaurante tranquilo con muchos miembros de tu familia para cenar. Mientras tomas un trago de agua, accidentalmente dejas caer el vaso al suelo y se rompe.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+            "text": "Estás en un restaurante tranquilo con muchos miembros de tu familia para cenar. Mientras tomas un trago de agua, accidentalmente tiras el vaso al suelo y se rompe.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "Quiero llorar, pero decido que eso no sería de ayuda.",
+                "Quiero llorar, pero decido que eso no ayudaría.",
                 "Lloro porque me siento fatal.",
                 "Me ofrezco a hacer más turnos en mi trabajo y volver otro día con dinero para reemplazar el vidrio.",
                 "Ofrezco dejar dinero extra para la propina.",
-                "No quiero volver nunca al restaurante, pero si mi familia quiere volver a comer aquí, estará bien."
+                "No quiero volver nunca al restaurante, pero si mi familia quiere volver a comer aquí, estare bien."
             ],
             "Duration": 15000
         }

@@ -4,16 +4,16 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado enviando mensajes de texto a alguien que realmente te gusta y, por lo general, responde rápidamente. Notas que vieron tu mensaje hace un par de horas y no respondieron. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Has estado enviando mensajes de texto a alguien que realmente te gusta y, por lo general, responde rápidamente. Notas que vio tu mensaje hace un par de horas y no respondió. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
                 "Soy una buena persona con quien hablar.",
-                "Puede que no estén interesados ​​románticamente en mí, pero puedo pasar a otra persona.",
-                "Simplemente están ocupados.",
-                "No les debo agradar.",
-                "Quizás piensen que soy aburrido, pero nadie es interesante todo el tiempo."
+                "Es posible que no esté interesado románticamente en mí, pero puedo pasar a otra persona.",
+                "Simplemente está ocupado.",
+                "No le debo agradar.",
+                "Quizás piense que soy aburrido, pero nadie es interesante todo el tiempo."
             ],
             "Duration": 15000
         }

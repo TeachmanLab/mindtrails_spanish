@@ -4,15 +4,15 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en un restaurante tranquilo con muchos miembros de tu familia para cenar. Mientras tomas un trago de agua, accidentalmente dejas caer el vaso al suelo y se rompe.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Estás en un restaurante tranquilo con muchos miembros de tu familia para cenar. Mientras tomas un trago de agua, accidentalmente tiras el vaso al suelo y se rompe.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
             "type": "TimedText",
             "texts": [
-                "La gente de mi familia ha dejado cosas en restaurantes en el pasado.",
+                "Mi familia también ha dejado cosas en restaurantes en el pasado.",
                 "Pienso en cómo todo el mundo a veces tiene momentos de torpeza.",
-                "Puede que mi familia esté molesta, pero puedo esperar hasta que sigan adelante.",
-                "Mi familia debe estar avergonzada de mí.",
+                "Puede que mi familia esté molesta, pero puedo esperar hasta que se les pase.",
+                "Mi familia debe de estar avergonzada de mí.",
                 "El camarero se irritará, pero me disculparé y me ofreceré a ayudar a limpiar."
             ],
             "Duration": 15000

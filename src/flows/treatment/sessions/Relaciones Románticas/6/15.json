@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado enviando mensajes de texto a alguien que realmente te gusta y, por lo general, responde rápidamente. Notas que vieron tu mensaje hace un par de horas y no respondieron. \n\nTómese 30 segundos para escribir diferentes comportamientos. El siguiente botón aparecerá automáticamente.\n\nComportamientos que podrías realizar en este momento:"
+            "text": "Has estado enviando mensajes de texto a alguien que realmente te gusta y, por lo general, responde rápidamente. Notas que vio tu mensaje hace un par de horas y no respondió. \n\nTómese 30 segundos para escribir diferentes comportamientos. El siguiente botón aparecerá automáticamente.\n\nComportamientos que podrías realizar en este momento:"
         },
         {
             "type": "Entry"

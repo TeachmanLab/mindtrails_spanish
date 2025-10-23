@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "texts": [
-                "Tengo miedo de que sentir calor en las mejillas signifique que me voy a desmayar, pero respiraré profundamente unas cuantas veces y esta sensación pasará.",
+                "Tengo miedo que sentir calor en las mejillas signifca que voy a desmayar, pero respiraré profundamente unas veces y esta sensación pasará.",
                 "Me pone nervioso que la gente pueda ver que me tiemblan las manos, pero probablemente no lo noten tanto como a mí.",
-                "Me preocupa que me vaya a desmayar.",
-                "Me alivia conocer bien este tema.",
-                "Estoy contento con lo mucho que me he preparado para esta presentación."
+                "Me preocupo que me vaya a desmayar.",
+                "Me alivia saber bien este tema.",
+                "Estoy contento que me he preparado mucho para esta presentación."
             ],
             "Duration": 15000
         }
