@@ -56,8 +56,12 @@
               "icon": "/assets/home_anxiety.png",
               "action": "flow://flows/what is anxiety.json",
               "backgroundcolor": "#1A5C2FDA"
-            }
-          ]
+            },
+            {
+      "text": "Meet the Team",
+      "icon": "/assets/menu_team.png",
+      "action": "flow://flows/team.json"
+    }         ]
         }
       ]
     }
