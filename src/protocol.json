@@ -58,7 +58,7 @@
               "backgroundcolor": "#1A5C2FDA"
             },
             {
-      "text": "Meet the Team",
+      "text": "Conoce al equipo",
       "icon": "/assets/menu_team.png",
       "action": "flow://flows/team.json"
     }         ]
