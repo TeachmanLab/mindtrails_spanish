@@ -56,12 +56,8 @@
               "icon": "/assets/home_anxiety.png",
               "action": "flow://flows/what is anxiety.json",
               "backgroundcolor": "#1A5C2FDA"
-            },
-            {
-      "text": "Conoce al equipo",
-      "icon": "/assets/menu_team.png",
-      "action": "flow://flows/team.json"
-    }         ]
+            }
+          ]
         }
       ]
     }
@@ -104,7 +100,7 @@
     {
       "text": "Conoce al equipo",
       "icon": "/assets/menu_team.png",
-      "action": "https://ert6g2.wixsite.com/hoosthinkcalmly/contact-the-team"
+      "action": "flow://flows/team.json"
     },
     {
       "text": "Obtener ayuda",
