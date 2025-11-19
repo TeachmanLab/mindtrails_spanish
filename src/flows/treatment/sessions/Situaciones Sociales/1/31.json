@@ -25,5 +25,15 @@
         "wait_for_click"
     ],
     "type": "resilience/negation",
-    "scenario_num": 9
+    "scenario_num": 9,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Al igual que con cualquier habilidad nueva, la práctica constante te ayudará a pensar de manera más flexible."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

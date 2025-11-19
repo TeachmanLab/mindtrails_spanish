@@ -25,5 +25,15 @@
         "wait_for_click"
     ],
     "type": "resilience/negation",
-    "scenario_num": 6
+    "scenario_num": 6,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Un consejo: Trata de imaginarte diferentes formas de responder a cada escenario."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }
