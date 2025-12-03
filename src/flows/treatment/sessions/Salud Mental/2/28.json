@@ -25,15 +25,5 @@
         "wait_for_click"
     ],
     "type": "resilience/negation",
-    "scenario_num": 8,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Un consejo: recuerda, cuando te sientas ansioso la sensación no durará para siempre."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 8
 }

@@ -25,15 +25,5 @@
         "wait_for_click"
     ],
     "type": "resilience/negation",
-    "scenario_num": 2,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Tómate un momento para considerar las razones importantes para cambiar tu pensamiento ansioso."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 2
 }

@@ -12,5 +12,15 @@
         }
     ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 8,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Un consejo: recuerda, cuando te sientas ansioso la sensación no durará para siempre."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

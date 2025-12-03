@@ -12,5 +12,15 @@
         }
     ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 5,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Recuerda: Está bien cometer errores. Trata de dar lo mejor."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }
