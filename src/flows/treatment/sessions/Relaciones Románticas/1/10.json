@@ -25,15 +25,5 @@
         "wait_for_click"
     ],
     "type": "positive",
-    "scenario_num": 2,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Un consejo: Recuerda tratar de imaginar vívidamente los escenarios."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 2
 }
