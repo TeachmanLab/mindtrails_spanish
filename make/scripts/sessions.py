@@ -239,19 +239,19 @@ def create_reminders():
     reminders = defaultdict(list)
     with open(f"{dir_csv}/Reminders.csv", "r", encoding="utf-8") as read_obj:
         for row in islice(csv.reader(read_obj),1,None):
-            reminders[row[0].strip()].append([lower(row[1]).strip(), lower(row[2]).strip(), row[5]])
+            reminders[row[0].strip()].append([lower(row[1]).strip(), lower(row[2]).strip(), row[4], row[5]])
 
     return reminders
 
 def try_add_reminders(session_number, session, reminders):
     if str(session_number+1) in reminders:
-        for page,position,reminder in reminders[str(session_number+1)]:
+        for page, position, reminder_image, reminder_text in reminders[str(session_number+1)]:
 
             position = lower(position).strip()
             index = get_page_index(page,session,position)
 
             if index is not None:
-                session[index]["information"] = get_reminder_element(reminder,position,1)
+                session[index]["information"] = get_reminder_element(reminder_text, reminder_image, position, 1)
 
     return session
 
@@ -282,10 +282,10 @@ for pop,s,l in populations:
                 sessions[domain].append(short_session + resources(domain))
 
     for key in [k for k in reminders.keys() if k.startswith("<")]:
-        for page,position,reminder in reminders[key]:
+        for page, position, reminder_image, reminder_text in reminders[key]:
             for p in flat(surveys["BeforeDomain_All"]):
                 if page in lower(p["header_text"]):
-                    p["information"] = get_reminder_element(reminder,position,3)
+                    p["information"] = get_reminder_element(reminder_text, reminder_image, position, 3)
 
     # Define folders
     folders = {}

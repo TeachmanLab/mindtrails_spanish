@@ -16,6 +16,10 @@
     "information": {
         "elements": [
             {
+                "type": "media",
+                "url": "./images/598.jpg"
+            },
+            {
                 "type": "text",
                 "text": "Al igual que con cualquier habilidad nueva, la práctica constante te ayudará a pensar de manera más flexible."
             }

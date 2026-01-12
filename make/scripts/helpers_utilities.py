@@ -211,8 +211,17 @@ def get_page_index(scenario, session, position):
 
     return None
 
-def get_reminder_element(reminder,position,count):
-    if not reminder.strip(): return None
-    is_image = ".png" in reminder or ".jpg" in reminder or ".jpeg" in reminder
-    element = {"type":"text", "text": reminder} if not is_image else {"type":"media", "url": media_url(reminder)}
-    return { "elements": [ element ], "position": position, "information_count": count }
+def get_reminder_element(reminder_text, reminder_image, position, count):
+    elements = []
+
+    if reminder_image and reminder_image.strip():
+        if ".png" in reminder_image or ".jpg" in reminder_image or ".jpeg" in reminder_image:
+            elements.append({"type": "media", "url": media_url(reminder_image.strip())})
+
+    if reminder_text and reminder_text.strip():
+        elements.append({"type": "text", "text": reminder_text.strip()})
+
+    if not elements:
+        return None
+    else:
+        return {"elements": elements, "position": position, "information_count": count}

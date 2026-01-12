@@ -16,6 +16,10 @@
     "information": {
         "elements": [
             {
+                "type": "media",
+                "url": "./images/597.jpg"
+            },
+            {
                 "type": "text",
                 "text": "Un consejo: Trata de imaginarte diferentes formas de responder a cada escenario."
             }

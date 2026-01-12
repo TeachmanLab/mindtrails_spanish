@@ -16,6 +16,10 @@
     "information": {
         "elements": [
             {
+                "type": "media",
+                "url": "./images/601.jpg"
+            },
+            {
                 "type": "text",
                 "text": "Un consejo: recuerda, cuando te sientas ansioso la sensación no durará para siempre."
             }

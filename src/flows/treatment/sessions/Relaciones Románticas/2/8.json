@@ -16,6 +16,10 @@
     "information": {
         "elements": [
             {
+                "type": "media",
+                "url": "./images/599.jpg"
+            },
+            {
                 "type": "text",
                 "text": "Tómate un momento para considerar las razones importantes para cambiar tu pensamiento ansioso."
             }

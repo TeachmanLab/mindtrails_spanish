@@ -16,6 +16,10 @@
     "information": {
         "elements": [
             {
+                "type": "media",
+                "url": "./images/596.jpg"
+            },
+            {
                 "type": "text",
                 "text": "Un consejo: Recuerda tratar de imaginar vívidamente los escenarios."
             }

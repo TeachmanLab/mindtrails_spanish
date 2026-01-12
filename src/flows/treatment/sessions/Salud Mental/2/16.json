@@ -16,6 +16,10 @@
     "information": {
         "elements": [
             {
+                "type": "media",
+                "url": "./images/600.jpg"
+            },
+            {
                 "type": "text",
                 "text": "Recuerda: Está bien cometer errores. Trata de dar lo mejor."
             }
