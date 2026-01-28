@@ -12,9 +12,9 @@ This repository contains the protocol for the Mind Trails Spanish study, and all
 
 ## Downloading This Repo's Protocol in Digital Trails
 
-This protocol can be downloaded in the Digital Trails app using the study code "MTS" on the initial startup screen.
+This protocol can be downloaded in the Digital Trails app using the study code "MTE" on the initial startup screen.
 
-![image](https://github.com/user-attachments/assets/0990aa18-6523-4728-bcb5-38b9b3f67e3f)
+![image](https://github.com/user-attachments/assets/8b7f077a-0da5-4331-849c-d4eaf41076c1)
 
 <br>
 
@@ -58,7 +58,7 @@ Follow these steps to make protocol changes availalbe in Digital Trails.
 
 ## Releasing Multiple Versions of This Repo's Protocol
 
-In addition to releasing a primary protocol (downloaded with MTS study code) it is also possible to release protcol versions. To do this:
+In addition to releasing a primary protocol (downloaded with MTE study code) it is also possible to release protcol versions. To do this:
 
 1. Create a new Release as described above, but this time be sure to **unclick** "Set as the latest release"
 
@@ -66,6 +66,6 @@ In addition to releasing a primary protocol (downloaded with MTS study code) it 
 
 2. In Digital Trails enter your study code followed by an @ plus your release tag. For example, if your release tag was `1.0-beta` you'd enter:
 
-   ![image](https://github.com/user-attachments/assets/0d09ef11-9523-421d-87ae-8f66a916f4bf)
+   ![image](https://github.com/user-attachments/assets/2e8821d0-48c7-48cb-8f22-87f067dc933f)
 
 3. You can have as many release versions as you want, but only one "latest release". The "latest release" is always the default download.
