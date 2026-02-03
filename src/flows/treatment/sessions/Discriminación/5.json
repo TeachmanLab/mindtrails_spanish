@@ -1,19 +1,15 @@
 {
-    "header_text": "Diario ",
+    "header_text": "Denuncias ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Siéntete libre de utilizar el espacio a continuación de cualquier forma que te resulte útil:",
+            "text": "<strong>División de Derechos Civiles:</strong> La División de Derechos Civiles hace cumplir las leyes federales que lo protegen de la discriminación por motivos de raza, color, origen nacional, discapacidad, sexo, religión, estado familiar o la pérdida de otros derechos constitucionales. <a href=\"https://www.hhs.gov/civil-rights/filing-a-complaint/complaint-process/spanish/index.html\">https://www.hhs.gov/civil-rights/filing-a-complaint/complaint-process/spanish/index.html</a><br><br>",
             "html": true
-        },
-        {
-            "type": "Entry",
-            "name": "journal_entry_discrimination"
         }
     ],
     "condition": [
-        "Diario",
+        "Denuncias",
         "in",
         "Selected_Support"
     ]

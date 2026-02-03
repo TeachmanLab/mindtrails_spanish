@@ -1,16 +1,15 @@
 {
-    "header_text": "Activismo",
+    "header_text": "Diario Final",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "<strong>InfoActivismo:</strong> La Guía de InfoActivismo te ayudará a tener una imagen completa de las acciones que puedes hacer para ser mejor activista. <a href=\"https://infoactivismo.org/guias/\">https://infoactivismo.org/guias/</a><br><br>",
+            "text": "Reflexiona sobre tu experiencia con esta sesión. Siéntete libre de utilizar el espacio a continuación de cualquier forma que te resulte útil:",
             "html": true
+        },
+        {
+            "type": "Entry",
+            "name": "journal_entry_discrimination_final"
         }
-    ],
-    "condition": [
-        "Activismo",
-        "in",
-        "Selected_Support"
     ]
 }
