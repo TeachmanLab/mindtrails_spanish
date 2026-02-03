@@ -1,14 +1,14 @@
 {
-    "header_text": "Conociendo alguien nuevo",
+    "header_text": "Viendo a un viejo amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en una fiesta de cumpleaños para un amigo. Comienzas a sentir un nudo en el estómago mientras hablas con un desconocido. Esto probablemente significa que estás..."
+            "text": "Ves a un viejo amigo con el que no has hablado en años. Tu corazón da un vuelco. Te sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Conociendo alguien nuevo_Salud Física_puzzle1",
+            "name": "Viendo a un viejo amigo_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
@@ -21,5 +21,5 @@
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

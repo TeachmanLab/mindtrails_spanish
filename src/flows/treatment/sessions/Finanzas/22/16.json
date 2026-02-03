@@ -1,29 +1,25 @@
 {
-    "header_text": "Costos de la sesión",
+    "header_text": "Reclamación del seguro",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Las finanzas interfieren con la terapia?"
+            "text": "Recibes un reclamo de seguro por una cita médica reciente que no tiene sentido. Llamas a tu compañía de seguros para obtener más información y estás ansioso por lo que le van a decir. Después de la llamada telefónica, te sientes..."
         },
         {
-            "type": "Buttons",
-            "name": "Costos de la sesión_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Reclamación del seguro_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "aliviado"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 1
 }

@@ -1,25 +1,10 @@
 {
-    "header_text": "Planes para el fin de semana",
+    "header_text": "Recordatorio de favoritos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Es viernes y escuchas a unos compañeros de trabajo hablando sobre sus planes para el fin de semana. No tienes nada planeado, y sientes que no eres lo suficientemente sociable para estar al nivel de tus compañeros. Cuando imaginas relajarte después de una semana difícil de trabajo, te sientes..."
-        },
-        {
-            "type": "WordPuzzle",
-            "name": "Planes para el fin de semana_Salud Mental_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "satisfecho"
-            ],
-            "missing_letter_count": 2
+            "text": "Recuerde que puede agregar historias, consejos y recursos a sus Favoritos haciendo clic en la estrella en la esquina superior derecha de la pantalla."
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 0
+    ]
 }

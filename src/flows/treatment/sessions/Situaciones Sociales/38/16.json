@@ -1,17 +1,17 @@
 {
-    "header_text": "Planes cancelados",
+    "header_text": "Conociendo nuevos amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes planes para encontrarte con un amigo en la ciudad. La última vez que se vio, tuves un desacuerdo. Justo antes de salir, te llama para decir que no puede llegar. Al colgar el teléfono, piensas que esto se debe a que está..."
+            "text": "En el trabajo, te asignan al nuevo proyecto en el que no conoces a nadie más. El primer día de reunión, te esfuerzas por hacer nuevos amigos. Cuando piensas en preguntarles a algunos colegas si quieren tomar café después del trabajo, esperas que digan que..."
         },
         {
             "type": "Entry",
-            "name": "Planes cancelados_Situaciones Sociales_entry1"
+            "name": "Conociendo nuevos amigos_Situaciones Sociales_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 6
+    "type": "negative",
+    "scenario_num": 1
 }

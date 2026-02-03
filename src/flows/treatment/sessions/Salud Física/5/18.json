@@ -1,25 +1,29 @@
 {
-    "header_text": "Una mesa sucia",
+    "header_text": "Picadura de araña",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te encuentras con un amigo para almorzar en un nuevo restaurante. Una vez que te sientas, te das cuenta de que tu mesa no fue limpiada después de los clientes anteriores, lo que te pone ansioso por los gérmenes. Decides quedarte a almorzar con tu amigo, y tu ansiedad es..."
+            "text": "¿Puedes manejar tus preocupaciones mientras terminas tu caminata?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Una mesa sucia_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Picadura de araña_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "tolerable"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 1
 }

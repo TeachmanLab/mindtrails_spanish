@@ -1,0 +1,25 @@
+{
+    "header_text": "Balancear responsibilidades: Sentimientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tienes muchas tareas domésticas que hacer esta noche y también tienes un gran proyecto que debes entregar mañana. Ambos tienen que hacerse y usted piensa en cómo manejará todo.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Estoy tranquilo mientras descubro cómo hacer todo esta noche.",
+                "Me emociona descubrir nueva música mientras hago las tareas del hogar.",
+                "Me siento frustrado por la falta de tiempo, pero sé que una vez que empiece, todo empezará a fluir.",
+                "Tengo un nudo en el estómago porque no sé si haré mi trabajo.",
+                "Siento que no quiero hacer nada, pero sé que será maravilloso haber realizado estas tareas."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

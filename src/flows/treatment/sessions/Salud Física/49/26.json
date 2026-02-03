@@ -1,29 +1,16 @@
 {
-    "header_text": "Conocido sin mascarilla",
+    "header_text": "Corriendo en el frío",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tu colega olvidó su mascarilla?"
+            "text": "Corriendo en el frío"
         },
         {
-            "type": "Buttons",
-            "name": "Conocido sin mascarilla_Salud Física_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "type": "Media",
+            "url": "./images/254.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 7
+    "type": "negative",
+    "scenario_num": 4
 }

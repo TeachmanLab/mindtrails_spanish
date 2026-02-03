@@ -1,25 +1,39 @@
 {
-    "header_text": "Ponerse ahí fuera",
+    "header_text": "Día caluroso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vas a almorzar con un amigo nuevo. Tú y tu amigo tuvieron una conversación muy buena y te hizo algunas preguntas que te hacen sentir vulnerable. Si llega a conocer tu \"verdadero yo\", crees que te va a..."
+            "text": "Respondes a la sensación en tu estómago..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Ponerse ahí fuera_Salud Mental_puzzle1",
+            "type": "Buttons",
+            "name": "Día caluroso_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "juzgar"
+            "buttons": [
+                "Entrando en pánico por las sensaciones y llamando a una ambulancia.",
+                "Observando las sensaciones sin hacer nada."
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Observando las sensaciones sin hacer nada."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
-    "scenario_num": 8
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "A veces, las situaciones no son sólo buenas o malas. ¡Las situaciones neutrales nos recuerdan que está bien abrazar la zona gris!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

@@ -1,19 +1,15 @@
 {
-    "header_text": "Poco interés: Comportamientos",
+    "header_text": "Poco interés",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Decides responder a todos por un correo electrónico de todo el departamento para compartir una idea. Han pasado algunas horas y nadie ha respondido a tu sugerencia todavía.\n\nTómese 30 segundos para escribir diferentes comportamientos. El siguiente botón aparecerá automáticamente.\n\nComportamientos que podrías realizar en este momento:"
+            "text": "Decides responder a todos por un correo electrónico de todo el departamento para compartir una idea. Han pasado algunas horas y nadie ha respondido a tu sugerencia todavía.\n\nHaga clic en Siguiente para ver algunas ideas."
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/575.jpg",
+            "border": true
         }
-    ],
-    "navigation_conditions": [
-        {
-            "wait_for_time": 30000
-        },
-        "wait_for_click"
     ]
 }

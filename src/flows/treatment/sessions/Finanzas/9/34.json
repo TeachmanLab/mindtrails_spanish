@@ -1,0 +1,17 @@
+{
+    "header_text": "Visitar a un nuevo amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Has sido invitado a pasar unas vacaciones en casa de un amigo y quieres llevarle un regalo, pero no puedes permitirte comprarlo. Decides escribir un poema y recitarlo para la familia de tu amigo. Cuando te imaginas leyéndolo, te..."
+        },
+        {
+            "type": "Entry",
+            "name": "Visitar a un nuevo amigo_Finanzas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
+}

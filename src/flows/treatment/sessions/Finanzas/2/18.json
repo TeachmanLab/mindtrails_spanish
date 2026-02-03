@@ -1,25 +1,30 @@
 {
-    "header_text": "Costear los gastos",
+    "header_text": "Preocuparse por los ahorros",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu alquiler se acerca pronto. Normalmente tienes tu alquiler presupuestado, pero algunos gastos inesperados te han dejado un poco corto y tienes que tomar algunos turnos extra en el trabajo. Pensando en tu capacidad para hacer el pago, tus fondos serán... "
+            "text": "Preocuparse por los ahorros"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Costear los gastos_Finanzas_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "suficientes"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/197.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 5
+    "type": "resilience/negation",
+    "scenario_num": 2,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/599.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Tómate un momento para considerar las razones importantes para cambiar tu pensamiento ansioso."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

@@ -1,29 +1,25 @@
 {
-    "header_text": "Casa bilingüe",
+    "header_text": "Alzar la voz en una clase",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tu compañero de trabajo juzga a tu familia bilingüe?"
+            "text": "Tu jefe está hablando sobre uno de tus modelos a seguir en tu campo de trabajo durante una reunión y le pregunta si alguien sabe de su trabajo. Frente a todos levantas rápidamente la mano y tus colegas se vuelven hacia ti. Te das cuenta de que te sientes..."
         },
         {
-            "type": "Buttons",
-            "name": "Casa bilingüe_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Alzar la voz en una clase_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "seguro"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 2
 }

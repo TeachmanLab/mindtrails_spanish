@@ -1,0 +1,17 @@
+{
+    "header_text": "Tus habilidades con los bolos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cuando piensas en ti mismo en los años que vienen, no crees que tus habilidades para jugar a los bolos se hayan estancado y las consideras..."
+        },
+        {
+            "type": "Entry",
+            "name": "Tus habilidades con los bolos_Salud Mental_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 6
+}

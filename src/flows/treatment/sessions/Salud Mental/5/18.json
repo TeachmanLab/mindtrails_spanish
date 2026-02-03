@@ -1,25 +1,29 @@
 {
-    "header_text": "No ",
+    "header_text": "Sentirse ansioso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente te has sentido agotado y cancelaste los planes que hiciste con tus amigos. Tus amigos expresan frustración, diciendo que planearon esto hace mucho tiempo y querían verte. Piensas que has tomado la mejor decisión para ti... "
+            "text": "¿siempre sentirás ansiedad?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "No _Salud Mental_puzzle1",
+            "type": "Buttons",
+            "name": "Sentirse ansioso_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "mismo"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 1
 }

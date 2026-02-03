@@ -1,17 +1,31 @@
 {
-    "header_text": "Comentarios honestos",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te pones un traje nuevo por la mañana antes de partir por el día. A mitad del día, te das cuenta que te sientes un poco diferente con este nuevo conjunto. Te encanta este sentimiento y estás feliz de usar el..."
+            "text": "¿Qué tan vívidamente imaginaste la situación?"
         },
         {
-            "type": "Entry",
-            "name": "Comentarios honestos_Situaciones Sociales_entry1"
+            "type": "Buttons",
+            "buttons": [
+                "Nada vívido",
+                "Algo vívido",
+                "Moderadamente vívido",
+                "Muy vívido",
+                "Totalmente vívido",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "imagery_vivid"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 2
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

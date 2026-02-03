@@ -1,14 +1,25 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Nuevo mercado:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en una situación que enfrentas regularmente que te causa algo de ansiedad. ¿Qué te sueles decir a ti mismo? ¿Hay otro pensamiento que puedas decirte a ti mismo que pueda hacer que sea menos provacador de ansiedad? "
+            "text": "Estás en una nueva tienda de comestibles y buscas pan. De repente notas que tu corazón late rápidamente y con fuerza.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #12_entry"
+            "type": "TimedText",
+            "texts": [
+                "Mi corazón debe latir más rápido porque camino muy rápido por los pasillos.",
+                "¡Me va a dar un infarto!",
+                "Es sorprendente la cantidad de opciones diferentes de comida que hay en esta tienda de comestibles.",
+                "Si esta sensación en mi pecho es realmente incómoda, sé que desaparecerá pronto.",
+                "Me pregunto si hay algún problema con mi corazón, pero puedo obtener ayuda y resolver el problema si es necesario."
+            ],
+            "Duration": 15000
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
     ]
 }

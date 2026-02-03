@@ -1,0 +1,16 @@
+{
+    "header_text": "Experiencias pasadas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Experiencias pasadas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/231.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

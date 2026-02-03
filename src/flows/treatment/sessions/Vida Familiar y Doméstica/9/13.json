@@ -1,16 +1,16 @@
 {
-    "header_text": "Inicio Presentaciones",
+    "header_text": "Haciendo una buena impresión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Inicio Presentaciones"
+            "text": "Haciendo una buena impresión"
         },
         {
             "type": "Media",
-            "url": "./images/165.jpg"
+            "url": "./images/154.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 0
 }

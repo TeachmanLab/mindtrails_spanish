@@ -1,0 +1,16 @@
+{
+    "header_text": "Pensamientos en la estación de tren",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Pensamientos en la estación de tren"
+        },
+        {
+            "type": "Media",
+            "url": "./images/399.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

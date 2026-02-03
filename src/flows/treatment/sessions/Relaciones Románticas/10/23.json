@@ -1,0 +1,27 @@
+{
+    "header_text": "Citas en línea",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu amigo te ha convencido a inscribirte en un sitio web de citas en línea. Revisas tu perfil y aunque crees que refleja muy bien quién eres, te preocupa si muestra los tipos de cualidades que la gente busca en línea. Pensando en tus posibilidades de encontrar a alguien en línea, crees que tus posibilidades de conocer a alguien pronto son..."
+        },
+        {
+            "type": "Entry",
+            "name": "Citas en línea_Relaciones Románticas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Recuerda, MindTrails no solo cambia tu perspectiva sobre las situaciones que estás leyendo aquí, ¡sino también tu perspectiva en la vida real!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
+}

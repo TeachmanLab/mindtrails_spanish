@@ -1,16 +1,16 @@
 {
-    "header_text": "Mensajes de texto honestos",
+    "header_text": "Yendo de vacaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mensajes de texto honestos"
+            "text": "Yendo de vacaciones"
         },
         {
             "type": "Media",
-            "url": "./images/333.jpg"
+            "url": "./images/142.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 9
+    "type": "negative",
+    "scenario_num": 4
 }

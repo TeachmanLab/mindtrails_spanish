@@ -1,0 +1,16 @@
+{
+    "header_text": "Mantenerse al día con los amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mantenerse al día con los amigos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/464.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 7
+}

@@ -1,17 +1,23 @@
 {
-    "header_text": "Conversaciones incómodas",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Invitaste a tu marido a pasar el rato contigo y tus amigos para que todos pudieran conocerse. Más tarde, tu marido sacó a relucir un tema controvertido y tus amigos parecían no estar seguros de cómo responder. Sabes que tus amigos reconocen que muchas personas, incluidos tú y tu marido, tienen opiniones..."
-        },
-        {
-            "type": "Entry",
-            "name": "Conversaciones incómodas_Relaciones Románticas_entry1"
+            "text": "Juega esta situación en tu cabeza durante los próximos 20 segundos. \n\nLa pantalla cambiará en 20 segundos."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 2
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 20000
+        }
+    ]
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Viendo una película con amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Viendo una película con amigos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/491.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 5
+}

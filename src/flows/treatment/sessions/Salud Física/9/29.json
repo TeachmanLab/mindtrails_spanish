@@ -1,0 +1,16 @@
+{
+    "header_text": "Yendo a dormir",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Yendo a dormir"
+        },
+        {
+            "type": "Media",
+            "url": "./images/426.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

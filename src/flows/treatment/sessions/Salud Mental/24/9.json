@@ -1,17 +1,31 @@
 {
-    "header_text": "Usando tecnología diferente",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente reemplazaste tu computadora portátil y tuviste que elegir una opción más económica. Ahora, tu jefe te ha pedido que completes un proyecto que necesita una aplicación que tu nueva computadora no tiene. Aun así, cuando piensas en el trabajo, te sientes capaz de..."
+            "text": "¿Qué tan vívidamente imaginaste la situación?"
         },
         {
-            "type": "Entry",
-            "name": "Usando tecnología diferente_Salud Mental_entry1"
+            "type": "Buttons",
+            "buttons": [
+                "Nada vívido",
+                "Algo vívido",
+                "Moderadamente vívido",
+                "Muy vívido",
+                "Totalmente vívido",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "imagery_vivid"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 3
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

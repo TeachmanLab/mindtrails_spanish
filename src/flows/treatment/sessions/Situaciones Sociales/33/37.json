@@ -1,0 +1,16 @@
+{
+    "header_text": "Presentación de recaudación de fondos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Presentación de recaudación de fondos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/121.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

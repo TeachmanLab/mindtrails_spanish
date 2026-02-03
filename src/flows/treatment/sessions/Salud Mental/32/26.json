@@ -1,29 +1,25 @@
 {
-    "header_text": "Nuevo estilo",
+    "header_text": "Correo electrónico importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Estás emocionado de usar tu conjunto nuevo para una fiesta?"
+            "text": "Hoy recibirás un correo electrónico que te informará si recibiste un ascenso. Tienes que esperar unas horas hasta recibir el correo. Cuando piensas en esperar tanto tiempo, te sientes..."
         },
         {
-            "type": "Buttons",
-            "name": "Nuevo estilo_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Correo electrónico importante_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "miserable"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 7
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 4
 }

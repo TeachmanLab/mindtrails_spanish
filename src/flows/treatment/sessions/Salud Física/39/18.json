@@ -1,16 +1,16 @@
 {
-    "header_text": "Un pastel de cumpleaños",
+    "header_text": "Corriendo fuerte",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Un pastel de cumpleaños"
+            "text": "Corriendo fuerte"
         },
         {
             "type": "Media",
-            "url": "./images/391.jpg"
+            "url": "./images/438.jpg"
         }
     ],
-    "type": "negative",
-    "scenario_num": 7
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

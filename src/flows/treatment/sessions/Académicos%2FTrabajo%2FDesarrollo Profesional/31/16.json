@@ -1,10 +1,25 @@
 {
-    "header_text": "Maneja tus sentimientos: Académicos/Trabajo/Desarrollo Profesional",
+    "header_text": "Trabajar en grupos:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Si te sientes estancado o abrumado, pregúntale a alguien cercano a ti si puedes hablar con él sobre cómo te sientes y ver si puede ofrecerte algún consejo."
+            "text": "Tu jefe les dice a todos que mañana los dividirá en pequeños grupos para planificar nuevos proyectos de trabajo. También dice que tendrás que elegir tu grupo, pero te das cuenta de que no tienes amigos cercanos en tu lugar de trabajo.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Nadie querrá estar en mi grupo.",
+                "Todos decidirán que quieren estar con personas que ya conocen, pero lo entiendo.",
+                "Hay mucha gente agradable en mi lugar de trabajo.",
+                "Encontraré el grupo adecuado para mí.",
+                "Puede que la gente no esté de acuerdo con mis ideas, pero creo que aun así tendremos una discusión interesante."
+            ],
+            "Duration": 15000
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
     ]
 }

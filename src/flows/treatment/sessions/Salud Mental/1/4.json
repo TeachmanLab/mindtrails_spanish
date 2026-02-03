@@ -1,16 +1,18 @@
 {
-    "header_text": "Puerta con seguro",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Puerta con seguro"
-        },
-        {
-            "type": "Media",
-            "url": "./images/157.jpg"
+            "text": "En este ejercicio, piensa en una PRÓXIMA situación que esperes que te haga sentir ansioso, preocupado o asustado. Elige una situación que te preocupe, que pueda salir mal o que esperes que provoque síntomas relacionados con la ansiedad (p. ej., palpitaciones, sudoración). Cualquier situación que te haga sentir bastante ansioso o asustado funcionará, siempre y cuando sea una situación que sea probable que realmente suceda."
         }
     ],
-    "type": "positive",
-    "scenario_num": 1
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

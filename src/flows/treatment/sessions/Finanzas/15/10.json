@@ -1,29 +1,31 @@
 {
-    "header_text": "Costos inesperados",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Pensando en los próximos años, te ves a ti mismo..."
+            "text": "¿Qué probabilidades hay de que la situación o tarea salga bien o mal?"
         },
         {
             "type": "Buttons",
-            "name": "Costos inesperados_Finanzas_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
             "buttons": [
-                "Continuando alquilar una casa.",
-                "siendo propietario de una casa."
+                "Es muy probable que salga bien",
+                "Es algo probable que salga bien",
+                "Neutral",
+                "Es algo probable que salga mal",
+                "Es muy probable que salga mal",
+                "Prefiero no responder"
             ],
-            "column_Count": 1,
-            "correct_value": "Continuando alquilar una casa."
+            "selectable": true,
+            "name": "imagery_well"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 2
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

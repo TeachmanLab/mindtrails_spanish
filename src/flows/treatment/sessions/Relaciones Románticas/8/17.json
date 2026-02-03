@@ -1,16 +1,16 @@
 {
-    "header_text": "Superarlo",
+    "header_text": "Conversaciones incómodas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Superarlo"
+            "text": "Conversaciones incómodas"
         },
         {
             "type": "Media",
-            "url": "./images/227.jpg"
+            "url": "./images/224.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 2
 }

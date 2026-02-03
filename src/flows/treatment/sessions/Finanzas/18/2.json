@@ -1,25 +1,10 @@
 {
-    "header_text": "Presentación de impuestos",
+    "header_text": "Recordatorio de favoritos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás presentando tus impuestos del año anterior. Tienes varios formularios que incluir y encuentras el proceso confuso. Crees que estás haciendo tu mejor..."
-        },
-        {
-            "type": "WordPuzzle",
-            "name": "Presentación de impuestos_Finanzas_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "esfuerzo"
-            ],
-            "missing_letter_count": 1
+            "text": "Recuerde que puede agregar historias, consejos y recursos a sus Favoritos haciendo clic en la estrella en la esquina superior derecha de la pantalla."
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 0
+    ]
 }

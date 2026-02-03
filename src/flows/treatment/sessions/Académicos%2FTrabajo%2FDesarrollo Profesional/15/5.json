@@ -1,16 +1,22 @@
 {
-    "header_text": "Recuperándote despues de un error",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recuperándote despues de un error"
+            "text": "Describe la situación en pocas palabras:"
         },
         {
-            "type": "Media",
-            "url": "./images/46.jpg"
+            "type": "Entry",
+            "name": "entry_anxious_imagery"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 1
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

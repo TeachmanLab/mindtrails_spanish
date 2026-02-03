@@ -1,17 +1,17 @@
 {
-    "header_text": "Trabajo inacabado",
+    "header_text": "Lograr tus objetivos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tuviste un día muy ocupado y no pudiste realizar todas tus tareas. En la cena, tu pareja habla orgullosamente de cómo terminó todo lo que tenía en la lista de tareas pendientes. Al pensar en si podrás completar tu trabajo mañana, te sientes..."
+            "text": "Te gustaría postularte para un puesto más alto en tu trabajo y mejorar tus habilidades. Sabes que el proceso de selección es riguroso, pero sientes mucha pasión por lograr este objetivo y has trabajado duro para convertirte en un buen..."
         },
         {
             "type": "Entry",
-            "name": "Trabajo inacabado_Salud Mental_entry1"
+            "name": "Lograr tus objetivos_Salud Mental_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 6
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

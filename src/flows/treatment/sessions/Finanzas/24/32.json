@@ -1,0 +1,16 @@
+{
+    "header_text": "Permitirse un viaje",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Permitirse un viaje"
+        },
+        {
+            "type": "Media",
+            "url": "./images/309.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

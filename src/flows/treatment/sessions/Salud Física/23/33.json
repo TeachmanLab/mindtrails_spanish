@@ -1,0 +1,16 @@
+{
+    "header_text": "Sequedad",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sequedad"
+        },
+        {
+            "type": "Media",
+            "url": "./images/429.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

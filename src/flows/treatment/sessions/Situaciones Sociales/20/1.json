@@ -1,16 +1,20 @@
 {
-    "header_text": "Lecciones Aprendidas",
+    "header_text": "Registro previo a la sesión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¡Excelente trabajo! ¡Estás haciendo un gran progreso al probar nuevas perspectivas relacionadas con las situaciones sociales! Tómate unos minutos para reflexionar sobre los cuentos cortos que has leído hasta ahora. ¿Qué has aprendido? ¿Cuáles son tus principales conclusiones? Por ejemplo, podrías notar que no es útil asumir lo que están pensando otras personas."
+            "text": "En este momento me siento...\n\n1 = Muy mal/negativo\n\n7 = Muy bien/positivo"
         },
         {
-            "type": "Entry",
-            "name": "lessons_learned_Situaciones Sociales_0"
+            "type": "Slider",
+            "min": "1",
+            "max": "7",
+            "others": [
+                "^Prefiero no responder"
+            ],
+            "name": "pre-EMA",
+            "variable_name": "StressLevel"
         }
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 0
+    ]
 }

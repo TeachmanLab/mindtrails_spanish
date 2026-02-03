@@ -1,10 +1,16 @@
 {
-    "header_text": "Recurso: Vida Familiar y Doméstica",
+    "header_text": "Planes de vacaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Familias Cambian: Guía de Separación y Divorcio\n\nActividades y guías para afrontar la separación y divorcio creadas para edades diversas."
+            "text": "Planes de vacaciones"
+        },
+        {
+            "type": "Media",
+            "url": "./images/147.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

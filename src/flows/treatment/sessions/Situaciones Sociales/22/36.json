@@ -1,0 +1,16 @@
+{
+    "header_text": "Rechazar una bebida",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Rechazar una bebida"
+        },
+        {
+            "type": "Media",
+            "url": "./images/528.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

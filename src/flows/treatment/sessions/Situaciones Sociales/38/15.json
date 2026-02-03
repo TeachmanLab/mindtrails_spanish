@@ -1,16 +1,16 @@
 {
-    "header_text": "Planes cancelados",
+    "header_text": "Conociendo nuevos amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Planes cancelados"
+            "text": "Conociendo nuevos amigos"
         },
         {
             "type": "Media",
-            "url": "./images/333.jpg"
+            "url": "./images/110.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 6
+    "type": "negative",
+    "scenario_num": 1
 }

@@ -1,16 +1,29 @@
 {
-    "header_text": "Casa bilingüe",
+    "header_text": "Pasando tiempo con familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Casa bilingüe"
+            "text": "Cuando piensas en pasar menos tiempo con tu familia..."
         },
         {
-            "type": "Media",
-            "url": "./images/144.jpg"
+            "type": "Buttons",
+            "name": "Pasando tiempo con familia_Vida Familiar y Doméstica_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Te preocupa perderlos de tu vida.",
+                "Piensas en lo mucho que disfrutas verlos y crees que siempre tendrás relación cercana con ellos."
+            ],
+            "column_Count": 1,
+            "correct_value": "Te preocupa perderlos de tu vida."
         }
     ],
-    "type": "positive",
-    "scenario_num": 9
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 5
 }

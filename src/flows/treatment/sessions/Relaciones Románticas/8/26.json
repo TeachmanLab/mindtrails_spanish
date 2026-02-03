@@ -1,0 +1,16 @@
+{
+    "header_text": "Aplicaciones de citas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Aplicaciones de citas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/226.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

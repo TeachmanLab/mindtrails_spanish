@@ -1,25 +1,29 @@
 {
-    "header_text": "Una invitación",
+    "header_text": "Usando tecnología diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Invitas a tu supervisor a un evento este fin de semana. Eres el único de tus amigos que es cercano a tu supervisor y no estás seguro de cómo te percibirán los demás. Mientras te preparas para el evento, te sientes..."
+            "text": "¿Te sientes capaz de completar el trabajo de este proyecto?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Una invitación_Salud Mental_puzzle1",
+            "type": "Buttons",
+            "name": "Usando tecnología diferente_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "feliz"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 2
 }

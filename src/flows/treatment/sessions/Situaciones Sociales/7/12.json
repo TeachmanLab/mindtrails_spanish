@@ -1,29 +1,16 @@
 {
-    "header_text": "Confianza en las redes sociales",
+    "header_text": "Entrando a una discoteca",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te preocupas lo que la otra persona piensa de tu feed?"
+            "text": "Entrando a una discoteca"
         },
         {
-            "type": "Buttons",
-            "name": "Confianza en las redes sociales_Situaciones Sociales_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/485.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

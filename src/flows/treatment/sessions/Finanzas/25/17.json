@@ -1,17 +1,17 @@
 {
-    "header_text": "Viaje despues de COVID",
+    "header_text": "Gestión de crédito",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A medida que se quitan las restricciones de COVID, quieres hacer un viaje para quitarte el estrés. Debido a la pandemia, tus fondos están más bajos de lo normal. Piensas que un viaje que funcione para tu presupuesto y tu salud mental será..."
+            "text": "Tu banco se ha puesto en contacto contigo para ofrecerte una tarjeta de crédito con una tasa de interés muy baja. Eres un gastador responsable, pero te preocupa acumular deudas si te inscribes en una nueva tarjeta de... "
         },
         {
             "type": "Entry",
-            "name": "Viaje despues de COVID_Finanzas_entry1"
+            "name": "Gestión de crédito_Finanzas_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 6
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Futuras amistades",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Futuras amistades"
+        },
+        {
+            "type": "Media",
+            "url": "./images/477.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

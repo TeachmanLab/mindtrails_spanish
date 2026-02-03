@@ -1,0 +1,19 @@
+{
+    "header_text": "Haciendo lo mejor que puedas: Comportamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Vas a presentar tu progreso en un proyecto a tu jefe la próxima semana. Tu vida personal ha sido agitada últimamente y no has tenido mucho tiempo para dedicarle al proyecto, lo que te deja con menos actualizaciones que informar de lo habitual.\n\nTómese 30 segundos para escribir diferentes comportamientos. El siguiente botón aparecerá automáticamente.\n\nComportamientos que podrías realizar en este momento:"
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 30000
+        },
+        "wait_for_click"
+    ]
+}

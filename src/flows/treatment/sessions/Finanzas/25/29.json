@@ -1,0 +1,16 @@
+{
+    "header_text": "Estabilidad laboral",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estabilidad laboral"
+        },
+        {
+            "type": "Media",
+            "url": "./images/312.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

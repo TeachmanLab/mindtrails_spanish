@@ -1,16 +1,25 @@
 {
-    "header_text": "Sintiéndote abandonado por un amigo cercano",
+    "header_text": "Compañero de cuarto ausente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Sintiéndote abandonado por un amigo cercano"
+            "text": "Estás visitando a tu hermana en una ciudad diferente por un período prolongado. Tu hermana parece conocer a mucha gente en la zona y siempre está fuera del apartamento, dejándote solo. Piensas que es agradable que no esté en casa a menudo porque prefieres estar solo para relajarte al final del..."
         },
         {
-            "type": "Media",
-            "url": "./images/478.jpg"
+            "type": "WordPuzzle",
+            "name": "Compañero de cuarto ausente_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "día"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "negative",
-    "scenario_num": 4
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
 }

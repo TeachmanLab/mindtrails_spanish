@@ -1,0 +1,16 @@
+{
+    "header_text": "Hora para dormir",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Hora para dormir"
+        },
+        {
+            "type": "Media",
+            "url": "./images/378.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

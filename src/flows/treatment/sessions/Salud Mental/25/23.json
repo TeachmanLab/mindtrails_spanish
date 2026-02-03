@@ -1,16 +1,16 @@
 {
-    "header_text": "Decidir compartir una imagen",
+    "header_text": "Darte a conocer",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Decidir compartir una imagen"
+            "text": "Darte a conocer"
         },
         {
             "type": "Media",
-            "url": "./images/362.jpg"
+            "url": "./images/215.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 9
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

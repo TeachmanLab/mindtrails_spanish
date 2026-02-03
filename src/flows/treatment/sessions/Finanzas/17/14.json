@@ -1,16 +1,29 @@
 {
-    "header_text": "Pagando la tarjeta de crédito",
+    "header_text": "Planes de cena",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Pagando la tarjeta de crédito"
+            "text": "¿Perderte la cena te hace sentir mal?"
         },
         {
-            "type": "Media",
-            "url": "./images/270.jpg"
+            "type": "Buttons",
+            "name": "Planes de cena_Finanzas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 0
 }

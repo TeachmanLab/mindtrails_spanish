@@ -1,17 +1,16 @@
 {
-    "header_text": "Mantenerse al día con los amigos",
+    "header_text": "Contribuir a una discusión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado muy ocupado y tienes problemas para mantener el contacto con uno de tus mejores amigos. Generalmente eres bueno llamándolos, pero tu agenda ha sido muy..."
+            "text": "Contribuir a una discusión"
         },
         {
-            "type": "Entry",
-            "name": "Mantenerse al día con los amigos_Situaciones Sociales_entry1"
+            "type": "Media",
+            "url": "./images/57.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 0
 }

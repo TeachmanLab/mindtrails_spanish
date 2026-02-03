@@ -1,25 +1,29 @@
 {
-    "header_text": "Listo para trabajar",
+    "header_text": "Oportunidad nueva",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes muchas tareas que tienes que entregar mañana. Has estado postergando hacerlas porque van a ser difíciles. Cuando piensas si podrás hacer el trabajo, piensas que..."
+            "text": "Tu jefe piensa que no deberías aplicar para un ascenso ahora porque..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Listo para trabajar_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "type": "Buttons",
+            "name": "Oportunidad nueva_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "puedes"
+            "buttons": [
+                "Estarás listo para uno el próximo año.",
+                "Nunca serás capaz."
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Estarás listo para uno el próximo año."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 6
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

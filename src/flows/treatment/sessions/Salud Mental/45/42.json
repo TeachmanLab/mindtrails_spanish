@@ -1,0 +1,16 @@
+{
+    "header_text": "Decidir compartir una imagen",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Decidir compartir una imagen"
+        },
+        {
+            "type": "Media",
+            "url": "./images/362.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

@@ -1,16 +1,16 @@
 {
-    "header_text": "Celebraciones en un juego deportivo",
+    "header_text": "Caminata con un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Celebraciones en un juego deportivo"
+            "text": "Caminata con un amigo"
         },
         {
             "type": "Media",
-            "url": "./images/388.jpg"
+            "url": "./images/385.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 5
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

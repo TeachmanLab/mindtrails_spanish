@@ -1,25 +1,31 @@
 {
-    "header_text": "Haciendo lo mejor que puedas: Sentimientos",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vas a presentar tu progreso en un proyecto a tu jefe la próxima semana. Tu vida personal ha sido agitada últimamente y no has tenido mucho tiempo para dedicarle al proyecto, lo que te deja con menos actualizaciones que informar de lo habitual.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "¿Qué tan vívidamente imaginaste la situación?"
         },
         {
-            "type": "TimedText",
-            "texts": [
-                "Estoy nervioso por la presentación, pero podré manejarlo.",
-                "Me siento bien con cómo me ha ido en este trabajo hasta ahora.",
-                "Estoy seguro de que puedo contarle a mi jefe lo que ha estado pasando.",
-                "Me da vergüenza presentarle mi trabajo a mi jefe, pero ese sentimiento pasará.",
-                "Tengo miedo de que mi jefe se sienta decepcionado de mí."
+            "type": "Buttons",
+            "buttons": [
+                "Nada vívido",
+                "Algo vívido",
+                "Moderadamente vívido",
+                "Muy vívido",
+                "Totalmente vívido",
+                "Prefiero no responder"
             ],
-            "Duration": 15000
+            "selectable": true,
+            "name": "imagery_vivid"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
     ]
 }

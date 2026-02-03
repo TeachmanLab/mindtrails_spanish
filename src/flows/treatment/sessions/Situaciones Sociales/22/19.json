@@ -1,25 +1,29 @@
 {
-    "header_text": "Recibir mensajes explícitos en las redes sociales",
+    "header_text": "Ver a otros salir",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes muchos correos electrónicos que no has leído. Cuando revisas tu bandeja de entrada hoy, te das cuenta de un mensaje explícito por una dirección de correo electrónico que no conoces. Decides bloquear al remitente y sentirte más..."
+            "text": "¿Tus compañeros te excluyeron a propósito?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Recibir mensajes explícitos en las redes sociales_Situaciones Sociales_puzzle1",
+            "type": "Buttons",
+            "name": "Ver a otros salir_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "relajado"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 5
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

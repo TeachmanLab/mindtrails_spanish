@@ -1,0 +1,16 @@
+{
+    "header_text": "Opiniones sobre la terapia",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Opiniones sobre la terapia"
+        },
+        {
+            "type": "Media",
+            "url": "./images/167.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

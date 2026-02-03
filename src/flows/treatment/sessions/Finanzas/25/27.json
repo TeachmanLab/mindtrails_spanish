@@ -1,0 +1,16 @@
+{
+    "header_text": "Viaje despues de COVID",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Viaje despues de COVID"
+        },
+        {
+            "type": "Media",
+            "url": "./images/263.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

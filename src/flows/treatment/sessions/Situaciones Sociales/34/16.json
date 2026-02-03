@@ -1,29 +1,25 @@
 {
-    "header_text": "Viendo a un viejo amigo",
+    "header_text": "La nueva ciudad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Está bien que sientas que tu corazón da un vuelco?"
+            "text": "Llevas unos meses viviendo en una ciudad nueva y has tenido problemas para hacer nuevos amigos. Has estado muy ocupado desde que se mudó, pero sabes que es importante establecer buenas relaciones aquí en su nuevo hogar. Cuando piensas en la vida en tu nueva ciudad, crees que harás..."
         },
         {
-            "type": "Buttons",
-            "name": "Viendo a un viejo amigo_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "La nueva ciudad_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "amigos"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 1
 }

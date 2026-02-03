@@ -1,16 +1,17 @@
 {
-    "header_text": "Comentarios de redes sociales",
+    "header_text": "Invitar gente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Comentarios de redes sociales"
+            "text": "Notas que tu casa es más pequeña y no tan espaciosa como las casas de otras personas que conoces. Tus compañeros de trabajo nunca han estado en tu casa, pero quieren venir. Crees que su reacción hacia tu hogar será..."
         },
         {
-            "type": "Media",
-            "url": "./images/109.jpg"
+            "type": "Entry",
+            "name": "Invitar gente_Salud Mental_entry1"
         }
     ],
-    "type": "negative",
-    "scenario_num": 8
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
 }

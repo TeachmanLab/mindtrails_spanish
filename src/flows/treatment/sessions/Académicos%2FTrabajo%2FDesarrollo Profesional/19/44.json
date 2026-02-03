@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Académicos/Trabajo/Desarrollo Profesional",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Si una tarea en particular te parece desalentadora, elige un momento determinado del día en el que te sientas más motivado para intentar completarla."
+        }
+    ]
+}

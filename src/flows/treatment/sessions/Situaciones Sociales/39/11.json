@@ -1,17 +1,31 @@
 {
-    "header_text": "Manchas de sudor",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Es un día caliente y tú y tus amigos están caminando afuera. Te das cuenta que estás empezando a sudar y puedes ver algunas manchas en tu camiseta. Conoces bien a estos amigos y no les..."
+            "text": "Si esta situación terminara mal, ¿qué tan bien o mal serías capaz de manejarla?"
         },
         {
-            "type": "Entry",
-            "name": "Manchas de sudor_Situaciones Sociales_entry1"
+            "type": "Buttons",
+            "buttons": [
+                "Muy bien",
+                "Algo bien",
+                "Neutral",
+                "Algo mal",
+                "Muy mal",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "imagery_handling"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 4
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

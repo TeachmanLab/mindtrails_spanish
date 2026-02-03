@@ -1,17 +1,31 @@
 {
-    "header_text": "Dar regalos",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Los cumpleaños de tus hijos se acercan, y quieres mostrarles cuánto los aprecias a través de regalos. Sin embargo, te preocupa si podrás pagar los regalos que crees que merecen. Cuando piensas en sus cumpleaños, crees que estarán felices con algo...  "
+            "text": "¿Qué tan vívidamente imaginaste la situación?"
         },
         {
-            "type": "Entry",
-            "name": "Dar regalos_Finanzas_entry1"
+            "type": "Buttons",
+            "buttons": [
+                "Nada vívido",
+                "Algo vívido",
+                "Moderadamente vívido",
+                "Muy vívido",
+                "Totalmente vívido",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "imagery_vivid"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 2
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

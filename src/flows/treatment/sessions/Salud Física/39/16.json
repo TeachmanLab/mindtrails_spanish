@@ -1,16 +1,17 @@
 {
-    "header_text": "Evaluación de salud",
+    "header_text": "Pánico de una presentación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Evaluación de salud"
+            "text": "Estás dando una presentación, lo que causa que te sientas nervioso. Mientras hablas, sientes un nudo en la garganta y comienzas a toser. Estos sentimientos probablemente significan que estás entrando en..."
         },
         {
-            "type": "Media",
-            "url": "./images/422.jpg"
+            "type": "Entry",
+            "name": "Pánico de una presentación_Salud Física_entry1"
         }
     ],
-    "type": "positive",
-    "scenario_num": 6
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

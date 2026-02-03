@@ -1,16 +1,16 @@
 {
-    "header_text": "Devolución de chaqueta",
+    "header_text": "Evaluación importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Devolución de chaqueta"
+            "text": "Evaluación importante"
         },
         {
             "type": "Media",
-            "url": "./images/258.jpg"
+            "url": "./images/76.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 7
+    "type": "positive",
+    "scenario_num": 2
 }

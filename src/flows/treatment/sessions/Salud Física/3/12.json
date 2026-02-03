@@ -1,16 +1,16 @@
 {
-    "header_text": "Asustado en tu caminata",
+    "header_text": "Explorando una cueva estrecha",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Asustado en tu caminata"
+            "text": "Explorando una cueva estrecha"
         },
         {
             "type": "Media",
-            "url": "./images/386.jpg"
+            "url": "./images/383.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 3
+    "type": "positive",
+    "scenario_num": 0
 }

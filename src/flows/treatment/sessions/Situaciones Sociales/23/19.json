@@ -1,17 +1,17 @@
 {
-    "header_text": "Tocando el piano",
+    "header_text": "Amigo ruidoso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras estás en la casa de un amigo para una cena, tu amigo menciona que eres un buen pianista y te pide que toques algo en el piano para los demás invitados. Conoces algunas piezas que puedes tocar bien, pero te sientes nervioso tocando en el momento sin práctica. Acercándote al piano, piensas que los invitados van a estar... "
+            "text": "Estás de compras con un amigo que tiende a ser muy ruidoso. Cuando entran a una tienda de electrónica, otros compradores se detienen y les miran a ti y a tu amigo. La experiencia es..."
         },
         {
             "type": "Entry",
-            "name": "Tocando el piano_Situaciones Sociales_entry1"
+            "name": "Amigo ruidoso_Situaciones Sociales_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 7
+    "type": "positive",
+    "scenario_num": 2
 }

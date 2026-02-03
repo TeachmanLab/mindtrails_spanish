@@ -1,29 +1,25 @@
 {
-    "header_text": "Publicar sobre la familia",
+    "header_text": "Ayudando un vecino mayor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Están tus hijos molestos porque los etiquetó en una foto familiar?"
+            "text": "Un día después del trabajo, ves a un vecino mayor llevando bolsas de comestibles de su carro a su casa. Le preguntas si necesita ayuda y él se gira y te mira, pareciendo..."
         },
         {
-            "type": "Buttons",
-            "name": "Publicar sobre la familia_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Ayudando un vecino mayor_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "ofendido"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 9
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

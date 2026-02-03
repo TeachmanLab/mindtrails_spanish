@@ -1,0 +1,16 @@
+{
+    "header_text": "Distanciamiento social adentro",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Distanciamiento social adentro"
+        },
+        {
+            "type": "Media",
+            "url": "./images/436.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

@@ -1,25 +1,31 @@
 {
-    "header_text": "Miembro de la familia de edad avanzada: Sentimientos",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vas a la casa de tus padres por primera vez en mucho tiempo y notas que tu padre parece mucho menos saludable de lo que recuerdas. Ninguno de tus padres menciona nada sobre su salud.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "¿Qué tan vívidamente imaginaste la situación?"
         },
         {
-            "type": "TimedText",
-            "texts": [
-                "Me siento ansioso y empiezo a pensar demasiado en lo que podría estar mal, pero recuerdo que no puedo controlar su salud.",
-                "Empiezo a sentirme enojado por cómo está envejeciendo, pero sé que esto es parte de la vida y no puedo cambiarlo.",
-                "Estoy agradecido de poder pasar tiempo con mi padre.",
-                "Me inquieta la apariencia de mi padre.",
-                "Me emociona que mi padre esté entablando una conversación."
+            "type": "Buttons",
+            "buttons": [
+                "Nada vívido",
+                "Algo vívido",
+                "Moderadamente vívido",
+                "Muy vívido",
+                "Totalmente vívido",
+                "Prefiero no responder"
             ],
-            "Duration": 15000
+            "selectable": true,
+            "name": "imagery_vivid"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
     ]
 }

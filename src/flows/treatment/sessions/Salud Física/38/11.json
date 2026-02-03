@@ -1,17 +1,31 @@
 {
-    "header_text": "Un golpe accidental",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Una noche, estás subiendo las escaleras y accidentalmente golpeas tu cabeza contra un techo bajo. A la mañana siguiente, el dolor de cabeza todavía está presente ligeramente, y te preguntas qué has hecho. Ya a la hora del almuerzo, el dolor ha..."
+            "text": "Si esta situación terminara mal, ¿qué tan bien o mal serías capaz de manejarla?"
         },
         {
-            "type": "Entry",
-            "name": "Un golpe accidental_Salud Física_entry1"
+            "type": "Buttons",
+            "buttons": [
+                "Muy bien",
+                "Algo bien",
+                "Neutral",
+                "Algo mal",
+                "Muy mal",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "imagery_handling"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 3
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

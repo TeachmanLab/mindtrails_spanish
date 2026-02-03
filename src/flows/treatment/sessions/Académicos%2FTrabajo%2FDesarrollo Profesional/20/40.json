@@ -1,0 +1,16 @@
+{
+    "header_text": "Mal rumor",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mal rumor"
+        },
+        {
+            "type": "Media",
+            "url": "./images/113.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

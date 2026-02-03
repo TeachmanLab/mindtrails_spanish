@@ -1,16 +1,15 @@
 {
-    "header_text": "El dolor de muelas",
+    "header_text": "Ejercicio de limón",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "El dolor de muelas"
+            "text": "Realmente trate de imaginarse a sí mismo en las situaciones que se avecinan de la manera más vívida posible."
         },
         {
             "type": "Media",
-            "url": "./images/413.jpg"
+            "url": "./images/lemon3.jpg",
+            "border": false
         }
-    ],
-    "type": "positive",
-    "scenario_num": 0
+    ]
 }

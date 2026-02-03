@@ -1,0 +1,25 @@
+{
+    "header_text": "El regalo de cumpleaños: Comportamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu amigo va a celebrar una gran fiesta de cumpleaños y la mayoría de las personas de tu grupo de amigos estarán allí. Muchos de tus amigos son más ricos que tú y pueden permitirse el lujo de hacer regalos más caros.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Quiero saltarme la fiesta para lidiar con mi ansiedad por el regalo, pero decido esforzarme para ir de todos modos.",
+                "Les sonrío a todos mis amigos.",
+                "Estoy tentado de irme antes de que abra los regalos, pero recuerdo que en realidad me estoy divirtiendo.",
+                "Me divierto bailando en la fiesta.",
+                "Intento escabullirme junto a mi amigo para que no me note cuando entro."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

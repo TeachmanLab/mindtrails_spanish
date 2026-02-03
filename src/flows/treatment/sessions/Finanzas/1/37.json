@@ -1,0 +1,16 @@
+{
+    "header_text": "Inicio Presentaciones",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Inicio Presentaciones"
+        },
+        {
+            "type": "Media",
+            "url": "./images/165.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

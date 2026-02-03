@@ -1,0 +1,17 @@
+{
+    "header_text": "Controles en el dentista.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tienes una cita de rutina con el dentista y descubres que necesitas algunas pruebas para comprobar la salud de tus encías y dientes. Después de que el dentista realiza las pruebas, continúas recostado en el sillón del dentista mientras  esperas los resultados. Crees que tus dientes y encías probablemente estén..."
+        },
+        {
+            "type": "Entry",
+            "name": "Controles en el dentista._Salud Física_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 6
+}

@@ -1,30 +1,25 @@
 {
-    "header_text": "Charla de oficina",
+    "header_text": "Lunes por la mañana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Charla de oficina"
+            "text": "Es lunes por la mañana y estás apurado para llegar al trabajo. Sientes que tu corazón se acelera cuando abres la puerta del carro y te sientas. Temiendo que puedas sufrir un ataque de pánico, sientes una necesidad de salir del carro, pero decides observar estas sensaciones sin reaccionar y quedarte..."
         },
         {
-            "type": "Media",
-            "url": "./images/317.jpg"
+            "type": "WordPuzzle",
+            "name": "Lunes por la mañana_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "sentado"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "positive",
-    "scenario_num": 6,
-    "information": {
-        "elements": [
-            {
-                "type": "media",
-                "url": "./images/597.jpg"
-            },
-            {
-                "type": "text",
-                "text": "Un consejo: Trata de imaginarte diferentes formas de responder a cada escenario."
-            }
-        ],
-        "position": "before",
-        "information_count": 1
-    }
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

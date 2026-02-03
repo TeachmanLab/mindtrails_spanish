@@ -1,17 +1,16 @@
 {
-    "header_text": "Mascarillas para invitados",
+    "header_text": "Corriendo con un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu pareja invita a algunos amigos a pasar la noche, y ambos estuvieron de acuerdo en que todos usarían mascarillas. Cuando sus amigos llegan, no las traen y tu pareja no les dice nada. Apartas a tu pareja a un lado y le pides que hable con..."
+            "text": "Corriendo con un amigo"
         },
         {
-            "type": "Entry",
-            "name": "Mascarillas para invitados_Salud Física_entry1"
+            "type": "Media",
+            "url": "./images/416.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 4
+    "type": "positive",
+    "scenario_num": 0
 }

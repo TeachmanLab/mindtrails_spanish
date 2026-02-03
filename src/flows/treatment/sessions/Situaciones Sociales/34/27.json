@@ -1,25 +1,29 @@
 {
-    "header_text": "Plato típico",
+    "header_text": "Viendo a un viejo amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vas a una cena compartida, y quieres hacer un plato usando la receta de tu familia. Tienes la receta que te dieron tus padres, pero te preocupas no tener las habilidades culinarias para hacer el plato. Piensas que probablemente las personas en la fiesta crean que tu comida tiene muy buen..."
+            "text": "¿Está bien que sientas que tu corazón da un vuelco?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Plato típico_Situaciones Sociales_puzzle1",
+            "type": "Buttons",
+            "name": "Viendo a un viejo amigo_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "sabor"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 8
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

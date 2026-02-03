@@ -1,16 +1,16 @@
 {
-    "header_text": "Foto con amigos",
+    "header_text": "Cambio de planes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Foto con amigos"
+            "text": "Cambio de planes"
         },
         {
             "type": "Media",
-            "url": "./images/330.jpg"
+            "url": "./images/54.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 8
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

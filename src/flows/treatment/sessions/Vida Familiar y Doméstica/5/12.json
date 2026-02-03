@@ -1,16 +1,16 @@
 {
-    "header_text": "Mantener a la familia",
+    "header_text": "Lecciones Aprendidas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mantener a la familia"
+            "Text": "¡Excelente trabajo! ¡Estás haciendo un gran progreso al probar nuevas perspectivas relacionadas con la familia y la vida en el hogar! Tómate unos minutos para reflexionar sobre los cuentos cortos que has leído hasta ahora. ¿Qué has aprendido? ¿Cuáles son tus principales conclusiones? Por ejemplo, podrías notar que tener conversaciones difíciles puede dar miedo, pero hacerlo puede hacerte sentir orgulloso de ti mismo."
         },
         {
-            "type": "Media",
-            "url": "./images/158.jpg"
+            "type": "Entry",
+            "name": "lessons_learned_Vida Familiar y Doméstica_0"
         }
     ],
-    "type": "positive",
-    "scenario_num": 3
+    "type": "resilience/negation",
+    "scenario_num": 0
 }

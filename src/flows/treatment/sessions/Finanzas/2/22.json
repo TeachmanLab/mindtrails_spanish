@@ -1,29 +1,16 @@
 {
-    "header_text": "Planificación de pagos",
+    "header_text": "Gestión de crédito",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando se trata de elegir un plan de jubilación, piensas que..."
+            "text": "Gestión de crédito"
         },
         {
-            "type": "Buttons",
-            "name": "Planificación de pagos_Finanzas_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Tomarás una buena decisión porque has investigado.",
-                "Es muy probable que cometas un error, dado lo poco que sabes sobre cómo funcionan."
-            ],
-            "column_Count": 1,
-            "correct_value": "Tomarás una buena decisión porque has investigado."
+            "type": "Media",
+            "url": "./images/253.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 3
 }

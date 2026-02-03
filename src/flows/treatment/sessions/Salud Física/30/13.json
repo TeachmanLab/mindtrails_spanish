@@ -1,16 +1,16 @@
 {
-    "header_text": "Funciones normales",
+    "header_text": "Manejando el estrés",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Funciones normales"
+            "text": "Manejando el estrés"
         },
         {
             "type": "Media",
-            "url": "./images/428.jpg"
+            "url": "./images/431.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

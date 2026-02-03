@@ -1,16 +1,16 @@
 {
-    "header_text": "Interrumpiendo el silencio",
+    "header_text": "Pensamientos del grupo de teatro",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Interrumpiendo el silencio"
+            "text": "Pensamientos del grupo de teatro"
         },
         {
             "type": "Media",
-            "url": "./images/552.jpg"
+            "url": "./images/510.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 5
 }

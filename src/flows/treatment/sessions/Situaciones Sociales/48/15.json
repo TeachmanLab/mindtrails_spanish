@@ -1,25 +1,16 @@
 {
-    "header_text": "Planes cancelados",
+    "header_text": "Llamada breve",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes planes para encontrarte con un amigo en la ciudad. La última vez que se vio, tuvieron un desacuerdo. Justo antes de salir, te llama para decir que no puede llegar. Al colgar el teléfono, piensas que esto se debe a que está..."
+            "text": "Llamada breve"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Planes cancelados_Situaciones Sociales_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "ocupado"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/95.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 4
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

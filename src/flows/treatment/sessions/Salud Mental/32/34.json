@@ -1,0 +1,16 @@
+{
+    "header_text": "Nuevo estilo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Nuevo estilo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/361.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
+}

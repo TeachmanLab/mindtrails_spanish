@@ -1,17 +1,23 @@
 {
-    "header_text": "Probando un dicho divertido",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás intentando pensar en un cierre para un correo que enviarás a tus compañeros de trabajo. Se te ocurre un chiste que a tus amigos más cercanos les encantará. Tus compañeros de trabajo lo encontrarán..."
-        },
-        {
-            "type": "Entry",
-            "name": "Probando un dicho divertido_Situaciones Sociales_entry1"
+            "text": "Juega esta situación en tu cabeza durante los próximos 20 segundos. \n\nLa pantalla cambiará en 20 segundos."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 2
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 20000
+        }
+    ]
 }

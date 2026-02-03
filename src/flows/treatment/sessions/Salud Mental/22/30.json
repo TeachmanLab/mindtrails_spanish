@@ -1,16 +1,29 @@
 {
-    "header_text": "Deprimido",
+    "header_text": "Tomar un descanso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Deprimido"
+            "text": "¿Deberías hacer tu trabajo ahora mismo?"
         },
         {
-            "type": "Media",
-            "url": "./images/48.jpg"
+            "type": "Buttons",
+            "name": "Tomar un descanso_Salud Mental_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 5
 }

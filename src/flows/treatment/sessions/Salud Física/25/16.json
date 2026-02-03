@@ -1,16 +1,16 @@
 {
-    "header_text": "Seguridad de la trampolina",
+    "header_text": "Ruido repentino",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Seguridad de la trampolina"
+            "text": "Ruido repentino"
         },
         {
             "type": "Media",
-            "url": "./images/407.jpg"
+            "url": "./images/386.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 6
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

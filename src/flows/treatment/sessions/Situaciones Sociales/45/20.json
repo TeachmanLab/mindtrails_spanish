@@ -1,25 +1,25 @@
 {
-    "header_text": "El torneo de fútbol",
+    "header_text": "Una presentación grande",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Crees que no defraudarás a tus compañeros y contribuirás al éxito del..."
+            "text": "Estás a punto de dar una presentación importante. Te sientes ansioso al respecto. Esta sensación te produce..."
         },
         {
             "type": "WordPuzzle",
-            "name": "El torneo de fútbol_Situaciones Sociales_puzzle_word2",
+            "name": "Una presentación grande_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "equipo"
+                "excitación"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 2
 }

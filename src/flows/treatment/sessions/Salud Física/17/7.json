@@ -1,25 +1,23 @@
 {
-    "header_text": "El malestar de estómago",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te reúnes con el médico y te dice lo que probablemente está pasando. Lo piensas y te das cuenta de que enfermarse a veces es..."
-        },
-        {
-            "type": "WordPuzzle",
-            "name": "El malestar de estómago_Salud Física_puzzle_word2",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "normal"
-            ],
-            "missing_letter_count": 1
+            "text": "Juega esta situación en tu cabeza durante los próximos 20 segundos. \n\nLa pantalla cambiará en 20 segundos."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 1
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 20000
+        }
+    ]
 }

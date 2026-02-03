@@ -1,29 +1,31 @@
 {
-    "header_text": "Plato típico",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Los otros invitados probablemente pensarán que tu comida..."
+            "text": "¿Qué tan vívidamente imaginaste la situación?"
         },
         {
             "type": "Buttons",
-            "name": "Plato típico_Situaciones Sociales_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
             "buttons": [
-                "Es deliciosa.",
-                "Sabe terrible."
+                "Nada vívido",
+                "Algo vívido",
+                "Moderadamente vívido",
+                "Muy vívido",
+                "Totalmente vívido",
+                "Prefiero no responder"
             ],
-            "column_Count": 1,
-            "correct_value": "Es deliciosa."
+            "selectable": true,
+            "name": "imagery_vivid"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 2
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

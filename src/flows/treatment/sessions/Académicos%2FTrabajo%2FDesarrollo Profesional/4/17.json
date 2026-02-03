@@ -1,39 +1,25 @@
 {
-    "header_text": "Llegando tarde",
+    "header_text": "Trabajando en grupo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Estás ansioso por el resto de la reunión porque llegaste tarde?"
+            "text": "Te asignan un proyecto para completar en el trabajo. Te agrupan con compañeros de trabajo que normalmente no contribuyen mucho a los proyectos laborales. Comienzas a pensar en cómo irá el proyecto y te sientes..."
         },
         {
-            "type": "Buttons",
-            "name": "Llegando tarde_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "Trabajando en grupo_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "preocupado"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "¿Por qué estás completando palabras con letras? Al completar repetidamente las letras que faltan para completar palabras positivas, neutrales o negativas, el cerebro adopta patrones de pensamiento flexibles para reducir el pensamiento rígido."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 1
 }

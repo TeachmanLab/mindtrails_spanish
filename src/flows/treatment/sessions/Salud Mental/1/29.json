@@ -1,25 +1,29 @@
 {
-    "header_text": "Reloj favorito",
+    "header_text": "Una oportunidad perdida",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás cenando y te das cuenta de que no tienes puesto tu reloj favorito. No recuerdas haberlo quitado antes, pero piensas que probablemente esté donde siempre lo guardas. Te pones un poco ansioso pensando en dónde está el reloj, pero el resto de tu cena sigue siendo..."
+            "text": "Reflexionando sobre el partido de fútbol, piensas que..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Reloj favorito_Salud Mental_puzzle1",
+            "type": "Buttons",
+            "name": "Una oportunidad perdida_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "agradable"
+            "buttons": [
+                "Intentaste lo mejor posible y jugaste bien.",
+                "Jugaste mal."
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Intentaste lo mejor posible y jugaste bien."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 5
 }

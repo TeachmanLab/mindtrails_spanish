@@ -1,16 +1,17 @@
 {
-    "header_text": "El curso difícil",
+    "header_text": "Un tropiezo repentino",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "El curso difícil"
+            "text": "Es tu primer día en un trabajo nuevo y vas a hablar con tu jefe. Al caminar hacia el, te tropiezas y luego te recuperas. Se dio cuenta y su primera impresión de ti probablemente es que estás muy preparado para el..."
         },
         {
-            "type": "Media",
-            "url": "./images/9.jpg"
+            "type": "Entry",
+            "name": "Un tropiezo repentino_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 9
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 3
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Dolor de estómago",
+    "header_text": "Problemas de visión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Dolor de estómago"
+            "text": "Problemas de visión"
         },
         {
             "type": "Media",
-            "url": "./images/352.jpg"
+            "url": "./images/423.jpg"
         }
     ],
-    "type": "negative",
-    "scenario_num": 4
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

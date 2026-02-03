@@ -1,39 +1,25 @@
 {
-    "header_text": "Trabajando para salir adelante",
+    "header_text": "Tu propio estilo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Esperas conseguir eventualmente el trabajo que deseas?"
+            "text": "Hiciste planes con un grupo de amigos para salir a cenar un viernes por la noche. Cuando vienen a recogerte, ves que están vestidos de manera informal, pero tú decidiste disfrazarte un poco y crees que podrían juzgarte. Decides que te gusta lo que llevas puesto y vas a cenar..."
         },
         {
-            "type": "Buttons",
-            "name": "Trabajando para salir adelante_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Tu propio estilo_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "feliz"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Recuerda, MindTrails no solo cambia tu perspectiva sobre las situaciones que estás leyendo aquí, ¡sino también tu perspectiva en la vida real!"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
 }

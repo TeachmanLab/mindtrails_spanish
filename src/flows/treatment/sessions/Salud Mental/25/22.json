@@ -1,17 +1,17 @@
 {
-    "header_text": "Comentarios de publicaciones de Instagram",
+    "header_text": "Día especial",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Acabas de recibir un reconocimiento por un proyecto en el que trabajaste. Solo has recibido felicitaciones de unas pocas personas y pensabas que habría más reacciones. Te preguntas si la gente no te felicita porque está..."
+            "text": "Tienes planeada una cena con alguien con quien querías pasar un tiempo. El día de la cena, te sientes un poco nervioso y te preguntas si les agradarás tanto como a ti. Sentirse nervioso es..."
         },
         {
             "type": "Entry",
-            "name": "Comentarios de publicaciones de Instagram_Salud Mental_entry1"
+            "name": "Día especial_Salud Mental_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 3
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Expectativas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Expectativas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/123.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
+}

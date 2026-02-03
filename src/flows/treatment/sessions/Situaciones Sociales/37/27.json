@@ -1,29 +1,29 @@
 {
-    "header_text": "Corrección rápida",
+    "header_text": "Fiesta sensacional",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Está bien responder incorrectamente de vez en cuando a una pregunta de su jefe?"
+            "text": "Las personas probablemente..."
         },
         {
             "type": "Buttons",
-            "name": "Corrección rápida_Situaciones Sociales_comp_question",
+            "name": "Fiesta sensacional_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Notarán que estás sudando.",
+                "No te verán tu sudor ya que la habitación está poco iluminada."
             ],
             "column_Count": 1,
-            "correct_value": "Sí"
+            "correct_value": "No te verán tu sudor ya que la habitación está poco iluminada."
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
-    "scenario_num": 7
+    "type": "positive",
+    "scenario_num": 4
 }

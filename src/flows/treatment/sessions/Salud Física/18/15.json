@@ -1,16 +1,16 @@
 {
-    "header_text": "Planes para visitar a la familia",
+    "header_text": "sintiendo mareos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Planes para visitar a la familia"
+            "text": "sintiendo mareos"
         },
         {
             "type": "Media",
-            "url": "./images/456.jpg"
+            "url": "./images/414.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 4
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

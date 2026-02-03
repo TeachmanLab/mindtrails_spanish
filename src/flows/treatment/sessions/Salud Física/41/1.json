@@ -1,10 +1,20 @@
 {
-    "header_text": "Miembro de la familia de edad avanzada",
+    "header_text": "Registro previo a la sesión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A continuación, verá una situación que podría provocarle ansiedad. Mientras lees el cuento, imagínate en esa situación. Después de imaginarse a sí mismo en la situación, haga clic en \"Siguiente\" y luego verá ejemplos de pensamientos, sentimientos y comportamientos que podrían ocurrir en esa situación. \n\nAlgunos de los pensamientos, sentimientos y comportamientos serán útiles y otros no."
+            "text": "En este momento me siento...\n\n1 = Muy mal/negativo\n\n7 = Muy bien/positivo"
+        },
+        {
+            "type": "Slider",
+            "min": "1",
+            "max": "7",
+            "others": [
+                "^Prefiero no responder"
+            ],
+            "name": "pre-EMA",
+            "variable_name": "StressLevel"
         }
     ]
 }

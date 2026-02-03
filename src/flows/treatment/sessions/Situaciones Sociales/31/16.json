@@ -1,10 +1,25 @@
 {
-    "header_text": "Recurso: Situaciones Sociales",
+    "header_text": "Poco interés:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mijente\n\nMijente ayuda a personas a fomentar cambios positivos a través de campañas, conectando a personas en su red, aprendizaje, y apoyo y defensa. Temas de interés son el género, raza/etnia, economía, y cambios ambientales."
+            "text": "Decides responder a todos por un correo electrónico de todo el departamento para compartir una idea. Han pasado algunas horas y nadie ha respondido a tu sugerencia todavía.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Es posible que a mis colegas no les guste mi idea y puedo aceptarlo.",
+                "La gente aún no ha revisado su correo electrónico.",
+                "La gente ignoró la idea.",
+                "Mi sugerencia no fue la mejor, pero no tengo que ser perfecto.",
+                "Estoy orgulloso de mi idea."
+            ],
+            "Duration": 15000
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
     ]
 }

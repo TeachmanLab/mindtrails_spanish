@@ -1,0 +1,16 @@
+{
+    "header_text": "Resultados de análisis de sangre",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Resultados de análisis de sangre"
+        },
+        {
+            "type": "Media",
+            "url": "./images/328.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

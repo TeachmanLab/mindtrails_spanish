@@ -1,0 +1,25 @@
+{
+    "header_text": "Mercado de trabajo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recientemente viste en las noticias que la economía ha estado particularmente mal. Aunque tu jefe normalmente te da buenas críticas, te preguntas si tu trabajo es seguro. Crees que probablemente estarás..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Mercado de trabajo_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "bien"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 7
+}

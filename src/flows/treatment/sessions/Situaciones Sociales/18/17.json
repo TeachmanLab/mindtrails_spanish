@@ -1,16 +1,29 @@
 {
-    "header_text": "Atención en la tienda",
+    "header_text": "Un estilo diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Atención en la tienda"
+            "text": "¿Tu amigo pensó que tu nuevo traje se veía ridículo?"
         },
         {
-            "type": "Media",
-            "url": "./images/511.jpg"
+            "type": "Buttons",
+            "name": "Un estilo diferente_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

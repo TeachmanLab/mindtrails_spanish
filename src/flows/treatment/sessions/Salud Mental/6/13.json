@@ -1,25 +1,10 @@
 {
-    "header_text": "Araña perdida: Comportamientos",
+    "header_text": "Araña perdida",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando entras a la ducha, ves una enorme araña en la pared. Te das la vuelta por un segundo, miras hacia atrás y te das cuenta de que ya no está. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
-        },
-        {
-            "type": "TimedText",
-            "texts": [
-                "Quiero huir, pero decido quedarme y enfrentar mis miedos.",
-                "Pongo mi canción favorita y me meto en la ducha.",
-                "Sigo con mi rutina de baño.",
-                "Quiero gritar, pero en lugar de eso, muevo suavemente a la araña afuera.",
-                "Salgo del baño inmediatamente y no me ducho."
-            ],
-            "Duration": 15000
+            "text": "El objetivo de este ejercicio es ayudarle a aprender que hay muchas reacciones diferentes que puede tener en una situación estresante y que no todos estos pensamientos, sentimientos y comportamientos tienen que ser negativos. \n\nDespués de ver algunos pensamientos, se le pedirá que escriba su propio ejemplo de un pensamiento útil que pueda tener en esa situación. Harás lo mismo con los sentimientos y comportamientos. \n\nLa misma situación se presentará varias veces. Esta repetición es intencionada para que puedas practicar pensar en la misma situación de muchas maneras diferentes."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
     ]
 }

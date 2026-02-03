@@ -1,0 +1,16 @@
+{
+    "header_text": "Cena en una casa de amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cena en una casa de amigos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/149.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

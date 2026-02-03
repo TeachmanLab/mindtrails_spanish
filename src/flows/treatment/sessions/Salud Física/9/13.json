@@ -1,27 +1,16 @@
 {
-    "header_text": "Poniéndose al día con los amigos",
+    "header_text": "Evaluación de salud",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Ves a tus amigos al otro lado de la calle y corres hacia ellos. Te sientes un poco desorientado y mareado al llegar a ellos. Consideras lo que esto significa y te das cuenta de que probablemente solo significa que corriste..."
+            "text": "Evaluación de salud"
         },
         {
-            "type": "Entry",
-            "name": "Poniéndose al día con los amigos_Salud Física_entry1"
+            "type": "Media",
+            "url": "./images/422.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "MindTrails te brinda el coraje para enfrentar situaciones inciertas, brindándote la confianza para abordarlas en la vida real."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 0
 }

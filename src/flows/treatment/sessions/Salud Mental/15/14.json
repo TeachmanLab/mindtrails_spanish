@@ -1,16 +1,25 @@
 {
-    "header_text": "Práctica de presentación",
+    "header_text": "Nuevo atuendo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Práctica de presentación"
+            "text": "Te pones un traje nuevo por la mañana antes de partir por el día. A mitad del día, notas que te sientes un poco diferente con este nuevo conjunto. Te encanta este sentimiento y estás feliz de haber elegido usar el..."
         },
         {
-            "type": "Media",
-            "url": "./images/349.jpg"
+            "type": "WordPuzzle",
+            "name": "Nuevo atuendo_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "atuendo"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 0
 }

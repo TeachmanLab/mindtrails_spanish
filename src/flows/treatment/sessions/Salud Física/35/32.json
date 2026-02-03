@@ -1,25 +1,29 @@
 {
-    "header_text": "Boca seca",
+    "header_text": "Celebraciones en un juego deportivo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has sentido sequedad en la boca durante unos días. Te preguntas si la boca seca es un efecto secundario menor de un medicamento que acabas de empezar a tomar o algo más grave. La probabilidad de que la boca seca refleje un problema de salud grave es..."
+            "text": "¿Te preocupa que el golpeo en tu cabeza signifique algo grave?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Boca seca_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Celebraciones en un juego deportivo_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "mínima"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 9
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 5
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Superarlo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Superarlo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/227.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

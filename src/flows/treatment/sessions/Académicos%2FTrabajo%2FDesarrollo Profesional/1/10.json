@@ -1,29 +1,31 @@
 {
-    "header_text": "Oportunidad nueva",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu jefe piensa que no deberías aplicar para un ascenso ahora porque..."
+            "text": "¿Qué probabilidades hay de que la situación o tarea salga bien o mal?"
         },
         {
             "type": "Buttons",
-            "name": "Oportunidad nueva_Académicos/Trabajo/Desarrollo Profesional_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
             "buttons": [
-                "Estarás listo para uno el próximo año.",
-                "Nunca serás capaz."
+                "Es muy probable que salga bien",
+                "Es algo probable que salga bien",
+                "Neutral",
+                "Es algo probable que salga mal",
+                "Es muy probable que salga mal",
+                "Prefiero no responder"
             ],
-            "column_Count": 1,
-            "correct_value": "Estarás listo para uno el próximo año."
+            "selectable": true,
+            "name": "imagery_well"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 2
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

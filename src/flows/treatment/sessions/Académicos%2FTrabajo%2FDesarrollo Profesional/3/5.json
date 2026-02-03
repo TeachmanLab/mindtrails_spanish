@@ -1,25 +1,22 @@
 {
-    "header_text": "Fecha límite cercana",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tu pareja comparten una oficina en casa. Tienes una tarea del trabajo que entregar esta noche, pero tu pareja está usando la oficina. Cuando piensas en completar el trabajo a tiempo, te sientes..."
+            "text": "Describe la situación en pocas palabras:"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Fecha límite cercana_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "seguro"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "entry_anxious_imagery"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 1
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

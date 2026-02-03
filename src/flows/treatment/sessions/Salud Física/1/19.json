@@ -1,39 +1,25 @@
 {
-    "header_text": "Sala de espera del hospital",
+    "header_text": "Carrera matutina del domingo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "si te lavas las manos, lo más probable es que..."
+            "text": "Es domingo por la mañana y acabas de correr una milla afuera. Al quitarte los zapatos en el pasillo, estás sin aliento. Te sientes..."
         },
         {
-            "type": "Buttons",
-            "name": "Sala de espera del hospital_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Carrera matutina del domingo_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Te mantienes sano.",
-                "Te enfermas de todos modos."
+            "display_delay": 2000,
+            "words": [
+                "orgulloso"
             ],
-            "column_Count": 1,
-            "correct_value": "Te enfermas de todos modos."
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 5,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "En el mundo real, a veces las cosas no van bien. ¡Es importante tener algunas historias que terminen negativamente para enseñarte a manejar tu ansiedad cuando surgen situaciones negativas!"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
 }

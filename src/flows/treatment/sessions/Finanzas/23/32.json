@@ -1,0 +1,17 @@
+{
+    "header_text": "Escándalo de ahorro",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recientemente has estado poniendo dinero en ahorros, para tener en caso de emergencias. La factura de tu tarjeta de crédito era más cara de lo que esperabas este mes, y tuviste que tomar una gran cantidad de dinero de tus ahorros para pagarla. Decides que esto está bien, y que hay mucho tiempo para aumentar tus... "
+        },
+        {
+            "type": "Entry",
+            "name": "Escándalo de ahorro_Finanzas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 8
+}

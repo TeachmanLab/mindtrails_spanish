@@ -1,23 +1,23 @@
 {
-    "header_text": "Conociendo alguien nuevo",
+    "header_text": "Viendo a un viejo amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te preocupa hablar con una persona nueva?"
+            "text": "¿Está bien que sientas que tu corazón da un vuelco?"
         },
         {
             "type": "Buttons",
-            "name": "Conociendo alguien nuevo_Salud Física_comp_question",
+            "name": "Viendo a un viejo amigo_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "No",
+                "Sí"
             ],
             "column_Count": 1,
-            "correct_value": "No"
+            "correct_value": "Sí"
         }
     ],
     "navigation_conditions": [
@@ -25,5 +25,5 @@
         "wait_for_click"
     ],
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

@@ -1,16 +1,25 @@
 {
-    "header_text": "Vacacionando en avión",
+    "header_text": "Probando comidas nuevas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vacacionando en avión"
+            "text": "En la hora del almuerzo, tu compañero de trabajo trae una comida muy picante. Después de probar un poquito, empiezas a sudar y sientes el latido de tu corazón. Estas sensaciones causan pensamientos ansiosos. Decides enfocarte en la conversación, y el resto del almuerzo es..."
         },
         {
-            "type": "Media",
-            "url": "./images/371.jpg"
+            "type": "WordPuzzle",
+            "name": "Probando comidas nuevas_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "agradable"
+            ],
+            "missing_letter_count": 2
         }
     ],
-    "type": "positive",
-    "scenario_num": 5
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

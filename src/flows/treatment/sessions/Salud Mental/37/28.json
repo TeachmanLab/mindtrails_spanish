@@ -1,29 +1,16 @@
 {
-    "header_text": "Cambio de planes",
+    "header_text": "Reunión uno a uno",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tus compañeros de trabajo estarán decepcionados debido a tu nuevo trabajo?"
+            "text": "Reunión uno a uno"
         },
         {
-            "type": "Buttons",
-            "name": "Cambio de planes_Salud Mental_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/16.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 5
 }

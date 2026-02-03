@@ -1,16 +1,39 @@
 {
-    "header_text": "Estar a cargo",
+    "header_text": "Pensando en preguntas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estar a cargo"
+            "text": "¿Las preguntas de los demás son mejores que las tuyas?"
         },
         {
-            "type": "Media",
-            "url": "./images/92.jpg"
+            "type": "Buttons",
+            "name": "Pensando en preguntas_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Sí"
+            ],
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Cada pequeño cambio de perspectiva conduce a cambios mayores con el tiempo. Continúe: ¡estás entrenando tu cerebro para pensar de manera más equilibrada y útil!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

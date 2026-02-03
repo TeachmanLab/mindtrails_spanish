@@ -1,0 +1,16 @@
+{
+    "header_text": "Deprimido",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Deprimido"
+        },
+        {
+            "type": "Media",
+            "url": "./images/48.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

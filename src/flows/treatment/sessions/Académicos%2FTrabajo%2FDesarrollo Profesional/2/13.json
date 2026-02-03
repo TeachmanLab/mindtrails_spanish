@@ -1,29 +1,25 @@
 {
-    "header_text": "Obtener una oportunidad",
+    "header_text": "Ingresos adicionales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te invitarán a una entrevista?"
+            "text": "Recientemente te has sentido abrumado con el trabajo, pero sabes que necesitas conseguir un segundo trabajo para estar en una situación financiera más estable. Mientras buscabas trabajo en línea, viste un solicitud para un trabajo que suena muy divertido para ti. Piensas que trabajar este segundo trabajo será... "
         },
         {
-            "type": "Buttons",
-            "name": "Obtener una oportunidad_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "Ingresos adicionales_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "manejable"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 3
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
 }

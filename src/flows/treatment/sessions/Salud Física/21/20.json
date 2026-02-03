@@ -1,0 +1,25 @@
+{
+    "header_text": "Saludando a mis amigos: Sentimientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás afuera en un día fresco y ves a tus amigos en la calle. Decides correr para saludar. Cuando llegas con tus amigos, te quedas sin aliento.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Estoy muy emocionado de ver a estos amigos que no he visto en mucho tiempo.",
+                "Me da vergüenza tener que recuperar el aliento cuando veo a mis amigos.",
+                "Estoy feliz de poder estirar las piernas.",
+                "Aunque me siento miserable, sé que este sentimiento pasará.",
+                "Me preocupa estar enfermo debido a esta sensación en mi pecho, pero en realidad sé que estoy bien y que fue solo el trote."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

@@ -1,25 +1,29 @@
 {
-    "header_text": "Yendo a dormir",
+    "header_text": "Un golpe accidental",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás acostado en tu cama y a punto de dormir. Comienzas a sentir una pesadez en el pecho mientras intentas dormir. Piensas en esta presión y te sientes..."
+            "text": "Piensas que el dolor de cabeza es una señal que..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Yendo a dormir_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Un golpe accidental_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "cansado"
+            "buttons": [
+                "Estás mejorando.",
+                "Estás seriamente lesionado."
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "\r\nEstás seriamente lesionado."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 9
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 5
 }

@@ -1,17 +1,16 @@
 {
-    "header_text": "Estabilidad laboral",
+    "header_text": "Dar regalos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente, la economía no ha estado bien. Te encanta tu trabajo, pero te preguntas si podrás mantenerlo. Te das cuenta de que si te quedarás empleado en tu trabajo actual está fuera de tu..."
+            "text": "Dar regalos"
         },
         {
-            "type": "Entry",
-            "name": "Estabilidad laboral_Finanzas_entry1"
+            "type": "Media",
+            "url": "./images/262.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 2
 }

@@ -1,14 +1,25 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Salir sin ti:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en una situación desafiante que se avecina pronto. ¿Cuáles son algunas de las maneras en que podrías aplicar lo que aprendiste en esta capacitación para manejar tu propia situación? "
+            "text": "Estás en el trabajo y escuchas a algunos de tus compañeros de trabajo conversando detrás de ti. Mientras escuchas, te das cuenta de que no te invitaron a una pequeña reunión y que algunos de tus compañeros de trabajo y amigos estaban pasando el rato sin ti. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #7_entry"
+            "type": "TimedText",
+            "texts": [
+                "Creo que querían dejarme fuera de la reunión.",
+                "Me pregunto si me excluyeron intencionalmente, pero recuerdo que pasé tiempo con compañeros de trabajo sin que todos estuvieran allí también.",
+                "Pienso en todos los buenos momentos que he pasado con mis amigos del trabajo.",
+                "Mis compañeros de trabajo se ven muy felices.",
+                "En realidad, no debo agradarles a mis compañeros de trabajo. Pero sé que ese no es el caso; Tenemos un montón de diversión juntos."
+            ],
+            "Duration": 15000
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
     ]
 }

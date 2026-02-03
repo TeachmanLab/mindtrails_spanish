@@ -1,25 +1,25 @@
 {
-    "header_text": "Gente fiestera",
+    "header_text": "Tiempo para ti mismo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Llegas a una fiesta grande y te das cuenta rápidamente de que hay muchas personas que no conoces allí. Te sientes ansioso y consideras irte a casa. Mirando a tu alrededor, decides..."
+            "text": "Tu parte favorita del día es relajarte para cenar. Cuando empiezas a preparar la cena, te das cuenta que has estado comiendo solo mucho recientemente, y te sientes triste. Decides que estás bien con este hecho, ya que te da tiempo para reflexionar sobre tu... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Gente fiestera_Situaciones Sociales_puzzle1",
+            "name": "Tiempo para ti mismo_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "quedarte"
+                "día"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 1
 }

@@ -1,39 +1,16 @@
 {
-    "header_text": "Calentador",
+    "header_text": "Un sonido fuerte",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tu calefactor provocará un incendio?"
+            "text": "Un sonido fuerte"
         },
         {
-            "type": "Buttons",
-            "name": "Calentador_Vida Familiar y Doméstica_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/128.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "¿Por qué estás completando palabras con letras? Al completar repetidamente las letras que faltan para completar palabras positivas, neutrales o negativas, el cerebro adopta patrones de pensamiento flexibles para reducir el pensamiento rígido."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 1
 }

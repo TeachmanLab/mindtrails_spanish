@@ -1,0 +1,16 @@
+{
+    "header_text": "Tu Currículum",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu Currículum"
+        },
+        {
+            "type": "Media",
+            "url": "./images/77.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
+}

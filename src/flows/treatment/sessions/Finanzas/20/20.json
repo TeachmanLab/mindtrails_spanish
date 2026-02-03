@@ -1,29 +1,25 @@
 {
-    "header_text": "Planificación de pagos",
+    "header_text": "Compromisos equilibrados",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu selección de plan de jubilación probablemente significa que..."
+            "text": "Has estado muy ocupado con el trabajo y los compromisos sociales últimamente, pero han surgido algunos gastos nuevos y sabes que necesitas conseguir un trabajo adicional. La idea de tener que incluir un nuevo trabajo en tu agenda parece imposible. Crees que tu nueva situación será factible con alguna..."
         },
         {
-            "type": "Buttons",
-            "name": "Planificación de pagos_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Compromisos equilibrados_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Tendrás que preocuparte por el dinero más adelante en la vida.",
-                "Tendras un futuro financiero cómodo."
+            "display_delay": 2000,
+            "words": [
+                "reprogramación"
             ],
-            "column_Count": 1,
-            "correct_value": "Tendrás que preocuparte por el dinero más adelante en la vida."
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 5
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
 }

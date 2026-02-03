@@ -1,16 +1,25 @@
 {
-    "header_text": "Pensando en volar",
+    "header_text": "Corte de pelo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Pensando en volar"
+            "text": "Hoy te van a tomar fotos de personal y te cortaste el pelo para la ocasión. No salió como querías. Cuando piensas en que otros verán tu nuevo corte de pelo en las fotos, te sientes..."
         },
         {
-            "type": "Media",
-            "url": "./images/319.jpg"
+            "type": "WordPuzzle",
+            "name": "Corte de pelo_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "avergonzado"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "positive",
-    "scenario_num": 8
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 4
 }

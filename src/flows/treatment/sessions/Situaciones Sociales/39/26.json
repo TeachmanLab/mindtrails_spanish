@@ -1,0 +1,17 @@
+{
+    "header_text": "Risa en la esquina",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás dando una presentación durante tu reunión de tarde. Mientras hablas, escuchas a algunos de tus compañeros de trabajo riendo en la esquina. Los miras y te das cuenta que probablemente se estaban riendo de..."
+        },
+        {
+            "type": "Entry",
+            "name": "Risa en la esquina_Situaciones Sociales_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 6
+}

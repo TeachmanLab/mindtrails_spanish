@@ -1,16 +1,16 @@
 {
-    "header_text": "Un golpe accidental",
+    "header_text": "Visión borrosa",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Un golpe accidental"
+            "text": "Visión borrosa"
         },
         {
             "type": "Media",
-            "url": "./images/405.jpg"
+            "url": "./images/404.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 6
 }

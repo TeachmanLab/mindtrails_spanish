@@ -1,0 +1,16 @@
+{
+    "header_text": "Gestión de puestos de trabajo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Gestión de puestos de trabajo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/302.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

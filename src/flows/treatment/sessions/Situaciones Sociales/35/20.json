@@ -1,29 +1,16 @@
 {
-    "header_text": "Una audiencia captada",
+    "header_text": "Ahorrar dinero",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus compañeros probablemente estaban callados porque..."
+            "text": "Ahorrar dinero"
         },
         {
-            "type": "Buttons",
-            "name": "Una audiencia captada_Situaciones Sociales_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Estaban aburridos con tu presentación.",
-                "Estaban enfocados en tu presentación."
-            ],
-            "column_Count": 1,
-            "correct_value": "Estaban enfocados en tu presentación."
+            "type": "Media",
+            "url": "./images/257.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 2
 }

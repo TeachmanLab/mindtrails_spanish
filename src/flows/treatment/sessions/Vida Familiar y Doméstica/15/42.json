@@ -1,0 +1,16 @@
+{
+    "header_text": "Casa bilingüe",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Casa bilingüe"
+        },
+        {
+            "type": "Media",
+            "url": "./images/144.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

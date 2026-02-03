@@ -1,0 +1,16 @@
+{
+    "header_text": "Vacaciones reprogramadas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Vacaciones reprogramadas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/449.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

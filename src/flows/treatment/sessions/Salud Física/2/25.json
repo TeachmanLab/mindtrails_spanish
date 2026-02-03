@@ -1,29 +1,25 @@
 {
-    "header_text": "Clase de ejercicio con un amigo",
+    "header_text": "Resultados de análisis de sangre",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando sientes que no puedes recuperar el aliento, es mejor..."
+            "text": "En tu última cita con el médico, tu doctor te hizo unos análisis de sangre. Te dijo que te darán los resultados en unos días, y te sientes nervioso mientras los esperas. Crees que tus nervios son..."
         },
         {
-            "type": "Buttons",
-            "name": "Clase de ejercicio con un amigo_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Resultados de análisis de sangre_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "simplemente observe sus pensamientos y sensaciones de ansiedad sin juzgarlos.",
-                "Juzgar tu dificultad para respirar como algo malo o dañino."
+            "display_delay": 2000,
+            "words": [
+                "manejables"
             ],
-            "column_Count": 1,
-            "correct_value": "simplemente observe sus pensamientos y sensaciones de ansiedad sin juzgarlos."
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 7
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
 }

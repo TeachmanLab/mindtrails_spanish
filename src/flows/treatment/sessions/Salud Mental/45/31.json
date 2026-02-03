@@ -1,16 +1,25 @@
 {
-    "header_text": "Decidir compartir una imagen",
+    "header_text": "Tomando transporte",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Decidir compartir una imagen"
+            "text": "sientes un impulso fuerte de bajarte del avión y volver a casa, pero te sientas en el asiento más cercano. En lugar de salir, decides observar estas sensaciones y quedarte..."
         },
         {
-            "type": "Media",
-            "url": "./images/362.jpg"
+            "type": "WordPuzzle",
+            "name": "Tomando transporte_Salud Mental_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "sentado"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "positive",
-    "scenario_num": 9
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

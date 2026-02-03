@@ -1,29 +1,25 @@
 {
-    "header_text": "Casa bilingüe",
+    "header_text": "Nueva receta",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tu compañero de trabajo juzga a tu familia bilingüe?"
+            "text": "Tienes una idea para una nueva receta que involucra ingredientes que nunca has usado antes. La preparas para tu familia. Mientras todos empiezan a comer, te sientes..."
         },
         {
-            "type": "Buttons",
-            "name": "Casa bilingüe_Vida Familiar y Doméstica_comp_question",
+            "type": "WordPuzzle",
+            "name": "Nueva receta_Vida Familiar y Doméstica_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "orgulloso"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 6
 }

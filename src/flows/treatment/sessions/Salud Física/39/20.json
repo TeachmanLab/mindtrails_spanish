@@ -1,16 +1,17 @@
 {
-    "header_text": "Te sientes maread﻿o / Sintiéndote mareado",
+    "header_text": "Corriendo fuerte",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te sientes maread﻿o / Sintiéndote mareado"
+            "text": "Quieres ir a un lugar privado para estar lejos de los demás. Decides quedarte donde estás y respirar..."
         },
         {
-            "type": "Media",
-            "url": "./images/418.jpg"
+            "type": "Entry",
+            "name": "Corriendo fuerte_Salud Física_entry2"
         }
     ],
-    "type": "positive",
-    "scenario_num": 8
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

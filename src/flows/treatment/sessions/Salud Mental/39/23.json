@@ -1,17 +1,16 @@
 {
-    "header_text": "Tiempo para ti mismo",
+    "header_text": "Mensajes de texto honestos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu parte favorita del día es relajarte para cenar. Cuando empiezas a preparar la cena, te das cuenta de que has estado comiendo solo con frecuencia últimamente y te sientes triste. Decides que estás bien con este hecho, ya que te da tiempo para reflexionar sobre tu..."
+            "text": "Mensajes de texto honestos"
         },
         {
-            "type": "Entry",
-            "name": "Tiempo para ti mismo_Salud Mental_entry1"
+            "type": "Media",
+            "url": "./images/333.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 4
 }

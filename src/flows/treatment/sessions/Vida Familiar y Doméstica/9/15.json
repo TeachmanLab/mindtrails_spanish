@@ -1,16 +1,16 @@
 {
-    "header_text": "Compañero de cuarto ausente",
+    "header_text": "Desacuerdos con tu hermana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Compañero de cuarto ausente"
+            "text": "Desacuerdos con tu hermana"
         },
         {
             "type": "Media",
-            "url": "./images/169.jpg"
+            "url": "./images/139.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 6
+    "type": "negative",
+    "scenario_num": 1
 }

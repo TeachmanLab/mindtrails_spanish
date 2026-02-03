@@ -1,0 +1,17 @@
+{
+    "header_text": "Opiniones de otros",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te negaron un ascenso este año y sabes que tu amigo te estaba apoyando para que obtuvieras un ascenso. Frunce el ceño cuando le cuentas que no lo conseguiste. Le dices que trabajaste muy duro a pesar de no conseguir un ascenso y el está orgulloso del esfuerzo que hiciste durante todo el..."
+        },
+        {
+            "type": "Entry",
+            "name": "Opiniones de otros_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 8
+}

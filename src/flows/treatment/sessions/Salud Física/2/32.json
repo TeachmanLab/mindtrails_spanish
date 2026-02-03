@@ -1,14 +1,14 @@
 {
-    "header_text": "Prueba de enfermedad",
+    "header_text": "Montar a caballo durante el fin de semana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Crees que los resultados enseñarán que tienes la enfermedad?"
+            "text": "¿Es divertido intentar montar al caballo?"
         },
         {
             "type": "Buttons",
-            "name": "Prueba de enfermedad_Salud Física_comp_question",
+            "name": "Montar a caballo durante el fin de semana_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
@@ -17,7 +17,7 @@
                 "No"
             ],
             "column_Count": 1,
-            "correct_value": "No"
+            "correct_value": "Sí"
         }
     ],
     "navigation_conditions": [
@@ -25,15 +25,5 @@
         "wait_for_click"
     ],
     "type": "positive",
-    "scenario_num": 9,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Recuerde, cuanto más practique pensar en situaciones de nuevas maneras en nuestra aplicación, podras pensar positivamente sobre situaciones aterradoras en tu vida."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 6
 }

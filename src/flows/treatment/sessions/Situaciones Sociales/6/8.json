@@ -1,10 +1,27 @@
 {
-    "header_text": "Vidrio roto: Sentimientos",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¡Gran trabajo! Ahora verás algunos sentimientos."
+            "text": "¿Qué tan ansioso te sentiste (en el nivel más alto de ansiedad) al completar la tarea de visualización? Presiona la barra para usar el control deslizante.\n\n0 = Absolutamente sin ansiedad. \n\n10 = Totalmente ansioso."
+        },
+        {
+            "type": "Slider",
+            "min": "0",
+            "max": "10",
+            "others": [
+                "Prefiero no responder"
+            ],
+            "name": "imagery_anxiety"
         }
+    ],
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
     ]
 }

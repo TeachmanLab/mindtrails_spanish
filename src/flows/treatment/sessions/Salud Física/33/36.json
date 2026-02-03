@@ -1,0 +1,16 @@
+{
+    "header_text": "Carrera matutina del domingo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Carrera matutina del domingo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/370.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

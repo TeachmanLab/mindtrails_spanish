@@ -1,16 +1,16 @@
 {
-    "header_text": "Viendo una película con amigos",
+    "header_text": "Planes divertidos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Viendo una película con amigos"
+            "text": "Planes divertidos"
         },
         {
             "type": "Media",
-            "url": "./images/491.jpg"
+            "url": "./images/248.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 5
+    "type": "resilience/negation",
+    "scenario_num": 0
 }

@@ -1,17 +1,16 @@
 {
-    "header_text": "Noticias decepcionantes",
+    "header_text": "Hilo de pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Una iniciativa nueva que fue empezada por ti y algunos otros compañeros fue rechazada por tu jefe. Tu tienes que contarles la noticia a tus compañeros, y cuando les dices, no dicen nada. Probablemente están... "
+            "text": "Hilo de pensamientos"
         },
         {
-            "type": "Entry",
-            "name": "Noticias decepcionantes_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "type": "Media",
+            "url": "./images/67.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 8
+    "type": "positive",
+    "scenario_num": 3
 }

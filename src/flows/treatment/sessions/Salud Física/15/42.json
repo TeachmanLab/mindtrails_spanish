@@ -1,0 +1,16 @@
+{
+    "header_text": "Nadando en la playa",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Nadando en la playa"
+        },
+        {
+            "type": "Media",
+            "url": "./images/444.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

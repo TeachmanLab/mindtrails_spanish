@@ -1,25 +1,22 @@
 {
-    "header_text": "Lograr tus objetivos",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te gustaría postularte para un puesto más alto en tu trabajo y mejorar tus habilidades. Sabes que el proceso de selección es riguroso, pero sientes mucha pasión por lograr este objetivo y has trabajado duro para convertirte en un buen empleado. Sientes que tus posibilidades de conseguir este nuevo trabajo son..."
+            "text": "Describe la situación en pocas palabras:"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Lograr tus objetivos_Salud Mental_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "escasas"
-            ],
-            "missing_letter_count": 2
+            "type": "Entry",
+            "name": "entry_anxious_imagery"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 1
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

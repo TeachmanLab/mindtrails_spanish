@@ -1,0 +1,16 @@
+{
+    "header_text": "Tomar una decisión",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tomar una decisión"
+        },
+        {
+            "type": "Media",
+            "url": "./images/54.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

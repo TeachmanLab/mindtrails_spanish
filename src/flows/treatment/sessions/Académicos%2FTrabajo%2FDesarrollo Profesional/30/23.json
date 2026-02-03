@@ -1,25 +1,16 @@
 {
-    "header_text": "Corrección rápida",
+    "header_text": "No sentirte preparado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Al final, recuerdas que cometer errores ocasionalmente no te hace un mal empleado. Tu jefe te corregió amablemente, porque es su trabajo, y sientes que toda la interacción estuvo..."
+            "text": "No sentirte preparado"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Corrección rápida_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "bien"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/124.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 6
+    "type": "negative",
+    "scenario_num": 3
 }

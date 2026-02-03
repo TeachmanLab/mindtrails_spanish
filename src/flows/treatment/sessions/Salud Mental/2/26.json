@@ -1,25 +1,30 @@
 {
-    "header_text": "Pensamientos intrusivos",
+    "header_text": "Recuerdo conduciendo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente, has notado que estás teniendo pensamientos intrusivos. Estos pensamientos te están molestando, y no puedes creer que estás pensando en cosas tan horribles. Sientes que te estás volviendo..."
+            "text": "Cuando te sientes desorientado, es útil..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Pensamientos intrusivos_Salud Mental_puzzle1",
+            "type": "Buttons",
+            "name": "Recuerdo conduciendo_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "loco"
+            "buttons": [
+                "simplemente observar y aceptar los sentimientos.",
+                "Ponerte ansioso por sentirte desorientado."
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "simplemente observar y aceptar los sentimientos."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
-    "scenario_num": 8
+    "scenario_num": 4,
+    "information": null
 }

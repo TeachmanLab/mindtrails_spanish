@@ -1,0 +1,16 @@
+{
+    "header_text": "Año ocupado",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Año ocupado"
+        },
+        {
+            "type": "Media",
+            "url": "./images/182.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

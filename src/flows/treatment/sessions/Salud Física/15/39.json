@@ -1,0 +1,16 @@
+{
+    "header_text": "Problemas de computadora",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Problemas de computadora"
+        },
+        {
+            "type": "Media",
+            "url": "./images/443.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

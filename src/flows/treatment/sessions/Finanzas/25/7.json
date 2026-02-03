@@ -1,17 +1,23 @@
 {
-    "header_text": "Gestión de crédito",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Al pensar en lo que harías con la tarjeta de crédito, no te imaginas que de repente gastarás imprudentemente, y piensas que probablemente gastarías el dinero... "
-        },
-        {
-            "type": "Entry",
-            "name": "Gestión de crédito_Finanzas_entry2"
+            "text": "Juega esta situación en tu cabeza durante los próximos 20 segundos. \n\nLa pantalla cambiará en 20 segundos."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 1
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 20000
+        }
+    ]
 }

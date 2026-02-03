@@ -1,0 +1,25 @@
+{
+    "header_text": "Celebraciones en un juego deportivo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás en un juego deportivo. La multitud está animando ruidosamente a tu equipo y tu cabeza late con fuerza. Te sientes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Celebraciones en un juego deportivo_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "emocionado"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 7
+}

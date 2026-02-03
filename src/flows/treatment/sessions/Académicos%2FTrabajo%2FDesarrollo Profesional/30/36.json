@@ -1,0 +1,16 @@
+{
+    "header_text": "Hilo de pensamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Hilo de pensamientos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/67.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

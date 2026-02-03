@@ -1,25 +1,29 @@
 {
-    "header_text": "Comprometerse con las actividades",
+    "header_text": "Broma interna",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estabas muy emocionado de regresar a las clases presenciales y decidiste comprometerte con muchas actividades. Te ha resultado difícil cumplir con todas tus responsabilidades y te preocupa estar fallando en..."
+            "text": "¿Otros te juzgan por el comentario de tu amigo en tu publicación?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Comprometerse con las actividades_Salud Mental_puzzle1",
+            "type": "Buttons",
+            "name": "Broma interna_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "todo"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 4
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

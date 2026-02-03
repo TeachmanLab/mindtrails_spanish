@@ -1,17 +1,16 @@
 {
-    "header_text": "Una nueva oportunidad",
+    "header_text": "Invitar gente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente recibiste un ascenso increíble en tu trabajo. De repente sientes que no trabajaste lo suficiente para ganarte la oportunidad. Crees que mereces el..."
+            "text": "Invitar gente"
         },
         {
-            "type": "Entry",
-            "name": "Una nueva oportunidad_Salud Mental_entry1"
+            "type": "Media",
+            "url": "./images/344.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 2
 }

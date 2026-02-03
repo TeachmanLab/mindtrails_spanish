@@ -1,17 +1,17 @@
 {
-    "header_text": "Estar cerca de alguien enfermo",
+    "header_text": "Caminando para despejar la mente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vas al hospital para visitar a un amigo. Alguien detrás de ti tose un par de veces mientras estás en la sala de espera. La probabilidad de que te enfermes es..."
+            "text": "Hace frío afuera y sales a caminar para calmar tu mente. Tus manos empiezan a temblar y tu corazón late rápidamente mientras subes una cuesta. Tienes..."
         },
         {
             "type": "Entry",
-            "name": "Estar cerca de alguien enfermo_Salud Física_entry1"
+            "name": "Caminando para despejar la mente_Salud Física_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 7
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

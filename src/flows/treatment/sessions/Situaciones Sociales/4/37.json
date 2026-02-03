@@ -1,0 +1,16 @@
+{
+    "header_text": "Sintiéndote excluido por amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sintiéndote excluido por amigos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/21.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

@@ -1,25 +1,29 @@
 {
-    "header_text": "Tajada de fruta",
+    "header_text": "Hora para dormir",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás almorzando en una mesa de picnic con algunos compañeros de trabajo cuando te cortas el dedo accidentalmente cortando fruta. No puedes lavarlo inmediatamente con agua y jabón porque estás afuera. En unos días, tu herida..."
+            "text": "La reducción de tu ritmo cardíaco y respiración probablemente significa..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Tajada de fruta_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Hora para dormir_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "sanará"
+            "buttons": [
+                "Tu cuerpo necesita descansar después de un largo día de trabajo.",
+                "No estás recibiendo suficiente oxígeno y te desmayarás."
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Tu cuerpo necesita descansar después de un largo día de trabajo."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 3
 }

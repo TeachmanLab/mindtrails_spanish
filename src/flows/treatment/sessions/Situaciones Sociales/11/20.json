@@ -1,0 +1,25 @@
+{
+    "header_text": "Granizado derramado: Sentimientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tú y tus amigos están saliendo a cenar. Llegan tus alimentos y bebidas y accidentalmente derramas tu bebida en la parte delantera de tu nueva camisa blanca.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Me da vergüenza esta mancha, pero a nadie más le importará.",
+                "Estoy muy molesto conmigo mismo, pero puedo superar este sentimiento.",
+                "Me siento avergonzado y me dan ganas de irme del centro comercial.",
+                "Me alegro de que esta sea una camisa vieja.",
+                "Me siento tonto y decido reírme de ello."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

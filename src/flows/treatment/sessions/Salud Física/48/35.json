@@ -1,0 +1,16 @@
+{
+    "header_text": "Sentirse sin aliento",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sentirse sin aliento"
+        },
+        {
+            "type": "Media",
+            "url": "./images/440.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

@@ -1,16 +1,20 @@
 {
-    "header_text": "Lecciones Aprendidas",
+    "header_text": "Registro previo a la sesión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "¡Excelente trabajo! ¡Estás haciendo un gran progreso al probar nuevas perspectivas relacionadas con la academia, el trabajo y el desarrollo profesional! Tómate unos minutos para reflexionar sobre los cuentos cortos que has leído hasta ahora. ¿Qué has aprendido? ¿Cuáles son tus principales conclusiones? Por ejemplo, podrías notar que nadie es perfecto y que es normal cometer errores a veces."
+            "text": "En este momento me siento...\n\n1 = Muy mal/negativo\n\n7 = Muy bien/positivo"
         },
         {
-            "type": "Entry",
-            "name": "lessons_learned_Académicos/Trabajo/Desarrollo Profesional_0"
+            "type": "Slider",
+            "min": "1",
+            "max": "7",
+            "others": [
+                "^Prefiero no responder"
+            ],
+            "name": "pre-EMA",
+            "variable_name": "StressLevel"
         }
-    ],
-    "type": "positive",
-    "scenario_num": 0
+    ]
 }

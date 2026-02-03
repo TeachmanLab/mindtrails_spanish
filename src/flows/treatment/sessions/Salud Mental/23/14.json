@@ -1,16 +1,17 @@
 {
-    "header_text": "Tus habilidades con los bolos",
+    "header_text": "Boca seca",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus habilidades con los bolos"
+            "text": "Has sentido la boca seca durante unos días. Esto es algo que no has sentido antes. La probabilidad de que la boca seca signifique un problema de salud grave es..."
         },
         {
-            "type": "Media",
-            "url": "./images/322.jpg"
+            "type": "Entry",
+            "name": "Boca seca_Salud Mental_entry1"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 6
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
 }

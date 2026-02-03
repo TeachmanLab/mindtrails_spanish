@@ -1,25 +1,26 @@
 {
-    "header_text": "Preocupaciones por las relaciones",
+    "header_text": "Tu vejez",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recibes una llamada de un amigo que te dice que que se va a divorciar. Reflexionas sobre tu propio matrimonio; y aunque amas a tu esposo/a ,tú y tu pareja se parecen a tu amigo y su esposa. Mientras te preguntas sobre tu futuro con tu pareja, sientes firmemente que ustedes dos se..."
+            "text": "Tu vejez"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Preocupaciones por las relaciones_Relaciones Románticas_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "divorciarán"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/184.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 3
+    "type": "resilience/negation",
+    "scenario_num": 0,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Cuanto más te sumerjas en la historia, más probabilidades tendrás de beneficiarte de nuestro programa; imagínate realmente en la situación actual."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

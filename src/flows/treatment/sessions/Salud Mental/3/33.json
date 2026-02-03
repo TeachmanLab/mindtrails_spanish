@@ -1,0 +1,16 @@
+{
+    "header_text": "Gestión de responsabilidades",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Gestión de responsabilidades"
+        },
+        {
+            "type": "Media",
+            "url": "./images/45.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

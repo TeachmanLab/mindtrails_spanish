@@ -1,25 +1,27 @@
 {
-    "header_text": "Decidiendo algo",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en el concesionario local de automóviles buscando comprar un carro nuevo. Después de considerar todas las opciones, todavía estás indeciso entre dos carros. Cuando le dices al vendedor qué carro decidiste comprar, te sientes..."
+            "text": "¿Qué tan ansioso te sentiste (en el nivel más alto de ansiedad) al completar la tarea de visualización? Presiona la barra para usar el control deslizante.\n\n0 = Absolutamente sin ansiedad. \n\n10 = Totalmente ansioso."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Decidiendo algo_Finanzas_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "contento"
+            "type": "Slider",
+            "min": "0",
+            "max": "10",
+            "others": [
+                "Prefiero no responder"
             ],
-            "missing_letter_count": 1
+            "name": "imagery_anxiety"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 2
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

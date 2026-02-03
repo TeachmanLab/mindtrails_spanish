@@ -1,25 +1,16 @@
 {
-    "header_text": "La nueva ciudad",
+    "header_text": "Chistes de compras",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Llevas unos meses viviendo en una ciudad nueva y has tenido problemas para hacer nuevos amigos. Has estado muy ocupado desde que te mudaste, pero sabes que es importante establecer buenas relaciones aquí en tu nuevo hogar. Cuando piensas en la vida en tu nueva ciudad, crees que estarás..."
+            "text": "Chistes de compras"
         },
         {
-            "type": "WordPuzzle",
-            "name": "La nueva ciudad_Situaciones Sociales_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "solo"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/256.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 3
+    "type": "positive",
+    "scenario_num": 0
 }

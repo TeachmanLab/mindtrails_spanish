@@ -1,29 +1,25 @@
 {
-    "header_text": "Taller de escritura",
+    "header_text": "Mente va en blanco",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Esperas sentirte incómodo si otros miran tu trabajo?"
+            "text": "Tu jefe te llama para que respondas una pregunta sobre los planes que acaban de discutir. No sabes qué decir. Tu mente se queda en..."
         },
         {
-            "type": "Buttons",
-            "name": "Taller de escritura_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "Mente va en blanco_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "blanco"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 6
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

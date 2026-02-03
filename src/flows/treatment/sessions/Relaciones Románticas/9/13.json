@@ -1,16 +1,16 @@
 {
-    "header_text": "Relaciones futuras",
+    "header_text": "Casarse con tu pareja",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Relaciones futuras"
+            "text": "Casarse con tu pareja"
         },
         {
             "type": "Media",
-            "url": "./images/177.jpg"
+            "url": "./images/181.jpg"
         }
     ],
     "type": "resilience/negation",
-    "scenario_num": 5
+    "scenario_num": 0
 }

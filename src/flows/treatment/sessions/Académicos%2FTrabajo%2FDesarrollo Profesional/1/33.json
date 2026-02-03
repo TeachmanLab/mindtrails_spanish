@@ -1,20 +1,20 @@
 {
-    "header_text": "Palabra tropiezo",
+    "header_text": "Listo para trabajar",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Crees que a los otros les gustará tu presentación?"
+            "text": "¿Vas a completar tu tarea?"
         },
         {
             "type": "Buttons",
-            "name": "Palabra tropiezo_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Listo para trabajar_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Sí",
+                "No"
             ],
             "column_Count": 1,
             "correct_value": "Sí"
@@ -25,5 +25,5 @@
         "wait_for_click"
     ],
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 6
 }

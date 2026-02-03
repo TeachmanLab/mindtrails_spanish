@@ -1,25 +1,31 @@
 {
-    "header_text": "Contribuir a una discusión",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu jefe convoca a una reunión para discutir un nuevo proyecto que involucrará a la mayoría del personal de tu oficina. De repente se te pide que contribuyas con tus ideas a la discusión. Rápidamente se te ocurren algunas ideas y piensas que tus colegas encontrarán que tus ideas son..."
+            "text": "¿Qué tan vívidamente imaginaste la situación?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Contribuir a una discusión_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "emocionantes"
+            "type": "Buttons",
+            "buttons": [
+                "Nada vívido",
+                "Algo vívido",
+                "Moderadamente vívido",
+                "Muy vívido",
+                "Totalmente vívido",
+                "Prefiero no responder"
             ],
-            "missing_letter_count": 1
+            "selectable": true,
+            "name": "imagery_vivid"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 2
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

@@ -1,25 +1,10 @@
 {
-    "header_text": "Ninguna respuesta: Comportamientos",
+    "header_text": "Ninguna respuesta",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado enviando mensajes de texto a alguien que realmente te gusta y, por lo general, responde rápidamente. Notas que vio tu mensaje hace un par de horas y no respondió. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
-        },
-        {
-            "type": "TimedText",
-            "texts": [
-                "Llamo a un amigo y le pregunto sobre su día.",
-                "Envío un montón de mensajes seguidos para ver si responde.",
-                "Quiero pasar el día concentrado en mi teléfono, pero en lugar de eso hago pasatiempos que disfruto.",
-                "Quiero preguntarle qué piensa de mí, pero decido darle más tiempo.",
-                "Sigo con mi día."
-            ],
-            "Duration": 15000
+            "text": "El objetivo de este ejercicio es ayudarle a aprender que hay muchas reacciones diferentes que puede tener en una situación estresante y que no todos estos pensamientos, sentimientos y comportamientos tienen que ser negativos. \n\nDespués de ver algunos pensamientos, se le pedirá que escriba su propio ejemplo de un pensamiento útil que pueda tener en esa situación. Harás lo mismo con los sentimientos y comportamientos. \n\nLa misma situación se presentará varias veces. Esta repetición es intencionada para que puedas practicar pensar en la misma situación de muchas maneras diferentes."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
     ]
 }

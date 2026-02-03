@@ -1,16 +1,16 @@
 {
-    "header_text": "Desconectandote",
+    "header_text": "Alergias de primavera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Desconectandote"
+            "text": "Alergias de primavera"
         },
         {
             "type": "Media",
-            "url": "./images/402.jpg"
+            "url": "./images/447.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 4
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

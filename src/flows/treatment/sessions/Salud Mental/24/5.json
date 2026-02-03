@@ -1,17 +1,22 @@
 {
-    "header_text": "Tu propio estilo",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hiciste planes con un grupo de amigos para salir a cenar un viernes por la noche. Cuando vienen a recogerte, ves que están vestidos de manera informal, pero tú decidiste disfrazarte un poco y crees que podrían juzgarte. Decides que te gusta lo que llevas puesto y vas a cenar..."
+            "text": "Describe la situación en pocas palabras:"
         },
         {
             "type": "Entry",
-            "name": "Tu propio estilo_Salud Mental_entry1"
+            "name": "entry_anxious_imagery"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 1
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

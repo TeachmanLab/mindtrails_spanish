@@ -1,0 +1,17 @@
+{
+    "header_text": "Opiniones opuestas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu familia tiene opiniones firmes con las que no siempre estás de acuerdo. Al escucharlos hablar, sientes que eres muy diferente a ellos, pero también que está bien tener tus propios puntos de..."
+        },
+        {
+            "type": "Entry",
+            "name": "Opiniones opuestas_Salud Mental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
+}

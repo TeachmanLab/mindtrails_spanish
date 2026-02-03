@@ -1,16 +1,17 @@
 {
-    "header_text": "Pensamientos en la estación de tren",
+    "header_text": "El malestar de estómago",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Pensamientos en la estación de tren"
+            "text": "Te reúnes con el médico y te dice lo que probablemente está pasando. Lo piensas y te das cuenta de que enfermarse a veces es..."
         },
         {
-            "type": "Media",
-            "url": "./images/399.jpg"
+            "type": "Entry",
+            "name": "El malestar de estómago_Salud Física_entry2"
         }
     ],
-    "type": "positive",
-    "scenario_num": 8
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

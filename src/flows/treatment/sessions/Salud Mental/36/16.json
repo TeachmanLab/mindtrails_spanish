@@ -1,10 +1,25 @@
 {
-    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_text": "Serpientes en el parque:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Intenta escribir sobre tus sentimientos y pensamientos para comprenderlos más claramente."
+            "text": "Tu amigo te convence de dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "El clima es realmente agradable.",
+                "Voy a morir si me muerde una serpiente.",
+                "Aunque me incomoda pensar en las serpientes en el parque, sé que puedo ir al parque de todos modos.",
+                "Pienso en decirle a mi amigo que he cambiado de opinión, pero voy con él de todos modos.",
+                "Me gusta hablar con este amigo."
+            ],
+            "Duration": 15000
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
     ]
 }

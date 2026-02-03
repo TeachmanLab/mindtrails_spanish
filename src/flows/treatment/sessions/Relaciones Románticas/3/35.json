@@ -1,0 +1,16 @@
+{
+    "header_text": "Nuevo seguidor atractivo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Nuevo seguidor atractivo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/199.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

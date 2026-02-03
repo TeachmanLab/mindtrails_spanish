@@ -1,25 +1,16 @@
 {
-    "header_text": "Recuperarse de COVID",
+    "header_text": "Sentir presión al salir",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tuviste que tomar tiempo afuera del trabajo porque contrajiste COVID. Aunque la pausa fue importante para su salud, también puso a prueba tus finanzas. Cuando piensas en tu situación financiera, sabes que podrás recuperar el tiempo..."
+            "text": "Sentir presión al salir"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Recuperarse de COVID_Finanzas_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "perdido"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/283.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 3
 }

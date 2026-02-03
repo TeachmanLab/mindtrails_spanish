@@ -1,16 +1,16 @@
 {
-    "header_text": "Esta reunión",
+    "header_text": "Encontrándote con alguien",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Esta reunión"
+            "text": "Encontrándote con alguien"
         },
         {
             "type": "Media",
-            "url": "./images/1.jpg"
+            "url": "./images/502.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 3
 }

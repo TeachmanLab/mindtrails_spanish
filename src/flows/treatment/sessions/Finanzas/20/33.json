@@ -1,29 +1,25 @@
 {
-    "header_text": "Pagando hacia adelante",
+    "header_text": "Tomando un descanso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Invertir ahora dará tus frutos en el futuro?"
+            "text": "Has estado trabajando muy duro durante el último año y estás empezando a sentirte agotado. Sientes que necesitas tomar un descanso, pero te preocupan las repercusiones financieras de tomarte un tiempo libre. Crees que es importante tomar un tiempo libre para centrarte en tu salud..."
         },
         {
-            "type": "Buttons",
-            "name": "Pagando hacia adelante_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Tomando un descanso_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "mental"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 6
 }

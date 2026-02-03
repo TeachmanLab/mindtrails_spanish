@@ -1,0 +1,16 @@
+{
+    "header_text": "Cita con el doctor",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cita con el doctor"
+        },
+        {
+            "type": "Media",
+            "url": "./images/374.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

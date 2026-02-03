@@ -1,29 +1,25 @@
 {
-    "header_text": "Manejando tu tarjeta de crédito",
+    "header_text": "Pagando la cena",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Seguirás sintiendo ansiedad por pagar tu tarjeta de crédito?"
+            "text": "Estás en una cita con tu pareja. Siempre pagan la cuenta, a pesar de que quieres pagarla tú. Cuando piensas en hablar con ella sobre pagar de forma equitativa, piensas que..."
         },
         {
-            "type": "Buttons",
-            "name": "Manejando tu tarjeta de crédito_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Pagando la cena_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "entenderán"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 6
 }

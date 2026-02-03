@@ -1,0 +1,16 @@
+{
+    "header_text": "Hablando con tu jefe",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Hablando con tu jefe"
+        },
+        {
+            "type": "Media",
+            "url": "./images/540.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

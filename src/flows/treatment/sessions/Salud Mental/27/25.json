@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Hay algún momento durante los próximos dos días en el que crees que te sentirás ansioso? Considera configurar una alarma para recordar que debes practicar el pensamiento flexible en ese momento."
+        }
+    ]
+}

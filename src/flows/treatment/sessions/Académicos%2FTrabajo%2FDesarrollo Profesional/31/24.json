@@ -1,0 +1,25 @@
+{
+    "header_text": "Trabajar en grupos: Comportamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu jefe les dice a todos que mañana los dividirá en pequeños grupos para planificar nuevos proyectos de trabajo. También dice que tendrás que elegir tu grupo, pero te das cuenta de que no tienes amigos cercanos en tu lugar de trabajo.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Quiero trabajar solo, pero probaré hacerlo en grupo.",
+                "Expresaré lo emocionado que estoy de conocer a todos.",
+                "Hablaré con la gente de mi lugar de trabajo y pediré estar en un grupo.",
+                "Quiero quedarme callado, pero decido contribuir.",
+                "Iré al baño para no tener que pedirle a nadie que esté en su grupo."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

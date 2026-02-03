@@ -1,16 +1,16 @@
 {
-    "header_text": "Sábado sin planes",
+    "header_text": "Una gran risa",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Sábado sin planes"
+            "text": "Una gran risa"
         },
         {
             "type": "Media",
-            "url": "./images/532.jpg"
+            "url": "./images/530.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 1
 }

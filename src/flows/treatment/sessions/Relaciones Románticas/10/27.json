@@ -1,0 +1,17 @@
+{
+    "header_text": "Tomando una decisión",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tú y tu pareja tienen que tomar una decisión importante. La conversación se intensifica y se convierte en una discusión que te hace preguntarte si podrán llegar a un compromiso. Te recuerdas a ti mismo que las conversaciones difíciles pueden ser una buena oportunidad para que ambos aprendan más sobre la comunicación..."
+        },
+        {
+            "type": "Entry",
+            "name": "Tomando una decisión_Relaciones Románticas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Confrontación de COVID",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Confrontación de COVID"
+        },
+        {
+            "type": "Media",
+            "url": "./images/89.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Confiar en ti mismo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Confiar en ti mismo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/321.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

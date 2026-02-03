@@ -1,25 +1,29 @@
 {
-    "header_text": "sintiéndote preocupado por las noticias",
+    "header_text": "Factura por una reparación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Esta mañana, tu pareja está viendo las noticias y escuchas que muchas empresas están reduciendo personal. Piensas en qué sucederá si tu pareja pierde su trabajo. Te sientes..."
+            "text": "¿Te arruinarás después de pagar la factura de arreglar el techo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "sintiéndote preocupado por las noticias_Finanzas_puzzle1",
+            "type": "Buttons",
+            "name": "Factura por una reparación_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "asustado"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Risa en la esquina",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Risa en la esquina"
+        },
+        {
+            "type": "Media",
+            "url": "./images/560.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
+}

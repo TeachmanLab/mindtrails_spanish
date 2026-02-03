@@ -1,16 +1,16 @@
 {
-    "header_text": "Cómodo sofá",
+    "header_text": "Corriendo tu primera carrera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cómodo sofá"
+            "text": "Corriendo tu primera carrera"
         },
         {
             "type": "Media",
-            "url": "./images/397.jpg"
+            "url": "./images/396.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 3
 }

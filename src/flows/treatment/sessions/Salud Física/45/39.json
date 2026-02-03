@@ -1,0 +1,16 @@
+{
+    "header_text": "Sensaciones desconocidas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sensaciones desconocidas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/425.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

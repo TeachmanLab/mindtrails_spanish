@@ -1,17 +1,16 @@
 {
-    "header_text": "Resultados del chequeo anual",
+    "header_text": "Aprendiendo a esquíar",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te extraen sangre para tu examen físico anual. Tu médico te dice que tendrá que esperar unos días para recibir los resultados y te preocupas por lo que dirán los resultados. Durante los próximos días, las preocupaciones son..."
+            "text": "Aprendiendo a esquíar"
         },
         {
-            "type": "Entry",
-            "name": "Resultados del chequeo anual_Salud Física_entry1"
+            "type": "Media",
+            "url": "./images/406.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 4
 }

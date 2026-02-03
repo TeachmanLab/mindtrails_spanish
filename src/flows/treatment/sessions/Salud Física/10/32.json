@@ -1,0 +1,16 @@
+{
+    "header_text": "Exposición reciente",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Exposición reciente"
+        },
+        {
+            "type": "Media",
+            "url": "./images/435.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

@@ -1,16 +1,16 @@
 {
-    "header_text": "Decidiendo algo",
+    "header_text": "Preocupándote por gastar",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Decidiendo algo"
+            "text": "Preocupándote por gastar"
         },
         {
             "type": "Media",
-            "url": "./images/247.jpg"
+            "url": "./images/252.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 1
 }

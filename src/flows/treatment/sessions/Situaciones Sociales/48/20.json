@@ -1,16 +1,25 @@
 {
-    "header_text": "Experiencia en el supermercado",
+    "header_text": "Prepararte para tener éxito",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Experiencia en el supermercado"
+            "text": "En tu reunión de hoy, tienes una presentación importante. Para seguir las instrucciones de tu jefe, debes presentar por 15 minutos. Cuando piensas en completar esta presentación, te sientes..."
         },
         {
-            "type": "Media",
-            "url": "./images/566.jpg"
+            "type": "WordPuzzle",
+            "name": "Prepararte para tener éxito_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "preparado"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 6
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
 }

@@ -1,16 +1,31 @@
 {
-    "header_text": "¡Escribe el tuyo!",
-    "header_icon": [
-        "assets/subtitle.png"
-    ],
+    "header_text": "Imágenes ansiosas principales",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Razón 3:"
+            "text": "Si esta situación terminara mal, ¿qué tan bien o mal serías capaz de manejarla?"
         },
         {
-            "type": "Entry",
-            "name": "Razón3_WYO"
+            "type": "Buttons",
+            "buttons": [
+                "Muy bien",
+                "Algo bien",
+                "Neutral",
+                "Algo mal",
+                "Muy mal",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "imagery_handling"
         }
+    ],
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
     ]
 }

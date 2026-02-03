@@ -1,16 +1,16 @@
 {
-    "header_text": "Saludando a alguien",
+    "header_text": "Probando un dicho divertido",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Saludando a alguien"
+            "text": "Probando un dicho divertido"
         },
         {
             "type": "Media",
-            "url": "./images/556.jpg"
+            "url": "./images/342.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 2
 }

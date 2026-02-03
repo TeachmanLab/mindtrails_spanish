@@ -1,16 +1,16 @@
 {
-    "header_text": "Decisiones de viaje",
+    "header_text": "Ir a terapia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Decisiones de viaje"
+            "text": "Ir a terapia"
         },
         {
             "type": "Media",
-            "url": "./images/130.jpg"
+            "url": "./images/167.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 4
 }

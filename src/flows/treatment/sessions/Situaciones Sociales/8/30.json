@@ -1,0 +1,16 @@
+{
+    "header_text": "Prepararte para tener éxito",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Prepararte para tener éxito"
+        },
+        {
+            "type": "Media",
+            "url": "./images/64.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

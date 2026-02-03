@@ -1,16 +1,16 @@
 {
-    "header_text": "Experiencias pasadas",
+    "header_text": "Planes de vacaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Experiencias pasadas"
+            "text": "Planes de vacaciones"
         },
         {
             "type": "Media",
-            "url": "./images/231.jpg"
+            "url": "./images/147.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 6
+    "type": "negative",
+    "scenario_num": 1
 }

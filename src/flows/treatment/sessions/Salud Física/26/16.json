@@ -1,10 +1,25 @@
 {
-    "header_text": "Recurso: Salud Física",
+    "header_text": "Nuevo mercado:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Substance Abuse and Mental Health Services Administration (SAMHSA) - Lista de Recursos bilingües en español\n\nSAMHSA tiene sitio Web, pero no todo está traducido. La organización ofrece esta página de recursos que tienen servicios bilingües o tienen traducción."
+            "text": "Estás en una nueva tienda de comestibles y buscas pan. De repente notas que tu corazón late rápidamente y con fuerza.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Probablemente siento que mi corazón late porque estoy emocionado de probar esta nueva tienda.",
+                "Los latidos de mi corazón me distraen, pero me concentraré en mi lista de compras para mantenerme firme.",
+                "Me pregunto si estoy realmente enfermo, pero sé que este sentimiento no durará siempre.",
+                "¡Debo estar teniendo un ataque de pánico!",
+                "Me gusta el desafío de encontrar mis comidas favoritas en esta nueva tienda."
+            ],
+            "Duration": 15000
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
     ]
 }

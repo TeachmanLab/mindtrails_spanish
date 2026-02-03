@@ -1,29 +1,16 @@
 {
-    "header_text": "Presentación importante",
+    "header_text": "Ingresos adicionales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En la conferencia, la gente probablemente pensará que..."
+            "text": "Ingresos adicionales"
         },
         {
-            "type": "Buttons",
-            "name": "Presentación importante_Académicos/Trabajo/Desarrollo Profesional_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Haces un buen trabajo explicando tu trabajo reciente.",
-                "Te ves incómodo dando tu presentación."
-            ],
-            "column_Count": 1,
-            "correct_value": "Haces un buen trabajo explicando tu trabajo reciente."
+            "type": "Media",
+            "url": "./images/11.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 2
 }

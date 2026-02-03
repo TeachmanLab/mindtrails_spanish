@@ -1,29 +1,25 @@
 {
-    "header_text": "Lidiar con la vergüenza",
+    "header_text": "Visitando familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Eres capaz de tolerar que tu pareja te deje?"
+            "text": " Se acerca un fin de semana largo y habías planeado visitar a tu familia. Esta mañana, te das cuenta de que estuviste expuesto a alguien con COVID. Estás vacunado, pero no estás seguro del riesgo de contagiarte y posiblemente transmitirles el virus a tu familia. Piensas que tu familia entenderá si decides no ir a visitarlos para... "
         },
         {
-            "type": "Buttons",
-            "name": "Lidiar con la vergüenza_Vida Familiar y Doméstica_comp_question",
+            "type": "WordPuzzle",
+            "name": "Visitando familia_Vida Familiar y Doméstica_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "protegerlos"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 6
 }

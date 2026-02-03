@@ -1,0 +1,17 @@
+{
+    "header_text": "Participación",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Consideras asistir a un taller práctico en el que se requerirá tu opinión con frecuencia, a pesar de que no te gusta hablar frente a los demás. Después de asistir al taller, te das cuenta de que fue una decisión..."
+        },
+        {
+            "type": "Entry",
+            "name": "Participación_Situaciones Sociales_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
+}

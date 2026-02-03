@@ -1,16 +1,16 @@
 {
-    "header_text": "Respondiendo a preguntas inesperadas",
+    "header_text": "Usando tecnología diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Respondiendo a preguntas inesperadas"
+            "text": "Usando tecnología diferente"
         },
         {
             "type": "Media",
-            "url": "./images/36.jpg"
+            "url": "./images/69.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 0
 }

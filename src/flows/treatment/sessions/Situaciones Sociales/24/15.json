@@ -1,16 +1,16 @@
 {
-    "header_text": "Participación",
+    "header_text": "Fiesta con amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Participación"
+            "text": "Fiesta con amigos"
         },
         {
             "type": "Media",
-            "url": "./images/63.jpg"
+            "url": "./images/347.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 1
 }

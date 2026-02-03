@@ -1,17 +1,17 @@
 {
-    "header_text": "Relaciones futuras",
+    "header_text": "Casarse con tu pareja",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Acabas de romper con tu pareja, con quien estuviste más tiempo que cualquier otra persona importante que hayas tenido antes. Crees que fue lo mejor, pero también te preocupa si alguna vez conocerás a alguien más por quien sientas tanta..."
+            "text": "Tu pareja de cuatro años ha preguntado recientemente cómo te sientes acerca del matrimonio. Te sientes muy enamorado de tu pareja, pero te preocupas por las altas tasas de divorcio y si eso te podría... "
         },
         {
             "type": "Entry",
-            "name": "Relaciones futuras_Relaciones Románticas_entry1"
+            "name": "Casarse con tu pareja_Relaciones Románticas_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 5
+    "scenario_num": 0
 }

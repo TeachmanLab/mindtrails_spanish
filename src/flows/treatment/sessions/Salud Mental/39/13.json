@@ -1,17 +1,16 @@
 {
-    "header_text": "Mensajes de texto honestos",
+    "header_text": "Going to Therapy",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Obtuviste el número de alguien de una aplicación de citas y le has estado enviando mensajes de texto por algunos días. No te sientes muy interesado en esa persona, pero hoy te envían un mensaje diciendo que están muy interesados en ti y que quieren encontrarse para una cita, y te preocupa que se enojen si rechazas su oferta. Decides ser sincero acerca de no sentir lo mismo y decirles que no ves que su relación se desarrolle..."
+            "text": "Going to Therapy"
         },
         {
-            "type": "Entry",
-            "name": "Mensajes de texto honestos_Salud Mental_entry1"
+            "type": "Media",
+            "url": "./images/167.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 0
 }

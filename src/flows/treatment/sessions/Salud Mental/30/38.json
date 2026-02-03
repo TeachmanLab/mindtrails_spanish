@@ -1,0 +1,16 @@
+{
+    "header_text": "Cena cara",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cena cara"
+        },
+        {
+            "type": "Media",
+            "url": "./images/261.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

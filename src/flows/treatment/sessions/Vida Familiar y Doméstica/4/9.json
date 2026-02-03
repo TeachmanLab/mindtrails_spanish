@@ -1,25 +1,31 @@
 {
-    "header_text": "Tensión familiar",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Después de pensarlo, decides que el tema del desacuerdo sigue siendo importante para ti. Optas por evitar al miembro de la familia para evitar encontrarte en una situación..."
+            "text": "¿Qué tan vívidamente imaginaste la situación?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Tensión familiar_Vida Familiar y Doméstica_puzzle_word2",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "incómoda"
+            "type": "Buttons",
+            "buttons": [
+                "Nada vívido",
+                "Algo vívido",
+                "Moderadamente vívido",
+                "Muy vívido",
+                "Totalmente vívido",
+                "Prefiero no responder"
             ],
-            "missing_letter_count": 2
+            "selectable": true,
+            "name": "imagery_vivid"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 2
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

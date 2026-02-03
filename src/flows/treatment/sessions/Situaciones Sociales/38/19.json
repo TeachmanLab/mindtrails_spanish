@@ -1,16 +1,16 @@
 {
-    "header_text": "Viejos amigos",
+    "header_text": "Traer un nuevo amigo a casa",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Viejos amigos"
+            "text": "Traer un nuevo amigo a casa"
         },
         {
             "type": "Media",
-            "url": "./images/557.jpg"
+            "url": "./images/161.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 8
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

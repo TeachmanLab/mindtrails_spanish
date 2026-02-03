@@ -1,17 +1,17 @@
 {
-    "header_text": "Lidiar con la vergüenza",
+    "header_text": "Presentando a tus amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu pareja te está dejando en un evento de trabajo. Mientras te deja, está siendo muy ruidoso y te hace sentir avergonzado/a. Cuando sales del coche, te sientes..."
+            "text": "Invitaste a tu cónyuge a encontrarse con tus amigos del trabajo esta noche. Sabes que a menudo puede contar historias vergonzosas sobre ti a otras personas. Piensas en lo que va a hacer esta noche y te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Lidiar con la vergüenza_Vida Familiar y Doméstica_entry1"
+            "name": "Presentando a tus amigos_Vida Familiar y Doméstica_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 2
 }

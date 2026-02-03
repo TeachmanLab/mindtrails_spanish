@@ -1,16 +1,25 @@
 {
-    "header_text": "Nueva receta",
+    "header_text": "Presentando a tus amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Nueva receta"
+            "text": "Invitaste a tu cónyuge a encontrarse con tus amigos del trabajo esta noche. Sabes que a menudo puede contar historias vergonzosas sobre ti a otras personas. Piensas en lo que va a hacer esta noche y te sientes..."
         },
         {
-            "type": "Media",
-            "url": "./images/144.jpg"
+            "type": "WordPuzzle",
+            "name": "Presentando a tus amigos_Vida Familiar y Doméstica_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "tranquilo"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 2
 }

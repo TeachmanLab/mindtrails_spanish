@@ -1,14 +1,14 @@
 {
-    "header_text": "Estar cerca de alguien enfermo",
+    "header_text": "Recuperando el aliento",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Es probable que te enfermes?"
+            "text": "¿Sentirte sin aliento te da miedo?"
         },
         {
             "type": "Buttons",
-            "name": "Estar cerca de alguien enfermo_Salud Física_comp_question",
+            "name": "Recuperando el aliento_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
@@ -25,5 +25,5 @@
         "wait_for_click"
     ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 5
 }

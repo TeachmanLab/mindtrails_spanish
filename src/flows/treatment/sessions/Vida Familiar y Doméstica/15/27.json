@@ -1,29 +1,25 @@
 {
-    "header_text": "Expectativas",
+    "header_text": "Tu primer hijo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te quedas molesto al pensar en hablar con tu jefe sobre tu desempeño este año?"
+            "text": "Acabas de tener tu primer hijo. Quieres tener una buena relación durante toda la vida de tu hijo, pero te preocupa cometer errores como padre. Cuando tu hijo sea adulto, crees que esa relación será..."
         },
         {
-            "type": "Buttons",
-            "name": "Expectativas_Vida Familiar y Doméstica_comp_question",
+            "type": "WordPuzzle",
+            "name": "Tu primer hijo_Vida Familiar y Doméstica_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "cercana"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 7
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
 }

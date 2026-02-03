@@ -1,17 +1,31 @@
 {
-    "header_text": "Contribuir a una discusión",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu jefe convoca una reunión para discutir un nuevo proyecto que involucrará a la mayoría del personal de tu oficina. De repente se te pide que contribuyas con tus ideas a la discusión. Rápidamente se te ocurren algunas ideas en el momento y piensas que tus colegas encontrarán que tus ideas son interesantes e..."
+            "text": "¿Qué tan vívidamente imaginaste la situación?"
         },
         {
-            "type": "Entry",
-            "name": "Contribuir a una discusión_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "type": "Buttons",
+            "buttons": [
+                "Nada vívido",
+                "Algo vívido",
+                "Moderadamente vívido",
+                "Muy vívido",
+                "Totalmente vívido",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "imagery_vivid"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 3
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

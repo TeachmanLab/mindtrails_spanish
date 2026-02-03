@@ -1,29 +1,16 @@
 {
-    "header_text": "Trabajando para salir adelante",
+    "header_text": "Quedando atrás",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas que eres..."
+            "text": "Quedando atrás"
         },
         {
-            "type": "Buttons",
-            "name": "Trabajando para salir adelante_Salud Mental_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Capable de hacer el trabajao neccesario para obtener el trabajor que quieres.",
-                "Incapable de obtener la posición que quieres."
-            ],
-            "column_Count": 1,
-            "correct_value": "Capable de hacer el trabajao neccesario para obtener el trabajor que quieres."
+            "type": "Media",
+            "url": "./images/21.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

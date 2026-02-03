@@ -1,0 +1,16 @@
+{
+    "header_text": "Probando comidas nuevas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Probando comidas nuevas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/329.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 5
+}

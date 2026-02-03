@@ -1,10 +1,25 @@
 {
-    "header_text": "Recurso: Salud Física",
+    "header_text": "Saludando a mis amigos:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Habilidades para afrontar las adicciones\n\nEste PDF comparte varias estrategias de afrontamiento que se pueden usar como parte de la recuperación de diversas adicciones, incluida la búsqueda y el desarrollo de apoyos sociales, el manejo de las emociones y el uso de distracciones."
+            "text": "Estás afuera en un día fresco y ves a tus amigos en la calle. Decides correr para saludar. Cuando llegas con tus amigos, te quedas sin aliento.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Está tan hermoso hoy.",
+                "Siento que voy a morir por quedarme sin aliento, pero sé que no lo haré.",
+                "Puedo mantener un buen ritmo en este trote.",
+                "Mis amigos pensarán que estoy fuera de forma porque necesito recuperar el aliento.",
+                "Mis amigos podrían juzgarme por jadear un poco cuando llego a ellos, pero probablemente no lo harán."
+            ],
+            "Duration": 15000
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
     ]
 }

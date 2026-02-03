@@ -1,39 +1,16 @@
 {
-    "header_text": "Tu primer hijo",
+    "header_text": "Haciendo una buena impresión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Esperas que la relación con tu hijo adulto sea..."
+            "text": "Haciendo una buena impresión"
         },
         {
-            "type": "Buttons",
-            "name": "Tu primer hijo_Vida Familiar y Doméstica_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Cariñosa y cercana",
-                "Distanciada"
-            ],
-            "column_Count": 1,
-            "correct_value": "Cariñosa y cercana"
+            "type": "Media",
+            "url": "./images/154.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "A veces, las situaciones no son sólo buenas o malas. ¡Las situaciones neutrales nos recuerdan que está bien abrazar la zona gris!"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 1
 }

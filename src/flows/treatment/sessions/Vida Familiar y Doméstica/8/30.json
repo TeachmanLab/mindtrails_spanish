@@ -1,0 +1,16 @@
+{
+    "header_text": "Pasando tiempo con familia",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Pasando tiempo con familia"
+        },
+        {
+            "type": "Media",
+            "url": "./images/147.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

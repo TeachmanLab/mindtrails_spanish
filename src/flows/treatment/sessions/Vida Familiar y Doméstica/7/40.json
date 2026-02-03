@@ -1,0 +1,16 @@
+{
+    "header_text": "Persona de apoyo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Persona de apoyo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/79.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

@@ -1,17 +1,22 @@
 {
-    "header_text": "Corriendo fuerte",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Terminas de correr una larga distancia. Te das cuenta de que tu corazón late muy rápido y sientes presión en el pecho. Piensas que estás a punto de entrar en..."
+            "text": "Describe la situación en pocas palabras:"
         },
         {
             "type": "Entry",
-            "name": "Corriendo fuerte_Salud Física_entry1"
+            "name": "entry_anxious_imagery"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 1
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Resultados de la evaluación",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Resultados de la evaluación"
+        },
+        {
+            "type": "Media",
+            "url": "./images/72.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

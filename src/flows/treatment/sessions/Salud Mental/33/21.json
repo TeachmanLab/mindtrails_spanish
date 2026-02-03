@@ -1,16 +1,29 @@
 {
-    "header_text": "Pensamientos acelerados",
+    "header_text": "Tus habilidades con los bolos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Pensamientos acelerados"
+            "text": "Crees que a medida que sigas jugando a los bolos..."
         },
         {
-            "type": "Media",
-            "url": "./images/314.jpg"
+            "type": "Buttons",
+            "name": "Tus habilidades con los bolos_Salud Mental_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Eventualmente te convertirás en un jugador de bolos fuerte.",
+                "Nunca te convertirás en un buen jugador de bolos."
+            ],
+            "column_Count": 1,
+            "correct_value": "Eventualmente te convertirás en un jugador de bolos fuerte."
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 2
 }

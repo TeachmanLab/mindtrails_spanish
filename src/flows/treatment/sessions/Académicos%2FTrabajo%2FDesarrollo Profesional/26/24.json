@@ -1,0 +1,25 @@
+{
+    "header_text": "Amigo ruidoso: Comportamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu auto se descompuso y un amigo te va a dejar en una reunión. Cuando te deja, hace mucho ruido y todos los que están allí te miran. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Quiero evitar a todos los que me rodean, pero me acuerdo de que lo pasaré mejor si hablo con la gente.",
+                "Guardo mi teléfono para estar más dispuesto a hablar con la gente.",
+                "Tengo ganas de faltar a la reunión porque me da vergüenza, pero me quedo porque sé que es importante asistir.",
+                "Voy al baño para evitar hablar con la gente.",
+                "Camino hacia la sala de reuniones y empiezo a hablar con la gente."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

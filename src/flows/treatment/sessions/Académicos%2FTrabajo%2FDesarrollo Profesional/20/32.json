@@ -1,14 +1,25 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Cambiar tus planes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Para una situación reciente que te hizo ansioso, pregúntate: ¿Cómo podría haberlo pensado en otro momento, en otro estado de ánimo? ¿La forma en que pensaste al respecto se alineó con lo que realmente sucedió? ¿Hay alternativas? "
+            "text": "Has decidido aceptar un trabajo en otro departamento. Todos tus amigos cercanos están solicitando a los comités dentro de su departamento actual. Cuando piensas en tu decisión de cambiar de departamento, te sientes... "
         },
         {
-            "type": "Entry",
-            "name": "Consejo #8_entry"
+            "type": "WordPuzzle",
+            "name": "Cambiar tus planes_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "satisfecho"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Corrección rápida",
+    "header_text": "Una lectura larga",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Corrección rápida"
+            "text": "Una lectura larga"
         },
         {
             "type": "Media",
-            "url": "./images/60.jpg"
+            "url": "./images/56.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 6
+    "type": "positive",
+    "scenario_num": 1
 }

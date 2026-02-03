@@ -1,16 +1,17 @@
 {
-    "header_text": "Serpientes venenosas",
+    "header_text": "Corriendo con un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Serpientes venenosas"
+            "text": "Tienes planeado correr mañana con un amigo que corre todos los días. No has corrido en bastante tiempo y te preocupa si podrás mantener el..."
         },
         {
-            "type": "Media",
-            "url": "./images/421.jpg"
+            "type": "Entry",
+            "name": "Corriendo con un amigo_Salud Física_entry1"
         }
     ],
-    "type": "positive",
-    "scenario_num": 9
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

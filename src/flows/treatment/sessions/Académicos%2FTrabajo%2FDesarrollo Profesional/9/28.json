@@ -1,0 +1,17 @@
+{
+    "header_text": "Esperando grandes noticias",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Hoy recibirás un correo electrónico importante. Te dirá si recibiste un ascenso que realmente avanzaría tu carrera. Mientras piensas en esperar el correo electrónico, te sientes..."
+        },
+        {
+            "type": "Entry",
+            "name": "Esperando grandes noticias_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
+}

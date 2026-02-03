@@ -1,0 +1,16 @@
+{
+    "header_text": "Comprando productos de oficina",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Comprando productos de oficina"
+        },
+        {
+            "type": "Media",
+            "url": "./images/278.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

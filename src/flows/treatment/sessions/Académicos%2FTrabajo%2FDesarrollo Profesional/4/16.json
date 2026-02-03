@@ -1,25 +1,16 @@
 {
-    "header_text": "Llegando tarde",
+    "header_text": "Trabajando en grupo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te despiertas y te das cuenta de que llegas tarde a tu primera reunión en línea del día. Al conectarte, tu supervisor deja de hablar. Te disculpas por llegar tarde al chat y pasas el resto de la reunión sintiéndote..."
+            "text": "Trabajando en grupo"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Llegando tarde_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "tranquilo"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/17.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 4
+    "type": "negative",
+    "scenario_num": 1
 }

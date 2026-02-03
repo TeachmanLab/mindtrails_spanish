@@ -1,16 +1,17 @@
 {
-    "header_text": "Amigo en el hospital",
+    "header_text": "Tu primer hijo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Amigo en el hospital"
+            "text": "Acabas de tener tu primer hijo. Quieres tener una buena relación durante toda la vida de tu hijo, pero te preocupa cometer errores como padre. Cuando tu hijo sea adulto, piensas que esa relación será..."
         },
         {
-            "type": "Media",
-            "url": "./images/343.jpg"
+            "type": "Entry",
+            "name": "Tu primer hijo_Salud Mental_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 0
 }

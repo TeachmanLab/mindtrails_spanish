@@ -1,29 +1,15 @@
 {
-    "header_text": "Preocupándote por gastar",
+    "header_text": "Ejercicio de limón",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Estás cómodo no ir a esta cena?"
+            "text": "Realmente trate de imaginarse a sí mismo en las situaciones que se avecinan de la manera más vívida posible."
         },
         {
-            "type": "Buttons",
-            "name": "Preocupándote por gastar_Finanzas_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "type": "Media",
+            "url": "./images/lemon3.jpg",
+            "border": false
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 0
+    ]
 }

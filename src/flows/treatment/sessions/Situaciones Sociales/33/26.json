@@ -1,16 +1,29 @@
 {
-    "header_text": "Presentación de recaudación de fondos",
+    "header_text": "Sintiéndote abandonado por un amigo cercano",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Presentación de recaudación de fondos"
+            "text": "¿Te molesta que tu amigo no te djio de esta persona?"
         },
         {
-            "type": "Media",
-            "url": "./images/121.jpg"
+            "type": "Buttons",
+            "name": "Sintiéndote abandonado por un amigo cercano_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "type": "positive",
-    "scenario_num": 8
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 4
 }

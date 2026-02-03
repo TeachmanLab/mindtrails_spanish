@@ -1,16 +1,17 @@
 {
-    "header_text": "Recuperando el aliento",
+    "header_text": "Clase de baile",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recuperando el aliento"
+            "text": "Estás tomando una clase de baile y durante un descanso sientes que tus piernas se vuelven inestables. Te enfocas en estas sensaciones mientras tomas un trago de agua. Piensas que las piernas inestables probablemente significan que te estás..."
         },
         {
-            "type": "Media",
-            "url": "./images/410.jpg"
+            "type": "Entry",
+            "name": "Clase de baile_Salud Física_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 3
 }

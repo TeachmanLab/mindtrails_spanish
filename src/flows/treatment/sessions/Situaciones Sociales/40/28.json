@@ -1,0 +1,16 @@
+{
+    "header_text": "Corriendo con un amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Corriendo con un amigo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/416.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 6
+}

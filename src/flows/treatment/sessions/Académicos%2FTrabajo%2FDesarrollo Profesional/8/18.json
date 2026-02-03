@@ -1,16 +1,17 @@
 {
-    "header_text": "Presentación opcional",
+    "header_text": "Errores tipográficos problemáticos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Presentación opcional"
+            "text": "Acabas de enviar un correo electrónico importante. Al releer lo que enviaste, ves un error tipográfico en la primera oración. Crees que deberías..."
         },
         {
-            "type": "Media",
-            "url": "./images/61.jpg"
+            "type": "Entry",
+            "name": "Errores tipográficos problemáticos_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ],
-    "type": "positive",
-    "scenario_num": 7
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 2
 }

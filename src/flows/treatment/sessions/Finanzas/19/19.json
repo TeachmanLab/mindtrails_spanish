@@ -1,29 +1,25 @@
 {
-    "header_text": "Ir al dentista",
+    "header_text": "Encontrando un compañero de cuarto",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Puedes pagar para arreglar tu caries?"
+            "text": "Estás planeando mudarte y has comenzado a mirar casas en el mercado. Tu pareja encuentra una casa que le encanta, pero piensas que realmente estiraría tu presupuesto. Te sientes seguro de que podrás encontrar una solución que funcione para..."
         },
         {
-            "type": "Buttons",
-            "name": "Ir al dentista_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Encontrando un compañero de cuarto_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "todos"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 2
 }

@@ -1,25 +1,29 @@
 {
-    "header_text": "Sintiéndote abandonado por un amigo cercano",
+    "header_text": "Compañero de cuarto ausente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras te desplazas por tus redes sociales, ves que tu mejor amigo está con alguien que no conoces. Te preguntas quién es esta persona y por qué no has oído tu amigo hablar de ella. Cuando piensas en tu amistad con este amigo, te sientes..."
+            "text": "¿Te molesta la ausencia de tu hermana?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Sintiéndote abandonado por un amigo cercano_Situaciones Sociales_puzzle1",
+            "type": "Buttons",
+            "name": "Compañero de cuarto ausente_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "preocupado"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 4
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

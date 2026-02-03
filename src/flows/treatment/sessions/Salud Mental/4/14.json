@@ -1,16 +1,29 @@
 {
-    "header_text": "Tus habilidades con los bolos",
+    "header_text": "Ir a terapia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus habilidades con los bolos"
+            "text": "¿Aceptará tu familia que vayas a terapia?"
         },
         {
-            "type": "Media",
-            "url": "./images/322.jpg"
+            "type": "Buttons",
+            "name": "Ir a terapia_Salud Mental_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Sí"
+            ],
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 0
 }

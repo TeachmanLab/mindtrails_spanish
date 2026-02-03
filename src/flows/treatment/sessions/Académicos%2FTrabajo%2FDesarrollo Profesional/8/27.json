@@ -1,0 +1,17 @@
+{
+    "header_text": "Corrección rápida",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "En el pasillo del trabajo, tu jefe te hace una pregunta y te das cuenta de que has respondido incorrectamente. Tu jefe te corrige. Crees que la experiencia de ser corregido por tu jefe es..."
+        },
+        {
+            "type": "Entry",
+            "name": "Corrección rápida_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 6
+}

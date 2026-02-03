@@ -1,27 +1,12 @@
 {
-    "header_text": "Expresar tus sentimientos",
+    "header_text": "Instrucciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú pareja ha estado pasando mucho tiempo con sus amigos últimamente. Sientes que ellos prefieren pasar el rato con sus amigos que contigo. Decides decirle a tu pareja cómo te..."
-        },
-        {
-            "type": "Entry",
-            "name": "Expresar tus sentimientos_Relaciones Románticas_entry1"
+            "text": "Las historias que estás a punto de ver son un poco diferentes a las que has vistovisto antes. En lugar de completar las letras que faltan para completar la palabra final,Vamos a desafiarte a generar tu propia última palabra que completarála historia. Tu objetivo es pensar en una palabra que terminará la historia en un nota positiva. El final no tiene por qué ser tan positivo como para no serloParece posible, pero queremos que imagines que estás manejando bien la situación."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "MindTrails te brinda el coraje para enfrentar situaciones inciertas, brindándote la confianza para abordarlas en la vida real."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "type": "resilience/negation",
+    "scenario_num": 0
 }

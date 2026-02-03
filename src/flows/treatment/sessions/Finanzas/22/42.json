@@ -1,0 +1,25 @@
+{
+    "header_text": "Obtener una tarjeta de crédito",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Quieres mejorar tu puntaje crediticio y decides obtener una tarjeta de crédito. Empiezas a investigar diferentes cartas y te sientes abrumado con las opciones, preocupándote de elegir una que sólo empeorará tu puntuación. Respiras hondo y recuerdas que encontrarás algo que funcione para..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Obtener una tarjeta de crédito_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "ti"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
+}

@@ -1,39 +1,25 @@
 {
-    "header_text": "Sentirse mareado",
+    "header_text": "Dedos hormigueando",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Disminuirá tu ansiedad si observas tus sensaciones sin juzgar?"
+            "text": "Estás ayudando a un amigo a pintar una casa y has tenido la mano levantada durante mucho tiempo. Tus dedos comienzan a hormiguear. Esta sensación es..."
         },
         {
-            "type": "Buttons",
-            "name": "Sentirse mareado_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Dedos hormigueando_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "graciosa"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "¿Por qué estás completando palabras con letras? Al completar repetidamente las letras que faltan para completar palabras positivas, neutrales o negativas, el cerebro adopta patrones de pensamiento flexibles para reducir el pensamiento rígido."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
 }

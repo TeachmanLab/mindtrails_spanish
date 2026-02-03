@@ -1,16 +1,16 @@
 {
-    "header_text": "Salud y envejecimiento",
+    "header_text": "Consejos de padres",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Salud y envejecimiento"
+            "text": "Consejos de padres"
         },
         {
             "type": "Media",
-            "url": "./images/129.jpg"
+            "url": "./images/172.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 7
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

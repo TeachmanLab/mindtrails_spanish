@@ -1,25 +1,29 @@
 {
-    "header_text": "Evaluación de salud",
+    "header_text": "Dolor de cabeza en la oficina médica",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En tu cita médica anual, tu doctor decide hacerte unas pruebas para evaluar tu salud en función del historial médico de tu familia. Tus resultados estarán listos en una semana. Mientras esperas los resultados, crees que probablemente estás..."
+            "text": "¿Tu dolor de cabeza significa que te pondrás tan enfermo como tus amigos?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Evaluación de salud_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Dolor de cabeza en la oficina médica_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "sano"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 4
 }

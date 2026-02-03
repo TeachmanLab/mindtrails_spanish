@@ -1,25 +1,39 @@
 {
-    "header_text": "Sintiéndote excluido por amigos",
+    "header_text": "Un regalo casero",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras te quedas después del trabajo, escuchas que algunos de tus compañeros de trabajo salieron a cenar anoche sin ti. No recibiste una invitación para salir con ellos. Te das cuenta de que a veces tus compañeros de trabajo salen sin ti y te sientes..."
+            "text": "¿Tu amigo está triste porque no le trajiste un regalo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Sintiéndote excluido por amigos_Situaciones Sociales_puzzle1",
+            "type": "Buttons",
+            "name": "Un regalo casero_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "excluido"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 8
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "¿Por qué estás completando palabras con letras? Al completar repetidamente las letras que faltan para completar palabras positivas, neutrales o negativas, el cerebro adopta patrones de pensamiento flexibles para reducir el pensamiento rígido."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

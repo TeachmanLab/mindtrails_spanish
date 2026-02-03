@@ -1,0 +1,30 @@
+{
+    "header_text": "Decepción de aniversario",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Decepción de aniversario"
+        },
+        {
+            "type": "Media",
+            "url": "./images/472.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/601.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Un consejo: recuerda, cuando te sientas ansioso la sensación no durará para siempre."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
+}

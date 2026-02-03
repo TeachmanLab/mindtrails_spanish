@@ -1,16 +1,17 @@
 {
-    "header_text": "Sequedad",
+    "header_text": "Exposición reciente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Sequedad"
+            "text": "Estuviste expuesto recientemente a alguien que dio positivo, pero te hiciste la prueba y no has experimentado ningún síntoma. Tus amigos te invitan a cenar con ellos y te preguntas si deberías ir. Das negativo y sales con tus..."
         },
         {
-            "type": "Media",
-            "url": "./images/429.jpg"
+            "type": "Entry",
+            "name": "Exposición reciente_Salud Física_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 3
 }

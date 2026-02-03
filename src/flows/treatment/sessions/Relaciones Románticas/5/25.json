@@ -1,16 +1,29 @@
 {
-    "header_text": "Tiempo de calidad",
+    "header_text": "Enviar mensajes de texto a otras personas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tiempo de calidad"
+            "text": "¿A tu pareja le gusta pasar tiempo contigo?"
         },
         {
-            "type": "Media",
-            "url": "./images/212.jpg"
+            "type": "Buttons",
+            "name": "Enviar mensajes de texto a otras personas_Relaciones Románticas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Sí"
+            ],
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 3
 }

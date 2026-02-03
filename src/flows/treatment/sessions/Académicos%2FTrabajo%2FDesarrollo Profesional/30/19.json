@@ -1,25 +1,29 @@
 {
-    "header_text": "Presentación importante",
+    "header_text": "Mal rumor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te han pedido que hagas una presentación sobre algunos de tus últimos proyectos en una conferencia importante. Esta es una gran oportunidad para resaltar el buen trabajo que has estado haciendo, pero te sientes nervioso al hablar frente a un grupo tan grande de..."
+            "text": "Crees que tu supervisor podría estar ..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Presentación importante_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "type": "Buttons",
+            "name": "Mal rumor_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "compañeros"
+            "buttons": [
+                "Planeando despedir a alguien más.",
+                "Planeando despedirte."
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Planeando despedir a alguien más."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 1
 }

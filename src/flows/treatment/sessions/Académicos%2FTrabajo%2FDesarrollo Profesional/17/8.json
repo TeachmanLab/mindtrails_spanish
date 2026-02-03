@@ -1,25 +1,27 @@
 {
-    "header_text": "Lograr tus objetivos",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te gustaría postularte para un puesto más alto en tu trabajo y mejorar tus habilidades. Sabes que el proceso de selección es riguroso, pero sientes mucha pasión por lograr este objetivo y has trabajado duro para convertirse en un buen empleado. Sientes que tus posibilidades de conseguir este nuevo trabajo son..."
+            "text": "¿Qué tan ansioso te sentiste (en el nivel más alto de ansiedad) al completar la tarea de visualización? Presiona la barra para usar el control deslizante.\n\n0 = Absolutamente sin ansiedad. \n\n10 = Totalmente ansioso."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Lograr tus objetivos_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "escasas"
+            "type": "Slider",
+            "min": "0",
+            "max": "10",
+            "others": [
+                "Prefiero no responder"
             ],
-            "missing_letter_count": 1
+            "name": "imagery_anxiety"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 2
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

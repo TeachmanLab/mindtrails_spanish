@@ -1,16 +1,17 @@
 {
-    "header_text": "Vecino amigable",
+    "header_text": "Corriendo fuerte",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vecino amigable"
+            "text": "Terminas de correr una larga distancia. Te das cuenta de que tu corazón late muy rápido y sientes presión en el pecho. Piensas que estás a punto de entrar en..."
         },
         {
-            "type": "Media",
-            "url": "./images/408.jpg"
+            "type": "Entry",
+            "name": "Corriendo fuerte_Salud Física_entry1"
         }
     ],
-    "type": "positive",
-    "scenario_num": 6
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

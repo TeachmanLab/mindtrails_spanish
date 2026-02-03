@@ -1,17 +1,31 @@
 {
-    "header_text": "Presentando a tus amigos",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Invitaste a tu cónyuge a encontrarse con tus amigos del trabajo esta noche. Sabes que a menudo puede contar historias vergonzosas sobre ti a otras personas. Piensas en lo que va a hacer esta noche y te sientes..."
+            "text": "¿Qué tan vívidamente imaginaste la situación?"
         },
         {
-            "type": "Entry",
-            "name": "Presentando a tus amigos_Vida Familiar y Doméstica_entry1"
+            "type": "Buttons",
+            "buttons": [
+                "Nada vívido",
+                "Algo vívido",
+                "Moderadamente vívido",
+                "Muy vívido",
+                "Totalmente vívido",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "imagery_vivid"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 2
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

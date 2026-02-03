@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cada cuerpo es diferente. Tómate un momento para apreciar todo lo que tu cuerpo hace para apoyarte durante la vida."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Tajada de fruta",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tajada de fruta"
+        },
+        {
+            "type": "Media",
+            "url": "./images/369.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

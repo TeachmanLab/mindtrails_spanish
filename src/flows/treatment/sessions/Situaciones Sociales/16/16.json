@@ -1,14 +1,25 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Amigo ruidoso:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando te encuentras saltando al peor de los casos sin toda la información, ¿cualés son algunas cosas que podrías decirte a ti mismo? Piensas en algunas habilidades de las historias que has leído que podrían ser útiles para ti. "
+            "text": "Tu auto se descompuso y un amigo te va a dejar en una reunión. Cuando te deja, hace mucho ruido y todos los que están allí te miran. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #4_entry"
+            "type": "TimedText",
+            "texts": [
+                "Algunas personas probablemente piensen que mi amigo es grosero, pero no puedo controlar lo que hace ni cómo se siente la gente.",
+                "Mucha gente notó el ruido que hicimos y tal vez se molestó, pero fue sólo por un momento y no fue gran cosa.",
+                "Pienso en lo que quiero decir en la reunión de hoy.",
+                "Fue agradable no tener que tomar el autobús.",
+                "Esta gente me juzgará porque mi amigo es molesto."
+            ],
+            "Duration": 15000
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
     ]
 }

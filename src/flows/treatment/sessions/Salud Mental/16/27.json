@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Observa los pensamientos que tienes cuando sientes una emoción negativa y determina si esos pensamientos reflejan con precisión la realidad de la situación."
+        }
+    ]
+}

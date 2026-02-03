@@ -1,16 +1,29 @@
 {
-    "header_text": "Despertándote listo",
+    "header_text": "Errores en el trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Despertándote listo"
+            "text": "En las próximas semanas en el trabajo probablemente..."
         },
         {
-            "type": "Media",
-            "url": "./images/100.jpg"
+            "type": "Buttons",
+            "name": "Errores en el trabajo_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Aprenderás cosas nuevas.",
+                "Serás despedido."
+            ],
+            "column_Count": 1,
+            "correct_value": "Aprenderás cosas nuevas."
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 5
 }

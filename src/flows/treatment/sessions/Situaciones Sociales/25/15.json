@@ -1,17 +1,17 @@
 {
-    "header_text": "Fotos divertidas",
+    "header_text": "Charla de oficina",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Le envías una foto tuya intencionalmente mala a tu amigo por mensaje de texto. Te responde diciendo que tomó una captura de pantalla de tu foto. Probablemente tu amigo piense que te ves..."
+            "text": "Estás teniendo una discusión con tu jefe en su oficina, lo cual te provoca un poco de ansiedad. Piensas en terminar la discusión temprano. Después de una breve pausa, decides..."
         },
         {
             "type": "Entry",
-            "name": "Fotos divertidas_Situaciones Sociales_entry1"
+            "name": "Charla de oficina_Situaciones Sociales_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 0
 }

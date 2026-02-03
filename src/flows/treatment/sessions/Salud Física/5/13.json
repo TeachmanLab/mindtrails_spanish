@@ -1,29 +1,16 @@
 {
-    "header_text": "Desconectandote",
+    "header_text": "Te extraen sangre para tu examen físico anual. Tu médico te dice que tendrás que esperar unos días para recibir los resultados y te preocupas por lo que dirán los resultados. Durante los próximos días, las preocupaciones son soportables.",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te sientes tranquilo después de desconectarte durante la reunión?"
+            "text": "Te extraen sangre para tu examen físico anual. Tu médico te dice que tendrás que esperar unos días para recibir los resultados y te preocupas por lo que dirán los resultados. Durante los próximos días, las preocupaciones son soportables."
         },
         {
-            "type": "Buttons",
-            "name": "Desconectandote_Salud Física_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "type": "Media",
+            "url": "./images/400.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

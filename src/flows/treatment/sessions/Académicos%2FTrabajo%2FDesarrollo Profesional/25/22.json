@@ -1,17 +1,16 @@
 {
-    "header_text": "No invitado a cenar",
+    "header_text": "Tartamudeo en la oficina",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Acabas de empezar en un nuevo trabajo y trabajas con mucha gente nueva. Escuchas a algunos de ellos reírse juntos y hablar de salir a cenar y esperas a que te inviten, ansioso por hacer amigos, pero no lo hacen. Cuando piensas en tu futuro con este grupo, te sientes..."
+            "text": "Tartamudeo en la oficina"
         },
         {
-            "type": "Entry",
-            "name": "No invitado a cenar_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "type": "Media",
+            "url": "./images/26.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 4
 }

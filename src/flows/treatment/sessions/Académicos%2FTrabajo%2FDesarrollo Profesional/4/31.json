@@ -1,25 +1,29 @@
 {
-    "header_text": "Una noche libre",
+    "header_text": "Alzar la voz en una clase",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes un gran proyecto pendiente al final de la semana. Tu trabajo no ha terminado, pero consideras tomarte un descanso para salir con amigos. Tomarte la noche libre sería..."
+            "text": "¿Te da vergüenza haber levantado la mano?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Una noche libre_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "type": "Buttons",
+            "name": "Alzar la voz en una clase_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "razonable"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 5
 }

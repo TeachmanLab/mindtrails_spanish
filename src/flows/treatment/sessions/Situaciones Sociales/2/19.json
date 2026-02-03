@@ -1,29 +1,25 @@
 {
-    "header_text": "Exposición reciente",
+    "header_text": "Conversando en una fiesta",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tu prueba sale negativa?"
+            "text": "Estás en una fiesta con personas que no conoces bien. Decides unirte a algunas personas que están conversando en un sofá. Cuando intentas entrar la conversación, las personas en el sofá continúan hablando entre ellos, probablemente porque estaban..."
         },
         {
-            "type": "Buttons",
-            "name": "Exposición reciente_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Conversando en una fiesta_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "distraídos"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 2
 }

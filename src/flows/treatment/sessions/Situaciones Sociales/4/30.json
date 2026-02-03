@@ -1,16 +1,29 @@
 {
-    "header_text": "Comparaciones de redes sociales",
+    "header_text": "Tu fiesta de cumpleaños",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Comparaciones de redes sociales"
+            "text": "¿Estás emocionado de tener gente allí para celebrar tu cumpleaños?"
         },
         {
-            "type": "Media",
-            "url": "./images/478.jpg"
+            "type": "Buttons",
+            "name": "Tu fiesta de cumpleaños_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 5
 }

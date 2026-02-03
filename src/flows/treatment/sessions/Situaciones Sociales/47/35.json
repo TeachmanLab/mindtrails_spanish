@@ -1,0 +1,16 @@
+{
+    "header_text": "Confianza creativa",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Confianza creativa"
+        },
+        {
+            "type": "Media",
+            "url": "./images/537.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

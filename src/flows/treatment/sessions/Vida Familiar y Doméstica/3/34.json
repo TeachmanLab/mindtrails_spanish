@@ -1,0 +1,16 @@
+{
+    "header_text": "Conversación durante la cena",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Conversación durante la cena"
+        },
+        {
+            "type": "Media",
+            "url": "./images/149.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

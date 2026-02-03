@@ -1,25 +1,31 @@
 {
-    "header_text": "Reírse de un chiste: Sentimientos",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Un amigo cuenta un chiste gracioso y te empiezas a reír mucho. Mientras te ríes, sientes una opresión incómoda en el pecho que nunca antes habías sentido. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "¿Qué tan vívidamente imaginaste la situación?"
         },
         {
-            "type": "TimedText",
-            "texts": [
-                "¡Estoy tan sorprendido por ese chiste!",
-                "Estoy aterrorizada por la opresión en mi pecho.",
-                "Estoy feliz de que mis amigos sean tan divertidos.",
-                "Me preocupo la opresión en el pecho, pero creo que desaparecerá pronto.",
-                "Estoy ansioso por este sentimiento en mi pecho, pero sé que es solo por reírme mucho."
+            "type": "Buttons",
+            "buttons": [
+                "Nada vívido",
+                "Algo vívido",
+                "Moderadamente vívido",
+                "Muy vívido",
+                "Totalmente vívido",
+                "Prefiero no responder"
             ],
-            "Duration": 15000
+            "selectable": true,
+            "name": "imagery_vivid"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
     ]
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Montar a caballo durante el fin de semana",
+    "header_text": "Problemas de visión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Montar a caballo durante el fin de semana"
+            "text": "Problemas de visión"
         },
         {
             "type": "Media",
-            "url": "./images/381.jpg"
+            "url": "./images/423.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 4
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

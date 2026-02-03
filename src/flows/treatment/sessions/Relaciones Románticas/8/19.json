@@ -1,16 +1,16 @@
 {
-    "header_text": "Amigos en las relaciones",
+    "header_text": "Nueva pareja",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Amigos en las relaciones"
+            "text": "Nueva pareja"
         },
         {
             "type": "Media",
-            "url": "./images/228.jpg"
+            "url": "./images/225.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 8
+    "type": "positive",
+    "scenario_num": 3
 }

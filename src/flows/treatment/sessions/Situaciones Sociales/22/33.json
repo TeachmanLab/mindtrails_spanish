@@ -1,29 +1,25 @@
 {
-    "header_text": "Un saludo de bienvenida",
+    "header_text": "Problemas de amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras abrazas a tu amigo te sientes..."
+            "text": "Tu amigo va a tener una reunión de amigos esta noche. A ti no te invitó, pero a la mayoría de tus amigos sí. Cuando lo piensas, esto te hace sentir... "
         },
         {
-            "type": "Buttons",
-            "name": "Un saludo de bienvenida_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Problemas de amigos_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Como si no pudieras respirar.",
-                "Extrañado y amado."
+            "display_delay": 2000,
+            "words": [
+                "excluido"
             ],
-            "column_Count": 1,
-            "correct_value": "Extrañado y amado."
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 9
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

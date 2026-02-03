@@ -1,16 +1,16 @@
 {
-    "header_text": "Gestión de facturas",
+    "header_text": "Ingresos adicionales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Gestión de facturas"
+            "text": "Ingresos adicionales"
         },
         {
             "type": "Media",
-            "url": "./images/245.jpg"
+            "url": "./images/11.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 0
 }

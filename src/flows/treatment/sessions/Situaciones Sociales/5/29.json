@@ -1,25 +1,25 @@
 {
-    "header_text": "Recuperándote despues de un error",
+    "header_text": "Una salida organizada",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Más tarde ese día, te das cuenta de que es normal cometer errores al presentar. Probablemente la audiencia pensó que tu presenación después de comenzar de nuevo fue..."
+            "text": "Organizas un día al aire libre con tus amigos. La salida no va muy bien y te sientes desanimado. Mientras regresas a casa, piensas que los demás pensaron que el evento no salió bien debido a la..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Recuperándote despues de un error_Situaciones Sociales_puzzle_word2",
+            "name": "Una salida organizada_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "admirable"
+                "lluvia"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 8
+    "type": "positive",
+    "scenario_num": 5
 }

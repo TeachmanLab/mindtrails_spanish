@@ -1,0 +1,17 @@
+{
+    "header_text": "Encontrar al indicado",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Actualmente estás soltero y has tenido citas para intentar encontrar a la persona indicada. A veces, resulta difícil conectarte realmente con las personas y conocerlas a un nivel más profundo. Cuando piensas en casarte en el futuro, te..."
+        },
+        {
+            "type": "Entry",
+            "name": "Encontrar al indicado_Relaciones Románticas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
+}

@@ -1,16 +1,16 @@
 {
-    "header_text": "Mercado de trabajo",
+    "header_text": "Ahorrando dinero",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mercado de trabajo"
+            "text": "Ahorrando dinero"
         },
         {
             "type": "Media",
-            "url": "./images/52.jpg"
+            "url": "./images/254.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 3
 }

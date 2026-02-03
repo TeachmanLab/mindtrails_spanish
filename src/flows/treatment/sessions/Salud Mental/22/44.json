@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cuando estés estresado o molesto, trata de concentrarte en tus cinco sentidos: observa 5 cosas que puedas ver, 4 cosas que puedas sentir, 3 cosas que puedas oír, 2 cosas que puedas oler y 1 cosa que puedas saborear."
+        }
+    ]
+}

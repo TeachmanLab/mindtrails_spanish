@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Finanzas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mi Dinero: Herramientas\n\nMi Dinero: Herramientas es una página que ofrece información y plantillas para ayudar con la educación y la planificación financiera. Cada sección tiene herramientas para temas como la elaboración de presupuestos, manejo de deudas, y más."
+        }
+    ]
+}

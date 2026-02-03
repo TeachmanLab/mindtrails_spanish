@@ -1,29 +1,25 @@
 {
-    "header_text": "Exponer a un amigo",
+    "header_text": "Aprender a bailar en las redes sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tu amiga se enojará contigo por exponerla?"
+            "text": "Estás pensando en un nuevo juego que compraste mientras estás en el trabajo. Realmente quieres invitar a la gente y aprender a jugarlo, pero no quieres avergonzarte frente a tus compañeros de trabajo. Decides no mencionarlo ya que estás nervioso, y te sientes... "
         },
         {
-            "type": "Buttons",
-            "name": "Exponer a un amigo_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Aprender a bailar en las redes sociales_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "triste"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 9
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 6
 }

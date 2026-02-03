@@ -1,0 +1,16 @@
+{
+    "header_text": "Desconectandote",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Desconectandote"
+        },
+        {
+            "type": "Media",
+            "url": "./images/78.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

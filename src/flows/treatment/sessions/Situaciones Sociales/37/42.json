@@ -1,0 +1,16 @@
+{
+    "header_text": "Exponer a un amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Exponer a un amigo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/553.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

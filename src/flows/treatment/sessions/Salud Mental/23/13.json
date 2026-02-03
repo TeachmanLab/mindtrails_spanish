@@ -1,17 +1,16 @@
 {
-    "header_text": "Presentación de tu trabajo",
+    "header_text": "Boca seca",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado trabajando duro todo el año en un proyecto y tu jefe de departamento te ha invitado a hablar de ello en un evento. Muchos de tus amigos y compañeros de trabajo estarán allí, y no crees que tu trabajo sea suficiente para impresionarlos. Piensas que tu jefe de departamento te invitó por una razón y tu trabajo vale la pena... "
+            "text": "Boca seca"
         },
         {
-            "type": "Entry",
-            "name": "Presentación de tu trabajo_Salud Mental_entry1"
+            "type": "Media",
+            "url": "./images/337.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 0
 }

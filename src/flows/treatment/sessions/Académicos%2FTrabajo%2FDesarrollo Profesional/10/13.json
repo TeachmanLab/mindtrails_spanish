@@ -1,27 +1,12 @@
 {
-    "header_text": "Proyecto de grupo",
+    "header_text": "Instrucciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás trabajando en un proyecto de equipo muy importante. La fecha límite del proyecto se acerca y tus colegas aún no han completado su parte, y te preguntas si deberías hacerlas. Te comunicas con ellos expresando tus preocupaciones sobre la fecha límite y la carga de trabajo, y comienzan a trabajar de manera..."
-        },
-        {
-            "type": "Entry",
-            "name": "Proyecto de grupo_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "text": "Las historias que estás a punto de ver son un poco diferentes a las que has vistovisto antes. En lugar de completar las letras que faltan para completar la palabra final,Vamos a desafiarte a generar tu propia última palabra que completarála historia. Tu objetivo es pensar en una palabra que terminará la historia en un nota positiva. El final no tiene por qué ser tan positivo como para no serloParece posible, pero queremos que imagines que estás manejando bien la situación."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Recuerda, MindTrails no solo cambia tu perspectiva sobre las situaciones que estás leyendo aquí, ¡sino también tu perspectiva en la vida real!"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 0
 }

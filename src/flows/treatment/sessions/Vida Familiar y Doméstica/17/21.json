@@ -1,25 +1,16 @@
 {
-    "header_text": "Cambio de planes",
+    "header_text": "La música ruidosa",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Decides decírselo de todos modos. Cuando les cuentas tus planes, te sientes... "
+            "text": "La música ruidosa"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Cambio de planes_Vida Familiar y Doméstica_puzzle_word2",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "aliviado"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/112.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 6
+    "scenario_num": 3
 }

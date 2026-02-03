@@ -1,25 +1,18 @@
 {
-    "header_text": "Problemas de visión",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Respiras y te das cuenta de que tu visión completamente. Luego, recuerdas que a veces esto pasa cuando te sientas demasiado... "
-        },
-        {
-            "type": "WordPuzzle",
-            "name": "Problemas de visión_Salud Física_puzzle_word2",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "rápido"
-            ],
-            "missing_letter_count": 1
+            "text": "Imagina la situación lo más vívidamente posible (es decir, que parezca muy real). Intenta imaginar que realmente estás en esa situación. Representa las partes específicas de la situación en tu cabeza. Intenta imaginarte usando todos tus sentidos mientras piensas en esta situación. Piensa en las cosas que verías, oírías y olerías si realmente estuvieras allí. Piensa en el tipo de cosas que pensarías o sentirías si realmente estuvieras allí."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 1
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

@@ -1,29 +1,25 @@
 {
-    "header_text": "Temprano en la mañana",
+    "header_text": "Una cámara nueva",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tus amigos te juzgan por no salir con ellos?"
+            "text": "Compraste una cámara nueva, pero cuando llegas a casa, descubres que no la te gusta. La devuelves a la tienda y recibes un reembolso. En el mostrador, el empleado no habla mucho mientras te ayuda, y piensas que te ven como alguien..."
         },
         {
-            "type": "Buttons",
-            "name": "Temprano en la mañana_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Una cámara nueva_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "extraño"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 1
 }

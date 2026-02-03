@@ -1,0 +1,16 @@
+{
+    "header_text": "Visitar a una familia anciana",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Visitar a una familia anciana"
+        },
+        {
+            "type": "Media",
+            "url": "./images/152.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

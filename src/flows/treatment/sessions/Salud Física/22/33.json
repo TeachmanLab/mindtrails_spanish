@@ -1,0 +1,16 @@
+{
+    "header_text": "Explorando una cueva estrecha",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Explorando una cueva estrecha"
+        },
+        {
+            "type": "Media",
+            "url": "./images/383.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

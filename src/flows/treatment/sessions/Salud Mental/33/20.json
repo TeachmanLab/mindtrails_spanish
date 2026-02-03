@@ -1,29 +1,25 @@
 {
-    "header_text": "Proyecto eliminado",
+    "header_text": "Tus habilidades con los bolos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Estás ansioso porque tu proyecto fue borrado?"
+            "text": "Llevas varios años jugando a los bolos en una liga recreativa con algunos amigos. Has mejorado desde que empezaste, pero aún no eres tan hábil como te gustaría ser. Cuando piensas en ti mismo en los años venideros, imaginas que tus habilidades con los bolos seguirán siendo..."
         },
         {
-            "type": "Buttons",
-            "name": "Proyecto eliminado_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Tus habilidades con los bolos_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "decepcionantes"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
 }

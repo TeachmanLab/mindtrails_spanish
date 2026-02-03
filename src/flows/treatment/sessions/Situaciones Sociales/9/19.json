@@ -1,16 +1,16 @@
 {
-    "header_text": "Tropezar en público",
+    "header_text": "Equilibrio de trabajo y amistades",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tropezar en público"
+            "text": "Equilibrio de trabajo y amistades"
         },
         {
             "type": "Media",
-            "url": "./images/496.jpg"
+            "url": "./images/29.jpg"
         }
     ],
-    "type": "negative",
-    "scenario_num": 8
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

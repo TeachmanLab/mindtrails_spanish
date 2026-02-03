@@ -1,23 +1,23 @@
 {
-    "header_text": "El curso difícil",
+    "header_text": "Puerta cerrada",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Crees que serás eficaz para adquirir algunas habilidades en ciencia de datos?"
+            "text": "Durante el fin de semana vas a..."
         },
         {
             "type": "Buttons",
-            "name": "El curso difícil_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Puerta cerrada_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Descansar y pasar tiempo con amigos o familiares.",
+                "Preocuparte por si cerraste la puerta con llave."
             ],
             "column_Count": 1,
-            "correct_value": "Sí"
+            "correct_value": "Descansar y pasar tiempo con amigos o familiares."
         }
     ],
     "navigation_conditions": [
@@ -25,5 +25,5 @@
         "wait_for_click"
     ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 5
 }

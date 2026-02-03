@@ -1,25 +1,16 @@
 {
-    "header_text": "Casarse con tu pareja",
+    "header_text": "Planes de vacaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu pareja, con quien llevas cuatro años, te ha preguntado recientemente como te sientes acerca del matrimonio. Te sientes muy enamorado de tu pareja, pero te preocupas por las altas tasas de divorcio y si eso te podría pasar. Reflexionando sobre la idea de casarte con tu pareja, crees que tu matrimonio sería un... "
+            "text": "Planes de vacaciones"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Casarse con tu pareja_Relaciones Románticas_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "error"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/147.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 7
+    "type": "positive",
+    "scenario_num": 4
 }

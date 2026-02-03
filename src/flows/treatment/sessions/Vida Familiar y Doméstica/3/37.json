@@ -1,0 +1,16 @@
+{
+    "header_text": "Padres molestos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Padres molestos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/127.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Tropezar en público",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tropezar en público"
+        },
+        {
+            "type": "Media",
+            "url": "./images/496.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 8
+}

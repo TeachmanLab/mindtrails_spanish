@@ -1,17 +1,16 @@
 {
-    "header_text": "Tu Currículum",
+    "header_text": "Manejando tareas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras revisas tu currículum, no anticipas que tu futuro empleador te descarte, y piensas que el entrevistador quedará..."
+            "text": "Manejando tareas"
         },
         {
-            "type": "Entry",
-            "name": "Tu Currículum_Académicos/Trabajo/Desarrollo Profesional_entry2"
+            "type": "Media",
+            "url": "./images/122.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 6
+    "type": "negative",
+    "scenario_num": 2
 }

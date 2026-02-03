@@ -1,0 +1,16 @@
+{
+    "header_text": "Recogiendo a un viejo amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recogiendo a un viejo amigo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/495.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

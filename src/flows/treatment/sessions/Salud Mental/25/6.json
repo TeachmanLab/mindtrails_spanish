@@ -1,17 +1,18 @@
 {
-    "header_text": "Trabajo inacabado",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tuviste un día muy ocupado y no pudiste realizar todas sus tareas. En la cena, tu pareja habla orgullosamente de cómo terminó todo lo que tenía en la lista de tareas pendientes. Al pensar en si podrás completar tu trabajo mañana, te sientes..."
-        },
-        {
-            "type": "Entry",
-            "name": "Trabajo inacabado_Salud Mental_entry1"
+            "text": "Imagina la situación lo más vívidamente posible (es decir, que parezca muy real). Intenta imaginar que realmente estás en esa situación. Representa las partes específicas de la situación en tu cabeza. Intenta imaginarte usando todos tus sentidos mientras piensas en esta situación. Piensa en las cosas que verías, oírías y olerías si realmente estuvieras allí. Piensa en el tipo de cosas que pensarías o sentirías si realmente estuvieras allí."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 1
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

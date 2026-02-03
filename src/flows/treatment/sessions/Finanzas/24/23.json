@@ -1,10 +1,16 @@
 {
-    "header_text": "Maneja tus sentimientos: Finanzas",
+    "header_text": "Salir a almorzar",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando trabajes con tu presupuesto, tómate un momento para concentrarte en otra cosa, como escuchar tu canción favorita."
+            "text": "Salir a almorzar"
+        },
+        {
+            "type": "Media",
+            "url": "./images/306.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

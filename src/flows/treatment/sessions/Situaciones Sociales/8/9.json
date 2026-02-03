@@ -1,17 +1,31 @@
 {
-    "header_text": "Comparación de puntuaciones en redes sociales",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tus compañeros de trabajo están comparando experiencias de trabajo. Has tenido dificultades para completar tareas administrativas a tiempo y tus compañeros comienzan a burlarse de ti de manera desenfadada. Empiezas a sentirte..."
+            "text": "¿Qué tan vívidamente imaginaste la situación?"
         },
         {
-            "type": "Entry",
-            "name": "Comparación de puntuaciones en redes sociales_Situaciones Sociales_entry1"
+            "type": "Buttons",
+            "buttons": [
+                "Nada vívido",
+                "Algo vívido",
+                "Moderadamente vívido",
+                "Muy vívido",
+                "Totalmente vívido",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "imagery_vivid"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 3
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

@@ -1,10 +1,15 @@
 {
-    "header_text": "Maquinas apagadas",
+    "header_text": "Ejercicio de limón",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Imagínese en la situación de la página siguiente."
+            "text": "Realmente trate de imaginarse a sí mismo en las situaciones que se avecinan de la manera más vívida posible."
+        },
+        {
+            "type": "Media",
+            "url": "./images/lemon3.jpg",
+            "border": false
         }
     ]
 }

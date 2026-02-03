@@ -1,16 +1,39 @@
 {
-    "header_text": "Compartir las tradiciones familiares",
+    "header_text": "Creencias diferentes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Compartir las tradiciones familiares"
+            "text": "Piensas que probablemente tu familia..."
         },
         {
-            "type": "Media",
-            "url": "./images/170.jpg"
+            "type": "Buttons",
+            "name": "Creencias diferentes_Vida Familiar y Doméstica_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Hablará cada vez menos entre ustedes a medida que aumenten las tensiones ideológicas.",
+                "Trabajará unida para establecer mejores relaciones entre ustedes."
+            ],
+            "column_Count": 1,
+            "correct_value": "Trabajará unida para establecer mejores relaciones entre ustedes."
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Cada pequeño cambio de perspectiva conduce a cambios mayores con el tiempo. Continúe: ¡estás entrenando tu cerebro para pensar de manera más equilibrada y útil!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

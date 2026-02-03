@@ -1,16 +1,29 @@
 {
-    "header_text": "Celebraciones culturales familiares",
+    "header_text": "Nueva oportunidad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Celebraciones culturales familiares"
+            "text": "¿Te preocupa decirle a tu familia que quieres trabajar y vivir en otro país?"
         },
         {
-            "type": "Media",
-            "url": "./images/45.jpg"
+            "type": "Buttons",
+            "name": "Nueva oportunidad_Vida Familiar y Doméstica_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Sí"
+            ],
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 5
 }

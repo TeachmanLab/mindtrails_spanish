@@ -1,25 +1,25 @@
 {
-    "header_text": "Corriendo en el frío",
+    "header_text": "Tomar precauciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hace frío afuera y estás corriendo. Tu corazón empieza a latir rápidamente después de unos minutos. Decides que este sentimiento te da..."
+            "text": "Tus hijos están de vuelta en persona en la escuela. Te preocupa que un compañero de clase pueda darles COVID y que tus hijos puedan enfermarse gravemente. Decides asegurarte de que se mantengan enmascarados y aprendan a lavarse las manos para mantenerse..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Corriendo en el frío_Salud Física_puzzle1",
+            "name": "Tomar precauciones_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "miedo"
+                "seguros"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 3
+    "type": "positive",
+    "scenario_num": 0
 }

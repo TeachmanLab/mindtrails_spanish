@@ -1,10 +1,16 @@
 {
-    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
+    "header_text": "Una discusión acalorada",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Permítete dar un paso atrás de las amistades o relaciones que sientes que te están afectando negativamente. "
+            "text": "Una discusión acalorada"
+        },
+        {
+            "type": "Media",
+            "url": "./images/565.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

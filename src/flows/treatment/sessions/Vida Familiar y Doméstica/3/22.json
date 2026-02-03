@@ -1,29 +1,25 @@
 {
-    "header_text": "Nerviosismo de cumpleaños",
+    "header_text": "La música ruidosa",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Estás emocionado por toda la atención que recibirás?"
+            "text": "Tu pareja está escuchando música animada muy fuerte y necesitas prepararte para una tarea importante. No quieres que piense que eres grosero si le pides que baje el volumen de la música para que puedas prepararte. Te acercas a él/ella y te sientes..."
         },
         {
-            "type": "Buttons",
-            "name": "Nerviosismo de cumpleaños_Vida Familiar y Doméstica_comp_question",
+            "type": "WordPuzzle",
+            "name": "La música ruidosa_Vida Familiar y Doméstica_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "nervioso"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 6
+    "scenario_num": 3
 }

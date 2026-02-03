@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Académicos/Trabajo/Desarrollo Profesional",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Si te sientes estancado o abrumado, pregúntale a alguien cercano a ti si puedes hablar con él sobre cómo te sientes y ver si puede ofrecerte algún consejo."
+        }
+    ]
+}

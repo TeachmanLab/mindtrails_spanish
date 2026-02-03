@@ -1,0 +1,16 @@
+{
+    "header_text": "Nueva receta",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Nueva receta"
+        },
+        {
+            "type": "Media",
+            "url": "./images/144.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

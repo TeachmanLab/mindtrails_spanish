@@ -1,14 +1,27 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Revisando tu trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Para una situación reciente que te hizo ansioso, pregúntate: ¿Cómo podría haberlo pensado en otro momento, en otro estado de ánimo? ¿La forma en que pensaste al respecto se alineó con lo que realmente sucedió? ¿Hay alternativas? "
+            "text": "Mientras te preparas para la revisión, no crees que tu jefe olvide tu buen trabajo y crees que su reunión probablemente se centrará en tus..."
         },
         {
             "type": "Entry",
-            "name": "Consejo #8_entry"
+            "name": "Revisando tu trabajo_Salud Mental_entry2"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Al igual que un músculo, tu cerebro fortalece las vías que más utiliza. Por eso practicar muchas situaciones te ayuda a cambiar tus hábitos de pensamiento."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

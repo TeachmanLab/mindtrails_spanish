@@ -1,16 +1,17 @@
 {
-    "header_text": "Tomando una decisión",
+    "header_text": "Terminando a large distancia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tomando una decisión"
+            "text": "Tú y tu pareja han tenido una relación a distancia por un tiempo y estarán viviendo en el mismo lugar en tan solo unos meses. Nunca han convivido antes y no estás completamente seguro de cómo este cambio podría afectar su relación. Aunque te sientes un poco nervioso, sabes que es..."
         },
         {
-            "type": "Media",
-            "url": "./images/238.jpg"
+            "type": "Entry",
+            "name": "Terminando a large distancia_Relaciones Románticas_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 0
 }

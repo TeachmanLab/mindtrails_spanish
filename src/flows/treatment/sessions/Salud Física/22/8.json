@@ -1,25 +1,27 @@
 {
-    "header_text": "Ejercicio con un amigo",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Es miércoles por la noche y tu amigo te convence de ir a una clase de ejercicio cardiovascular de alta intensidad. En medio de la clase, dejas de hacer ejercicio porque sientes que no puedes recuperar el aliento. Cuando comienzas a tener pensamientos ansiosos de desmayarte, decides simplemente..."
+            "text": "¿Qué tan ansioso te sentiste (en el nivel más alto de ansiedad) al completar la tarea de visualización? Presiona la barra para usar el control deslizante.\n\n0 = Absolutamente sin ansiedad. \n\n10 = Totalmente ansioso."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Ejercicio con un amigo_Salud Física_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "notarlos"
+            "type": "Slider",
+            "min": "0",
+            "max": "10",
+            "others": [
+                "Prefiero no responder"
             ],
-            "missing_letter_count": 2
+            "name": "imagery_anxiety"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 2
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

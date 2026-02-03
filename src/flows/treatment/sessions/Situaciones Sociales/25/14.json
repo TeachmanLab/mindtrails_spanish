@@ -1,16 +1,16 @@
 {
-    "header_text": "Fotos divertidas",
+    "header_text": "Charla de oficina",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Fotos divertidas"
+            "text": "Charla de oficina"
         },
         {
             "type": "Media",
-            "url": "./images/538.jpg"
+            "url": "./images/317.jpg"
         }
     ],
-    "type": "negative",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 0
 }

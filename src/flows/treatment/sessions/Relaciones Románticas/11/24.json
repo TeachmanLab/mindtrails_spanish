@@ -1,0 +1,25 @@
+{
+    "header_text": "Persona atractiva en las redes sociales.: Comportamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mientras navegas por una aplicación de citas, ves a una persona atractiva que conociste en el supermercado la semana pasada. Decides que te guste su perfil. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Quiero cambiar algunas de mis imágenes, pero mantenerlas igual.",
+                "Le cuento a mi amigo lo que me gustó su perfil.",
+                "Les envío un mensaje para iniciar la conversación.",
+                "Quiero desactivar mi cuenta, pero decido mantenerla.",
+                "Elimino todas las imágenes que puedan resultar embarazosas."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

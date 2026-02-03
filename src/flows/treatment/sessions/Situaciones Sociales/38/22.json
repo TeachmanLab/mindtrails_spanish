@@ -1,17 +1,16 @@
 {
-    "header_text": "Opinión importante",
+    "header_text": "Amigos pasando tiempo juntos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Terminas una tarea que tienes que entregar la próxima semana para le pides la opinión a tu jefe. Te dice que el trabajo está bien, excepto por una sección incompleta. Sientes que piensa que eres..."
+            "text": "Amigos pasando tiempo juntos"
         },
         {
-            "type": "Entry",
-            "name": "Opinión importante_Situaciones Sociales_entry1"
+            "type": "Media",
+            "url": "./images/555.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 9
+    "type": "positive",
+    "scenario_num": 4
 }

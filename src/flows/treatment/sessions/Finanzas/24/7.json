@@ -1,17 +1,23 @@
 {
-    "header_text": "Ahorro para reparaciones",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu coche necesita reparaciones importantes. Tus amigos te invitan a salir con ellos este fin de semana, pero necesitas ahorrar tu dinero para pagar las reparaciones. Niegas la invitación de tus amigos y te sientes... "
-        },
-        {
-            "type": "Entry",
-            "name": "Ahorro para reparaciones_Finanzas_entry1"
+            "text": "Juega esta situación en tu cabeza durante los próximos 20 segundos. \n\nLa pantalla cambiará en 20 segundos."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 2
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 20000
+        }
+    ]
 }

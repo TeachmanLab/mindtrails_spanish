@@ -1,0 +1,17 @@
+{
+    "header_text": "Salir a almorzar",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu amigo te invitó a almorzar mañana. Quieres ir y desarrollar tu relación con ese amigo, pero no quieres gastar más de tu presupuesto semanal. Decides pedirle a tu amigo que pasen otro tiempo juntos sin gastar dinero, y crees que lo..."
+        },
+        {
+            "type": "Entry",
+            "name": "Salir a almorzar_Finanzas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
+}

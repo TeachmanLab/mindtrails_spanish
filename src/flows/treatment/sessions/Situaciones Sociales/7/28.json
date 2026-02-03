@@ -1,29 +1,16 @@
 {
-    "header_text": "Chistes con amigos",
+    "header_text": "Casa bilingüe",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Se estaban burlando de ti?"
+            "text": "Casa bilingüe"
         },
         {
-            "type": "Buttons",
-            "name": "Chistes con amigos_Situaciones Sociales_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/144.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 5
 }

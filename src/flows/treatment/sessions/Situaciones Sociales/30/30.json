@@ -1,29 +1,25 @@
 {
-    "header_text": "Planes de vacaciones",
+    "header_text": "Evaluaciones entre compañeros",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tus padres se molestarán si pasas los días festivos con la familia de tu pareja?"
+            "text": "Estás debatiendo con tus compañeros sobre una tarea en tu trabajo. Las otras personas tienen más experiencia que tú. Cuando piensas en argumentar tu posición, te sientes..."
         },
         {
-            "type": "Buttons",
-            "name": "Planes de vacaciones_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Evaluaciones entre compañeros_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "seguro"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 8
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
 }

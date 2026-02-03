@@ -1,14 +1,17 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Compartiendo programas favoritos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en una situación de tu rutina diaria o semanal que te ponga ansioso. ¿Qué estrategias puedes aplicar a partir de esta capacitación para ayudar a calmar tu ansiedad?"
+            "text": "Estás hablando con un grupo de compañeros de trabajo sobre programas de televisión. Cuando dices lo que te gusta de un programa viejo que acabas de descubrir, nadie responde. Probablemente piensan que eres..."
         },
         {
             "type": "Entry",
-            "name": "Consejo #11_entry"
+            "name": "Compartiendo programas favoritos_Situaciones Sociales_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 5
 }

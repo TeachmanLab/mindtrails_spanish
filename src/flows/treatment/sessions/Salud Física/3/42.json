@@ -1,0 +1,16 @@
+{
+    "header_text": "Dando vueltas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Dando vueltas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/392.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

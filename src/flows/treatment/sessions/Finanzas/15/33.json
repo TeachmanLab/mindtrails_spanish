@@ -1,29 +1,25 @@
 {
-    "header_text": "Costos de alimentos",
+    "header_text": "Costos inesperados",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Vas a gastar todo tu dinero ordenando comida?"
+            "text": "Considerando la posibilidad de comprar, decides elaborar un presupuesto para comprar una casa y piensas que manejar la incertidumbre de tus estimaciones será..."
         },
         {
-            "type": "Buttons",
-            "name": "Costos de alimentos_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Costos inesperados_Finanzas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "factible"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 9
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

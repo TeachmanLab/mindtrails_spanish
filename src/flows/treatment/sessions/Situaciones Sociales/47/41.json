@@ -1,0 +1,16 @@
+{
+    "header_text": "Tu mejor amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu mejor amigo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/507.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

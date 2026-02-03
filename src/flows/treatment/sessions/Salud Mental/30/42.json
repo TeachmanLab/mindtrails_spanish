@@ -1,0 +1,16 @@
+{
+    "header_text": "Probando un dicho divertido",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Probando un dicho divertido"
+        },
+        {
+            "type": "Media",
+            "url": "./images/342.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

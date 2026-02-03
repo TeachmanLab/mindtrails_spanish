@@ -1,16 +1,29 @@
 {
-    "header_text": "Permitiendo que otros vean tu trabajo",
+    "header_text": "Pasando tiempo con amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Permitiendo que otros vean tu trabajo"
+            "text": "¿Te molesta que no fuiste invitado?"
         },
         {
-            "type": "Media",
-            "url": "./images/126.jpg"
+            "type": "Buttons",
+            "name": "Pasando tiempo con amigos_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 5
 }

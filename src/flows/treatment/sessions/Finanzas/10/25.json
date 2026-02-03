@@ -1,14 +1,16 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Costear los gastos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en una situación de tu rutina diaria o semanal que te ponga ansioso. ¿Qué estrategias puedes aplicar a partir de esta capacitación para ayudar a calmar tu ansiedad?"
+            "text": "Costear los gastos"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #11_entry"
+            "type": "Media",
+            "url": "./images/254.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

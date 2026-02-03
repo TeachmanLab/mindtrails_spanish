@@ -1,25 +1,10 @@
 {
-    "header_text": "Evaluación de salud",
+    "header_text": "Recordatorio de favoritos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En tu cita médica anual, tu doctor decide hacerte unas pruebas para evaluar tu salud en función del historial médico de tu familia. Tus resultados estarán listos en una semana. Mientras esperas los resultados, crees que probablemente estás..."
-        },
-        {
-            "type": "WordPuzzle",
-            "name": "Evaluación de salud_Salud Física_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "sano"
-            ],
-            "missing_letter_count": 2
+            "text": "Recuerde que puede agregar historias, consejos y recursos a sus Favoritos haciendo clic en la estrella en la esquina superior derecha de la pantalla."
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 0
+    ]
 }

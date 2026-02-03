@@ -1,10 +1,25 @@
 {
-    "header_text": "Recurso: Situaciones Sociales",
+    "header_text": "Dando una presentación:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Sobre Conversaciones Interseccionales - The Trevor Project\n\nEste PDF hecho por Trevor Project informa sobre la importancia de conversaciones interseccionales y cómo la identidad queer/cuir se conecta a la identidad racial y étnica."
+            "text": "Tienes que hacer una presentación en una reunión hoy. Cuando te paras frente al grupo, sientes que tus mejillas se calientan y tus manos empiezan a temblar.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Todos verán que me tiemblan las manos.",
+                "Quiero volver a sentarme, pero decido seguir adelante con la presentación sabiendo que mi trabajo arduo dará sus frutos.",
+                "Quiero cubrirme la cara, pero sé que puedo hacerlo aunque sea incómodo.",
+                "He hecho todo lo que he podido para prepararme para esta presentación.",
+                "Es normal sentir un poco de calor cuando estás ansioso por hacer una presentación."
+            ],
+            "Duration": 15000
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
     ]
 }

@@ -1,17 +1,17 @@
 {
-    "header_text": "Un golpe accidental",
+    "header_text": "El dolor de muelas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Una noche, estás subiendo las escaleras y accidentalmente golpeas tu cabeza contra un techo bajo. A la mañana siguiente, el dolor de cabeza todavía está presente ligeramente, y te preguntas qué has hecho. Ya a la hora del almuerzo, el dolor ha..."
+            "text": "Tu diente ha estado doliendo recientemente, por lo que decides hacer una cita con el dentista. Piensas en el dolor y en lo que podría ser. Mientras esperas tu cita, te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Un golpe accidental_Salud Física_entry1"
+            "name": "El dolor de muelas_Salud Física_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 0
 }

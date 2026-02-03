@@ -1,39 +1,25 @@
 {
-    "header_text": "Mantenerse al día con los amigos",
+    "header_text": "Nueva ciudad, nuevos amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Como no has estado en contacto, tu amigo probablemente está pensando..."
+            "text": "Acabas de mudarte a una nueva ciudad y has conocido a mucha gente realmente interesante. Sin embargo, sientes que todavía no tienes un grupo de amigos muy cercano en quien confiar y extrañas a tus amigos más cercanos de tu ciudad anterior. Decides pasar más tiempo con las personas que has conocido para que se conviertan  en amigos más..."
         },
         {
-            "type": "Buttons",
-            "name": "Mantenerse al día con los amigos_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Nueva ciudad, nuevos amigos_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "\"Estoy seguro de que las cosas están muy ocupadas en este momento\".",
-                "\"Supongo que esta amistad no vale mucho\"."
+            "display_delay": 2000,
+            "words": [
+                "cercanos"
             ],
-            "column_Count": 1,
-            "correct_value": "\"Supongo que esta amistad no vale mucho\"."
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 7,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "En el mundo real, a veces las cosas no van bien. ¡Es importante tener algunas historias que terminen negativamente para enseñarte a manejar tu ansiedad cuando surgen situaciones negativas!"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
 }

@@ -1,29 +1,25 @@
 {
-    "header_text": "Corriendo con un amigo",
+    "header_text": "Caminata con amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Imaginas que la carrera será..."
+            "text": "Tú y tus amigos han decidido ir a una caminata, aunque temes que te agotes demasiado. Un rato después de comenzar la caminata, empiezas a respirar con dificultad. Piensas que las posibilidades de que tengas que parar son..."
         },
         {
-            "type": "Buttons",
-            "name": "Corriendo con un amigo_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Caminata con amigos_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "A un ritmo que puedes lograr si te esfuerzas mucho.",
-                "Demasiado rápida para ti, sin importar cuánto te esfuerces."
+            "display_delay": 2000,
+            "words": [
+                "altas"
             ],
-            "column_Count": 1,
-            "correct_value": "Demasiado rápida para ti, sin importar cuánto te esfuerces."
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 5
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

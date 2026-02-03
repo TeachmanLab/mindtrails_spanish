@@ -1,25 +1,29 @@
 {
-    "header_text": "Fiesta de cumpleaños",
+    "header_text": "Aprendiendo a esquíar",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en una fiesta de cumpleaños para un amigo de un amigo. Te das cuenta de que estás ruborizado y un poco sudado. Parado allí, piensas que estas sensaciones son..."
+            "text": "Una vez que llegues a la curva, probablemente..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Fiesta de cumpleaños_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Aprendiendo a esquíar_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "normales"
+            "buttons": [
+                "Vas a caerte.",
+                "Vas a sobrepasarla y seguir esquiando cuesta abajo."
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Vas a sobrepasarla y seguir esquiando cuesta abajo."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 0
 }

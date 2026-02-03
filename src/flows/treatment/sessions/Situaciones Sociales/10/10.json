@@ -1,17 +1,31 @@
 {
-    "header_text": "Cumpleaños de un amigo cercano",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mañana es el cumpleaños de un buen amigo. Olvidaste comprarle un regalo y no tienes mucho tiempo para buscar algo bueno. Recoges algo mediocre en una tienda cercana y piensas que estará..."
+            "text": "¿Qué probabilidades hay de que la situación o tarea salga bien o mal?"
         },
         {
-            "type": "Entry",
-            "name": "Cumpleaños de un amigo cercano_Situaciones Sociales_entry1"
+            "type": "Buttons",
+            "buttons": [
+                "Es muy probable que salga bien",
+                "Es algo probable que salga bien",
+                "Neutral",
+                "Es algo probable que salga mal",
+                "Es muy probable que salga mal",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "imagery_well"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 3
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

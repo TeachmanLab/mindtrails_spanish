@@ -1,17 +1,22 @@
 {
-    "header_text": "Preocupándote por gastar",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Unos amigos van a salir a cenar y te invitan. Sabes que ustedes han salido a cenar mucho recientemente, y no sabes si puedes seguir así. Les dices a tus amigos que saldrás con ellos la próxima vez y que estás feliz de quedarte en casa por la... "
+            "text": "Describe la situación en pocas palabras:"
         },
         {
             "type": "Entry",
-            "name": "Preocupándote por gastar_Finanzas_entry1"
+            "name": "entry_anxious_imagery"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 1
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

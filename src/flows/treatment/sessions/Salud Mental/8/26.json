@@ -1,0 +1,17 @@
+{
+    "header_text": "Amigo en el hospital",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recibes un mensaje de texto de un amigo diciendo que está en el hospital, pero no te dice por qué. Comienzas a preocuparte por si va a estar bien. Mientras piensas en tu amigo, te sientes..."
+        },
+        {
+            "type": "Entry",
+            "name": "Amigo en el hospital_Salud Mental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
+}

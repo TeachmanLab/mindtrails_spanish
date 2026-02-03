@@ -1,0 +1,25 @@
+{
+    "header_text": "Dando una presentación: Sentimientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tienes que hacer una presentación en una reunión hoy. Cuando te paras frente al grupo, sientes que tus mejillas se calientan y tus manos empiezan a temblar.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Tengo miedo que sentir calor en las mejillas signifca que voy a desmayar, pero respiraré profundamente unas veces y esta sensación pasará.",
+                "Me pone nervioso que la gente pueda ver que me tiemblan las manos, pero probablemente no lo noten tanto como a mí.",
+                "Me preocupo que me vaya a desmayar.",
+                "Me alivia saber bien este tema.",
+                "Estoy contento que me he preparado mucho para esta presentación."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

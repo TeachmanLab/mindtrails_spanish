@@ -1,17 +1,17 @@
 {
-    "header_text": "Un comentario grosero",
+    "header_text": "Tu propio estilo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Publicas una foto en la que te sientes muy seguro de ti mismo. Al volver a revisar los comentarios, ves uno muy grosero. Respiras profundo y decides no dejar que te..."
+            "text": "Hiciste planes con un grupo de amigos para salir a cenar un viernes por la noche. Cuando vienen a recogerte, ves que están vestidos de manera informal, pero tú decidiste disfrazarte un poco y crees que podrían juzgarte. Decides que te gusta lo que llevas puesto y vas a cenar..."
         },
         {
             "type": "Entry",
-            "name": "Un comentario grosero_Salud Mental_entry1"
+            "name": "Tu propio estilo_Salud Mental_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 1
 }

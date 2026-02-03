@@ -1,25 +1,31 @@
 {
-    "header_text": "Ninguna respuesta: Sentimientos",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado enviando mensajes de texto a alguien que realmente te gusta y, por lo general, responde rápidamente. Notas que vio tu mensaje hace un par de horas y no respondió. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "¿Qué tan vívidamente imaginaste la situación?"
         },
         {
-            "type": "TimedText",
-            "texts": [
-                "Me parece bien que no haya respondido.",
-                "Me siento mal por no recibir una respuesta rápida, pero recuerda que no necesito intentar controlar la situación.",
-                "Me preocupo no recibir una respuesta, pero me doy cuenta de que no necesito recibir respuesta inmediatamente sobre lo que envié.",
-                "Estoy feliz con quien soy, responda o no.",
-                "Me da vergüenza haberme expuesto."
+            "type": "Buttons",
+            "buttons": [
+                "Nada vívido",
+                "Algo vívido",
+                "Moderadamente vívido",
+                "Muy vívido",
+                "Totalmente vívido",
+                "Prefiero no responder"
             ],
-            "Duration": 15000
+            "selectable": true,
+            "name": "imagery_vivid"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
     ]
 }

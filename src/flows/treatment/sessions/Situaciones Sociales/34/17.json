@@ -1,16 +1,29 @@
 {
-    "header_text": "Conociendo nuevos amigos",
+    "header_text": "La nueva ciudad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Conociendo nuevos amigos"
+            "text": "Al pensar en la vida futura en su nuevo hogar, imagina:"
         },
         {
-            "type": "Media",
-            "url": "./images/110.jpg"
+            "type": "Buttons",
+            "name": "La nueva ciudad_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Una necesidad de hacerlo todo usted mismo.",
+                "Un nuevo grupo de amigos en el que puedes confiar."
+            ],
+            "column_Count": 1,
+            "correct_value": "Un nuevo grupo de amigos en el que puedes confiar."
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 1
 }

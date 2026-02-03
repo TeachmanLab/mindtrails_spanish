@@ -1,17 +1,27 @@
 {
-    "header_text": "Regalos de días festivos",
+    "header_text": "sintiéndote preocupado por las noticias",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Se acerca un día festivo que tu familia celebra. Quieres comprar regalos para todos, pero no está al tu alcance. Decides comprar un regalo para que tu familia comparta, y piensas que será..."
+            "text": "Notas que tu pareja no parece molesto al escuchar las noticias. Piensas que todo estará..."
         },
         {
             "type": "Entry",
-            "name": "Regalos de días festivos_Finanzas_entry1"
+            "name": "sintiéndote preocupado por las noticias_Finanzas_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 9
+    "type": "resilience/negation",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Recuerda, MindTrails no solo cambia tu perspectiva sobre las situaciones que estás leyendo aquí, ¡sino también tu perspectiva en la vida real!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

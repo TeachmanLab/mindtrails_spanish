@@ -1,16 +1,29 @@
 {
-    "header_text": "Chistes de compras",
+    "header_text": "Gestión de crédito",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Chistes de compras"
+            "text": "Con una nueva tarjeta de crédito probablemente..."
         },
         {
-            "type": "Media",
-            "url": "./images/256.jpg"
+            "type": "Buttons",
+            "name": "Gestión de crédito_Finanzas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "integrarías efectivamente la tarjeta de crédito en tu plan de presupuesto.",
+                "tendrías que trabajar más duro de lo que esperabas para pagar la nueva deuda de la tarjeta de crédito"
+            ],
+            "column_Count": 1,
+            "correct_value": "tendrías que trabajar más duro de lo que esperabas para pagar la nueva deuda de la tarjeta de crédito"
         }
     ],
-    "type": "positive",
-    "scenario_num": 9
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 5
 }

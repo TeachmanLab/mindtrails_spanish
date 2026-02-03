@@ -1,25 +1,26 @@
 {
-    "header_text": "Gestión de crédito",
+    "header_text": "Ingresos adicionales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu banco se ha puesto en contacto contigo para ofrecerte una tarjeta de crédito con una tasa de interés muy baja. Eres un gastador responsable, pero te preocupa acumular deudas si te inscribes en una nueva tarjeta de crédito. Al pensar en lo que harías con la tarjeta de crédito, piensas que probablemente gastarías el dinero... "
+            "text": "Ingresos adicionales"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Gestión de crédito_Finanzas_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "sabiamente"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/11.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Cuanto más te sumerjas en la historia, más probabilidades tendrás de beneficiarte de nuestro programa; imagínate realmente en la situación actual."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

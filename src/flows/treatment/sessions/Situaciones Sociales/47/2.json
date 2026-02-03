@@ -1,25 +1,10 @@
 {
-    "header_text": "Desconectandote",
+    "header_text": "Recordatorio de favoritos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en una reunión en Zoom y te desconectas por un minuto. Tu jefa te hace una pregunta y no la escuchaste. Le pides que repita su pregunta y esto te hace sentir..."
-        },
-        {
-            "type": "WordPuzzle",
-            "name": "Desconectandote_Situaciones Sociales_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "bien"
-            ],
-            "missing_letter_count": 1
+            "text": "Recuerde que puede agregar historias, consejos y recursos a sus Favoritos haciendo clic en la estrella en la esquina superior derecha de la pantalla."
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 0
+    ]
 }

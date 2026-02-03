@@ -1,17 +1,17 @@
 {
-    "header_text": "Costos inesperados",
+    "header_text": "Emoción prospectiva",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado alquilando tu casa. sientes que ya es hora de comprar una casa y que ahora tienes un trabajo estable, pero te preocupan los costos..."
+            "text": "Te gustarías tomarte un tiempo libre para viajar después de un año largo y estresante. Tu familia espera que trabajes más horas para ayudar con las finanzas y no quieres decepcionarlos. Al considerar tus planes para fin de año, te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Costos inesperados_Vida Familiar y Doméstica_entry1"
+            "name": "Emoción prospectiva_Vida Familiar y Doméstica_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 0
 }

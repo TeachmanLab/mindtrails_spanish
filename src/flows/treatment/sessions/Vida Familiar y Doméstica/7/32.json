@@ -1,10 +1,25 @@
 {
-    "header_text": "Maneja tus sentimientos: Vida Familiar y Doméstica",
+    "header_text": "Desacuerdos con tu hermana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Es útil recordar que cada uno tiene una perspectiva diferente. Si tienes dificultades para comprender por qué un ser querido actúa de cierta manera, intenta considerar la situación desde su perspectiva."
+            "text": "Cuando piensas en volver a hablar con tu hermana, no te preocupas por tener otra pelea y crees que eventualmente ustedes dos se.."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Desacuerdos con tu hermana_Vida Familiar y Doméstica_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "reconciliarán"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

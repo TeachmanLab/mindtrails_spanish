@@ -1,29 +1,25 @@
 {
-    "header_text": "Una presentación importante",
+    "header_text": "Solicitar una subvención",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Está bien que hayas cometido un error frente a tu jefe?"
+            "text": "Quieres iniciar un nuevo proyecto de investigación en tu laboratorio, por lo que solicitas una subvención de financiación. Sin esta financiación, no podrás realizar la investigación que esperas hacer, pero no sabes si tu propuesta es lo suficientemente buena. Crees que no obtendrás la..."
         },
         {
-            "type": "Buttons",
-            "name": "Una presentación importante_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Solicitar una subvención_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "financiación"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 6
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 3
 }

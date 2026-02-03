@@ -1,16 +1,16 @@
 {
-    "header_text": "Chistes con Amigos",
+    "header_text": "Situación de embriaguez",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Chistes con Amigos"
+            "text": "Situación de embriaguez"
         },
         {
             "type": "Media",
-            "url": "./images/489.jpg"
+            "url": "./images/340.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 3
 }

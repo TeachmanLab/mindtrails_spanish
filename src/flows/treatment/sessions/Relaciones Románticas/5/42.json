@@ -1,0 +1,16 @@
+{
+    "header_text": "Preocupaciones por el COVID",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Preocupaciones por el COVID"
+        },
+        {
+            "type": "Media",
+            "url": "./images/214.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

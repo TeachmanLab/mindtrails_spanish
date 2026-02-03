@@ -1,39 +1,16 @@
 {
-    "header_text": "Revisión física anual",
+    "header_text": "Picadura de araña",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Eres capaz de manejar tu ansiedad mientras esperas al doctor?"
+            "text": "Picadura de araña"
         },
         {
-            "type": "Buttons",
-            "name": "Revisión física anual_Salud Física_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "type": "Media",
+            "url": "./images/401.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "A veces, las situaciones no son sólo buenas o malas. ¡Las situaciones neutrales nos recuerdan que está bien abrazar la zona gris!"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 1
 }

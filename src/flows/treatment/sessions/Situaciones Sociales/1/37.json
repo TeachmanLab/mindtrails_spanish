@@ -1,0 +1,16 @@
+{
+    "header_text": "Resolver un desacuerdo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Resolver un desacuerdo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/467.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

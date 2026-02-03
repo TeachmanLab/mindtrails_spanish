@@ -1,25 +1,31 @@
 {
-    "header_text": "Serpientes en el parque: Sentimientos",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo te convence de dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "¿Qué tan vívidamente imaginaste la situación?"
         },
         {
-            "type": "TimedText",
-            "texts": [
-                "Estoy feliz de que mi amigo me haya pedido que saliéramos a caminar.",
-                "Tengo miedo de que me pase algo malo.",
-                "Estoy preocupado por lo que veremos en el parque, pero sé que puedo soportar sentirme un poco preocupado.",
-                "Me da ansiedad que me muerdan, pero me recuerdo a mí mismo que ese es el peor de los casos y que probablemente no sucederá.",
-                "Estoy tranquila pensando en ir al parque."
+            "type": "Buttons",
+            "buttons": [
+                "Nada vívido",
+                "Algo vívido",
+                "Moderadamente vívido",
+                "Muy vívido",
+                "Totalmente vívido",
+                "Prefiero no responder"
             ],
-            "Duration": 15000
+            "selectable": true,
+            "name": "imagery_vivid"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
     ]
 }

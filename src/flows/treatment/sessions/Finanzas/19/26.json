@@ -1,29 +1,25 @@
 {
-    "header_text": "Preocuparse por los ahorros",
+    "header_text": "Mantener a la familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te preocupa no ahorrar en este momento?"
+            "text": "Cuando piensas en tus hijos, no crees que perderán oportunidades educativas por falta de dinero y crees que apoyar su educación universitaria será..."
         },
         {
-            "type": "Buttons",
-            "name": "Preocuparse por los ahorros_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Mantener a la familia_Finanzas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "asequible"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 7
+    "scenario_num": 4
 }

@@ -1,16 +1,17 @@
 {
-    "header_text": "Tiempo en silencio",
+    "header_text": "Puntuaciones de redes sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tiempo en silencio"
+            "text": "Recientemente descargaste una aplicación de redes sociales y cuando comparas tu puntuación con la de otras personas que conoces, notas que la tuya es muy baja. Si  alguien ve tu puntuación, sabrá que no utilizas la aplicación tanto como ellos. Esto te hace sentir..."
         },
         {
-            "type": "Media",
-            "url": "./images/499.jpg"
+            "type": "Entry",
+            "name": "Puntuaciones de redes sociales_Situaciones Sociales_entry1"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 6
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
 }

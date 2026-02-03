@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Académicos/Trabajo/Desarrollo Profesional",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Identifique el contexto de su situación preguntándote: \"¿Cuál es el desafío al que me enfrento?\" Hacer esto explícito puede ayudarle a reconocer sus objetivos y los pasos necesarios para alcanzarlos."
+        }
+    ]
+}

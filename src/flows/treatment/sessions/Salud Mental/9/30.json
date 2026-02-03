@@ -1,0 +1,16 @@
+{
+    "header_text": "Comentarios de redes sociales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Comentarios de redes sociales"
+        },
+        {
+            "type": "Media",
+            "url": "./images/109.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 8
+}

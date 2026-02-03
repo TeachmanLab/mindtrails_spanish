@@ -1,0 +1,16 @@
+{
+    "header_text": "Reunión uno a uno",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Reunión uno a uno"
+        },
+        {
+            "type": "Media",
+            "url": "./images/16.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

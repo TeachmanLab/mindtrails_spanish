@@ -1,16 +1,16 @@
 {
-    "header_text": "Amgio del trabajo",
+    "header_text": "Consejería para parejas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Amgio del trabajo"
+            "text": "Consejería para parejas"
         },
         {
             "type": "Media",
-            "url": "./images/232.jpg"
+            "url": "./images/230.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 2
 }

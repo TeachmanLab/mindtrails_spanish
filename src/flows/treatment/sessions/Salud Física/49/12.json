@@ -1,16 +1,16 @@
 {
-    "header_text": "Entrega Responsable",
+    "header_text": "Alergias de primavera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Entrega Responsable"
+            "text": "Alergias de primavera"
         },
         {
             "type": "Media",
-            "url": "./images/455.jpg"
+            "url": "./images/447.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 3
+    "type": "resilience/negation",
+    "scenario_num": 0
 }

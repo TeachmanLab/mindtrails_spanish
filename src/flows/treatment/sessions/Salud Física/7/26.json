@@ -1,29 +1,39 @@
 {
-    "header_text": "Clima frío",
+    "header_text": "Fiesta de cumpleaños",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Antes de volver adentro..."
+            "text": "Las personas probablemente..."
         },
         {
             "type": "Buttons",
-            "name": "Clima frío_Salud Física_comp_question",
+            "name": "Fiesta de cumpleaños_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Toleraste la respuesta normal de tu cuerpo al frío.",
-                "Asumiste que algo malo te está pasando."
+                "Notarán que estás sudando.",
+                "No te verán sudar ya que la habitación está poco iluminada."
             ],
             "column_Count": 1,
-            "correct_value": "Toleraste la respuesta normal de tu cuerpo al frío."
+            "correct_value": "No te verán sudar ya que la habitación está poco iluminada."
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
-    "scenario_num": 7
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Cada pequeño cambio de perspectiva conduce a cambios mayores con el tiempo. Continúe: ¡estás entrenando tu cerebro para pensar de manera más equilibrada y útil!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

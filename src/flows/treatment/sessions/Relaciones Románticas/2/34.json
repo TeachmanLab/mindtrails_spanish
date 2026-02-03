@@ -1,0 +1,16 @@
+{
+    "header_text": "Citas en línea",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Citas en línea"
+        },
+        {
+            "type": "Media",
+            "url": "./images/190.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

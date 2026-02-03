@@ -1,17 +1,31 @@
 {
-    "header_text": "Preocupaciones por el ritmo cardíaco",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando el evento se vuelve más ruidoso a medida que llega más gente, consideras irte, pero decides que puedes manejar estos sentimientos y seguir..."
+            "text": "Si esta situación terminara mal, ¿qué tan bien o mal serías capaz de manejarla?"
         },
         {
-            "type": "Entry",
-            "name": "Preocupaciones por el ritmo cardíaco_Salud Mental_entry2"
+            "type": "Buttons",
+            "buttons": [
+                "Muy bien",
+                "Algo bien",
+                "Neutral",
+                "Algo mal",
+                "Muy mal",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "imagery_handling"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 3
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

@@ -1,14 +1,25 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Multitud del discurso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Reflexionas sobre las historias que acabas de leer y cómo se resolvieron las situaciones que provocan ansiedad. ¿Qué pienas son / ves como algunos de las conclusiones principales? ¿Cuál de estas nuevas formas de pensar podrías verte a ti mismo aplicando a tu propia vida, y por qué?"
+            "text": "Después del discurso, te das cuenta de que a menudo las personas parecen inexpresivas y fruncen el ceño cuando están concentradas y se esfuerzan mucho. Piensas que es muy probable que tu jefe estuviera..."
         },
         {
-            "type": "Entry",
-            "name": "Consejo #2_entry"
+            "type": "WordPuzzle",
+            "name": "Multitud del discurso_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "impresionado"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

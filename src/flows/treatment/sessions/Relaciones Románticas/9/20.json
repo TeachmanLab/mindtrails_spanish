@@ -1,16 +1,16 @@
 {
-    "header_text": "Familia grande",
+    "header_text": "Escuchando un desacuerdo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Familia grande"
+            "text": "Escuchando un desacuerdo"
         },
         {
             "type": "Media",
-            "url": "./images/233.jpg"
+            "url": "./images/151.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 3
 }

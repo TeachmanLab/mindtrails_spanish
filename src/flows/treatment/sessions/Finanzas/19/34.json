@@ -1,0 +1,16 @@
+{
+    "header_text": "Preocuparse por los ahorros",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Preocuparse por los ahorros"
+        },
+        {
+            "type": "Media",
+            "url": "./images/197.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
+}

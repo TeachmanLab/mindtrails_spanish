@@ -1,25 +1,25 @@
 {
-    "header_text": "Nerviosismo de cumpleaños",
+    "header_text": "Trabajo inacabado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recuerdas que todos vienen a celebrarte. Esto te hace sentir..."
+            "text": "Tuviste un día muy ocupado y no pudiste realizar todas tus tareas. En la cena, tu pareja habla orgullosamente de cómo terminó todo lo que tenía en la lista de tareas pendientes. Al pensar en si podrás completar tu trabajo mañana, te sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Nerviosismo de cumpleaños_Salud Mental_puzzle_word2",
+            "name": "Trabajo inacabado_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "emocionado"
+                "seguro"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 7
+    "type": "positive",
+    "scenario_num": 4
 }

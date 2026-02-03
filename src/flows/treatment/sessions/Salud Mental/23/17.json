@@ -1,16 +1,16 @@
 {
-    "header_text": "Foto con amigos",
+    "header_text": "Estar a cargo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Foto con amigos"
+            "text": "Estar a cargo"
         },
         {
             "type": "Media",
-            "url": "./images/330.jpg"
+            "url": "./images/92.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 2
 }

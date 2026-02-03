@@ -1,14 +1,16 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Corriendo una maratón",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en una situación próxima que quieras evitar porque te pone ansioso. ¿Cómo puedes pensarlo de manera diferente para que se sienta menos aterrador? "
+            "text": "Corriendo una maratón"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #9_entry"
+            "type": "Media",
+            "url": "./images/417.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

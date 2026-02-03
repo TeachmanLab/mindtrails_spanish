@@ -1,39 +1,25 @@
 {
-    "header_text": "Costear los gastos",
+    "header_text": "Chistes de compras",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En el próximo mes, te ves..."
+            "text": "Estás solo en el supermercado. Observas a otros dos miembros de la facultad juntos en la otra parte de la tienda riéndose. Probablemente se estén riendo de un..."
         },
         {
-            "type": "Buttons",
-            "name": "Costear los gastos_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Chistes de compras_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Atrasado en el pago de tu alquiler.",
-                "Pagando tu factura de alquiler en su totalidad."
+            "display_delay": 2000,
+            "words": [
+                "chiste"
             ],
-            "column_Count": 1,
-            "correct_value": "Atrasado en el pago de tu alquiler."
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 6,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "En el mundo real, a veces las cosas no van bien. ¡Es importante tener algunas historias que terminen negativamente para enseñarte a manejar tu ansiedad cuando surgen situaciones negativas!"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 3
 }

@@ -1,30 +1,29 @@
 {
-    "header_text": "Reunión uno a uno",
+    "header_text": "Terminando el trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Reunión uno a uno"
+            "text": "¿Te preocupa completar tu proyecto a tiempo?"
         },
         {
-            "type": "Media",
-            "url": "./images/16.jpg"
+            "type": "Buttons",
+            "name": "Terminando el trabajo_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Sí"
+            ],
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 5,
-    "information": {
-        "elements": [
-            {
-                "type": "media",
-                "url": "./images/600.jpg"
-            },
-            {
-                "type": "text",
-                "text": "Recuerda: Está bien cometer errores. Trata de dar lo mejor."
-            }
-        ],
-        "position": "before",
-        "information_count": 1
-    }
+    "scenario_num": 1
 }

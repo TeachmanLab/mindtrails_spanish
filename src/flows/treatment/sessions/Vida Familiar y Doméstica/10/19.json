@@ -1,16 +1,16 @@
 {
-    "header_text": "Lidiar con la vergüenza",
+    "header_text": "Presentando a tus amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Lidiar con la vergüenza"
+            "text": "Presentando a tus amigos"
         },
         {
             "type": "Media",
-            "url": "./images/136.jpg"
+            "url": "./images/150.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 2
 }

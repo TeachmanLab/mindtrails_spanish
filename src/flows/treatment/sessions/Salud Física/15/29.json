@@ -1,25 +1,39 @@
 {
-    "header_text": "Problemas de computadora",
+    "header_text": "Despertándote mareado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras trabajas en tu computadora, empiezas a tener dolor de cabeza. El dolor persiste y comienzas a preocuparte de que sea algo más serio, como COVID. No has estado expuesto a nadie que haya dado positivo, así que concluyes que tu dolor de cabeza se debe a mirar la computadora durante demasiado..."
+            "text": "¿Tu visión borrosa temporariamente significa que te estás quedando siego?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Problemas de computadora_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Despertándote mareado_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "tiempo"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "A veces, las situaciones no son sólo buenas o malas. ¡Las situaciones neutrales nos recuerdan que está bien abrazar la zona gris!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

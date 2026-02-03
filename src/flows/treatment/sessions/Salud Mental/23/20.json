@@ -1,17 +1,17 @@
 {
-    "header_text": "Trabajando para salir adelante",
+    "header_text": "Conducción segura",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te acaban de dar un trabajo en una oficina que realmente admiras. Para finalmente recibir el ascenso que deseas, sabes que tendrás que trabajar muy duro durante varios años y el resultado es incierto. Cuando imaginas tu probable puesto en la empresa en el futuro, esperas que se te otorgue el trabajo que..."
+            "text": "Tu amigo es un buen conductor, pero hoy está lloviendo fuertemente. Está conduciendo muy rápido, así que le pides que reduzca la velocidad. Respiras profundamente, porque las posibilidades de sufrir un accidente son... "
         },
         {
             "type": "Entry",
-            "name": "Trabajando para salir adelante_Salud Mental_entry1"
+            "name": "Conducción segura_Salud Mental_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 3
 }

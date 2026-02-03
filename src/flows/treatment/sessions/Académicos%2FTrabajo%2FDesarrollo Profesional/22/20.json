@@ -1,29 +1,25 @@
 {
-    "header_text": "Revisando tu trabajo",
+    "header_text": "Cambiando tu trayectoria",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Crees que tu jefe se enfocará principalmente en tus puntos fuertes durante tu evaluación de desempeño?"
+            "text": "Llevas cinco años en el mismo puesto y empiezas a sentirte aburrido y sin desafíos en tu trabajo. Te gustaría intentar conseguir un nuevo puesto, pero te preocupa poder ser competitivo en el mercado laboral. Al pensar en tu trayectoria profesional, crees que tus posibilidades de encontrar un nuevo trabajo que te resulte satisfactorio son..."
         },
         {
-            "type": "Buttons",
-            "name": "Revisando tu trabajo_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "Cambiando tu trayectoria_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "malas"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 2
 }

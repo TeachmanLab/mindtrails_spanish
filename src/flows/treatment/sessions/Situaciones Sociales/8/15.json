@@ -1,16 +1,16 @@
 {
-    "header_text": "Mensajes en redes sociales",
+    "header_text": "Conocido sin mascarilla",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mensajes en redes sociales"
+            "text": "Conocido sin mascarilla"
         },
         {
             "type": "Media",
-            "url": "./images/223.jpg"
+            "url": "./images/458.jpg"
         }
     ],
-    "type": "negative",
-    "scenario_num": 6
+    "type": "positive",
+    "scenario_num": 1
 }

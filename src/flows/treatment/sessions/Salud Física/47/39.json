@@ -1,0 +1,25 @@
+{
+    "header_text": "Vacaciones reprogramadas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Has querido ir de vacaciones de verano a Europa por algunos años. Reprogramaste tu viaje desde el verano pasado hasta el verano que viene, pero te preocupas que el COVID se propague de nuevo y te impida ir por fin. Decides esperar pacientemente, y siempre puedes reprogramar de nuevo si es... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Vacaciones reprogramadas_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "necesario"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 8
+}

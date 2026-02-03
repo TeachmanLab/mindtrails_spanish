@@ -1,19 +1,15 @@
 {
-    "header_text": "Granizado derramado: Comportamientos",
+    "header_text": "Granizado derramado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tus amigos están saliendo a cenar. Llegan tus alimentos y bebidas y accidentalmente derramas tu bebida en la parte delantera de tu nueva camisa blanca.\n\nTómese 30 segundos para escribir diferentes comportamientos. El siguiente botón aparecerá automáticamente.\n\nComportamientos que podrías realizar en este momento:"
+            "text": "Tú y tus amigos están saliendo a cenar. Llegan tus alimentos y bebidas y accidentalmente derramas tu bebida en la parte delantera de tu nueva camisa blanca.\n\nHaga clic en Siguiente para ver algunas ideas."
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/586.jpg",
+            "border": true
         }
-    ],
-    "navigation_conditions": [
-        {
-            "wait_for_time": 30000
-        },
-        "wait_for_click"
     ]
 }

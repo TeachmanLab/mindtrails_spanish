@@ -1,25 +1,29 @@
 {
-    "header_text": "Limitaciones financieras",
+    "header_text": "sintiéndote preocupado por las noticias",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "El mes pasado, saliste a cenar más a menudo de lo que sueles hacer y lo disfrutaste. Sin embargo, al mirar tu cuenta bancaria ahora, no estás seguro si puedes mantener ese estilo de vida y pagar por comestibles, facturas, etc. Decides limitarte a una comida fuera por semana y te sientes seguro con este..."
+            "text": "¿Deberías empezar a preocuparte por el trabajo de tu pareja?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Limitaciones financieras_Finanzas_puzzle1",
+            "type": "Buttons",
+            "name": "sintiéndote preocupado por las noticias_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "presupuesto"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 9
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

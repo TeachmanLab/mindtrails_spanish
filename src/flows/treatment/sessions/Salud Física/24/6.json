@@ -1,17 +1,18 @@
 {
-    "header_text": "Corriendo fuerte",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Quieres ir a algún lugar privado para estar lejos de los demás. Decides quedarte donde estás y respirar..."
-        },
-        {
-            "type": "Entry",
-            "name": "Corriendo fuerte_Salud Física_entry2"
+            "text": "Imagina la situación lo más vívidamente posible (es decir, que parezca muy real). Intenta imaginar que realmente estás en esa situación. Representa las partes específicas de la situación en tu cabeza. Intenta imaginarte usando todos tus sentidos mientras piensas en esta situación. Piensa en las cosas que verías, oírías y olerías si realmente estuvieras allí. Piensa en el tipo de cosas que pensarías o sentirías si realmente estuvieras allí."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 1
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

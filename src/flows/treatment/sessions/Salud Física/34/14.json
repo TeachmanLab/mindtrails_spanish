@@ -1,20 +1,20 @@
 {
-    "header_text": "Corte de dedo",
+    "header_text": "Resultados de análisis de sangre",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Está seriamente infectado tu dedo?"
+            "text": "¿Tus nervios son insoportables mientras esperas tus resultados?"
         },
         {
             "type": "Buttons",
-            "name": "Corte de dedo_Salud Física_comp_question",
+            "name": "Resultados de análisis de sangre_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "No",
+                "Sí"
             ],
             "column_Count": 1,
             "correct_value": "No"
@@ -25,5 +25,5 @@
         "wait_for_click"
     ],
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

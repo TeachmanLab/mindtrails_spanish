@@ -1,17 +1,17 @@
 {
-    "header_text": "Foto con amigos",
+    "header_text": "Cambio de planes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tu amigo tomaron algunas fotos juntos. Ves que te etiquetaron en una publicación y realmente no te gusta cómo te ves, pero sabes que a largo plazo no..."
+            "text": "Tu familia espera que te asciendas en tu trabajo. Todavía no le has dicho que en realidad quieres tomarte unos años sabáticos para viajar. Piensas en decírselo y te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Foto con amigos_Situaciones Sociales_entry1"
+            "name": "Cambio de planes_Situaciones Sociales_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 8
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

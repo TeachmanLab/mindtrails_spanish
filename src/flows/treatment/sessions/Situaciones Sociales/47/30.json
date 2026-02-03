@@ -1,16 +1,25 @@
 {
-    "header_text": "Tu mejor amigo",
+    "header_text": "Pedido de un niño",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu mejor amigo"
+            "text": "Estás cuidando al hijo de un amigo. El niño pide ir a un parque de un vecindario diferente. En tu opinión, una salida normal como esta es..."
         },
         {
-            "type": "Media",
-            "url": "./images/507.jpg"
+            "type": "WordPuzzle",
+            "name": "Pedido de un niño_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "segura"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 5
 }

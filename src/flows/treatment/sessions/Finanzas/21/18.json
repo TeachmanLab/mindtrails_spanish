@@ -1,0 +1,19 @@
+{
+    "header_text": "El regalo de cumpleaños: Escribe Algunos Pensamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu amigo va a celebrar una gran fiesta de cumpleaños y la mayoría de las personas de tu grupo de amigos estarán allí. Muchos de tus amigos son más ricos que tú y pueden permitirse el lujo de hacer regalos más caros.\n\nTómese 30 segundos para escribir pensamientos diferentes. El siguiente botón aparecerá automáticamente. \n\nPensamientos en el momento:"
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 30000
+        },
+        "wait_for_click"
+    ]
+}

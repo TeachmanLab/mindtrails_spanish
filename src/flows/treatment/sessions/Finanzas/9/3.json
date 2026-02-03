@@ -1,17 +1,15 @@
 {
-    "header_text": "Factura por una reparación",
+    "header_text": "Ejercicio de limón",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu techo tiene una fuga, y agua entra en la casa cada vez que llueve. Piensas que va a ser caro contratar a alguien para arreglarlo. Al pensar en pagar la factura para arreglar el techo, sientes que estarás... "
+            "text": "Realmente trate de imaginarse a sí mismo en las situaciones que se avecinan de la manera más vívida posible."
         },
         {
-            "type": "Entry",
-            "name": "Factura por una reparación_Finanzas_entry1"
+            "type": "Media",
+            "url": "./images/lemon3.jpg",
+            "border": false
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 0
+    ]
 }

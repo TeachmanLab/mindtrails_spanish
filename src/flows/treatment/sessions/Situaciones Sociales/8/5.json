@@ -1,17 +1,22 @@
 {
-    "header_text": "Conocido sin mascarilla",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Llegas a una reunión con tu mascarilla puesta. Te das cuenta de que uno de tus colegas no está usando una mascarilla. Piensas que probablemente se le..."
+            "text": "Describe la situación en pocas palabras:"
         },
         {
             "type": "Entry",
-            "name": "Conocido sin mascarilla_Situaciones Sociales_entry1"
+            "name": "entry_anxious_imagery"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 1
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

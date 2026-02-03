@@ -1,10 +1,25 @@
 {
-    "header_text": "Maneja tus sentimientos: Académicos/Trabajo/Desarrollo Profesional",
+    "header_text": "Nueva oportunidad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Date algo que esperar después de estudiar o trabajar, como ver una película o cenar con amigos."
+            "text": "Aplicaste a un nuevo trabajo en un país extranjero, pero nadie en tu familia ha estado en el extranjero. Piensas en cómo reaccionará tu familia cuando les cuentes tu decisión y es posible que no les guste la idea de que vivas en otro país. Mientras te imaginas contándoles, sientes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Nueva oportunidad_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "entusiasmo"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
 }

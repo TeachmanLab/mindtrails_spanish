@@ -1,25 +1,39 @@
 {
-    "header_text": "Un pastel de cumpleaños",
+    "header_text": "Quemadura",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo te compra un pastel para tu cumpleaños. Cuando lo traen por la noche, notas que recientemente han estado enfermos. Sosteniendo el pastel, piensas que tus posibilidades de enfermarte son..."
+            "text": "Después de correr agua sobre tu dedo, la quemadura probablemente..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Un pastel de cumpleaños_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Quemadura_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "mínimas"
+            "buttons": [
+                "Dolerá mucho menos.",
+                "Permanecerá muy dolorosa."
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Dolerá mucho menos."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Cuanto más te sumerjas en la historia, más probabilidades tendrás de beneficiarte de nuestro programa; imagínate realmente en la situación actual."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

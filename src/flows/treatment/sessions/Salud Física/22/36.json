@@ -1,0 +1,16 @@
+{
+    "header_text": "en un barco",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "en un barco"
+        },
+        {
+            "type": "Media",
+            "url": "./images/384.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

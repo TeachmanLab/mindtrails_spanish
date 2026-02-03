@@ -1,0 +1,16 @@
+{
+    "header_text": "Trabajando para salir adelante",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Trabajando para salir adelante"
+        },
+        {
+            "type": "Media",
+            "url": "./images/23.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
+}

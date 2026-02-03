@@ -1,0 +1,16 @@
+{
+    "header_text": "Amigo en el hospital",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Amigo en el hospital"
+        },
+        {
+            "type": "Media",
+            "url": "./images/343.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 5
+}

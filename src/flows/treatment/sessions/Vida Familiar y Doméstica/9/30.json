@@ -1,0 +1,16 @@
+{
+    "header_text": "Hablando sobre vivienda",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Hablando sobre vivienda"
+        },
+        {
+            "type": "Media",
+            "url": "./images/166.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

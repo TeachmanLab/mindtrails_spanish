@@ -1,16 +1,16 @@
 {
-    "header_text": "Escándalo de ahorro",
+    "header_text": "Costear la terapia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Escándalo de ahorro"
+            "text": "Costear la terapia"
         },
         {
             "type": "Media",
-            "url": "./images/301.jpg"
+            "url": "./images/167.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 3
 }

@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Finanzas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Money Smart de la FDIC\n\nEl programa “Money Smart” de la FDIC ayuda a las personas a aprender más habilidades financieras y a crear relaciones bancarias positivas. También incluye información para apoyar a los padres/cuidadores de niños de todas las edades."
+        }
+    ]
+}

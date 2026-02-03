@@ -1,17 +1,23 @@
 {
-    "header_text": "Estar a cargo",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente fuiste elegido para estar a cargo de un grupo de personas nuevas en tu trabajo. Cuando conoces a otras personas a cargo de grupos, sientes que no trabajaste tan duro como ellos y que no mereces este puesto. Te tomas un minuto para pensar en lo que das a tu trabajo y te das cuenta de que has estado dando todo lo que has podido, y la gente definitivamente se dio cuenta de..."
-        },
-        {
-            "type": "Entry",
-            "name": "Estar a cargo_Salud Mental_entry1"
+            "text": "Juega esta situación en tu cabeza durante los próximos 20 segundos. \n\nLa pantalla cambiará en 20 segundos."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 2
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 20000
+        }
+    ]
 }

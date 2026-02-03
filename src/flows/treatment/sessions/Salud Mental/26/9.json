@@ -1,25 +1,31 @@
 {
-    "header_text": "Marcado en una foto: Sentimientos",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tus amigos tomaron algunas fotografías juntos. El día siguiente, recibes una notificación de que te etiquetaron en una publicación en las redes sociales. No te gusta cómo te ves en la foto.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "¿Qué tan vívidamente imaginaste la situación?"
         },
         {
-            "type": "TimedText",
-            "texts": [
-                "Me molesta que esta no sea una foto mía halagadora.",
-                "Me siento enojado con mi amigo, pero sé que no sabía lo que siento por la foto.",
-                "Me siento inseguro acerca de cómo me veo en la foto, pero eso fue sólo un momento en el tiempo.",
-                "Soy feliz pensando en ese recuerdo.",
-                "Tengo confianza en mis amistades."
+            "type": "Buttons",
+            "buttons": [
+                "Nada vívido",
+                "Algo vívido",
+                "Moderadamente vívido",
+                "Muy vívido",
+                "Totalmente vívido",
+                "Prefiero no responder"
             ],
-            "Duration": 15000
+            "selectable": true,
+            "name": "imagery_vivid"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
     ]
 }

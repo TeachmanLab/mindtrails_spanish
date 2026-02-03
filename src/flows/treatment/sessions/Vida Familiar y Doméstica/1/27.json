@@ -1,16 +1,16 @@
 {
-    "header_text": "Atascado en el medio",
+    "header_text": "Encontrando equilibrio",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Atascado en el medio"
+            "text": "Encontrando equilibrio"
         },
         {
             "type": "Media",
-            "url": "./images/135.jpg"
+            "url": "./images/132.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 8
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

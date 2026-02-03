@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Académicos/Trabajo/Desarrollo Profesional",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Prueba el método Pomodoro: tómate un descanso de 5 minutos cada 30 minutos de trabajo para que tu mente rejuvenezca."
+        }
+    ]
+}

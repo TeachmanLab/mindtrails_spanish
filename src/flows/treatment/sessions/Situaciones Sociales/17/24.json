@@ -1,16 +1,29 @@
 {
-    "header_text": "Club de lectura",
+    "header_text": "El partido de futból",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Club de lectura"
+            "text": "¿Pensando en el partido de fútbol, crees que jugaste bien?"
         },
         {
-            "type": "Media",
-            "url": "./images/366.jpg"
+            "type": "Buttons",
+            "name": "El partido de futból_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Sí"
+            ],
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 3
 }

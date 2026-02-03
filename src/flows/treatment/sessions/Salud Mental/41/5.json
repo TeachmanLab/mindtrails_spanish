@@ -1,25 +1,22 @@
 {
-    "header_text": "Luchando con una presentación:Pensamientos",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Has estado luchando por armar esta presentación, pero aún no te has comunicado con tu jefe al respecto. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Describe la situación en pocas palabras:"
         },
         {
-            "type": "TimedText",
-            "texts": [
-                "Mi trabajo estará en riesgo si estropeo esta presentación.",
-                "No haré mi mejor esfuerzo hoy, pero a veces se me permite tener un día libre.",
-                "Mi jefe pensará que mi presentación necesita mejoras y yo estaré de acuerdo con eso.",
-                "Soy muy trabajadora y sé que mi jefe podrá notarlo.",
-                "Mis colegas pensarán que me preparé bien para la presentación."
-            ],
-            "Duration": 15000
+            "type": "Entry",
+            "name": "entry_anxious_imagery"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
     ]
 }

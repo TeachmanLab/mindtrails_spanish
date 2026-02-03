@@ -1,16 +1,25 @@
 {
-    "header_text": "Nerviosismo de cumpleaños",
+    "header_text": "Opiniones de otros",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Nerviosismo de cumpleaños"
+            "text": "Te negaron un ascenso este año y sabes que tu amigo te estaba apoyando para que lo obtuvieras. Frunce el ceño cuando le cuentas que no lo conseguiste. Le dices que trabajaste muy duro a pesar de no conseguir un ascenso y él dice que está orgulloso del esfuerzo que hiciste durante todo el..."
         },
         {
-            "type": "Media",
-            "url": "./images/148.jpg"
+            "type": "WordPuzzle",
+            "name": "Opiniones de otros_Vida Familiar y Doméstica_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "año"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 6
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
 }

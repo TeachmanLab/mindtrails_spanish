@@ -1,10 +1,25 @@
 {
-    "header_text": "Maneja tus sentimientos: Vida Familiar y Doméstica",
+    "header_text": "Padres visitando",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En interacciones difíciles, concéntrate en lo que puedas controlar y define tus objetivos en términos de cómo abordas la situación. Recuerda que no puede controlar cómo se sienten y actúan otras personas."
+            "text": "Respiras profundamente y te enfocas de nuevo en organizar la fiesta de nacimiento. Decides que no puedes controlar el comportamiento de tus..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Padres visitando_Vida Familiar y Doméstica_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "padres"
+            ],
+            "missing_letter_count": 1
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

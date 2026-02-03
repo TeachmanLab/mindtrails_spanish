@@ -1,0 +1,16 @@
+{
+    "header_text": "Entrega Responsable",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Entrega Responsable"
+        },
+        {
+            "type": "Media",
+            "url": "./images/455.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

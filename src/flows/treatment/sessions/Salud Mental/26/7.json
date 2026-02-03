@@ -1,19 +1,23 @@
 {
-    "header_text": "Marcado en una foto: Escribe Algunos Pensamientos",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tus amigos tomaron algunas fotografías juntos. El día siguiente, recibes una notificación de que te etiquetaron en una publicación en las redes sociales. No te gusta cómo te ves en la foto.\n\nTómese 30 segundos para escribir pensamientos diferentes. El siguiente botón aparecerá automáticamente. \n\nPensamientos en el momento:"
-        },
-        {
-            "type": "Entry"
+            "text": "Juega esta situación en tu cabeza durante los próximos 20 segundos. \n\nLa pantalla cambiará en 20 segundos."
         }
+    ],
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
     ],
     "navigation_conditions": [
         {
-            "wait_for_time": 30000
-        },
-        "wait_for_click"
+            "wait_for_time": 20000
+        }
     ]
 }

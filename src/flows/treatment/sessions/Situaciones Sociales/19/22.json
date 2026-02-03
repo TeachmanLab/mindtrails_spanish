@@ -1,25 +1,16 @@
 {
-    "header_text": "Mente va en blanco",
+    "header_text": "La nueva ciudad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te das un momento para ordenar tus pensamientos y luego responder a la pregunta. Cuando piensas en la respuesta que diste, te sientes... "
+            "text": "La nueva ciudad"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Mente va en blanco_Situaciones Sociales_puzzle_word2",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "bien"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/516.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 6
+    "type": "negative",
+    "scenario_num": 3
 }

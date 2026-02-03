@@ -1,0 +1,16 @@
+{
+    "header_text": "Un vuelo internacional",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Un vuelo internacional"
+        },
+        {
+            "type": "Media",
+            "url": "./images/398.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

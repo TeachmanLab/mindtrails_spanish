@@ -1,16 +1,10 @@
 {
-    "header_text": "Obtener una oportunidad",
+    "header_text": "Recordatorio de favoritos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Obtener una oportunidad"
-        },
-        {
-            "type": "Media",
-            "url": "./images/14.jpg"
+            "text": "Recuerde que puede agregar historias, consejos y recursos a sus Favoritos haciendo clic en la estrella en la esquina superior derecha de la pantalla."
         }
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 0
+    ]
 }

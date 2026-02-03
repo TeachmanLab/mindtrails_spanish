@@ -1,17 +1,15 @@
 {
-    "header_text": "Haciendo una buena impresión",
+    "header_text": "Ejercicio de limón",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Nunca has conocido a los colegas de tu pareja. Tu pareja te acaba de decir que te han invitado a cenar esta noche, y menciona que pueden ser críticos. Cuando piensas en conocer a sus colegas, tu ansiedad es...  "
+            "text": "Realmente trate de imaginarse a sí mismo en las situaciones que se avecinan de la manera más vívida posible."
         },
         {
-            "type": "Entry",
-            "name": "Haciendo una buena impresión_Vida Familiar y Doméstica_entry1"
+            "type": "Media",
+            "url": "./images/lemon3.jpg",
+            "border": false
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 0
+    ]
 }

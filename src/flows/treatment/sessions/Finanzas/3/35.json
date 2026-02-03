@@ -1,0 +1,16 @@
+{
+    "header_text": "Iniciando un negocio pequeño",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Iniciando un negocio pequeño"
+        },
+        {
+            "type": "Media",
+            "url": "./images/81.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

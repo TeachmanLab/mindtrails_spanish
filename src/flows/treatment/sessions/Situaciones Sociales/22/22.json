@@ -1,25 +1,29 @@
 {
-    "header_text": "Problemas de amigos",
+    "header_text": "Pedido de un niño",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo va a tener una reunión de amigos esta noche. A ti no te invitó, pero a la mayoría de tus amigos sí. Cuando lo piensas, esto te hace sentir... "
+            "text": "¿Es peligroso ir a un parque en un vecindario diferente?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Problemas de amigos_Situaciones Sociales_puzzle1",
+            "type": "Buttons",
+            "name": "Pedido de un niño_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "excluido"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 6
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

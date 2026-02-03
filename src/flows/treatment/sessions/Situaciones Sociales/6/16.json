@@ -1,14 +1,25 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Vidrio roto:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en una situación en la que te encantaría estar, pero tienes demasiado miedo o ansiedad para ponerte en ella, aunque pueda llevar al crecimiento personal. ¿Qué estrategias podrías poner en práctica para ayudarte a llegar allí?"
+            "text": "Estás en un restaurante tranquilo con muchos miembros de tu familia para cenar. Mientras tomas un trago de agua, accidentalmente tiras el vaso al suelo y se rompe.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #10_entry"
+            "type": "TimedText",
+            "texts": [
+                "Mi ropa está empapada, pero puedo ir al baño a secarla.",
+                "Estoy seguro de que esta no es la primera vez que este restaurante tiene que lidiar con un vaso roto.",
+                "Soy una persona muy descuidada.",
+                "El camarero está molesto, pero probablemente superará ese sentimiento pronto.",
+                "Pienso en cómo puedo ayudar a limpiar esto."
+            ],
+            "Duration": 15000
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
     ]
 }

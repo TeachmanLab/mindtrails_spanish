@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Finanzas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Si te enfrentas dificultades financieras, date un paso atrás y trata de identificar sobre qué tienes control (y sobre qué no). Por ejemplo, puedes crear un presupuesto y realizar un seguimiento de tus gastos en el futuro, aunque es posible que no puedas devolver algo que ya compraste."
+        }
+    ]
+}

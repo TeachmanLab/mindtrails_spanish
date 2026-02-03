@@ -1,16 +1,16 @@
 {
-    "header_text": "Vacaciones reprogramadas",
+    "header_text": "El malestar de estómago",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vacaciones reprogramadas"
+            "text": "El malestar de estómago"
         },
         {
             "type": "Media",
-            "url": "./images/449.jpg"
+            "url": "./images/446.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 4
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

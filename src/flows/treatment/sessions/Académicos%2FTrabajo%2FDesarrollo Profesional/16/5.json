@@ -1,25 +1,22 @@
 {
-    "header_text": "Haciendo lo mejor que puedas:Pensamientos",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vas a presentar tu progreso en un proyecto a tu jefe la próxima semana. Tu vida personal ha sido agitada últimamente y no has tenido mucho tiempo para dedicarle al proyecto, lo que te deja con menos actualizaciones que informar de lo habitual.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Describe la situación en pocas palabras:"
         },
         {
-            "type": "TimedText",
-            "texts": [
-                "Me da pereza no trabajar más.",
-                "Soy un buen empleado.",
-                "Haré lo mejor que pueda para progresar la próxima semana.",
-                "Incluso si obtengo un mal desempeño en un informe de progreso, eso no significa que perderé mi trabajo.",
-                "Puede que mi jefe no esté impresionado con mi progreso, pero puedo avanzar más la próxima vez."
-            ],
-            "Duration": 15000
+            "type": "Entry",
+            "name": "entry_anxious_imagery"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
     ]
 }

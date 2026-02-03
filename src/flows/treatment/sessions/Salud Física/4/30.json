@@ -1,16 +1,25 @@
 {
-    "header_text": "Pensamientos en la estación de tren",
+    "header_text": "Preocupaciones por el ritmo cardíaco",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Pensamientos en la estación de tren"
+            "text": "Cuando el evento se vuelve más ruidoso a medida que llega más gente, consideras irte, pero decides que puedes manejar estos sentimientos y seguir..."
         },
         {
-            "type": "Media",
-            "url": "./images/399.jpg"
+            "type": "WordPuzzle",
+            "name": "Preocupaciones por el ritmo cardíaco_Salud Física_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "socializando"
+            ],
+            "missing_letter_count": 2
         }
     ],
-    "type": "positive",
-    "scenario_num": 9
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

@@ -1,39 +1,25 @@
 {
-    "header_text": "Redes sociales",
+    "header_text": "Un estilo diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Puedes manejar que a veces tus amigos pasan tiempo sin ti?"
+            "text": "Compras un traje nuevo, que es muy diferente a tu estilo habitual de ropa. Te lo pruebas para mostrarlo a tu amigo. Cuando te ve, hace una pausa. Luego comenta que te hace lucir..."
         },
         {
-            "type": "Buttons",
-            "name": "Redes sociales_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Un estilo diferente_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "bien"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Al igual que un músculo, tu cerebro fortalece las vías que más utiliza. Por eso practicar muchas situaciones te ayuda a cambiar tus hábitos de pensamiento."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 1
 }

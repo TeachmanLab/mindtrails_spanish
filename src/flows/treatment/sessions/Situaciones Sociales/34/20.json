@@ -1,16 +1,29 @@
 {
-    "header_text": "Almuerzo con un amigo",
+    "header_text": "Recuerdo conduciendo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Almuerzo con un amigo"
+            "text": "Cuando te sientes desorientado, es útil..."
         },
         {
-            "type": "Media",
-            "url": "./images/547.jpg"
+            "type": "Buttons",
+            "name": "Recuerdo conduciendo_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Ponerte ansioso por sentirte desorientado.",
+                "simplemente observar y aceptar los sentimientos."
+            ],
+            "column_Count": 1,
+            "correct_value": "simplemente observar y aceptar los sentimientos."
         }
     ],
-    "type": "positive",
-    "scenario_num": 6
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

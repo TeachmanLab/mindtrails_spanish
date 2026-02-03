@@ -1,0 +1,16 @@
+{
+    "header_text": "Exposure Guilt",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Exposure Guilt"
+        },
+        {
+            "type": "Media",
+            "url": "./images/451.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

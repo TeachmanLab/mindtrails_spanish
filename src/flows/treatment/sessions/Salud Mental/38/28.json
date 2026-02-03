@@ -1,0 +1,16 @@
+{
+    "header_text": "Vaso de agua",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Vaso de agua"
+        },
+        {
+            "type": "Media",
+            "url": "./images/198.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
+}

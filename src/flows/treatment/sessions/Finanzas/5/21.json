@@ -1,16 +1,25 @@
 {
-    "header_text": "Decidiendo algo",
+    "header_text": "Costear los gastos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Decidiendo algo"
+            "text": "Pensando en tu capacidad para hacer el pago, no esperas atrasarte en el pago del alquiler y tus fondos serán... "
         },
         {
-            "type": "Media",
-            "url": "./images/247.jpg"
+            "type": "WordPuzzle",
+            "name": "Costear los gastos_Finanzas_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "suficientes"
+            ],
+            "missing_letter_count": 2
         }
     ],
-    "type": "positive",
-    "scenario_num": 6
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

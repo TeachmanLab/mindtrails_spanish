@@ -1,17 +1,15 @@
 {
-    "header_text": "Compartir las tradiciones familiares",
+    "header_text": "Ejercicio de limón",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu familia tiene tradiciones que tus compañeros de trabajo no comparten. Hoy en el trabajo, todos están hablando sobre las tradiciones importantes de sus familias. Mientras te preparas para contribuir a la conversación, te sientes... "
+            "text": "Realmente trate de imaginarse a sí mismo en las situaciones que se avecinan de la manera más vívida posible."
         },
         {
-            "type": "Entry",
-            "name": "Compartir las tradiciones familiares_Vida Familiar y Doméstica_entry1"
+            "type": "Media",
+            "url": "./images/lemon3.jpg",
+            "border": false
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 0
+    ]
 }

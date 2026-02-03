@@ -1,16 +1,25 @@
 {
-    "header_text": "Yendo a dormir",
+    "header_text": "Un golpe accidental",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Yendo a dormir"
+            "text": "Una noche, estás subiendo las escaleras y por accidente golpeas tu cabeza contra un techo bajo. Por la mañana siguiente, el dolor de cabeza todavía está presente ligeramente, y te preguntas qué has hecho. Ya por la hora del almuerzo, el dolor ha..."
         },
         {
-            "type": "Media",
-            "url": "./images/426.jpg"
+            "type": "WordPuzzle",
+            "name": "Un golpe accidental_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "disminuido"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "positive",
-    "scenario_num": 9
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 5
 }

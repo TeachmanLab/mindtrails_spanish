@@ -1,16 +1,29 @@
 {
-    "header_text": "Visitar a un nuevo amigo",
+    "header_text": "Mantener a la familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Visitar a un nuevo amigo"
+            "text": "Cuando piensas en hablar con tus hijos sobre su educación, te imaginas diciéndoles:"
         },
         {
-            "type": "Media",
-            "url": "./images/259.jpg"
+            "type": "Buttons",
+            "name": "Mantener a la familia_Finanzas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "\"No creo que podamos permitirnos enviarte a esa escuela\".",
+                "\"Te ayudaré a ir a una buena escuela\"."
+            ],
+            "column_Count": 1,
+            "correct_value": "\"No creo que podamos permitirnos enviarte a esa escuela\"."
         }
     ],
-    "type": "positive",
-    "scenario_num": 7
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 3
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Hablando sobre televisión",
+    "header_text": "Tensión familiar",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hablando sobre televisión"
+            "text": "Tensión familiar"
         },
         {
             "type": "Media",
-            "url": "./images/346.jpg"
+            "url": "./images/151.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 6
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

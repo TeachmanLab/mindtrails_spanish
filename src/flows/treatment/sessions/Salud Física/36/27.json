@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Consejos Para Madres Embarazadas\n\nEste PDF ofrece información para madres embarazadas y describe cosas importantes que necesitan saber para un embarazo saludable."
+        }
+    ]
+}

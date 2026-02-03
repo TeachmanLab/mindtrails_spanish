@@ -1,0 +1,16 @@
+{
+    "header_text": "Planes de descanso",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Planes de descanso"
+        },
+        {
+            "type": "Media",
+            "url": "./images/307.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

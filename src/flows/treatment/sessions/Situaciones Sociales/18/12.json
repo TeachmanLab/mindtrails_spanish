@@ -1,25 +1,16 @@
 {
-    "header_text": "No recibir una invitación",
+    "header_text": "El escaparate de danza",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo va a tener una reunión de amigos esta noche. A ti no te invitó, pero a la mayoría de tus amigos sí. Cuando lo piensas, te das cuenta de que es porque estás... "
+            "text": "El escaparate de danza"
         },
         {
-            "type": "WordPuzzle",
-            "name": "No recibir una invitación_Situaciones Sociales_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "ocupado"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/500.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

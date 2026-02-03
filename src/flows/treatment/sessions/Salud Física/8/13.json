@@ -1,16 +1,16 @@
 {
-    "header_text": "Corriendo una maratón",
+    "header_text": "Recuperando el aliento",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Corriendo una maratón"
+            "text": "Recuperando el aliento"
         },
         {
             "type": "Media",
-            "url": "./images/417.jpg"
+            "url": "./images/410.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 0
 }

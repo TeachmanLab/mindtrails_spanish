@@ -1,30 +1,30 @@
 {
-    "header_text": "Ruidos del exterior",
+    "header_text": "Llamada telefónica del lunes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Ruidos del exterior"
+            "text": "¿Tus padres no pueden hablar porque están enfermos?"
         },
         {
-            "type": "Media",
-            "url": "./images/145.jpg"
+            "type": "Buttons",
+            "name": "Llamada telefónica del lunes_Vida Familiar y Doméstica_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Sí"
+            ],
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 8,
-    "information": {
-        "elements": [
-            {
-                "type": "media",
-                "url": "./images/601.jpg"
-            },
-            {
-                "type": "text",
-                "text": "Un consejo: recuerda, cuando te sientas ansioso la sensación no durará para siempre."
-            }
-        ],
-        "position": "before",
-        "information_count": 1
-    }
+    "scenario_num": 4,
+    "information": null
 }

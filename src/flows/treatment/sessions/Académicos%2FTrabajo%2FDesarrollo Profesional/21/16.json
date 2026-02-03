@@ -1,14 +1,25 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Trabajar en grupos:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en una situación próxima que quieras evitar porque te pone ansioso. ¿Cómo puedes pensarlo de manera diferente para que se sienta menos aterrador? "
+            "text": "Tu jefe les dice a todos que mañana los dividirá en pequeños grupos para planificar nuevos proyectos de trabajo. También dice que tendrás que elegir tu grupo, pero te das cuenta de que no tienes amigos cercanos en tu lugar de trabajo.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #9_entry"
+            "type": "TimedText",
+            "texts": [
+                "Podría hacer un comentario que el grupo considere tonto, pero probablemente olvidarán lo que dije después de la discusión.",
+                "La gente estará feliz de trabajar conmigo.",
+                "Terminaré en un grupo de alguna manera y estará bien, incluso si no es mi primera opción.",
+                "Todos elegirán su grupo antes de que yo llegue y no podré encontrar un grupo.",
+                "Haré buenas contribuciones a la discusión del grupo."
+            ],
+            "Duration": 15000
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
     ]
 }

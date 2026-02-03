@@ -1,16 +1,16 @@
 {
-    "header_text": "Atascado en el medio",
+    "header_text": "Expresándote",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Atascado en el medio"
+            "text": "Expresándote"
         },
         {
             "type": "Media",
-            "url": "./images/135.jpg"
+            "url": "./images/75.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 0
 }

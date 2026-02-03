@@ -1,23 +1,23 @@
 {
-    "header_text": "Tomar un descanso",
+    "header_text": "Mostrar tu experiencia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Deberías hacer tu trabajo ahora mismo?"
+            "text": "Es probable que tu supervisor te haya encontrado..."
         },
         {
             "type": "Buttons",
-            "name": "Tomar un descanso_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Mostrar tu experiencia_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Eficaz.",
+                "Sin preparación y deficiente."
             ],
             "column_Count": 1,
-            "correct_value": "No"
+            "correct_value": "Eficaz."
         }
     ],
     "navigation_conditions": [
@@ -25,5 +25,5 @@
         "wait_for_click"
     ],
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

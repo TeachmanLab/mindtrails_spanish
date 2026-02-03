@@ -1,39 +1,16 @@
 {
-    "header_text": "Asistiendo a un espectáculo",
+    "header_text": "Equilibrio entre trabajo y estudios",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Está bien gastar plata en las entradas?"
+            "text": "Equilibrio entre trabajo y estudios"
         },
         {
-            "type": "Buttons",
-            "name": "Asistiendo a un espectáculo_Finanzas_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "type": "Media",
+            "url": "./images/264.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "A veces, las situaciones no son sólo buenas o malas. ¡Las situaciones neutrales nos recuerdan que está bien abrazar la zona gris!"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 1
 }

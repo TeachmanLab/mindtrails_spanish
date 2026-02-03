@@ -1,30 +1,39 @@
 {
-    "header_text": "Visitando familia",
+    "header_text": "Salud y envejecimiento",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Visitando familia"
+            "text": "Tu amigo probablemente ..."
         },
         {
-            "type": "Media",
-            "url": "./images/133.jpg"
+            "type": "Buttons",
+            "name": "Salud y envejecimiento_Vida Familiar y Doméstica_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Se mantendrá saludable en el futuro.",
+                "Se enfermará más en el futuro."
+            ],
+            "column_Count": 1,
+            "correct_value": "Se enfermará más en el futuro."
         }
     ],
-    "type": "positive",
-    "scenario_num": 6,
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 2,
     "information": {
         "elements": [
             {
-                "type": "media",
-                "url": "./images/597.jpg"
-            },
-            {
                 "type": "text",
-                "text": "Un consejo: Trata de imaginarte diferentes formas de responder a cada escenario."
+                "text": "En el mundo real, a veces las cosas no van bien. ¡Es importante tener algunas historias que terminen negativamente para enseñarte a manejar tu ansiedad cuando surgen situaciones negativas!"
             }
         ],
-        "position": "before",
+        "position": "after",
         "information_count": 1
     }
 }

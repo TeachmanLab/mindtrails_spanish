@@ -1,16 +1,16 @@
 {
-    "header_text": "Aplicaciones de citas",
+    "header_text": "Mensajes en redes sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Aplicaciones de citas"
+            "text": "Mensajes en redes sociales"
         },
         {
             "type": "Media",
-            "url": "./images/226.jpg"
+            "url": "./images/223.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 6
+    "type": "negative",
+    "scenario_num": 1
 }

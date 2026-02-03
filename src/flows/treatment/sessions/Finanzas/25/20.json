@@ -1,16 +1,17 @@
 {
-    "header_text": "Planes divertidos",
+    "header_text": "Dar regalos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Planes divertidos"
+            "text": "Los cumpleaños de tus hijos se acercan, y quieres mostrarles cuánto los aprecias a través de regalos. Sin embargo, te preocupa si podrás pagar los regalos que crees que merecen. Cuando piensas en sus cumpleaños, crees que estarán felices con algo...  "
         },
         {
-            "type": "Media",
-            "url": "./images/248.jpg"
+            "type": "Entry",
+            "name": "Dar regalos_Finanzas_entry1"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 8
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
 }

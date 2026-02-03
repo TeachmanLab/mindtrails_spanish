@@ -1,16 +1,16 @@
 {
-    "header_text": "Probando comidas nuevas",
+    "header_text": "Revisando tu trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Probando comidas nuevas"
+            "text": "Revisando tu trabajo"
         },
         {
             "type": "Media",
-            "url": "./images/329.jpg"
+            "url": "./images/49.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 0
 }

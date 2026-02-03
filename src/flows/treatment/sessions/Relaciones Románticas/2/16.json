@@ -1,30 +1,26 @@
 {
-    "header_text": "Salud Mental",
+    "header_text": "Decepción de aniversario",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Puedes ayudadr a tu pareja?"
+            "text": "Decepción de aniversario"
         },
         {
-            "type": "Buttons",
-            "name": "Salud Mental_Relaciones Románticas_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "type": "Media",
+            "url": "./images/185.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 4,
-    "information": null
+    "scenario_num": 1,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Recuerda responder a esta pregunta basándote en el final de la historia que acabas de leer, no en cómo crees que terminaría. ¡Esto ayudará a reforzar un pensamiento más flexible!"
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

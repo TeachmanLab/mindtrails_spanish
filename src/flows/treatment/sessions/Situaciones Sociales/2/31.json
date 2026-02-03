@@ -1,25 +1,16 @@
 {
-    "header_text": "Tu nueva publicación",
+    "header_text": "Sentirse diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Acabas de publicar una nueva foto hace una hora. Cuando compruebas el número de personas que le han \"gustado\" tu foto, ves que a nadie le ha gustado todavía. Es tarde por la noche, lo que significa que todos están..."
+            "text": "Sentirse diferente"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Tu nueva publicación_Situaciones Sociales_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "durmiendo"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/97.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 6
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Opiniones opuestas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Opiniones opuestas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/155.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

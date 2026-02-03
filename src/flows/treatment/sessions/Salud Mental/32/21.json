@@ -1,25 +1,29 @@
 {
-    "header_text": "Participación en las redes sociales",
+    "header_text": "Resultados de análisis de sangre",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Publicas una foto tuya en las redes sociales en la que sientes que te ves muy bien. Después de un par de días, ves que has recibido muy pocos me gusta y comentarios. Todavía te sientes seguro con la foto, a pesar de la poca interacción en las redes..."
+            "text": "¿Tus nervios son insoportables mientras esperas tus resultados?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Participación en las redes sociales_Salud Mental_puzzle1",
+            "type": "Buttons",
+            "name": "Resultados de análisis de sangre_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "sociales"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 2
 }

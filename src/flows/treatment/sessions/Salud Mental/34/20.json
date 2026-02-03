@@ -1,14 +1,14 @@
 {
-    "header_text": "Amigos en las relaciones",
+    "header_text": "Una invitación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Eres capaz de estar en una relación?"
+            "text": "¿Estás contento de que tu supervisor asista al evento de tu escuela?"
         },
         {
             "type": "Buttons",
-            "name": "Amigos en las relaciones_Salud Mental_comp_question",
+            "name": "Una invitación_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
@@ -24,6 +24,6 @@
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 2
 }

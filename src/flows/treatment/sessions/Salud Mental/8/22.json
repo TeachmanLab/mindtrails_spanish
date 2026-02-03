@@ -1,16 +1,16 @@
 {
-    "header_text": "Lograr tus objetivos",
+    "header_text": "Revisando tu trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Lograr tus objetivos"
+            "text": "Revisando tu trabajo"
         },
         {
             "type": "Media",
-            "url": "./images/71.jpg"
+            "url": "./images/49.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 9
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

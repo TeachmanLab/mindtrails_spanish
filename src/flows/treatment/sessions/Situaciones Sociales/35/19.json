@@ -1,25 +1,29 @@
 {
-    "header_text": "Una audiencia captada",
+    "header_text": "Un corte de pelo diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes que dar una presentación a un grupo de colegas de trabajo que conoces bien. Todos están callados durante tu presentación. Mientras lo piensas más tarde en casa, crees que tus colegas encontraron tu presentación..."
+            "text": "¿A tu amigo le gusta tu nuevo corte de pelo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Una audiencia captada_Situaciones Sociales_puzzle1",
+            "type": "Buttons",
+            "name": "Un corte de pelo diferente_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "interesante"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 1
 }

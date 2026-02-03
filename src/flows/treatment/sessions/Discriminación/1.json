@@ -1,11 +1,20 @@
 {
-    "header_text": "Discriminación ",
+    "header_text": "Registro previo a la sesión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Lamentamos mucho que estés experimentando estrés debido a la discriminación o la marginación. Reconocemos que las personas tienen diferentes necesidades después de tales experiencias, por lo que queremos ofrecerte una serie de herramientas para ayudarte en este momento.",
-            "html": true
+            "text": "En este momento me siento...\n\n1 = Muy mal/negativo\n\n7 = Muy bien/positivo"
+        },
+        {
+            "type": "Slider",
+            "min": "1",
+            "max": "7",
+            "others": [
+                "^Prefiero no responder"
+            ],
+            "name": "pre-EMA",
+            "variable_name": "StressLevel"
         }
     ]
 }

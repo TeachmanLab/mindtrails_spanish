@@ -1,0 +1,17 @@
+{
+    "header_text": "Solicitar una subvención",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Quieres iniciar un nuevo proyecto de investigación en tu laboratorio, por lo que has solicitado una subvención de financiación. Sin esta financiación, no podrás llevar a cabo la investigación que esperas realizar, pero no estás seguro de si tu propuesta es lo suficientemente buena. Crees que no obtendrás la..."
+        },
+        {
+            "type": "Entry",
+            "name": "Solicitar una subvención_Salud Mental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 7
+}

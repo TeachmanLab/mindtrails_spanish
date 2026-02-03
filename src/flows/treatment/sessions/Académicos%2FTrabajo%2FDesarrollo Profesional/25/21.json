@@ -1,16 +1,17 @@
 {
-    "header_text": "No invitado a cenar",
+    "header_text": "Opiniones fuertes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "No invitado a cenar"
+            "text": "Ha llegado la mañana de tu primera evaluación con tu nuevo jefe. Te dice que tiene opiniones firmes sobre tu trabajo. Piensas que probablemente encuentran tu trabajo..."
         },
         {
-            "type": "Media",
-            "url": "./images/15.jpg"
+            "type": "Entry",
+            "name": "Opiniones fuertes_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 3
 }

@@ -1,29 +1,25 @@
 {
-    "header_text": "Revisando tu trabajo",
+    "header_text": "Clima lluvioso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Crees que durante tu evaluación de desempeño, es probable que su jefe diga..."
+            "text": "Te despiertas, miras por la ventana y ves que afuera está lluvioso y sombrío. Te quedas dentro todo el día y, al recordarlo después, te das cuenta de que la mayor parte del tiempo te sentiste triste por ello. Decides que probablemente fue porque no pudiste..."
         },
         {
-            "type": "Buttons",
-            "name": "Revisando tu trabajo_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Clima lluvioso_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "\"¡Estos errores son simplemente inaceptables en este momento!\"",
-                "\"Todavía estoy muy contento con el trabajo que has estado haciendo\"."
+            "display_delay": 2000,
+            "words": [
+                "salir"
             ],
-            "column_Count": 1,
-            "correct_value": "\"¡Estos errores son simplemente inaceptables en este momento!\""
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 8
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
 }

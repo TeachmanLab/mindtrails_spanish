@@ -1,17 +1,27 @@
 {
-    "header_text": "Gestión de crédito",
+    "header_text": "Permitirse la educación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Al pensar en lo que harías con la tarjeta de crédito, no te imaginas que de repente gastarás imprudentemente, y piensas que probablemente gastarías el dinero... "
+            "text": "Al imaginarte a ti mismo en la jubilación, no te imaginas atormentado por las deudas y crees que tus préstamos serán... "
         },
         {
             "type": "Entry",
-            "name": "Gestión de crédito_Finanzas_entry2"
+            "name": "Permitirse la educación_Finanzas_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 9
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Al igual que un músculo, tu cerebro fortalece las vías que más utiliza. Por eso practicar muchas situaciones te ayuda a cambiar tus hábitos de pensamiento."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

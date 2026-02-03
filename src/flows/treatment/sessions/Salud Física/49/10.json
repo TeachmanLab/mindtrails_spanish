@@ -1,25 +1,31 @@
 {
-    "header_text": "Mascarillas con piel sensible",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Después de pensarlo, te das cuenta de que tiendes a notar aspectos de ti mismo que los demás no notan. Te sientes bien al proteger a las personas al usar tu..."
+            "text": "¿Qué probabilidades hay de que la situación o tarea salga bien o mal?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Mascarillas con piel sensible_Salud Física_puzzle_word2",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "máscara"
+            "type": "Buttons",
+            "buttons": [
+                "Es muy probable que salga bien",
+                "Es algo probable que salga bien",
+                "Neutral",
+                "Es algo probable que salga mal",
+                "Es muy probable que salga mal",
+                "Prefiero no responder"
             ],
-            "missing_letter_count": 2
+            "selectable": true,
+            "name": "imagery_well"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 2
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

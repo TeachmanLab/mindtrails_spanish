@@ -1,10 +1,17 @@
 {
-    "header_text": "Maneja tus sentimientos: Finanzas",
+    "header_text": "Pagando facturas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Dedica unos momentos a centrarte en las cosas que te sientes afortunado de tener."
+            "text": "Tienes que pagar el alquiler del próximo mes pronto. Has estado bajo estrés financiero últimamente y no estás seguro de si tienes suficiente dinero para hacer el pago del alquiler. Piensas que hacer un plan para pagar tu alquiler a tiempo será..."
+        },
+        {
+            "type": "Entry",
+            "name": "Pagando facturas_Finanzas_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
 }

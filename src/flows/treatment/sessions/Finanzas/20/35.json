@@ -1,0 +1,16 @@
+{
+    "header_text": "Comprando ropa nueva",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Comprando ropa nueva"
+        },
+        {
+            "type": "Media",
+            "url": "./images/292.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

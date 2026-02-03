@@ -1,16 +1,16 @@
 {
-    "header_text": "Ruidos del exterior",
+    "header_text": "Decisiones de viaje",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Ruidos del exterior"
+            "text": "Decisiones de viaje"
         },
         {
             "type": "Media",
-            "url": "./images/145.jpg"
+            "url": "./images/130.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 4
 }

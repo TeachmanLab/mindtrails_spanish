@@ -1,0 +1,16 @@
+{
+    "header_text": "Sintiéndote ansioso",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sintiéndote ansioso"
+        },
+        {
+            "type": "Media",
+            "url": "./images/11.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

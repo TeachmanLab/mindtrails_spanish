@@ -1,29 +1,16 @@
 {
-    "header_text": "Probando comidas diferentes",
+    "header_text": "Recuerdo conduciendo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Deberías evitar probar nuevas comidas porque tus colegas no lo están ordenando?"
+            "text": "Recuerdo conduciendo"
         },
         {
-            "type": "Buttons",
-            "name": "Probando comidas diferentes_Salud Mental_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/324.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 7
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

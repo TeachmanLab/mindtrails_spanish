@@ -1,25 +1,16 @@
 {
-    "header_text": "Permitirse la educación",
+    "header_text": "Lecciones Aprendidas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus hijos están pensando en ir a la universidad, pero piensas que tendrías que pedir un préstamo para ayudarlos a ir. Recuerdas historias que has escuchado de personas que todavía estaban pagando sus préstamos incluso después de jubilarse.  Imaginándote a ti mismo en la jubilación, piensas que tus préstamos estarán... "
+            "Text": "¡Excelente trabajo! ¡Estás progresando mucho al probar nuevas perspectivas relacionadas con las finanzas! Tómate unos minutos para reflexionar sobre los cuentos cortos que has leído hasta ahora. ¿Qué has aprendido? ¿Cuáles son tus principales conclusiones? Por ejemplo, podrías notar que hay muchas formas diferentes de abordar los desafíos financieros para hacer que se sientan más manejables."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Permitirse la educación_Finanzas_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "pagados"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "lessons_learned_Finanzas_0"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

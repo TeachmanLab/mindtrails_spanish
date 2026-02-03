@@ -1,0 +1,17 @@
+{
+    "header_text": "El curso difícil",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Al imaginar cómo te irá en el programa, no te ves fracasando, sino que crees que tus esfuerzos por aprender algunas habilidades de ciencia de datos tendrán..."
+        },
+        {
+            "type": "Entry",
+            "name": "El curso difícil_Académicos/Trabajo/Desarrollo Profesional_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 9
+}

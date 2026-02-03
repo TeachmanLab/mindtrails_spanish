@@ -1,17 +1,16 @@
 {
-    "header_text": "Serpientes venenosas",
+    "header_text": "Pánico de una presentación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo te convence a dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque y comienzas a sentirte preocupado. Piensas que las posibilidades de ver ese tipo de serpiente son..."
+            "text": "Pánico de una presentación"
         },
         {
-            "type": "Entry",
-            "name": "Serpientes venenosas_Salud Física_entry1"
+            "type": "Media",
+            "url": "./images/46.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 5
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Acepta las emociones que tienes en lugar de juzgarte por tenerlas."
+        }
+    ]
+}

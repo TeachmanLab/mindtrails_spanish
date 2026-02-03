@@ -1,29 +1,25 @@
 {
-    "header_text": "Comprometerse con las actividades",
+    "header_text": "Tu primer hijo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Puedes manejar tus responsabilidades?"
+            "text": "Acabas de tener tu primer hijo. Quieres tener una buena relación durante toda la vida de tu hijo, pero te preocupa cometer errores como padre. Cuando tu hijo sea adulto, crees que la relación será..."
         },
         {
-            "type": "Buttons",
-            "name": "Comprometerse con las actividades_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Tu primer hijo_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "fuerte"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 4
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 1
 }

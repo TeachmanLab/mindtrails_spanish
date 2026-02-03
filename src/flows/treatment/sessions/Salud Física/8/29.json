@@ -1,0 +1,16 @@
+{
+    "header_text": "Subiendo escaleras",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Subiendo escaleras"
+        },
+        {
+            "type": "Media",
+            "url": "./images/419.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

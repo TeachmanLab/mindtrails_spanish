@@ -1,17 +1,16 @@
 {
-    "header_text": "Cena con amigos",
+    "header_text": "Ahorro para reparaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus amigos te invitan a cenar con ellos. Te das cuenta de que salir a cenar podría hacer que sobrepases tu presupuesto para la cena. Declinas la invitación y piensas que tus amigos lo..."
+            "text": "Ahorro para reparaciones"
         },
         {
-            "type": "Entry",
-            "name": "Cena con amigos_Finanzas_entry1"
+            "type": "Media",
+            "url": "./images/304.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 2
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Conversación con un desconocido",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Conversación con un desconocido"
+        },
+        {
+            "type": "Media",
+            "url": "./images/484.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

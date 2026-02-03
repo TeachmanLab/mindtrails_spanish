@@ -1,25 +1,29 @@
 {
-    "header_text": "Encontrando equilibrio",
+    "header_text": "Un sonido fuerte",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En casa, tienes muchos quehaceres que se tienen que completar. Tambien tienes una semana ocupada en al trabajo que te demandará mucho tiempo. Mantener equilibrio entre tu vida personal y del trabajo es...   "
+            "text": "¿Deberías tener miedo cuando escuchas un ruido por la noche?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Encontrando equilibrio_Vida Familiar y Doméstica_puzzle1",
+            "type": "Buttons",
+            "name": "Un sonido fuerte_Vida Familiar y Doméstica_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "estresante"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

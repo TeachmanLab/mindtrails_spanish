@@ -1,39 +1,25 @@
 {
-    "header_text": "Corriendo una maratón",
+    "header_text": "Miedo al COVID",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas que si te apuntas a una maratón, el día de la carrera es probable que..."
+            "text": "Tu amigo ha estado tosiendo durante unos días y cuando le pides que vaya al doctor, se niega, diciendo que no debería estar enfermo porque no estuvo expuesto a ninguna enfermedad. Quieres hablar con él al respecto y entender su perspectiva, pero te preocupa cómo..."
         },
         {
-            "type": "Buttons",
-            "name": "Corriendo una maratón_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Miedo al COVID_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Colapsaras antes de cruzar la línea de meta.",
-                "Te sentirás orgulloso de haber logrado para lo que entrenaste."
+            "display_delay": 2000,
+            "words": [
+                "reaccionará"
             ],
-            "column_Count": 1,
-            "correct_value": "Colapsaras antes de cruzar la línea de meta."
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "MindTrails te brinda el coraje para enfrentar situaciones inciertas, brindándote la confianza para abordarlas en la vida real."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

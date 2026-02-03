@@ -1,10 +1,12 @@
 {
-    "header_text": "Recurso: Situaciones Sociales",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "¡Escribe el tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Sobre Conversaciones Interseccionales - The Trevor Project\n\nEste PDF hecho por Trevor Project informa sobre la importancia de conversaciones interseccionales y cómo la identidad queer/cuir se conecta a la identidad racial y étnica."
+            "text": "Ten en cuenta que cada historia tiene aproximadamente 3 oraciones. La primera parte debería plantear una situación desafiante que podría generar cierta ansiedad en la que no está claro cuál será el resultado de la situación. La parte final debería resolver la incertidumbre de forma positiva o no amenazante. En otras palabras, la última frase debería dejar claro que la situación no resulta al final inmanejable."
         }
     ]
 }

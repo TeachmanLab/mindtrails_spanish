@@ -1,17 +1,17 @@
 {
-    "header_text": "Vaso de agua",
+    "header_text": "Zambullirte",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras estás en una cita, accidentalmente derramas un vaso de agua. Te sientes ligeramente avergonzado mientras tu cita te ayuda a limpiar el agua. Cuando todo está seco, sientes que el resto de la cita probablemente saldrá..."
+            "text": "Estás en la piscina local. Está llena y te das cuenta de que mucha gente podrá verte en traje de baño. Piensas en esto y te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Vaso de agua_Salud Mental_entry1"
+            "name": "Zambullirte_Salud Mental_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 7
+    "scenario_num": 2
 }

@@ -1,25 +1,16 @@
 {
-    "header_text": "Un malentendido",
+    "header_text": "Tomando una llamada",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Decides enviar un correo electrónico a tu departamento promocionando algo importante para ti. Alguien responde de manera grosera porque malinterpretó lo que escribiste. Te preguntas qué piensa esta persona sobre ti y te sientes..."
+            "text": "Tomando una llamada"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Un malentendido_Situaciones Sociales_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "preocupado"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/522.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 6
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

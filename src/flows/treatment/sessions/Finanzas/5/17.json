@@ -1,39 +1,25 @@
 {
-    "header_text": "Pago de reparaciones",
+    "header_text": "Iniciando un negocio pequeño",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te declararás en bancarrota después de pagar las reparaciones del coche?"
+            "text": "Estás considerando dejar tu trabajo para comenzar tu propio pequeño negocio y estás listo para trabajar duro. Estás emocionado, pero también sabes que muchos nuevos emprendimientos pueden fracasar. Pensando en el futuro de tu negocio, crees que será..."
         },
         {
-            "type": "Buttons",
-            "name": "Pago de reparaciones_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Iniciando un negocio pequeño_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "rentable"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "A veces, las situaciones no son sólo buenas o malas. ¡Las situaciones neutrales nos recuerdan que está bien abrazar la zona gris!"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 1
 }

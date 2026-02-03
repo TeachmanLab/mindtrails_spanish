@@ -1,16 +1,17 @@
 {
-    "header_text": "Sensaciones desconocidas",
+    "header_text": "Problemas de visión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Sensaciones desconocidas"
+            "text": "Cuando te despiertas por la mañana, te sientas rápidamente. Tu visión se vuelve borrosa y luego todo se pone negro por un momento. Tu visión regresa después de ese momento y te convences de que no te estás quedando..."
         },
         {
-            "type": "Media",
-            "url": "./images/425.jpg"
+            "type": "Entry",
+            "name": "Problemas de visión_Salud Física_entry1"
         }
     ],
-    "type": "positive",
-    "scenario_num": 6
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

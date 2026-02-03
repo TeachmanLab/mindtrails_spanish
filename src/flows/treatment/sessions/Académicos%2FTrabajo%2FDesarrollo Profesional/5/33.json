@@ -1,10 +1,25 @@
 {
-    "header_text": "Recurso: Académicos/Trabajo/Desarrollo Profesional",
+    "header_text": "Correo electrónico importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Career One Stop\n\nCareer One Stop es una fuente de la exploración de la carrera, capacitación y empleo. Ofrece recursos informativos sobre el empleo para personas con experiencias y edades diversas, y tiene directorios para buscar ayuda local y empleo. También tiene un portal de reempleo del trabajador que incluye información estatal, capacitaciones, ayuda con la búsqueda de empleo, y más beneficios."
+            "text": "Hoy recibirás un correo electrónico que te informará si recibiste un ascenso. Tienes algunas horas para esperar hasta recibir el correo. Cuando piensas en esperar tanto tiempo, te sientes..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Correo electrónico importante_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "miserable"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 6
 }

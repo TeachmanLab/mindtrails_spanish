@@ -1,17 +1,17 @@
 {
-    "header_text": "Permitirse un viaje",
+    "header_text": "Tratar a un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu hijo realmente quiere ir a un parque temático de vacaciones este año. Has estado investigando el costo del viaje, y no crees que puedas pagarlo. Piensas que puedes encontrar un viaje alternativo que tu hijo todavía... "
+            "text": "Tu amigo te ha estado apoyando en un momento difícil y estás realmente agradecido por su apoyo. Quieres darle las gracias tratándolo a cenar, pero no tienes suficiente dinero para llevarlos a un restaurante. Decides hacerles una cena casera y piensas que estará... "
         },
         {
             "type": "Entry",
-            "name": "Permitirse un viaje_Finanzas_entry1"
+            "name": "Tratar a un amigo_Finanzas_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 4
 }

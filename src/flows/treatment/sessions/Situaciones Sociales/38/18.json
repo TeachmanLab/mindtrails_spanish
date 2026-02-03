@@ -1,17 +1,17 @@
 {
-    "header_text": "Saludando a alguien",
+    "header_text": "Probando un dicho divertido",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras estás caminando, ves a un vecino al que no conoces bien. Decides saludarlo de pasada, pero luego te preguntas si en realidad molestaste al vecino. Mientras sigues caminando, crees que piensan que eres..."
+            "text": "Estás intentando pensar en un cierre para un correo que enviarás a tus compañeros de trabajo. Se te ocurre un chiste que a tus amigos más cercanos les encantará. Tus compañeros de trabajo lo encontrarán..."
         },
         {
             "type": "Entry",
-            "name": "Saludando a alguien_Situaciones Sociales_entry1"
+            "name": "Probando un dicho divertido_Situaciones Sociales_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 2
 }

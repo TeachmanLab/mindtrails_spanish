@@ -1,10 +1,29 @@
 {
-    "header_text": "Recurso: Relaciones Románticas",
+    "header_text": "Anticipando una cita",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Encuentro Latino: National Institute on Family Violence\n\nEncuentro Latino proporciona información acerca de derechos de sobrevivientes de abuso y violencia y también ofrece folletos y presentaciones acerca de los efectos de la violencia reconociendo las barreras y diferencias culturales."
+            "text": "¿Te asusta sentirte nervioso?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Anticipando una cita_Relaciones Románticas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "column_Count": 1,
+            "correct_value": "No"
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

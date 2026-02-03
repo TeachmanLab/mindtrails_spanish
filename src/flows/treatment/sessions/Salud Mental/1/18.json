@@ -1,29 +1,30 @@
 {
-    "header_text": "Una oportunidad perdida",
+    "header_text": "Lunes por la mañana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Reflexionando sobre el partido de fútbol, piensas que..."
+            "text": "Lunes por la mañana"
         },
         {
-            "type": "Buttons",
-            "name": "Una oportunidad perdida_Salud Mental_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Intentaste lo mejor posible y jugaste bien.",
-                "Jugaste mal."
-            ],
-            "column_Count": 1,
-            "correct_value": "Intentaste lo mejor posible y jugaste bien."
+            "type": "Media",
+            "url": "./images/304.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 5
+    "type": "resilience/negation",
+    "scenario_num": 2,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/596.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Un consejo: Recuerda tratar de imaginar vívidamente los escenarios."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

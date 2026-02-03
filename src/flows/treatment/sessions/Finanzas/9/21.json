@@ -1,17 +1,16 @@
 {
-    "header_text": "Costear los gastos",
+    "header_text": "Iniciando un negocio pequeño",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Pensando en tu capacidad para hacer el pago, no esperas atrasarte en el pago del alquiler y tus fondos serán... "
+            "text": "Iniciando un negocio pequeño"
         },
         {
-            "type": "Entry",
-            "name": "Costear los gastos_Finanzas_entry2"
+            "type": "Media",
+            "url": "./images/81.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 8
+    "type": "positive",
+    "scenario_num": 4
 }

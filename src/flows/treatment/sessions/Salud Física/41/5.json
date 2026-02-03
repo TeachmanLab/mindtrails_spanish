@@ -1,25 +1,22 @@
 {
-    "header_text": "Miembro de la familia de edad avanzada:Pensamientos",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vas a la casa de tus padres por primera vez en mucho tiempo y notas que tu padre parece mucho menos saludable de lo que recuerdas. Ninguno de tus padres menciona nada sobre su salud.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Describe la situación en pocas palabras:"
         },
         {
-            "type": "TimedText",
-            "texts": [
-                "Mi padre debe estar muriendo.",
-                "Está feliz de verme.",
-                "Quiero aprovechar al máximo mi tiempo con mi padre.",
-                "Mis padres deben estar guardando un secreto sobre su salud, pero luego me dicen que todo el mundo envejece.",
-                "Pienso en lo miserable que seré cuando él fallezca, pero luego me recuerdo a mí mismo que hoy debo disfrutar mi tiempo con él."
-            ],
-            "Duration": 15000
+            "type": "Entry",
+            "name": "entry_anxious_imagery"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
     ]
 }

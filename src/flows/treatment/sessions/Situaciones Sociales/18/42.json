@@ -1,0 +1,16 @@
+{
+    "header_text": "Haciendo un brindis",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Haciendo un brindis"
+        },
+        {
+            "type": "Media",
+            "url": "./images/514.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

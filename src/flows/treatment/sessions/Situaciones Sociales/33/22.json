@@ -1,29 +1,25 @@
 {
-    "header_text": "Ayudando un vecino mayor",
+    "header_text": "Aceptando elogios",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tu vecino aprecia tu oferta de ayuda con las compras?"
+            "text": "Durante el fin de semana, pasaste tiempo con algunos amigos viejos. Les contaste sobre el trabajo que estás haciendo y hacen comentarios sobre lo inteligente que debes ser, pero tú no consideras que el trabajo sea tan especial. De todos modos, te permites sentirte orgulloso de lo que estás..."
         },
         {
-            "type": "Buttons",
-            "name": "Ayudando un vecino mayor_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Aceptando elogios_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "haciendo"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 6
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 3
 }

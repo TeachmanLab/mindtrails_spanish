@@ -1,0 +1,16 @@
+{
+    "header_text": "Viejos amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Viejos amigos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/557.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

@@ -1,16 +1,25 @@
 {
-    "header_text": "Controles en el dentista.",
+    "header_text": "Dedos hormigueando",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Controles en el dentista."
+            "text": "Estás ayudando a un amigo a pintar una casa y has tenido la mano levantada durante mucho tiempo. Tus dedos comienzan a hormiguear. Esta sensación es..."
         },
         {
-            "type": "Media",
-            "url": "./images/389.jpg"
+            "type": "WordPuzzle",
+            "name": "Dedos hormigueando_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "graciosa"
+            ],
+            "missing_letter_count": 2
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 4
 }

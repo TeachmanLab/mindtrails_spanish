@@ -1,10 +1,29 @@
 {
-    "header_text": "Maneja tus sentimientos: Finanzas",
+    "header_text": "Decidiendo algo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Haz una lista de actividades que disfrute y que no cuesten dinero."
+            "text": "¿Estás ansioso por tu decisión?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Decidiendo algo_Finanzas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Sí"
+            ],
+            "column_Count": 1,
+            "correct_value": "No"
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

@@ -1,29 +1,25 @@
 {
-    "header_text": "Visitar a una familia anciana",
+    "header_text": "Casa bilingüe",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿La salud de tu madre va a empeorar rápidamente?"
+            "text": "Estás cenando con un compañero de trabajo. Mientras comen juntos, recibes una llamada telefónica de un miembro de tu familia y cambias entre español y otro idioma. Nunca le dijiste a tu compañero de trabajo que tus familiares son bilingües. Piensas en la reacción de tu compañero y crees que le parecerá..."
         },
         {
-            "type": "Buttons",
-            "name": "Visitar a una familia anciana_Vida Familiar y Doméstica_comp_question",
+            "type": "WordPuzzle",
+            "name": "Casa bilingüe_Vida Familiar y Doméstica_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "interesante"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

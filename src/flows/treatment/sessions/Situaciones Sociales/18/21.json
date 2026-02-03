@@ -1,16 +1,29 @@
 {
-    "header_text": "Desordenado para vivir",
+    "header_text": "Pensamientos del grupo de teatro",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Desordenado para vivir"
+            "text": "Tienes ideas terribles."
         },
         {
-            "type": "Media",
-            "url": "./images/512.jpg"
+            "type": "Buttons",
+            "name": "Pensamientos del grupo de teatro_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "",
+                "Tienes ideas innovadoras."
+            ],
+            "column_Count": 1,
+            "correct_value": "Tienes ideas innovadoras."
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 6
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 2
 }

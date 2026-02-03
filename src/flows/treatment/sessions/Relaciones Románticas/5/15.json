@@ -1,16 +1,25 @@
 {
-    "header_text": "Presencia en redes sociales",
+    "header_text": "Zambullirte",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Presencia en redes sociales"
+            "text": "Recuerdas que estarán concentrados en nadar y que todos los demás también llevarán trajes de baño. Esto te..."
         },
         {
-            "type": "Media",
-            "url": "./images/210.jpg"
+            "type": "WordPuzzle",
+            "name": "Zambullirte_Relaciones Románticas_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "reconforta"
+            ],
+            "missing_letter_count": 2
         }
     ],
-    "type": "positive",
-    "scenario_num": 4
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 0
 }

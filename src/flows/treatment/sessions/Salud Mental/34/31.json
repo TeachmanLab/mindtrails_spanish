@@ -1,25 +1,29 @@
 {
-    "header_text": "Despertándote listo",
+    "header_text": "Amigos en las relaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando estás terminando un proyecto a medianoche, te das cuenta de que todavía te quedan un par de tareas. Planeas levantarte un poco temprano para terminarlas antes de la fecha límite importante a las 9 a.m. Mientras pones la alarma y piensas en tu plan, te sientes..."
+            "text": "¿Eres capaz de estar en una relación?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Despertándote listo_Salud Mental_puzzle1",
+            "type": "Buttons",
+            "name": "Amigos en las relaciones_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "confiado"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 9
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

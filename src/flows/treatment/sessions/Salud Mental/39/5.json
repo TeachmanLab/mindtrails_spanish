@@ -1,17 +1,22 @@
 {
-    "header_text": "Proyecto eliminado",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes que entregar un proyecto importante hoy. Cuando abres tu computadora, no puedes encontrar el archivo en ninguna parte. El proyecto debe haberse..."
+            "text": "Describe la situación en pocas palabras:"
         },
         {
             "type": "Entry",
-            "name": "Proyecto eliminado_Salud Mental_entry1"
+            "name": "entry_anxious_imagery"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 1
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

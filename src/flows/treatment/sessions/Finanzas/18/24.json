@@ -1,25 +1,16 @@
 {
-    "header_text": "Comprando productos de oficina",
+    "header_text": "Buscando una casa",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás intentando comprar productos necesarios para realizar tu trabajo, y generalmente tu empleador los reembolsa. Sin embargo, has notado que el precio de un artículo que compras regularmente ha aumentado considerablemente, y te preocupa tener que pagarlo parcialmente. Te comunicas con tu supervisor para discutir el cambio, y ellos confirman que seguirás siendo reembolsado..."
+            "text": "Buscando una casa"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Comprando productos de oficina_Finanzas_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "completamente"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/276.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 4
 }

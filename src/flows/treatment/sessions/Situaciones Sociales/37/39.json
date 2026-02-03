@@ -1,0 +1,16 @@
+{
+    "header_text": "Interrumpiendo el silencio",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Interrumpiendo el silencio"
+        },
+        {
+            "type": "Media",
+            "url": "./images/552.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

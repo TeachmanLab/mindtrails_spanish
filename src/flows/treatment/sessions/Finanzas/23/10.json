@@ -1,17 +1,31 @@
 {
-    "header_text": "Costear la terapia",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has querido ir a terapia por un tiempo. Sin embargo, no estás seguro de si tienes el presupuesto para pagarlo. Piensas que es probable que encuentres un proveedor cuyos servicios sean... "
+            "text": "¿Qué probabilidades hay de que la situación o tarea salga bien o mal?"
         },
         {
-            "type": "Entry",
-            "name": "Costear la terapia_Finanzas_entry1"
+            "type": "Buttons",
+            "buttons": [
+                "Es muy probable que salga bien",
+                "Es algo probable que salga bien",
+                "Neutral",
+                "Es algo probable que salga mal",
+                "Es muy probable que salga mal",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "imagery_well"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 3
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

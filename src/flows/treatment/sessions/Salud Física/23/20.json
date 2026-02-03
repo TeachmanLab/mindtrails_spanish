@@ -1,16 +1,17 @@
 {
-    "header_text": "Funciones normales",
+    "header_text": "sintiendo mareos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Funciones normales"
+            "text": "En vez de entrar en pánico, decides respirar profundamente. Lentamente, tu mareo desaparece y tu estómago se siente..."
         },
         {
-            "type": "Media",
-            "url": "./images/428.jpg"
+            "type": "Entry",
+            "name": "sintiendo mareos_Salud Física_entry2"
         }
     ],
-    "type": "positive",
-    "scenario_num": 8
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

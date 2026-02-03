@@ -1,12 +1,20 @@
 {
-    "header_text": "¡Escribe el tuyo!",
-    "header_icon": [
-        "assets/subtitle.png"
-    ],
+    "header_text": "Registro previo a la sesión",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En este ejercicio, ayuda al equipo de MindTrails Espanol a idear nuevas historias de capacitación que podamos incluir en nuestro programa futuro para ayudar a otros participantes."
+            "text": "En este momento me siento...\n\n1 = Muy mal/negativo\n\n7 = Muy bien/positivo"
+        },
+        {
+            "type": "Slider",
+            "min": "1",
+            "max": "7",
+            "others": [
+                "^Prefiero no responder"
+            ],
+            "name": "pre-EMA",
+            "variable_name": "StressLevel"
         }
     ]
 }

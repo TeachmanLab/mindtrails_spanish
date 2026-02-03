@@ -1,14 +1,14 @@
 {
-    "header_text": "Culpar para enfermar a otra persona",
+    "header_text": "Tos después de salir",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Piensas que tu pareja se quedará enojado con tigo?"
+            "text": "¿Es tu tos una señal definitiva de COVID?"
         },
         {
             "type": "Buttons",
-            "name": "Culpar para enfermar a otra persona_Salud Física_comp_question",
+            "name": "Tos después de salir_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
@@ -25,5 +25,5 @@
         "wait_for_click"
     ],
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

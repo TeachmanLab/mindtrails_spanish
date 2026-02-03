@@ -1,29 +1,31 @@
 {
-    "header_text": "Mantener a la familia",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Crees que enviar a tus hijos a una buena universidad"
+            "text": "¿Qué probabilidades hay de que la situación o tarea salga bien o mal?"
         },
         {
             "type": "Buttons",
-            "name": "Mantener a la familia_Finanzas_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
             "buttons": [
-                "Será alcanzable.",
-                "Estará más allá de tus posibilidades."
+                "Es muy probable que salga bien",
+                "Es algo probable que salga bien",
+                "Neutral",
+                "Es algo probable que salga mal",
+                "Es muy probable que salga mal",
+                "Prefiero no responder"
             ],
-            "column_Count": 1,
-            "correct_value": "Será alcanzable."
+            "selectable": true,
+            "name": "imagery_well"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 2
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

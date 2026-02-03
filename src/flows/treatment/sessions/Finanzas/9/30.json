@@ -1,0 +1,16 @@
+{
+    "header_text": "Costear los gastos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Costear los gastos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/254.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

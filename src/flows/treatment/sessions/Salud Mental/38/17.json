@@ -1,16 +1,16 @@
 {
-    "header_text": "Vaso de agua",
+    "header_text": "Zambullirte",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vaso de agua"
+            "text": "Zambullirte"
         },
         {
             "type": "Media",
-            "url": "./images/198.jpg"
+            "url": "./images/207.jpg"
         }
     ],
     "type": "resilience/negation",
-    "scenario_num": 7
+    "scenario_num": 2
 }

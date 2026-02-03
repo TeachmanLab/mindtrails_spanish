@@ -1,0 +1,17 @@
+{
+    "header_text": "Tropezar en público",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás llamado a ponerte de pie y presentarte a un nuevo miembro del equipo en la reunión de tu departamento. Tropiezas al levantarte de tu silla. Cuando piensas que todos te han visto tropezar, te sientes..."
+        },
+        {
+            "type": "Entry",
+            "name": "Tropezar en público_Situaciones Sociales_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 8
+}

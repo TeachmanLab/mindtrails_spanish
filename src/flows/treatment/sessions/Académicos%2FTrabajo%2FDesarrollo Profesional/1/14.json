@@ -1,16 +1,39 @@
 {
-    "header_text": "Mostrar tu experiencia",
+    "header_text": "Esta reunión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mostrar tu experiencia"
+            "text": "¿Te da miedo que tu mente se quedó en blanco antes de tu reunión?"
         },
         {
-            "type": "Media",
-            "url": "./images/5.jpg"
+            "type": "Buttons",
+            "name": "Esta reunión_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Sí"
+            ],
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "type": "negative",
-    "scenario_num": 4
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 0,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Recuerda responder a esta pregunta basándote en el final de la situación hipotética que acabas de leer, no en cómo crees que terminaría. ¡Esto ayudará a reforzar un pensamiento más flexible!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Broma interna",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Broma interna"
+        },
+        {
+            "type": "Media",
+            "url": "./images/342.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

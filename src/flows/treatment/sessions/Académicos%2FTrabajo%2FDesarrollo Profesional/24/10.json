@@ -1,17 +1,31 @@
 {
-    "header_text": "Un tropiezo repentino",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Es tu primer día en un trabajo nuevo y vas a hablar con tu jefe. Al caminar hacia el, te tropiezas y luego te recuperas. Se dio cuenta y su primera impresión de ti probablemente es que estás muy preparado para el..."
+            "text": "¿Qué probabilidades hay de que la situación o tarea salga bien o mal?"
         },
         {
-            "type": "Entry",
-            "name": "Un tropiezo repentino_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "type": "Buttons",
+            "buttons": [
+                "Es muy probable que salga bien",
+                "Es algo probable que salga bien",
+                "Neutral",
+                "Es algo probable que salga mal",
+                "Es muy probable que salga mal",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "imagery_well"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 3
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

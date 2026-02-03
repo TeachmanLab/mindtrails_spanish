@@ -1,10 +1,12 @@
 {
-    "header_text": "Recurso: Salud Física",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "¡Escribe el tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "SmokeFree - ES\n\nSmokeFree ofrece consejos y apoyo para dejar de fumar. Brinda formas alternativas de lidiar con el estrés, lidiar con los factores desencadenantes del tabaquismo y puede ayudar a los mensajeadores a contar cuánto tiempo han estado sin fumar"
+            "text": "Ten en cuenta que cada historia tiene aproximadamente 3 oraciones. La primera parte debería plantear una situación desafiante que podría generar cierta ansiedad en la que no está claro cuál será el resultado de la situación. La parte final debería resolver la incertidumbre de forma positiva o no amenazante. En otras palabras, la última frase debería dejar claro que la situación no resulta al final inmanejable."
         }
     ]
 }

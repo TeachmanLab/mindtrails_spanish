@@ -1,30 +1,25 @@
 {
-    "header_text": "Priorización de responsabilidades",
+    "header_text": "Relaciones futuras",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Priorización de responsabilidades"
+            "text": "Acabas de romper con tu pareja, con quien estuviste por más tiempo que cualquier otra persona importante que hayas tenido antes. Crees que fue lo mejor, pero también te preocupa si alguna vez conocerás a alguien más por quien sientes tanta pasión. Al pensar en tu futura vida amorosa, la idea de encontrar un buen compañero de vida parece..."
         },
         {
-            "type": "Media",
-            "url": "./images/180.jpg"
+            "type": "WordPuzzle",
+            "name": "Relaciones futuras_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "alcanzable"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 6,
-    "information": {
-        "elements": [
-            {
-                "type": "media",
-                "url": "./images/597.jpg"
-            },
-            {
-                "type": "text",
-                "text": "Un consejo: Trata de imaginarte diferentes formas de responder a cada escenario."
-            }
-        ],
-        "position": "before",
-        "information_count": 1
-    }
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
 }

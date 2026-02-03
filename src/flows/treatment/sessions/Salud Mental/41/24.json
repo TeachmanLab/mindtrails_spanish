@@ -1,0 +1,25 @@
+{
+    "header_text": "Luchando con una presentación: Comportamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Has estado luchando por armar esta presentación, pero aún no te has comunicado con tu jefe al respecto. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Me saltaré esta reunión mañana.",
+                "Quiero evitar trabajar en la presentación, pero sé que progresar un poco me ayudará a sentirme realizado.",
+                "Quiero preguntarles a mis colegas cómo piensan que lo hice, pero sé que realmente no importa lo que piensen los demás.",
+                "No me esconderé en mi oficina después de mi presentación.",
+                "Le preguntaré a mi jefe qué más puedo hacer para demostrar mis habilidades."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

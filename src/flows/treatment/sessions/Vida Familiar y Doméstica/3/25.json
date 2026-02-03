@@ -1,29 +1,25 @@
 {
-    "header_text": "Conversación durante la cena",
+    "header_text": "Pasando tiempo con familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Puedes hablar sobre tus padres divorciados?"
+            "text": "Estás yendo a ver a tu familia para unas vacaciones. Disfrutas de ver a tu familia, pero recientemente ha sido más difícil salir a verlos. Cuando imaginas la cantidad de tiempo que pasarás con tus familiares en los próximos años, no estás preocupado de que tu relación se deteriore, y crees que tu familia se mantendrá..."
         },
         {
-            "type": "Buttons",
-            "name": "Conversación durante la cena_Vida Familiar y Doméstica_comp_question",
+            "type": "WordPuzzle",
+            "name": "Pasando tiempo con familia_Vida Familiar y Doméstica_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "conectada"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 4
 }

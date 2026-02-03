@@ -1,14 +1,29 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Límite de tarjeta de crédito",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Hay alguna situación, que antes te daba miedo o te provocaba ansiedad, pero en la que ahora te sientas cómodo? ¿Qué te decías a ti mismo en esa situación? ¿Qué piensas ahora?"
+            "text": "¿Maximizarás tu tarjeta de crédito?"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #3_entry"
+            "type": "Buttons",
+            "name": "Límite de tarjeta de crédito_Finanzas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Sí"
+            ],
+            "column_Count": 1,
+            "correct_value": "No"
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

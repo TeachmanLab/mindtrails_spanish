@@ -1,0 +1,16 @@
+{
+    "header_text": "Manejando con una amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Manejando con una amigo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/433.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 6
+}

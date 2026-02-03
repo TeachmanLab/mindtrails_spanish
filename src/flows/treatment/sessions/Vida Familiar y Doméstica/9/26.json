@@ -1,0 +1,16 @@
+{
+    "header_text": "Compañero de cuarto ausente",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Compañero de cuarto ausente"
+        },
+        {
+            "type": "Media",
+            "url": "./images/169.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

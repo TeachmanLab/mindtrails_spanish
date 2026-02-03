@@ -1,0 +1,16 @@
+{
+    "header_text": "Una noche libre",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Una noche libre"
+        },
+        {
+            "type": "Media",
+            "url": "./images/34.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

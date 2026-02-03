@@ -6,11 +6,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Razón 4:"
-        },
-        {
-            "type": "Entry",
-            "name": "Razón4_WYO"
+            "text": "En este ejercicio, ayuda al equipo de MindTrails Espanol a idear nuevas historias de capacitación que podamos incluir en nuestro programa futuro para ayudar a otros participantes."
         }
     ]
 }

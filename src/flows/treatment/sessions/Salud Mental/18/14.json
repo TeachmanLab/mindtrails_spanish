@@ -1,16 +1,29 @@
 {
-    "header_text": "Tu primer hijo",
+    "header_text": "Una invitación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu primer hijo"
+            "text": "¿Estás contento de que tu supervisor asista al evento de tu escuela?"
         },
         {
-            "type": "Media",
-            "url": "./images/137.jpg"
+            "type": "Buttons",
+            "name": "Una invitación_Salud Mental_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 0
 }

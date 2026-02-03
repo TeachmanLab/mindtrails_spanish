@@ -1,39 +1,16 @@
 {
-    "header_text": "Fiesta de cumpleaños",
+    "header_text": "Seguridad de la trampolina",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Las personas probablemente..."
+            "text": "Seguridad de la trampolina"
         },
         {
-            "type": "Buttons",
-            "name": "Fiesta de cumpleaños_Salud Física_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Notarán que estás sudando.",
-                "No te verán sudar ya que la habitación está poco iluminada."
-            ],
-            "column_Count": 1,
-            "correct_value": "No te verán sudar ya que la habitación está poco iluminada."
+            "type": "Media",
+            "url": "./images/407.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Cada pequeño cambio de perspectiva conduce a cambios mayores con el tiempo. Continúe: ¡estás entrenando tu cerebro para pensar de manera más equilibrada y útil!"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 1
 }

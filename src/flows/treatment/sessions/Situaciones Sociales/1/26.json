@@ -1,16 +1,25 @@
 {
-    "header_text": "Resolver un desacuerdo",
+    "header_text": "Una cámara nueva",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Resolver un desacuerdo"
+            "text": "Compraste una cámara nueva, pero cuando llegas a casa, descubres que no la te gusta. La devuelves a la tienda y recibes un reembolso. En el mostrador, el empleado no habla mucho mientras te ayuda, y piensas que te ven como alguien..."
         },
         {
-            "type": "Media",
-            "url": "./images/467.jpg"
+            "type": "WordPuzzle",
+            "name": "Una cámara nueva_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "extraño"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "positive",
-    "scenario_num": 8
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 4
 }

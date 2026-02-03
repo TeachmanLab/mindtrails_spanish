@@ -1,16 +1,25 @@
 {
-    "header_text": "Reconforto sobre la vacunación",
+    "header_text": "El coche de tu familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Reconforto sobre la vacunación"
+            "text": "Al salir del coche en frente de tu trabajo, ves a algunos de tus colegas. Sonríen y te saludan con la mano, y te sientes... "
         },
         {
-            "type": "Media",
-            "url": "./images/340.jpg"
+            "type": "WordPuzzle",
+            "name": "El coche de tu familia_Situaciones Sociales_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "aliviado"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "positive",
-    "scenario_num": 5
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

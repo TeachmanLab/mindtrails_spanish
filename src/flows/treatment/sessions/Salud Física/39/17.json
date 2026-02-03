@@ -1,17 +1,17 @@
 {
-    "header_text": "Evaluación de salud",
+    "header_text": "Pánico de una presentación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En tu cita médica anual, tu doctor decide hacerte unas pruebas para evaluar tu salud en función del historial médico de tu familia. Tus resultados estarán listos en una semana. Mientras esperas los resultados, crees que probablemente estás..."
+            "text": "Decides tomar un respiro lento y profundo. Al empezar a hablar de nuevo, te das cuenta de que lo que sentiste era..."
         },
         {
             "type": "Entry",
-            "name": "Evaluación de salud_Salud Física_entry1"
+            "name": "Pánico de una presentación_Salud Física_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 6
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

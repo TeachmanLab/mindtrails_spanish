@@ -1,25 +1,29 @@
 {
-    "header_text": "Tiempo para ti mismo",
+    "header_text": "Ejercicio con un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu parte favorita del día es relajarte antes de cenar. Cuando empiezas a preparar la cena, te das cuenta de que has estado comiendo solo últimamente, y te sientes triste. Decides que estás bien con este hecho, ya que te da tiempo para reflexionar sobre tu... "
+            "text": "Cuando sientes que no puedes recuperar el aliento, es mejor..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Tiempo para ti mismo_Salud Mental_puzzle1",
+            "type": "Buttons",
+            "name": "Ejercicio con un amigo_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "día"
+            "buttons": [
+                "simplemente observe sus pensamientos y sensaciones de ansiedad sin juzgarlos.",
+                "Juzgar tu dificultad para respirar como algo malo o dañino."
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "simplemente observe sus pensamientos y sensaciones de ansiedad sin juzgarlos."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 7
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

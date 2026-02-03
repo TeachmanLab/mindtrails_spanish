@@ -1,25 +1,29 @@
 {
-    "header_text": "Dolor de estómago",
+    "header_text": "Corte de dedo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado nervioso por una próxima evaluación en el trabajo. El día de la evaluación, notas que te duele el estómago. Piensas que el dolor probablemente se deba a la..."
+            "text": "¿Está seriamente infectado tu dedo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Dolor de estómago_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Corte de dedo_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "ansiedad"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 7
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

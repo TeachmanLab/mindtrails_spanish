@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Pregúntale a un amigo o familiar si puedes confiarle sobre una interacción incómoda. Ve si puede darte información desde el punto de vista de un extraño. "
+        }
+    ]
+}

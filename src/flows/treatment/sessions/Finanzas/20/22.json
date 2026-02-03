@@ -1,25 +1,16 @@
 {
-    "header_text": "Tomando un descanso",
+    "header_text": "Mantener a la familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado trabajando muy duro durante el último año y estás empezando a sentirte agotado. Sientes que necesitas tomar un descanso, pero te preocupan las repercusiones financieras de tomarte un tiempo libre. Crees que es importante tomar un tiempo libre para centrarte en tu salud..."
+            "text": "Mantener a la familia"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Tomando un descanso_Finanzas_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "mental"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/158.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 6
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

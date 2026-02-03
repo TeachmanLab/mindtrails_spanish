@@ -1,16 +1,16 @@
 {
-    "header_text": "Mantener a la familia",
+    "header_text": "Iniciando un negocio pequeño",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mantener a la familia"
+            "text": "Iniciando un negocio pequeño"
         },
         {
             "type": "Media",
-            "url": "./images/158.jpg"
+            "url": "./images/81.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 7
+    "type": "negative",
+    "scenario_num": 2
 }

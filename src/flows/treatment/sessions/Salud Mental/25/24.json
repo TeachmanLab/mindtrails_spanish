@@ -1,17 +1,17 @@
 {
-    "header_text": "Decidir compartir una imagen",
+    "header_text": "Darte a conocer",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Acabas de recibir un reconocimiento por un proyecto en el que trabajaste. Solo has recibido felicitaciones de unas pocas personas y pensabas que habría más reacciones. Te preguntas si la gente no te felicita porque está..."
+            "text": "Vas a almorzar con un amigo nuevo. Tú y tu amigo tuvieron una conversación muy buena y te hicieron algunas preguntas que te hacen sentir vulnerable. Si llegan a conocer tu \"verdadero yo\", crees que te van a..."
         },
         {
             "type": "Entry",
-            "name": "Decidir compartir una imagen_Salud Mental_entry1"
+            "name": "Darte a conocer_Salud Mental_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 9
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

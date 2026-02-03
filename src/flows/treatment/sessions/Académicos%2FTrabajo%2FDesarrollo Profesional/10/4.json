@@ -1,17 +1,18 @@
 {
-    "header_text": "Resultados de la evaluación",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "El tiempo para las evaluaciones del trabajo acaba de cerrar y no estás seguro de si saliste bien o no. Te sientes nervioso al pensar en cómo te calificaron otras personas. Piensas que estar nervioso es..."
-        },
-        {
-            "type": "Entry",
-            "name": "Resultados de la evaluación_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "text": "En este ejercicio, piensa en una PRÓXIMA situación que esperes que te haga sentir ansioso, preocupado o asustado. Elige una situación que te preocupe, que pueda salir mal o que esperes que provoque síntomas relacionados con la ansiedad (p. ej., palpitaciones, sudoración). Cualquier situación que te haga sentir bastante ansioso o asustado funcionará, siempre y cuando sea una situación que sea probable que realmente suceda."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 0
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

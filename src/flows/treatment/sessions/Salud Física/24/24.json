@@ -1,10 +1,17 @@
 {
-    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_text": "Un golpe accidental",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Es posible que en este momento sientas algo de dolor en tu cuerpo. Recuerda que el dolor fluye y refluye, y que probablemente no será tan intenso para siempre."
+            "text": "Una noche, estás subiendo las escaleras y accidentalmente golpeas tu cabeza contra un techo bajo. A la mañana siguiente, el dolor de cabeza todavía está presente ligeramente y te preguntas qué has hecho. Ya a la hora del almuerzo, el dolor ha..."
+        },
+        {
+            "type": "Entry",
+            "name": "Un golpe accidental_Salud Física_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 4
 }

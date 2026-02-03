@@ -1,25 +1,39 @@
 {
-    "header_text": "Vecino sin mascarilla",
+    "header_text": "Vacaciones reprogramadas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás trabajando en la biblioteca cuando otra persona se sienta a tu lado. No lleva mascarilla y eso te hace sentir inseguro. Le dices al bibliotecario que esta persona está rompiendo las..."
+            "text": "¿Te preocupa que el COVID vaya a cancelar tu viaje?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Vecino sin mascarilla_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Vacaciones reprogramadas_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "reglas"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Cada pequeño cambio de perspectiva conduce a cambios mayores con el tiempo. Continúe: ¡estás entrenando tu cerebro para pensar de manera más equilibrada y útil!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

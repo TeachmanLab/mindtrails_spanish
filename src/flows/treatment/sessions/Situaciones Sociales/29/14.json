@@ -1,10 +1,12 @@
 {
-    "header_text": "Recurso: Situaciones Sociales",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "¡Escribe el tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Amaze\n\nBrinda información y videos divertidos y animados que responden a preguntas sobre el sexo, el cuerpo y las relaciones sanas. Útil para personas de todas las edades, incluyendo niños, adolescentes, y adultos. También puede ser utilizado por educadores, padres/cuidadores y personas LGBTQ+."
+            "text": "Ten en cuenta que cada historia tiene aproximadamente 3 oraciones. La primera parte debería plantear una situación desafiante que podría generar cierta ansiedad en la que no está claro cuál será el resultado de la situación. La parte final debería resolver la incertidumbre de forma positiva o no amenazante. En otras palabras, la última frase debería dejar claro que la situación no resulta al final inmanejable."
         }
     ]
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Participación en las redes sociales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Participación en las redes sociales"
+        },
+        {
+            "type": "Media",
+            "url": "./images/357.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

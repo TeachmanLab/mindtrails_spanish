@@ -1,14 +1,27 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Poniéndose al día con los amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en una situación en la que te encantaría estar, pero tienes demasiado miedo o ansiedad para ponerte en ella, aunque pueda llevar al crecimiento personal. ¿Qué estrategias podrías poner en práctica para ayudarte a llegar allí?"
+            "text": "Ves a tus amigos al otro lado de la calle y corres hacia ellos. Te sientes un poco desorientado y mareado al llegar a ellos. Consideras lo que esto significa y te das cuenta de que probablemente solo significa que corriste..."
         },
         {
             "type": "Entry",
-            "name": "Consejo #10_entry"
+            "name": "Poniéndose al día con los amigos_Salud Física_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "MindTrails te brinda el coraje para enfrentar situaciones inciertas, brindándote la confianza para abordarlas en la vida real."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

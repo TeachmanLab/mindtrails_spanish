@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Finanzas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cuando sientas la necesidad de comprar algo que no puedes pagar, presta atención a cómo se siente la necesidad y practica tolerar las sensaciones hasta que pasen."
+        }
+    ]
+}

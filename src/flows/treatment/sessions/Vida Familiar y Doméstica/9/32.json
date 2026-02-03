@@ -1,0 +1,16 @@
+{
+    "header_text": "sintiéndote preocupado por las noticias",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "sintiéndote preocupado por las noticias"
+        },
+        {
+            "type": "Media",
+            "url": "./images/173.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 9
+}

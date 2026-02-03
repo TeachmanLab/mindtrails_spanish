@@ -1,16 +1,29 @@
 {
-    "header_text": "Pensando en preguntas",
+    "header_text": "Resultados de la evaluación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Pensando en preguntas"
+            "text": "¿Puedes tolerar tus nervios mientras esperas saber tus resultados?"
         },
         {
-            "type": "Media",
-            "url": "./images/89.jpg"
+            "type": "Buttons",
+            "name": "Resultados de la evaluación_Salud Mental_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Sí"
+            ],
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 5
 }

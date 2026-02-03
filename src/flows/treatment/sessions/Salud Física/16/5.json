@@ -1,25 +1,22 @@
 {
-    "header_text": "Serpientes en el parque:Pensamientos",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo te convence de dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Describe la situación en pocas palabras:"
         },
         {
-            "type": "TimedText",
-            "texts": [
-                "Tengo muchas ganas de hablar con mi amigo.",
-                "Aunque he oído que puede haber serpientes en el parque, creo que es poco probable que vea una.",
-                "Realmente no tengo muchas ganas de ir al parque que podría tener serpientes, pero sé que puedo tolerar mis sentimientos de ansiedad.",
-                "¡Me va a morder una serpiente!",
-                "Será agradable caminar por el parque."
-            ],
-            "Duration": 15000
+            "type": "Entry",
+            "name": "entry_anxious_imagery"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
     ]
 }

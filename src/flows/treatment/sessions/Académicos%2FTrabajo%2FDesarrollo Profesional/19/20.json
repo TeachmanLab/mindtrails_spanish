@@ -1,29 +1,25 @@
 {
-    "header_text": "Error en una tarea",
+    "header_text": "1, 2, 3. Ojos puestos en mí",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tu jefe cree que eres un trabajador capaz?"
+            "text": "Te das un momento para organizar tus pensamientos y comienzas la presentación. Durante la presentación te sientes..."
         },
         {
-            "type": "Buttons",
-            "name": "Error en una tarea_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "1, 2, 3. Ojos puestos en mí_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "preparado"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 5
+    "scenario_num": 2
 }

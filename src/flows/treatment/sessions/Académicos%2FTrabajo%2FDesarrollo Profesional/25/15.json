@@ -1,17 +1,17 @@
 {
-    "header_text": "Expectativas",
+    "header_text": "Pensando en preguntas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en por qué quieren que te desempeñes bien. Sabes que es porque quieren que te vaya bien, eso te..."
+            "text": "Estás en una charla sobre un tema complicado que te emociona mucho. Tienes muchas ideas sobre el tema, pero sientes que las preguntas que hacen los demás son más inteligentes que las tuyas. Piensas en cómo todos probablemente se ponen nerviosos al hablar también, y sabes que no están allí para..."
         },
         {
             "type": "Entry",
-            "name": "Expectativas_Académicos/Trabajo/Desarrollo Profesional_entry2"
+            "name": "Pensando en preguntas_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 0
 }

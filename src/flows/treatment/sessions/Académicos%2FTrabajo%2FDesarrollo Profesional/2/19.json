@@ -1,29 +1,25 @@
 {
-    "header_text": "Reunión uno a uno",
+    "header_text": "Proyecto de escritura",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Eres capaz de tolerar tu ansiedad mientras te reúnes con tu jefe?"
+            "text": "Tu supervisor te pide que escribas un informe. El documento terminado es bastante breve, pero tomó mucho tiempo y esfuerzo. Basado en tu escritura, piensas que la opinión de tu supervisor de ti será... "
         },
         {
-            "type": "Buttons",
-            "name": "Reunión uno a uno_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "Proyecto de escritura_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "negativa"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 5
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 2
 }

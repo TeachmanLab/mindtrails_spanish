@@ -1,0 +1,25 @@
+{
+    "header_text": "Interrumpiendo el silencio",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Entras en una sala de reuniones tranquila unos minutos tarde. La puerta chirría muy fuerte cuando entras y tus compañeros de trabajo miran en tu dirección. Probablemente se sientan..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Interrumpiendo el silencio_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "sorprendidos"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 8
+}

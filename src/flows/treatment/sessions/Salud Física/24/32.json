@@ -1,0 +1,17 @@
+{
+    "header_text": "Vecino amigable",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te das cuenta de que no has visto a tu vecino mayor recientemente. Normalmente lo visitas habitualmente, por lo que es extraño que no lo hayas visto últimamente. Probablemente tu vecino haya estado..."
+        },
+        {
+            "type": "Entry",
+            "name": "Vecino amigable_Salud Física_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 8
+}

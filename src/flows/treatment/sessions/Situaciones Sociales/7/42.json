@@ -1,0 +1,29 @@
+{
+    "header_text": "Planes de vacaiones",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Es probable que tus padres piensen que..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Planes de vacaiones_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "A ti no te importan o que no quieres verlos.",
+                "Solo estás emocionado de pasar los días festivos con tu pareja y no lo tomarán como algo personal."
+            ],
+            "column_Count": 1,
+            "correct_value": "Solo estás emocionado de pasar los días festivos con tu pareja y no lo tomarán como algo personal."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

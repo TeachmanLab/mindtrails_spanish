@@ -1,0 +1,30 @@
+{
+    "header_text": "Relación a distancia",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Relación a distancia"
+        },
+        {
+            "type": "Media",
+            "url": "./images/158.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/601.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Un consejo: recuerda, cuando te sientas ansioso la sensación no durará para siempre."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
+}

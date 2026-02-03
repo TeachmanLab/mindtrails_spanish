@@ -1,0 +1,16 @@
+{
+    "header_text": "Prestando de un amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Prestando de un amigo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/93.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

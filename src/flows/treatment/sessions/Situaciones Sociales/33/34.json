@@ -1,0 +1,16 @@
+{
+    "header_text": "Expresar tus sentimientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Expresar tus sentimientos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/183.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

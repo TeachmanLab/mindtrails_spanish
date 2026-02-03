@@ -1,25 +1,16 @@
 {
-    "header_text": "Proyecto de escritura",
+    "header_text": "sintiéndote Preparado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu supervisor te pide que escribas un informe. El documento terminado es bastante breve, pero tomó mucho tiempo y esfuerzo. Basado en tu escritura, piensas que la opinión de tu supervisor de ti será..."
+            "text": "sintiéndote Preparado"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Proyecto de escritura_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "positiva"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/84.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

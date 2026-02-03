@@ -1,0 +1,16 @@
+{
+    "header_text": "WiFi inestable",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "WiFi inestable"
+        },
+        {
+            "type": "Media",
+            "url": "./images/27.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 7
+}

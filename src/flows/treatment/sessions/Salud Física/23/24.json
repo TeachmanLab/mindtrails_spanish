@@ -1,10 +1,17 @@
 {
-    "header_text": "Recurso: Salud Física",
+    "header_text": "Mascarillas para invitados",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Partnership to End Addiction\n\nProporciona información y apoyo para familias lidiando con problemas de jóvenes con abuso de sustancias."
+            "text": "Tu pareja invita a algunos amigos a pasar la noche, y ambos estuvieron de acuerdo en que todos usarían mascarillas. Cuando sus amigos llegan, no las traen y tu pareja no les dice nada. Apartas a tu pareja a un lado y le pides que hable con..."
+        },
+        {
+            "type": "Entry",
+            "name": "Mascarillas para invitados_Salud Física_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 4
 }

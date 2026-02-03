@@ -1,0 +1,16 @@
+{
+    "header_text": "Te sientes maread﻿o / Sintiéndote mareado",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te sientes maread﻿o / Sintiéndote mareado"
+        },
+        {
+            "type": "Media",
+            "url": "./images/418.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

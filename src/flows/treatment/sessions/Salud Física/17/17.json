@@ -1,25 +1,25 @@
 {
-    "header_text": "Vacaciones reprogramadas",
+    "header_text": "El malestar de estómago",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado queriendo ir de vacaciones de verano a Europa durante algunos años. Reprogramaste tu viaje desde el verano pasado hasta el verano que viene, pero te preocupa que el COVID se propague de nuevo y te impida ir por fin. Decides esperar pacientemente, y sabes que siempre puedes reprogramar de nuevo si es..."
+            "text": "Te has estado sintiendo mal del estómago durante unos días. Haces una cita con tu médico. Las náuseas probablemente significan que estás..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Vacaciones reprogramadas_Salud Física_puzzle1",
+            "name": "El malestar de estómago_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "necesario"
+                "enfermo"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 4
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

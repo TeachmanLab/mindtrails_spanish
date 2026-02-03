@@ -1,14 +1,16 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Costos inesperados",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en algo que te causó ansiedad la primera vez que lo hiciste. ¿Qué estrategias te ayudaron a superar eso?"
+            "text": "Costos inesperados"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #1_entry"
+            "type": "Media",
+            "url": "./images/159.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

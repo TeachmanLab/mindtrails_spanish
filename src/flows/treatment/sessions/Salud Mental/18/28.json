@@ -1,25 +1,16 @@
 {
-    "header_text": "Revisando tu trabajo",
+    "header_text": "Clima lluvioso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te han llamado para una evaluación de desempeño con tu jefe. En general, haces un buen trabajo, pero sabes que tu jefe ha notado algunos errores recientemente. Mientras te preparas para la revisión, piensas que tu reunión probablemente se centrará en tus..."
+            "text": "Clima lluvioso"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Revisando tu trabajo_Salud Mental_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "defectos"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/332.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 8
+    "type": "positive",
+    "scenario_num": 5
 }

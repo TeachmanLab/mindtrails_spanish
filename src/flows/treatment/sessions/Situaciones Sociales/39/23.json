@@ -1,17 +1,16 @@
 {
-    "header_text": "Palabra tropiezo",
+    "header_text": "Compartiendo programas favoritos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes que hacer una presentación sobre tu trabajo a tus compañeros y a tu jefe. Al empezar, te topas con las primeras palabras. Siguiendo con ello, crees que tu desempeño será evaluado..."
+            "text": "Compartiendo programas favoritos"
         },
         {
-            "type": "Entry",
-            "name": "Palabra tropiezo_Situaciones Sociales_entry1"
+            "type": "Media",
+            "url": "./images/346.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 9
+    "type": "negative",
+    "scenario_num": 5
 }

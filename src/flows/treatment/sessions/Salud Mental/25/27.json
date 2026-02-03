@@ -1,0 +1,17 @@
+{
+    "header_text": "Hablando sobre vivienda",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás pasando tiempo con un nuevo grupo de personas y todos están hablando de sus situaciones de vivienda. Quieres participar, pero aún estás buscando un lugar para establecerte y sientes que vas atrasado en experiencias de vida. Piensas que todavía tienes mucho..."
+        },
+        {
+            "type": "Entry",
+            "name": "Hablando sobre vivienda_Salud Mental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
+}

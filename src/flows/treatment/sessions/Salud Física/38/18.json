@@ -1,16 +1,16 @@
 {
-    "header_text": "Un vuelo internacional",
+    "header_text": "El malestar de estómago",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Un vuelo internacional"
+            "text": "El malestar de estómago"
         },
         {
             "type": "Media",
-            "url": "./images/398.jpg"
+            "url": "./images/446.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 7
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

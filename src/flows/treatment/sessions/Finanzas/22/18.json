@@ -1,25 +1,16 @@
 {
-    "header_text": "Confiar en los padres",
+    "header_text": "Preocuparse por los ahorros",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente te redujeron el salario y tendrás que pedirle a tu familia ayuda para pagar los gastos este mes. Te sientes terrible preguntando ya que ya te han apoyado mucho financieramente en el pasado. Recuerdas que necesitar un poco de ayuda adicional de vez en cuando está..."
+            "text": "Preocuparse por los ahorros"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Confiar en los padres_Finanzas_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "bien"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/197.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 5
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

@@ -1,17 +1,16 @@
 {
-    "header_text": "Errores en el trabajo",
+    "header_text": "Cafetería",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Aunque normalmente sobresales en tu trabajo, recientemente tuviste una semana difícil en el trabajo y cometiste un par de errores grandes. Cuando piensas en el futuro, piensas que tu trabajo probablemente está..."
+            "text": "Cafetería"
         },
         {
-            "type": "Entry",
-            "name": "Errores en el trabajo_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "type": "Media",
+            "url": "./images/119.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 6
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

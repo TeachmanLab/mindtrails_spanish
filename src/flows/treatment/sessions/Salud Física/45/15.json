@@ -1,23 +1,23 @@
 {
-    "header_text": "Manejando el estrés",
+    "header_text": "Dando vueltas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Puedes manejar tus síntomas de ansiedad mientras haces tu presentación?"
+            "text": "¿Te preocupas sentirte mareado?"
         },
         {
             "type": "Buttons",
-            "name": "Manejando el estrés_Salud Física_comp_question",
+            "name": "Dando vueltas_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "No",
+                "Sí"
             ],
             "column_Count": 1,
-            "correct_value": "Sí"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [
@@ -25,5 +25,5 @@
         "wait_for_click"
     ],
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

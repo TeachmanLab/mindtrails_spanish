@@ -1,0 +1,10 @@
+{
+    "header_text": "Miembro de la familia de edad avanzada: Escribe Algunos Pensamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¡Ahora es tu oportunidad de ser creativo! ¿Qué podrías decirte a ti mismo para sentirte mejor en esta situación? \n\nEn la página siguiente, tómate 30 segundos para escribir todos los pensamientos diferentes que puedas tener y que serían útiles en esta situación. Puedes usar los pensamientos que viste hace un momento como inspiración, o puedes enumerar cosas que te hayas dicho a ti mismo en el pasado y que te hayan ayudado. \n\n¿Qué podrías decirte a ti mismo en esta situación que te ayudaría a sentirte menos ansioso o a manejar tus sentimientos de ansiedad?\n\nPresiona regresar después de cada pensamiento para escribir uno nuevo en cada línea."
+        }
+    ]
+}

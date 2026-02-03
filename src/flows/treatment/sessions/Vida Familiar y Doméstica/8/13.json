@@ -1,16 +1,16 @@
 {
-    "header_text": "Planes de vacaciones",
+    "header_text": "Compartir las tradiciones familiares",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Planes de vacaciones"
+            "text": "Compartir las tradiciones familiares"
         },
         {
             "type": "Media",
-            "url": "./images/147.jpg"
+            "url": "./images/170.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 0
 }

@@ -1,16 +1,29 @@
 {
-    "header_text": "Exponer a un amigo",
+    "header_text": "Pensamientos del grupo de teatro",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Exponer a un amigo"
+            "text": "Tienes ideas innovadoras."
         },
         {
-            "type": "Media",
-            "url": "./images/553.jpg"
+            "type": "Buttons",
+            "name": "Pensamientos del grupo de teatro_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "",
+                "Tienes ideas terribles."
+            ],
+            "column_Count": 1,
+            "correct_value": "Tienes ideas terribles."
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 5
 }

@@ -1,20 +1,20 @@
 {
-    "header_text": "Mente va en blanco",
+    "header_text": "Fecha límite cercana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Eres capaz de responder la pregunta?"
+            "text": "¿Terminarás tu tarea a tiempo?"
         },
         {
             "type": "Buttons",
-            "name": "Mente va en blanco_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "name": "Fecha límite cercana_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "No",
+                "Sí"
             ],
             "column_Count": 1,
             "correct_value": "Sí"
@@ -24,16 +24,6 @@
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Cuanto más te sumerjas en la historia, más probabilidades tendrás de beneficiarte de nuestro programa; imagínate realmente en la situación actual."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "type": "positive",
+    "scenario_num": 1
 }

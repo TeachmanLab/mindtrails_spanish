@@ -1,16 +1,16 @@
 {
-    "header_text": "Prepararte para tener éxito",
+    "header_text": "Comparación de puntuaciones en redes sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Prepararte para tener éxito"
+            "text": "Comparación de puntuaciones en redes sociales"
         },
         {
             "type": "Media",
-            "url": "./images/64.jpg"
+            "url": "./images/490.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 8
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

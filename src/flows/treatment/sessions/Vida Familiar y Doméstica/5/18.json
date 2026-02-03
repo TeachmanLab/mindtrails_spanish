@@ -1,16 +1,25 @@
 {
-    "header_text": "Equilibrar la vida familiar y los amigos",
+    "header_text": "Fecha límite cercana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Equilibrar la vida familiar y los amigos"
+            "text": "Tú y tu pareja comparten una oficina en casa. Tienes una tarea del trabajo que entregar esta noche, pero están usando la oficina. Cuando piensas en completar el trabajo a tiempo, te sientes..."
         },
         {
-            "type": "Media",
-            "url": "./images/160.jpg"
+            "type": "WordPuzzle",
+            "name": "Fecha límite cercana_Vida Familiar y Doméstica_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "seguro"
+            ],
+            "missing_letter_count": 2
         }
     ],
-    "type": "negative",
-    "scenario_num": 5
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
 }

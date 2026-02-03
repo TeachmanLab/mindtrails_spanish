@@ -1,39 +1,25 @@
 {
-    "header_text": "Dependencia financiera",
+    "header_text": "Elegir entre oportunidades",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Podrán tus hijos ser financieramente independientes?"
+            "text": "Tienes la oportunidad de recibir formación especializada en un tema de tu interés. Sabes que esta capacitación será útil para tu carrera, pero te preocupa cómo aprovechar esta oportunidad podría afectar tu trabajo actual. Cuando piensas en equilibrar tu trabajo y la formación, crees que será..."
         },
         {
-            "type": "Buttons",
-            "name": "Dependencia financiera_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Elegir entre oportunidades_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "manejable"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Recuerda, MindTrails no solo cambia tu perspectiva sobre las situaciones que estás leyendo aquí, ¡sino también tu perspectiva en la vida real!"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 1
 }

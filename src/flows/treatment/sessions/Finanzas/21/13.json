@@ -1,25 +1,10 @@
 {
-    "header_text": "El regalo de cumpleaños: Comportamientos",
+    "header_text": "El regalo de cumpleaños",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo va a celebrar una gran fiesta de cumpleaños y la mayoría de las personas de tu grupo de amigos estarán allí. Muchos de tus amigos son más ricos que tú y pueden permitirse el lujo de hacer regalos más caros.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
-        },
-        {
-            "type": "TimedText",
-            "texts": [
-                "Quiero irme antes de que abran los regalos, pero decido quedarme.",
-                "Yo me quedo en la fiesta.",
-                "Entro y abrazo a mi amigo.",
-                "Decido quedarme una hora y salir.",
-                "Pienso en mentir que olvidé el regalo en casa, pero se lo doy a mi amiga."
-            ],
-            "Duration": 15000
+            "text": "El objetivo de este ejercicio es ayudarle a aprender que hay muchas reacciones diferentes que puede tener en una situación estresante y que no todos estos pensamientos, sentimientos y comportamientos tienen que ser negativos. \n\nDespués de ver algunos pensamientos, se le pedirá que escriba su propio ejemplo de un pensamiento útil que pueda tener en esa situación. Harás lo mismo con los sentimientos y comportamientos. \n\nLa misma situación se presentará varias veces. Esta repetición es intencionada para que puedas practicar pensar en la misma situación de muchas maneras diferentes."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
     ]
 }

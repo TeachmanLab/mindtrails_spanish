@@ -1,0 +1,16 @@
+{
+    "header_text": "Fin de semana largo solo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Fin de semana largo solo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/554.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

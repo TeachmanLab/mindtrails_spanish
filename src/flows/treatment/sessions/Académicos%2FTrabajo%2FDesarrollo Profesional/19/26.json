@@ -1,29 +1,25 @@
 {
-    "header_text": "Obtener una oportunidad",
+    "header_text": "Trabajando para salir adelante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Crees que su solicitud es:"
+            "text": "Te acaban de dar un trabajo en una oficina que realmente admiras. Para finalmente recibir el ascenso que deseas, sabes que tendrás que trabajar muy duro durante varios años y el resultado es incierto. Cuando imaginas tu probable puesto en la empresa en el futuro, esperas que se te otorgue el trabajo que..."
         },
         {
-            "type": "Buttons",
-            "name": "Obtener una oportunidad_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "Trabajando para salir adelante_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Una que no destacará en una buena piscina.",
-                "Una buena, en relación con las otras presentaciones."
+            "display_delay": 2000,
+            "words": [
+                "deseas"
             ],
-            "column_Count": 1,
-            "correct_value": "Una que no destacará en una buena piscina."
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 7
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
 }

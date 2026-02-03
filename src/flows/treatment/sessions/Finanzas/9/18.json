@@ -1,17 +1,17 @@
 {
-    "header_text": "Ahorrar dinero",
+    "header_text": "Costos inesperados",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Siempre necesitas almorzar comida de casa para ahorrar dinero. Cuando comes con tus amigos, notas que todos salen a comer cada día. Te das cuenta de que tu situación es diferente a la de ellos y que está..."
+            "text": "Has estado alquilando tu casa. sientes que ya es hora de comprar una casa y que ahora tienes un trabajo estable, pero te preocupan los costos inesperados. Considerando la posibilidad de comprar, crees que estos costos serán..."
         },
         {
             "type": "Entry",
-            "name": "Ahorrar dinero_Finanzas_entry1"
+            "name": "Costos inesperados_Finanzas_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 7
+    "type": "negative",
+    "scenario_num": 2
 }

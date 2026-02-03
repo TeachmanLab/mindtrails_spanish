@@ -1,19 +1,23 @@
 {
-    "header_text": "Poco interés: Escribe Algunos Pensamientos",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Decides responder a todos por un correo electrónico de todo el departamento para compartir una idea. Han pasado algunas horas y nadie ha respondido a tu sugerencia todavía.\n\nTómese 30 segundos para escribir pensamientos diferentes. El siguiente botón aparecerá automáticamente. \n\nPensamientos en el momento:"
-        },
-        {
-            "type": "Entry"
+            "text": "Juega esta situación en tu cabeza durante los próximos 20 segundos. \n\nLa pantalla cambiará en 20 segundos."
         }
+    ],
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
     ],
     "navigation_conditions": [
         {
-            "wait_for_time": 30000
-        },
-        "wait_for_click"
+            "wait_for_time": 20000
+        }
     ]
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Calentador",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Calentador"
+        },
+        {
+            "type": "Media",
+            "url": "./images/131.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

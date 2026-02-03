@@ -1,16 +1,16 @@
 {
-    "header_text": "Comentarios de publicaciones de Instagram",
+    "header_text": "Día especial",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Comentarios de publicaciones de Instagram"
+            "text": "Día especial"
         },
         {
             "type": "Media",
-            "url": "./images/338.jpg"
+            "url": "./images/191.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 3
 }

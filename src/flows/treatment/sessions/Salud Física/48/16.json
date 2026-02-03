@@ -1,25 +1,25 @@
 {
-    "header_text": "Vecino sin mascarilla",
+    "header_text": "Ruido repentino",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás trabajando en la biblioteca cuando otra persona se sienta a tu lado. No lleva una mascarilla y eso te hace sentir inseguro. Le dices al bibliotecario que esta persona está rompiendo las..."
+            "text": "Estás caminando hacia el trabajo cuando de repente escuchas un ruido detrás de ti. Cuando giras rápidamente la cabeza para ver lo que es, te sientes mareado y empiezas a preocuparte de que perderás el..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Vecino sin mascarilla_Salud Física_puzzle1",
+            "name": "Ruido repentino_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "reglas"
+                "control"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 4
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

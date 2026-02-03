@@ -1,25 +1,29 @@
 {
-    "header_text": "Día caluroso",
+    "header_text": "Estar a cargo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Regresando a casa en un día muy caluroso, te tomas un vaso grande de agua rápidamente. Pronto te sientes anormalmente lleno y un poco enfermo del..."
+            "text": "¿sientes que mereces tu puesto en tu trabajo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Día caluroso_Salud Mental_puzzle1",
+            "type": "Buttons",
+            "name": "Estar a cargo_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "estómago"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 6
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

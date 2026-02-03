@@ -1,16 +1,17 @@
 {
-    "header_text": "Seguridad de la trampolina",
+    "header_text": "Conociendo alguien nuevo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Seguridad de la trampolina"
+            "text": "Estás en una fiesta de cumpleaños para un amigo de un amigo. Te das cuenta de que estás ruborizado y un poco sudado. Parado allí, piensas que estas sensaciones son..."
         },
         {
-            "type": "Media",
-            "url": "./images/407.jpg"
+            "type": "Entry",
+            "name": "Conociendo alguien nuevo_Salud Física_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 0
 }

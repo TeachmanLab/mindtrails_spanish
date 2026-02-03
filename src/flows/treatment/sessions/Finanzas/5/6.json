@@ -1,25 +1,18 @@
 {
-    "header_text": "Iniciando un negocio pequeño",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás considerando dejar tu trabajo para comenzar tu propio pequeño negocio y estás listo para trabajar duro. Estás emocionado, pero también sabes que muchos nuevos emprendimientos pueden fracasar. Pensando en el futuro de tu negocio, crees que será..."
-        },
-        {
-            "type": "WordPuzzle",
-            "name": "Iniciando un negocio pequeño_Finanzas_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "rentable"
-            ],
-            "missing_letter_count": 2
+            "text": "Imagina la situación lo más vívidamente posible (es decir, que parezca muy real). Intenta imaginar que realmente estás en esa situación. Representa las partes específicas de la situación en tu cabeza. Intenta imaginarte usando todos tus sentidos mientras piensas en esta situación. Piensa en las cosas que verías, oírías y olerías si realmente estuvieras allí. Piensa en el tipo de cosas que pensarías o sentirías si realmente estuvieras allí."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 1
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

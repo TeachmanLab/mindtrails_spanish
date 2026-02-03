@@ -1,16 +1,17 @@
 {
-    "header_text": "Planificación de pagos",
+    "header_text": "Ahorro para reparaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Planificación de pagos"
+            "text": "Tu coche necesita reparaciones importantes. Tus amigos te invitan a salir con ellos este fin de semana, pero necesitas ahorrar tu dinero para pagar las reparaciones. Niegas la invitación de tus amigos y te sientes... "
         },
         {
-            "type": "Media",
-            "url": "./images/255.jpg"
+            "type": "Entry",
+            "name": "Ahorro para reparaciones_Finanzas_entry1"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 8
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
 }

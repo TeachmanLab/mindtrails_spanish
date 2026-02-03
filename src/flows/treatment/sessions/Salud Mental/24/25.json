@@ -1,0 +1,17 @@
+{
+    "header_text": "Sentirse entumecido",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Has estado lidiando con algunas situaciones estresantes recientemente. Estás reflexionando sobre las últimas semanas y te das cuenta de que no has estado muy emocional, lo que te hace pensar que te has vuelto insensible. Recuerdas que lo has sobrellevado bien y probablemente simplemente has mantenido sus emociones..."
+        },
+        {
+            "type": "Entry",
+            "name": "Sentirse entumecido_Salud Mental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
+}

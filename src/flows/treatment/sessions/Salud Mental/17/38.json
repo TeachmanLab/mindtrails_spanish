@@ -1,0 +1,16 @@
+{
+    "header_text": "Expresándote",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Expresándote"
+        },
+        {
+            "type": "Media",
+            "url": "./images/75.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

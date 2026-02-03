@@ -1,17 +1,16 @@
 {
-    "header_text": "Mantener a la familia",
+    "header_text": "Factura por una reparación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Quieres que tu familia tenga buenas oportunidades educativas. Quieres que tus hijos puedan asistir a buenas universidades, pero comprendas que esto tiene un precio..."
+            "text": "Factura por una reparación"
         },
         {
-            "type": "Entry",
-            "name": "Mantener a la familia_Finanzas_entry1"
+            "type": "Media",
+            "url": "./images/246.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 0
 }

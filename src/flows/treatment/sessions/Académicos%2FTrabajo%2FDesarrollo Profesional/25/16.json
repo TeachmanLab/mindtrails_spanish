@@ -1,16 +1,16 @@
 {
-    "header_text": "Tu Currículum",
+    "header_text": "Aplicando a trabajos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu Currículum"
+            "text": "Aplicando a trabajos"
         },
         {
             "type": "Media",
-            "url": "./images/77.jpg"
+            "url": "./images/114.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 6
+    "type": "positive",
+    "scenario_num": 1
 }

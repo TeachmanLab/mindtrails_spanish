@@ -1,16 +1,16 @@
 {
-    "header_text": "Presentación de recaudación de fondos",
+    "header_text": "Revisando tus cualificaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Presentación de recaudación de fondos"
+            "text": "Revisando tus cualificaciones"
         },
         {
             "type": "Media",
-            "url": "./images/121.jpg"
+            "url": "./images/53.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 0
 }

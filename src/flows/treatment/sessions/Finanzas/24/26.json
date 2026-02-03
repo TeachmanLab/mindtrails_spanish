@@ -1,0 +1,17 @@
+{
+    "header_text": "Planes de descanso",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tus amigos están planeando un viaje a la playa durante las vacaciones y han ofrecido a ayudarte con el costo. Te sientes agradecido, pero también avergonzado de no poder pagar el viaje ti mismo. Sabes que tus amigos están felices de... "
+        },
+        {
+            "type": "Entry",
+            "name": "Planes de descanso_Finanzas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
+}

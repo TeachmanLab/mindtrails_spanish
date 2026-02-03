@@ -1,0 +1,17 @@
+{
+    "header_text": "El curso difícil",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Te has inscrito en un programa de ciencia de datos ofrecido por tu lugar de trabajo porque crees que será una habilidad útil que podrás adquirir en el futuro. Sabes que la demanda de personas con experiencia en ciencia de datos está aumentando, pero el programa es muy..."
+        },
+        {
+            "type": "Entry",
+            "name": "El curso difícil_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 9
+}

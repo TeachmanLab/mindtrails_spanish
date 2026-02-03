@@ -1,16 +1,16 @@
 {
-    "header_text": "Trabajo inacabado",
+    "header_text": "Lograr tus objetivos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Trabajo inacabado"
+            "text": "Lograr tus objetivos"
         },
         {
             "type": "Media",
-            "url": "./images/68.jpg"
+            "url": "./images/71.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 6
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

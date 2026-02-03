@@ -1,0 +1,17 @@
+{
+    "header_text": "Conflictos de convivencia",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tú y tu pareja llevan unos meses viviendo juntos y han surgido algunos problemas. Tu amigo va a visitar pronto y, al preguntarle a tu pareja si tu amigo puede quedarse contigo mientras está en la ciudad, tu pareja se enoja y comienza a subir la..."
+        },
+        {
+            "type": "Entry",
+            "name": "Conflictos de convivencia_Situaciones Sociales_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

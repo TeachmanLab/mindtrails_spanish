@@ -1,10 +1,25 @@
 {
-    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_text": "Maquinas apagadas:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Todos los sentimientos pasan. Cuando sientas que un sentimiento negativo (como la tristeza o el miedo) nunca terminará, recuérdate suavemente que este sentimiento eventualmente pasará."
+            "text": "Tú y tu familia van a salir de la ciudad por unos días y tu pareja te pide que revises que todos los electrodomésticos de tu casa estén apagados antes de partir. Tenías que apresurarte a hacer las maletas, así que no pudiste comprobarlo todo. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Aunque no pude comprobarlo completamente por segunda vez antes de que todos nos fuéramos, recuerdo que nunca antes había dejado los electrodomésticos encendidos al salir de casa.",
+                "Pienso en todas las cosas horribles que podrían pasar en la casa.",
+                "Pienso en todas las cosas divertidas que mi familia y yo haremos en nuestro viaje.",
+                "Pienso en cómo noté que todo estaba apagado durante la primera revisión.",
+                "Incluso si no estoy 100% seguro de que los electrodomésticos estén apagados, puedo vivir con eso."
+            ],
+            "Duration": 15000
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
     ]
 }

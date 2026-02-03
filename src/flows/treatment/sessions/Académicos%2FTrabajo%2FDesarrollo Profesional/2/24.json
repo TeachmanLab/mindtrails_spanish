@@ -1,25 +1,29 @@
 {
-    "header_text": "Rendimiento deficiente",
+    "header_text": "Obtener una oportunidad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hoy por la noche descubrirás los resultados de tu evaluación anual de rendimiento en el trabajo. Tus calificaciones son bajas en una categoría y sabes que tu supervisor querrá reunirse contigo para hablar sobre tu desempeño. Cuando piensas en lo que tu supervisor te dirá, te sientes..."
+            "text": "¿Te invitarán a una entrevista?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Rendimiento deficiente_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "type": "Buttons",
+            "name": "Obtener una oportunidad_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "bien"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 7
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

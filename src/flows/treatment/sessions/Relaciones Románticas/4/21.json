@@ -1,25 +1,29 @@
 {
-    "header_text": "Invitando a alguien a salir",
+    "header_text": "Relación a largo plazo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en un largo viaje en tren y realmente conectas con una persona atractiva que está sentada a tu lado. A medida que el viaje termina, piensas en lo mucho que te gustaría volver a ver a esta persona, pero te preocupa que puedas parecer demasiado directo. Cuando consideras invitar a la otra persona  a tomar un café, no te preocupa que te rechacen porque estás bastante seguro de que esta persona..."
+            "text": "¿Crees que tu relación con tu pareja actual se desvanecerá?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Invitando a alguien a salir_Relaciones Románticas_puzzle1",
+            "type": "Buttons",
+            "name": "Relación a largo plazo_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "declinará"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 6
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

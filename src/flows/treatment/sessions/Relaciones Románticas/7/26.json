@@ -1,29 +1,25 @@
 {
-    "header_text": "Prepararse para una cita",
+    "header_text": "Estrés en tu relación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tienes que impresionar a esta persona?"
+            "text": "Estás planeando tu boda con tu prometido. A veces, planear el matrimonio ha generado estrés en tu relación, y tú y tu prometido han tenido algunas discusiones durante el proceso. Una vez que la boda haya terminado, y después de todo lo que ha sucedido, piensas que tú y tu pareja se sentirán menos..."
         },
         {
-            "type": "Buttons",
-            "name": "Prepararse para una cita_Relaciones Románticas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Estrés en tu relación_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "cercanos"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 7
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 4
 }

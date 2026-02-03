@@ -1,0 +1,16 @@
+{
+    "header_text": "Cambio de planes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cambio de planes"
+        },
+        {
+            "type": "Media",
+            "url": "./images/323.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

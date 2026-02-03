@@ -1,0 +1,16 @@
+{
+    "header_text": "Chistes con amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Chistes con amigos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/489.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

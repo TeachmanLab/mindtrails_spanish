@@ -1,25 +1,29 @@
 {
-    "header_text": "Multitud del discurso",
+    "header_text": "Reorganización después de la exposición",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás dando un discurso en una convención de trabajo. Mientras hablas, miras la audeiencia y notas que la expresión de tu jefe es casi inexpresiva, pero puedes distinguir un ligero ceño..."
+            "text": "¿Tu supervisor te penalizará por estar expuesto?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Multitud del discurso_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "type": "Buttons",
+            "name": "Reorganización después de la exposición_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "fruncido"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 6
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

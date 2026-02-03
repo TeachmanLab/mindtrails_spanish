@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Trata de poner una etiqueta específica a tus sentimientos (¿estás triste, enojado, disgustado, nervioso, aterrorizado, etc.?); los sentimientos son más fáciles de manejar cuando podemos describirlos completamente."
+        }
+    ]
+}

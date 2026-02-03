@@ -1,29 +1,25 @@
 {
-    "header_text": "Resultados de la evaluación",
+    "header_text": "Opinión importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Puedes tolerar tus nervios mientras esperas saber tus resultados?"
+            "text": "Terminas una tarea que tienes que entregar la próxima semana y le pides a tu jefe su opinión. Te dice que el trabajo está bien, excepto por una sección incompleta. Sientes que piensa que eres..."
         },
         {
-            "type": "Buttons",
-            "name": "Resultados de la evaluación_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "Opinión importante_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "descuidado"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 4
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

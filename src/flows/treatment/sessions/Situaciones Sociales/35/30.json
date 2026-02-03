@@ -1,29 +1,25 @@
 {
-    "header_text": "Faltando una reunión",
+    "header_text": "Una audiencia captada",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Durante la reunion, tu jefe pensará que probablemente eres..."
+            "text": "Tienes que dar una presentación a un grupo de colegas de trabajo que conoces bien. Todos están callados durante tu presentación. Mientras lo piensas más tarde en casa, crees que tus colegas encontraron tu presentación..."
         },
         {
-            "type": "Buttons",
-            "name": "Faltando una reunión_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Una audiencia captada_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Irresponsable y nervioso.",
-                "Competente, a pesar de que cometiste un error."
+            "display_delay": 2000,
+            "words": [
+                "interesante"
             ],
-            "column_Count": 1,
-            "correct_value": "Competente, a pesar de que cometiste un error."
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 5
 }

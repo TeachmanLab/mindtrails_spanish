@@ -1,0 +1,25 @@
+{
+    "header_text": "Luchando con una presentación: Comportamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Has estado luchando por armar esta presentación, pero aún no te has comunicado con tu jefe al respecto. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Inventaré una excusa de por qué no me preparé lo suficiente para la presentación.",
+                "Puede que me sienta molesto y quiera abandonar la reunión, pero respiro unas cuantas veces para calmarme.",
+                "Practico mi presentación.",
+                "Hago un chiste al inicio de mi presentación para romper el hielo.",
+                "Quiero abandonar esta tarea, pero decido seguir intentándolo."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

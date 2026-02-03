@@ -1,17 +1,27 @@
 {
-    "header_text": "Ruidos del exterior",
+    "header_text": "Decisiones de viaje",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te acabas de mudar a una nueva casa. Afuera está oscuro y de repente escuchas ruidos afuera. Miras por la ventana y ves un..."
+            "text": "Estás considerando varias opciones para donde ir de vacaciones. Solo tienes un poco de información sobre cada destino potencial antes de tomar tu decisión. Cuando decides, te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Ruidos del exterior_Vida Familiar y Doméstica_entry1"
+            "name": "Decisiones de viaje_Vida Familiar y Doméstica_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Recuerda, MindTrails no solo cambia tu perspectiva sobre las situaciones que estás leyendo aquí, ¡sino también tu perspectiva en la vida real!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

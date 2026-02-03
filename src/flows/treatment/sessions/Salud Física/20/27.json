@@ -1,25 +1,39 @@
 {
-    "header_text": "Hora para dormir",
+    "header_text": "Carrera matutina del domingo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás acostado en tu cama, a punto de dormir. A medida que todo se calma, empiezas a respirar más lento de lo normal. Esto es..."
+            "text": "Debes..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Hora para dormir_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Carrera matutina del domingo_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "relajante"
+            "buttons": [
+                "Tomarte una botella de ague y comerte un bocado despues del ejecicio.",
+                "Hacer una llamada de emergencia porque esto es señal de algo grave."
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Tomarte una botella de ague y comerte un bocado despues del ejecicio."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Recuerda, MindTrails no solo cambia tu perspectiva sobre las situaciones que estás leyendo aquí, ¡sino también tu perspectiva en la vida real!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

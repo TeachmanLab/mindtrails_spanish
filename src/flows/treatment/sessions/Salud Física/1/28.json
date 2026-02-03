@@ -1,25 +1,16 @@
 {
-    "header_text": "Evaluación de salud",
+    "header_text": "Sala de espera del hospital",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En tu cita médica anual, tu doctor decide hacerte unas pruebas para evaluar tu salud en función del historial médico de tu familia. Tus resultados estarán listos en una semana. Mientras esperas los resultados, crees que probablemente estás..."
+            "text": "Sala de espera del hospital"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Evaluación de salud_Salud Física_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "sano"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/373.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 8
+    "type": "negative",
+    "scenario_num": 5
 }

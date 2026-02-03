@@ -1,25 +1,10 @@
 {
-    "header_text": "Amigo ruidoso: Comportamientos",
+    "header_text": "Amigo ruidoso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu auto se descompuso y un amigo te va a dejar en una reunión. Cuando te deja, hace mucho ruido y todos los que están allí te miran. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
-        },
-        {
-            "type": "TimedText",
-            "texts": [
-                "Le sonrío a mi amigo mientras salgo del auto.",
-                "Evito hacer contacto visual con la gente.",
-                "Siento la necesidad de saltarme la reunión, pero me obligo a enfrentar mis miedos y entrar.",
-                "Quiero seguir disculpándome con las personas en la reunión hasta estar seguro de que no están enojados, pero decido que una vez es suficiente.",
-                "Empiezo a sacar mis notas para la reunión."
-            ],
-            "Duration": 15000
+            "text": "El objetivo de este ejercicio es ayudarle a aprender que hay muchas reacciones diferentes que puede tener en una situación estresante y que no todos estos pensamientos, sentimientos y comportamientos tienen que ser negativos. \n\nDespués de ver algunos pensamientos, se le pedirá que escriba su propio ejemplo de un pensamiento útil que pueda tener en esa situación. Harás lo mismo con los sentimientos y comportamientos. \n\nLa misma situación se presentará varias veces. Esta repetición es intencionada para que puedas practicar pensar en la misma situación de muchas maneras diferentes."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
     ]
 }

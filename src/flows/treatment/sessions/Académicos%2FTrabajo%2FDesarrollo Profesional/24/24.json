@@ -1,10 +1,16 @@
 {
-    "header_text": "Maneja tus sentimientos: Académicos/Trabajo/Desarrollo Profesional",
+    "header_text": "Presentación de recaudación de fondos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Prueba el método Pomodoro: tómate un descanso de 5 minutos cada 30 minutos de trabajo para que tu mente rejuvenezca."
+            "text": "Presentación de recaudación de fondos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/121.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

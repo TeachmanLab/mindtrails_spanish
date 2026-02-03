@@ -1,16 +1,17 @@
 {
-    "header_text": "Opiniones sobre la terapia",
+    "header_text": "Trabajo inacabado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Opiniones sobre la terapia"
+            "text": "Tuviste un día muy ocupado y no pudiste realizar todas sus tareas. En la cena, tu pareja habla orgullosamente de cómo terminó todo lo que tenía en la lista de tareas pendientes. Al pensar en si podrás completar tu trabajo mañana, te sientes..."
         },
         {
-            "type": "Media",
-            "url": "./images/167.jpg"
+            "type": "Entry",
+            "name": "Trabajo inacabado_Salud Mental_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 1
 }

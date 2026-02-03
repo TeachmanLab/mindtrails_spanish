@@ -1,29 +1,25 @@
 {
-    "header_text": "sintiéndote enfermo en un día caluroso",
+    "header_text": "Cargando bolsas de compras",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Respondes a la sensación en tu estómago..."
+            "text": "Incierto sí son buenas o malas, decides simplemente..."
         },
         {
-            "type": "Buttons",
-            "name": "sintiéndote enfermo en un día caluroso_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Cargando bolsas de compras_Salud Física_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Observando las sensaciones sin hacer nada.",
-                "Entrando en pánico por las sensaciones y llamando a una ambulancia."
+            "display_delay": 2000,
+            "words": [
+                "aceptarlas"
             ],
-            "column_Count": 1,
-            "correct_value": "Observando las sensaciones sin hacer nada."
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 7
+    "scenario_num": 4
 }

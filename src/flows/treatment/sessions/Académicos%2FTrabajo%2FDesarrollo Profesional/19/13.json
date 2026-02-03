@@ -1,29 +1,25 @@
 {
-    "header_text": "Proyecto de escritura",
+    "header_text": "sintiéndote Preparado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Es probable que tu supervisor te haya encontrado..."
+            "text": "Estás dando una presentación en una reunión mañana. Sabes que la calidad de tu presentación será tomada en cuenta por tu jefe. Mientras piensas en la presentación, te sientes..."
         },
         {
-            "type": "Buttons",
-            "name": "Proyecto de escritura_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "sintiéndote Preparado_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Capaz.",
-                "Incapaz."
+            "display_delay": 2000,
+            "words": [
+                "preparado"
             ],
-            "column_Count": 1,
-            "correct_value": "Capaz."
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

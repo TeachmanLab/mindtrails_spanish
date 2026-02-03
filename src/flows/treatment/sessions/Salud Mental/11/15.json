@@ -1,19 +1,15 @@
 {
-    "header_text": "Serpientes en el parque: Comportamientos",
+    "header_text": "Serpientes en el parque",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo te convence de dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nTómese 30 segundos para escribir diferentes comportamientos. El siguiente botón aparecerá automáticamente.\n\nComportamientos que podrías realizar en este momento:"
+            "text": "Tu amigo te convence de dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nHaga clic en Siguiente para ver algunas ideas."
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/184.jpg",
+            "border": true
         }
-    ],
-    "navigation_conditions": [
-        {
-            "wait_for_time": 30000
-        },
-        "wait_for_click"
     ]
 }

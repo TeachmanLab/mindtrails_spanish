@@ -1,39 +1,25 @@
 {
-    "header_text": "Miedo al COVID",
+    "header_text": "Amigo importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Fuiste capaz de ayudar a tu amigo?"
+            "text": "Estás hablando con tu mejor amigo de muchos años. Durante la conversación, te critica, diciendo que no cree que valga la pena seguir en tu trabajo. Te preguntas si deberías seguir siendo amigos con..."
         },
         {
-            "type": "Buttons",
-            "name": "Miedo al COVID_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Amigo importante_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "él"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Cada pequeño cambio de perspectiva conduce a cambios mayores con el tiempo. Continúe: ¡estás entrenando tu cerebro para pensar de manera más equilibrada y útil!"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 1
 }

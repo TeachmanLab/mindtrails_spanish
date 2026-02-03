@@ -1,17 +1,16 @@
 {
-    "header_text": "Presentación de clase",
+    "header_text": "Lecciones Aprendidas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes que hacer una presentación para tus compañeros de trabajo hoy. Cuando te pones de pie frente a ellos, sientes que te arden las mejillas y te tiemblan las manos. Crees que estas sensaciones serán..."
+            "Text": "¡Excelente trabajo! ¡Estás haciendo un gran progreso al probar nuevas perspectivas relacionadas con la salud física! Tómate unos minutos para reflexionar sobre los cuentos cortos que has leído hasta ahora. ¿Qué has aprendido? ¿Cuáles son tus principales conclusiones? Por ejemplo, podrías notar que sensaciones incómodas en tu cuerpo, como un corazón acelerado, a menudo no son peligrosas."
         },
         {
             "type": "Entry",
-            "name": "Presentación de clase_Salud Física_entry1"
+            "name": "lessons_learned_Salud Física_0"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

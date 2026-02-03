@@ -1,14 +1,14 @@
 {
-    "header_text": "Quedarse sin batería",
+    "header_text": "Calentador",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Estarás bien el viaje en auto sin tu teléfono?"
+            "text": "¿Tu calefactor provocará un incendio?"
         },
         {
             "type": "Buttons",
-            "name": "Quedarse sin batería_Vida Familiar y Doméstica_comp_question",
+            "name": "Calentador_Vida Familiar y Doméstica_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
@@ -17,13 +17,23 @@
                 "No"
             ],
             "column_Count": 1,
-            "correct_value": "Sí"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
-    "scenario_num": 7
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "¿Por qué estás completando palabras con letras? Al completar repetidamente las letras que faltan para completar palabras positivas, neutrales o negativas, el cerebro adopta patrones de pensamiento flexibles para reducir el pensamiento rígido."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

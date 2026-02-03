@@ -1,16 +1,16 @@
 {
-    "header_text": "Compartir redes sociales con un nuevo amigo",
+    "header_text": "Gustos musicales diferentes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Compartir redes sociales con un nuevo amigo"
+            "text": "Gustos musicales diferentes"
         },
         {
             "type": "Media",
-            "url": "./images/197.jpg"
+            "url": "./images/503.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 7
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

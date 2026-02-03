@@ -1,25 +1,16 @@
 {
-    "header_text": "Truco o trato",
+    "header_text": "Corriendo con un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu hijo quiere ir a truco o trato en El Césped y te rogó que te vistiera con él. Llevas un disfraz y te encuentras algunas personas del trabajo que no están disfrazadas. Piensan que tu disfraz es..."
+            "text": "Corriendo con un amigo"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Truco o trato_Situaciones Sociales_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "genial"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/416.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 6
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

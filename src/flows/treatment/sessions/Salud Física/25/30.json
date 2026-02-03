@@ -1,0 +1,17 @@
+{
+    "header_text": "Subiendo escaleras",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "El ascensor de tu edificio está roto otra vez y tienes que subir varias plantas por las escaleras para llegar a donde necesitas ir. Sientes que tu pecho se aprieta y te quedas sin aliento al llegar al último escalón. Te sientes..."
+        },
+        {
+            "type": "Entry",
+            "name": "Subiendo escaleras_Salud Física_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 7
+}

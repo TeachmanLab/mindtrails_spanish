@@ -1,25 +1,22 @@
 {
-    "header_text": "Vidrio roto:Pensamientos",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en un restaurante tranquilo con muchos miembros de tu familia para cenar. Mientras tomas un trago de agua, accidentalmente tiras el vaso al suelo y se rompe.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Describe la situación en pocas palabras:"
         },
         {
-            "type": "TimedText",
-            "texts": [
-                "Mi familia también ha dejado cosas en restaurantes en el pasado.",
-                "Pienso en cómo todo el mundo a veces tiene momentos de torpeza.",
-                "Puede que mi familia esté molesta, pero puedo esperar hasta que se les pase.",
-                "Mi familia debe de estar avergonzada de mí.",
-                "El camarero se irritará, pero me disculparé y me ofreceré a ayudar a limpiar."
-            ],
-            "Duration": 15000
+            "type": "Entry",
+            "name": "entry_anxious_imagery"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
     ]
 }

@@ -1,39 +1,16 @@
 {
-    "header_text": "Carrera matutina del domingo",
+    "header_text": "Probando comidas nuevas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Debes..."
+            "text": "Probando comidas nuevas"
         },
         {
-            "type": "Buttons",
-            "name": "Carrera matutina del domingo_Salud Física_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Tomarte una botella de ague y comerte un bocado despues del ejecicio.",
-                "Hacer una llamada de emergencia porque esto es señal de algo grave."
-            ],
-            "column_Count": 1,
-            "correct_value": "Tomarte una botella de ague y comerte un bocado despues del ejecicio."
+            "type": "Media",
+            "url": "./images/329.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Recuerda, MindTrails no solo cambia tu perspectiva sobre las situaciones que estás leyendo aquí, ¡sino también tu perspectiva en la vida real!"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

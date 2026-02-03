@@ -1,17 +1,17 @@
 {
-    "header_text": "Mantener a la familia",
+    "header_text": "Iniciando un negocio pequeño",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Quieres que tu familia tenga buenas oportunidades educativas. Quieres que tus hijos puedan asistir a buenas universidades, pero comprendas que esto tiene un precio alto. Cuando piensas en tus hijos, piensas que apoyar su educación universitaria será..."
+            "text": "Estás considerando dejar tu trabajo para comenzar tu propio pequeño negocio y estás listo para trabajar duro. Estás emocionado, pero también sabes que muchos nuevos emprendimientos pueden fracasar. Pensando en el futuro de tu negocio, crees que..."
         },
         {
             "type": "Entry",
-            "name": "Mantener a la familia_Finanzas_entry1"
+            "name": "Iniciando un negocio pequeño_Finanzas_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 7
+    "type": "negative",
+    "scenario_num": 2
 }

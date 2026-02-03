@@ -1,17 +1,16 @@
 {
-    "header_text": "Presentación opcional",
+    "header_text": "Contribuir a una discusión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu jefe ha contratado a algunos pasantes para el verano. Te pide que te quedes después del trabajo para darles una breve presentación sobre los objetivos y valores de la universidad, pero te dice que esto es completamente opcional. Te sientes un poco nervioso por dar la presentación, y decides... "
+            "text": "Contribuir a una discusión"
         },
         {
-            "type": "Entry",
-            "name": "Presentación opcional_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "type": "Media",
+            "url": "./images/57.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 3
 }

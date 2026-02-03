@@ -1,25 +1,29 @@
 {
-    "header_text": "Cita con el doctor",
+    "header_text": "De prisa",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Últimamente te has sentido un poco enfermo, por lo que haces una cita con el médico. Faltan unos días para la cita más próxima que puedes conseguir. Mientras esperas la cita con tu médico, crees que tu enfermedad probablemente no es..."
+            "text": "¿Es necesario salir del carro porque sientes que tu corazón este latiendo rápidamente?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Cita con el doctor_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "De prisa_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "grave"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 7
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

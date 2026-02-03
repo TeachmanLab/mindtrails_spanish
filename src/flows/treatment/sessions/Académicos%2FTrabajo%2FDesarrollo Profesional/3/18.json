@@ -1,16 +1,16 @@
 {
-    "header_text": "Apoyándose en sus compañeros",
+    "header_text": "Trabajando para salir adelante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Apoyándose en sus compañeros"
+            "text": "Trabajando para salir adelante"
         },
         {
             "type": "Media",
-            "url": "./images/25.jpg"
+            "url": "./images/23.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 5
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

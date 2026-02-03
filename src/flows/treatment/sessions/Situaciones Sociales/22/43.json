@@ -1,0 +1,25 @@
+{
+    "header_text": "Un saludo de bienvenida",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Es el fin de semana y ves a un amigo que no has visto en mucho tiempo. Tu amigo te da un gran abrazo y te sientes asfixiado. Este sentimiento es..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Un saludo de bienvenida_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "agradable"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
+}

@@ -1,25 +1,16 @@
 {
-    "header_text": "Alzar la voz en una clase",
+    "header_text": "Discutir la evaluación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu jefe está hablando de uno de tus modelos a seguir en tu campo de trabajo durante una reunión y le pregunta si alguien sabe de su trabajo. Frente a todos levantas rápidamente la mano y tus colegas se vuelven hacia ti. Te das cuenta de que te sientes..."
+            "text": "Discutir la evaluación"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Alzar la voz en una clase_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "seguro"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/25.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 2
 }

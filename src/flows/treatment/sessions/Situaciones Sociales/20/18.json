@@ -1,39 +1,25 @@
 {
-    "header_text": "Invitación a cenar",
+    "header_text": "Asumir un riesgo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Le caerás bien a los otros invitados?"
+            "text": " Un orador que admiras viene a dar una charla en tu departamento. Quieres hacerle una pregunta despues de la presentación, pero no quieres avergonsarte en frente de todos. Cuando piesas en hablar con él, sientes... "
         },
         {
-            "type": "Buttons",
-            "name": "Invitación a cenar_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Asumir un riesgo_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "entusiasmo"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Recuerda, MindTrails no solo cambia tu perspectiva sobre las situaciones que estás leyendo aquí, ¡sino también tu perspectiva en la vida real!"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 1
 }

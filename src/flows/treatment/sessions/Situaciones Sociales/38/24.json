@@ -1,10 +1,16 @@
 {
-    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
+    "header_text": "Corriendo con un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Si tienes dificultades para iniciar una conversación con alguien, piensa en un cumplido o una palabra amable para compartir con esa persona. "
+            "text": "Corriendo con un amigo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/416.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

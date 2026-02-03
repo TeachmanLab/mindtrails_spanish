@@ -1,0 +1,16 @@
+{
+    "header_text": "Asistir a una cena",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Asistir a una cena"
+        },
+        {
+            "type": "Media",
+            "url": "./images/162.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

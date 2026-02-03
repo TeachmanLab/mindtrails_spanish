@@ -1,29 +1,25 @@
 {
-    "header_text": "El escaparate de danza",
+    "header_text": "Planes cancelados",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Si invitas a tus amigos y familiares, probablemente pensarán que..."
+            "text": "Tienes planes para encontrarte con un amigo en la ciudad. La última vez que se vio, tuvieron un desacuerdo. Justo antes de salir, te llama para decir que no puede llegar. Al colgar el teléfono, piensas que esto se debe a que está..."
         },
         {
-            "type": "Buttons",
-            "name": "El escaparate de danza_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Planes cancelados_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Parecías muy tonto y esperan que no vuelvas a invitarles.",
-                "Hiciste un buen trabajo y esperan que los invites a futuras presentaciones."
+            "display_delay": 2000,
+            "words": [
+                "ocupado"
             ],
-            "column_Count": 1,
-            "correct_value": "Parecías muy tonto y esperan que no vuelvas a invitarles."
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 7
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
 }

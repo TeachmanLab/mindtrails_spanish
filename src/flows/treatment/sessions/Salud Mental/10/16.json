@@ -1,16 +1,16 @@
 {
-    "header_text": "Recuerdo conduciendo",
+    "header_text": "Sentado en una reunión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recuerdo conduciendo"
+            "text": "Sentado en una reunión"
         },
         {
             "type": "Media",
-            "url": "./images/324.jpg"
+            "url": "./images/46.jpg"
         }
     ],
     "type": "resilience/negation",
-    "scenario_num": 6
+    "scenario_num": 1
 }

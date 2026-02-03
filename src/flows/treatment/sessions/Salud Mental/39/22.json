@@ -1,16 +1,17 @@
 {
-    "header_text": "Tiempo para ti mismo",
+    "header_text": "Preocupaciones por el ritmo cardíaco",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tiempo para ti mismo"
+            "text": "Cuando el evento se vuelve más ruidoso a medida que llega más gente, consideras irte, pero decides que puedes manejar estos sentimientos y seguir..."
         },
         {
-            "type": "Media",
-            "url": "./images/149.jpg"
+            "type": "Entry",
+            "name": "Preocupaciones por el ritmo cardíaco_Salud Mental_entry2"
         }
     ],
-    "type": "positive",
-    "scenario_num": 9
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

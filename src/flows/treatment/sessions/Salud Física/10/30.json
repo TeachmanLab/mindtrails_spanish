@@ -1,0 +1,16 @@
+{
+    "header_text": "Conociendo alguien nuevo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Conociendo alguien nuevo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/434.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

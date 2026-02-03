@@ -1,25 +1,10 @@
 {
-    "header_text": "Vidrio roto: Comportamientos",
+    "header_text": "Vidrio roto",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en un restaurante tranquilo con muchos miembros de tu familia para cenar. Mientras tomas un trago de agua, accidentalmente tiras el vaso al suelo y se rompe.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
-        },
-        {
-            "type": "TimedText",
-            "texts": [
-                "Le pregunto al camarero si puedo ayudar a limpiar.",
-                "Pido disculpas a los camareros y les agradezco su ayuda.",
-                "Quiero salir del restaurante, pero decido quedarme y pasar un buen rato.",
-                "Cuando llega el camarero, le hecho la culpa del derrame a otro miembro de la familia.",
-                "Quiero llorar, pero respiro hondo y recuerdo que esto sucede."
-            ],
-            "Duration": 15000
+            "text": "El objetivo de este ejercicio es ayudarle a aprender que hay muchas reacciones diferentes que puede tener en una situación estresante y que no todos estos pensamientos, sentimientos y comportamientos tienen que ser negativos. \n\nDespués de ver algunos pensamientos, se le pedirá que escriba su propio ejemplo de un pensamiento útil que pueda tener en esa situación. Harás lo mismo con los sentimientos y comportamientos. \n\nLa misma situación se presentará varias veces. Esta repetición es intencionada para que puedas practicar pensar en la misma situación de muchas maneras diferentes."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
     ]
 }

@@ -1,17 +1,17 @@
 {
-    "header_text": "Revisando tus cualificaciones",
+    "header_text": "Proyecto eliminado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en una nueva ciudad y necesitas empezar a solicitar trabajos. Comienzas a revisar los requisitos para los puestos y, aunque has trabajado duro para preparar tu currículum, te preguntas si será suficiente. Piensas en tus logros y sabes que has hecho más que..."
+            "text": "Respiras hondo y decides contarle a tu jefe lo sucedido. Tú te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Revisando tus cualificaciones_Salud Mental_entry1"
+            "name": "Proyecto eliminado_Salud Mental_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 6
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

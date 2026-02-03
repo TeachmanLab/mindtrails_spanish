@@ -1,25 +1,25 @@
 {
-    "header_text": "Manejando el estrés",
+    "header_text": "Dando vueltas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes que hacer una presentación para tus compañeros de trabajo hoy. Cuando te pones de pie frente a tus compañeros, sientes que te arden las mejillas y te tiemblan las manos. Crees que estas sensaciones serán..."
+            "text": "Decides girar rápidamente en una silla de oficina. Sientes mariposas en el estómago y te mareas cuando la silla se desacelera. Estas sensaciones probablemente significan que estás..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Manejando el estrés_Salud Física_puzzle1",
+            "name": "Dando vueltas_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "manejables"
+                "bien"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

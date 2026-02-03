@@ -1,16 +1,16 @@
 {
-    "header_text": "Sintiéndote ansioso",
+    "header_text": "Usando un chiste diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Sintiéndote ansioso"
+            "text": "Usando un chiste diferente"
         },
         {
             "type": "Media",
-            "url": "./images/11.jpg"
+            "url": "./images/109.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 4
 }

@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Finanzas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Si hay alguien (amigo, familiar, colega, asesor/jefe, etc.) con quien te sientes cómodo confiándole su situación financiera actual, pregúntale si puedes hablar con él sobre cómo te sientes y si puede ofrecerte algún consejo."
+        }
+    ]
+}

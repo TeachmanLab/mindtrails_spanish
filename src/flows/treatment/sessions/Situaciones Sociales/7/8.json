@@ -1,25 +1,27 @@
 {
-    "header_text": "Alzar la voz en una clase",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu jefe está hablando sobre uno de tus modelos a seguir en tu campo de trabajo durante una reunión y le pregunta si alguien sabe de su trabajo. Frente a todos levantas rápidamente la mano y tus colegas se vuelven hacia ti. Te das cuenta de que te sientes..."
+            "text": "¿Qué tan ansioso te sentiste (en el nivel más alto de ansiedad) al completar la tarea de visualización? Presiona la barra para usar el control deslizante.\n\n0 = Absolutamente sin ansiedad. \n\n10 = Totalmente ansioso."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Alzar la voz en una clase_Situaciones Sociales_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "seguro"
+            "type": "Slider",
+            "min": "0",
+            "max": "10",
+            "others": [
+                "Prefiero no responder"
             ],
-            "missing_letter_count": 2
+            "name": "imagery_anxiety"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 2
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

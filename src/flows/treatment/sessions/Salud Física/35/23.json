@@ -1,25 +1,29 @@
 {
-    "header_text": "Quemadura",
+    "header_text": "Caminata con amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras preparas la cena, accidentalmente tocas una sartén muy caliente. Rápidamente pones tu dedo bajo agua fría y ves que tu piel se está poniendo roja. Después de unos minutos, piensas que la quemadura es...\r\n"
+            "text": "¿Es probable que estés seguro en la caminata?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Quemadura_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Caminata con amigos_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "leve"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 6
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

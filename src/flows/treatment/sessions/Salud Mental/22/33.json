@@ -1,10 +1,29 @@
 {
-    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_text": "Tus habilidades con los bolos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando estés estresado o molesto, trata de concentrarte en tus cinco sentidos: observa 5 cosas que puedas ver, 4 cosas que puedas sentir, 3 cosas que puedas oír, 2 cosas que puedas oler y 1 cosa que puedas saborear."
+            "text": "Crees que a medida que sigas jugando a los bolos..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Tus habilidades con los bolos_Salud Mental_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Nunca te convertirás en un buen jugador de bolos.",
+                "Eventualmente te convertirás en un jugador de bolos fuerte."
+            ],
+            "column_Count": 1,
+            "correct_value": "Eventualmente te convertirás en un jugador de bolos fuerte."
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

@@ -1,17 +1,23 @@
 {
-    "header_text": "Mantener a la familia",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando piensas en tus hijos, no crees que perderán oportunidades educativas por falta de dinero y crees que apoyar su educación universitaria será..."
-        },
-        {
-            "type": "Entry",
-            "name": "Mantener a la familia_Vida Familiar y Doméstica_entry2"
+            "text": "Juega esta situación en tu cabeza durante los próximos 20 segundos. \n\nLa pantalla cambiará en 20 segundos."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 1
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 20000
+        }
+    ]
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Enfrentando a un amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Enfrentando a un amigo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/354.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

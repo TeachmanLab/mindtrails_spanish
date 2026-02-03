@@ -1,10 +1,25 @@
 {
-    "header_text": "Recurso: Situaciones Sociales",
+    "header_text": "Almuerzo con un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Alianza Americas: Caja de herramientas\n\nLa misión de Alianza Americas, una organización transnacional, es crear una vida “más inclusiva, equitativa, y sostenible” para inmigrantes latinoamericanos en los Estados Unidos. Su Caja de herramientas contiene toolkits (guías) informativas y enlaces a recursos para temas de interés a personas latinoamericanas."
+            "text": "Sales a almorzar con un amigo. Mientras comes tu ensalada y hablas con él, te mira. Probablemente piensa que eres...  "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Almuerzo con un amigo_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "interesante"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
 }

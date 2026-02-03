@@ -1,0 +1,16 @@
+{
+    "header_text": "Esta reunión",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Esta reunión"
+        },
+        {
+            "type": "Media",
+            "url": "./images/1.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

@@ -1,16 +1,29 @@
 {
-    "header_text": "Conversación durante la cena",
+    "header_text": "Planes cancelados",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Conversación durante la cena"
+            "text": "Tu amigo probablemente canceló los planes porque..."
         },
         {
-            "type": "Media",
-            "url": "./images/149.jpg"
+            "type": "Buttons",
+            "name": "Planes cancelados_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Recordó que tenía una reunión importante en el trabajo al mismo tiempo.",
+                "Está enojado contigo debido a su desacuerdo anterior."
+            ],
+            "column_Count": 1,
+            "correct_value": "Recordó que tenía una reunión importante en el trabajo al mismo tiempo."
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 4
 }

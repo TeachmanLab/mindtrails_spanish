@@ -1,10 +1,12 @@
 {
-    "header_text": "Recurso: Vida Familiar y Doméstica",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "¡Escribe el tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Los niños y la salud mental\n\nEste sitio web creado por el Instituto Nacional de la Salud Mental (NIH, por sus siglas en inglés) ofrece mucha información acerca de la salud mental en la niñez. Indica señales cuando sería necesario buscar ayuda externa, medidas de apoyo que pueden tomar los cuidadores, como trabajar con las escuelas, y más."
+            "text": "Ten en cuenta que cada historia tiene aproximadamente 3 oraciones. La primera parte debería plantear una situación desafiante que podría generar cierta ansiedad en la que no está claro cuál será el resultado de la situación. La parte final debería resolver la incertidumbre de forma positiva o no amenazante. En otras palabras, la última frase debería dejar claro que la situación no resulta al final inmanejable."
         }
     ]
 }

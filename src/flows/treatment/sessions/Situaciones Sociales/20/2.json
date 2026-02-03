@@ -1,16 +1,10 @@
 {
-    "header_text": "Noticias controvertidas",
+    "header_text": "Recordatorio de favoritos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Noticias controvertidas"
-        },
-        {
-            "type": "Media",
-            "url": "./images/520.jpg"
+            "text": "Recuerde que puede agregar historias, consejos y recursos a sus Favoritos haciendo clic en la estrella en la esquina superior derecha de la pantalla."
         }
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 0
+    ]
 }

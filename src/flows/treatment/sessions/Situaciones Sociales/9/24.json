@@ -1,14 +1,16 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Recogiendo a un viejo amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en una situación que enfrentas regularmente que te causa algo de ansiedad. ¿Qué te sueles decir a ti mismo? ¿Hay otro pensamiento que puedas decirte a ti mismo que pueda hacer que sea menos provacador de ansiedad? "
+            "text": "Recogiendo a un viejo amigo"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #12_entry"
+            "type": "Media",
+            "url": "./images/495.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

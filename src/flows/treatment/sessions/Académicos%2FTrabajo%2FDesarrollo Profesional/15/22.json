@@ -1,16 +1,25 @@
 {
-    "header_text": "El curso difícil",
+    "header_text": "Malentendido",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "El curso difícil"
+            "text": "Después de explicar lo que sucedió al jefe de tu departamento, él dice que entiende. Sientes que aún podrás causar una buena..."
         },
         {
-            "type": "Media",
-            "url": "./images/9.jpg"
+            "type": "WordPuzzle",
+            "name": "Malentendido_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "impresión"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "negative",
-    "scenario_num": 6
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

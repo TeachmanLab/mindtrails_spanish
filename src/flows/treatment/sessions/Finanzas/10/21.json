@@ -1,16 +1,17 @@
 {
-    "header_text": "Planificación de pagos",
+    "header_text": "Inicio Presentaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Planificación de pagos"
+            "text": "Notas que tu casa no es como la de tus compañeros. Tu mejor amigo nunca ha estado en tu casa, pero quiere venir a cenar una noche. Crees que su reacción hacia tu hogar será..."
         },
         {
-            "type": "Media",
-            "url": "./images/255.jpg"
+            "type": "Entry",
+            "name": "Inicio Presentaciones_Finanzas_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 3
 }

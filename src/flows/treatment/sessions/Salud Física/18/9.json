@@ -1,25 +1,31 @@
 {
-    "header_text": "Caminata con amigos",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tus amigos han decidido ir a una caminata, aunque temes que te agotes demasiado. Un rato después de comenzar la caminata, empiezas a respirar con dificultad. Piensas que las posibilidades de que tengas que parar son..."
+            "text": "¿Qué tan vívidamente imaginaste la situación?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Caminata con amigos_Salud Física_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "altas"
+            "type": "Buttons",
+            "buttons": [
+                "Nada vívido",
+                "Algo vívido",
+                "Moderadamente vívido",
+                "Muy vívido",
+                "Totalmente vívido",
+                "Prefiero no responder"
             ],
-            "missing_letter_count": 1
+            "selectable": true,
+            "name": "imagery_vivid"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 2
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

@@ -1,29 +1,25 @@
 {
-    "header_text": "Enfrentando a un amigo",
+    "header_text": "Trabajo placentero",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Estás orgulloso de haberte comunicado con tu amigo?"
+            "text": "Tú y algunos compañeros de trabajo recibieron tareas adicionales para completar antes de que termine la semana, y han estado trabajando mucho. Escuchaste a tus compañeros decir que sería \"una locura\" disfrutar del trabajo adicional. Piensas en lo productivo que te hace sentir trabajar tan duro y te sientes..."
         },
         {
-            "type": "Buttons",
-            "name": "Enfrentando a un amigo_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Trabajo placentero_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "feliz"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 4
 }

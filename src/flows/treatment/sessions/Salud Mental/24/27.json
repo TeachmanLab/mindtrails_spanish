@@ -1,0 +1,17 @@
+{
+    "header_text": "Un comentario grosero",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Publicas una foto en la que te sientes muy seguro de ti mismo. Al volver a revisar los comentarios, ves uno muy grosero. Respiras profundo y decides no dejar que te..."
+        },
+        {
+            "type": "Entry",
+            "name": "Un comentario grosero_Salud Mental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
+}

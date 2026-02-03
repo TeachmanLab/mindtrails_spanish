@@ -1,25 +1,29 @@
 {
-    "header_text": "Visitando a los vecinos",
+    "header_text": "Revisión física anual",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te das cuenta de que no has visto a tu vecino mayor recientemente. Normalmente lo visitas con frecuencia, por lo que es extraño que no lo hayas visto últimamente. Probablemente tu vecino esté..."
+            "text": "¿Eres capaz de manejar tu ansiedad mientras esperas al doctor?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Visitando a los vecinos_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Revisión física anual_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "bien"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 5
 }

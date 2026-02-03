@@ -1,16 +1,17 @@
 {
-    "header_text": "Hablando con tu jefe",
+    "header_text": "El torneo de fútbol",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hablando con tu jefe"
+            "text": "Crees que no defraudarás a tus compañeros y contribuirás al éxito del..."
         },
         {
-            "type": "Media",
-            "url": "./images/540.jpg"
+            "type": "Entry",
+            "name": "El torneo de fútbol_Situaciones Sociales_entry2"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 1
 }

@@ -1,16 +1,17 @@
 {
-    "header_text": "Calentador",
+    "header_text": "Mantener a la familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Calentador"
+            "text": "Quieres que tu familia tenga buenas oportunidades educativas. Tú quieres que tus hijos puedan asistir a buenas universidades, pero comprendes que esto tiene un precio..."
         },
         {
-            "type": "Media",
-            "url": "./images/131.jpg"
+            "type": "Entry",
+            "name": "Mantener a la familia_Vida Familiar y Doméstica_entry1"
         }
     ],
-    "type": "positive",
-    "scenario_num": 6
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Celebraciones culturales familiares",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Celebraciones culturales familiares"
+        },
+        {
+            "type": "Media",
+            "url": "./images/45.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

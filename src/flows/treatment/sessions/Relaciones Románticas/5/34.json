@@ -1,10 +1,25 @@
 {
-    "header_text": "Maneja tus sentimientos: Relaciones Románticas",
+    "header_text": "sintiéndote inferior por estar soltero",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A veces es útil tomar unos minutos para refrescarte si estás molesto con tu pareja. Trata de tomar un descanso de discutir durante 5 minutos, y luego vuelvan juntos a hablar sobre el tema. "
+            "text": "Todos tus amigos han estado saliendo con otras personas por un tiempo o están empezando una relación nueva. No has tenido ni una sola cita y empiezas a preguntarte por qué. Aunque estés decepcionado, recuerdas que tu valor no está definido por tus..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "sintiéndote inferior por estar soltero_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "relación"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
 }

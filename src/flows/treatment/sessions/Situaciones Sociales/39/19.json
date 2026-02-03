@@ -1,17 +1,16 @@
 {
-    "header_text": "Devolución de chaqueta",
+    "header_text": "Viejo amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Al final, te das cuenta que la persona en el mostrador estaba muy estresada debido a un cliente anterior, y cuando empezó a ayudarte, fue muy..."
+            "text": "Viejo amigo"
         },
         {
-            "type": "Entry",
-            "name": "Devolución de chaqueta_Situaciones Sociales_entry2"
+            "type": "Media",
+            "url": "./images/559.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 7
+    "type": "positive",
+    "scenario_num": 3
 }

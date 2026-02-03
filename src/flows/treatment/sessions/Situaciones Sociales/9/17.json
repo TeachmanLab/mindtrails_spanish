@@ -1,16 +1,16 @@
 {
-    "header_text": "Comunicación tardía",
+    "header_text": "Clase de baile",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Comunicación tardía"
+            "text": "Clase de baile"
         },
         {
             "type": "Media",
-            "url": "./images/453.jpg"
+            "url": "./images/459.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 2
 }

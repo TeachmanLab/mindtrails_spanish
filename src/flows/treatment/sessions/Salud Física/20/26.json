@@ -1,16 +1,25 @@
 {
-    "header_text": "Hora para dormir",
+    "header_text": "Carrera matutina del domingo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hora para dormir"
+            "text": "Es domingo por la mañana y acabas de correr una milla afuera. Al quitarte los zapatos en el pasillo, estás sin aliento. Te sientes..."
         },
         {
-            "type": "Media",
-            "url": "./images/378.jpg"
+            "type": "WordPuzzle",
+            "name": "Carrera matutina del domingo_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "orgulloso"
+            ],
+            "missing_letter_count": 2
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 4
 }

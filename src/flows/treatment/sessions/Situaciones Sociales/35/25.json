@@ -1,25 +1,29 @@
 {
-    "header_text": "Nuevo ambiente",
+    "header_text": "Amigos del club de lectura",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes miedo de la naturaleza salvaje. Este fin de semana, acamparás con amigos y sabes que se han avistado con frecuencia animales salvajes en la zona. Al pensar en el viaje, sientes..."
+            "text": "Si los miembros del club de lectura acepten tu invitación a cenar, ellos probablemente..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Nuevo ambiente_Situaciones Sociales_puzzle1",
+            "type": "Buttons",
+            "name": "Amigos del club de lectura_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "miedo"
+            "buttons": [
+                "Disfrutarán de la reunión durante la cena.",
+                "Se sentirán decepcionado de tu compañía."
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Se sentirán decepcionado de tu compañía."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 7
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 3
 }

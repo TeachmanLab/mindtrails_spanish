@@ -1,25 +1,16 @@
 {
-    "header_text": "Opiniones fuertes",
+    "header_text": "Lecciones Aprendidas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Ha llegado la mañana de tu primera evaluación con tu nuevo jefe. Te dicen que tienen opiniones firmes sobre tu trabajo. Piensas que probablemente encuentran tu trabajo..."
+            "Text": "¡Excelente trabajo! ¡Estás haciendo un gran progreso al probar nuevas perspectivas relacionadas con la academia, el trabajo y el desarrollo profesional! Tómate unos minutos para reflexionar sobre los cuentos cortos que has leído hasta ahora. ¿Qué has aprendido? ¿Cuáles son tus principales conclusiones? Por ejemplo, podrías notar que nadie es perfecto y que es normal cometer errores a veces."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Opiniones fuertes_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "excelente"
-            ],
-            "missing_letter_count": 2
+            "type": "Entry",
+            "name": "lessons_learned_Académicos/Trabajo/Desarrollo Profesional_0"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Planificación de pagos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Planificación de pagos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/255.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

@@ -1,16 +1,16 @@
 {
-    "header_text": "El torneo de fútbol",
+    "header_text": "Esperando una respuesta",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "El torneo de fútbol"
+            "text": "Esperando una respuesta"
         },
         {
             "type": "Media",
-            "url": "./images/504.jpg"
+            "url": "./images/174.jpg"
         }
     ],
-    "type": "negative",
-    "scenario_num": 5
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

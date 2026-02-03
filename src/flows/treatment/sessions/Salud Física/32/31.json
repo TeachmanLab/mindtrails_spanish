@@ -1,16 +1,25 @@
 {
-    "header_text": "Un dolor de garganta",
+    "header_text": "Corriendo con un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Un dolor de garganta"
+            "text": "Tienes planeado correr mañana con un amigo que corre todos los días. No has corrido en bastante tiempo y te preocupa si podrás mantener el ritmo o no. Crees que las posibilidades de seguirle el ritmo son..."
         },
         {
-            "type": "Media",
-            "url": "./images/376.jpg"
+            "type": "WordPuzzle",
+            "name": "Corriendo con un amigo_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "bajas"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "positive",
-    "scenario_num": 9
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 5
 }

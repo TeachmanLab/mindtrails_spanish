@@ -1,29 +1,30 @@
 {
-    "header_text": "Limitaciones financieras",
+    "header_text": "Solicitar una subvención",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Todavía podrás disfrutar de una noche fuera?"
+            "text": "Solicitar una subvención"
         },
         {
-            "type": "Buttons",
-            "name": "Limitaciones financieras_Finanzas_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "type": "Media",
+            "url": "./images/53.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 9
+    "type": "negative",
+    "scenario_num": 6,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/597.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Un consejo: Trata de imaginarte diferentes formas de responder a cada escenario."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

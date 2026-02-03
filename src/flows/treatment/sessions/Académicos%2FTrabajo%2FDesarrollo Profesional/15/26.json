@@ -1,25 +1,29 @@
 {
-    "header_text": "Preparándote para la evaluación",
+    "header_text": "Tomar un descanso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te estás preparando para reunirte con tu jefe para una evaluación de desempeño. Has escuchado de otras personas que tu jefe está de muy mal humor. Sin embargo, trabajaste duro este semestre y crees que es probable que recibas una buena..."
+            "text": "¿Deberías hacer tu trabajo ahora mismo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Preparándote para la evaluación_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "type": "Buttons",
+            "name": "Tomar un descanso_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "evaluación"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 3
 }

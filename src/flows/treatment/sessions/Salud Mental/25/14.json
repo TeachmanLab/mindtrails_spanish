@@ -1,17 +1,16 @@
 {
-    "header_text": "Darte a conocer",
+    "header_text": "Invitar gente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Decides abrirte y compartir, y ellos hacen lo mismo. Mientras hablas, te sientes... "
+            "text": "Invitar gente"
         },
         {
-            "type": "Entry",
-            "name": "Darte a conocer_Salud Mental_entry2"
+            "type": "Media",
+            "url": "./images/344.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 4
+    "type": "positive",
+    "scenario_num": 0
 }

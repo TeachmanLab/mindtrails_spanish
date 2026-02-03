@@ -1,16 +1,10 @@
 {
-    "header_text": "Dando vueltas",
+    "header_text": "Recordatorio de favoritos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Dando vueltas"
-        },
-        {
-            "type": "Media",
-            "url": "./images/414.jpg"
+            "text": "Recuerde que puede agregar historias, consejos y recursos a sus Favoritos haciendo clic en la estrella en la esquina superior derecha de la pantalla."
         }
-    ],
-    "type": "positive",
-    "scenario_num": 0
+    ]
 }

@@ -1,29 +1,16 @@
 {
-    "header_text": "Citas en línea",
+    "header_text": "Salud Mental",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Crees que las personas en el sitio probablemente .."
+            "text": "Salud Mental"
         },
         {
-            "type": "Buttons",
-            "name": "Citas en línea_Relaciones Románticas_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Te ignorarán por completo.",
-                "Responderán bien a tu perfil"
-            ],
-            "column_Count": 1,
-            "correct_value": "Responderán bien a tu perfil"
+            "type": "Media",
+            "url": "./images/187.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 4
 }

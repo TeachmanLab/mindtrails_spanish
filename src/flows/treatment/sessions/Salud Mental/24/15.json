@@ -1,16 +1,16 @@
 {
-    "header_text": "Un comentario grosero",
+    "header_text": "Tu propio estilo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Un comentario grosero"
+            "text": "Tu propio estilo"
         },
         {
             "type": "Media",
-            "url": "./images/334.jpg"
+            "url": "./images/345.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 1
 }

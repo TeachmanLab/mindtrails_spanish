@@ -1,0 +1,30 @@
+{
+    "header_text": "Un dolor de garganta",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Un dolor de garganta"
+        },
+        {
+            "type": "Media",
+            "url": "./images/376.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/598.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Al igual que con cualquier habilidad nueva, la práctica constante te ayudará a pensar de manera más flexible."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
+}

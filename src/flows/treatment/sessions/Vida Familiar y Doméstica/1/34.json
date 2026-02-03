@@ -1,0 +1,16 @@
+{
+    "header_text": "Quedarse sin batería",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Quedarse sin batería"
+        },
+        {
+            "type": "Media",
+            "url": "./images/134.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
+}

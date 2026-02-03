@@ -1,0 +1,16 @@
+{
+    "header_text": "Factura por una reparación",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Factura por una reparación"
+        },
+        {
+            "type": "Media",
+            "url": "./images/246.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

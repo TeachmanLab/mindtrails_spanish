@@ -1,29 +1,25 @@
 {
-    "header_text": "Cumpleaños de un amigo cercano",
+    "header_text": "Recibir mensajes explícitos en las redes sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas que tu amigo probablemente considere tu regalo como"
+            "text": "Tienes muchos correos electrónicos que no has leído. Cuando revisas tu bandeja de entrada hoy, te das cuenta de un mensaje explícito por una dirección de correo electrónico que no conoces. Decides bloquear al remitente y sentirte más..."
         },
         {
-            "type": "Buttons",
-            "name": "Cumpleaños de un amigo cercano_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Recibir mensajes explícitos en las redes sociales_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Un buen gesto para su cumpleaños.",
-                "No lo suficientemente bueno."
+            "display_delay": 2000,
+            "words": [
+                "relajado"
             ],
-            "column_Count": 1,
-            "correct_value": "Un buen gesto para su cumpleaños."
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 5
 }

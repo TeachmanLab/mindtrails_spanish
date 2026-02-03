@@ -1,0 +1,17 @@
+{
+    "header_text": "El escaparate de danza",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Has  tomado una clase de baile en el centro comunitario local y ha llegado el momento de tu exhibición del fin de clase. Quieres invitar a tus amigos y familiares al escaparate, pero te preocupas quedar en ridículo si no eres muy..."
+        },
+        {
+            "type": "Entry",
+            "name": "El escaparate de danza_Situaciones Sociales_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

@@ -1,29 +1,25 @@
 {
-    "header_text": "Pensando en preguntas",
+    "header_text": "Una presentación importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Las preguntas de los demás son mejores que las tuyas?"
+            "text": "Tu jefe está viendo tu presentación en tu reunión de hoy. Durante la presentación, tropiezas un poco con tus palabras. Te sientes decepcionado, pero sabes que todos cometen..."
         },
         {
-            "type": "Buttons",
-            "name": "Pensando en preguntas_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Una presentación importante_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "errores"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 9
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "siendo padre",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "siendo padre"
+        },
+        {
+            "type": "Media",
+            "url": "./images/325.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

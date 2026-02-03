@@ -1,17 +1,17 @@
 {
-    "header_text": "Prepararte para tener éxito",
+    "header_text": "Comparación de puntuaciones en redes sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En tu reunión de hoy, tienes una presentación importante. Para seguir las instrucciones de tu jefe, debes presentar por 15 minutos. Cuando piensas en completar esta presentación, te sientes..."
+            "text": "Tú y tus compañeros de trabajo están comparando experiencias de trabajo. Has tenido dificultades para completar tareas administrativas a tiempo y tus compañeros comienzan a burlarse de ti de manera desenfadada. Empiezas a sentirte..."
         },
         {
             "type": "Entry",
-            "name": "Prepararte para tener éxito_Situaciones Sociales_entry1"
+            "name": "Comparación de puntuaciones en redes sociales_Situaciones Sociales_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 8
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

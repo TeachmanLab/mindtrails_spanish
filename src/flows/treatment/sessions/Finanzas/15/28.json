@@ -1,16 +1,16 @@
 {
-    "header_text": "Estabilidad laboral",
+    "header_text": "Oportunidad de espectáculo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estabilidad laboral"
+            "text": "Oportunidad de espectáculo"
         },
         {
             "type": "Media",
-            "url": "./images/266.jpg"
+            "url": "./images/265.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 5
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Planes divertidos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Planes divertidos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/248.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

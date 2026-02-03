@@ -1,23 +1,23 @@
 {
-    "header_text": "Conversación con un desconocido",
+    "header_text": "Presentación opcional",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En general, la conversación probablemente fue..."
+            "text": "¿Te quedas a dar la presentación opcional?"
         },
         {
             "type": "Buttons",
-            "name": "Conversación con un desconocido_Situaciones Sociales_comp_question",
+            "name": "Presentación opcional_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Una oportunidad relajada y agradable para conocer a una nueva persona.",
-                "Una sítuación estresante, porque la persona podría haberte encontrado aburrido."
+                "No",
+                "Sí"
             ],
             "column_Count": 1,
-            "correct_value": "Una oportunidad relajada y agradable para conocer a una nueva persona."
+            "correct_value": "Sí"
         }
     ],
     "navigation_conditions": [
@@ -25,6 +25,5 @@
         "wait_for_click"
     ],
     "type": "positive",
-    "scenario_num": 9,
-    "information": null
+    "scenario_num": 6
 }

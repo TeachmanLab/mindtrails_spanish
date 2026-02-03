@@ -1,29 +1,16 @@
 {
-    "header_text": "Subiendo una montaña",
+    "header_text": "Lecciones Aprendidas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Pudiste superar tu ansiedad y disfrutar de la caminata?"
+            "Text": "¡Excelente trabajo! ¡Estás haciendo un gran progreso al probar nuevas perspectivas relacionadas con la salud física! Tómate unos minutos para reflexionar sobre los cuentos cortos que has leído hasta ahora. ¿Qué has aprendido? ¿Cuáles son tus principales conclusiones? Por ejemplo, podrías notar que sensaciones incómodas en tu cuerpo, como un corazón acelerado, a menudo no son peligrosas."
         },
         {
-            "type": "Buttons",
-            "name": "Subiendo una montaña_Salud Física_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "type": "Entry",
+            "name": "lessons_learned_Salud Física_0"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 2
+    "type": "positive",
+    "scenario_num": 0
 }

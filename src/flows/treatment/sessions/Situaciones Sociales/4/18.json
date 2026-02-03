@@ -1,25 +1,29 @@
 {
-    "header_text": "Tu fiesta de cumpleaños",
+    "header_text": "Futuras amistades",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu mejor amigo está organizando una fiesta de cumpleaños para ti en su casa. Invitaron a mucha gente que estará ahí para ti. Cuando piensas en toda la gente que viene, te sientes... "
+            "text": "¿Piensas que seguirás siendo cercano a tus amigos actuales en el futuro?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Tu fiesta de cumpleaños_Situaciones Sociales_puzzle1",
+            "type": "Buttons",
+            "name": "Futuras amistades_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "emocionado"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 5
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

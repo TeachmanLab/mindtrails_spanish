@@ -1,16 +1,10 @@
 {
-    "header_text": "Revisando tu trabajo",
+    "header_text": "Recordatorio de favoritos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Revisando tu trabajo"
-        },
-        {
-            "type": "Media",
-            "url": "./images/49.jpg"
+            "text": "Recuerde que puede agregar historias, consejos y recursos a sus Favoritos haciendo clic en la estrella en la esquina superior derecha de la pantalla."
         }
-    ],
-    "type": "positive",
-    "scenario_num": 0
+    ]
 }

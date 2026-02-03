@@ -1,0 +1,16 @@
+{
+    "header_text": "Pidiendo dinero",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Pidiendo dinero"
+        },
+        {
+            "type": "Media",
+            "url": "./images/254.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

@@ -1,0 +1,29 @@
+{
+    "header_text": "Invitando a alguien a salir",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Piensas que probablemente ustedes dos..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Invitando a alguien a salir_Relaciones Románticas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Nunca se volverán a ver.",
+                "Saldrán a tomar un café y lo pasarán bien."
+            ],
+            "column_Count": 1,
+            "correct_value": "Nunca se volverán a ver."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 6
+}

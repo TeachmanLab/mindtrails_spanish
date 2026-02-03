@@ -1,17 +1,16 @@
 {
-    "header_text": "Una discusión acalorada",
+    "header_text": "Hablando de ti",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras limpias después, te das cuenta que fue un debate acolorado, la conversación entre tus invitados fue respetuoso y refrescante. Probablemente la fiesta les pareció..."
+            "text": "Hablando de ti"
         },
         {
-            "type": "Entry",
-            "name": "Una discusión acalorada_Situaciones Sociales_entry2"
+            "type": "Media",
+            "url": "./images/562.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 1
 }

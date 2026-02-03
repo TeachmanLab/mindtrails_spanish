@@ -1,16 +1,39 @@
 {
-    "header_text": "El curso difícil",
+    "header_text": "Mostrar tu experiencia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "El curso difícil"
+            "text": "Es probable que tu supervisor te haya encontrado..."
         },
         {
-            "type": "Media",
-            "url": "./images/9.jpg"
+            "type": "Buttons",
+            "name": "Mostrar tu experiencia_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "sin preparación y deficiente.",
+                "Eficaz."
+            ],
+            "column_Count": 1,
+            "correct_value": "sin preparación y deficiente."
         }
     ],
-    "type": "positive",
-    "scenario_num": 8
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "¿Por qué estás completando palabras con letras? Al completar repetidamente las letras que faltan para completar palabras positivas, neutrales o negativas, el cerebro adopta patrones de pensamiento flexibles para reducir el pensamiento rígido."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

@@ -1,0 +1,17 @@
+{
+    "header_text": "Puerta cerrada",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Llegas a casa del trabajo un viernes por la noche y te preguntas si has cerrado la puerta de la oficina. Normalmente cierras la puerta con llave, pero todavía te sientes ansioso sin saberlo con seguridad. Tu fin de semana fuera de la oficina será..."
+        },
+        {
+            "type": "Entry",
+            "name": "Puerta cerrada_Salud Mental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 8
+}

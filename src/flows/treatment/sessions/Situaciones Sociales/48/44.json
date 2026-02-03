@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Trata de imaginarte a ti mismo como un extraño observando tu conversación. Pregúntate si pensaría en cómo te está yendo de la misma manera que a ti. "
+        }
+    ]
+}

@@ -1,16 +1,16 @@
 {
-    "header_text": "Tu Currículum",
+    "header_text": "Expresando tus ideas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu Currículum"
+            "text": "Expresando tus ideas"
         },
         {
             "type": "Media",
-            "url": "./images/77.jpg"
+            "url": "./images/73.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 1
 }

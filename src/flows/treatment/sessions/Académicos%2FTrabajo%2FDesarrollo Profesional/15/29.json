@@ -1,25 +1,39 @@
 {
-    "header_text": "Finalización rápida de tareas",
+    "header_text": "Completando trabajos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has empezado a trabajar en un nuevo comité con otro personal y te asignan una tarea que normalmente lleva unos días, pero logras terminarla el mismo día. Se lo muestras al resto del comité, quienes solo encuentran un error en tu trabajo. Cuando termina la reunión, esperas que piensen que tu trabajo es..."
+            "text": "¿Podrás hacer trabajo este fin de semana?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Finalización rápida de tareas_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "type": "Buttons",
+            "name": "Completando trabajos_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "meritorio"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "A veces, las situaciones no son sólo buenas o malas. ¡Las situaciones neutrales nos recuerdan que está bien abrazar la zona gris!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

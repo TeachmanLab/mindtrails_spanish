@@ -1,29 +1,16 @@
 {
-    "header_text": "Sintiéndote abandonado por un amigo cercano",
+    "header_text": "Reunión de mañana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te molesta que tu amigo no te djio de esta persona?"
+            "text": "Reunión de mañana"
         },
         {
-            "type": "Buttons",
-            "name": "Sintiéndote abandonado por un amigo cercano_Situaciones Sociales_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "type": "Media",
+            "url": "./images/544.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 4
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

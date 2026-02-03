@@ -1,25 +1,16 @@
 {
-    "header_text": "Tomando transporte",
+    "header_text": "Larga caminata afuera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en el aeropuerto corriendo para alcanzar un avión. Sientes que tu corazón late rápidamente mientras subes al avión y te sientas. Comienzas a sudar y a respirar rápido, temiendo que puedas tener un ataque de..."
+            "text": "Larga caminata afuera"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Tomando transporte_Salud Mental_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "pánico"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/364.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 6
+    "scenario_num": 3
 }

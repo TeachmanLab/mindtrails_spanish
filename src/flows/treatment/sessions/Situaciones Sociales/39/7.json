@@ -1,17 +1,23 @@
 {
-    "header_text": "Evaluación importante",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Ya casi has completado un proyecto importante.  Tus compañeros de trabajo  determinan parte de tu evaluación.Conoces bien a la mayoría de ellos y sientes que te evalúen..."
-        },
-        {
-            "type": "Entry",
-            "name": "Evaluación importante_Situaciones Sociales_entry1"
+            "text": "Juega esta situación en tu cabeza durante los próximos 20 segundos. \n\nLa pantalla cambiará en 20 segundos."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 2
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 20000
+        }
+    ]
 }

@@ -1,16 +1,17 @@
 {
-    "header_text": "Fiesta con amigos",
+    "header_text": "siendo padre",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Fiesta con amigos"
+            "text": "Estás pasando tiempo con tu hija pequeña durante el fin de semana. Tu hija es muy dulce, pero a veces te frustras con ella y te preguntas cómo se llevarán ustedes dos en el futuro. Cuando piensas en tu relación con ella a medida que crece, te visualizas siendo..."
         },
         {
-            "type": "Media",
-            "url": "./images/347.jpg"
+            "type": "Entry",
+            "name": "siendo padre_Salud Mental_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 2
 }

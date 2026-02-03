@@ -1,16 +1,16 @@
 {
-    "header_text": "El escaparate de danza",
+    "header_text": "Cumpleaños de un amigo cercano",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "El escaparate de danza"
+            "text": "Cumpleaños de un amigo cercano"
         },
         {
             "type": "Media",
-            "url": "./images/500.jpg"
+            "url": "./images/498.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 8
+    "type": "negative",
+    "scenario_num": 3
 }

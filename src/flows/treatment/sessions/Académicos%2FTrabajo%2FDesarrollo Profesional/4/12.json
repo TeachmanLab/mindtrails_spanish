@@ -1,25 +1,16 @@
 {
-    "header_text": "Mente va en blanco",
+    "header_text": "Equilibrio de trabajo y amistades",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu jefe te llama para que respondas una pregunta sobre los planes que acaban de discutir. No sabes qué decir. Tu mente se queda en..."
+            "text": "Equilibrio de trabajo y amistades"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Mente va en blanco_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "blanco"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/29.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 3
+    "scenario_num": 0
 }

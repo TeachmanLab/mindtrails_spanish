@@ -1,25 +1,29 @@
 {
-    "header_text": "Sin planes para el fin de semana",
+    "header_text": "Comportamiento de riesgo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Es sábado y no tienes planes para el día. Te das cuenta de que no has visto a tus amigos en mucho tiempo y te preguntas si se están distanciando de ti. Crees que es posible que se hayan olvidado de..."
+            "text": "¿Te preocupas que decirle a tu jefe cómo te sientes te cause problemas?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Sin planes para el fin de semana_Situaciones Sociales_puzzle1",
+            "type": "Buttons",
+            "name": "Comportamiento de riesgo_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "ti"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 7
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 3
 }

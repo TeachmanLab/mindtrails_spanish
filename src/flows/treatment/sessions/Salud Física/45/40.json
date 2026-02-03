@@ -1,0 +1,25 @@
+{
+    "header_text": "Sensaciones desconocidas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás caminando con unos amigos después del almuerzo y de repente sientes un hormigueo en las yemas de los dedos. Esto es algo que realmente no has experimentado antes. Esto probablemente significa que estás..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Sensaciones desconocidas_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "bien"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 8
+}

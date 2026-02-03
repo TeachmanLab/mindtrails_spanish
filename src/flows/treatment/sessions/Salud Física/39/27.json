@@ -1,0 +1,16 @@
+{
+    "header_text": "Evaluación de salud",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Evaluación de salud"
+        },
+        {
+            "type": "Media",
+            "url": "./images/422.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

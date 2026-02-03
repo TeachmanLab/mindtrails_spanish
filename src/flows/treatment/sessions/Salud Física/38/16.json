@@ -1,16 +1,17 @@
 {
-    "header_text": "Controles en el dentista.",
+    "header_text": "Corriendo con un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Controles en el dentista."
+            "text": "Tienes planeado correr mañana con un amigo que corre todos los días. No has corrido en bastante tiempo y te preocupa si podrás mantener el ritmo o...\r\n"
         },
         {
-            "type": "Media",
-            "url": "./images/389.jpg"
+            "type": "Entry",
+            "name": "Corriendo con un amigo_Salud Física_entry1"
         }
     ],
-    "type": "negative",
-    "scenario_num": 6
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

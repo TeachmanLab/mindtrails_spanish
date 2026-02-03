@@ -1,10 +1,12 @@
 {
-    "header_text": "Recurso: Académicos/Trabajo/Desarrollo Profesional",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "¡Escribe el tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Career One Stop\n\nCareer One Stop es una fuente de la exploración de la carrera, capacitación y empleo. Ofrece recursos informativos sobre el empleo para personas con experiencias y edades diversas, y tiene directorios para buscar ayuda local y empleo. También tiene un portal de reempleo del trabajador que incluye información estatal, capacitaciones, ayuda con la búsqueda de empleo, y más beneficios."
+            "text": "Ten en cuenta que cada historia tiene aproximadamente 3 oraciones. La primera parte debería plantear una situación desafiante que podría generar cierta ansiedad en la que no está claro cuál será el resultado de la situación. La parte final debería resolver la incertidumbre de forma positiva o no amenazante. En otras palabras, la última frase debería dejar claro que la situación no resulta al final inmanejable."
         }
     ]
 }

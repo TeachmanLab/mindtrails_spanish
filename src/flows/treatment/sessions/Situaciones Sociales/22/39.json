@@ -1,0 +1,16 @@
+{
+    "header_text": "Cumpleaños de un amigo cercano",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cumpleaños de un amigo cercano"
+        },
+        {
+            "type": "Media",
+            "url": "./images/498.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

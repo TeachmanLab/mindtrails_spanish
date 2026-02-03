@@ -1,16 +1,16 @@
 {
-    "header_text": "Tartamudeo en la oficina",
+    "header_text": "Tomando el mando",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tartamudeo en la oficina"
+            "text": "Tomando el mando"
         },
         {
             "type": "Media",
-            "url": "./images/26.jpg"
+            "url": "./images/78.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 1
 }

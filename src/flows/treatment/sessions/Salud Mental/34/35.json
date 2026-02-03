@@ -1,0 +1,16 @@
+{
+    "header_text": "Probando comidas diferentes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Probando comidas diferentes"
+        },
+        {
+            "type": "Media",
+            "url": "./images/326.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

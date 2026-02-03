@@ -1,17 +1,17 @@
 {
-    "header_text": "Ahorrando dinero",
+    "header_text": "Permitirse la educación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás repasando tus gastos mensuales y te das cuenta de que gastaste más de lo planeado en un nuevo pasatiempo. Esto no te coloca en una situación financiera comprometida en este momento, pero estás intentando ahorrar dinero para ir en un viaje de esquí que llevas meses... "
+            "text": "Tus hijos están pensando en ir a la universidad, pero piensas que tendrías que pedir un préstamo para ayudarlos a ir. Recuerdas historias que has escuchado de personas que todavía estaban pagando sus préstamos incluso después de jubilarse. Imaginándote a ti mismo en la jubilación, piensas que tus préstamos estarán..."
         },
         {
             "type": "Entry",
-            "name": "Ahorrando dinero_Finanzas_entry1"
+            "name": "Permitirse la educación_Finanzas_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 7
+    "type": "negative",
+    "scenario_num": 2
 }

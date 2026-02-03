@@ -1,16 +1,16 @@
 {
-    "header_text": "Celebraciones en un juego deportivo",
+    "header_text": "Sentirse mareado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Celebraciones en un juego deportivo"
+            "text": "Sentirse mareado"
         },
         {
             "type": "Media",
-            "url": "./images/388.jpg"
+            "url": "./images/360.jpg"
         }
     ],
-    "type": "negative",
-    "scenario_num": 7
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

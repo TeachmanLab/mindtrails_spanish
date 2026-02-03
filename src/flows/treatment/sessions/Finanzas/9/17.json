@@ -1,16 +1,16 @@
 {
-    "header_text": "Ahorrar dinero",
+    "header_text": "Costos inesperados",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Ahorrar dinero"
+            "text": "Costos inesperados"
         },
         {
             "type": "Media",
-            "url": "./images/257.jpg"
+            "url": "./images/159.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 7
+    "type": "negative",
+    "scenario_num": 2
 }

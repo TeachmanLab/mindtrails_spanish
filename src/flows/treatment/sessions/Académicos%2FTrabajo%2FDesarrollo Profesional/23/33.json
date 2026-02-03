@@ -1,0 +1,16 @@
+{
+    "header_text": "Mostrar tu experiencia",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mostrar tu experiencia"
+        },
+        {
+            "type": "Media",
+            "url": "./images/5.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

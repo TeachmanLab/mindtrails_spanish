@@ -1,29 +1,30 @@
 {
-    "header_text": "Corte de dedo",
+    "header_text": "Hora para dormir",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Está seriamente infectado tu dedo?"
+            "text": "Hora para dormir"
         },
         {
-            "type": "Buttons",
-            "name": "Corte de dedo_Salud Física_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/378.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 2,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/599.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Tómate un momento para considerar las razones importantes para cambiar tu pensamiento ansioso."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

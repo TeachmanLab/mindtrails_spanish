@@ -1,17 +1,17 @@
 {
-    "header_text": "Amigo Tarde",
+    "header_text": "Preocupándote por gastar",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te encontrarás con un amigo en un parque local. Después de 20 minutos, tu amigo todavía no ha llegado. Crees que probablemente..."
+            "text": "Unos amigos van a salir a cenar y te invitan. Sabes que ellos han salido a cenar mucho recientemente, y no sabes si puedes seguir así. Les dices a tus amigos que saldrás con ellos la próxima vez, y estás felíz quedarte en casa por la... "
         },
         {
             "type": "Entry",
-            "name": "Amigo Tarde_Situaciones Sociales_entry1"
+            "name": "Preocupándote por gastar_Situaciones Sociales_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 2
 }

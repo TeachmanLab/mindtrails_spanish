@@ -1,16 +1,16 @@
 {
-    "header_text": "Costos inesperados",
+    "header_text": "Emoción prospectiva",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Costos inesperados"
+            "text": "Emoción prospectiva"
         },
         {
             "type": "Media",
-            "url": "./images/159.jpg"
+            "url": "./images/153.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 0
 }

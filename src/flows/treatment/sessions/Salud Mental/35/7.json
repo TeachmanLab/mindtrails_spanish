@@ -1,29 +1,23 @@
 {
-    "header_text": "Comentarios de publicaciones de Instagram",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿La gente no te felicita porque cree que no lo mereces?"
-        },
-        {
-            "type": "Buttons",
-            "name": "Comentarios de publicaciones de Instagram_Salud Mental_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "text": "Juega esta situación en tu cabeza durante los próximos 20 segundos. \n\nLa pantalla cambiará en 20 segundos."
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
     ],
-    "type": "positive",
-    "scenario_num": 1
+    "navigation_conditions": [
+        {
+            "wait_for_time": 20000
+        }
+    ]
 }

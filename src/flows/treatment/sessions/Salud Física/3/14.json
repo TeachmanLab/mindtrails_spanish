@@ -1,25 +1,39 @@
 {
-    "header_text": "Asustado en tu caminata",
+    "header_text": "Explorando una cueva estrecha",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Al notar estos pensamientos, decides que podrás afrontar la situación, así que sigues..."
+            "text": "Mientras estés en la cueva, probablemente..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Asustado en tu caminata_Salud Física_puzzle_word2",
+            "type": "Buttons",
+            "name": "Explorando una cueva estrecha_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "caminando"
+            "buttons": [
+                "Aprenderás cosas interesantes.",
+                "No podrás encontrar la salida."
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Aprenderás cosas interesantes."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 3
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 0,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Recuerda responder a esta pregunta basándote en el final de la historia que acabas de leer, no en cómo crees que terminaría. ¡Esto ayudará a reforzar un pensamiento más flexible!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

@@ -1,17 +1,31 @@
 {
-    "header_text": "Anticipación de entrevista",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te están entrevistando para un puesto de liderazgo dentro de tu departamento. Antes de entrar en la oficina, notas que te sientes tembloroso. Te sientes increíblemente..."
+            "text": "¿Qué probabilidades hay de que la situación o tarea salga bien o mal?"
         },
         {
-            "type": "Entry",
-            "name": "Anticipación de entrevista_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "type": "Buttons",
+            "buttons": [
+                "Es muy probable que salga bien",
+                "Es algo probable que salga bien",
+                "Neutral",
+                "Es algo probable que salga mal",
+                "Es muy probable que salga mal",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "imagery_well"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 3
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

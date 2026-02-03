@@ -1,0 +1,17 @@
+{
+    "header_text": "Sábado sin planes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Es sábado por la noche y estás en casa. Escuchas que tus vecinos tienen una fiesta y personas se están riéndo en el corredor. Te sientes triste porque no tienes planes ni amigos con quienes pasar la noche. Recuerdas que habrá muchas otras oportunidades de ver a tus amigos y te sientes feliz de descansar en..."
+        },
+        {
+            "type": "Entry",
+            "name": "Sábado sin planes_Situaciones Sociales_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
+}

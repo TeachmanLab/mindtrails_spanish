@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Finanzas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Dedica unos momentos a centrarte en las cosas que te sientes afortunado de tener."
+        }
+    ]
+}

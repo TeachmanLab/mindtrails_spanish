@@ -1,10 +1,25 @@
 {
-    "header_text": "Recurso: Vida Familiar y Doméstica",
+    "header_text": "Niñera:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Departamento de Educación\n\nRecursos en Español acerca de información escolar y derechos educativos."
+            "text": "Estás cuidando al hijo de una amiga y miras televisión mientras ella duerme. Afuera está oscuro y de repente oyes ruidos contra la ventana.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Me pregunto si estoy en peligro.",
+                "Me imagino algo tratando de atraparme, pero luego me digo que lo más probable es que haya sido el viento en la ventana.",
+                "Mi cerebro inmediatamente piensa que hay algo peligroso afuera, pero me recuerdo a mí mismo que probablemente estoy a salvo.",
+                "Hay muchos ruidos por la noche.",
+                "Por la noche es más tranquilo, por lo que es más fácil escuchar muchas cosas."
+            ],
+            "Duration": 15000
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
     ]
 }

@@ -1,29 +1,25 @@
 {
-    "header_text": "Comparándote con otros",
+    "header_text": "Probando un dicho divertido",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tu pareja se siente atraída a ti?"
+            "text": "Estás intentando pensar en un cierre para un correo que enviarás a tus compañeros de trabajo. Se te ocurre un chiste que a tus amigos más cercanos les encantará. Tus compañeros de trabajo lo encontrarán..."
         },
         {
-            "type": "Buttons",
-            "name": "Comparándote con otros_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Probando un dicho divertido_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "gracioso"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 3
 }

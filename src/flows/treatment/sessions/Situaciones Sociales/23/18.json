@@ -1,16 +1,16 @@
 {
-    "header_text": "Tocando el piano",
+    "header_text": "Amigo ruidoso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tocando el piano"
+            "text": "Amigo ruidoso"
         },
         {
             "type": "Media",
-            "url": "./images/533.jpg"
+            "url": "./images/531.jpg"
         }
     ],
-    "type": "negative",
-    "scenario_num": 7
+    "type": "positive",
+    "scenario_num": 2
 }

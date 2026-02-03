@@ -1,0 +1,16 @@
+{
+    "header_text": "Almorzando solo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Almorzando solo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/561.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

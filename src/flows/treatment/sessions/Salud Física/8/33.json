@@ -1,0 +1,16 @@
+{
+    "header_text": "Serpientes venenosas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Serpientes venenosas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/421.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

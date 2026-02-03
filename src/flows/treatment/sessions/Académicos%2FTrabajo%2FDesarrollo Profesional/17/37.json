@@ -1,0 +1,16 @@
+{
+    "header_text": "Estar a cargo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estar a cargo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/92.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

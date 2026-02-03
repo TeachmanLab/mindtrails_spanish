@@ -1,29 +1,25 @@
 {
-    "header_text": "Corriendo con un amigo",
+    "header_text": "El malestar de estómago",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Imaginas que la carrera será..."
+            "text": "Te has estado sintiendo mal del estómago durante unos días. Haces una cita con tu médico. Las náuseas probablemente signifiquen que estás..."
         },
         {
-            "type": "Buttons",
-            "name": "Corriendo con un amigo_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "El malestar de estómago_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "A un ritmo que puedes lograr si te esfuerzas mucho.",
-                "Demasiado rápida para ti, sin importar cuánto te esfuerces."
+            "display_delay": 2000,
+            "words": [
+                "enfermo"
             ],
-            "column_Count": 1,
-            "correct_value": "Demasiado rápida para ti, sin importar cuánto te esfuerces."
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 5
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

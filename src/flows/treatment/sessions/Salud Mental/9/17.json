@@ -1,16 +1,17 @@
 {
-    "header_text": "Una nueva oportunidad",
+    "header_text": "Lograr tus objetivos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Una nueva oportunidad"
+            "text": "sientes que no eres un mal candidato y que tus posibilidades de conseguir este nuevo trabajo son..."
         },
         {
-            "type": "Media",
-            "url": "./images/109.jpg"
+            "type": "Entry",
+            "name": "Lograr tus objetivos_Salud Mental_entry2"
         }
     ],
-    "type": "positive",
-    "scenario_num": 7
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

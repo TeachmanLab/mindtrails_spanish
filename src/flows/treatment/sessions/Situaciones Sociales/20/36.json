@@ -1,0 +1,16 @@
+{
+    "header_text": "Opinión diferente",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Opinión diferente"
+        },
+        {
+            "type": "Media",
+            "url": "./images/524.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

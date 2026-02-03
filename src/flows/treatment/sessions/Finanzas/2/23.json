@@ -4,13 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Gestión de crédito"
+            "text": "Tu banco se ha puesto en contacto contigo para ofrecerte una tarjeta de crédito con una tasa de interés muy baja. Eres un gastador responsable, pero te preocupa acumular deudas si te inscribes en una nueva tarjeta de crédito. Al pensar en lo que harías con la tarjeta de crédito, piensas que probablemente gastarías el dinero... "
         },
         {
-            "type": "Media",
-            "url": "./images/253.jpg"
+            "type": "WordPuzzle",
+            "name": "Gestión de crédito_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "sabiamente"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 7
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 3
 }

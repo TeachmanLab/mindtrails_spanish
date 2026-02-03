@@ -1,10 +1,25 @@
 {
-    "header_text": "Recurso: Situaciones Sociales",
+    "header_text": "Opiniones fuertes:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "La Unión Americana de Libertades Civiles (American Civil Liberties Union)\n\nProporciona información y recursos acerca de los derechos de las personas estadunidenses en una variedad de situaciones: libertad religiosa, libertad de expresión, derechos de inmigrantes, derechos de las personas LGBT y más."
+            "text": "Los miembros de tu familia tienen opiniones firmes y tú no siempre estás de acuerdo con ellas. Una noche, invitas a un amigo a cenar. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Mi familia va a decir algo que me molesta.",
+                "Si mi amigo no está de acuerdo con las perspectivas de los miembros de mi familia, igual querrá ser mi amigo.",
+                "Si mi familia dice algo con lo que no estoy de acuerdo, mi amigo y yo siempre podemos hablar de ello más tarde.",
+                "Mi amigo estará interesado en escuchar lo que mi familia tiene que decir.",
+                "Aprecio tener puntos de vista diferentes a los de mi familia."
+            ],
+            "Duration": 15000
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
     ]
 }

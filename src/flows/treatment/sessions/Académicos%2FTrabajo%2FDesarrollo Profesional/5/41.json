@@ -1,0 +1,16 @@
+{
+    "header_text": "Evaluaciones entre compañeros",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Evaluaciones entre compañeros"
+        },
+        {
+            "type": "Media",
+            "url": "./images/44.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

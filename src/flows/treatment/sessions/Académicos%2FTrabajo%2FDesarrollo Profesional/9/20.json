@@ -1,16 +1,17 @@
 {
-    "header_text": "Noticias decepcionantes",
+    "header_text": "Breve introducción",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Noticias decepcionantes"
+            "text": "Al final, te das cuenta de que todos tienen estos momentos, y te recuperas rápidamente. Mientras terminas de presentarte, ves que los demás están escuchando con gran..."
         },
         {
-            "type": "Media",
-            "url": "./images/70.jpg"
+            "type": "Entry",
+            "name": "Breve introducción_Académicos/Trabajo/Desarrollo Profesional_entry2"
         }
     ],
-    "type": "negative",
-    "scenario_num": 8
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

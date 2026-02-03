@@ -1,25 +1,29 @@
 {
-    "header_text": "Serpientes venenosas",
+    "header_text": "Nadando en la playa",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo te convence de dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque y comienzas a sentirte preocupado. Piensas que las posibilidades de ver una son..."
+            "text": "¿Tu dificultad para nadar en una señal de que tienes la enfermedad?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Serpientes venenosas_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Nadando en la playa_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "pequeñas"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 3
 }

@@ -1,19 +1,23 @@
 {
-    "header_text": "Responsibilidad financiera: Escribe Algunos Pensamientos",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Su pareja estuvo en el hospital recientemente y usted ha estado ayudando a pagar sus facturas médicas. Te preguntas qué significará esto para tus finanzas en el futuro.\n\nTómese 30 segundos para escribir pensamientos diferentes. El siguiente botón aparecerá automáticamente. \n\nPensamientos en el momento:"
-        },
-        {
-            "type": "Entry"
+            "text": "Juega esta situación en tu cabeza durante los próximos 20 segundos. \n\nLa pantalla cambiará en 20 segundos."
         }
+    ],
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
     ],
     "navigation_conditions": [
         {
-            "wait_for_time": 30000
-        },
-        "wait_for_click"
+            "wait_for_time": 20000
+        }
     ]
 }

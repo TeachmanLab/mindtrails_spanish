@@ -1,0 +1,16 @@
+{
+    "header_text": "Error en una tarea",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Error en una tarea"
+        },
+        {
+            "type": "Media",
+            "url": "./images/104.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 9
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Participación",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Participación"
+        },
+        {
+            "type": "Media",
+            "url": "./images/63.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

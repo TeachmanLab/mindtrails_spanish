@@ -1,25 +1,16 @@
 {
-    "header_text": "Tomando una llamada",
+    "header_text": "Noticias controvertidas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Trabajas en una oficina grande con tus supervisores. Una mañana tienes que llamar a tu padre y discutir un asunto importante. Todos los demás trabajan en silencio y varios compañeros levantan la vista y parecen..."
+            "text": "Noticias controvertidas"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Tomando una llamada_Situaciones Sociales_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "molestos"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/520.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 3
+    "scenario_num": 0
 }

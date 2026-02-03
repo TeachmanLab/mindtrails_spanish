@@ -1,16 +1,16 @@
 {
-    "header_text": "Conociendo alguien nuevo",
+    "header_text": "Larga caminata afuera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Conociendo alguien nuevo"
+            "text": "Larga caminata afuera"
         },
         {
             "type": "Media",
-            "url": "./images/434.jpg"
+            "url": "./images/364.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 7
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

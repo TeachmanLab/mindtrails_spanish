@@ -1,16 +1,25 @@
 {
-    "header_text": "Tu fiesta de cumpleaños",
+    "header_text": "Futuras amistades",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu fiesta de cumpleaños"
+            "text": "Cuando te imaginas haciendo la transición a la jubilación, no piensas que te habrás distanciado de tus buenos amigos, y te imaginas a ti mismo junto a tus amigos..."
         },
         {
-            "type": "Media",
-            "url": "./images/148.jpg"
+            "type": "WordPuzzle",
+            "name": "Futuras amistades_Situaciones Sociales_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "cercanos"
+            ],
+            "missing_letter_count": 2
         }
     ],
-    "type": "positive",
-    "scenario_num": 5
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

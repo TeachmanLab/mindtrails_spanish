@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Dormir lo suficiente puede marcar una gran diferencia en cómo te sientes tanto físicamente como mentalmente."
+        }
+    ]
+}

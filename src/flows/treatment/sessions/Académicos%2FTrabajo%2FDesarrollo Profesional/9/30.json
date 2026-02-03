@@ -1,0 +1,17 @@
+{
+    "header_text": "No invitado a cenar",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Acabas de empezar en un nuevo trabajo y trabajas con mucha gente nueva. Escuchas a algunos de ellos reírse juntos y hablar de salir a cenar y esperas a que te inviten, ansioso por hacer amigos, pero no lo hacen. Cuando piensas en tu futuro con este grupo, te sientes..."
+        },
+        {
+            "type": "Entry",
+            "name": "No invitado a cenar_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 7
+}

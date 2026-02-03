@@ -1,29 +1,25 @@
 {
-    "header_text": "Aprender a bailar en las redes sociales",
+    "header_text": "Usando lo que tienes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Estás ansioso por jugar este juego frente a tus compañeros de trabajo?"
+            "text": "Has sido invitado a un evento formal de tu trabajo. No puedes permitirte comprar algo nuevo para llevar, así que tendrás que ponerte ropa que ya tienes. Cuando piensas en la opinión de todos sobre el hecho de que llevas ropa vieja, sabes que te sentirás..."
         },
         {
-            "type": "Buttons",
-            "name": "Aprender a bailar en las redes sociales_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Usando lo que tienes_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "seguro"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 6
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 3
 }

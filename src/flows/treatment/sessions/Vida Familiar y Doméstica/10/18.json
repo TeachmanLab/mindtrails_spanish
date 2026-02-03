@@ -1,17 +1,17 @@
 {
-    "header_text": "Calentador",
+    "header_text": "Mantener a la familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Saliste corriendo de tu casa esta mañana. Una vez en el trabajo, te preguntas si olvidaste apagar el calentador. La probabilidad de que el calentador provoque un incendio es..."
+            "text": "Cuando piensas en tus hijos, no crees que perderán oportunidades educativas por falta de dinero y crees que apoyar su educación universitaria será..."
         },
         {
             "type": "Entry",
-            "name": "Calentador_Vida Familiar y Doméstica_entry1"
+            "name": "Mantener a la familia_Vida Familiar y Doméstica_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 6
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

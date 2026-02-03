@@ -1,16 +1,16 @@
 {
-    "header_text": "Esperando grandes noticias",
+    "header_text": "Limitaciones futuras",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Esperando grandes noticias"
+            "text": "Limitaciones futuras"
         },
         {
             "type": "Media",
-            "url": "./images/41.jpg"
+            "url": "./images/65.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 1
 }

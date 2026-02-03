@@ -1,0 +1,16 @@
+{
+    "header_text": "Sudando a través de tu camisa",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sudando a través de tu camisa"
+        },
+        {
+            "type": "Media",
+            "url": "./images/428.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

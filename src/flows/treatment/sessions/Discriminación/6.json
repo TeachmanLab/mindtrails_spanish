@@ -1,15 +1,15 @@
 {
-    "header_text": "Aliado",
+    "header_text": "Denuncias ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "<strong>\\Hablando Sobre Raza:</strong> Las conversaciones sobre raza son importantes: aquí le mostramos cómo mantenerlas bien. <a href=\"https://jfsneworleans.org/wp-content/uploads/2020/03/Talking-about-Race-Discrimination-espanol.pdf\">https://jfsneworleans.org/wp-content/uploads/2020/03/Talking-about-Race-Discrimination-espanol.pdf</a><br><br>",
+            "text": "<strong>División de Derechos Civiles:</strong> La División de Derechos Civiles hace cumplir las leyes federales que lo protegen de la discriminación por motivos de raza, color, origen nacional, discapacidad, sexo, religión, estado familiar o la pérdida de otros derechos constitucionales. <a href=\"https://www.hhs.gov/civil-rights/filing-a-complaint/complaint-process/spanish/index.html\">https://www.hhs.gov/civil-rights/filing-a-complaint/complaint-process/spanish/index.html</a><br><br>",
             "html": true
         }
     ],
     "condition": [
-        "Aliado",
+        "Denuncias",
         "in",
         "Selected_Support"
     ]

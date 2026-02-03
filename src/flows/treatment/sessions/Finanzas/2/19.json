@@ -1,29 +1,25 @@
 {
-    "header_text": "Costear los gastos",
+    "header_text": "Preocuparse por los ahorros",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Asumir los turnos adicionales..."
+            "text": "Saliste con algunos amigos que no habías visto en mucho tiempo y terminaste en el tema de las finanzas. Mientras pensabas que tu situación financiera era estable, tus amigos comienzan a hablar sobre el dinero que están ahorrando para la jubilación. Has estado usando tu dinero para pagar tus necesidades y no has pensado en comenzar a..."
         },
         {
-            "type": "Buttons",
-            "name": "Costear los gastos_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Preocuparse por los ahorros_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Aún te dejará corto y te retrasarás en el pago del alquiler.",
-                "significará que ahorrarás lo suficiente para pagar el alquiler."
+            "display_delay": 2000,
+            "words": [
+                "ahorrar"
             ],
-            "column_Count": 1,
-            "correct_value": "significará que ahorrarás lo suficiente para pagar el alquiler."
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 5
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

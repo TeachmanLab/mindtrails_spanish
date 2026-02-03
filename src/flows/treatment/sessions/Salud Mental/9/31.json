@@ -1,0 +1,17 @@
+{
+    "header_text": "Comentarios de redes sociales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Decides enviar un correo electrónico a tu departamento promocionando algo importante para ti. Alguien responde de manera grosera porque malinterpretó lo que escribiste. Te preguntas qué piensa esta persona sobre ti y te sientes..."
+        },
+        {
+            "type": "Entry",
+            "name": "Comentarios de redes sociales_Salud Mental_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 8
+}

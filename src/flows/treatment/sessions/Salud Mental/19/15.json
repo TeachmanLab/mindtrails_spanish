@@ -1,25 +1,16 @@
 {
-    "header_text": "Tomar un descanso",
+    "header_text": "Amigos en las relaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado muy ocupado los últimos meses, y no has tenido mucho tiempo libre. Finalmente tienes la oportunidad de descansar, pero te sientes culpable de tomar un descanso en lugar de completar el trabajo. Crees que mereces... "
+            "text": "Amigos en las relaciones"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Tomar un descanso_Salud Mental_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "relajarte"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/228.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 4
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Recuperándote despues de un error",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recuperándote despues de un error"
+        },
+        {
+            "type": "Media",
+            "url": "./images/46.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

@@ -1,25 +1,15 @@
 {
-    "header_text": "Permitirse un viaje",
+    "header_text": "Ejercicio de limón",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente te has sentido muy abrumado y agotado y quieres ir de viaje para tomar un descanso. Cuando buscas vuelos, te das cuenta de que el costo de un viaje puede estar totalmente fuera de tu presupuesto. Te recuerdas que puedes hacer un viaje corto a algún lugar cercano y aún así..."
+            "text": "Realmente trate de imaginarse a sí mismo en las situaciones que se avecinan de la manera más vívida posible."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Permitirse un viaje_Finanzas_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "divertirte"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/lemon3.jpg",
+            "border": false
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 0
+    ]
 }

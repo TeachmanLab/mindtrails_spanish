@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cuaderno: Guía de salud mental\n\nEsta guía cubre todo tipo de información acerca de la salud mental, incluyendo secciones sobre trastornos, recursos, y consejos para sobrellevar síntomas y estrés."
+        }
+    ]
+}

@@ -1,29 +1,25 @@
 {
-    "header_text": "Asistir a una cena",
+    "header_text": "Equilibrar la vida familiar y los amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tus nuevos conocidos no te gustarán?"
+            "text": "Tu pareja dirige una guardería en tu casa, por lo que siempre está ruidoso cuando llegas a casa del trabajo. Tu colega viene hoy a tomar café. Piensas en cómo va a reaccionar al ruido y te... "
         },
         {
-            "type": "Buttons",
-            "name": "Asistir a una cena_Vida Familiar y Doméstica_comp_question",
+            "type": "WordPuzzle",
+            "name": "Equilibrar la vida familiar y los amigos_Vida Familiar y Doméstica_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "preocupas"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 8
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 5
 }

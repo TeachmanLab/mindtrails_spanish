@@ -1,0 +1,16 @@
+{
+    "header_text": "Planes de vacaiones",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Planes de vacaiones"
+        },
+        {
+            "type": "Media",
+            "url": "./images/147.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

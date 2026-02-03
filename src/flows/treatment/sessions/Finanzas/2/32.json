@@ -1,39 +1,25 @@
 {
-    "header_text": "Mantener a la familia",
+    "header_text": "Planificación de pagos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Crees que enviar a tus hijos a una buena universidad"
+            "text": "Acabas de empezar un nuevo trabajo y necesitas seleccionar uno de los planes de jubilación que ofrece tu empresa. Has estado investigando un poco sobre los diferentes tipos de planes, pero te sientes un poco abrumado y tu fecha límite para elegir se acerca rápidamente. Crees que el plan que elijas te dejará en una posición financiera..."
         },
         {
-            "type": "Buttons",
-            "name": "Mantener a la familia_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Planificación de pagos_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Será alcanzable.",
-                "Estará más allá de tus posibilidades."
+            "display_delay": 2000,
+            "words": [
+                "sólida"
             ],
-            "column_Count": 1,
-            "correct_value": "Será alcanzable."
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Recuerde, cuanto más practique pensar en situaciones de nuevas maneras en nuestra aplicación, podras pensar positivamente sobre situaciones aterradoras en tu vida."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 6
 }

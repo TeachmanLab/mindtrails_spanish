@@ -1,10 +1,25 @@
 {
-    "header_text": "Recurso: Relaciones Románticas",
+    "header_text": "Ninguna respuesta:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Love is Respect (El Amor es Respeto)\n\nLove is Respect incluye mucha información apropiada para edades diversas acerca del consentimiento y las relaciones sanas. También ofrece una línea de ayuda."
+            "text": "Has estado enviando mensajes de texto a alguien que realmente te gusta y, por lo general, responde rápidamente. Notas que vio tu mensaje hace un par de horas y no respondió. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Soy una buena persona con quien hablar.",
+                "Es posible que no esté interesado románticamente en mí, pero puedo pasar a otra persona.",
+                "Simplemente está ocupado.",
+                "No le debo agradar.",
+                "Quizás piense que soy aburrido, pero nadie es interesante todo el tiempo."
+            ],
+            "Duration": 15000
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
     ]
 }

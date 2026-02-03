@@ -1,16 +1,16 @@
 {
-    "header_text": "Corriendo en el frío",
+    "header_text": "Tomar precauciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Corriendo en el frío"
+            "text": "Tomar precauciones"
         },
         {
             "type": "Media",
-            "url": "./images/439.jpg"
+            "url": "./images/437.jpg"
         }
     ],
-    "type": "negative",
-    "scenario_num": 3
+    "type": "positive",
+    "scenario_num": 0
 }

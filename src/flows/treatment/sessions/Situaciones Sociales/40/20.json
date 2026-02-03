@@ -1,17 +1,17 @@
 {
-    "header_text": "Recogiendo a un viejo amigo",
+    "header_text": "Opiniones inusuales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te vas a encontrar con un amigo que no has visto en muchos años. Manejas a la estación de tren para recogerlo. Cuando llegas, sabes que pasarán un buen rato..."
+            "text": "Al final, aunque tus compañeros no compartían tu opinión, la encontraron interesante. La próxima vez que surge el problema, te preguntan tu opinión y te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Recogiendo a un viejo amigo_Situaciones Sociales_entry1"
+            "name": "Opiniones inusuales_Situaciones Sociales_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 7
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

@@ -1,16 +1,29 @@
 {
-    "header_text": "Enseñando a otros",
+    "header_text": "Una audiencia captada",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Enseñando a otros"
+            "text": "Tus compañeros probablemente estaban callados porque..."
         },
         {
-            "type": "Media",
-            "url": "./images/39.jpg"
+            "type": "Buttons",
+            "name": "Una audiencia captada_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Estaban aburridos con tu presentación.",
+                "Estaban enfocados en tu presentación."
+            ],
+            "column_Count": 1,
+            "correct_value": "Estaban enfocados en tu presentación."
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 0
 }

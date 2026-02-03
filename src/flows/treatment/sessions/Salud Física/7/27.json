@@ -1,16 +1,16 @@
 {
-    "header_text": "Estar cerca de alguien enfermo",
+    "header_text": "Recuperando el aliento",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estar cerca de alguien enfermo"
+            "text": "Recuperando el aliento"
         },
         {
             "type": "Media",
-            "url": "./images/412.jpg"
+            "url": "./images/410.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 5
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Dando positivo en una prueba de enfermedad",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Dando positivo en una prueba de enfermedad"
+        },
+        {
+            "type": "Media",
+            "url": "./images/441.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

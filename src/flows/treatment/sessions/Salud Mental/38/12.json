@@ -1,17 +1,12 @@
 {
-    "header_text": "Lograr tus objetivos",
+    "header_text": "Instrucciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te gustaría postularte para un puesto más alto en tu trabajo y mejorar tus habilidades. Sabes que el proceso de selección es riguroso, pero sientes mucha pasión por lograr este objetivo y has trabajado duro para convertirte en un buen empleado. Sientes que tus posibilidades de conseguir este nuevo trabajo son..."
-        },
-        {
-            "type": "Entry",
-            "name": "Lograr tus objetivos_Salud Mental_entry1"
+            "text": "Las historias que estás a punto de ver son un poco diferentes a las que has vistovisto antes. En lugar de completar las letras que faltan para completar la palabra final,Vamos a desafiarte a generar tu propia última palabra que completarála historia. Tu objetivo es pensar en una palabra que terminará la historia en un nota positiva. El final no tiene por qué ser tan positivo como para no serloParece posible, pero queremos que imagines que estás manejando bien la situación."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 4
+    "type": "positive",
+    "scenario_num": 0
 }

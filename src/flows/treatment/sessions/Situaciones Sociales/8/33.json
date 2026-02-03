@@ -1,0 +1,17 @@
+{
+    "header_text": "Invitar a alguien",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Invitas a un compañero de trabajo a cenar una noche y estás a cargo de la comida. No eres el mejor cocinero y podrías avergonzarte delante de tu compañero de trabajo. Cuando llega tu compañero de trabajo, estás..."
+        },
+        {
+            "type": "Entry",
+            "name": "Invitar a alguien_Situaciones Sociales_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
+}

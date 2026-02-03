@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Relaciones Románticas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Si has pospuesto una tarea porque te parece abrumadora, intenta dividirla en pasos más pequeños y manejables."
+        }
+    ]
+}

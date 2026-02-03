@@ -1,10 +1,16 @@
 {
-    "header_text": "Recurso: Relaciones Románticas",
+    "header_text": "Los celos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Inicios suaves: habilidad de comunicación\n\nEsta hoja informativa ofrece consejos y ejemplos para mejorar la comunicación efectiva entre pareja."
+            "text": "Los celos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/219.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

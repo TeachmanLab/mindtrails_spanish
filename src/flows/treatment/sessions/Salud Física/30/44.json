@@ -1,0 +1,29 @@
+{
+    "header_text": "Primera vez pantinaje sobre hielo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A medida que continúes patinando sobre hielo, probablemente..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Primera vez pantinaje sobre hielo_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Patines con éxito alrededor de la pista varias veces.",
+                "Te caigas y te lastimes."
+            ],
+            "column_Count": 1,
+            "correct_value": "Patines con éxito alrededor de la pista varias veces."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

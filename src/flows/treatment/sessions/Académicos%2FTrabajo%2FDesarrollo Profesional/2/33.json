@@ -1,10 +1,29 @@
 {
-    "header_text": "Maneja tus sentimientos: Académicos/Trabajo/Desarrollo Profesional",
+    "header_text": "Poniendo la preparación a prueba",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Si has pospuesto una tarea porque te parece abrumadora, intenta dividirla en pasos más pequeños y manejables."
+            "text": "¿Te sientes listo para tu presentación hoy?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Poniendo la preparación a prueba_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

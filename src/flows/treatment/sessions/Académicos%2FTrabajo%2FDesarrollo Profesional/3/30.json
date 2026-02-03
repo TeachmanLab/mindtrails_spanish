@@ -1,16 +1,25 @@
 {
-    "header_text": "Discutir la evaluación",
+    "header_text": "Apoyándose en sus compañeros",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Discutir la evaluación"
+            "text": "Recibes tu evaluación hoy y tus resultados son más bajos de lo que esperabas. Tus compañeros hablan de sus resultados y son más positivos que los tuyos. Si les cuentas a tus compañeros sobre los resultados de tu evaluación, serán..."
         },
         {
-            "type": "Media",
-            "url": "./images/25.jpg"
+            "type": "WordPuzzle",
+            "name": "Apoyándose en sus compañeros_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "comprensivos"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 5
 }

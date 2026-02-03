@@ -1,29 +1,25 @@
 {
-    "header_text": "sin aliento",
+    "header_text": "Dando una presentación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tu dificultad para respirar está relacionada con el COVID?"
+            "text": "Estás dando una presentación que te tenía realmente nervioso. Mientras hablas, sientes un nudo en la garganta y comienzas a toser. Estos sentimientos probablemente significan que estás..."
         },
         {
-            "type": "Buttons",
-            "name": "sin aliento_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Dando una presentación_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "ansioso"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 5
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

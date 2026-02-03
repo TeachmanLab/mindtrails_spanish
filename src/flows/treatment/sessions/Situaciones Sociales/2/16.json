@@ -1,30 +1,25 @@
 {
-    "header_text": "Plato típico",
+    "header_text": "Trabajando en grupo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Crees que la gente le gustará tu comida?"
+            "text": "Te asigna un proyecto para completar en el trabajo. Te agrupa con compañeros de trabajo que normalmente no contribuyen mucho a los proyectos laborales. Comienzas a pensar en cómo irá el proyecto y te sientes..."
         },
         {
-            "type": "Buttons",
-            "name": "Plato típico_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Trabajando en grupo_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "preocupado"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 4,
-    "information": null
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 1
 }

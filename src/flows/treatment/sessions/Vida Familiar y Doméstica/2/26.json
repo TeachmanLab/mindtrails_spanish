@@ -1,29 +1,25 @@
 {
-    "header_text": "Nueva receta",
+    "header_text": "Llamada telefónica del lunes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te preocupa lo que pensará tu familia de tu comida?"
+            "text": "Todos los lunes llamas a tus padres para saludarlos. Hoy es lunes y no contestaron el teléfono cuando llamaste, lo cual es extraño. Probablemente tus padres no contestaron el teléfono porque están..."
         },
         {
-            "type": "Buttons",
-            "name": "Nueva receta_Vida Familiar y Doméstica_comp_question",
+            "type": "WordPuzzle",
+            "name": "Llamada telefónica del lunes_Vida Familiar y Doméstica_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "ocupados"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 4
 }

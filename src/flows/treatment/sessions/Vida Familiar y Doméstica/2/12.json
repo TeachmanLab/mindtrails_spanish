@@ -1,25 +1,26 @@
 {
-    "header_text": "Un hallazgo afortunado",
+    "header_text": "Tu primer hijo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás buscando una nueva casa. Durante tu primera visita, te enamoras del lugar y decides firmar un contrato de arrendamiento. El hecho de que no hayas visitado otras casas te hace sentir..."
+            "text": "Tu primer hijo"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Un hallazgo afortunado_Vida Familiar y Doméstica_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "bien"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/137.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Cuanto más te sumerjas en la historia, más probabilidades tendrás de beneficiarte de nuestro programa; imagínate realmente en la situación actual."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

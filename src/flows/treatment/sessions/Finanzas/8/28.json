@@ -1,0 +1,16 @@
+{
+    "header_text": "Mantener a la familia",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mantener a la familia"
+        },
+        {
+            "type": "Media",
+            "url": "./images/158.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

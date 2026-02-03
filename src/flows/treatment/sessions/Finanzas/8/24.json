@@ -1,14 +1,16 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Gestión de facturas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en una situación en la que te encantaría estar, pero tienes demasiado miedo o ansiedad para ponerte en ella, aunque pueda llevar al crecimiento personal. ¿Qué estrategias podrías poner en práctica para ayudarte a llegar allí?"
+            "text": "Gestión de facturas"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #10_entry"
+            "type": "Media",
+            "url": "./images/245.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

@@ -1,29 +1,29 @@
 {
-    "header_text": "Sentirse mareado",
+    "header_text": "Una mesa sucia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Disminuirá tu ansiedad si observas tus sensaciones sin juzgar?"
+            "text": "Mientras almuerzas con tu amigo, tu ..."
         },
         {
             "type": "Buttons",
-            "name": "Sentirse mareado_Salud Física_comp_question",
+            "name": "Una mesa sucia_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Estás insoportablemente ansiosos.",
+                "eres capaces de disfrutar la conversación."
             ],
             "column_Count": 1,
-            "correct_value": "Sí"
+            "correct_value": "eres capaces de disfrutar la conversación."
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
-    "scenario_num": 8
+    "type": "positive",
+    "scenario_num": 5
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Película intermitente",
+    "header_text": "Dando vueltas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Película intermitente"
+            "text": "Dando vueltas"
         },
         {
             "type": "Media",
-            "url": "./images/393.jpg"
+            "url": "./images/392.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

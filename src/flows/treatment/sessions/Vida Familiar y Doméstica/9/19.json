@@ -1,16 +1,16 @@
 {
-    "header_text": "Hablando sobre vivienda",
+    "header_text": "Tu primer hijo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hablando sobre vivienda"
+            "text": "Tu primer hijo"
         },
         {
             "type": "Media",
-            "url": "./images/166.jpg"
+            "url": "./images/137.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 8
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

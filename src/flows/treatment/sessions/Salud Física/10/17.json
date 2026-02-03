@@ -1,16 +1,17 @@
 {
-    "header_text": "Manejando con una amigo",
+    "header_text": "Subiendo una montaña",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Manejando con una amigo"
+            "text": "Estás en una caminata con un grupo de amigos y todos quieren subir una montaña bastante alta. Mientras escalas la montaña, miras hacia abajo y sientes un vacío en el estómago. Piensas que esta caminata será..."
         },
         {
-            "type": "Media",
-            "url": "./images/433.jpg"
+            "type": "Entry",
+            "name": "Subiendo una montaña_Salud Física_entry1"
         }
     ],
-    "type": "negative",
-    "scenario_num": 6
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

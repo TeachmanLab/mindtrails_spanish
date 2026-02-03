@@ -1,16 +1,17 @@
 {
-    "header_text": "siendo padre",
+    "header_text": "Tu primer hijo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "siendo padre"
+            "text": "Acabas de tener tu primer hijo. Quieres tener una buena relación durante toda la vida de tu hijo, pero te preocupa cometer errores como..."
         },
         {
-            "type": "Media",
-            "url": "./images/325.jpg"
+            "type": "Entry",
+            "name": "Tu primer hijo_Salud Mental_entry1"
         }
     ],
-    "type": "negative",
-    "scenario_num": 7
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Fundación Defensora del Paciente (Patient Advocate Foundation)\n\nBrinda a los pacientes de bajos ingresos y sin seguro médico servicios de administración de casos y ayuda financiera para acceder al tratamiento de atención médica para enfermedades crónicas, potencialmente mortales y debilitantes."
+        }
+    ]
+}

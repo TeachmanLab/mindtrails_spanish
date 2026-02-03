@@ -1,16 +1,17 @@
 {
-    "header_text": "Errores en el trabajo",
+    "header_text": "Certidumbre de estar en lo correcto",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Errores en el trabajo"
+            "text": "Estás teniendo una discusión intelectual con tu colega. En una de las preguntas que te hacen, estás 90% seguro de que conoces la respuesta correcta. Cuando respondes, te sientes..."
         },
         {
-            "type": "Media",
-            "url": "./images/96.jpg"
+            "type": "Entry",
+            "name": "Certidumbre de estar en lo correcto_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 1
 }

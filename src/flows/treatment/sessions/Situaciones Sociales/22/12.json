@@ -1,16 +1,16 @@
 {
-    "header_text": "Mascarillas para los invitados",
+    "header_text": "En un barco",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mascarillas para los invitados"
+            "text": "En un barco"
         },
         {
             "type": "Media",
-            "url": "./images/168.jpg"
+            "url": "./images/384.jpg"
         }
     ],
-    "type": "negative",
-    "scenario_num": 3
+    "type": "positive",
+    "scenario_num": 0
 }

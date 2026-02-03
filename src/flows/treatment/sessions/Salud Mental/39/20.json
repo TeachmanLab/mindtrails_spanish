@@ -1,16 +1,16 @@
 {
-    "header_text": "Revisando tu trabajo",
+    "header_text": "Preocupaciones por el ritmo cardíaco",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Revisando tu trabajo"
+            "text": "Preocupaciones por el ritmo cardíaco"
         },
         {
             "type": "Media",
-            "url": "./images/49.jpg"
+            "url": "./images/363.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 8
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

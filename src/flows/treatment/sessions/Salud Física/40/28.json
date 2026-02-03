@@ -1,0 +1,16 @@
+{
+    "header_text": "Carrera en un día frío",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Carrera en un día frío"
+        },
+        {
+            "type": "Media",
+            "url": "./images/439.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 6
+}

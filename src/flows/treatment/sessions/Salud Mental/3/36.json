@@ -1,0 +1,16 @@
+{
+    "header_text": "Mensajes de texto honestos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Mensajes de texto honestos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/333.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

@@ -1,16 +1,16 @@
 {
-    "header_text": "Trabajando para salir adelante",
+    "header_text": "Conducción segura",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Trabajando para salir adelante"
+            "text": "Conducción segura"
         },
         {
             "type": "Media",
-            "url": "./images/23.jpg"
+            "url": "./images/164.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 3
 }

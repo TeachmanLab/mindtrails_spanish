@@ -1,16 +1,15 @@
 {
-    "header_text": "Emoción prospectiva",
+    "header_text": "Ejercicio de limón",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Emoción prospectiva"
+            "text": "Realmente trate de imaginarse a sí mismo en las situaciones que se avecinan de la manera más vívida posible."
         },
         {
             "type": "Media",
-            "url": "./images/153.jpg"
+            "url": "./images/lemon3.jpg",
+            "border": false
         }
-    ],
-    "type": "positive",
-    "scenario_num": 0
+    ]
 }

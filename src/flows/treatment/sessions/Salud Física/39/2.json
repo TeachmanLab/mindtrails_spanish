@@ -1,16 +1,10 @@
 {
-    "header_text": "Picadura de araña",
+    "header_text": "Recordatorio de favoritos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Picadura de araña"
-        },
-        {
-            "type": "Media",
-            "url": "./images/401.jpg"
+            "text": "Recuerde que puede agregar historias, consejos y recursos a sus Favoritos haciendo clic en la estrella en la esquina superior derecha de la pantalla."
         }
-    ],
-    "type": "positive",
-    "scenario_num": 0
+    ]
 }

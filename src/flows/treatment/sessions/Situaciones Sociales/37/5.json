@@ -1,25 +1,22 @@
 {
-    "header_text": "Expresando tus ideas",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras trabajas en un proyecto de grupo colaborativo en el trabajo, compartes tus ideas con tu grupo. Los demás miembros del grupo no reaccionan. Deben estar pensando en el..."
+            "text": "Describe la situación en pocas palabras:"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Expresando tus ideas_Situaciones Sociales_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "proyecto"
-            ],
-            "missing_letter_count": 2
+            "type": "Entry",
+            "name": "entry_anxious_imagery"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 1
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

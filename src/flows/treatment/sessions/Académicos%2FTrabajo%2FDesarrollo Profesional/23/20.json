@@ -1,16 +1,16 @@
 {
-    "header_text": "Trabajando para salir adelante",
+    "header_text": "Anticipación de entrevista",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Trabajando para salir adelante"
+            "text": "Anticipación de entrevista"
         },
         {
             "type": "Media",
-            "url": "./images/23.jpg"
+            "url": "./images/87.jpg"
         }
     ],
-    "type": "negative",
-    "scenario_num": 8
+    "type": "positive",
+    "scenario_num": 3
 }

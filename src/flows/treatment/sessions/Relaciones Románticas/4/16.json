@@ -1,39 +1,25 @@
 {
-    "header_text": "Preocupaciones por las relaciones",
+    "header_text": "Encontrandote con alguien",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando te imaginas a ti y a tu pareja en el futuro, ves"
+            "text": "Estás alistándote para ir a una cita con alguien a quien nunca has conocido en persona. Crees que tienen mucho en común, pero te preocupa que a veces te vuelvas muy tímido cuando estás nervioso. Mientras piensas en ir a tu cita, no crees que darás una mala impresión, y crees que tu cita pensará que eres..."
         },
         {
-            "type": "Buttons",
-            "name": "Preocupaciones por las relaciones_Relaciones Románticas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Encontrandote con alguien_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Tu matrimonio ha terminado.",
-                "Los dos juntos y felices."
+            "display_delay": 2000,
+            "words": [
+                "interesante"
             ],
-            "column_Count": 1,
-            "correct_value": "Los dos juntos y felices."
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "¿Por qué estás completando palabras con letras? Al completar repetidamente las letras que faltan para completar palabras positivas, neutrales o negativas, el cerebro adopta patrones de pensamiento flexibles para reducir el pensamiento rígido."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 1
 }

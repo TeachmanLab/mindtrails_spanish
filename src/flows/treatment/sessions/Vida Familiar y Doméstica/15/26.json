@@ -1,25 +1,16 @@
 {
-    "header_text": "Expectativas",
+    "header_text": "Tu primer hijo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en por qué quiere que te desempeñes bien. Sabes que es porque quiere que te vaya bien, eso te..."
+            "text": "Tu primer hijo"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Expectativas_Vida Familiar y Doméstica_puzzle_word2",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "asegura"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/137.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 7
+    "type": "positive",
+    "scenario_num": 4
 }

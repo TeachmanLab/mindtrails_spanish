@@ -1,0 +1,17 @@
+{
+    "header_text": "Gestión de facturas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "La factura de tu tarjeta de crédito del mes llegará pronto. Has gastado un poco más este mes de lo normal. Cuando piensas en tus finanzas futuras, sientes que estarás... "
+        },
+        {
+            "type": "Entry",
+            "name": "Gestión de facturas_Finanzas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
+}

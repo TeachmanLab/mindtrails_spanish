@@ -1,10 +1,16 @@
 {
-    "header_text": "Maneja tus sentimientos: Finanzas",
+    "header_text": "Permitirse la educación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Las personas provienen de diferentes orígenes socioeconómicos. Si te sientes presionado a gastar tanto dinero como tus amigos, recuerda que no es necesario."
+            "text": "Permitirse la educación"
+        },
+        {
+            "type": "Media",
+            "url": "./images/158.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

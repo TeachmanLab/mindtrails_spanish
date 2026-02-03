@@ -1,25 +1,25 @@
 {
-    "header_text": "Hablando sobre televisión",
+    "header_text": "Tensión familiar",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás hablando con un grupo de amigos sobre programas de televisión. Cuando compartes tu opinión sobre un programa viejo que acabas de descubrir, nadie responde. Probablemente están pensando en lo interesante que suena la..."
+            "text": "Tú y un miembro de la familia tuvieron una conversación tensa hace unos meses. No han hablado desde esa interacción, pero se acerca un evento festivo al que ambos asistirán. Te preguntas si te enfrentará..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Hablando sobre televisión_Situaciones Sociales_puzzle1",
+            "name": "Tensión familiar_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "trama"
+                "nuevamente"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 6
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

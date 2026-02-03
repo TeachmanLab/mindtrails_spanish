@@ -1,29 +1,16 @@
 {
-    "header_text": "Hora para dormir",
+    "header_text": "Vacacionando en avión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "La reducción de tu ritmo cardíaco y respiración probablemente significa..."
+            "text": "Vacacionando en avión"
         },
         {
-            "type": "Buttons",
-            "name": "Hora para dormir_Salud Física_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No estás recibiendo suficiente oxígeno y te desmayarás.",
-                "Tu cuerpo necesita descansar después de un largo día de trabajo."
-            ],
-            "column_Count": 1,
-            "correct_value": "Tu cuerpo necesita descansar después de un largo día de trabajo."
+            "type": "Media",
+            "url": "./images/371.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 5
 }

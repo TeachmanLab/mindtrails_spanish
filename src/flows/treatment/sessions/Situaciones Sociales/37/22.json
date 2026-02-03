@@ -1,25 +1,16 @@
 {
-    "header_text": "Aprender a bailar en las redes sociales",
+    "header_text": "Usando lo que tienes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás pensando en un nuevo juego que compraste mientras estás en el trabajo. Realmente quieres invitar a la gente y aprender a jugarlo, pero no quieres avergonzarte frente a tus compañeros de trabajo. Decides no mencionarlo ya que estás nervioso, y te sientes... "
+            "text": "Usando lo que tienes"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Aprender a bailar en las redes sociales_Situaciones Sociales_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "triste"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/550.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 6
+    "type": "positive",
+    "scenario_num": 3
 }

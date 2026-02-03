@@ -1,16 +1,16 @@
 {
-    "header_text": "Vacaciones reprogramadas",
+    "header_text": "sintiendo mareos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vacaciones reprogramadas"
+            "text": "sintiendo mareos"
         },
         {
             "type": "Media",
-            "url": "./images/449.jpg"
+            "url": "./images/414.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 7
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

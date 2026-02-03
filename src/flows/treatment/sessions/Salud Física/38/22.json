@@ -1,16 +1,17 @@
 {
-    "header_text": "Resultados del chequeo anual",
+    "header_text": "Un golpe accidental",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Resultados del chequeo anual"
+            "text": "Una noche, estás subiendo las escaleras y accidentalmente golpeas tu cabeza contra un techo bajo. A la mañana siguiente, el dolor de cabeza todavía está presente ligeramente, y te preguntas qué has hecho. Ya a la hora del almuerzo, el dolor ha..."
         },
         {
-            "type": "Media",
-            "url": "./images/400.jpg"
+            "type": "Entry",
+            "name": "Un golpe accidental_Salud Física_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 3
 }

@@ -1,26 +1,18 @@
 {
-    "header_text": "Cita con el doctor",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cita con el doctor"
-        },
-        {
-            "type": "Media",
-            "url": "./images/377.jpg"
+            "text": "En este ejercicio, piensa en una PRÓXIMA situación que esperes que te haga sentir ansioso, preocupado o asustado. Elige una situación que te preocupe, que pueda salir mal o que esperes que provoque síntomas relacionados con la ansiedad (p. ej., palpitaciones, sudoración). Cualquier situación que te haga sentir bastante ansioso o asustado funcionará, siempre y cuando sea una situación que sea probable que realmente suceda."
         }
     ],
-    "type": "negative",
-    "scenario_num": 1,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Recuerda responder a esta pregunta basándote en el final de la historia que acabas de leer, no en cómo crees que terminaría. ¡Esto ayudará a reforzar un pensamiento más flexible!"
-            }
-        ],
-        "position": "before",
-        "information_count": 1
-    }
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

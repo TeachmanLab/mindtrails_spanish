@@ -1,29 +1,25 @@
 {
-    "header_text": "Prueba de enfermedad",
+    "header_text": "Tomando transporte",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Crees que los resultados enseñarán que tienes la enfermedad?"
+            "text": "Estás en el aeropuerto corriendo para alcanzar un avión. Sientes que tu corazón late rápidamente mientras te subes al avión y te sientas. Comienzas a sudar y a respirar rápido, temiendo que puedas tener un ataque de..."
         },
         {
-            "type": "Buttons",
-            "name": "Prueba de enfermedad_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Tomando transporte_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "pánico"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 5
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

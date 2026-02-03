@@ -1,10 +1,25 @@
 {
-    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_text": "Un momento de olvido",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Escribe tus sentimientos y valida cada uno de los que expresas. Recuerda que no existen emociones \"buenas\" o \"malas\", aunque puede resultar útil identificar la fuente de tus emociones para comprender la función que cumplen."
+            "text": "Recordaste que necesitas leche de la tienda, así que de camino a casa te detienes a comprarla. Cuando entras a la tienda, de repente olvidas por qué estás allí, lo que te resulta un poco preocupante. Revisas tu lista de tareas pendientes y decides que aún puedes continuar con tu día con..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Un momento de olvido_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "confianza"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

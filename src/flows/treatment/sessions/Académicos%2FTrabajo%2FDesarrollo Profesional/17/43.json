@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Académicos/Trabajo/Desarrollo Profesional",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cuando te sientas estancado, elige un pequeño paso que creas que puedes dar y empieza con eso."
+        }
+    ]
+}

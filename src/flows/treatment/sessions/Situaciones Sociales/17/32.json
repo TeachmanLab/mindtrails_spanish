@@ -1,29 +1,25 @@
 {
-    "header_text": "Saliendo en ropa de día",
+    "header_text": "Malentendido",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Crees que los demás piensan que estás vestido inapropiadamente?"
+            "text": "Estás en una reunión y estás guardando tu teléfono cuando el nuevo jefe de tu departamento comienza a hablar. Él interpreta esto como si estuvieras enviando mensajes de texto durante la reunión y lo te llama la atención frente a todos. Te acercas después para disculparte y no puedes interpretar la expresión de tu jefe del..."
         },
         {
-            "type": "Buttons",
-            "name": "Saliendo en ropa de día_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Malentendido_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "departamento"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 9
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Expresar tu opinión",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Expresar tu opinión"
+        },
+        {
+            "type": "Media",
+            "url": "./images/197.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

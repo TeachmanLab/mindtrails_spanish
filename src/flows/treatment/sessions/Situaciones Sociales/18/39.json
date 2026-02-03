@@ -1,0 +1,16 @@
+{
+    "header_text": "Llevando algo viejo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Llevando algo viejo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/146.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

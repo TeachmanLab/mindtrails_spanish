@@ -1,16 +1,17 @@
 {
-    "header_text": "Permitirse la educación",
+    "header_text": "Medicina asequible",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Permitirse la educación"
+            "text": "Te despiertas sintiéndote un poco mal y decides ir al médico. Te escriben una receta pero cuando llegas a la farmacia el precio es un poco más alto de lo que esperabas. Crees que puede ser..."
         },
         {
-            "type": "Media",
-            "url": "./images/158.jpg"
+            "type": "Entry",
+            "name": "Medicina asequible_Finanzas_entry1"
         }
     ],
-    "type": "negative",
-    "scenario_num": 6
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
 }

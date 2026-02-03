@@ -1,0 +1,16 @@
+{
+    "header_text": "Escándalo de ahorro",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Escándalo de ahorro"
+        },
+        {
+            "type": "Media",
+            "url": "./images/301.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

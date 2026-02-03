@@ -1,0 +1,25 @@
+{
+    "header_text": "Opiniones fuertes: Comportamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Los miembros de tu familia tienen opiniones firmes y tú no siempre estás de acuerdo con ellas. Una noche, invitas a un amigo a cenar. \n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Quiero pensar en otra cosa mientras todos hablan, pero me recuerdo a mí mismo que puedo manejar mis sentimientos y volver a sintonizarme con la conversación.",
+                "Me distraigo y dejo de prestar atención a lo que dice la gente.",
+                "Escucho a mi amigo mientras habla con los miembros de mi familia.",
+                "Quiero cambiar de tema para que podamos hablar de algo menos serio, pero dejo de intentar controlar la conversación.",
+                "Me acuerdo de que todos tienen opiniones diferentes."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Corriendo una milla",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Corriendo una milla"
+        },
+        {
+            "type": "Media",
+            "url": "./images/420.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

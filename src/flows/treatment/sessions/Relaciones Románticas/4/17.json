@@ -1,16 +1,29 @@
 {
-    "header_text": "Inseguridades de la Mascarilla",
+    "header_text": "Encontrandote con alguien",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Inseguridades de la Mascarilla"
+            "text": "Tu cita probablemente notará..."
         },
         {
-            "type": "Media",
-            "url": "./images/204.jpg"
+            "type": "Buttons",
+            "name": "Encontrandote con alguien_Relaciones Románticas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Lo poquito que tienes que decir.",
+                "Cuánto disfrutan de los mismos pasatiempos."
+            ],
+            "column_Count": 1,
+            "correct_value": "Cuánto disfrutan de los mismos pasatiempos."
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 1
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Chistes de compras",
+    "header_text": "Planificación de pagos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Chistes de compras"
+            "text": "Planificación de pagos"
         },
         {
             "type": "Media",
-            "url": "./images/256.jpg"
+            "url": "./images/255.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 1
 }

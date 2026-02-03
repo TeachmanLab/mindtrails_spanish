@@ -1,16 +1,25 @@
 {
-    "header_text": "Vecino amigable",
+    "header_text": "Cancelación de concierto",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vecino amigable"
+            "text": "Compraste tiquetes para un concierto y finalmente se acerca la fecha. Sin embargo, los casos de COVID están aumentando en tu estado y puede que se cancele el concierto en el último momento. Aceptas esto y sabes que la banda reprogramará si es..."
         },
         {
-            "type": "Media",
-            "url": "./images/408.jpg"
+            "type": "WordPuzzle",
+            "name": "Cancelación de concierto_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "necesario"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 4
 }

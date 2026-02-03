@@ -1,29 +1,30 @@
 {
-    "header_text": "Comparándote con otros",
+    "header_text": "Discute con tu pareja",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tu pareja se siente atraída a ti?"
+            "text": "Discute con tu pareja"
         },
         {
-            "type": "Buttons",
-            "name": "Comparándote con otros_Relaciones Románticas_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "type": "Media",
+            "url": "./images/151.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 2,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/599.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Tómate un momento para considerar las razones importantes para cambiar tu pensamiento ansioso."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

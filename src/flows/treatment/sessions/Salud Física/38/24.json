@@ -1,10 +1,17 @@
 {
-    "header_text": "Recurso: Salud Física",
+    "header_text": "Aprendiendo a esquíar",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Guía de Métodos Anticonceptivos por el FDA\n\nGuía de métodos anticonceptivos proporcionada por el FDA que compara todo tipo de anticonceptivos."
+            "text": "Estás de vacaciones en un resort de montaña y estás aprendiendo a esquiar. Este es tu primer intento de esquiar cuesta abajo solo. Te acercas a la primera curva a una velocidad moderada y piensas que esquiar es...\r\n"
+        },
+        {
+            "type": "Entry",
+            "name": "Aprendiendo a esquíar_Salud Física_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
 }

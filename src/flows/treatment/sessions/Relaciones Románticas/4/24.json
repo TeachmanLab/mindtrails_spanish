@@ -1,25 +1,29 @@
 {
-    "header_text": "Problemas con los amigos",
+    "header_text": "La familia no aprueba a su pareja",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu pareja te dice que tienen problemas con algunos de tus amigos. También has estado notando esto, pero no quieres hacer que nadie se moleste. Cuando piensas en discutir los temas con tus amigos, crees que la conversación irá... "
+            "text": "¿Tu familia será escéptica con respecto a tu pareja para siempre?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Problemas con los amigos_Relaciones Románticas_puzzle1",
+            "type": "Buttons",
+            "name": "La familia no aprueba a su pareja_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "bien"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 3
 }

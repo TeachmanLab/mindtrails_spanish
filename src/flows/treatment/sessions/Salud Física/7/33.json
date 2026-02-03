@@ -1,14 +1,29 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Preocupaciones por el ritmo cardíaco",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Para una situación reciente que te hizo ansioso, pregúntate: ¿Cómo podría haberlo pensado en otro momento, en otro estado de ánimo? ¿La forma en que pensaste al respecto se alineó con lo que realmente sucedió? ¿Hay alternativas? "
+            "text": "Cuando tu corazón comenzó a latir muy rápido..."
         },
         {
-            "type": "Entry",
-            "name": "Consejo #8_entry"
+            "type": "Buttons",
+            "name": "Preocupaciones por el ritmo cardíaco_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Manejaste tu ansiedad y te quedaste.",
+                "Te fuiste debido a tu ansiedad."
+            ],
+            "column_Count": 1,
+            "correct_value": "Manejaste tu ansiedad y te quedaste."
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

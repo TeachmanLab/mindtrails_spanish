@@ -1,16 +1,17 @@
 {
-    "header_text": "Tu propio estilo",
+    "header_text": "Respondiendo a preguntas inesperadas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu propio estilo"
+            "text": "Estás presentando tu trabajo a un grupo de tus compañeros. Después de tu presentación, alguien te hace una pregunta muy específica a la que no sabes responder y sientes que no estás calificado. Recuerdas que hiciste mucha investigación y que esta pregunta puede que simplemente no sea..."
         },
         {
-            "type": "Media",
-            "url": "./images/345.jpg"
+            "type": "Entry",
+            "name": "Respondiendo a preguntas inesperadas_Salud Mental_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 3
 }

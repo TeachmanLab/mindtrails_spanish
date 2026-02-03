@@ -1,16 +1,17 @@
 {
-    "header_text": "Viendo a un viejo amigo",
+    "header_text": "Garganta seca",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Viendo a un viejo amigo"
+            "text": "Estás hablando con un amigo sobre tu día y de repente sientes que tu garganta se seca. Toses un poco y buscas un vaso de agua. El agua ayuda un poco y te das cuenta de que la sequedad en la garganta probablemente no fue..."
         },
         {
-            "type": "Media",
-            "url": "./images/432.jpg"
+            "type": "Entry",
+            "name": "Garganta seca_Salud Física_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 0
 }

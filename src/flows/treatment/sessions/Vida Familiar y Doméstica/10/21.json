@@ -1,16 +1,16 @@
 {
-    "header_text": "Planes de vacaciones",
+    "header_text": "Visitando familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Planes de vacaciones"
+            "text": "Visitando familia"
         },
         {
             "type": "Media",
-            "url": "./images/147.jpg"
+            "url": "./images/133.jpg"
         }
     ],
-    "type": "negative",
-    "scenario_num": 8
+    "type": "positive",
+    "scenario_num": 3
 }

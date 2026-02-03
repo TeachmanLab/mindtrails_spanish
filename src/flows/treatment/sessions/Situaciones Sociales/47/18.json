@@ -1,16 +1,16 @@
 {
-    "header_text": "Pedido de un niño",
+    "header_text": "La nueva ciudad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Pedido de un niño"
+            "text": "La nueva ciudad"
         },
         {
             "type": "Media",
-            "url": "./images/526.jpg"
+            "url": "./images/516.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 5
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

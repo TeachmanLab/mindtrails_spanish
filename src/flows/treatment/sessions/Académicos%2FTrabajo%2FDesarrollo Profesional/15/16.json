@@ -1,16 +1,16 @@
 {
-    "header_text": "Completando trabajos",
+    "header_text": "Recuperándote despues de un error",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Completando trabajos"
+            "text": "Recuperándote despues de un error"
         },
         {
             "type": "Media",
-            "url": "./images/82.jpg"
+            "url": "./images/46.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 4
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

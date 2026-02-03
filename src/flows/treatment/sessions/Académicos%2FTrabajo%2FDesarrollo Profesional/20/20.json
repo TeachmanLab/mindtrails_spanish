@@ -1,16 +1,25 @@
 {
-    "header_text": "Cambiar tus planes",
+    "header_text": "Cambiando tu trayectoria",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cambiar tus planes"
+            "text": "Llevas cinco años en el mismo puesto y empiezas a sentirte aburrido y sin oposición en tu trabajo. Te gustaría intentar conseguir un nuevo puesto, pero te preocupa poder ser competitivo en el mercado..."
         },
         {
-            "type": "Media",
-            "url": "./images/110.jpg"
+            "type": "WordPuzzle",
+            "name": "Cambiando tu trayectoria_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "laboral"
+            ],
+            "missing_letter_count": 2
         }
     ],
-    "type": "positive",
-    "scenario_num": 6
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

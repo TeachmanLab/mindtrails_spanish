@@ -1,0 +1,16 @@
+{
+    "header_text": "Una presentación pequeña",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Una presentación pequeña"
+        },
+        {
+            "type": "Media",
+            "url": "./images/91.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

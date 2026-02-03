@@ -1,0 +1,16 @@
+{
+    "header_text": "Tocando el piano",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tocando el piano"
+        },
+        {
+            "type": "Media",
+            "url": "./images/533.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 9
+}

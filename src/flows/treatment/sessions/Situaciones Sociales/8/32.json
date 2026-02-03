@@ -1,0 +1,16 @@
+{
+    "header_text": "Invitar a alguien",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Invitar a alguien"
+        },
+        {
+            "type": "Media",
+            "url": "./images/149.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

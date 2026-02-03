@@ -1,0 +1,17 @@
+{
+    "header_text": "Ahorrar dinero",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Siempre necesitas almorzar comida de casa para ahorrar dinero. Cuando comes con tus amigos, notas que todos salen a comer cada día. Te das cuenta de que tu situación es diferente a la de ellos y que está..."
+        },
+        {
+            "type": "Entry",
+            "name": "Ahorrar dinero_Finanzas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 7
+}

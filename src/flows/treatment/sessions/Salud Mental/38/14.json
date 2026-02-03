@@ -1,17 +1,17 @@
 {
-    "header_text": "Respondiendo a preguntas inesperadas",
+    "header_text": "Usando tecnología diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás presentando tu trabajo a un grupo de tus compañeros. Después de tu presentación, alguien te hace una pregunta muy específica a la que no sabes responder y sientes que no estás calificado. Recuerdas que hiciste mucha investigación y que esta pregunta puede simplemente no ser..."
+            "text": "Recientemente reemplazaste tu computadora portátil y tuviste que optar por una opción más económica. Tu jefe te pide que completes un proyecto que requerirá una aplicación que tu nueva computadora no tiene. Cuando piensas en completar tu trabajo para este proyecto, te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Respondiendo a preguntas inesperadas_Salud Mental_entry1"
+            "name": "Usando tecnología diferente_Salud Mental_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 0
 }

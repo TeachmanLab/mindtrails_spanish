@@ -1,17 +1,22 @@
 {
-    "header_text": "Tomando el mando",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Durante tu reunión de departamento por Zoom, te coloca en salas separadas. Cuando comienzas la discusión, tu cámara está encendida pero todos los demás mantienen sus cámaras apagadas y sus micrófonos silenciados. Piensas que los demás pensarán que estás..."
+            "text": "Describe la situación en pocas palabras:"
         },
         {
             "type": "Entry",
-            "name": "Tomando el mando_Situaciones Sociales_entry1"
+            "name": "entry_anxious_imagery"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 1
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

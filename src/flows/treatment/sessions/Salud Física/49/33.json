@@ -1,10 +1,25 @@
 {
-    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_text": "Despertándote mareado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando experimentes una sensación corporal incómoda (por ejemplo, el corazón acelerado o las palmas sudorosas), simplemente siéntate con esa sensación por un momento antes de reaccionar. Estas sensaciones suelen pasar rápidamente sin ninguna intervención."
+            "text": "Cuando te despiertas por la mañana, te sientas rápidamente. Tu visión se vuelve borrosa y luego todo se pone negro por un momento. Tu visión regresa despues de ese momento, y te convences que te estás quedando... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Despertándote mareado_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "ciego"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
 }

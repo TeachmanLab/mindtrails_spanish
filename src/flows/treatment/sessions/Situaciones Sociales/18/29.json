@@ -1,25 +1,25 @@
 {
-    "header_text": "Llevando algo viejo",
+    "header_text": "Atención en la tienda",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te invitan a una fiesta en la oficina y decides llevar un traje que compraste el año pasado. Llegas y todos los demás parecen tener un atuendo nuevo. Mientras caminas, el anfitrión se te acerca y te dice que luces..."
+            "text": "Estás en una tienda y accidentalmente derribas algunos marcos de fotos en uno de los pasillos. Sientes que tus mejillas se ponen calientes mientras la gente en la tienda se gira para mirarte. Cuando el dueño de la tienda se acerca para reorganizar los marcos de fotos, está frunciendo el..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Llevando algo viejo_Situaciones Sociales_puzzle1",
+            "name": "Atención en la tienda_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "bien"
+                "ceño"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 8
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

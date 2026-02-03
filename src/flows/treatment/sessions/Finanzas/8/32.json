@@ -1,0 +1,16 @@
+{
+    "header_text": "Gestión de crédito",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Gestión de crédito"
+        },
+        {
+            "type": "Media",
+            "url": "./images/253.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 9
+}

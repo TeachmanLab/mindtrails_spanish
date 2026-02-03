@@ -1,30 +1,25 @@
 {
-    "header_text": "Publicar sobre la familia",
+    "header_text": "Traer un nuevo amigo a casa",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Están tus hijos molestos porque los etiquetaste en una foto familiar?"
+            "text": "Vives con algunos miembros de tu familia extendida. Tu colega te pregunta si puede venir a cenar algún día y no sabe cuántas personas viven en tu casa. Cuando imaginas a tu colega entrando a tu casa, crees que se..."
         },
         {
-            "type": "Buttons",
-            "name": "Publicar sobre la familia_Vida Familiar y Doméstica_comp_question",
+            "type": "WordPuzzle",
+            "name": "Traer un nuevo amigo a casa_Vida Familiar y Doméstica_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "sorprenderá"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 9,
-    "information": null
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

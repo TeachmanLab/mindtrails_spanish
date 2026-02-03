@@ -1,29 +1,25 @@
 {
-    "header_text": "Experiencia en el supermercado",
+    "header_text": "Conversación con un desconocido",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Los otros compradores probablemente se sintieron..."
+            "text": "Estás en una fiesta de cumpleaños para un amigo y estás hablando con alguien que acabas de conocer. No puedes decir si la persona piensa que eres interesante o aburrido, y decides que está bien no..."
         },
         {
-            "type": "Buttons",
-            "name": "Experiencia en el supermercado_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Conversación con un desconocido_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Aliviados de que nadie fue herido.",
-                "Molestos por el sonido fuerte."
+            "display_delay": 2000,
+            "words": [
+                "saber"
             ],
-            "column_Count": 1,
-            "correct_value": "Aliviados de que nadie fue herido."
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 6
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 3
 }

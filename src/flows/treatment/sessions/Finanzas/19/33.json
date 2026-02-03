@@ -1,14 +1,29 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Recuperarse de COVID",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Reflexionas sobre las historias que acabas de leer y cómo se resolvieron las situaciones que provocan ansiedad. ¿Qué pienas son / ves como algunos de las conclusiones principales? ¿Cuál de estas nuevas formas de pensar podrías verte a ti mismo aplicando a tu propia vida, y por qué?"
+            "text": "¿Te recuperarás de tu tiempo libre?"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #2_entry"
+            "type": "Buttons",
+            "name": "Recuperarse de COVID_Finanzas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

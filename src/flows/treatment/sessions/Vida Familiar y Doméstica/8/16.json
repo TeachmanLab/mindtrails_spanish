@@ -1,17 +1,17 @@
 {
-    "header_text": "Reconciliándote con tu amigo",
+    "header_text": "Sonidos por la noche",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Unos días después de un pleito con tu amigo, decides romper el hielo y le propones que vayan a tomar un café. Te alistas y cuando estás por irte, te llaman para decirte que después de todo no pueden llegar. Cuando cuelgas, piensas que cancelaron debido a que están... "
+            "text": "Estás solo en casa y es de noche. Escuchas un ruido fuerte afuera. Piensas en qué podría ser, y crees que son tus..."
         },
         {
             "type": "Entry",
-            "name": "Reconciliándote con tu amigo_Vida Familiar y Doméstica_entry1"
+            "name": "Sonidos por la noche_Vida Familiar y Doméstica_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 1
 }

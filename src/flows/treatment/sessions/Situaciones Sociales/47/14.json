@@ -1,14 +1,14 @@
 {
-    "header_text": "Fotos en redes sociales",
+    "header_text": "Desconectandote",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Estás deseando que otros vean tu foto en el sitio web?"
+            "text": "¿Te sientes cómodo pidiéndole a la jefa de tu departamento que repita su pregunta?"
         },
         {
             "type": "Buttons",
-            "name": "Fotos en redes sociales_Situaciones Sociales_comp_question",
+            "name": "Desconectandote_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
@@ -24,6 +24,6 @@
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
-    "scenario_num": 3
+    "type": "positive",
+    "scenario_num": 0
 }

@@ -1,17 +1,17 @@
 {
-    "header_text": "Planes de vacaciones",
+    "header_text": "Visitando familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus suegros te han invitado a unirte a ellos para los días festivos. Estás emocionado de pasar tiempo con la familia de tu pareja, pero te preocupa que tus propios padres se sientan decepcionados de no estar con ellos. Cuando piensas en decirles a tus padres que te gustaría pasar los días festivos con tu pareja, crees que se tomarán mal la..."
+            "text": "Se acerca un fin de semana largo y habías planeado visitar a tu familia. Esta mañana, te das cuenta de que estuviste expuesto a alguien con COVID. Estás vacunado, pero no estás seguro del riesgo de contagiarte y posiblemente transmitirles el virus a tu familia. Piensas que tu familia entenderá si decides no ir a visitarlos para..."
         },
         {
             "type": "Entry",
-            "name": "Planes de vacaciones_Vida Familiar y Doméstica_entry1"
+            "name": "Visitando familia_Vida Familiar y Doméstica_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 8
+    "type": "positive",
+    "scenario_num": 3
 }

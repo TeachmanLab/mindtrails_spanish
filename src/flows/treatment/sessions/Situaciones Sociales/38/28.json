@@ -1,0 +1,16 @@
+{
+    "header_text": "Saludando a alguien",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Saludando a alguien"
+        },
+        {
+            "type": "Media",
+            "url": "./images/556.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

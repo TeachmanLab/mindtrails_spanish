@@ -1,0 +1,25 @@
+{
+    "header_text": "Rompiendo el código de honor: Sentimientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás trabajando en un informe con algunos colegas y necesitas informar algunas estadísticas. Un colega sugiere que cambies las estadísticas para que tu informe se vea mejor, pero eso sería mentir.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Estoy un poco frustrado porque mi colega dijo que deberíamos inventar nuevas estadísticas.",
+                "Me sentiré aliviado cuando este informe esté terminado.",
+                "Me preocupa mi desempeño en el informe, pero sé que estoy haciendo lo mejor que puedo.",
+                "Soy más feliz escribiendo este informe con mis colegas que trabajando solo.",
+                "Me preocupa que mis compañeros se burlen de mí, pero si lo hacen, puedo soportarlo."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

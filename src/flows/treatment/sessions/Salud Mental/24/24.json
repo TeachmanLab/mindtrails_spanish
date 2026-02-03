@@ -1,10 +1,16 @@
 {
-    "header_text": "Recurso: Salud Mental",
+    "header_text": "Sentirse entumecido",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "7 técnicas de relajación para un alivio eficaz del estrés y la ansiedad\n\nEsta guía ofrece una lista de 7 técnicas de relajación con explicaciones claras para poder sobrellevar el estrés y la ansiedad."
+            "text": "Sentirse entumecido"
+        },
+        {
+            "type": "Media",
+            "url": "./images/327.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

@@ -1,25 +1,10 @@
 {
-    "header_text": "Responsibilidad financiera: Comportamientos",
+    "header_text": "Responsibilidad financiera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Su pareja estuvo en el hospital recientemente y usted ha estado ayudando a pagar sus facturas médicas. Te preguntas qué significará esto para tus finanzas en el futuro.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
-        },
-        {
-            "type": "TimedText",
-            "texts": [
-                "Quiero enterrar mis emociones, pero decido compartir cómo me siento con mi pareja.",
-                "Evito lidiar con las facturas médicas.",
-                "Quiero evitar la situación, pero elijo afrontarla de frente.",
-                "Hablo con mi pareja sobre nuestras finanzas y hago un plan.",
-                "Ajusto mi presupuesto para poder estar preparado para situaciones como esta en el futuro."
-            ],
-            "Duration": 15000
+            "text": "El objetivo de este ejercicio es ayudarle a aprender que hay muchas reacciones diferentes que puede tener en una situación estresante y que no todos estos pensamientos, sentimientos y comportamientos tienen que ser negativos. \n\nDespués de ver algunos pensamientos, se le pedirá que escriba su propio ejemplo de un pensamiento útil que pueda tener en esa situación. Harás lo mismo con los sentimientos y comportamientos. \n\nLa misma situación se presentará varias veces. Esta repetición es intencionada para que puedas practicar pensar en la misma situación de muchas maneras diferentes."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
     ]
 }

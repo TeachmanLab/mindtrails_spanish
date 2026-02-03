@@ -1,17 +1,17 @@
 {
-    "header_text": "Presentación de recaudación de fondos",
+    "header_text": "Revisando tus cualificaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te ponen a cargo de los esfuerzos de recaudación de fondos de tu oficina y rápidamente te das cuenta de que a tus compañeros de trabajo no les interesa mucho la recaudación de fondos. En una reunión, das una presentación sobre la importancia de ayudar con la recaudación de fondos, durante la cual tus compañeros de trabajo permanecen callados. Cuando te sientas después de tu presentación, piensas que parecían..."
+            "text": "Estás en una nueva ciudad y necesitas empezar a solicitar trabajos. Comienzas a revisar los requisitos para los puestos y, aunque has trabajado duro para preparar tu currículum, te preguntas si será suficiente. Piensas en tus logros y sabes que has hecho más que..."
         },
         {
             "type": "Entry",
-            "name": "Presentación de recaudación de fondos_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Revisando tus cualificaciones_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 0
 }

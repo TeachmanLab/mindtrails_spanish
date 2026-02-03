@@ -1,0 +1,16 @@
+{
+    "header_text": "Ignorando",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Ignorando"
+        },
+        {
+            "type": "Media",
+            "url": "./images/206.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

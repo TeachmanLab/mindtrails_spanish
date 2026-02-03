@@ -1,17 +1,16 @@
 {
-    "header_text": "Corrección rápida",
+    "header_text": "Errores tipográficos problemáticos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Al final, recuerdas que cometer errores ocasionalmente no te hace un mal empleado. Tu jefe te corregió amablemente, porque es su trabajo, y sientes que toda la interacción estuvo..."
+            "text": "Errores tipográficos problemáticos"
         },
         {
-            "type": "Entry",
-            "name": "Corrección rápida_Académicos/Trabajo/Desarrollo Profesional_entry2"
+            "type": "Media",
+            "url": "./images/47.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 6
+    "type": "negative",
+    "scenario_num": 2
 }

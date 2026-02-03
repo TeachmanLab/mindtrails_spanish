@@ -1,25 +1,15 @@
 {
-    "header_text": "Enfrentando a un amigo",
+    "header_text": "Ejercicio de limón",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En una conversación con un amigo, dice algo un poco ofensivo y no parece darse cuenta de que te hizo sentir incómodo. Lo confrontas sobre su comentario y por qué fue ofensivo, y en ese momento te preocupa que se enoje contigo. Cuando responde, te agradece por tu comunicación y te pide..."
+            "text": "Realmente trate de imaginarse a sí mismo en las situaciones que se avecinan de la manera más vívida posible."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Enfrentando a un amigo_Salud Mental_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "disculpas"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/lemon3.jpg",
+            "border": false
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 0
+    ]
 }

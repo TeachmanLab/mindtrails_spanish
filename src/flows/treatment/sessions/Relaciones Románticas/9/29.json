@@ -1,0 +1,16 @@
+{
+    "header_text": "Amgio del trabajo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Amgio del trabajo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/232.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

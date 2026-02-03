@@ -1,25 +1,31 @@
 {
-    "header_text": "Aceptando elogios",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Durante el fin de semana, pasaste tiempo con algunos amigos viejos. Les contaste sobre el trabajo que estás haciendo y hacen comentarios sobre lo inteligente que debes ser, pero tú no consideras que el trabajo sea tan especial. De todos modos, te permites sentirte orgulloso de lo que estás..."
+            "text": "Si esta situación terminara mal, ¿qué tan bien o mal serías capaz de manejarla?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Aceptando elogios_Situaciones Sociales_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "haciendo"
+            "type": "Buttons",
+            "buttons": [
+                "Muy bien",
+                "Algo bien",
+                "Neutral",
+                "Algo mal",
+                "Muy mal",
+                "Prefiero no responder"
             ],
-            "missing_letter_count": 1
+            "selectable": true,
+            "name": "imagery_handling"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 3
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

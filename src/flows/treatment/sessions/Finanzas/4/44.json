@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Finanzas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Identifica aspectos específicos de tus finanzas que te estén causando estrés y establece objetivos para gestionar mejor esos factores estresantes (por ejemplo, si tu presupuesto te está causando estrés, busca en Google herramientas de elaboración de presupuestos que te faciliten ese proceso)."
+        }
+    ]
+}

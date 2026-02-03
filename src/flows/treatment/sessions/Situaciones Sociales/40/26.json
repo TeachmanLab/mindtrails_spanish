@@ -1,0 +1,17 @@
+{
+    "header_text": "Una discusión acalorada",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Invitas a compañeros de trabajo a tu casa para una cena, aunque sabes que no siempre se llevan bien. Durante la cena, la discusión se vuelve muy ruidosa y..."
+        },
+        {
+            "type": "Entry",
+            "name": "Una discusión acalorada_Situaciones Sociales_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 5
+}

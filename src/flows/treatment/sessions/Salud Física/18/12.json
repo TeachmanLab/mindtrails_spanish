@@ -1,16 +1,16 @@
 {
-    "header_text": "Entrega Responsable",
+    "header_text": "Corriendo con un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Entrega Responsable"
+            "text": "Corriendo con un amigo"
         },
         {
             "type": "Media",
-            "url": "./images/455.jpg"
+            "url": "./images/416.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

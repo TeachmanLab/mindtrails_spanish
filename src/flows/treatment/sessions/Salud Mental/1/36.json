@@ -1,0 +1,16 @@
+{
+    "header_text": "Pensando en volar",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Pensando en volar"
+        },
+        {
+            "type": "Media",
+            "url": "./images/319.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

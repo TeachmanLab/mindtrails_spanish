@@ -1,0 +1,16 @@
+{
+    "header_text": "Realizando cambios",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Realizando cambios"
+        },
+        {
+            "type": "Media",
+            "url": "./images/272.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

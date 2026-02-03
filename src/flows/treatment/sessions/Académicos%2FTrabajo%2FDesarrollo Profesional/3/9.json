@@ -1,25 +1,31 @@
 {
-    "header_text": "Trabajando para salir adelante",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando imaginas tu probable puesto en la empresa en el futuro, no te ves siendo pasado por alto y esperas obtener el trabajo que..."
+            "text": "¿Qué tan vívidamente imaginaste la situación?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Trabajando para salir adelante_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "deseas"
+            "type": "Buttons",
+            "buttons": [
+                "Nada vívido",
+                "Algo vívido",
+                "Moderadamente vívido",
+                "Muy vívido",
+                "Totalmente vívido",
+                "Prefiero no responder"
             ],
-            "missing_letter_count": 1
+            "selectable": true,
+            "name": "imagery_vivid"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 2
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

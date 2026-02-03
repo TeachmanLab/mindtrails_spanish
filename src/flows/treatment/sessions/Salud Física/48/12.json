@@ -1,16 +1,16 @@
 {
-    "header_text": "Culpar para enfermar a otra persona",
+    "header_text": "Tos después de salir",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Culpar para enfermar a otra persona"
+            "text": "Tos después de salir"
         },
         {
             "type": "Media",
-            "url": "./images/451.jpg"
+            "url": "./images/368.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

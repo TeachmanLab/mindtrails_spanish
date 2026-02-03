@@ -1,16 +1,25 @@
 {
-    "header_text": "Planes de vacaiones",
+    "header_text": "Casa bilingüe",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Planes de vacaiones"
+            "text": "Estás cenando con un compañero de trabajo. Mientras comen juntos, recibes una llamada  de un miembro de tu familia y cambias entre español y otro idioma. Nunca le dijiste a tu compañero de trabajo que tus familiares son bilingües. Piensas en la reacción de tu compañero y crees que le parecerá..."
         },
         {
-            "type": "Media",
-            "url": "./images/147.jpg"
+            "type": "WordPuzzle",
+            "name": "Casa bilingüe_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "interesante"
+            ],
+            "missing_letter_count": 2
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 5
 }

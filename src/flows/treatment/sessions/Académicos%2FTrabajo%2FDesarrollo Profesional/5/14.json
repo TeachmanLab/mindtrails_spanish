@@ -1,29 +1,25 @@
 {
-    "header_text": "Tomar tu propia trayectoria profesional",
+    "header_text": "Una audiencia captada",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Estás satisfecho con tu decisión de tomarte un tiempo libre para viajar?"
+            "text": "Tienes que dar una presentación a un grupo de colegas de trabajo que conoces bien. Todos están callados durante tu presentación. Mientras lo piensas más tarde en casa, crees que tus colegas encontraron tu presentación..."
         },
         {
-            "type": "Buttons",
-            "name": "Tomar tu propia trayectoria profesional_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "Una audiencia captada_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "interesante"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

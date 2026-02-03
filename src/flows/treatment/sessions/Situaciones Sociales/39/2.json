@@ -1,16 +1,10 @@
 {
-    "header_text": "Cambio de planes",
+    "header_text": "Recordatorio de favoritos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cambio de planes"
-        },
-        {
-            "type": "Media",
-            "url": "./images/532.jpg"
+            "text": "Recuerde que puede agregar historias, consejos y recursos a sus Favoritos haciendo clic en la estrella en la esquina superior derecha de la pantalla."
         }
-    ],
-    "type": "positive",
-    "scenario_num": 0
+    ]
 }

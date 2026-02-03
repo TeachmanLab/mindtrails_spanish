@@ -1,16 +1,25 @@
 {
-    "header_text": "Preocuparse por los ahorros",
+    "header_text": "Dependencia financiera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Preocuparse por los ahorros"
+            "text": "Tus hijos han estado confiando en ti financieramente, y quieres que comiencen a ser más independientes. Sabes que este es un paso importante, pero la idea de brindarles menos apoyo es abrumadora. Al pensar en el futuro, confías en que su independencia financiera será... "
         },
         {
-            "type": "Media",
-            "url": "./images/197.jpg"
+            "type": "WordPuzzle",
+            "name": "Dependencia financiera_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "posible"
+            ],
+            "missing_letter_count": 2
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 8
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
 }

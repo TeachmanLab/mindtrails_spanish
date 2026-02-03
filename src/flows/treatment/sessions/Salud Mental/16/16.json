@@ -1,10 +1,25 @@
 {
-    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_text": "Luchando con una presentación:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Observa los pensamientos que tienes cuando sientes una emoción negativa y determina si esos pensamientos reflejan con precisión la realidad de la situación."
+            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Has estado luchando por armar esta presentación, pero aún no te has comunicado con tu jefe al respecto. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Mi jefe estará orgulloso de mí porque me estoy esforzando mucho.",
+                "Esta presentación será una buena oportunidad para practicar mis habilidades de hablar en público.",
+                "Mis colegas se aburrirán y hablarán entre ellos durante mi presentación.",
+                "Puede que no dé lo mejor de mí en esta presentación, pero la superaré.",
+                "Mi jefe se sentirá decepcionado por mis esfuerzos, pero aún puedo sentirme orgulloso del trabajo que realicé."
+            ],
+            "Duration": 15000
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
     ]
 }

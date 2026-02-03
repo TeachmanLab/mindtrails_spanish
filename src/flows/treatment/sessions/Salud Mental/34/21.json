@@ -1,16 +1,16 @@
 {
-    "header_text": "Comparándote con otros",
+    "header_text": "Opinión importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Comparándote con otros"
+            "text": "Opinión importante"
         },
         {
             "type": "Media",
-            "url": "./images/188.jpg"
+            "url": "./images/58.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 6
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

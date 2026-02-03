@@ -1,16 +1,17 @@
 {
-    "header_text": "Usando tecnología diferente",
+    "header_text": "Una presentación importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Usando tecnología diferente"
+            "text": "Tu jefe está viendo tu presentación en tu reunión de hoy. Durante la presentación, tropiezas mucho con tus palabras. Te sientes...  "
         },
         {
-            "type": "Media",
-            "url": "./images/69.jpg"
+            "type": "Entry",
+            "name": "Una presentación importante_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ],
-    "type": "positive",
-    "scenario_num": 5
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 0
 }

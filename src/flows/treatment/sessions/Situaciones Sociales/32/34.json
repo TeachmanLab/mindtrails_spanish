@@ -1,0 +1,16 @@
+{
+    "header_text": "Silencio en un viaje en coche",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Silencio en un viaje en coche"
+        },
+        {
+            "type": "Media",
+            "url": "./images/543.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

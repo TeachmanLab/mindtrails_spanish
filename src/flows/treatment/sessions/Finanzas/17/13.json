@@ -1,29 +1,25 @@
 {
-    "header_text": "Evento social",
+    "header_text": "Planes de cena",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿El coordinador del evento será comprensivo?"
+            "text": "Algunos amigos te han invitado a cenar para el cumpleaños de un amigo. Has tenido algunos gastos imprevistos este mes y te preocupa poder permitir la cena cara. Decides que está bien perder una cena y les dices que pasarás tiempo con ellos la próxima..."
         },
         {
-            "type": "Buttons",
-            "name": "Evento social_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Planes de cena_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "vez"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

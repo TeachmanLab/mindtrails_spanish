@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cuando experimentes una sensación corporal incómoda (por ejemplo, el corazón acelerado o las palmas sudorosas), simplemente siéntate con esa sensación por un momento antes de reaccionar. Estas sensaciones suelen pasar rápidamente sin ninguna intervención."
+        }
+    ]
+}

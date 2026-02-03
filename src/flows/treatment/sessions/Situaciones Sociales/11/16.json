@@ -1,14 +1,25 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Granizado derramado:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en algo que te causó ansiedad la primera vez que lo hiciste. ¿Qué estrategias te ayudaron a superar eso?"
+            "text": "Tú y tus amigos están saliendo a cenar. Llegan tus alimentos y bebidas y accidentalmente derramas tu bebida en la parte delantera de tu nueva camisa blanca.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #1_entry"
+            "type": "TimedText",
+            "texts": [
+                "Pienso en que este es un accidente común.",
+                "Siento que estoy molestando a mis amigos en este momento, pero ellos entenderán que los accidentes ocurren.",
+                "Siento que estoy haciendo una escena, pero las otras personas aquí no me conocen ni les importa esta situación.",
+                "Creo que quedaré tonto delante de todos.",
+                "Pienso en cómo será una historia divertida."
+            ],
+            "Duration": 15000
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
     ]
 }

@@ -1,25 +1,25 @@
 {
-    "header_text": "Planes para visitar a la familia",
+    "header_text": "sintiendo mareos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Es el día antes de que planees ir a visitar a tu familia, y tu amigo se da cuenta de que estuvo expuesto a alguien con COVID. Ambos se van a hacer la prueba, pero los resultados suelen llegar en 72 horas y tienes un vuelo mañana. Cuando piensas en cómo reaccionará tu familia, crees que lo..."
+            "text": "Decides girar rápidamente en una silla de oficina. Sientes mariposas en el estómago y te mareas cuando la silla se desacelera. Estas sensaciones probablemente significan que estás..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Planes para visitar a la familia_Salud Física_puzzle1",
+            "name": "sintiendo mareos_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "entenderán"
+                "bien"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 4
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

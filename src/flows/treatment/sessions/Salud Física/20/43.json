@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Alcohólicos Anónimos\n\nProporciona apoyo para personas que luchan contra el alcoholismo usando un programa de 12 pasos, incluyendo asistencia regular a reuniones en grupo."
+        }
+    ]
+}

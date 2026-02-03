@@ -1,0 +1,16 @@
+{
+    "header_text": "Nuevo ambiente",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Nuevo ambiente"
+        },
+        {
+            "type": "Media",
+            "url": "./images/549.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
+}

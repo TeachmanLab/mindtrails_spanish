@@ -1,25 +1,29 @@
 {
-    "header_text": "Presencia en redes sociales",
+    "header_text": "Zambullirte",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Empezaste a salir con una persona nueva y te preguntan sobre tus cuentas de redes sociales. No te gustan las redes sociales, y has decidido no tener cuentas. Ellos pensarán que eres... "
+            "text": "¿Te sientes bien usando tu traje de baño frente a ellos?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Presencia en redes sociales_Relaciones Románticas_puzzle1",
+            "type": "Buttons",
+            "name": "Zambullirte_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "genial"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 4
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 0
 }

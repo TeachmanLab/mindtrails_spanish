@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Anxiety and Depression Association of America\n\nADAA es una organización dedicada a la prevención, tratamiento y cura de la ansiedad, depresión, el trastorno obsesivo-compulsivo y trastornos similares a través de la educación, grupo de apoyo, y gráficos informativos."
+        }
+    ]
+}

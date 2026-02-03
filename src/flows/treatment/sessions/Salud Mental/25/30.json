@@ -1,0 +1,16 @@
+{
+    "header_text": "Solicitar una subvención",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Solicitar una subvención"
+        },
+        {
+            "type": "Media",
+            "url": "./images/53.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 7
+}

@@ -1,10 +1,16 @@
 {
-    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
+    "header_text": "Fotos divertidas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En lugar de centrarte solo en los momentos negativos que has pasado con tus amigos, piensa también en los positivos. Recuérdate a ti mismo todas las veces en las que han sonreído y reído juntos. "
+            "text": "Fotos divertidas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/538.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 5
 }

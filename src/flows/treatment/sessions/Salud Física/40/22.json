@@ -1,17 +1,16 @@
 {
-    "header_text": "El dolor de muelas",
+    "header_text": "Clase de baile",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te duelen unos de tus dientes recientemente, por lo que decides hacer una cita con el dentista. Piensas en el dolor de tu diente y de lo que podría ser. Mientras esperas tu cita, te sientes... "
+            "text": "Clase de baile"
         },
         {
-            "type": "Entry",
-            "name": "El dolor de muelas_Salud Física_entry1"
+            "type": "Media",
+            "url": "./images/427.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 3
 }

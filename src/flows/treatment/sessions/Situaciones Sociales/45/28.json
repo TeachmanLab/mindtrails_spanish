@@ -1,16 +1,29 @@
 {
-    "header_text": "Llevar algo viejo",
+    "header_text": "Viejo amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Llevar algo viejo"
+            "text": "Tu amigo probablemente no te respondió porque..."
         },
         {
-            "type": "Media",
-            "url": "./images/146.jpg"
+            "type": "Buttons",
+            "name": "Viejo amigo_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No le caes bien.",
+                "No te escucharó."
+            ],
+            "column_Count": 1,
+            "correct_value": "No te escucharó."
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 4
 }

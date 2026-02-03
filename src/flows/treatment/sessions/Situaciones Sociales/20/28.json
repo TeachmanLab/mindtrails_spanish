@@ -1,16 +1,25 @@
 {
-    "header_text": "Demasiada atención",
+    "header_text": "Invitación a cenar",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Demasiada atención"
+            "text": "Un amigo te invita a una cena que está organizando. Te dice los nombres de los otros invitados, pero no conoces a nadie. Vas de cualquier manera y en camino a la fiesta, piensas que los otros invitados te encontrarán... "
         },
         {
-            "type": "Media",
-            "url": "./images/434.jpg"
+            "type": "WordPuzzle",
+            "name": "Invitación a cenar_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "amable"
+            ],
+            "missing_letter_count": 2
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 4
 }

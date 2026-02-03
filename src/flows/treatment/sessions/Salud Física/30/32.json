@@ -1,25 +1,29 @@
 {
-    "header_text": "Primera vez pantinaje sobre hielo",
+    "header_text": "Sensaciones de dormir",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo disfruta patinando sobre hielo y te convence de probarlo. En la pista te pones los patines y comienzas a patinar. Te deslizas hacia adelante lentamente al principio, luego más rápido, y piensas que tus posibilidades de lesionarte son..."
+            "text": "¿Te preocupa la pesadez en el pecho al quedarte dormido?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Primera vez pantinaje sobre hielo_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Sensaciones de dormir_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "mínimas"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 5
 }

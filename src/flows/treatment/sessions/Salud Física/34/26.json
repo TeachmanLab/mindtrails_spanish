@@ -1,29 +1,16 @@
 {
-    "header_text": "Dolor de estómago",
+    "header_text": "Montar a caballo durante el fin de semana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿El dolor de estómago se debe a la ansiedad?"
+            "text": "Montar a caballo durante el fin de semana"
         },
         {
-            "type": "Buttons",
-            "name": "Dolor de estómago_Salud Física_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "type": "Media",
+            "url": "./images/381.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 7
+    "type": "positive",
+    "scenario_num": 4
 }

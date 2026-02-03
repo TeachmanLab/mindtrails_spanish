@@ -1,16 +1,16 @@
 {
-    "header_text": "Manejando el estrés",
+    "header_text": "Dando vueltas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Manejando el estrés"
+            "text": "Dando vueltas"
         },
         {
             "type": "Media",
-            "url": "./images/431.jpg"
+            "url": "./images/414.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

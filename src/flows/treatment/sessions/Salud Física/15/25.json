@@ -1,16 +1,25 @@
 {
-    "header_text": "Dolor de cabeza en la oficina médica",
+    "header_text": "Corriendo en el frío",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Dolor de cabeza en la oficina médica"
+            "text": "Hace frío afuera y estás corriendo. Tu corazón empieza a latir rápidamente después de unos minutos. Decides que este sentimiento te da..."
         },
         {
-            "type": "Media",
-            "url": "./images/442.jpg"
+            "type": "WordPuzzle",
+            "name": "Corriendo en el frío_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "miedo"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "positive",
-    "scenario_num": 7
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 3
 }

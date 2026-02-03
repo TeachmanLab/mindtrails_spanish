@@ -1,16 +1,25 @@
 {
-    "header_text": "Correo electrónico importante",
+    "header_text": "Amigo en el hospital",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Correo electrónico importante"
+            "text": "Recibes un mensaje de texto de un amigo diciendo que está en el hospital, pero no te dice por qué. Comienzas a preocuparte por si va a estar bien. Mientras piensas en tu amigo, te sientes tranquilo, recordando que pronto sabrás..."
         },
         {
-            "type": "Media",
-            "url": "./images/367.jpg"
+            "type": "WordPuzzle",
+            "name": "Amigo en el hospital_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "más"
+            ],
+            "missing_letter_count": 2
         }
     ],
-    "type": "negative",
-    "scenario_num": 4
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
 }

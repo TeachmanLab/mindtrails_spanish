@@ -1,0 +1,16 @@
+{
+    "header_text": "Presentación opcional",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Presentación opcional"
+        },
+        {
+            "type": "Media",
+            "url": "./images/61.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

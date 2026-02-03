@@ -1,16 +1,16 @@
 {
-    "header_text": "Costos inesperados",
+    "header_text": "Gestión de crédito",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Costos inesperados"
+            "text": "Gestión de crédito"
         },
         {
             "type": "Media",
-            "url": "./images/159.jpg"
+            "url": "./images/253.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 1
 }

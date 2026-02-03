@@ -1,16 +1,16 @@
 {
-    "header_text": "Limitaciones futuras",
+    "header_text": "Tomar una decisión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Limitaciones futuras"
+            "text": "Tomar una decisión"
         },
         {
             "type": "Media",
-            "url": "./images/65.jpg"
+            "url": "./images/54.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 1
 }

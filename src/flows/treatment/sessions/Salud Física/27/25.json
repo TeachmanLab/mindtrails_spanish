@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "División de Nutrición, Actividad Física y Obesidad (DNPAO) de los CDC\n\nOfrece información sobre actividad física, peso saludable, lactancia materna y nutrición para bebés y niños pequeños."
+        }
+    ]
+}

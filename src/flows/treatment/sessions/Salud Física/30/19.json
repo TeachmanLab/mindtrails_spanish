@@ -1,16 +1,29 @@
 {
-    "header_text": "Sensaciones de dormir",
+    "header_text": "Tomando transporte",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Sensaciones de dormir"
+            "text": "¿Es necesario bajarse del avión porque sientes que tu corazón late rápidamente?"
         },
         {
-            "type": "Media",
-            "url": "./images/426.jpg"
+            "type": "Buttons",
+            "name": "Tomando transporte_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "type": "positive",
-    "scenario_num": 5
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

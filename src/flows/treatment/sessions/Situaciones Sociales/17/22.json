@@ -1,25 +1,16 @@
 {
-    "header_text": "Malentendido",
+    "header_text": "El partido de futból",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Después de explicar lo que sucedió al jefe de tu departamento, él dice que entiende. sientes que aún podrás causar una buena..."
+            "text": "El partido de futból"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Malentendido_Situaciones Sociales_puzzle_word2",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "impresión"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/506.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 6
+    "type": "positive",
+    "scenario_num": 3
 }

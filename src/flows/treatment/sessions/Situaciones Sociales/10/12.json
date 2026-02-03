@@ -1,27 +1,16 @@
 {
-    "header_text": "Una presentación grande",
+    "header_text": "Lecciones Aprendidas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás a punto de dar una presentación importante. Te sientes ansioso al respecto. Esta sensación te produce..."
+            "Text": "¡Excelente trabajo! ¡Estás haciendo un gran progreso al probar nuevas perspectivas relacionadas con las situaciones sociales! Tómate unos minutos para reflexionar sobre los cuentos cortos que has leído hasta ahora. ¿Qué has aprendido? ¿Cuáles son tus principales conclusiones? Por ejemplo, podrías notar que no es útil asumir lo que están pensando otras personas."
         },
         {
             "type": "Entry",
-            "name": "Una presentación grande_Situaciones Sociales_entry1"
+            "name": "lessons_learned_Situaciones Sociales_0"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Recuerda, MindTrails no solo cambia tu perspectiva sobre las situaciones que estás leyendo aquí, ¡sino también tu perspectiva en la vida real!"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 0
 }

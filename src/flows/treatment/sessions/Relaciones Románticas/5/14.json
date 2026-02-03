@@ -1,29 +1,25 @@
 {
-    "header_text": "Enviar mensajes de texto a otras personas",
+    "header_text": "Zambullirte",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿A tu pareja le gusta pasar tiempo contigo?"
+            "text": "Estás en la piscina local. Está llena y te das cuenta de que mucha gente podrá verte en traje de baño. Piensas en esto y te sientes..."
         },
         {
-            "type": "Buttons",
-            "name": "Enviar mensajes de texto a otras personas_Relaciones Románticas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Zambullirte_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "inseguro"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 3
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 0
 }

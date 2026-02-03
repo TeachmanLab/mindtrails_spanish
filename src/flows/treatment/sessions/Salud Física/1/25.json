@@ -1,25 +1,25 @@
 {
-    "header_text": "sintiéndote enfermo en un día caluroso",
+    "header_text": "Cargando bolsas de compras",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Aunque no disfrutas de esta sensación, te das cuenta de que es algo que pasará naturalmente con..."
+            "text": "Estás coorganizando una cena en el apartamento de tu amigo y acabas de terminar todas las compras. Comienzas a sudar y sientes que tu corazón late con fuerza después de varios viajes cargando las bolsas hasta el tercer piso. Te sientes un poco asustado por estas..."
         },
         {
             "type": "WordPuzzle",
-            "name": "sintiéndote enfermo en un día caluroso_Salud Física_puzzle_word2",
+            "name": "Cargando bolsas de compras_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "tiempo"
+                "sensaciones"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 7
+    "scenario_num": 4
 }

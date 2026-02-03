@@ -1,16 +1,25 @@
 {
-    "header_text": "Comportamiento de riesgo",
+    "header_text": "Evaluación de salud",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Comportamiento de riesgo"
+            "text": "En tu cita médica anual, tu doctor decide hacerte unas pruebas para evaluar tu salud en función del historial médico de tu familia. Tus resultados estarán listos en una semana. Mientras esperas los resultados, crees que probablemente estás..."
         },
         {
-            "type": "Media",
-            "url": "./images/461.jpg"
+            "type": "WordPuzzle",
+            "name": "Evaluación de salud_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "sano"
+            ],
+            "missing_letter_count": 2
         }
     ],
-    "type": "negative",
-    "scenario_num": 4
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
 }

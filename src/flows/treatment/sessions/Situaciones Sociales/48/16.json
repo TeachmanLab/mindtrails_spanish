@@ -1,29 +1,25 @@
 {
-    "header_text": "Planes cancelados",
+    "header_text": "Llamada breve",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo probablemente canceló los planes porque..."
+            "text": "Estás en una reunión, y durante un breve descanso llamas a tu pareja para hablar. Llegas tarde de vuelta a la sala de reuniones y todos levantan la vista cuando abres la puerta. Los demás ven tus acciones como..."
         },
         {
-            "type": "Buttons",
-            "name": "Planes cancelados_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Llamada breve_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Recordó que tenía una reunión importante en el trabajo al mismo tiempo.",
-                "Está enojado contigo debido a su desacuerdo anterior."
+            "display_delay": 2000,
+            "words": [
+                "disruptivas"
             ],
-            "column_Count": 1,
-            "correct_value": "Recordó que tenía una reunión importante en el trabajo al mismo tiempo."
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 4
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

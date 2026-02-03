@@ -1,0 +1,29 @@
+{
+    "header_text": "Faltando una reunión",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¿Durante la reunion, tu jefe pensará que probablemente eres..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Faltando una reunión_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Irresponsable y nervioso.",
+                "Competente, a pesar de que cometiste un error."
+            ],
+            "column_Count": 1,
+            "correct_value": "Competente, a pesar de que cometiste un error."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

@@ -1,25 +1,31 @@
 {
-    "header_text": "Amigo ruidoso: Sentimientos",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu auto se descompuso y un amigo te va a dejar en una reunión. Cuando te deja, hace mucho ruido y todos los que están allí te miran. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+            "text": "¿Qué tan vívidamente imaginaste la situación?"
         },
         {
-            "type": "TimedText",
-            "texts": [
-                "Instantáneamente me siento avergonzado de mi ruidoso amigo, pero me recuerdo a mí mismo que no puedo controlar lo que hace.",
-                "Estoy ansioso por llegar a la reunión y ver gente.",
-                "Estoy nervioso por lo que puedan decir las personas en la reunión, pero parecen muy amables y comprensivos.",
-                "Estoy tan avergonzado por mi amigo.",
-                "Estoy entusiasmado con esta reunión."
+            "type": "Buttons",
+            "buttons": [
+                "Nada vívido",
+                "Algo vívido",
+                "Moderadamente vívido",
+                "Muy vívido",
+                "Totalmente vívido",
+                "Prefiero no responder"
             ],
-            "Duration": 15000
+            "selectable": true,
+            "name": "imagery_vivid"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
     ]
 }

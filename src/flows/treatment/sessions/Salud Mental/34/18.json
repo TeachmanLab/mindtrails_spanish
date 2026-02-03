@@ -1,25 +1,16 @@
 {
-    "header_text": "Amigos en las relaciones",
+    "header_text": "Una invitación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Todos tus amigos están en relaciones. Actualmente no estás en una relación y te preguntas si hay algo malo en ti. Piensas que eres..."
+            "text": "Una invitación"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Amigos en las relaciones_Salud Mental_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "indeseable"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/341.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 2
 }

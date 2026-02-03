@@ -1,25 +1,10 @@
 {
-    "header_text": "Preocupándote por gastar",
+    "header_text": "Recordatorio de favoritos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Unos amigos van a salir a cenar y te invitan. Sabes que ustedes han salido a cenar mucho recientemente, y no sabes si puedes seguir así. Les dices a tus amigos que saldrás con ellos la próxima vez, y estás felíz quedándote en casa por la... "
-        },
-        {
-            "type": "WordPuzzle",
-            "name": "Preocupándote por gastar_Finanzas_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "noche"
-            ],
-            "missing_letter_count": 2
+            "text": "Recuerde que puede agregar historias, consejos y recursos a sus Favoritos haciendo clic en la estrella en la esquina superior derecha de la pantalla."
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 0
+    ]
 }

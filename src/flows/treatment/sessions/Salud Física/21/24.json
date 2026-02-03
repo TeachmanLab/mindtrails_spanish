@@ -1,0 +1,25 @@
+{
+    "header_text": "Saludando a mis amigos: Comportamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás afuera en un día fresco y ves a tus amigos en la calle. Decides correr para saludar. Cuando llegas con tus amigos, te quedas sin aliento.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Me tomo un segundo para recuperar el aliento cuando llego con mis amigos.",
+                "Intento disimular que mi respiración es pesada.",
+                "Hago un chiste cuando veo a mis amigos.",
+                "Quiero ir a ver a un médico porque me preocupa la opresión que tengo en el pecho, pero sé que esta sensación es normal después de un trote rápido.",
+                "Quiero alejarme rápidamente de mis amigos para que no vean lo sin aliento que estoy, pero sé que esto es normal y no me juzgarán."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

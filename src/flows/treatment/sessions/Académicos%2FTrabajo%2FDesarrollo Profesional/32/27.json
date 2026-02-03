@@ -1,16 +1,29 @@
 {
-    "header_text": "Permitiendo que otros vean tu trabajo",
+    "header_text": "Resultados de la evaluación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Permitiendo que otros vean tu trabajo"
+            "text": "¿Puedes tolerar tus nervios mientras esperas saber tus resultados?"
         },
         {
-            "type": "Media",
-            "url": "./images/126.jpg"
+            "type": "Buttons",
+            "name": "Resultados de la evaluación_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Sí"
+            ],
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 4
 }

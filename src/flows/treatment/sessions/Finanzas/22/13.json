@@ -1,29 +1,25 @@
 {
-    "header_text": "Visita médica inesperada",
+    "header_text": "Presupuestar su asignación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Se enojará tu pareja?"
+            "text": "Te das cuenta de que acabas de recibir tu sueldo hace una semana. Observas que tu cuenta bancaria es más baja de lo esperado. Estás preocupado por tus gastos, pero sabes que puedes elaborar un presupuesto..."
         },
         {
-            "type": "Buttons",
-            "name": "Visita médica inesperada_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Presupuestar su asignación_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "eficaz"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 3
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 0
 }

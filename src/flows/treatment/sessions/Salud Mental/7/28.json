@@ -1,29 +1,25 @@
 {
-    "header_text": "Zambullirte",
+    "header_text": "Reloj favorito",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te sientes bien usando tu traje de baño frente a ellos?"
+            "text": "Estás cenando y te das cuenta de que no tienes puesto tu reloj favorito. No recuerdas haberlo quitado antes, pero piensas que probablemente esté donde siempre lo guardas. Te pones un poco ansioso pensando en dónde está el reloj, pero el resto de tu cena sigue siendo..."
         },
         {
-            "type": "Buttons",
-            "name": "Zambullirte_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Reloj favorito_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "agradable"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 8
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
 }

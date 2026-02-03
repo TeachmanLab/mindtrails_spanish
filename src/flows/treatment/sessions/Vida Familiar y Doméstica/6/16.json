@@ -1,10 +1,25 @@
 {
-    "header_text": "Recurso: Vida Familiar y Doméstica",
+    "header_text": "Balancear responsibilidades:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cómo afrontar el cuidado de un padre que se está haciendo mayor\n\nEsta página de MHA comparte información acerca la generación “sándwich” quienes a menudo son padres de familia cuidando de sus padres y sus hijos menores de edad. Contiene una lista de consejos de como dar prioridad a las tareas del hogar, como cuidar de sí mismo, y más."
+            "text": "Tienes muchas tareas domésticas que hacer esta noche y también tienes un gran proyecto que debes entregar mañana. Ambos tienen que hacerse y usted piensa en cómo manejará todo.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "No creo que pueda realizar todas estas tareas.",
+                "Odio sentir que tengo mucho que hacer, pero haré lo mejor que pueda para hacerlo todo.",
+                "Creo que esto me ayudará a organizarme cuidadosamente en el futuro.",
+                "Puedo gestionar ambas tareas.",
+                "Creo que esto es demasiado trabajo, pero considere lo bien que se sentirá cuando esté todo terminado."
+            ],
+            "Duration": 15000
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
     ]
 }

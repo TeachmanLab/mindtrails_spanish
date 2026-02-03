@@ -1,0 +1,16 @@
+{
+    "header_text": "Pago de reparaciones",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Pago de reparaciones"
+        },
+        {
+            "type": "Media",
+            "url": "./images/250.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

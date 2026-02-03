@@ -1,16 +1,29 @@
 {
-    "header_text": "Resultados de la evaluación",
+    "header_text": "Probando un dicho divertido",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Resultados de la evaluación"
+            "text": "¿Te preocupa lo que pensarán tus compañeros acerca de tu chiste?"
         },
         {
-            "type": "Media",
-            "url": "./images/72.jpg"
+            "type": "Buttons",
+            "name": "Probando un dicho divertido_Salud Mental_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 3
 }

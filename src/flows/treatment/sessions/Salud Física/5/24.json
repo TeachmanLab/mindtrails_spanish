@@ -1,25 +1,29 @@
 {
-    "header_text": "Asustado en tu caminata",
+    "header_text": "Desconectandote",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás caminando hacia el trabajo cuando de repente escuchas un ruido detrás de ti. Cuando giras rápidamente la cabeza para ver qué es, te sientes mareado y empiezas a preocuparte de que perderás el..."
+            "text": "¿Te sientes tranquilo después de desconectarte durante la reunión?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Asustado en tu caminata_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Desconectandote_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "control"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 7
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

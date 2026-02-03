@@ -1,0 +1,16 @@
+{
+    "header_text": "Tomar precauciones",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tomar precauciones"
+        },
+        {
+            "type": "Media",
+            "url": "./images/437.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "988/Lifeline (Línea Nacional de Prevención del Suicidio)\n\nProporciona una línea de ayuda 24/7 donde personas pueden llamar por teléfono y tener conversaciones gratuitas y confidenciales. La línea apoya a personas en crisis o aquellos pensando en el suicidio. Llama a 988 o visita el enlace para recibir ayuda."
+        }
+    ]
+}

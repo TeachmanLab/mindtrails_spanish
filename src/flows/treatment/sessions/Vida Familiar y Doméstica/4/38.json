@@ -1,0 +1,16 @@
+{
+    "header_text": "Haciendo una buena impresión",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Haciendo una buena impresión"
+        },
+        {
+            "type": "Media",
+            "url": "./images/154.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

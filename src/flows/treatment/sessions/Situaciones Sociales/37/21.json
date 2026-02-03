@@ -1,16 +1,29 @@
 {
-    "header_text": "Aprender a bailar en las redes sociales",
+    "header_text": "Pánico de presentación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Aprender a bailar en las redes sociales"
+            "text": "¿Es normal toser durante una presentación?"
         },
         {
-            "type": "Media",
-            "url": "./images/551.jpg"
+            "type": "Buttons",
+            "name": "Pánico de presentación_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Sí"
+            ],
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "type": "negative",
-    "scenario_num": 6
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

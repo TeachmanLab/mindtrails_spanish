@@ -1,16 +1,17 @@
 {
-    "header_text": "Serpientes venenosas",
+    "header_text": "Picadura de araña",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Serpientes venenosas"
+            "text": "Mientras estás caminando, te pica una araña. Tu amigo te asegura que la araña no era venenosa y que estarás bien. Te preocupa que podría haber sido una araña mortal, pero continúas con la caminata de todos modos, y tus preocupaciones durante el resto de la caminata son..."
         },
         {
-            "type": "Media",
-            "url": "./images/421.jpg"
+            "type": "Entry",
+            "name": "Picadura de araña_Salud Física_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 0
 }

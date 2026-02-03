@@ -1,16 +1,16 @@
 {
-    "header_text": "Estar cerca de alguien enfermo",
+    "header_text": "Caminando para despejar la mente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estar cerca de alguien enfermo"
+            "text": "Caminando para despejar la mente"
         },
         {
             "type": "Media",
-            "url": "./images/412.jpg"
+            "url": "./images/463.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 7
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Ponerse ahí fuera",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Ponerse ahí fuera"
+        },
+        {
+            "type": "Media",
+            "url": "./images/215.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

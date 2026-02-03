@@ -1,0 +1,16 @@
+{
+    "header_text": "Película intermitente",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Película intermitente"
+        },
+        {
+            "type": "Media",
+            "url": "./images/390.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 7
+}

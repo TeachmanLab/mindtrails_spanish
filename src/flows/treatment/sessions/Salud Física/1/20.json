@@ -1,30 +1,29 @@
 {
-    "header_text": "Cita con el doctor",
+    "header_text": "Carrera matutina del domingo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cita con el doctor"
+            "text": "Debes..."
         },
         {
-            "type": "Media",
-            "url": "./images/374.jpg"
+            "type": "Buttons",
+            "name": "Carrera matutina del domingo_Salud Física_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Hacer una llamada de emergencia porque esto es señal de algo grave.",
+                "Tomarte una botella de ague y comerte un bocado despues del ejercicio."
+            ],
+            "column_Count": 1,
+            "correct_value": "Tomarte una botella de ague y comerte un bocado despues del ejercicio."
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 6,
-    "information": {
-        "elements": [
-            {
-                "type": "media",
-                "url": "./images/597.jpg"
-            },
-            {
-                "type": "text",
-                "text": "Un consejo: Trata de imaginarte diferentes formas de responder a cada escenario."
-            }
-        ],
-        "position": "before",
-        "information_count": 1
-    }
+    "scenario_num": 2
 }

@@ -1,29 +1,25 @@
 {
-    "header_text": "Conociendo nuevos amigos",
+    "header_text": "Recuerdo conduciendo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Si les preguntas a tus compañeros de trabajo si quieren tomar un café después del trabajo, probablemente..."
+            "text": "Estás manejando a la casa de un amigo en el pueblo donde vivías antes. Cuando llegas a la entrada, tienes un fuerte recuerdo de cuando solías visitar esta casa hace muchos años. Empiezas a sentir ansiedad por sentirte desorientado, y decides que lo que harás con estos sentimientos es simplemente dejarlos..."
         },
         {
-            "type": "Buttons",
-            "name": "Conociendo nuevos amigos_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Recuerdo conduciendo_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Estén de acuerdo en que tomar café es una buena idea.",
-                "Rechacen cortésmente tu invitación."
+            "display_delay": 2000,
+            "words": [
+                "pasar"
             ],
-            "column_Count": 1,
-            "correct_value": "Estén de acuerdo en que tomar café es una buena idea."
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 5
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

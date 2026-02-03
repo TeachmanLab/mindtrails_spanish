@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Finanzas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Deudores Anónimos\n\nOfrece programa de 12 pasos para personas que quieren dejar de incurrir en deudas."
+        }
+    ]
+}

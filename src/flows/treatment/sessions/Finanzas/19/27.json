@@ -1,16 +1,39 @@
 {
-    "header_text": "Iniciando un negocio pequeño",
+    "header_text": "Mantener a la familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Iniciando un negocio pequeño"
+            "text": "¿Crees que tendrás suficiente dinero para pagar los gastos universitarios de tus hijos?"
         },
         {
-            "type": "Media",
-            "url": "./images/81.jpg"
+            "type": "Buttons",
+            "name": "Mantener a la familia_Finanzas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Sí"
+            ],
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "type": "negative",
-    "scenario_num": 8
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "MindTrails te brinda el coraje para enfrentar situaciones inciertas, brindándote la confianza para abordarlas en la vida real."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

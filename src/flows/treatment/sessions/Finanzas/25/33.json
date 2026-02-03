@@ -1,0 +1,16 @@
+{
+    "header_text": "Oportunidad de espectáculo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Oportunidad de espectáculo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/265.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

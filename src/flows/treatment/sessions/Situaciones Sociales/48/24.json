@@ -1,16 +1,29 @@
 {
-    "header_text": "El escaparate de danza",
+    "header_text": "Conversación con un desconocido",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "El escaparate de danza"
+            "text": "En general, la conversación probablemente fue..."
         },
         {
-            "type": "Media",
-            "url": "./images/500.jpg"
+            "type": "Buttons",
+            "name": "Conversación con un desconocido_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Una oportunidad relajada y agradable para conocer a una nueva persona.",
+                "situación estresante, porque la persona podría haberte encontrado aburrido."
+            ],
+            "column_Count": 1,
+            "correct_value": "Una oportunidad relajada y agradable para conocer a una nueva persona."
         }
     ],
-    "type": "negative",
-    "scenario_num": 7
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

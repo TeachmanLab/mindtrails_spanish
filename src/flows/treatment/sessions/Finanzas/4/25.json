@@ -1,25 +1,16 @@
 {
-    "header_text": "Factura por una reparación",
+    "header_text": "Cena cara",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu techo tiene una fuga, y agua entra en la casa cada vez que llueve. Piensas que va a ser caro contratar a alguien para arreglarlo. Al pensar en pagar la factura para arreglar el techo, sientes que estarás... "
+            "text": "Cena cara"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Factura por una reparación_Finanzas_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "bien"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/261.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 7
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

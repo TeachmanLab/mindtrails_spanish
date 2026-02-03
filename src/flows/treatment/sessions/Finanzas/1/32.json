@@ -1,10 +1,25 @@
 {
-    "header_text": "Maneja tus sentimientos: Finanzas",
+    "header_text": "Solicitar una subvención",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Si te enfrentas dificultades financieras, date un paso atrás y trata de identificar sobre qué tienes control (y sobre qué no). Por ejemplo, puedes crear un presupuesto y realizar un seguimiento de tus gastos en el futuro, aunque es posible que no puedas devolver algo que ya compraste."
+            "text": "Quieres iniciar un nuevo proyecto de investigación en tu laboratorio, por lo que solicitas una subvención de financiación. Sin esta financiación, no podrás realizar la investigación que esperas realizar, pero no sabes si tu propuesta es lo suficientemente buena. Crees que no obtendrás la..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Solicitar una subvención_Finanzas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "financiación"
+            ],
+            "missing_letter_count": 1
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 6
 }

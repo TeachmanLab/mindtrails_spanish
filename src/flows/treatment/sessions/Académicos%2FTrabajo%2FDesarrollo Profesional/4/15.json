@@ -1,16 +1,29 @@
 {
-    "header_text": "Llegando tarde",
+    "header_text": "Equilibrio de trabajo y amistades",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Llegando tarde"
+            "text": "¿Tu amigo estará enojado contigo por no verlo?"
         },
         {
-            "type": "Media",
-            "url": "./images/30.jpg"
+            "type": "Buttons",
+            "name": "Equilibrio de trabajo y amistades_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "type": "positive",
-    "scenario_num": 4
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 0
 }

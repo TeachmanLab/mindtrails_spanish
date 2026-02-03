@@ -1,16 +1,25 @@
 {
-    "header_text": "Cambiar tus planes",
+    "header_text": "Practicando la presentación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cambiar tus planes"
+            "text": "Después de la presentación, te das cuenta  que estos errores son comunes. El supervisor probablemente piensa que tu recuperación y capacidad para continuar presentado fue muy... "
         },
         {
-            "type": "Media",
-            "url": "./images/110.jpg"
+            "type": "WordPuzzle",
+            "name": "Practicando la presentación_Situaciones Sociales_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "admirable"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "positive",
-    "scenario_num": 5
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

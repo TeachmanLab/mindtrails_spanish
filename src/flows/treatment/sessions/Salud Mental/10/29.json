@@ -1,0 +1,16 @@
+{
+    "header_text": "Enseñando a otros",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Enseñando a otros"
+        },
+        {
+            "type": "Media",
+            "url": "./images/39.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

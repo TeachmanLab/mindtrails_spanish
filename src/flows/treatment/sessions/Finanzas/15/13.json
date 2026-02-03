@@ -1,29 +1,16 @@
 {
-    "header_text": "Permitirse la educación",
+    "header_text": "Trip After COVID",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Pedir préstamos para ayudar a tus hijos..."
+            "text": "Trip After COVID"
         },
         {
-            "type": "Buttons",
-            "name": "Permitirse la educación_Finanzas_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "no dañará tus finanzas a largo plazo",
-                "arruinará tus finanzas durante décadas"
-            ],
-            "column_Count": 1,
-            "correct_value": "no dañará tus finanzas a largo plazo"
+            "type": "Media",
+            "url": "./images/263.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

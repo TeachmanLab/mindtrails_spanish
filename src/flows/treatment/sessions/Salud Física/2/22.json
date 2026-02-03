@@ -1,16 +1,25 @@
 {
-    "header_text": "Clase de ejercicio con un amigo",
+    "header_text": "Paracaidismo por primera vez",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Clase de ejercicio con un amigo"
+            "text": "Estás tomando una clase de paracaidismo. Cuando piensas en saltar del avión, tu cuerpo comienza a temblar. Esto es..."
         },
         {
-            "type": "Media",
-            "url": "./images/339.jpg"
+            "type": "WordPuzzle",
+            "name": "Paracaidismo por primera vez_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "emocionante"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 7
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 3
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Prueba de enfermedad",
+    "header_text": "Montar a caballo durante el fin de semana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Prueba de enfermedad"
+            "text": "Montar a caballo durante el fin de semana"
         },
         {
             "type": "Media",
-            "url": "./images/382.jpg"
+            "url": "./images/381.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 6
 }

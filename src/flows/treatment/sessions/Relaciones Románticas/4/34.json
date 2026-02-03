@@ -1,0 +1,16 @@
+{
+    "header_text": "Problemas con los amigos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Problemas con los amigos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/205.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

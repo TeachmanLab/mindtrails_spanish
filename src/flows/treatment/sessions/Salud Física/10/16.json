@@ -1,17 +1,16 @@
 {
-    "header_text": "Viendo a un viejo amigo",
+    "header_text": "Subiendo una montaña",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Ves a un viejo amigo con el que no has hablado en años. Tu corazón da un vuelco. Te sientes..."
+            "text": "Subiendo una montaña"
         },
         {
-            "type": "Entry",
-            "name": "Viendo a un viejo amigo_Salud Física_entry1"
+            "type": "Media",
+            "url": "./images/430.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 5
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

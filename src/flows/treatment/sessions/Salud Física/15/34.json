@@ -1,29 +1,25 @@
 {
-    "header_text": "Nadando en la playa",
+    "header_text": "Dando positivo en una prueba de enfermedad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tu dificultad para nadar en una señal de que tienes la enfermedad?"
+            "text": "Unos días después de ir a un cumpleaños con mucha gente, notas que te duele la garganta. Te haces una prueba de una enfermedad grave y sale positiva. Has tenido mucho cuidado debido a tus condiciones de salud subyacentes. Piensas en cómo afectará tu salud y crees que podrás manejar los desafíos a medida que se..."
         },
         {
-            "type": "Buttons",
-            "name": "Nadando en la playa_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Dando positivo en una prueba de enfermedad_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "presenten"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 6
 }

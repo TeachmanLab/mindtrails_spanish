@@ -1,29 +1,25 @@
 {
-    "header_text": "Citas en línea",
+    "header_text": "Vaso de agua",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Crees que conocerás a alguien pronto?"
+            "text": "Al final, piensas en cómo te sentirías si tu cita derramara un vaso de agua. Te das cuenta de que tú, al igual que la mayoría de las personas, probablemente no le importaría y que derramar un vaso de agua probablemente está.."
         },
         {
-            "type": "Buttons",
-            "name": "Citas en línea_Relaciones Románticas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Vaso de agua_Relaciones Románticas_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "bien"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 9
+    "scenario_num": 6
 }

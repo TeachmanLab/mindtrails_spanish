@@ -1,29 +1,25 @@
 {
-    "header_text": "Probando comidas diferentes",
+    "header_text": "Recibir reconocimiento",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Deberías evitar probar nuevas comidas porque tus colegas no lo están ordenando?"
+            "text": "Recientemente recibiste un ascenso increíble en tu trabajo. De repente sientes que no trabajaste lo suficiente para ganarte la oportunidad. Aun así, crees que mereces el..."
         },
         {
-            "type": "Buttons",
-            "name": "Probando comidas diferentes_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Recibir reconocimiento_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "ascenso"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 4
 }

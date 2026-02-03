@@ -1,27 +1,27 @@
 {
-    "header_text": "Palabra tropiezo",
+    "header_text": "Listo para trabajar",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Palabra tropiezo"
+            "text": "Listo para trabajar"
         },
         {
             "type": "Media",
-            "url": "./images/10.jpg"
+            "url": "./images/7.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 9,
+    "scenario_num": 6,
     "information": {
         "elements": [
             {
                 "type": "media",
-                "url": "./images/598.jpg"
+                "url": "./images/597.jpg"
             },
             {
                 "type": "text",
-                "text": "Al igual que con cualquier habilidad nueva, la práctica constante te ayudará a pensar de manera más flexible."
+                "text": "Un consejo: Trata de imaginarte diferentes formas de responder a cada escenario."
             }
         ],
         "position": "before",

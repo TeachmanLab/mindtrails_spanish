@@ -1,16 +1,16 @@
 {
-    "header_text": "Amigo Tarde",
+    "header_text": "Preocupándote por gastar",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Amigo Tarde"
+            "text": "Preocupándote por gastar"
         },
         {
             "type": "Media",
-            "url": "./images/492.jpg"
+            "url": "./images/252.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 2
 }

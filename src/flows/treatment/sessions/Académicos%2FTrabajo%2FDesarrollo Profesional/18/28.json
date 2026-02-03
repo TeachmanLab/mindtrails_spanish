@@ -1,25 +1,16 @@
 {
-    "header_text": "Trabajando duro",
+    "header_text": "Errores en el trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Este año, has decidido trabajar más horas semanales. Es la primera vez que trabajas tantas horas y has escuchado de tus compañeros que es difícil. Cuando piensas en la carga de trabajo, crees que podrás manejarla..."
+            "text": "Errores en el trabajo"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Trabajando duro_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "bien"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/96.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 5
 }

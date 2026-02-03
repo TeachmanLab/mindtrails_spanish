@@ -1,29 +1,25 @@
 {
-    "header_text": "Un golpe accidental",
+    "header_text": "Subiendo una montaña",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas que el dolor de cabeza es una señal que..."
+            "text": "Estás en una caminata con un grupo de amigos y todos quieren subir una montaña bastante alta. Mientras escalas la montaña, miras hacia abajo y sientes cómo se te cae el estómago. Piensas que esta caminata será..."
         },
         {
-            "type": "Buttons",
-            "name": "Un golpe accidental_Salud Física_comp_question",
+            "type": "WordPuzzle",
+            "name": "Subiendo una montaña_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Estás mejorando.",
-                "Estás seriamente lesionado."
+            "display_delay": 2000,
+            "words": [
+                "aterradora"
             ],
-            "column_Count": 1,
-            "correct_value": "\r\nEstás seriamente lesionado."
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 5
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

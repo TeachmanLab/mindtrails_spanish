@@ -1,0 +1,25 @@
+{
+    "header_text": "Gestión de responsabilidades",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Has empezado a hacer voluntariado en una organización local y te ha costado manejarlo junto con el trabajo. Uno de los líderes voluntarios te pregunta si estarías dispuesto a ayudarla con un proyecto fuera de tus responsabilidades habituales y te preocupa que se decepcione si dices que no. Después de pensarlo, le dices que no puedes ayudar con este proyecto debido al trabajo, pero que estás dispuesto a ayudar en el..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Gestión de responsabilidades_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "siguiente"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 7
+}

@@ -1,16 +1,29 @@
 {
-    "header_text": "Resultados de análisis de sangre",
+    "header_text": "Puerta cerrada",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Resultados de análisis de sangre"
+            "text": "Durante el fin de semana vas a..."
         },
         {
-            "type": "Media",
-            "url": "./images/328.jpg"
+            "type": "Buttons",
+            "name": "Puerta cerrada_Salud Mental_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Descansar y pasar tiempo con amigos o familiares.",
+                "Preocúpate por si cerraste la puerta con llave."
+            ],
+            "column_Count": 1,
+            "correct_value": "Descansar y pasar tiempo con amigos o familiares."
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 5
 }

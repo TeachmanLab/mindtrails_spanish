@@ -1,25 +1,16 @@
 {
-    "header_text": "Mantenerse al día con los amigos",
+    "header_text": "Gente fiestera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado muy ocupado y tienes problemas para mantener el contacto con uno de tus mejores amigos. Generalmente eres bueno llamándolos, pero tu agenda ha sido muy..."
+            "text": "Gente fiestera"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Mantenerse al día con los amigos_Situaciones Sociales_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "agitada"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/340.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

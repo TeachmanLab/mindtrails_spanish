@@ -1,25 +1,22 @@
 {
-    "header_text": "El regalo de cumpleaños:Pensamientos",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo va a celebrar una gran fiesta de cumpleaños y la mayoría de las personas de tu grupo de amigos estarán allí. Muchos de tus amigos son más ricos que tú y pueden permitirse el lujo de hacer regalos más caros.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Describe la situación en pocas palabras:"
         },
         {
-            "type": "TimedText",
-            "texts": [
-                "Será bueno ver a muchos de mis amigos.",
-                "Mi amigo estará feliz de que pueda ir.",
-                "A mi amigo le dará vergüenza tenerme como amigo porque mi regalo no es tan bonito como los demás.",
-                "La gente puede juzgarme por mi regalo, pero sé que puse mucha atención y esfuerzo en encontrar algo especial.",
-                "Es posible que mi amigo esté decepcionado con mi regalo, pero aun así me alegro de haber venido y haber demostrado que me importaba."
-            ],
-            "Duration": 15000
+            "type": "Entry",
+            "name": "entry_anxious_imagery"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
     ]
 }

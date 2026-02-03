@@ -1,25 +1,16 @@
 {
-    "header_text": "Tocando el piano",
+    "header_text": "Truco o trato",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras estás en la casa de un amigo para una cena, tu amigo menciona que eres un buen pianista y te pide que toques algo en el piano para los demás invitados. Conoces algunas piezas que puedes tocar bien, pero te sientes nervioso tocando en el momento sin práctica. Acercándote al piano, piensas que los invitados lo van a... "
+            "text": "Truco o trato"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Tocando el piano_Situaciones Sociales_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "disfrutar"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/541.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 6
 }

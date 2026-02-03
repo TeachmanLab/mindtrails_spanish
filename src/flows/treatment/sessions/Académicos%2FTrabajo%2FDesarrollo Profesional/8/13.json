@@ -1,16 +1,16 @@
 {
-    "header_text": "Dando una presentación",
+    "header_text": "Presentación importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Dando una presentación"
+            "text": "Presentación importante"
         },
         {
             "type": "Media",
-            "url": "./images/59.jpg"
+            "url": "./images/55.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 0
 }

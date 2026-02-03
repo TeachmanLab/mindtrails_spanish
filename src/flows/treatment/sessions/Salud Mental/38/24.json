@@ -1,10 +1,16 @@
 {
-    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_text": "Respondiendo a preguntas inesperadas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Si te sientes ansioso o nervioso, pregúntate: \"¿Qué me dice mi cerebro ansioso?\" Una vez que puedas identificar ese pensamiento, pregúntate: \"¿Es esto realista?\""
+            "text": "Respondiendo a preguntas inesperadas"
+        },
+        {
+            "type": "Media",
+            "url": "./images/36.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

@@ -1,0 +1,25 @@
+{
+    "header_text": "Estar a cargo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recientemente fuiste elegido para estar a cargo de un grupo de personas nuevas en tu trabajo. Cuando conoces a otras personas a cargo de grupos, sientes que no trabajaste tan duro como ellos y que no mereces este puesto. Te tomas un minuto para pensar en lo que das a tu trabajo y te das cuenta de que has estado dando todo lo que has podido, y la gente definitivamente se dio cuenta de..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Estar a cargo_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "esto"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 8
+}

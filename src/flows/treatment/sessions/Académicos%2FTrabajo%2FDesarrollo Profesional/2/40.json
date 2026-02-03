@@ -1,0 +1,16 @@
+{
+    "header_text": "Un panel de entrevista",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Un panel de entrevista"
+        },
+        {
+            "type": "Media",
+            "url": "./images/20.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 9
+}

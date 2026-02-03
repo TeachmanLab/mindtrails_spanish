@@ -1,17 +1,17 @@
 {
-    "header_text": "Vacaciones reprogramadas",
+    "header_text": "sintiendo mareos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado queriendo ir de vacaciones de verano a Europa durante algunos años. Reprogramaste tu viaje desde el verano pasado hasta el verano que viene, pero te preocupa que el COVID se propague de nuevo y te impida ir por fin. Decides esperar pacientemente, y siempre puedes reprogramar de nuevo si es.."
+            "text": "Decides girar rápidamente en una silla de oficina. Sientes mariposas en el estómago y te mareas cuando la silla se desacelera. Estas sensaciones probablemente significan que estás..."
         },
         {
             "type": "Entry",
-            "name": "Vacaciones reprogramadas_Salud Física_entry1"
+            "name": "sintiendo mareos_Salud Física_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 7
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Devolución de chaqueta",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Devolución de chaqueta"
+        },
+        {
+            "type": "Media",
+            "url": "./images/258.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
+}

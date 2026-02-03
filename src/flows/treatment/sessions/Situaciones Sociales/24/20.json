@@ -1,16 +1,17 @@
 {
-    "header_text": "Hablando sobre televisión",
+    "header_text": "Equilibrar la vida familiar y los amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hablando sobre televisión"
+            "text": "Tu pareja dirige una guardería en tu casa, por lo que siempre está ruidoso cuando llegas a casa del trabajo. Su colega viene hoy para tomar café. Piensas en cómo va a reaccionar tu colega al ruido y te... "
         },
         {
-            "type": "Media",
-            "url": "./images/346.jpg"
+            "type": "Entry",
+            "name": "Equilibrar la vida familiar y los amigos_Situaciones Sociales_entry1"
         }
     ],
-    "type": "positive",
-    "scenario_num": 8
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 3
 }

@@ -1,29 +1,25 @@
 {
-    "header_text": "Apartamento nuevo para ti",
+    "header_text": "Planes para el fin de semana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Estás aburrido viviendo solo?"
+            "text": "Es viernes y escuchas a unos compañeros de trabajo hablando sobre sus planes para el fin de semana. No tienes ningún plan, y sientes que no eres  suficientemente sociable para estar al nivel de tus compañeros. Cuando imaginas relajarte después de una semana difícil de trabajo, te sientes..."
         },
         {
-            "type": "Buttons",
-            "name": "Apartamento nuevo para ti_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Planes para el fin de semana_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "satisfecho"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 5
 }

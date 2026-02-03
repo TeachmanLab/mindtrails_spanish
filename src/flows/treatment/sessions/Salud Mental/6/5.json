@@ -1,25 +1,22 @@
 {
-    "header_text": "Araña perdida:Pensamientos",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando entras a la ducha, ves una enorme araña en la pared. Te das la vuelta por un segundo, miras hacia atrás y te das cuenta de que ya no está. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Describe la situación en pocas palabras:"
         },
         {
-            "type": "TimedText",
-            "texts": [
-                "Pienso en todos los lugares donde podría estar la araña, pero no puedo controlar lo que está haciendo.",
-                "Los movimientos de la araña son realmente interesantes.",
-                "La araña no me va a hacer daño.",
-                "¡Me va a saltar encima!",
-                "Pienso en lo aterradora que parecía la araña, pero también en lo pequeña que era en realidad."
-            ],
-            "Duration": 15000
+            "type": "Entry",
+            "name": "entry_anxious_imagery"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
     ]
 }

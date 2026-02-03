@@ -1,17 +1,16 @@
 {
-    "header_text": "Permitirse la educación",
+    "header_text": "Medicina asequible",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Al imaginarte a ti mismo en la jubilación, no te imaginas atormentado por las deudas y crees que tus préstamos serán... "
+            "text": "Medicina asequible"
         },
         {
-            "type": "Entry",
-            "name": "Permitirse la educación_Finanzas_entry2"
+            "type": "Media",
+            "url": "./images/300.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 1
 }

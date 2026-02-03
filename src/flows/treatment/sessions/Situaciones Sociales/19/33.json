@@ -1,14 +1,25 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Mente va en blanco",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Imaginas que estás impartiendo un taller sobre cómo pensar de manera flexible sobre situaciones ambiguas y potencialmente amenzantes. ¿Cuál sería tu mensaje para los participantes?"
+            "text": "Te das un momento para ordenar tus pensamientos y luego responder a la pregunta. Cuando piensas en la respuesta que diste, te sientes... "
         },
         {
-            "type": "Entry",
-            "name": "Consejo #6_entry"
+            "type": "WordPuzzle",
+            "name": "Mente va en blanco_Situaciones Sociales_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "bien"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

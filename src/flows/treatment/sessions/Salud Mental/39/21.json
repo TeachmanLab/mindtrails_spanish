@@ -1,17 +1,17 @@
 {
-    "header_text": "Revisando tu trabajo",
+    "header_text": "Preocupaciones por el ritmo cardíaco",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te han llamado para una evaluación de desempeño con tu jefe. En general, haces un buen trabajo, pero sabes que tu jefe ha notado algunos errores recientemente. Mientras te preparas para la revisión, piensas que tu reunión probablemente se centrará en tus fortalezas y áreas de..."
+            "text": "Estás en un evento y comienzas a hablar con algunos conocidos. A medida que la sala se llena, sientes que tu corazón late rápidamente. Piensas que esto podría significar que algo anda mal y te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Revisando tu trabajo_Salud Mental_entry1"
+            "name": "Preocupaciones por el ritmo cardíaco_Salud Mental_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 8
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

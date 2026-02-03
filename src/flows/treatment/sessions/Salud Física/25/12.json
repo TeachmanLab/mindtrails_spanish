@@ -1,16 +1,16 @@
 {
-    "header_text": "Resultados del chequeo anual",
+    "header_text": "Lecciones Aprendidas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Resultados del chequeo anual"
+            "Text": "¡Excelente trabajo! ¡Estás haciendo un gran progreso al probar nuevas perspectivas relacionadas con la salud física! Tómate unos minutos para reflexionar sobre los cuentos cortos que has leído hasta ahora. ¿Qué has aprendido? ¿Cuáles son tus principales conclusiones? Por ejemplo, podrías notar que sensaciones incómodas en tu cuerpo, como un corazón acelerado, a menudo no son peligrosas."
         },
         {
-            "type": "Media",
-            "url": "./images/400.jpg"
+            "type": "Entry",
+            "name": "lessons_learned_Salud Física_0"
         }
     ],
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 0
 }

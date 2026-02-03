@@ -1,16 +1,16 @@
 {
-    "header_text": "Gestión de puestos de trabajo",
+    "header_text": "Tratarse a sí mismo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Gestión de puestos de trabajo"
+            "text": "Tratarse a sí mismo"
         },
         {
             "type": "Media",
-            "url": "./images/302.jpg"
+            "url": "./images/251.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 4
 }

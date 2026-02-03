@@ -1,16 +1,16 @@
 {
-    "header_text": "Conociendo alguien nuevo",
+    "header_text": "Viendo a un viejo amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Conociendo alguien nuevo"
+            "text": "Viendo a un viejo amigo"
         },
         {
             "type": "Media",
-            "url": "./images/434.jpg"
+            "url": "./images/432.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

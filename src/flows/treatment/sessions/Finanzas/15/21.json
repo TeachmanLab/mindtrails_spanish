@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado alquilando tu casa. Sientes que ya es hora de comprar una casa ahora que tienes un trabajo estable, pero te preocupan los costos..."
+            "text": "Pensando en los próximos años, te ves a ti mismo..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Costos inesperados_Finanzas_puzzle1",
+            "type": "Buttons",
+            "name": "Costos inesperados_Finanzas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "inesperados"
+            "buttons": [
+                "Continuando alquilar una casa.",
+                "siendo propietario de una casa."
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Continuando alquilar una casa."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 6
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 2
 }

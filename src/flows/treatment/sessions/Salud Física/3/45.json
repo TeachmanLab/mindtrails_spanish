@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Si notas que tu corazón se acelera o tienes problemas para respirar, pregúntate si podría haber una explicación perfectamente inofensiva de por qué tu cuerpo reacciona de esa manera (por ejemplo, ¿acabas de subir un tramo de escaleras?)."
+        }
+    ]
+}

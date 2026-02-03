@@ -1,0 +1,16 @@
+{
+    "header_text": "Un pastel de cumpleaños",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Un pastel de cumpleaños"
+        },
+        {
+            "type": "Media",
+            "url": "./images/391.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

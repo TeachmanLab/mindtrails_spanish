@@ -1,0 +1,16 @@
+{
+    "header_text": "Visitando a los vecinos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Visitando a los vecinos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/408.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

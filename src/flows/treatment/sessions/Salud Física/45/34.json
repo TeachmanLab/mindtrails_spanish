@@ -1,10 +1,25 @@
 {
-    "header_text": "Recurso: Salud Física",
+    "header_text": "Poniéndose al día con los amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "MiBuscadorDeSalud\n\nOperado por el Departamento de Salud de los EE. UU., brinda información, artículos sobre cuestiones de salud, y servicios de búsqueda para recursos de salud nacionales y locales."
+            "text": "Ves a tus amigos al otro lado de la calle y corres hacia ellos. Te sientes un poco desorientado y mareado al llegar a ellos. Consideras lo que esto significa y te das cuenta de que probablemente signifique que corriste..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Poniéndose al día con los amigos_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "rápido"
+            ],
+            "missing_letter_count": 1
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
 }

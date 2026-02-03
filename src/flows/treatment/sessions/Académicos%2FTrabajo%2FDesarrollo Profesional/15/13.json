@@ -1,16 +1,16 @@
 {
-    "header_text": "Tomar un descanso",
+    "header_text": "Mostrar tu experiencia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tomar un descanso"
+            "text": "Mostrar tu experiencia"
         },
         {
             "type": "Media",
-            "url": "./images/81.jpg"
+            "url": "./images/5.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

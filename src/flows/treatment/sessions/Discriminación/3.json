@@ -1,20 +1,11 @@
 {
-    "header_text": "Diario ",
+    "header_text": "Discriminación ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Siéntete libre de utilizar el espacio a continuación de cualquier forma que te resulte útil:",
+            "text": "Lamentamos mucho que estés experimentando estrés debido a la discriminación o la marginación. Reconocemos que las personas tienen diferentes necesidades después de tales experiencias, por lo que queremos ofrecerte una serie de herramientas para ayudarte en este momento.",
             "html": true
-        },
-        {
-            "type": "Entry",
-            "name": "journal_entry_discrimination"
         }
-    ],
-    "condition": [
-        "Diario",
-        "in",
-        "Selected_Support"
     ]
 }

@@ -1,29 +1,25 @@
 {
-    "header_text": "Tu nueva publicación",
+    "header_text": "Temprano en la mañana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿La gente ignoró tu publicación?"
+            "text": "Acabas de empezar en un nuevo trabajo y unos amigos del trabajo quieren llevarte a una fiesta esta noche. Les haces saber que tienes que levantarte temprano mañana por la mañana para un evento importante y que no puedes ir con ellos y parecen decepcionados. Crees que tus nuevos amigos respetarán tu decisión de anteponer tus..."
         },
         {
-            "type": "Buttons",
-            "name": "Tu nueva publicación_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Temprano en la mañana_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "necesidades"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 5
 }

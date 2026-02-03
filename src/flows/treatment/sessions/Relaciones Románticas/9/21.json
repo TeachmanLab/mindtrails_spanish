@@ -1,17 +1,17 @@
 {
-    "header_text": "Familia grande",
+    "header_text": "Escuchando un desacuerdo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu prometido tiene hijos, mientras que tú no. Estás tratando de adaptarte a vivir con niños más pequeños y a cómo tener relación con ellos. Piensas que serás capaz de desarrollar una rutina y adaptarte a esta nueva dinámica... "
+            "text": "Anoche, tu pareja y tú tuvieron una discusión. Aunque intentaron mantener la voz baja, tus hijos escucharon. Crees que tus hijos estarán..."
         },
         {
             "type": "Entry",
-            "name": "Familia grande_Relaciones Románticas_entry1"
+            "name": "Escuchando un desacuerdo_Relaciones Románticas_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 3
 }

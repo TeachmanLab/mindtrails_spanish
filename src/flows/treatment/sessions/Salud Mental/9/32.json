@@ -1,0 +1,16 @@
+{
+    "header_text": "Tu propio estilo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu propio estilo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/345.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

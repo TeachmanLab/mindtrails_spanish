@@ -1,17 +1,16 @@
 {
-    "header_text": "Tartamudeo en la oficina",
+    "header_text": "Lecciones Aprendidas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás hablando con tu supervisor en su oficina. Te das cuenta de que estás tartamudeando un poco más de lo normal. A medida que continúa la conversación, decides que está..."
+            "Text": "¡Excelente trabajo! ¡Estás haciendo un gran progreso al probar nuevas perspectivas relacionadas con la academia, el trabajo y el desarrollo profesional! Tómate unos minutos para reflexionar sobre los cuentos cortos que has leído hasta ahora. ¿Qué has aprendido? ¿Cuáles son tus principales conclusiones? Por ejemplo, podrías notar que nadie es perfecto y que es normal cometer errores a veces."
         },
         {
             "type": "Entry",
-            "name": "Tartamudeo en la oficina_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "lessons_learned_Académicos/Trabajo/Desarrollo Profesional_0"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 0
 }

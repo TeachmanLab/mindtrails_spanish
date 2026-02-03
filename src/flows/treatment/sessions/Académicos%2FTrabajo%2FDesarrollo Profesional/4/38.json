@@ -1,0 +1,16 @@
+{
+    "header_text": "Visitas importantes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Visitas importantes"
+        },
+        {
+            "type": "Media",
+            "url": "./images/19.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

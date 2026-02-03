@@ -1,25 +1,25 @@
 {
-    "header_text": "Nadando en la playa",
+    "header_text": "Sentirse mareado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Después de enterarte de que un amigo está enfermo, decides ir a la playa para relajarte. Cuando intentas nadar en el mar, te cuesta aguantar la respiración bajo el agua. Probablemente sea porque hace tiempo que no..."
+            "text": "Decides prestar atención a las sensaciones sin juzgarlas como buenas o malas. Esto reduce tu preocupación y te hace sentir más..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Nadando en la playa_Salud Física_puzzle1",
+            "name": "Sentirse mareado_Salud Física_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "nadas"
+                "tranquilo"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

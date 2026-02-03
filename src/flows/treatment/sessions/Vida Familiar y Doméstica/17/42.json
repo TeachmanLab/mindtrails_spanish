@@ -1,0 +1,29 @@
+{
+    "header_text": "Desacuerdos con tu hermana",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Piensas que la próxima vez que hables con tu hermana, ambos..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Desacuerdos con tu hermana_Vida Familiar y Doméstica_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Dejarán de lado sus diferencias y restaurarán su relación.",
+                "Mantendrán sus posturas y seguirán peleando."
+            ],
+            "column_Count": 1,
+            "correct_value": "Dejarán de lado sus diferencias y restaurarán su relación."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

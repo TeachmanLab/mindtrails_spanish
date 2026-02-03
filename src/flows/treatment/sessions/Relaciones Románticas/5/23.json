@@ -1,25 +1,16 @@
 {
-    "header_text": "sintiéndote inferior por estar soltero",
+    "header_text": "Enviar mensajes de texto a otras personas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Todos tus amigos han estado saliendo con otras personas por un tiempo o están empezando una relación nueva. No has tenido ni una sola cita y empiezas a preguntarte por qué. Aunque estés decepcionado, recuerdas que tu valor no está definido por tus..."
+            "text": "Enviar mensajes de texto a otras personas"
         },
         {
-            "type": "WordPuzzle",
-            "name": "sintiéndote inferior por estar soltero_Relaciones Románticas_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "relación"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/209.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 3
 }

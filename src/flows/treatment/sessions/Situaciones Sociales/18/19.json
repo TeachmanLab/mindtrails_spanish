@@ -1,25 +1,25 @@
 {
-    "header_text": "Atención en la tienda",
+    "header_text": "Pensamientos del grupo de teatro",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Después de unos momentos, los otros compradores se alejan; simplemente se sorprendieron por el ruido fuerte. El dueño de la tienda acepta amablemente tus disculpas y te dice que no te preocupes por el desorden, así que entonces te sientes..."
+            "text": "Estás en el comité de un teatro comunitario local, que está planeando nuevas producciones. En la primera reunión, el director te pide ideas sobre qué obra interpretar. Todos hacen una pausa después de que dices tus ideas, y piensas que los demás encuentran tus ideas..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Atención en la tienda_Situaciones Sociales_puzzle_word2",
+            "name": "Pensamientos del grupo de teatro_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "tranquilo"
+                "aburridas"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "type": "negative",
+    "scenario_num": 2
 }

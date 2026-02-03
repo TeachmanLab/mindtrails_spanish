@@ -1,0 +1,16 @@
+{
+    "header_text": "Una nueva oportunidad",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Una nueva oportunidad"
+        },
+        {
+            "type": "Media",
+            "url": "./images/109.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

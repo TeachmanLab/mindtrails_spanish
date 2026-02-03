@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Calma (Calm)\n\nLa aplicación Calm proporcionó esta página que ofrece estrategias de afrontamiento, momentos meditativos, y más para lidiar con el estrés solo y acompañado."
+        }
+    ]
+}

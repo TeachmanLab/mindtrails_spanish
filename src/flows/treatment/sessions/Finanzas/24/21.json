@@ -1,16 +1,16 @@
 {
-    "header_text": "Permitirse un viaje",
+    "header_text": "Tratar a un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Permitirse un viaje"
+            "text": "Tratar a un amigo"
         },
         {
             "type": "Media",
-            "url": "./images/309.jpg"
+            "url": "./images/305.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 4
 }

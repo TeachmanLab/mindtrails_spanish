@@ -1,25 +1,16 @@
 {
-    "header_text": "Tensión familiar",
+    "header_text": "Lecciones Aprendidas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y un miembro de la familia tuvieron una conversación tensa hace unos meses. No han hablado desde esa interacción, pero se acerca un evento festivo al que ambos asistirán. Te preguntas si te enfrentará..."
+            "Text": "¡Excelente trabajo! ¡Estás haciendo un gran progreso al probar nuevas perspectivas relacionadas con las situaciones sociales! Tómate unos minutos para reflexionar sobre los cuentos cortos que has leído hasta ahora. ¿Qué has aprendido? ¿Cuáles son tus principales conclusiones? Por ejemplo, podrías notar que no es útil asumir lo que están pensando otras personas."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Tensión familiar_Situaciones Sociales_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "nuevamente"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "lessons_learned_Situaciones Sociales_0"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 3
+    "type": "positive",
+    "scenario_num": 0
 }

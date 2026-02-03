@@ -1,16 +1,16 @@
 {
-    "header_text": "Gestión de crédito",
+    "header_text": "Permitirse la educación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Gestión de crédito"
+            "text": "Permitirse la educación"
         },
         {
             "type": "Media",
-            "url": "./images/253.jpg"
+            "url": "./images/158.jpg"
         }
     ],
     "type": "resilience/negation",
-    "scenario_num": 9
+    "scenario_num": 4
 }

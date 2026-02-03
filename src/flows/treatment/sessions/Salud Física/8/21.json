@@ -1,17 +1,16 @@
 {
-    "header_text": "Corriendo una milla",
+    "header_text": "Corriendo con un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás corriendo una milla y quieres tener un buen tiempo. Notas que tu corazón se acelera más rápido de lo habitual después de detenerte. Crees que esto es..."
+            "text": "Corriendo con un amigo"
         },
         {
-            "type": "Entry",
-            "name": "Corriendo una milla_Salud Física_entry1"
+            "type": "Media",
+            "url": "./images/416.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 8
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

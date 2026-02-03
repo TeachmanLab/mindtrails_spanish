@@ -1,0 +1,16 @@
+{
+    "header_text": "Preparándote para la evaluación",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Preparándote para la evaluación"
+        },
+        {
+            "type": "Media",
+            "url": "./images/84.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

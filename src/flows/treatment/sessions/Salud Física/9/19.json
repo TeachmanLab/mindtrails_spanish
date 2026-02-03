@@ -1,17 +1,17 @@
 {
-    "header_text": "Yendo a dormir",
+    "header_text": "Tomando transporte",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás acostado en tu cama, a punto de dormir. Comienzas a sentir una pesadez en el pecho mientras intentas dormir. Piensas en esta presión y te sientes..."
+            "text": "Estás en el aeropuerto corriendo para alcanzar un avión. Sientes que tu corazón late rápidamente mientras te subes al avión y te sientas. Comienzas a sudar y a respirar rápido, temiendo que puedas tener un ataque de..."
         },
         {
             "type": "Entry",
-            "name": "Yendo a dormir_Salud Física_entry1"
+            "name": "Tomando transporte_Salud Física_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 7
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

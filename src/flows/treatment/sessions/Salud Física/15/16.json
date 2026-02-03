@@ -1,16 +1,16 @@
 {
-    "header_text": "Despertándote mareado",
+    "header_text": "Terminando una carrera larga",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Despertándote mareado"
+            "text": "Terminando una carrera larga"
         },
         {
             "type": "Media",
-            "url": "./images/423.jpg"
+            "url": "./images/438.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 4
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

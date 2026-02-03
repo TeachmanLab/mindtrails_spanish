@@ -1,29 +1,25 @@
 {
-    "header_text": "Tartamudeo en la oficina",
+    "header_text": "Obtener una oportunidad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te sientes avergonzado por tartamudear al hablar?"
+            "text": "Has enviado una solicitud para un trabajo que esperabas conseguir. Esperas conseguir una entrevista para el trabajo después de que revisen tu solicitud, pero sabes que es muy competitiva. Con tus calificaciones, esperas recibir una..."
         },
         {
-            "type": "Buttons",
-            "name": "Tartamudeo en la oficina_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "Obtener una oportunidad_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "llamada"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 3
 }

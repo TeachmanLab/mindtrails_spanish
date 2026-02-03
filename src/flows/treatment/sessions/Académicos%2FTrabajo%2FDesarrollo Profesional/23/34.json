@@ -1,0 +1,17 @@
+{
+    "header_text": "Mostrar tu experiencia",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu supervisor llama una reunión relacionada a una nueva iniciativa y pide a cada asistente que presente sus ideas y experiencia previa. Cuando es tu turno de hablar, haces pausas con frecuencia. Al reflexionar sobre la reunión más tarde en el día, sientes que el supervisor pensó que sonabas... "
+        },
+        {
+            "type": "Entry",
+            "name": "Mostrar tu experiencia_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
+}

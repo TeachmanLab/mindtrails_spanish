@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Técnicas de relajación\n\nMedlinePlus.Gov ofrece información de todo tipo. Esta página ofrece ideas para técnicas de relajación para lidiar con el estrés."
+        }
+    ]
+}

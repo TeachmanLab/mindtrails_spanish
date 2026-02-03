@@ -1,17 +1,17 @@
 {
-    "header_text": "Opiniones opuestas",
+    "header_text": "Nuevo estilo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu familia tiene opiniones firmes con las que no siempre estás de acuerdo. Al escucharlos hablar, sientes que eres muy diferente a ellos, pero también que está bien tener tus propios puntos de..."
+            "text": "Después de luchar contigo mismo en el vestidor, te sientes seguro y quieres ponertelo para salir, así que compras el nuevo..."
         },
         {
             "type": "Entry",
-            "name": "Opiniones opuestas_Salud Mental_entry1"
+            "name": "Nuevo estilo_Salud Mental_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 9
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

@@ -1,29 +1,16 @@
 {
-    "header_text": "Dejado sin respuesta",
+    "header_text": "Un corte de pelo diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tu amigo te está ignorando a propósito?"
+            "text": "Un corte de pelo diferente"
         },
         {
-            "type": "Buttons",
-            "name": "Dejado sin respuesta_Situaciones Sociales_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/548.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 1
 }

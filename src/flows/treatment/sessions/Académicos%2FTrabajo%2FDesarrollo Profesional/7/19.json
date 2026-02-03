@@ -1,29 +1,16 @@
 {
-    "header_text": "Complicaciones en terminar",
+    "header_text": "Reorganización después de la exposición",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Podrás terminar tu propuesta a tiempo?"
+            "text": "Reorganización después de la exposición"
         },
         {
-            "type": "Buttons",
-            "name": "Complicaciones en terminar_Académicos/Trabajo/Desarrollo Profesional_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/47.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 2
 }

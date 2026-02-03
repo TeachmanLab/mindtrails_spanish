@@ -1,25 +1,29 @@
 {
-    "header_text": "en un barco",
+    "header_text": "Comportamiento de riesgo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Pasas el día en un barco con tus amigos. Cuando bajas del barco, sientes las piernas raras y tienes problemas para caminar. Esta sensación es..."
+            "text": "¿Te preocupa que decirle a tu jefe cómo te sientes te cause problemas?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "en un barco_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Comportamiento de riesgo_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "divertida"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 8
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 4
 }

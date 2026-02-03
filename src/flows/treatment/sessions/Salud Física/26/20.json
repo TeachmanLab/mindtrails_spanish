@@ -1,0 +1,25 @@
+{
+    "header_text": "Nuevo mercado: Sentimientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás en una nueva tienda de comestibles y buscas pan. De repente notas que tu corazón late rápidamente y con fuerza.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Estoy emocionado de ver lo que tiene esta nueva tienda de comestibles.",
+                "Estoy feliz de finalmente venir aquí.",
+                "Tengo miedo de este sentimiento en mi pecho, pero pienso en todas las veces que mi corazón latió con fuerza y ​​terminé bien.",
+                "Estoy nervioso por mi corazón, pero recuerdo que a veces mi corazón late rápido cuando estoy emocionado.",
+                "Tengo miedo  que mi corazón palpitante significa que algo malo está sucediendo."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

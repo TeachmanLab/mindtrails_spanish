@@ -1,16 +1,25 @@
 {
-    "header_text": "Nuevo atuendo",
+    "header_text": "Llamada breve",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Nuevo atuendo"
+            "text": "Después de la reunión, te das cuenta que tus compañeros de trabajo probablemente se sorprendieron porque la puerta se abrió de repente. Es probable que piensen que abrir y cerrar la puerta silenciosamente demuestra que eres..."
         },
         {
-            "type": "Media",
-            "url": "./images/497.jpg"
+            "type": "WordPuzzle",
+            "name": "Llamada breve_Situaciones Sociales_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "considerado"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "positive",
-    "scenario_num": 5
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

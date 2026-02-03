@@ -1,16 +1,16 @@
 {
-    "header_text": "Conociendo gente nueva",
+    "header_text": "Conversación durante la cena",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Conociendo gente nueva"
+            "text": "Conversación durante la cena"
         },
         {
             "type": "Media",
-            "url": "./images/534.jpg"
+            "url": "./images/149.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 7
+    "type": "positive",
+    "scenario_num": 2
 }

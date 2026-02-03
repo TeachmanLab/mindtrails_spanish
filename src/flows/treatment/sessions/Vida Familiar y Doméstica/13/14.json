@@ -1,14 +1,12 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "¡Escribe el tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Reflexionas sobre las historias que acabas de leer y cómo se resolvieron las situaciones que provocan ansiedad. ¿Qué pienas son / ves como algunos de las conclusiones principales? ¿Cuál de estas nuevas formas de pensar podrías verte a ti mismo aplicando a tu propia vida, y por qué?"
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #2_entry"
+            "text": "Ten en cuenta que cada historia tiene aproximadamente 3 oraciones. La primera parte debería plantear una situación desafiante que podría generar cierta ansiedad en la que no está claro cuál será el resultado de la situación. La parte final debería resolver la incertidumbre de forma positiva o no amenazante. En otras palabras, la última frase debería dejar claro que la situación no resulta al final inmanejable."
         }
     ]
 }

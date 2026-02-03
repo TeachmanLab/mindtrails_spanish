@@ -1,29 +1,25 @@
 {
-    "header_text": "Preocuparse por los ahorros",
+    "header_text": "Presiones laborales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te preocupa no ahorrar en este momento?"
+            "text": "Estás en medio de una gran decisión sobre el siguiente paso en tu carrera profesional. Tienes la opción de quedarte en un trabajo familiar pero con un salario más bajo o mudarte a una industria diferente con el potencial de un salario más alto. Cuando piensas en tomar esta decisión, te sientes..."
         },
         {
-            "type": "Buttons",
-            "name": "Preocuparse por los ahorros_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Presiones laborales_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "seguro"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
 }

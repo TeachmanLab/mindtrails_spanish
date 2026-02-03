@@ -1,0 +1,16 @@
+{
+    "header_text": "Compartir con alguien nuevo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Compartir con alguien nuevo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/358.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

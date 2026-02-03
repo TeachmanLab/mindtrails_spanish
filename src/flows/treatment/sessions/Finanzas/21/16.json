@@ -1,10 +1,25 @@
 {
-    "header_text": "Recurso: Finanzas",
+    "header_text": "El regalo de cumpleaños:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mi Dinero: Herramientas\n\nMi Dinero: Herramientas es una página que ofrece información y plantillas para ayudar con la educación y la planificación financiera. Cada sección tiene herramientas para temas como la elaboración de presupuestos, manejo de deudas, y más."
+            "text": "Tu amigo va a celebrar una gran fiesta de cumpleaños y la mayoría de las personas de tu grupo de amigos estarán allí. Muchos de tus amigos son más ricos que tú y pueden permitirse el lujo de hacer regalos más caros.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Supongo que todos trajeron un regalo caro, pero en realidad no sé si eso es cierto.",
+                "Tengo muchas ganas de celebrarlo con amigos.",
+                "Creo que soy un mal amigo, pero sé que el regalo que traigo es considerado.",
+                "Creo que mi amigo estará feliz de verme.",
+                "Mi amigo se sentirá decepcionado con el regalo que puedo permitirme llevarle."
+            ],
+            "Duration": 15000
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
     ]
 }

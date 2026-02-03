@@ -1,0 +1,16 @@
+{
+    "header_text": "Aplicando a trabajos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Aplicando a trabajos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/114.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

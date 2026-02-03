@@ -1,25 +1,29 @@
 {
-    "header_text": "Tomar precauciones",
+    "header_text": "Conociendo alguien nuevo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus hijos están de vuelta en persona en la escuela. Te preocupas que un compañero de clase pueda darles COVID, y que sus hijos puedan enfermarse realmente. Tú decides que te asegurarás de que se queden enmascarados y aprenderás a lavarse siempre las manos para mantenerlas... "
+            "text": "¿Te preocupa hablar con una persona nueva?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Tomar precauciones_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Conociendo alguien nuevo_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "seguras"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 3
 }

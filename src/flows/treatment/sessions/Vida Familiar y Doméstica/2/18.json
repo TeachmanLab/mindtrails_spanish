@@ -1,25 +1,29 @@
 {
-    "header_text": "Yendo de vacaciones",
+    "header_text": "Creencias diferentes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te vas de vacaciones por unos días. Decides verificar nuevamente que todos los electrodomésticos de tu casa estén apagados. Al cerrar la puerta de tu casa, te sientes..."
+            "text": "¿Las relaciones de tu familia se volverán más tensas con el tiempo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Yendo de vacaciones_Vida Familiar y Doméstica_puzzle1",
+            "type": "Buttons",
+            "name": "Creencias diferentes_Vida Familiar y Doméstica_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "nervioso"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 5
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

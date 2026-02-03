@@ -1,0 +1,16 @@
+{
+    "header_text": "Limitaciones futuras",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Limitaciones futuras"
+        },
+        {
+            "type": "Media",
+            "url": "./images/65.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

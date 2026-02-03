@@ -1,16 +1,16 @@
 {
-    "header_text": "Una discusión acalorada",
+    "header_text": "Una mesa sucia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Una discusión acalorada"
+            "text": "Una mesa sucia"
         },
         {
             "type": "Media",
-            "url": "./images/565.jpg"
+            "url": "./images/403.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 0
 }

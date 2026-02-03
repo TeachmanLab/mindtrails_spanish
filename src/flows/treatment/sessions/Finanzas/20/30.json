@@ -1,29 +1,25 @@
 {
-    "header_text": "Preocuparse por los ahorros",
+    "header_text": "Planificación de pagos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te preocupa no ahorrar en este momento?"
+            "text": "Acabas de empezar un nuevo trabajo y necesitas seleccionar uno de los planes de jubilación que ofrece tu empresa. Has estado investigando los diferentes tipos de planes, pero te sientes un poco abrumado y tu fecha límite para elegir se acerca rápidamente. Piensas que el plan que elijas te dejará en una posición financiera..."
         },
         {
-            "type": "Buttons",
-            "name": "Preocuparse por los ahorros_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Planificación de pagos_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "riesgosa"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 8
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 5
 }

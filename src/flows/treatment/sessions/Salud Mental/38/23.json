@@ -1,17 +1,17 @@
 {
-    "header_text": "Club de lectura",
+    "header_text": "Lograr tus objetivos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás intentando conocer gente nueva y decides unirte a un club de lectura. El libro de la semana es realmente interesante, pero cuando llegas a la reunión, las personas hacen preguntas sobre el libro que parecen más profundas de lo que puedes responder. Recuerdas que también leíste el libro y tienes pensamientos valiosos, al igual que los..."
+            "text": "Te gustaría postularte para un puesto más alto en tu trabajo y mejorar tus habilidades. Sabes que el proceso de selección es riguroso, pero sientes mucha pasión por lograr este objetivo y has trabajado duro para convertirte en un buen empleado. Sientes que tus posibilidades de conseguir este nuevo trabajo son..."
         },
         {
             "type": "Entry",
-            "name": "Club de lectura_Salud Mental_entry1"
+            "name": "Lograr tus objetivos_Salud Mental_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 9
+    "type": "negative",
+    "scenario_num": 4
 }

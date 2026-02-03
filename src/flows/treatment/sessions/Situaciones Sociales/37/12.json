@@ -1,25 +1,16 @@
 {
-    "header_text": "Usando lo que tienes",
+    "header_text": "Broma interna",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has sido invitado a un evento formal de tu trabajo. No puedes permitirte comprar algo nuevo para llevar, así que tendrás que ponerte ropa que ya tienes. Cuando piensas en la opinión de todos sobre el hecho de que llevas ropa vieja, sabes que te sentirás..."
+            "text": "Broma interna"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Usando lo que tienes_Situaciones Sociales_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "seguro"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/342.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

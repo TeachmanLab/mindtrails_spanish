@@ -1,0 +1,17 @@
+{
+    "header_text": "Un pastel de cumpleaños",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tus amigos te compras un pastel para tu cumpleaños. Cuando lo traen por la noche, recuerdas que recientemente han estado enfermos. Sosteniendo el pastel, piensas que tu posibilidad de enfermarse es bastante... "
+        },
+        {
+            "type": "Entry",
+            "name": "Un pastel de cumpleaños_Salud Física_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 7
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "sintiéndote enfermo en un día caluroso",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "sintiéndote enfermo en un día caluroso"
+        },
+        {
+            "type": "Media",
+            "url": "./images/336.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
+}

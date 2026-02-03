@@ -1,27 +1,16 @@
 {
-    "header_text": "Revisando tu trabajo",
+    "header_text": "Tu primer hijo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras te preparas para la revisión, no crees que tu jefe olvide tu buen trabajo y crees que su reunión probablemente se centrará en tus..."
+            "text": "Tu primer hijo"
         },
         {
-            "type": "Entry",
-            "name": "Revisando tu trabajo_Salud Mental_entry2"
+            "type": "Media",
+            "url": "./images/137.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Al igual que un músculo, tu cerebro fortalece las vías que más utiliza. Por eso practicar muchas situaciones te ayuda a cambiar tus hábitos de pensamiento."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "type": "positive",
+    "scenario_num": 0
 }

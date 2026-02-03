@@ -1,16 +1,16 @@
 {
-    "header_text": "Viaje despues de COVID",
+    "header_text": "Gestión de crédito",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Viaje despues de COVID"
+            "text": "Gestión de crédito"
         },
         {
             "type": "Media",
-            "url": "./images/263.jpg"
+            "url": "./images/253.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 6
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

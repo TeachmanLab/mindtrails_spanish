@@ -1,29 +1,25 @@
 {
-    "header_text": "Tomando transporte",
+    "header_text": "Comparándote con otros",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Es necesario bajarse del avión porque sientes que tu corazón late rápidamente?"
+            "text": "Recientemente, tu pareja mencionó que encuentra atractiva a cierta celebridad. Esta celebridad no se parece en nada a ti, y te preguntas si tu pareja ha cambiado sus preferencias desde el comienzo de su relación. Piensas que aún se siente atraída por..."
         },
         {
-            "type": "Buttons",
-            "name": "Tomando transporte_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Comparándote con otros_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "ti"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
 }

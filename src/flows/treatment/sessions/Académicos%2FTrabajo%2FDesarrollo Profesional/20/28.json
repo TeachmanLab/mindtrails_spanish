@@ -1,29 +1,16 @@
 {
-    "header_text": "La música ruidosa",
+    "header_text": "Revisando tu trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tu pareja se molestará cuando le pidas que bajen el volumen de la música."
+            "text": "Revisando tu trabajo"
         },
         {
-            "type": "Buttons",
-            "name": "La música ruidosa_Académicos/Trabajo/Desarrollo Profesional_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/49.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 8
+    "type": "negative",
+    "scenario_num": 5
 }

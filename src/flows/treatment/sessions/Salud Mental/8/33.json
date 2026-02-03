@@ -1,0 +1,16 @@
+{
+    "header_text": "Lograr tus objetivos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Lograr tus objetivos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/71.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

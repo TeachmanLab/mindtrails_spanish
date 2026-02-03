@@ -1,16 +1,17 @@
 {
-    "header_text": "Dando una presentación",
+    "header_text": "Fuera de tu control",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Dando una presentación"
+            "text": "Después de un minuto, tu conexión a internet vuelve. Inicias sesión de nuevo y te das cuenta de que te sientes más..."
         },
         {
-            "type": "Media",
-            "url": "./images/59.jpg"
+            "type": "Entry",
+            "name": "Fuera de tu control_Académicos/Trabajo/Desarrollo Profesional_entry2"
         }
     ],
-    "type": "positive",
-    "scenario_num": 8
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

@@ -1,16 +1,17 @@
 {
-    "header_text": "Error en una tarea",
+    "header_text": "Equilibrio de trabajo y amistades",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Error en una tarea"
+            "text": "Sabes que tendrás más flexibilidad en las próximas semanas para ver a tu amigo y que ellos entenderán que necesitas..."
         },
         {
-            "type": "Media",
-            "url": "./images/104.jpg"
+            "type": "Entry",
+            "name": "Equilibrio de trabajo y amistades_Situaciones Sociales_entry2"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 9
+    "scenario_num": 3
 }

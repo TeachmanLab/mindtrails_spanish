@@ -1,16 +1,16 @@
 {
-    "header_text": "Vecino sin mascarilla",
+    "header_text": "Ruido repentino",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vecino sin mascarilla"
+            "text": "Ruido repentino"
         },
         {
             "type": "Media",
-            "url": "./images/452.jpg"
+            "url": "./images/386.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 4
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

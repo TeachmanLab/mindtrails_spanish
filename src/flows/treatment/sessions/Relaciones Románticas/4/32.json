@@ -1,10 +1,25 @@
 {
-    "header_text": "Maneja tus sentimientos: Relaciones Románticas",
+    "header_text": "Invitando a alguien a salir",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Si has pospuesto una tarea porque te parece abrumadora, intenta dividirla en pasos más pequeños y manejables."
+            "text": "Estás en un largo viaje en tren y realmente conectas con una persona atractiva que está sentada a tu lado. A medida que el viaje termina, piensas en lo mucho que te gustaría volver a ver a esta persona, pero te preocupa que puedas parecer demasiado directo. Cuando consideras invitar a la otra persona  a tomar un café, no te preocupa que te rechacen porque estás bastante seguro de que esta persona..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Invitando a alguien a salir_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "declinará"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 6
 }

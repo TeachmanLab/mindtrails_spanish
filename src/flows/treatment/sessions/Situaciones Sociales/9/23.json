@@ -1,17 +1,27 @@
 {
-    "header_text": "Error en una tarea",
+    "header_text": "Corriendo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Al final, te das cuenta de que tu jefe es rápido en darte correciones porque está invirtiendo en ti y está interesados en verte..."
+            "text": "Estás corriendo afuera y ves a un grupo de personas más adelante. Al pasar junto a ellos, tropiezas ligeramente y te sientes un poco tonto. Los escuchas reír mientras pasas y supones que se están riendo de..."
         },
         {
             "type": "Entry",
-            "name": "Error en una tarea_Situaciones Sociales_entry2"
+            "name": "Corriendo_Situaciones Sociales_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 9
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "MindTrails te brinda el coraje para enfrentar situaciones inciertas, brindándote la confianza para abordarlas en la vida real."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

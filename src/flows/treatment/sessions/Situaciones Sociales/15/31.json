@@ -1,29 +1,25 @@
 {
-    "header_text": "Futuras amistades",
+    "header_text": "El torneo de fútbol",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas que manteniéndose cercano a tus amigos"
+            "text": "Después de no jugar por un tiempo, te uníste a un equipo de futbol recreativo. Hay un torneo al final de la... "
         },
         {
-            "type": "Buttons",
-            "name": "Futuras amistades_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "El torneo de fútbol_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Es casi imposible a largo plazo.",
-                "Será algo que te brinde felicidad por muchos años."
+            "display_delay": 2000,
+            "words": [
+                "temporada"
             ],
-            "column_Count": 1,
-            "correct_value": "Será algo que te brinde felicidad por muchos años."
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 8
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 5
 }

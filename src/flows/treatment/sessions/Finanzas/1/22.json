@@ -1,39 +1,25 @@
 {
-    "header_text": "Solicitar una subvención",
+    "header_text": "Planes divertidos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Eres capaz de hacer esta investigación?"
+            "text": "Tus amigos te piden que salgas a cenar a un restaurante de lujo con ellos este fin de semana. Es muy caro y sabes que no podrás pagarlo. Cuando te imaginas diciéndole a tus amigos que no puedes ir, te sientes... "
         },
         {
-            "type": "Buttons",
-            "name": "Solicitar una subvención_Finanzas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Planes divertidos_Finanzas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "nervioso"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 6,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "En el mundo real, a veces las cosas no van bien. ¡Es importante tener algunas historias que terminen negativamente para enseñarte a manejar tu ansiedad cuando surgen situaciones negativas!"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

@@ -1,17 +1,16 @@
 {
-    "header_text": "Solo amigo",
+    "header_text": "Terminando a large distancia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado pasando mucho tiempo con tus amigos últimamente, y se hace evidente que todos están en una relación excepto tú. Has estado soltero durante mucho tiempo, y un amigo te lo señala. Te das cuenta de que está bien estar soltero y que no hay presión para que salgas con alguien en este... "
+            "text": "Terminando a large distancia"
         },
         {
-            "type": "Entry",
-            "name": "Solo amigo_Relaciones Románticas_entry1"
+            "type": "Media",
+            "url": "./images/234.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 0
 }

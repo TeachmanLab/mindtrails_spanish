@@ -1,0 +1,16 @@
+{
+    "header_text": "Una perspectiva diferente",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Una perspectiva diferente"
+        },
+        {
+            "type": "Media",
+            "url": "./images/519.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

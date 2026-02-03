@@ -1,29 +1,16 @@
 {
-    "header_text": "Presentación de recaudación de fondos",
+    "header_text": "Confrontación de COVID",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Los compañeros de trabajo probablemente están pensando..."
+            "text": "Confrontación de COVID"
         },
         {
-            "type": "Buttons",
-            "name": "Presentación de recaudación de fondos_Situaciones Sociales_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Que no quieren ayudarte con la recaudación de fondos.",
-                "Que quieren ayudarte con la recaudación de fondos."
-            ],
-            "column_Count": 1,
-            "correct_value": "Que no quieren ayudarte con la recaudación de fondos."
+            "type": "Media",
+            "url": "./images/89.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 6
+    "type": "positive",
+    "scenario_num": 3
 }

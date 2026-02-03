@@ -1,39 +1,25 @@
 {
-    "header_text": "Tu mejor amigo",
+    "header_text": "El coche de tu familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Años en el futuro, esperas que tú y tu amigo..."
+            "text": "Tu familia compró un coche viejo que tiene una gran abolladura en la parte delantera. Hoy lo estás conduciendo al trabajo. Cuando piensas en tus colegas viendo tu coche, te sientes... "
         },
         {
-            "type": "Buttons",
-            "name": "Tu mejor amigo_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "El coche de tu familia_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Habrán permanecido cercanos aunque hayan desarrollado algunos intereses diferentes.",
-                "Se habrán distanciado y realmente no se entenderán mutuamente."
+            "display_delay": 2000,
+            "words": [
+                "nervioso"
             ],
-            "column_Count": 1,
-            "correct_value": "Se habrán distanciado y realmente no se entenderán mutuamente."
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Cada pequeño cambio de perspectiva conduce a cambios mayores con el tiempo. Continúe: ¡estás entrenando tu cerebro para pensar de manera más equilibrada y útil!"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

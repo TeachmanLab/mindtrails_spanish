@@ -1,0 +1,16 @@
+{
+    "header_text": "Sentado en una reunión",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sentado en una reunión"
+        },
+        {
+            "type": "Media",
+            "url": "./images/46.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 9
+}

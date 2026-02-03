@@ -1,29 +1,25 @@
 {
-    "header_text": "Trabajo placentero",
+    "header_text": "Nadando vueltas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tienes ganas de completar las tareas adicionales?"
+            "text": "Es domingo por la mañana y estás nadando en la piscina. Después de un par de vueltas te quedas sin aliento y decides descansar un minuto al final del carril. Respirar con dificultad te hace sentir ansioso, pero decides seguir nadando con..."
         },
         {
-            "type": "Buttons",
-            "name": "Trabajo placentero_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Nadando vueltas_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "calma"
             ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 4
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

@@ -1,29 +1,16 @@
 {
-    "header_text": "Decisiones de viaje",
+    "header_text": "Reconciliándote con tu amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Estás contento con tu decisión sobre dónde irás de vacaciones?"
+            "text": "Reconciliándote con tu amigo"
         },
         {
-            "type": "Buttons",
-            "name": "Decisiones de viaje_Vida Familiar y Doméstica_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "type": "Media",
+            "url": "./images/127.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

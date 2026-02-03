@@ -1,0 +1,16 @@
+{
+    "header_text": "Trabajo placentero",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Trabajo placentero"
+        },
+        {
+            "type": "Media",
+            "url": "./images/118.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

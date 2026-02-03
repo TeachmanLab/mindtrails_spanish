@@ -1,29 +1,16 @@
 {
-    "header_text": "Una salida organizada",
+    "header_text": "Segundo encuentro",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus amigos no disfrutaron la excursión porque ..."
+            "text": "Segundo encuentro"
         },
         {
-            "type": "Buttons",
-            "name": "Una salida organizada_Situaciones Sociales_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "El clima era desagradable.",
-                "Lo planeaste mal."
-            ],
-            "column_Count": 1,
-            "correct_value": "El clima era desagradable."
+            "type": "Media",
+            "url": "./images/481.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 2
 }

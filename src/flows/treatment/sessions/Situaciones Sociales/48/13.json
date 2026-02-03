@@ -1,29 +1,25 @@
 {
-    "header_text": "Conversación con un desconocido",
+    "header_text": "Conexión perdida",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En general, la conversación probablemente fue..."
+            "text": "Estás sentado en una cafetería cuando ves a tu amigo. Pasa junto a ti y se sienta al lado de otra persona. Es probable que está... "
         },
         {
-            "type": "Buttons",
-            "name": "Conversación con un desconocido_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Conexión perdida_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Una oportunidad relajada y agradable para conocer a una nueva persona.",
-                "situación estresante, porque la persona podría haberte encontrado aburrido."
+            "display_delay": 2000,
+            "words": [
+                "distraído"
             ],
-            "column_Count": 1,
-            "correct_value": "Una oportunidad relajada y agradable para conocer a una nueva persona."
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

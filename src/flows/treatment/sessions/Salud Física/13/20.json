@@ -1,0 +1,16 @@
+{
+    "header_text": "¡Escribe el tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
+    "elements": [
+        {
+            "type": "Text",
+            "text": "¡Ahora es tu turno! Pensando en la historia corta que acabas de crear, ¿cuáles son algunas de las razones por las que podría haber ocurrido este final positivo o no amenazante? Realmente intenta encontrar algunas explicaciones diferentes.\n\nRazón 1:"
+        },
+        {
+            "type": "Entry",
+            "name": "Razón1_WYO"
+        }
+    ]
+}

@@ -1,16 +1,16 @@
 {
-    "header_text": "sintiéndote ansioso",
+    "header_text": "Vaso de agua",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "sintiéndote ansioso"
+            "text": "Vaso de agua"
         },
         {
             "type": "Media",
-            "url": "./images/11.jpg"
+            "url": "./images/198.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 4
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

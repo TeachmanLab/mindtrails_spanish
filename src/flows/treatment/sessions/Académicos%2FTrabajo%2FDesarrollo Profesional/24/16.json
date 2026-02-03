@@ -1,17 +1,17 @@
 {
-    "header_text": "Limitaciones futuras",
+    "header_text": "Tomar una decisión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Esta mañana escuchas en las noticia que muchas empresas están reduciendo personal. Piensas en qué sucederá si pierdes tu trabajo. Decides que será posible encontrar otro..."
+            "text": "Tu pareja quiere que acceptes un trabajo específico. Preferirías trabajar en un lugar diferente, pero tu pareja ha dejado claro que no está de acuerdo con esa decisión.  Cuando piensas en hablar con tu pareja sobre tu decisión, te sientes... "
         },
         {
             "type": "Entry",
-            "name": "Limitaciones futuras_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Tomar una decisión_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 1
 }

@@ -1,25 +1,22 @@
 {
-    "header_text": "Un estilo diferente",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Compras un traje nuevo, que es muy diferente a tu estilo habitual de ropa. Te lo pruebas para mostrarlo a tu amigo. Cuando te ve, hace una pausa. Luego comenta que te hace lucir..."
+            "text": "Describe la situación en pocas palabras:"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Un estilo diferente_Situaciones Sociales_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "bien"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "entry_anxious_imagery"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 1
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

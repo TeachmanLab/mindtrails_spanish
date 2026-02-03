@@ -1,16 +1,16 @@
 {
-    "header_text": "Dedos hormigueando",
+    "header_text": "Corriendo una maratón",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Dedos hormigueando"
+            "text": "Corriendo una maratón"
         },
         {
             "type": "Media",
-            "url": "./images/394.jpg"
+            "url": "./images/417.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 4
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

@@ -1,25 +1,29 @@
 {
-    "header_text": "Tomando transporte",
+    "header_text": "Nadando vueltas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en el aeropuerto corriendo para alcanzar un avión. Sientes que tu corazón late rápidamente mientras subes al avión y te sientas. Comienzas a sudar y a respirar rápido, temiendo que puedas tener un ataque de..."
+            "text": "¿Seguiste haciendo ejercicio a pesar de sentirte ansioso?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Tomando transporte_Salud Mental_puzzle1",
+            "type": "Buttons",
+            "name": "Nadando vueltas_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "pánico"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
-    "scenario_num": 5
+    "scenario_num": 1
 }

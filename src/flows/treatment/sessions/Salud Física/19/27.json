@@ -1,25 +1,39 @@
 {
-    "header_text": "Conocido sin mascarilla",
+    "header_text": "Corriendo una maratón",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Llegas a una reunión con tu mascarilla puesta. Te das cuenta de que uno de tus colegas no está usando una mascarilla. Piensas que probablemente se le..."
+            "text": "Piensas que si te apuntas a una maratón, el día de la carrera es probable que..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Conocido sin mascarilla_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Corriendo una maratón_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "olvidó"
+            "buttons": [
+                "Colapsaras antes de cruzar la línea de meta.",
+                "Te sentirás orgulloso de haber logrado para lo que entrenaste."
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Colapsaras antes de cruzar la línea de meta."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 8
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "MindTrails te brinda el coraje para enfrentar situaciones inciertas, brindándote la confianza para abordarlas en la vida real."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

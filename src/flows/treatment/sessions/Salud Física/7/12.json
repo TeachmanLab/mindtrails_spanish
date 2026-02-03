@@ -1,29 +1,16 @@
 {
-    "header_text": "Un pastel de cumpleaños",
+    "header_text": "Aprendiendo a esquíar",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "si te comes el pastel, probablemente..."
+            "text": "Aprendiendo a esquíar"
         },
         {
-            "type": "Buttons",
-            "name": "Un pastel de cumpleaños_Salud Física_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No te enfermarás.",
-                "Te enfermarás."
-            ],
-            "column_Count": 1,
-            "correct_value": "Te enfermarás."
+            "type": "Media",
+            "url": "./images/406.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 3
+    "type": "positive",
+    "scenario_num": 0
 }

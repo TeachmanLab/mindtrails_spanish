@@ -1,0 +1,25 @@
+{
+    "header_text": "Opiniones fuertes: Sentimientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Los miembros de tu familia tienen opiniones firmes y tú no siempre estás de acuerdo con ellas. Una noche, invitas a un amigo a cenar. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Estoy emocionado de ver una película con mi amigo después de comer.",
+                "Me preocupa que mi familia diga algo que haga que no le agrade a mi amigo, pero tengo más confianza en la fuerza de nuestra amistad.",
+                "Me avergüenza que mi familia tenga un punto de vista tan diferente al mío, pero me recuerdo a mí mismo que todos tenemos creencias diferentes.",
+                "Estoy tranquilo sentado a cenar con mi familia y mi amigo.",
+                "Estoy ansioso por lo que puedan decir los miembros de mi familia."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

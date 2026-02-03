@@ -1,17 +1,17 @@
 {
-    "header_text": "Trabajando para salir adelante",
+    "header_text": "Anticipación de entrevista",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te acaban de dar un trabajo en una oficina que realmente admiras. Para finalmente recibir el ascenso que deseas, sabes que tendrás que trabajar muy duro durante varios años y el resultado es incierto. Cuando imaginas tu probable puesto en la empresa en el futuro, esperas que se te otorgue el trabajo que..."
+            "text": "Te están entrevistando para un puesto de liderazgo dentro de tu departamento. Antes de entrar en la oficina, notas que te sientes tembloroso. Te sientes increíblemente..."
         },
         {
             "type": "Entry",
-            "name": "Trabajando para salir adelante_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Anticipación de entrevista_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 8
+    "type": "positive",
+    "scenario_num": 3
 }

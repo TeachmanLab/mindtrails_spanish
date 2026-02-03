@@ -1,16 +1,39 @@
 {
-    "header_text": "Ninguna respuesta",
+    "header_text": "Tu mejor amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Ninguna respuesta"
+            "text": "Años en el futuro, esperas que tú y tu amigo..."
         },
         {
-            "type": "Media",
-            "url": "./images/43.jpg"
+            "type": "Buttons",
+            "name": "Tu mejor amigo_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Habrán permanecido cercanos aunque hayan desarrollado algunos intereses diferentes.",
+                "Se habrán distanciado y realmente no se entenderán mutuamente."
+            ],
+            "column_Count": 1,
+            "correct_value": "Se habrán distanciado y realmente no se entenderán mutuamente."
         }
     ],
-    "type": "positive",
-    "scenario_num": 8
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Cada pequeño cambio de perspectiva conduce a cambios mayores con el tiempo. Continúe: ¡estás entrenando tu cerebro para pensar de manera más equilibrada y útil!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

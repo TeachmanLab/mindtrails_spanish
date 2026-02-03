@@ -1,10 +1,25 @@
 {
-    "header_text": "Recurso: Situaciones Sociales",
+    "header_text": "Nervios en un momento importante",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Acceso Latino\n\nAcceso Latino, parte de la Fundación Carlos Slim, comparte páginas para orientación legal, información acerca de los apoyos sociales, trámites legales, y más asesorías para inmigrantes en Estados Unidos. También contiene enlaces directos a los consulados de países latinoamericanos."
+            "text": "Estás a punto de dar una presentación y sientes que tu cuerpo tiembla. Normalmente, no te sientes así al hablar frente a las personas. Estas sensaciones de temblor significan que estás..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Nervios en un momento importante_Situaciones Sociales_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "listo"
+            ],
+            "missing_letter_count": 1
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
 }

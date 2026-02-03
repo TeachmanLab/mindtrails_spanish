@@ -1,10 +1,17 @@
 {
-    "header_text": "Recurso: Salud Mental",
+    "header_text": "Darte a conocer",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Anxiety and Depression Association of America\n\nADAA es una organización dedicada a la prevención, tratamiento y cura de la ansiedad, depresión, el trastorno obsesivo-compulsivo y trastornos similares a través de la educación, grupo de apoyo, y gráficos informativos."
+            "text": "Decides abrirte y compartir, y ellos hacen lo mismo. Mientras hablas, te sientes... "
+        },
+        {
+            "type": "Entry",
+            "name": "Darte a conocer_Salud Mental_entry2"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

@@ -1,16 +1,29 @@
 {
-    "header_text": "No invitado a cenar",
+    "header_text": "En un barco",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "No invitado a cenar"
+            "text": "Temporal y nada de lo que debas preocuparte."
         },
         {
-            "type": "Media",
-            "url": "./images/15.jpg"
+            "type": "Buttons",
+            "name": "En un barco_Situaciones Sociales_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Algo que deberías preocuparte.",
+                ""
+            ],
+            "column_Count": 1,
+            "correct_value": "Algo que deberías preocuparte."
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 0
 }

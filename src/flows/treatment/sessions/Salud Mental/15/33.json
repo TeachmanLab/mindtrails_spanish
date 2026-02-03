@@ -1,10 +1,25 @@
 {
-    "header_text": "Maneja tus sentimientos: Salud Mental",
+    "header_text": "Comparándote con otros",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Todos los sentimientos pasan. Cuando sientas que un sentimiento negativo (como la tristeza o el miedo) nunca terminará, recuérdate suavemente que este sentimiento eventualmente pasará."
+            "text": "Recientemente, tu pareja mencionó que encuentra atractiva a cierta celebridad. Esta celebridad no se parece en nada a ti, y te preguntas si tu pareja ha cambiado sus preferencias desde el comienzo de su relación. Piensas que aún se siente atraída a..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Comparándote con otros_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "ti"
+            ],
+            "missing_letter_count": 1
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
 }

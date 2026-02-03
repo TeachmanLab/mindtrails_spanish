@@ -1,10 +1,16 @@
 {
-    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
+    "header_text": "Sin planes para el fin de semana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Antes de pasar el rato con alguien, planifica algunos temas de conversación para mencionar durante tu conversación."
+            "text": "Sin planes para el fin de semana"
+        },
+        {
+            "type": "Media",
+            "url": "./images/483.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

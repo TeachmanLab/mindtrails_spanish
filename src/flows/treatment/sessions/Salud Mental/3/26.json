@@ -1,25 +1,39 @@
 {
-    "header_text": "Mensajes de texto honestos",
+    "header_text": "Puntos de vista hacia la terapia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Obtuviste el número de alguien de una aplicación de citas y le has estado enviando mensajes de texto durante algunos días. No te sientes muy interesado en esa persona, pero hoy te envían un mensaje diciendo que está muy interesado en ti y que quiere encontrarse para una cita, y te preocupa que se enojen si rechazas su oferta. Decides ser sincero acerca de no sentir lo mismo y le dices que no ves que tu relación se desarolle... "
+            "text": "¿Aceptará tu familia que vayas a terapia?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Mensajes de texto honestos_Salud Mental_puzzle1",
+            "type": "Buttons",
+            "name": "Puntos de vista hacia la terapia_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "mucho"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Cuanto más te sumerjas en la historia, más probabilidades tendrás de beneficiarte de nuestro programa; imagínate realmente en la situación actual."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

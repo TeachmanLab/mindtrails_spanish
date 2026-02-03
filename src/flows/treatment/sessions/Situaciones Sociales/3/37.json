@@ -1,0 +1,16 @@
+{
+    "header_text": "Apartamento nuevo para ti",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Apartamento nuevo para ti"
+        },
+        {
+            "type": "Media",
+            "url": "./images/168.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

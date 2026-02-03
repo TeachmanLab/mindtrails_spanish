@@ -1,0 +1,16 @@
+{
+    "header_text": "sintiéndote mareado",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "sintiéndote mareado"
+        },
+        {
+            "type": "Media",
+            "url": "./images/418.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

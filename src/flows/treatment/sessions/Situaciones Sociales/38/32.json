@@ -1,0 +1,16 @@
+{
+    "header_text": "Opinión importante",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Opinión importante"
+        },
+        {
+            "type": "Media",
+            "url": "./images/58.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 9
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Funciones normales",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Usas una camisa para ir a la escuela que te queda ajustada alrededor de las axilas. A mitad del día, notas que tienes marcas de sudor. Después de pensarlo, te das cuenta de que sudar a lo largo del día es..."
+        },
+        {
+            "type": "Entry",
+            "name": "Funciones normales_Salud Física_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 8
+}

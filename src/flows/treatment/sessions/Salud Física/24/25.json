@@ -1,0 +1,16 @@
+{
+    "header_text": "Primera vez pantinaje sobre hielo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Primera vez pantinaje sobre hielo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/415.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 5
+}

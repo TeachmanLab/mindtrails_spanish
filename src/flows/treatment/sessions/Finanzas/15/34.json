@@ -1,14 +1,29 @@
 {
-    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_text": "Costos inesperados",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas en un momento en que un amigo se enfrentó a una situación incierta y se sentía ansioso por ello. ¿Qué consejo le darías a tu amigo para que piense en la situación en función de lo que has aprendido en el entrenamiento?"
+            "text": "¿Puedes tomar una decisión razonable a pesar de cierta incertidumbre en tus estimaciones?"
         },
         {
-            "type": "Entry",
-            "name": "Consejo #0_entry"
+            "type": "Buttons",
+            "name": "Costos inesperados_Finanzas_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Sí"
+            ],
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

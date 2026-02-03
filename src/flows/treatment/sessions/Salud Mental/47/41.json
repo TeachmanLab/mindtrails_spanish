@@ -1,0 +1,16 @@
+{
+    "header_text": "Reloj favorito",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Reloj favorito"
+        },
+        {
+            "type": "Media",
+            "url": "./images/320.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

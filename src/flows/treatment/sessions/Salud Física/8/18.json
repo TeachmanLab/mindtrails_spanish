@@ -1,16 +1,17 @@
 {
-    "header_text": "Subiendo escaleras",
+    "header_text": "Un golpe accidental",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Subiendo escaleras"
+            "text": "Una noche, estás subiendo las escaleras y accidentalmente golpeas tu cabeza contra un techo bajo. A la mañana siguiente, el dolor de cabeza sigue presente ligeramente y te preguntas qué hiciste. Para la hora del almuerzo, el dolor ha..."
         },
         {
-            "type": "Media",
-            "url": "./images/419.jpg"
+            "type": "Entry",
+            "name": "Un golpe accidental_Salud Física_entry1"
         }
     ],
-    "type": "positive",
-    "scenario_num": 7
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 2
 }

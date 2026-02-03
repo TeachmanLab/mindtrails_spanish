@@ -1,23 +1,23 @@
 {
-    "header_text": "Gente fiestera",
+    "header_text": "Tiempo para ti mismo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "La fiesta probablemente será..."
+            "text": "¿Estás bién comer solo?"
         },
         {
             "type": "Buttons",
-            "name": "Gente fiestera_Situaciones Sociales_comp_question",
+            "name": "Tiempo para ti mismo_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Incómodo porque no conoces a muchas personas.",
-                "Emocionante porque tienes la oportunidad de conocer gente nueva."
+                "No",
+                "Sí"
             ],
             "column_Count": 1,
-            "correct_value": "Emocionante porque tienes la oportunidad de conocer gente nueva."
+            "correct_value": "Sí"
         }
     ],
     "navigation_conditions": [
@@ -25,5 +25,5 @@
         "wait_for_click"
     ],
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 1
 }

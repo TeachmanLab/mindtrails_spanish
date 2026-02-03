@@ -1,16 +1,17 @@
 {
-    "header_text": "Presentación de tu trabajo",
+    "header_text": "Going to Therapy",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Presentación de tu trabajo"
+            "text": "Has estado yendo a terapia últimamente. No se lo has contado a tu familia porque han expresado opiniones negativas sobre la terapia en el pasado. Crees que esta vez te..."
         },
         {
-            "type": "Media",
-            "url": "./images/88.jpg"
+            "type": "Entry",
+            "name": "Going to Therapy_Salud Mental_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 0
 }

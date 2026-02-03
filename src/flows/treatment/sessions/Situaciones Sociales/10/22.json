@@ -1,17 +1,16 @@
 {
-    "header_text": "El escaparate de danza",
+    "header_text": "Una presentación grande",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras decides si invitas o no gente a tu programa, piensas que no tendrás un mal desempeño y te ves bailando..."
+            "text": "Una presentación grande"
         },
         {
-            "type": "Entry",
-            "name": "El escaparate de danza_Situaciones Sociales_entry2"
+            "type": "Media",
+            "url": "./images/2.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 8
+    "type": "positive",
+    "scenario_num": 4
 }

@@ -1,25 +1,22 @@
 {
-    "header_text": "Granizado derramado:Pensamientos",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tus amigos están saliendo a cenar. Llegan tus alimentos y bebidas y accidentalmente derramas tu bebida en la parte delantera de tu nueva camisa blanca.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
+            "text": "Describe la situación en pocas palabras:"
         },
         {
-            "type": "TimedText",
-            "texts": [
-                "Pienso en que este es un accidente común.",
-                "Siento que estoy molestando a mis amigos en este momento, pero ellos entenderán que los accidentes ocurren.",
-                "Siento que estoy haciendo una escena, pero las otras personas aquí no me conocen ni les importa esta situación.",
-                "Creo que quedaré tonto delante de todos.",
-                "Pienso en cómo será una historia divertida."
-            ],
-            "Duration": 15000
+            "type": "Entry",
+            "name": "entry_anxious_imagery"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
     ]
 }

@@ -1,16 +1,17 @@
 {
-    "header_text": "Oportunidad de espectáculo",
+    "header_text": "Dinero de la familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Oportunidad de espectáculo"
+            "text": "Tu hermano está en una situación financiera difícil y está pidiendo dinero. Quieres a tu hermano y realmente deseas ayudarlo, pero estás lidiando con tus propios desafíos financieros y necesitas pagar tu alquiler. Pensando en los otros tipos de apoyo que puedes ofrecer a tu hermano, crees que lo... "
         },
         {
-            "type": "Media",
-            "url": "./images/265.jpg"
+            "type": "Entry",
+            "name": "Dinero de la familia_Finanzas_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 3
 }

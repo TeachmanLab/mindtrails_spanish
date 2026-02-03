@@ -1,0 +1,16 @@
+{
+    "header_text": "Un país extranjero",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Un país extranjero"
+        },
+        {
+            "type": "Media",
+            "url": "./images/488.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

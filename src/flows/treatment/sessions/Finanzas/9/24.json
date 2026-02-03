@@ -1,10 +1,17 @@
 {
-    "header_text": "Maneja tus sentimientos: Finanzas",
+    "header_text": "Mantener a la familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Escribe dónde entra y sale su dinero y observa dónde te pueden hacer ajustes para que tus finanzas sean más manejables."
+            "text": "Quieres que tu familia tenga buenas oportunidades educativas. Quieres que tus hijos puedan asistir a buenas universidades, pero comprendas que esto tiene un precio..."
+        },
+        {
+            "type": "Entry",
+            "name": "Mantener a la familia_Finanzas_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

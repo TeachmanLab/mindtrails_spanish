@@ -1,0 +1,17 @@
+{
+    "header_text": "Risa en la esquina",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Después de un momento, recuerdas situaciones en las que tú y tus compañeros de trabajo se han reído de cosas no relacionadas con quien está hablando. Continúas con tu presentación y la completas con... "
+        },
+        {
+            "type": "Entry",
+            "name": "Risa en la esquina_Situaciones Sociales_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 6
+}

@@ -1,29 +1,25 @@
 {
-    "header_text": "Obtener una oportunidad",
+    "header_text": "Quedando atrás",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus calificaciones..."
+            "text": "Recientemente comenzaste un nuevo trabajo. Mientras trabajas, parece que todos los que te rodean saben lo que están haciendo, pero aún estás confundido. Crees que esto se debe a que todavía estás aprendiendo y pronto te darás..."
         },
         {
-            "type": "Buttons",
-            "name": "Obtener una oportunidad_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "Quedando atrás_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Probablemente no sean lo suficientemente fuertes como para hacerte destacar.",
-                "Te ponen en una buena posición para conseguir una entrevista."
+            "display_delay": 2000,
+            "words": [
+                "adaptarás"
             ],
-            "column_Count": 1,
-            "correct_value": "Te ponen en una buena posición para conseguir una entrevista."
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

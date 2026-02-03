@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Salud Mental",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Yana app\n\nYana ofrece herramientas para mejorar la salud mental, incluyendo afirmaciones personales, técnicas de relajación, un diario para registrar las emociones, y un chat para trabajar en metas o combatir pensamientos intrusivos."
+        }
+    ]
+}

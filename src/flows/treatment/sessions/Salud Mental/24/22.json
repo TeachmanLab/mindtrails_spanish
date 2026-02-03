@@ -1,16 +1,17 @@
 {
-    "header_text": "Opiniones opuestas",
+    "header_text": "Nuevo estilo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Opiniones opuestas"
+            "text": "Vas de compras a tu tienda de ropa favorita. Ves un conjunto que te encanta, pero no crees que sea adecuado para tu tipo de cuerpo. Después de conseguirlo y probártelo, decides comprarlo, aunque no sea algo que suelas..."
         },
         {
-            "type": "Media",
-            "url": "./images/155.jpg"
+            "type": "Entry",
+            "name": "Nuevo estilo_Salud Mental_entry1"
         }
     ],
-    "type": "positive",
-    "scenario_num": 9
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

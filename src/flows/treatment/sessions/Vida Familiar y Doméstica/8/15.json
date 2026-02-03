@@ -1,16 +1,16 @@
 {
-    "header_text": "Reconciliándote con tu amigo",
+    "header_text": "Sonidos por la noche",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Reconciliándote con tu amigo"
+            "text": "Sonidos por la noche"
         },
         {
             "type": "Media",
-            "url": "./images/127.jpg"
+            "url": "./images/171.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 1
 }

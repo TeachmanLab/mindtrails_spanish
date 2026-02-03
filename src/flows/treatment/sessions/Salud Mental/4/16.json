@@ -1,39 +1,25 @@
 {
-    "header_text": "Tus habilidades con los bolos",
+    "header_text": "Cambio de planes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Crees que a medida que sigas jugando a los bolos..."
+            "text": "Decides aceptar una oferta de trabajo en una oficina diferente. Muchos de tus compañeros de trabajo aún no saben acerca de esta decisión, y te preocupa que se sientan decepcionados al respecto. Piensas que estarán felices de que finalmente estás siguiendo tus..."
         },
         {
-            "type": "Buttons",
-            "name": "Tus habilidades con los bolos_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Cambio de planes_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Nunca te convertirás en un buen jugador de bolos.",
-                "Eventualmente te convertirás en un jugador de bolos fuerte."
+            "display_delay": 2000,
+            "words": [
+                "pasiones"
             ],
-            "column_Count": 1,
-            "correct_value": "Eventualmente te convertirás en un jugador de bolos fuerte."
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "¿Por qué estás completando palabras con letras? Al completar repetidamente las letras que faltan para completar palabras positivas, neutrales o negativas, el cerebro adopta patrones de pensamiento flexibles para reducir el pensamiento rígido."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 1
 }

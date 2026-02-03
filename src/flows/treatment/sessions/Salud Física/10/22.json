@@ -1,17 +1,16 @@
 {
-    "header_text": "Exposición reciente",
+    "header_text": "Presentación de clase",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado expuesto recientemente a alguien que dio positivo, pero te hiciste la prueba y no has experimentado ningún síntoma. Tus amigos te invitan a cenar con ellos y te preguntas si deberías ir. Das negativo y decides salir con tus..."
+            "text": "Presentación de clase"
         },
         {
-            "type": "Entry",
-            "name": "Exposición reciente_Salud Física_entry1"
+            "type": "Media",
+            "url": "./images/431.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 3
 }

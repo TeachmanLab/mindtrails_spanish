@@ -1,0 +1,16 @@
+{
+    "header_text": "Personalidades diferentes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Personalidades diferentes"
+        },
+        {
+            "type": "Media",
+            "url": "./images/221.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

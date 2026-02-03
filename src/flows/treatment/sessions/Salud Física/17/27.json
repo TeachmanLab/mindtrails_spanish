@@ -1,29 +1,16 @@
 {
-    "header_text": "Exposure Guilt",
+    "header_text": "Vacaciones reprogramadas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Piensas que tu pareja se quedará enojado con tigo?"
+            "text": "Vacaciones reprogramadas"
         },
         {
-            "type": "Buttons",
-            "name": "Exposure Guilt_Salud Física_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/449.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 4
 }

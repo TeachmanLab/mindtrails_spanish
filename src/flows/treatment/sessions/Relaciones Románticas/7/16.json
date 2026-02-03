@@ -1,39 +1,16 @@
 {
-    "header_text": "Estrés en tu relación",
+    "header_text": "Afecto desigual",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Pensando en tu futuro con tu pareja, te imaginas..."
+            "text": "Afecto desigual"
         },
         {
-            "type": "Buttons",
-            "name": "Estrés en tu relación_Relaciones Románticas_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Principalmente cooperando.",
-                "Discutiendo más."
-            ],
-            "column_Count": 1,
-            "correct_value": "Discutiendo más."
+            "type": "Media",
+            "url": "./images/216.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Cada pequeño cambio de perspectiva conduce a cambios mayores con el tiempo. Continúe: ¡estás entrenando tu cerebro para pensar de manera más equilibrada y útil!"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "type": "positive",
+    "scenario_num": 1
 }

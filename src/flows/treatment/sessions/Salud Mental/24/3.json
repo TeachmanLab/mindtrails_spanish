@@ -1,17 +1,15 @@
 {
-    "header_text": "Aplicando a trabajos",
+    "header_text": "Ejercicio de limón",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Aplicaste a un trabajo hace algunas semanas y acabas de recibir una respuesta. Te dicen que ya llenaron el puesto y sientes que no eres lo suficientemente inteligente. Aun así, crees que en el futuro conseguirás un..."
+            "text": "Realmente trate de imaginarse a sí mismo en las situaciones que se avecinan de la manera más vívida posible."
         },
         {
-            "type": "Entry",
-            "name": "Aplicando a trabajos_Salud Mental_entry1"
+            "type": "Media",
+            "url": "./images/lemon3.jpg",
+            "border": false
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 0
+    ]
 }

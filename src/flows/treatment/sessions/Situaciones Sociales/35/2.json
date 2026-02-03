@@ -1,16 +1,10 @@
 {
-    "header_text": "Saludando gente en bibliotecas",
+    "header_text": "Recordatorio de favoritos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Saludando gente en bibliotecas"
-        },
-        {
-            "type": "Media",
-            "url": "./images/260.jpg"
+            "text": "Recuerde que puede agregar historias, consejos y recursos a sus Favoritos haciendo clic en la estrella en la esquina superior derecha de la pantalla."
         }
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 0
+    ]
 }

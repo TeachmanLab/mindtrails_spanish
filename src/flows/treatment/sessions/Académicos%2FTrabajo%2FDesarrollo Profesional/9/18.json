@@ -1,16 +1,16 @@
 {
-    "header_text": "No invitado a cenar",
+    "header_text": "Breve introducción",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "No invitado a cenar"
+            "text": "Breve introducción"
         },
         {
             "type": "Media",
-            "url": "./images/15.jpg"
+            "url": "./images/66.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 7
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

@@ -1,16 +1,25 @@
 {
-    "header_text": "Confrontación de COVID",
+    "header_text": "Demasiada atención",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Confrontación de COVID"
+            "text": "Es tu cumpleaños y cuando llega la hora del pastel, la gente se reúne a tu alrededor y empiezan a cantar. Sientes que tu corazón empieza a latir más rápido y comienzas a sudar. Tus amigos y familiares no se darán..."
         },
         {
-            "type": "Media",
-            "url": "./images/89.jpg"
+            "type": "WordPuzzle",
+            "name": "Demasiada atención_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "cuenta"
+            ],
+            "missing_letter_count": 2
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 5
 }

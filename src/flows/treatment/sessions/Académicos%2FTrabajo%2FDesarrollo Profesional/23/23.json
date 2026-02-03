@@ -1,17 +1,17 @@
 {
-    "header_text": "Mostrar tu experiencia",
+    "header_text": "Comprometerse con las actividades",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu supervisor llama una reunión relacionada a una nueva iniciativa y pide a cada asistente que presente sus ideas y experiencia previa. Cuando es tu turno de hablar, haces pausas con frecuencia. Al reflexionar sobre la reunión más tarde en el día, sientes que el supervisor pensó que sonabas... "
+            "text": "Estabas muy emocionado de regresar a la instrucción en persona y decidiste comprometerte con muchas actividades. Esto te ha resultado difícil de cumplir con todas tus responsabilidades y te preocupas que estes fallando en..."
         },
         {
             "type": "Entry",
-            "name": "Mostrar tu experiencia_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Comprometerse con las actividades_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 9
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

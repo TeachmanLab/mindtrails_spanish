@@ -1,29 +1,25 @@
 {
-    "header_text": "Clima lluvioso",
+    "header_text": "Resultados de la evaluación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿La tristeza de hoy va a durar para siempre?"
+            "text": "El tiempo para las evaluaciones de desempeño acaba de cerrar y no estás seguro de si saliste bien o no. Te sientes nervioso al pensar en cómo te calificaron otras personas. Piensas que estar nervioso es..."
         },
         {
-            "type": "Buttons",
-            "name": "Clima lluvioso_Salud Mental_comp_question",
+            "type": "WordPuzzle",
+            "name": "Resultados de la evaluación_Salud Mental_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "manejable"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 5
 }

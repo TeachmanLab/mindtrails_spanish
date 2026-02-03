@@ -1,17 +1,16 @@
 {
-    "header_text": "Tu propio estilo",
+    "header_text": "sintiéndote ansioso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hiciste planes con un grupo de amigos para salir a cenar un viernes por la noche. Cuando vienen a recogerte, ves que están vestidos de manera informal, pero tú decidiste disfrazarte un poco y crees que podrían juzgarte. Decides que te gusta lo que llevas puesto y vas a cenar..."
+            "text": "sintiéndote ansioso"
         },
         {
-            "type": "Entry",
-            "name": "Tu propio estilo_Salud Mental_entry1"
+            "type": "Media",
+            "url": "./images/11.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 4
 }

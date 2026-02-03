@@ -1,25 +1,25 @@
 {
-    "header_text": "Quemadura",
+    "header_text": "en un barco",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras preparas la cena, accidentalmente tocas un sartén muy caliente. Rápidamente pones tu dedo bajo agua fría y ves que tu piel se está poniendo roja. Después de unos minutos, piensas que la quemadura es..."
+            "text": "La sensación en tus piernas probablemente....."
         },
         {
             "type": "WordPuzzle",
-            "name": "Quemadura_Salud Física_puzzle1",
+            "name": "en un barco_Salud Física_puzzle_word2",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "leve"
+                "es"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 1
 }

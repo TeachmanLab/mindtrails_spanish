@@ -1,29 +1,18 @@
 {
-    "header_text": "Manejando el estrés",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Puedes manejar tus síntomas de ansiedad mientras haces tu presentación?"
-        },
-        {
-            "type": "Buttons",
-            "name": "Manejando el estrés_Situaciones Sociales_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "text": "En este ejercicio, piensa en una PRÓXIMA situación que esperes que te haga sentir ansioso, preocupado o asustado. Elige una situación que te preocupe, que pueda salir mal o que esperes que provoque síntomas relacionados con la ansiedad (p. ej., palpitaciones, sudoración). Cualquier situación que te haga sentir bastante ansioso o asustado funcionará, siempre y cuando sea una situación que sea probable que realmente suceda."
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 0
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

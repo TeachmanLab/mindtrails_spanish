@@ -1,16 +1,16 @@
 {
-    "header_text": "Permitirse la educación",
+    "header_text": "Saludable pero caro",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Permitirse la educación"
+            "text": "Saludable pero caro"
         },
         {
             "type": "Media",
-            "url": "./images/158.jpg"
+            "url": "./images/299.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 0
 }

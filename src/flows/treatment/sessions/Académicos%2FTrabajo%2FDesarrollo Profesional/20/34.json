@@ -1,0 +1,16 @@
+{
+    "header_text": "Primeras impresiones",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Primeras impresiones"
+        },
+        {
+            "type": "Media",
+            "url": "./images/111.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

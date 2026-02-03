@@ -1,29 +1,25 @@
 {
-    "header_text": "Tu Currículum",
+    "header_text": "Presentación de recaudación de fondos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Crees que tu currículum podría..."
+            "text": "Te ponen a cargo de los esfuerzos de recaudación de fondos de tu oficina y rápidamente te das cuenta de que a tus compañeros de trabajo no les interesa mucho la recaudación de fondos. En una reunión, das una presentación sobre la importancia de ayudar con la recaudación de fondos, durante la cual tus compañeros de trabajo permanecen callados. Cuando te sientas después de tu presentación, piensas que parecían..."
         },
         {
-            "type": "Buttons",
-            "name": "Tu Currículum_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "Presentación de recaudación de fondos_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Ser un factor importante en una oferta de trabajo eventualmente.",
-                "Ser la razón principal por la que no recibas respuesta de este empleador."
+            "display_delay": 2000,
+            "words": [
+                "emocionados"
             ],
-            "column_Count": 1,
-            "correct_value": "Ser la razón principal por la que no recibas respuesta de este empleador."
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 3
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
 }

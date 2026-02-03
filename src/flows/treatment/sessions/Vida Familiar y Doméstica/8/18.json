@@ -1,17 +1,17 @@
 {
-    "header_text": "Salud y envejecimiento",
+    "header_text": "Consejos de padres",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Visitas a un amigo de la infancia durante las vacaciones y notas que está envejeciendo. Te preguntas cómo será su salud en el futuro. Crees que su salud probablemente será..."
+            "text": "Decides visitar a tu familia en un fin de semana largo. Al hablar con tus padres, te dan un consejo con el que no estás de acuerdo, pero temes expresar tu opinión y decir algo. Piensas que si les dices que no estás de acuerdo, se sentirán decepcionados..."
         },
         {
             "type": "Entry",
-            "name": "Salud y envejecimiento_Vida Familiar y Doméstica_entry1"
+            "name": "Consejos de padres_Vida Familiar y Doméstica_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 7
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

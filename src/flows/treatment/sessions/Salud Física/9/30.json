@@ -1,0 +1,17 @@
+{
+    "header_text": "Yendo a dormir",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estás acostado en tu cama, a punto de dormir. Comienzas a sentir una pesadez en el pecho mientras intentas dormir. Piensas en esta presión y te sientes..."
+        },
+        {
+            "type": "Entry",
+            "name": "Yendo a dormir_Salud Física_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 7
+}

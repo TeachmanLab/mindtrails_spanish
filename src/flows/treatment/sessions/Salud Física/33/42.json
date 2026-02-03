@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Planned Parenthood\n\nBrinda atención a la salud reproductiva, la educación sexual, y proporciona información a adultos y jóvenes."
+        }
+    ]
+}

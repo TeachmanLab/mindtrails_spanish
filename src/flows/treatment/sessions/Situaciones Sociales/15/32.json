@@ -1,16 +1,25 @@
 {
-    "header_text": "Tiempo para ti mismo",
+    "header_text": "El torneo de fútbol",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tiempo para ti mismo"
+            "text": "Crees que no defraudarás a tus compañeros y contribuirás al éxito del..."
         },
         {
-            "type": "Media",
-            "url": "./images/149.jpg"
+            "type": "WordPuzzle",
+            "name": "El torneo de fútbol_Situaciones Sociales_puzzle_word2",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "equipo"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "positive",
-    "scenario_num": 9
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 5
 }

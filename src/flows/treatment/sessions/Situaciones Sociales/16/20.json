@@ -1,0 +1,25 @@
+{
+    "header_text": "Amigo ruidoso: Sentimientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tu auto se descompuso y un amigo te va a dejar en una reunión. Cuando te deja, hace mucho ruido y todos los que están allí te miran. \n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Estoy realmente avergonzado, pero me recuerdo a mí mismo que puedo tolerar estos sentimientos y que pasarán rápidamente.",
+                "Estoy feliz de tener amigos que están dispuestos a ayudarme.",
+                "Estoy lleno de energía porque esta reunión suele ser interesante.",
+                "Me siento enojado con mi amigo pero me recuerdo a mí mismo que me está haciendo un favor.",
+                "Me avergüenza que mi amigo sea tan ruidoso."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

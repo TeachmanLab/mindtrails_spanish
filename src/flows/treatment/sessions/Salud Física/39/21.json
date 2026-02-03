@@ -1,17 +1,16 @@
 {
-    "header_text": "Te sientes maread﻿o / Sintiéndote mareado",
+    "header_text": "Recuperando el aliento",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en una fiesta y comienzas a bailar con tus amigos. Empiezas a sentirte mareado cuando el ritmo se acelera. Piensas que esta sensación es una señal de..."
+            "text": "Recuperando el aliento"
         },
         {
-            "type": "Entry",
-            "name": "Te sientes maread﻿o / Sintiéndote mareado_Salud Física_entry1"
+            "type": "Media",
+            "url": "./images/410.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 3
 }

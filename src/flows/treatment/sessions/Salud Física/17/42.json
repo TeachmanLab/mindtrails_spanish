@@ -1,0 +1,16 @@
+{
+    "header_text": "Comunicación tardía",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Comunicación tardía"
+        },
+        {
+            "type": "Media",
+            "url": "./images/453.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

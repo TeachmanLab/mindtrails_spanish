@@ -1,25 +1,29 @@
 {
-    "header_text": "Citas en línea",
+    "header_text": "Preocupaciones por las relaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo te ha convencido a inscribirte en un sitio de citas en línea. Revisas tu perfil y aunque crees que refleja muy bien quién eres, te preocupa si muestra los tipos de cualidades que la gente busca en línea. Pensando en tus posibilidades de encontrar a alguien en línea, crees que tus posibilidades de conocer a alguien pronto son... "
+            "text": "Cuando piensas en el futuro lejano, puedes verte a ti mismo"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Citas en línea_Relaciones Románticas_puzzle1",
+            "type": "Buttons",
+            "name": "Preocupaciones por las relaciones_Relaciones Románticas_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "altas"
+            "buttons": [
+                "Disfrutando de tus años dorados con tu pareja.",
+                "Lamentando que tu pareja y tú no hayan podido hacer que las cosas funcionen."
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Lamentando que tu pareja y tú no hayan podido hacer que las cosas funcionen."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 7
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 3
 }

@@ -1,0 +1,10 @@
+{
+    "header_text": "Maneja tus sentimientos: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recuerda que investigar tus síntomas de salud en Internet a menudo puede provocar una espiral de ansiedad. Intenta preguntarle a un amigo cercano si puedes confiarle cómo te sientes."
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Costos inesperados",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Has estado alquilando tu casa. Sientes que ya es hora de comprar una casa ahora que tienes un trabajo estable, pero te preocupan los costos inesperados. Considerando la posibilidad de comprar, crees que estos costos serán..."
+        },
+        {
+            "type": "Entry",
+            "name": "Costos inesperados_Finanzas_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
+}

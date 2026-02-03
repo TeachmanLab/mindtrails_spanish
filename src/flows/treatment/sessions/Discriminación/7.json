@@ -1,15 +1,15 @@
 {
-    "header_text": "Comunidad",
+    "header_text": "Cuidados Personales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "<strong>Womens Initiative:</strong> Aqui are various recursos para la commnidad en Charlottesville <a href=\"https://thewomensinitiative.org/recursos-de-la-comunidad\">https://thewomensinitiative.org/recursos-de-la-comunidad</a><br><br>",
+            "text": "<strong>Salud Mental:</strong> Este conjunto de herramientas incluye recursos sobre cómo mejorar el bienestar mental para ti y tu familia, recursos educativos para aprender más sobre salud mental y organizaciones locales y nacionales para buscar ayuda. <a href=\"https://wecanatx.org/sanacion/\">https://wecanatx.org/sanacion/</a><br><br>",
             "html": true
         }
     ],
     "condition": [
-        "Comunidad",
+        "Cuidados Personales",
         "in",
         "Selected_Support"
     ]

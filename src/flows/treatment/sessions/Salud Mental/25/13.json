@@ -1,17 +1,12 @@
 {
-    "header_text": "Darte a conocer",
+    "header_text": "Instrucciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vas a almorzar con un amigo nuevo. Tú y tu amigo tuvieron una conversación muy buena y te hicieron algunas preguntas que te hacen sentir vulnerable. Si llegan a conocer tu \"verdadero yo\", crees que te van a..."
-        },
-        {
-            "type": "Entry",
-            "name": "Darte a conocer_Salud Mental_entry1"
+            "text": "Las historias que estás a punto de ver son un poco diferentes a las que has vistovisto antes. En lugar de completar las letras que faltan para completar la palabra final,Vamos a desafiarte a generar tu propia última palabra que completarála historia. Tu objetivo es pensar en una palabra que terminará la historia en un nota positiva. El final no tiene por qué ser tan positivo como para no serloParece posible, pero queremos que imagines que estás manejando bien la situación."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 4
+    "type": "positive",
+    "scenario_num": 0
 }

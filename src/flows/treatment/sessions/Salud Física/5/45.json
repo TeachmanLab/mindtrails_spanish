@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "BecomeAnEX (ES)\n\nBecomeAnEX te brinda orientación y apoyo comunitario para dejar la nicotina, incluyendo el fumar, vapear, o masticar tabaco."
+        }
+    ]
+}

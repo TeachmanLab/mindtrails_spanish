@@ -1,16 +1,16 @@
 {
-    "header_text": "Desconectandote",
+    "header_text": "Gestión de múltiples posiciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Desconectandote"
+            "text": "Gestión de múltiples posiciones"
         },
         {
             "type": "Media",
-            "url": "./images/78.jpg"
+            "url": "./images/74.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 7
+    "type": "negative",
+    "scenario_num": 2
 }

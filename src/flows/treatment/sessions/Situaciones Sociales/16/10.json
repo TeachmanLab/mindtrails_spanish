@@ -1,10 +1,31 @@
 {
-    "header_text": "Amigo ruidoso:  Escribe Alguno Sentimientos",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¡Ahora tu intenta! ¿Cuáles son algunos de los sentimientos que podrías tener en este momento? Estos no tienen por qué ser solo sentimientos que haya tenido en el pasado o sentimientos negativos que supone que tendrá en el momento. Piense creativamente en los sentimientos positivos y negativos que puedan surgir como reacción a la situación. Si escribe un sentimiento negativo, intente escribir también cómo podría afrontarlo. \n\nEn la página siguiente, tómate 30 segundos para escribir tantos sentimientos diferentes que puedas imaginar tener en esta situación. Puedes ser tan creativo como tu quieras. Si escribes algún sentimiento negativo (como miedo o ansiedad), intenta escribir también cómo podrías ayudarte a sentirte mejor en ese momento.\n\nPresiona regresar después de cada sentimiento para escribir uno nuevo en cada línea."
+            "text": "¿Qué probabilidades hay de que la situación o tarea salga bien o mal?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Es muy probable que salga bien",
+                "Es algo probable que salga bien",
+                "Neutral",
+                "Es algo probable que salga mal",
+                "Es muy probable que salga mal",
+                "Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "imagery_well"
         }
+    ],
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
     ]
 }

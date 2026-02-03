@@ -1,25 +1,29 @@
 {
-    "header_text": "Montar a caballo durante el fin de semana",
+    "header_text": "Hora para dormir",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vas a montar a caballo durante el fin de semana. Cuando llegas, el instructor te da un caballo grande para montar. Pronto, el caballo comienza a correr rápidamente y te sientes..."
+            "text": "La reducción de tu ritmo cardíaco y respiración probablemente significa..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Montar a caballo durante el fin de semana_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Hora para dormir_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "emocionado"
+            "buttons": [
+                "Tu cuerpo necesita descansar después de un largo día de trabajo.",
+                "No estás recibiendo suficiente oxígeno y te desmayarás."
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Tu cuerpo necesita descansar después de un largo día de trabajo."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 2
 }

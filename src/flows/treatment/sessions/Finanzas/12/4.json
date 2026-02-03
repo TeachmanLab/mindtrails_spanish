@@ -1,12 +1,18 @@
 {
-    "header_text": "¡Escribe el tuyo!",
-    "header_icon": [
-        "assets/subtitle.png"
-    ],
+    "header_text": "Imágenes ansiosas principales",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿No estás seguro de qué escribir? A continuación tienes un ejemplo:\n\nParte 1:\nLe envío un mensaje de correo electrónico a un amigo pidiéndole que tome un café, pero nunca responde. Me pregunto si está enojado conmigo.\n\nParte 2:\nRecordando la última vez que me reuní con este amigo, recuerdo que no revisa el correo electrónico con frecuencia y me siento... aliviado.\n\nObserva que el La afirmación \"Me pregunto si está enojado conmigo\" crea incertidumbre, pero la oración final resuelve esto de una manera no amenazante.\n\n¡Ahora es tu turno de probarlo!"
+            "text": "En este ejercicio, piensa en una PRÓXIMA situación que esperes que te haga sentir ansioso, preocupado o asustado. Elige una situación que te preocupe, que pueda salir mal o que esperes que provoque síntomas relacionados con la ansiedad (p. ej., palpitaciones, sudoración). Cualquier situación que te haga sentir bastante ansioso o asustado funcionará, siempre y cuando sea una situación que sea probable que realmente suceda."
         }
+    ],
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
     ]
 }

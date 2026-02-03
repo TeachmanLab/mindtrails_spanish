@@ -1,25 +1,25 @@
 {
-    "header_text": "Entrega Responsable",
+    "header_text": "Corriendo con un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Uno de tus amigos cercanos da positivo en la prueba de COVID y te pide que le lleves comida. No quieres exponerte estando cerca de su hogar, pero también quieres ayudar. Encuentras una manera de entregar la comida y mantener tu..."
+            "text": "Tienes planeado correr mañana con un amigo que corre todos los días. No has corrido en bastante tiempo y te preocupa si podrás mantener el ritmo o no. Crees que las posibilidades de que puedas seguir el ritmo de tu amigo son..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Entrega Responsable_Salud Física_puzzle1",
+            "name": "Corriendo con un amigo_Salud Física_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "distancia"
+                "altas"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

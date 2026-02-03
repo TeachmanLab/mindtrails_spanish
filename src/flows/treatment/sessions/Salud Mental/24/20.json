@@ -1,16 +1,17 @@
 {
-    "header_text": "Puerta cerrada",
+    "header_text": "Usando tecnología diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Puerta cerrada"
+            "text": "Recientemente reemplazaste tu computadora portátil y tuviste que elegir una opción más económica. Ahora, tu jefe te ha pedido que completes un proyecto que necesita una aplicación que tu nueva computadora no tiene. Aun así, cuando piensas en el trabajo, te sientes capaz de..."
         },
         {
-            "type": "Media",
-            "url": "./images/6.jpg"
+            "type": "Entry",
+            "name": "Usando tecnología diferente_Salud Mental_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 3
 }

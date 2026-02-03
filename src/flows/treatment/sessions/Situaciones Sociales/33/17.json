@@ -1,25 +1,29 @@
 {
-    "header_text": "Taller de escritura",
+    "header_text": "Reunión de mañana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Un compañero de trabajo sugiere que tu equipo participe en un taller sobre escritura para el lugar de trabajo. Lees información en línea sobre el taller. Mientras navegas el sitio, la idea de otras personas que leen tu escritura te hace sentir... "
+            "text": "¿Tus colegas te juzgan negativamente?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Taller de escritura_Situaciones Sociales_puzzle1",
+            "type": "Buttons",
+            "name": "Reunión de mañana_Situaciones Sociales_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "entusiasmo"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 5
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

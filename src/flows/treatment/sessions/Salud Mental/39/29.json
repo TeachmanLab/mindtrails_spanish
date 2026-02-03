@@ -1,0 +1,16 @@
+{
+    "header_text": "Tus habilidades con los bolos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tus habilidades con los bolos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/322.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 7
+}

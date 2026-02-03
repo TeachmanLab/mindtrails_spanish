@@ -1,0 +1,25 @@
+{
+    "header_text": "Marcado en una foto: Comportamientos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tú y tus amigos tomaron algunas fotografías juntos. El día siguiente, recibes una notificación de que te etiquetaron en una publicación en las redes sociales. No te gusta cómo te ves en la foto.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Llamo a mi amigo y le grito.",
+                "Empiezo a borrar todas las fotos en las que no me veo bien, pero dejo de hacerlo porque conservar los recuerdos es más importante.",
+                "Comento en la foto lo bien que nos lo pasamos.",
+                "Me gusta la publicación.",
+                "Quiero que elimine la foto, pero decido dejar que mi amigo siga así."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

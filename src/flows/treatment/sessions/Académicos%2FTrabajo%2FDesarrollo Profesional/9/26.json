@@ -1,0 +1,17 @@
+{
+    "header_text": "Usando tecnología diferente",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recientemente reemplazaste tu computadora portátil y tuviste que optar por una opción más económica. Tu jefe te pide que completes un proyecto que requiere una aplicación que tu nueva computadora no tiene. Cuando piensas en completar tu trabajo para este proyecto, te sientes..."
+        },
+        {
+            "type": "Entry",
+            "name": "Usando tecnología diferente_Académicos/Trabajo/Desarrollo Profesional_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
+}

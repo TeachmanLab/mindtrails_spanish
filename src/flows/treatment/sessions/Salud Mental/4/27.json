@@ -4,22 +4,36 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Llevas varios años jugando a los bolos en una liga recreativa con algunos amigos. Has mejorado desde que empezaste, pero aún no eres tan hábil como te gustaría..."
+            "text": "Crees que a medida que sigas jugando a los bolos..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Tus habilidades con los bolos_Salud Mental_puzzle1",
+            "type": "Buttons",
+            "name": "Tus habilidades con los bolos_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "ser"
+            "buttons": [
+                "Nunca te convertirás en un buen jugador de bolos.",
+                "Eventualmente te convertirás en un jugador de bolos fuerte."
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Eventualmente te convertirás en un jugador de bolos fuerte."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 8
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "¿Por qué estás completando palabras con letras? Al completar repetidamente las letras que faltan para completar palabras positivas, neutrales o negativas, el cerebro adopta patrones de pensamiento flexibles para reducir el pensamiento rígido."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

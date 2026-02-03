@@ -1,39 +1,25 @@
 {
-    "header_text": "Trabajando para salir adelante",
+    "header_text": "Tomarse tu tiempo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas que eres..."
+            "text": "Tu jefe te llama para que respondas a una pregunta sobre la presentación que acabas de hacer. No sabes qué decir y tu mente se queda en blanco. Después de unos momentos, preparas tu respuesta y te sientes... "
         },
         {
-            "type": "Buttons",
-            "name": "Trabajando para salir adelante_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "Tomarse tu tiempo_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Capaz de hacer el trabajao neccesario para obtener el trabajor que quieres.",
-                "Incapaz de obtener la posición que quieres."
+            "display_delay": 2000,
+            "words": [
+                "bien"
             ],
-            "column_Count": 1,
-            "correct_value": "Capaz de hacer el trabajao neccesario para obtener el trabajor que quieres."
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "MindTrails te brinda el coraje para enfrentar situaciones inciertas, brindándote la confianza para abordarlas en la vida real."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 1
 }

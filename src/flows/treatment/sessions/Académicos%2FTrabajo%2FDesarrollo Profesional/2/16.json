@@ -1,30 +1,25 @@
 {
-    "header_text": "Certidumbre de estar en lo correcto",
+    "header_text": "Terminando el trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te sientes inseguro acerca de tu respuesta?"
+            "text": "Tienes un proyecto que entregar en el trabajo la próxima semana. Aún no lo has comenzado porque no estás seguro de cuál es la mejor manera de completarlo. Cuando piensas en completar el proyecto a tiempo, te sientes..."
         },
         {
-            "type": "Buttons",
-            "name": "Certidumbre de estar en lo correcto_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "type": "WordPuzzle",
+            "name": "Terminando el trabajo_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "seguro"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4,
-    "information": null
+    "scenario_num": 1
 }

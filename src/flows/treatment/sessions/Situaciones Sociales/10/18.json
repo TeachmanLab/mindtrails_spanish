@@ -1,16 +1,16 @@
 {
-    "header_text": "Encontrarte con un viejo conocido",
+    "header_text": "Nuevo atuendo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Encontrarte con un viejo conocido"
+            "text": "Nuevo atuendo"
         },
         {
             "type": "Media",
-            "url": "./images/487.jpg"
+            "url": "./images/497.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 2
 }

@@ -1,16 +1,17 @@
 {
-    "header_text": "Subiendo escaleras",
+    "header_text": "Ruido repentino",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Subiendo escaleras"
+            "text": "Al notar estos pensamientos, decides que podrás afrontar la situación, así que sigues..."
         },
         {
-            "type": "Media",
-            "url": "./images/419.jpg"
+            "type": "Entry",
+            "name": "Ruido repentino_Salud Física_entry2"
         }
     ],
-    "type": "positive",
-    "scenario_num": 7
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

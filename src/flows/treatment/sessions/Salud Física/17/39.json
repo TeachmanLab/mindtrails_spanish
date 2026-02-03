@@ -1,0 +1,16 @@
+{
+    "header_text": "Vecino sin mascarilla",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Vecino sin mascarilla"
+        },
+        {
+            "type": "Media",
+            "url": "./images/452.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

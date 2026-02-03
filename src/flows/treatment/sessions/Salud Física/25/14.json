@@ -1,16 +1,16 @@
 {
-    "header_text": "Un golpe accidental",
+    "header_text": "El dolor de muelas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Un golpe accidental"
+            "text": "El dolor de muelas"
         },
         {
             "type": "Media",
-            "url": "./images/405.jpg"
+            "url": "./images/413.jpg"
         }
     ],
-    "type": "negative",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 0
 }

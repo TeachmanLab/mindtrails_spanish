@@ -1,16 +1,27 @@
 {
-    "header_text": "Visitar a un nuevo amigo",
+    "header_text": "Iniciando un negocio pequeño",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Visitar a un nuevo amigo"
+            "text": "Estás considerando dejar tu trabajo para comenzar tu propio pequeño negocio y estás listo para trabajar duro. Estás emocionado, pero también sabes que muchos nuevos emprendimientos pueden fracasar. Pensando en el futuro de tu negocio, será..."
         },
         {
-            "type": "Media",
-            "url": "./images/259.jpg"
+            "type": "Entry",
+            "name": "Iniciando un negocio pequeño_Finanzas_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "MindTrails te brinda el coraje para enfrentar situaciones inciertas, brindándote la confianza para abordarlas en la vida real."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

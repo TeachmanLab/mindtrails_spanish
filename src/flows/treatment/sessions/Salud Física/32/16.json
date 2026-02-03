@@ -1,16 +1,16 @@
 {
-    "header_text": "Dolor de cabeza en la oficina médica",
+    "header_text": "Subiendo una montaña",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Dolor de cabeza en la oficina médica"
+            "text": "Subiendo una montaña"
         },
         {
             "type": "Media",
-            "url": "./images/442.jpg"
+            "url": "./images/430.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 4
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

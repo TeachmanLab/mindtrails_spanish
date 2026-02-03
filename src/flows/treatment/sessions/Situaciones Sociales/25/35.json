@@ -1,0 +1,17 @@
+{
+    "header_text": "Sintiéndote ansioso",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Estos últimos meses, te has sentido muy ansioso y no has podido disfrutar de tu vida sin preocuparte. Te preguntas qué pensarían las personas en tu vida si buscas ayuda. Piensas que te considerarían..."
+        },
+        {
+            "type": "Entry",
+            "name": "Sintiéndote ansioso_Situaciones Sociales_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
+}

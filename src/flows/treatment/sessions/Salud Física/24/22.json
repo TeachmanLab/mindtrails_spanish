@@ -1,16 +1,17 @@
 {
-    "header_text": "Fiesta sensacional",
+    "header_text": "Poniéndose al día con los amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Fiesta sensacional"
+            "text": "Ves a tus amigos al otro lado de la calle y corres hacia ellos. Te sientes un poco desorientado y mareado al llegar a ellos. Consideras lo que esto significa y te das cuenta de que probablemente signifique que corriste..."
         },
         {
-            "type": "Media",
-            "url": "./images/409.jpg"
+            "type": "Entry",
+            "name": "Poniéndose al día con los amigos_Salud Física_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 3
 }

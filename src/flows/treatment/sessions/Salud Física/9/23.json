@@ -1,17 +1,16 @@
 {
-    "header_text": "Sudando a través de tu camisa",
+    "header_text": "Poniéndose al día con los amigos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Usas una camisa para ir a la escuela que te queda ajustada alrededor de las axilas. A mitad del día notas que tienes marcas de sudor. Después de pensarlo, te das cuenta de que sudar a lo largo del día es..."
+            "text": "Poniéndose al día con los amigos"
         },
         {
-            "type": "Entry",
-            "name": "Sudando a través de tu camisa_Salud Física_entry1"
+            "type": "Media",
+            "url": "./images/424.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 4
 }

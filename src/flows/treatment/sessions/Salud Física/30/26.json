@@ -1,25 +1,29 @@
 {
-    "header_text": "Subiendo escaleras",
+    "header_text": "Funciones normales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "El ascensor de tu edificio está roto otra vez y tienes que subir varias plantas por las escaleras para llegar a donde necesitas ir. Sientes que tu pecho se aprieta y te quedas sin aliento al llegar al último escalón. Te sientes..."
+            "text": "¿Tus piernas inestables son una señal de que no te estás mal?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Subiendo escaleras_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Funciones normales_Salud Física_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "vigorizado"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 3
 }

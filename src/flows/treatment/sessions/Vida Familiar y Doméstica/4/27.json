@@ -1,16 +1,39 @@
 {
-    "header_text": "Haciendo una buena impresión",
+    "header_text": "Tu primer hijo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Haciendo una buena impresión"
+            "text": "Crees que hay muchas posibilidades de que cuando tu hijo sea adulto..."
         },
         {
-            "type": "Media",
-            "url": "./images/154.jpg"
+            "type": "Buttons",
+            "name": "Tu primer hijo_Vida Familiar y Doméstica_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Ustedes dos hablarán regularmente.",
+                "Ustedes dos casi nunca se verán"
+            ],
+            "column_Count": 1,
+            "correct_value": "Ustedes dos casi nunca se verán"
         }
     ],
-    "type": "positive",
-    "scenario_num": 8
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "¿Por qué estás completando palabras con letras? Al completar repetidamente las letras que faltan para completar palabras positivas, neutrales o negativas, el cerebro adopta patrones de pensamiento flexibles para reducir el pensamiento rígido."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

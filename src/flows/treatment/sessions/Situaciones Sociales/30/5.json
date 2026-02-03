@@ -1,16 +1,22 @@
 {
-    "header_text": "Presentación estresante",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Presentación estresante"
+            "text": "Describe la situación en pocas palabras:"
         },
         {
-            "type": "Media",
-            "url": "./images/28.jpg"
+            "type": "Entry",
+            "name": "entry_anxious_imagery"
         }
     ],
-    "type": "positive",
-    "scenario_num": 1
+    "condition": [
+        "StressLevel",
+        "in",
+        [
+            6,
+            7
+        ]
+    ]
 }

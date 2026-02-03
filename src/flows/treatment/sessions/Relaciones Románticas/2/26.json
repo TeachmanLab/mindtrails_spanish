@@ -1,30 +1,25 @@
 {
-    "header_text": "Relación a distancia",
+    "header_text": "Salud Mental",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Relación a distancia"
+            "text": "Recientemente, tu pareja ha estado luchando con su salud mental. Quieres ayudar, pero no sabes cómo. Decides investigar posibles recursos que puedas compartir para..."
         },
         {
-            "type": "Media",
-            "url": "./images/158.jpg"
+            "type": "WordPuzzle",
+            "name": "Salud Mental_Relaciones Románticas_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "apoyarlos"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 8,
-    "information": {
-        "elements": [
-            {
-                "type": "media",
-                "url": "./images/601.jpg"
-            },
-            {
-                "type": "text",
-                "text": "Un consejo: recuerda, cuando te sientas ansioso la sensación no durará para siempre."
-            }
-        ],
-        "position": "before",
-        "information_count": 1
-    }
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
 }

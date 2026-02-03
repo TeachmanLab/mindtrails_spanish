@@ -1,0 +1,16 @@
+{
+    "header_text": "Atascado en el medio",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Atascado en el medio"
+        },
+        {
+            "type": "Media",
+            "url": "./images/135.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

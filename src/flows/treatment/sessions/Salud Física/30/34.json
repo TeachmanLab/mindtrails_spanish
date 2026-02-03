@@ -1,10 +1,25 @@
 {
-    "header_text": "Recurso: Salud Física",
+    "header_text": "Dolor de estómago",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tratamiento para un trastorno de la alimentación: infórmate sobre tus opciones\n\nEsta página comparte información acerca de los trastornos alimenticios y los tipos de tratamientos disponibles. Ofrece pasos a seguir para comenzar a buscar apoyo y crear un plan de recuperación."
+            "text": "Has estado nervioso por una próxima evaluación en el trabajo. El día de la evaluación, notas que te duele el estómago. Piensas que el dolor probablemente se deba a la..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Dolor de estómago_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "ansiedad"
+            ],
+            "missing_letter_count": 1
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 6
 }

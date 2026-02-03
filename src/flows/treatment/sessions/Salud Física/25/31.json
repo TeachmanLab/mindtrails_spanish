@@ -1,0 +1,16 @@
+{
+    "header_text": "Agarrando el ritmo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Agarrando el ritmo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/427.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

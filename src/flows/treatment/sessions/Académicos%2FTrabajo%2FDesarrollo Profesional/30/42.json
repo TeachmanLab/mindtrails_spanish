@@ -1,0 +1,16 @@
+{
+    "header_text": "Usando tecnología diferente",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Usando tecnología diferente"
+        },
+        {
+            "type": "Media",
+            "url": "./images/69.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

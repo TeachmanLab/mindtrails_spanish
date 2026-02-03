@@ -1,0 +1,16 @@
+{
+    "header_text": "Ruidos del exterior",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Ruidos del exterior"
+        },
+        {
+            "type": "Media",
+            "url": "./images/145.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

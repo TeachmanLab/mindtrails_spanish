@@ -1,0 +1,16 @@
+{
+    "header_text": "Compartir redes sociales con un nuevo amigo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Compartir redes sociales con un nuevo amigo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/197.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

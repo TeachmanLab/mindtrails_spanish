@@ -1,29 +1,25 @@
 {
-    "header_text": "Expresar tus sentimientos",
+    "header_text": "Sintiéndote abandonado por un amigo cercano",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tu pareja estaba enojada contigo por expresar tu preocupación?"
+            "text": "Mientras te desplazas por tus redes sociales, ves que tu mejor amigo está con alguien que no conoces. Te preguntas quién es esta persona y por qué no has oído tu amigo hablar de ella. Cuando piensas en tu amistad con este amigo, te sientes..."
         },
         {
-            "type": "Buttons",
-            "name": "Expresar tus sentimientos_Situaciones Sociales_comp_question",
+            "type": "WordPuzzle",
+            "name": "Sintiéndote abandonado por un amigo cercano_Situaciones Sociales_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "preocupado"
             ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 7
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 4
 }

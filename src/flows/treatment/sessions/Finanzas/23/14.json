@@ -1,17 +1,17 @@
 {
-    "header_text": "Permitirse la educación",
+    "header_text": "Saludable pero caro",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus hijos están pensando en ir a la universidad, pero piensas que tendrías que pedir un préstamo para ayudarlos a ir. Recuerdas historias que has escuchado de personas que todavía estaban pagando sus préstamos incluso después de... "
+            "text": "Quieres empezar a comer de forma más saludable, por eso empiezas a buscar consejos y recetas en línea. Rápidamente te das cuenta de que muchos alimentos recomendados por expertos en salud cuestan mucho dinero. Cuando piensas en comer más sano con un presupuesto limitado, crees que puedes tener..."
         },
         {
             "type": "Entry",
-            "name": "Permitirse la educación_Finanzas_entry1"
+            "name": "Saludable pero caro_Finanzas_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 0
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Una nueva relación",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Una nueva relación"
+        },
+        {
+            "type": "Media",
+            "url": "./images/193.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 8
+}

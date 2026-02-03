@@ -1,29 +1,25 @@
 {
-    "header_text": "Invitando a alguien a salir",
+    "header_text": "Enviar mensajes de texto a alguien que te gusta",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Si le preguntas a la otra persona si quiere tomar un café, es probable que..."
+            "text": "Últimamente has estado saliendo mucho con alguien que te parece atractivo, pero no estás seguro de si siente lo mismo. Hoy te pide tu número. Probablemente usará tu número de teléfono para pedirte una..."
         },
         {
-            "type": "Buttons",
-            "name": "Invitando a alguien a salir_Relaciones Románticas_comp_question",
+            "type": "WordPuzzle",
+            "name": "Enviar mensajes de texto a alguien que te gusta_Relaciones Románticas_puzzle1",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Rechace tu oferta, porque no está interesado en volver a verte.",
-                "Acepte tu oferta, porque ustedes dos lo pasaron bien en el tren."
+            "display_delay": 2000,
+            "words": [
+                "cita"
             ],
-            "column_Count": 1,
-            "correct_value": "Acepte tu oferta, porque ustedes dos lo pasaron bien en el tren."
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 0
 }

@@ -1,17 +1,17 @@
 {
-    "header_text": "Reunión uno a uno",
+    "header_text": "Hablando sobre vivienda",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hoy tienes una reunión individual con tu jefe, lo que te pone nervioso. Durante la reunión, pierdes momentáneamente el hilo de tus pensamientos. Después de eso, tu ansiedad es..."
+            "text": "Estás pasando tiempo con un nuevo grupo de personas y todos están hablando de sus situaciones de vivienda. Quieres participar, pero aún estás buscando un lugar para establecerte y sientes que vas atrasado en experiencias de vida. Piensas que todavía tienes mucho..."
         },
         {
             "type": "Entry",
-            "name": "Reunión uno a uno_Salud Mental_entry1"
+            "name": "Hablando sobre vivienda_Salud Mental_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 1
 }

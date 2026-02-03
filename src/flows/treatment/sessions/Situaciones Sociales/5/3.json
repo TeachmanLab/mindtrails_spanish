@@ -1,25 +1,15 @@
 {
-    "header_text": "Encontrando un campo para sentarte",
+    "header_text": "Ejercicio de limón",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en tu primera reunión de personal en un nuevo departamento y llegas temprano. Un grupo de personas se calla después de que les preguntas si puedes sentarte en su mesa. Piensas que probablemente sean..."
+            "text": "Realmente trate de imaginarse a sí mismo en las situaciones que se avecinan de la manera más vívida posible."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Encontrando un campo para sentarte_Situaciones Sociales_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "amables"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/lemon3.jpg",
+            "border": false
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 0
+    ]
 }

@@ -1,0 +1,10 @@
+{
+    "header_text": "Recurso: Salud Física",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Los trastornos de la alimentación: Un problema que va más allá de la comida\n\nEsta guía explica lo difícil que es luchar contra un trastorno alimenticio y explica cuales tipos de trastornos existen y cómo buscar ayuda."
+        }
+    ]
+}

@@ -1,17 +1,15 @@
 {
-    "header_text": "Contacto alternativo",
+    "header_text": "Ejercicio de limón",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Conoces a un nuevo miembro del personal en la reunión en línea de tu departamento y te pregunta si tienes Facebook. Cuando le dices que no tienes Facebook, se calla. Es posible que esté pensando en otras formas de contactarte, lo que te hará sentir..."
+            "text": "Realmente trate de imaginarse a sí mismo en las situaciones que se avecinan de la manera más vívida posible."
         },
         {
-            "type": "Entry",
-            "name": "Contacto alternativo_Situaciones Sociales_entry1"
+            "type": "Media",
+            "url": "./images/lemon3.jpg",
+            "border": false
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 0
+    ]
 }

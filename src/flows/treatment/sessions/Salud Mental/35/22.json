@@ -1,25 +1,29 @@
 {
-    "header_text": "Resultados de análisis de sangre",
+    "header_text": "Cena cara",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En tu última cita con el médico, tu doctor te hizo unos análisis de sangre. Te dijo que te darán los resultados en unos días y te sientes nervioso mientras los esperas. Crees que tus nervios son..."
+            "text": "¿Eres un buen amigo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Resultados de análisis de sangre_Salud Mental_puzzle1",
+            "type": "Buttons",
+            "name": "Cena cara_Salud Mental_comp_question",
             "correct_feedback": "Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "manejables"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 6
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

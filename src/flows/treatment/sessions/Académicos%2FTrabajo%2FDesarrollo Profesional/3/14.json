@@ -1,16 +1,39 @@
 {
-    "header_text": "Mente va en blanco",
+    "header_text": "Quedando atrás",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mente va en blanco"
+            "text": "¿Mejorarás en tu trabajo?"
         },
         {
-            "type": "Media",
-            "url": "./images/24.jpg"
+            "type": "Buttons",
+            "name": "Quedando atrás_Académicos/Trabajo/Desarrollo Profesional_comp_question",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Sí"
+            ],
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 4
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 0,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Recuerda responder a esta pregunta basándote en el final de la historia que acabas de leer, no en cómo crees que terminaría. ¡Esto ayudará a reforzar un pensamiento más flexible!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Costos de alimentos",
+    "header_text": "Costos inesperados",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Costos de alimentos"
+            "text": "Costos inesperados"
         },
         {
             "type": "Media",
-            "url": "./images/267.jpg"
+            "url": "./images/159.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 9
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

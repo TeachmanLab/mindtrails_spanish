@@ -1,0 +1,16 @@
+{
+    "header_text": "La música ruidosa",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "La música ruidosa"
+        },
+        {
+            "type": "Media",
+            "url": "./images/112.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

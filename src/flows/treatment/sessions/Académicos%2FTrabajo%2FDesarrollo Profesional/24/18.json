@@ -1,17 +1,17 @@
 {
-    "header_text": "Obtener una oportunidad",
+    "header_text": "Fuera de tu control",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has enviado una solicitud para un trabajo que esperabas conseguir. Esperas conseguir una entrevista para el trabajo después de que revisen tu solicitud, pero sabes que es muy competitiva. Con tus calificaciones, esperas recibir una..."
+            "text": "Estás a punto de hacer tu primera entrevista en línea para una promoción importante. Haces clic en el enlace cuando es hora de unirte a la reunión, pero tu conexión a internet se corta. Piensas que los entrevistadores podrían asumir que llegaste tarde y sientes..."
         },
         {
             "type": "Entry",
-            "name": "Obtener una oportunidad_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Fuera de tu control_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 7
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Expresándote",
+    "header_text": "Fuera de tu control",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Expresándote"
+            "text": "Fuera de tu control"
         },
         {
             "type": "Media",
-            "url": "./images/75.jpg"
+            "url": "./images/117.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 8
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

@@ -1,25 +1,30 @@
 {
-    "header_text": "Sala de espera del hospital",
+    "header_text": "Carrera matutina del domingo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vas al hospital a visitar a un amigo. En la sala de espera, alguien detrás de ti tose. Si te lavas las manos, la probabilidad de enfermarte es..."
+            "text": "Carrera matutina del domingo"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Sala de espera del hospital_Salud Física_puzzle1",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "baja"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/370.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 2,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/596.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Un consejo: Recuerda tratar de imaginar vívidamente los escenarios."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

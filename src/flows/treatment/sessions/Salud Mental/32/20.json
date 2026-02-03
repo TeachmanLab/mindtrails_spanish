@@ -1,16 +1,25 @@
 {
-    "header_text": "Participación en las redes sociales",
+    "header_text": "Resultados de análisis de sangre",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Participación en las redes sociales"
+            "text": "En tu última cita con el médico, tu doctor te hizo unos análisis de sangre. Te dijo que te darán los resultados en unos días, y te sientes nervioso mientras los esperas. Crees que tus nervios son..."
         },
         {
-            "type": "Media",
-            "url": "./images/357.jpg"
+            "type": "WordPuzzle",
+            "name": "Resultados de análisis de sangre_Salud Mental_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "manejables"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 2
 }

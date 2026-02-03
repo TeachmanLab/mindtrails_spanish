@@ -1,0 +1,16 @@
+{
+    "header_text": "Presentación estresante",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Presentación estresante"
+        },
+        {
+            "type": "Media",
+            "url": "./images/28.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

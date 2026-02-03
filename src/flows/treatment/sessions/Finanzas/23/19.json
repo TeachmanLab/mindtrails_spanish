@@ -1,17 +1,17 @@
 {
-    "header_text": "Pidiendo dinero",
+    "header_text": "Planificación de pagos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has tenido algunos problemas financieros recientemente. Para llegar a fin de mes, necesitas pedir un préstamo a un familiar. Piensas que esto es... "
+            "text": "No te ves cometiendo un gran error y piensas que el plan que elijas te dejará en una posición financiera..."
         },
         {
             "type": "Entry",
-            "name": "Pidiendo dinero_Finanzas_entry1"
+            "name": "Planificación de pagos_Finanzas_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 7
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

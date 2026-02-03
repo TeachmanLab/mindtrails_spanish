@@ -1,0 +1,16 @@
+{
+    "header_text": "Revisando tus cualificaciones",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Revisando tus cualificaciones"
+        },
+        {
+            "type": "Media",
+            "url": "./images/53.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

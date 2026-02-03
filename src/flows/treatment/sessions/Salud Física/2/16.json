@@ -1,30 +1,25 @@
 {
-    "header_text": "Corte de dedo",
+    "header_text": "Cita con el doctor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Corte de dedo"
+            "text": "Últimamente te has sentido un poco enfermo, por lo que haces una cita con el médico. Faltan unos días para la próxima cita disponible. Mientras esperas la cita con tu médico, crees que tu enfermedad probablemente no sea..."
         },
         {
-            "type": "Media",
-            "url": "./images/380.jpg"
+            "type": "WordPuzzle",
+            "name": "Cita con el doctor_Salud Física_puzzle1",
+            "correct_feedback": "Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "grave"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "positive",
-    "scenario_num": 5,
-    "information": {
-        "elements": [
-            {
-                "type": "media",
-                "url": "./images/600.jpg"
-            },
-            {
-                "type": "text",
-                "text": "Recuerda: Está bien cometer errores. Trata de dar lo mejor."
-            }
-        ],
-        "position": "before",
-        "information_count": 1
-    }
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 1
 }

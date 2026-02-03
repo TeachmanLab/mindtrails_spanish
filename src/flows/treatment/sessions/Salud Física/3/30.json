@@ -1,29 +1,16 @@
 {
-    "header_text": "Un pastel de cumpleaños",
+    "header_text": "Celebraciones en un juego deportivo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "si te comes el pastel, probablemente..."
+            "text": "Celebraciones en un juego deportivo"
         },
         {
-            "type": "Buttons",
-            "name": "Un pastel de cumpleaños_Salud Física_comp_question",
-            "correct_feedback": "Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Te enfermarás.",
-                "No te enfermarás."
-            ],
-            "column_Count": 1,
-            "correct_value": "No te enfermarás."
+            "type": "Media",
+            "url": "./images/388.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 5
 }
