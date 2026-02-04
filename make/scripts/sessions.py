@@ -181,7 +181,7 @@ def create_surveys():
     # The keys in this dictionary correspond to the HTC_survey_questions.csv lookup codes ([Subject]_[Doses])
     # You can see all the lookup codes and their meanings below:
     # https://docs.google.com/spreadsheets/d/1Z_syG-HbyFT2oqMsHnAbidRtlH97IVxnBqbNKZWbwLY/edit#gid=0
-    surveys = { "BeforeDomain_All": defaultdict(list), "BeforeDomain_NoDiscrim_All": defaultdict(list), "AfterDomain_All": defaultdict(list), "Dose_1": defaultdict(list), "Control_Dose_1": defaultdict(list) }
+    surveys = { "BeforeDomain_All": defaultdict(list), "AfterDomain_All": defaultdict(list), "Dose_1": defaultdict(list), "Control_Dose_1": defaultdict(list) }
 
     # Open the file with all the content
     with open(f"{dir_csv}/MTSpanish_survey_questions.csv", "r", encoding="utf-8") as read_obj:
@@ -292,19 +292,20 @@ for pop,s,l in populations:
     folders['control/intro'] = flat(surveys["Control_Dose_1"])
     folders['treatment/intro'] = flat(surveys["Dose_1"])
     folders['treatment/sessions/__flow__.json'] = {"mode":"select", "title_case": True, "column_count":2, "text": domain_selection_text(), "title":"MindTrails Español"}
-
-    before_pages_all_domains = flat(surveys["BeforeDomain_All"]) # Affect question and favorites
-    before_pages_no_discrim = flat(surveys["BeforeDomain_NoDiscrim_All"]) # Lemon and anxious imagery (skip Discriminación)
-    before_pages_regular = before_pages_all_domains + before_pages_no_discrim 
-
     folders['treatment/sessions/__before__'] = []
     folders['treatment/sessions/__after__'] = flat(surveys["AfterDomain_All"])
-    folders['treatment/sessions/Discriminación'] = before_pages_all_domains + discrim_session
+
+    before_pages_all = flat(surveys["BeforeDomain_All"])
+    exclude_from_discrim = ["Ejercicio de limón - Abreviado", "Imágenes ansiosas principales"]
+    before_pages_discrim = [page for page in before_pages_all if page.get("header_text") not in exclude_from_discrim]
+
+    # Discriminación gets only affect question and favorites, NOT lemon/imagery
+    folders['treatment/sessions/Discriminación'] = before_pages_discrim + discrim_session
 
     for domain, doses in sessions.items():
         folders[f'treatment/sessions/{dir_safe(domain)}/__flow__.json'] ={"mode":"sequential", "take":1, "repeat":True}
         for i, dose in enumerate(doses,1):
-            folders[f'treatment/sessions/{dir_safe(domain)}/{i}'] = before_pages_regular + dose
+            folders[f'treatment/sessions/{dir_safe(domain)}/{i}'] = before_pages_all + dose
 
     # Delete old JSON
     shutil.rmtree(f"{dir_out}/control/sessions",ignore_errors=True)
