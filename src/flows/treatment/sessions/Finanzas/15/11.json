@@ -1,31 +1,10 @@
 {
-    "header_text": "Imágenes ansiosas principales",
+    "header_text": "Recordatorio de favoritos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Si esta situación terminara mal, ¿qué tan bien o mal serías capaz de manejarla?"
-        },
-        {
-            "type": "Buttons",
-            "buttons": [
-                "Muy bien",
-                "Algo bien",
-                "Neutral",
-                "Algo mal",
-                "Muy mal",
-                "Prefiero no responder"
-            ],
-            "selectable": true,
-            "name": "imagery_handling"
+            "text": "Recuerde que puede agregar historias, consejos y recursos a sus Favoritos haciendo clic en la estrella en la esquina superior derecha de la pantalla."
         }
-    ],
-    "condition": [
-        "StressLevel",
-        "in",
-        [
-            6,
-            7
-        ]
     ]
 }

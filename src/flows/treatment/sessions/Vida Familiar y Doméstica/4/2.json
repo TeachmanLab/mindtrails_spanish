@@ -1,10 +1,15 @@
 {
-    "header_text": "Recordatorio de favoritos",
+    "header_text": "Ejercicio de limón",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recuerde que puede agregar historias, consejos y recursos a sus Favoritos haciendo clic en la estrella en la esquina superior derecha de la pantalla."
+            "text": "Realmente trate de imaginarse a sí mismo en las situaciones que se avecinan de la manera más vívida posible."
+        },
+        {
+            "type": "Media",
+            "url": "./images/lemon3.jpg",
+            "border": false
         }
     ]
 }

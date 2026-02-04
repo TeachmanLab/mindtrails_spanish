@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Ahora imagina que cortas el limón por la mitad y levantas la mitad para verlo más de cerca. Puedes ver la pulpa jugosa en forma de gajos que parecen una rueda de carreta."
+            "text": "Ahora imagina que te rascas la piel con la uña, luego te llevas el limón a la nariz y puedes oler el jugo fresco y picante de la piel."
         },
         {
             "type": "Media",
-            "url": "./images/lemon5.jpg",
+            "url": "./images/lemon4.jpg",
             "border": true
         }
     ],

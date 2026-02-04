@@ -1,10 +1,25 @@
 {
-    "header_text": "Gran trabajo",
+    "header_text": "Comprensión / Compromiso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¡Gran trabajo! Esperamos que esta breve capacitación haya ayudado a aclarar el propósito de estas historias cortas y lo que podrías obtener de MindTrails Español. En el futuro, podrás elegir áreas de la vida que te causen mayor estrés para que las historias que leas sean más relevantes para ti. Durante sesiones futuras, también recibirás consejos diseñados para ayudarte a manejar tus emociones, conectarse con recursos y aplicar lo que aprendas de los cuentos en tu propia vida."
+            "text": "¿Qué espera obtener del programa MindTrails Español? Seleccione todas las que correspondan."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Quiero pensar con más flexibilidad y menos negativamente.",
+                "Quiero poder gestionar situaciones estresantes de forma más eficaz.",
+                "Quiero reducir mi estrés y/o ansiedad.",
+                "Quiero practicar habilidades que he aprendido o estoy aprendiendo actualmente de un proveedor de atención de salud mental.",
+                "Quiero mantener los avances que he logrado durante el tratamiento de salud mental.",
+                "Quiero evitar que vuelva la ansiedad y/o el estrés que he experimentado en el pasado.",
+                "!Otros, descríbalos:"
+            ],
+            "selectable": true,
+            "multiselect": true,
+            "name": "gain_from_HTC"
         }
     ]
 }

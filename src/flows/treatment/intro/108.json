@@ -4,20 +4,20 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Si esta situación terminara mal, ¿qué tan bien o mal serías capaz de manejarla?"
+            "text": "¿Qué probabilidades hay de que la situación o tarea salga bien o mal?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "Muy bien",
-                "Algo bien",
+                "Es muy probable que salga bien",
+                "Es algo probable que salga bien",
                 "Neutral",
-                "Algo mal",
-                "Muy mal",
+                "Es algo probable que salga mal",
+                "Es muy probable que salga mal",
                 "^Prefiero no responder"
             ],
             "selectable": true,
-            "name": "imagery_handling"
+            "name": "imagery_well"
         }
     ]
 }

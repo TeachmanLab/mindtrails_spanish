@@ -1,5 +1,23 @@
 {
-    "header_text": "Practica CBM-I",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
-    "elements": []
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Si esta situación terminara mal, ¿qué tan bien o mal serías capaz de manejarla?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Muy bien",
+                "Algo bien",
+                "Neutral",
+                "Algo mal",
+                "Muy mal",
+                "^Prefiero no responder"
+            ],
+            "selectable": true,
+            "name": "imagery_handling"
+        }
+    ]
 }

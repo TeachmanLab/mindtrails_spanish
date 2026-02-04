@@ -4,12 +4,18 @@
     "elements": [
         {
             "type": "Text",
-            "text": "¡Ese fue el Ejercicio del Limón! No te preocupes si no experimentaste todas las sensaciones con fuerza. Esto es completamente normal."
+            "text": "Ahora imagina que exprimes el limón y un poco del jugo te cae directamente a los ojos, y pican mucho y por eso lloras."
         },
         {
             "type": "Media",
-            "url": "./images/lemon7.jpg",
+            "url": "./images/lemon6.jpg",
             "border": true
         }
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 2000
+        },
+        "wait_for_click"
     ]
 }

@@ -4,16 +4,12 @@
     "elements": [
         {
             "type": "Text",
-            "text": "¿Qué tan ansioso te sentiste? (en el nivel más alto de ansiedad) al completar la tarea de visualización? Presiona la barra para usar el control deslizante. \n\n0 = Absolutamente ninguna ansiedad. \n\n10 = Totalmente ansioso."
-        },
+            "text": "Juega esta situación en tu cabeza durante los próximos 20 segundos. \n\nLa pantalla cambiará en 20 segundos."
+        }
+    ],
+    "navigation_conditions": [
         {
-            "type": "Slider",
-            "min": "0",
-            "max": "10",
-            "others": [
-                "Prefiero no responder"
-            ],
-            "name": "imagery_anxiety"
+            "wait_for_time": 20000
         }
     ]
 }

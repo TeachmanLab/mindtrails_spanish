@@ -4,11 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Describe la situación en pocas palabras:"
-        },
-        {
-            "type": "Entry",
-            "name": "entry_anxious_imagery"
+            "text": "Imagina la situación lo más vívidamente posible (es decir, que parezca muy real). Intenta imaginar que realmente estás en esa situación. Representa las partes específicas de la situación en tu cabeza. Intenta imaginarte usando todos tus sentidos mientras piensas en esta situación. Piensa en las cosas que verías, oírías y olerías si realmente estuvieras allí. Piensa en el tipo de cosas que pensarías o sentirías si realmente estuvieras allí."
         }
     ],
     "condition": [

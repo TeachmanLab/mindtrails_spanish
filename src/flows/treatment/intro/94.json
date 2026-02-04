@@ -4,18 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "En este ejercicio, y durante todo el programa de entrenamiento, recuerde imaginar lo que sucede a través de tus propios ojos, de forma similar a la imagen por la izquierda. Esto es más eficaz que ver la situación desde un observador externo, como en la imagen por la derecha."
-        },
-        {
-            "type": "Media",
-            "url": "./images/lemon1.jpg",
-            "border": true
+            "text": "El propósito de este ejercicio rápido es demostrar qué es el pensamiento basado en la imaginación. Te imaginarás cómo es ver, tocar y oler un limón. Por favor imagina esto como si realmente lo estuvieras experimentando."
         }
-    ],
-    "navigation_conditions": [
-        {
-            "wait_for_time": 2000
-        },
-        "wait_for_click"
     ]
 }

@@ -1,11 +1,10 @@
 {
-    "header_text": "Discriminación ",
+    "header_text": "Recordatorio de favoritos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Lamentamos mucho que estés experimentando estrés debido a la discriminación o la marginación. Reconocemos que las personas tienen diferentes necesidades después de tales experiencias, por lo que queremos ofrecerte una serie de herramientas para ayudarte en este momento.",
-            "html": true
+            "text": "Recuerde que puede agregar historias, consejos y recursos a sus Favoritos haciendo clic en la estrella en la esquina superior derecha de la pantalla."
         }
     ]
 }

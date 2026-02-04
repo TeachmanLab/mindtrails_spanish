@@ -1,15 +1,15 @@
 {
-    "header_text": "Aliado",
+    "header_text": "Cuidados Personales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "<strong>\\Hablando Sobre Raza:</strong> Las conversaciones sobre raza son importantes: aquí le mostramos cómo mantenerlas bien. <a href=\"https://jfsneworleans.org/wp-content/uploads/2020/03/Talking-about-Race-Discrimination-espanol.pdf\">https://jfsneworleans.org/wp-content/uploads/2020/03/Talking-about-Race-Discrimination-espanol.pdf</a><br><br>",
+            "text": "<strong>Salud Mental:</strong> Este conjunto de herramientas incluye recursos sobre cómo mejorar el bienestar mental para ti y tu familia, recursos educativos para aprender más sobre salud mental y organizaciones locales y nacionales para buscar ayuda. <a href=\"https://wecanatx.org/sanacion/\">https://wecanatx.org/sanacion/</a><br><br>",
             "html": true
         }
     ],
     "condition": [
-        "Aliado",
+        "Cuidados Personales",
         "in",
         "Selected_Support"
     ]

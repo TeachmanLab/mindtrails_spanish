@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Ahora imagina que exprimes el limón y un poco del jugo te cae directamente a los ojos, y pican mucho y por eso lloras."
+            "text": "Ahora imagina que cortas el limón por la mitad y levantas la mitad para verlo más de cerca. Puedes ver la pulpa jugosa en forma de gajos que parecen una rueda de carreta."
         },
         {
             "type": "Media",
-            "url": "./images/lemon6.jpg",
+            "url": "./images/lemon5.jpg",
             "border": true
         }
     ],

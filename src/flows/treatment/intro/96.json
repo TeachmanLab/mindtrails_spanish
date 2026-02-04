@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Ahora imagina que estás iluminando el limón con una luz y puedes ver la textura cerosa y grumosa de la piel amarilla."
+            "text": "Bien... ¡comenzamos! Imagina que sostienes el limón en tu mano derecha y puedes sentir la forma y peso."
         },
         {
             "type": "Media",
-            "url": "./images/lemon3.jpg",
+            "url": "./images/lemon2.jpg",
             "border": true
         }
     ],

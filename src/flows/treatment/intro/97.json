@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Ahora imagina que te rascas la piel con la uña, luego te llevas el limón a la nariz y puedes oler el jugo fresco y picante de la piel."
+            "text": "Ahora imagina que estás iluminando el limón con una luz y puedes ver la textura cerosa y grumosa de la piel amarilla."
         },
         {
             "type": "Media",
-            "url": "./images/lemon4.jpg",
+            "url": "./images/lemon3.jpg",
             "border": true
         }
     ],
