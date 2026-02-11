@@ -1,0 +1,16 @@
+{
+    "header_text": "Activismo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "<strong>InfoActivismo:</strong> La Guía de InfoActivismo te ayudará a tener una imagen completa de las acciones que puedes hacer para ser mejor activista. <a href=\"https://infoactivismo.org/guias/\">https://infoactivismo.org/guias/</a><br><br>",
+            "html": true
+        }
+    ],
+    "condition": [
+        "Activismo",
+        "in",
+        "Selected_Support"
+    ]
+}
