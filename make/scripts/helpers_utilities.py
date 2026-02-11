@@ -8,7 +8,7 @@ from collections import defaultdict
 
 class StatefulRandom:
     def __init__(self,seed):
-        random.seed(seed)
+        random.seed(seed
         self._state = random.getstate()
 
     def shuffle(self,items):
