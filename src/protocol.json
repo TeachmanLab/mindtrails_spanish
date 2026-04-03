@@ -1,145 +1,150 @@
 {
-  "icon": "/assets/home_mindtrails.png",
-  "home": {
-    "title": "MindTrails",
-    "element": {
-      "type": "list",
-      "elements": [
-        {
-          "type": "alert",
-          "title": "MindTrails",
-          "message": "Comprenede tu manera de pensar. Siéntete menos ansioso.",
-          "icon": "/assets/home_banner.png"
-        },
-        {
-          "type": "sessions",
-          "left": {
-            "text": "{0} Sesiones completadas",
-            "icon": "/assets/completed.png"
-          },
-          "right": {
-            "text": "Iniciar sesión",
-            "icon": "/assets/unlocked.png",
-            "action": "flow://flows/${global:group}/sessions"
-          }
-        },
-        {
-          "type": "button",
-          "action": {
-            "text": "Mostrar encuestas",
-            "action": "navmodal://Survey"
-          }
-        },
-        {
-          "type": "tiles",
-          "actions": [
+   "icon":"/assets/home_mindtrails.png",
+   "home":{
+      "title":"MindTrails",
+      "element":{
+         "type":"list",
+         "elements":[
             {
-              "text": "¿Qué es MindTrails Español?",
-              "icon": "/assets/home_mindtrails.png",
-              "action": "flow://flows/rationale.json",
-              "backgroundcolor": "#1A206AFF"
+               "type":"alert",
+               "title":"MindTrails",
+               "message":"Comprenede tu manera de pensar. Siéntete menos ansioso.",
+               "icon":"/assets/home_banner.png"
             },
             {
-              "text": "Instrucciones",
-              "icon": "/assets/home_instructions.png",
-              "action": "flow://flows/instructions.json",
-              "backgroundcolor": "#1A00E05A"
+               "type":"sessions",
+               "left":{
+                  "text":"{0} Sesiones completadas",
+                  "icon":{
+                     "url":"/assets/completed.png",
+                     "tint":false
+                  }
+               },
+               "right":{
+                  "text":"Iniciar sesión",
+                  "icon":{
+                     "url":"/assets/unlocked.png",
+                     "tint":false
+                  },
+                  "action":"flow://flows/${global:group}/treatment/sessions"
+               },
+               "lock_right":{
+                  "text":"Tratamiento completa",
+                  "icon":{
+                     "url":"/assets/locked.png",
+                     "tint":false
+                  }
+               },
+               "lock_time":"42:00:00:00"
             },
             {
-              "text": "Recursos",
-              "icon": "/assets/home_resources.png",
-              "action": "flow://flows/${global:group}/resources",
-              "backgroundcolor": "#1A00C2FF"
+               "type":"button",
+               "action":{
+                  "text":"Mostrar encuestas",
+                  "action":"navmodal://Survey"
+               }
             },
             {
-              "text": "¿Qué es la Ansiedad?",
-              "icon": "/assets/home_anxiety.png",
-              "action": "flow://flows/what is anxiety.json",
-              "backgroundcolor": "#1A5C2FDA"
+               "type":"tiles",
+               "actions":[
+                  {
+                     "text":"¿Qué es MindTrails Español?",
+                     "icon":"/assets/home_mindtrails.png",
+                     "action":"flow://flows/rationale.json",
+                     "backgroundcolor":"#1A206AFF"
+                  },
+                  {
+                     "text":"Instrucciones",
+                     "icon":"/assets/home_instructions.png",
+                     "action":"flow://flows/instructions.json",
+                     "backgroundcolor":"#1A00E05A"
+                  },
+                  {
+                     "text":"Recursos",
+                     "icon":"/assets/home_resources.png",
+                     "action":"flow://flows/${global:group}/resources",
+                     "backgroundcolor":"#1A00C2FF"
+                  },
+                  {
+                     "text":"¿Qué es la Ansiedad?",
+                     "icon":"/assets/home_anxiety.png",
+                     "action":"flow://flows/what is anxiety.json",
+                     "backgroundcolor":"#1A5C2FDA"
+                  }
+               ]
             }
-          ]
-        }
-      ]
-    }
-  },
-  "settings": {
-    "unenroll": "flow://flows/${global:group}/reasons for ending",
-    "configs": "flow://flows/configs.json"
-  },
-  "menu": [
-    {
-      "text": "¿Qué es MindTrails Español?",
-      "icon": "/assets/menu_mindtrails.png",
-      "action": "flow://flows/rationale.json"
-    },
-    {
-      "text": "Introducción",
-      "icon": "/assets/menu_mindtrails.png",
-      "action": "flow://flows/${global:group}/intro"
-    },
-    {
-      "text": "Instrucciones",
-      "icon": "/assets/menu_instructions.png",
-      "action": "flow://flows/instructions.json"
-    },
-    {
-      "text": "¿Qué es la Ansiedad?",
-      "icon": "/assets/menu_anxiety.png",
-      "action": "flow://flows/what is anxiety.json"
-    },
-    {
-      "text": "Recursos",
-      "icon": "/assets/menu_resources.png",
-      "action": "flow://flows/${global:group}/resources"
-    },
-    {
-      "text": "Preguntas frecuentes",
-      "icon": "/assets/menu_faq.png",
-      "action": "flow://flows/faq.json"
-    },
-    {
-      "text": "Conoce al equipo",
-      "icon": "/assets/menu_team.png",
-      "action": "flow://flows/team.json"
-    },
-    {
-      "text": "Obtener ayuda",
-      "icon": "/assets/menu_help.png",
-      "action": "https://ert6g2.wixsite.com/hoosthinkcalmly/general-8"
-    },
-    {
-      "text": "Descargo de responsabilidad",
-      "icon": "/assets/menu_disclaimer.png",
-      "action": "flow://flows/disclaimer.json"
-    }
-  ],
-  "triggers": [
-    {
-      "id": "endofdaytrigger",
-      "type": "timing",
-      "frequency": "1",
-      "time": "20:00",
-      "action": {
-        "type": "notification",
-        "survey": true,
-        "path": "flow://flows/${global:group}/final del dia",
-        "title": "¡Alerta de encuesta!",
-        "message": "Es hora de tu encuesta de final del día."
+         ]
       }
-    },
-    {
-      "id": "progresstrigger",
-      "type": "timing",
-      "frequency": "14",
-      "time": "20:00",
-      "action": {
-        "type": "notification",
-        "survey": true,
-        "time": "20:00",
-        "path": "flow://flows/${global:group}/sigue tu progreso",
-        "title": "¡Alerta de encuesta!",
-        "message": "Es hora de tu encuesta de progreso."
+   },
+   "settings":{
+      "unenroll":"flow://flows/${global:group}/reasons for ending",
+      "configs":"flow://flows/configs.json"
+   },
+   "menu":[
+      {
+         "text":"¿Qué es MindTrails Español?",
+         "icon":"/assets/menu_mindtrails.png",
+         "action":"flow://flows/rationale.json"
+      },
+      {
+         "text":"Introducción",
+         "icon":"/assets/menu_mindtrails.png",
+         "action":"flow://flows/${global:group}/intro"
+      },
+      {
+         "text":"Instrucciones",
+         "icon":"/assets/menu_instructions.png",
+         "action":"flow://flows/instructions.json"
+      },
+      {
+         "text":"¿Qué es la Ansiedad?",
+         "icon":"/assets/menu_anxiety.png",
+         "action":"flow://flows/what is anxiety.json"
+      },
+      {
+         "text":"Recursos",
+         "icon":"/assets/menu_resources.png",
+         "action":"flow://flows/${global:group}/resources"
+      },
+      {
+         "text":"Preguntas frecuentes",
+         "icon":"/assets/menu_faq.png",
+         "action":"flow://flows/faq.json"
+      },
+      {
+         "text":"Conoce al equipo",
+         "icon":"/assets/menu_team.png",
+         "action":"flow://flows/team.json"
+      },
+      {
+         "text":"Obtener ayuda",
+         "icon":"/assets/menu_help.png",
+         "action":"https://ert6g2.wixsite.com/hoosthinkcalmly/general-8"
+      },
+      {
+         "text":"Descargo de responsabilidad",
+         "icon":"/assets/menu_disclaimer.png",
+         "action":"flow://flows/disclaimer.json"
       }
-    }
-  ]
+   ],
+   "surveys":{
+      "eod":{
+         "type":"frequency",
+         "time":"20:00",
+         "skip":0,
+         "take":42,
+         "frequency":"1",
+         "expiry":"04:00",
+         "path":"flow://flows/${global:group}/final del dia"
+      },
+      "typ":{
+         "type":"frequency",
+         "skip":1,
+         "take":1,
+         "time":"20:00",
+         "frequency":"14",
+         "expiry":"14",
+         "path":"flow://flows/${global:group}/sigue tu progreso"
+      }
+   }
 }
