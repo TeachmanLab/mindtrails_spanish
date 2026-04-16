@@ -26,7 +26,7 @@
                      "url":"/assets/unlocked.png",
                      "tint":false
                   },
-                  "action":"flow://flows/${global:group}/treatment/sessions"
+                  "action":"flow://flows/${global:group}/sessions"
                },
                "lock_right":{
                   "text":"Tratamiento completa",
