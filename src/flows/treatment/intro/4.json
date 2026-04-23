@@ -18,7 +18,6 @@
                 "Otro o Desconocido",
                 "^Prefiero no responder"
             ],
-            "selectable": true,
             "multiselect": true,
             "name": "race"
         }

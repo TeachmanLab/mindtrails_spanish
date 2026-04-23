@@ -16,7 +16,6 @@
                 "!Otra identidad",
                 "^Prefiero no responder"
             ],
-            "selectable": true,
             "name": "gender"
         }
     ]

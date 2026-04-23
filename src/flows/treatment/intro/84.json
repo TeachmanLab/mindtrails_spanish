@@ -16,7 +16,6 @@
                 "Extremo: Mi ansiedad se ha vuelto incapacitante. No he podido completar tareas y he tenido que dejar la escuela, he renunciado o me han despedido de mi trabajo, o no he podido completar tareas en casa y he enfrentado consecuencias como cobradores, desalojo, etc.",
                 "^Prefiero no responder"
             ],
-            "selectable": true,
             "name": "OASIS_work"
         }
     ]

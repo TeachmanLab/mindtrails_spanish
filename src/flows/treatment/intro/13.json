@@ -18,7 +18,6 @@
                 "^NoAnswer::Prefiero no responder",
                 "!Otro::Otro:"
             ],
-            "selectable": true,
             "multiselect": true,
             "name": "help",
             "variable_name": "HelpReceived"

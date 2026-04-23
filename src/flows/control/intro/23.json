@@ -20,7 +20,6 @@
                 "Más de 10 años",
                 "Prefiero no responder"
             ],
-            "selectable": true,
             "name": "length_anxiety_symptoms"
         }
     ],

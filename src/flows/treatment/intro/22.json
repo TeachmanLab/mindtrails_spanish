@@ -13,7 +13,6 @@
                 "No::No",
                 "Inseguro::Inseguro"
             ],
-            "selectable": true,
             "name": "anxiety_or_depression",
             "variable_name": "anxiety_or_depression"
         }

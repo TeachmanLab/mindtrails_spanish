@@ -21,7 +21,6 @@
                 "No estoy experimentando ansiedad de moderada a severa",
                 "Prefiero no responder"
             ],
-            "selectable": true,
             "name": "length_anxiety_symptoms"
         }
     ],

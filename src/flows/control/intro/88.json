@@ -16,7 +16,6 @@
                 "Muy a menudo",
                 "^Prefiero no responder"
             ],
-            "selectable": true,
             "name": "PSS-4_control"
         }
     ]

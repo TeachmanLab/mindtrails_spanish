@@ -15,7 +15,6 @@
                 "Bastante a menudo",
                 "Muy a menudo"
             ],
-            "selectable": true,
             "name": "biweekly_difficulties"
         }
     ]

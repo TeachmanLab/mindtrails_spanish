@@ -12,5 +12,19 @@
         }
     ],
     "type": "negative",
-    "scenario_num": 6
+    "scenario_num": 6,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/597.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Un consejo: Trata de imaginarte diferentes formas de responder a cada escenario."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

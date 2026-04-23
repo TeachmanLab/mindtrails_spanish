@@ -24,7 +24,6 @@
                 "No lo sé",
                 "Prefiero no responder"
             ],
-            "selectable": true,
             "name": "income"
         }
     ]

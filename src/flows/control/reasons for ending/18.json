@@ -13,7 +13,6 @@
                 "No::no",
                 "Inseguro::Inseguro"
             ],
-            "selectable": true,
             "name": "anxiety_or_depression",
             "variable_name": "RFE_anxiety_depression"
         }

@@ -16,7 +16,6 @@
                 "Mucho",
                 "^Prefiero no responder"
             ],
-            "selectable": true,
             "name": "resources_use"
         }
     ]

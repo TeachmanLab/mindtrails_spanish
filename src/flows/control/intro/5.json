@@ -14,7 +14,6 @@
                 "Desconocido",
                 "^Prefiero no responder"
             ],
-            "selectable": true,
             "name": "ethnicity"
         }
     ]

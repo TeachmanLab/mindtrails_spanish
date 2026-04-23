@@ -16,7 +16,6 @@
                 "Extremo: La ansiedad era abrumadora. Era imposible relajarse en absoluto. Los síntomas físicos eran insoportables.",
                 "^Prefiero no responder"
             ],
-            "selectable": true,
             "name": "biweekly_intensity_anxiety"
         }
     ]

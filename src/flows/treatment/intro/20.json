@@ -25,7 +25,6 @@
                 "^Prefiero no responder",
                 "!Otro:"
             ],
-            "selectable": true,
             "multiselect": true,
             "name": "reasons_not_receiving_help"
         }

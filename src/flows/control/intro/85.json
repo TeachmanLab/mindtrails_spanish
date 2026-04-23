@@ -16,7 +16,6 @@
                 "Extremo: Mi ansiedad ha trastornado por completo mis actividades sociales. Todas mis relaciones han sufrido o terminado. Mi vida familiar es extremadamente tensa.",
                 "^Prefiero no responder"
             ],
-            "selectable": true,
             "name": "OASIS_social"
         }
     ]

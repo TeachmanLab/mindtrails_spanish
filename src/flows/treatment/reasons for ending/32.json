@@ -19,7 +19,6 @@
                 "^No cambié mis hábitos de intervención",
                 "Prefiero no responder"
             ],
-            "selectable": true,
             "multiselect": true,
             "name": "change_mental_health"
         }

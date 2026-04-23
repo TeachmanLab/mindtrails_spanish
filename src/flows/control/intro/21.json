@@ -19,7 +19,6 @@
                 "^Prefiero no responder",
                 "!Otro:"
             ],
-            "selectable": true,
             "multiselect": true,
             "name": "changes_treatment"
         }

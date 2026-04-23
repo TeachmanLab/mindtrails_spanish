@@ -16,7 +16,6 @@
                 "Ansiedad constante. Me sentí ansioso todo el tiempo y nunca realmente me relajé.",
                 "^Prefiero no responder"
             ],
-            "selectable": true,
             "name": "OASIS_frequency_anxious"
         }
     ]

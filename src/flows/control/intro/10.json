@@ -17,7 +17,6 @@
                 "^Prefiero no responder",
                 "!Otro:"
             ],
-            "selectable": true,
             "multiselect": true,
             "name": "learn_abt_HTC"
         }

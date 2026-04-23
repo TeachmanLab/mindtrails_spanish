@@ -18,7 +18,6 @@
                 "^NotMatched::Estos recursos no coinciden con lo que estoy buscando en este momento",
                 "^NotNeeded::No estoy buscando ningún recurso adicional en este momento"
             ],
-            "selectable": true,
             "multiselect": true,
             "name": "Discrimination",
             "variable_name": "Selected_Support"

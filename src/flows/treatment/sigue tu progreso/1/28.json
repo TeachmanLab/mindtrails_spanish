@@ -12,7 +12,6 @@
                 "Sí",
                 "No"
             ],
-            "selectable": true,
             "name": "IBM_shopping"
         }
     ]

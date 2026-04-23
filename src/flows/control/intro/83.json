@@ -16,7 +16,6 @@
                 "Todo el tiempo: Evitar objetos, situaciones o lugares se ha apoderado de mi vida. Mi estilo de vida se ha visto muy afectado y ya no hago las cosas que antes disfrutaba.",
                 "^Prefiero no responder"
             ],
-            "selectable": true,
             "name": "OASIS_avoid"
         }
     ]

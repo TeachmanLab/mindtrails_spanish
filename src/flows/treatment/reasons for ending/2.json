@@ -19,7 +19,6 @@
                 "Otro",
                 "^Prefiero no responder"
             ],
-            "selectable": true,
             "multiselect": true,
             "name": "reasons_for_ending"
         }

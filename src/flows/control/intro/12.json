@@ -27,7 +27,6 @@
                 "^Prefiero no responder",
                 "!Otro:"
             ],
-            "selectable": true,
             "multiselect": true,
             "name": "mental_health_disorders"
         }

@@ -12,5 +12,19 @@
         }
     ],
     "type": "resilience/negation",
-    "scenario_num": 2
+    "scenario_num": 2,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/596.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Un consejo: Recuerda tratar de imaginar vívidamente los escenarios."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

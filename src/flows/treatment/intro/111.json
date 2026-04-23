@@ -17,7 +17,6 @@
                 "Quiero evitar que vuelva la ansiedad y/o el estrés que he experimentado en el pasado.",
                 "!Otros, descríbalos:"
             ],
-            "selectable": true,
             "multiselect": true,
             "name": "gain_from_HTC"
         }

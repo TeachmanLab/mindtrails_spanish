@@ -17,7 +17,6 @@
                 "No aplicable (por ejemplo, actualmente estoy recibiendo otra forma de tratamiento)",
                 "Prefiero no responder"
             ],
-            "selectable": true,
             "name": "interest_in_therapy"
         }
     ],

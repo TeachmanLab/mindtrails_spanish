@@ -16,7 +16,6 @@
                 "Muy mal",
                 "Prefiero no responder"
             ],
-            "selectable": true,
             "name": "imagery_handling"
         }
     ],

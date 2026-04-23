@@ -16,7 +16,6 @@
                 "Es muy probable que salga mal",
                 "^Prefiero no responder"
             ],
-            "selectable": true,
             "name": "imagery_well"
         }
     ]

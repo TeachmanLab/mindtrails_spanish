@@ -15,7 +15,6 @@
                 "Casi todos los dias",
                 "^Prefiero no responder"
             ],
-            "selectable": true,
             "name": "OASIS_depressed"
         }
     ]

@@ -21,7 +21,6 @@
                 "!Otro",
                 "^Prefiero no responder"
             ],
-            "selectable": true,
             "name": "relationship"
         }
     ]
