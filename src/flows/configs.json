@@ -2,11 +2,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Please choose the protocol group"
+            "text": "Por favor elige el grupo del protocolo"
         },
         {
             "type": "Buttons",
-            "buttons": ["Treatment","Control"],
+            "buttons": ["Tratamiento","Control"],
             "variable_name": "global:group"
         }
     ],
