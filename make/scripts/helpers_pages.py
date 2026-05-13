@@ -59,7 +59,7 @@ def create_input(tipe, items=None, min=None, max=None, text=None):
     if tipe == "timedtext": return {"type": "TimedText", "texts": text,  "Duration": 15000 }
     if tipe == "puzzle"   : return {
         "type": "WordPuzzle",
-        "correct_feedback": "Correcto!",  # changed
+        "correct_feedback": "¡Correcto!",  # changed
         "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",  # changed
         "incorrect_delay": 5000,
         "display_delay": 2000,
@@ -175,7 +175,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
             {
                 "type": "WordPuzzle",
                 "name": f"{label}_{domain}_puzzle1",
-                "correct_feedback": "Correcto!",  # changed
+                "correct_feedback": "¡Correcto!",  # changed
                 "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",  # changed
                 "incorrect_delay": 5000,
                 "display_delay": 2000,
@@ -201,7 +201,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                 {
                     "type": "WordPuzzle",
                     "name": f"{label}_{domain}_puzzle_word2",
-                    "correct_feedback": "Correcto!",  # changed
+                    "correct_feedback": "¡Correcto!",  # changed
                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",  # changed
                     "incorrect_delay": 5000,
                     "display_delay": 2000,
@@ -227,7 +227,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                 {
                     "type": "Buttons",
                     "name": f"{label}_{domain}_comp_question",
-                    "correct_feedback": "Correcto!",  # changed
+                    "correct_feedback": "¡Correcto!",  # changed
                     "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",  # changed
                     "incorrect_delay": 5000,
                     "buttons": [a.strip() for a in answers],
