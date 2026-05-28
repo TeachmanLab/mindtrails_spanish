@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Día especial"
+            "text": "Tienes planeada una cena con alguien con quien querías pasar un tiempo. El día de la cena, te sientes un poco nervioso y te preguntas si les agradarás tanto como a ti. Sentirse nervioso es..."
         },
         {
-            "type": "Media",
-            "url": "./images/191.jpg"
+            "type": "Entry",
+            "name": "Día especial_Salud Mental_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 3
 }

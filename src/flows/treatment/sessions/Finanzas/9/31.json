@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tu alquiler se acerca pronto. Normalmente tienes tu alquiler presupuestado, pero algunos gastos inesperados te han dejado un poco corto y tienes que tomar algunos turnos extra en el... "
+            "text": "Pensando en tu capacidad para hacer el pago, no esperas atrasarte en el pago del alquiler y tus fondos serán... "
         },
         {
             "type": "Entry",
-            "name": "Costear los gastos_Finanzas_entry1"
+            "name": "Costear los gastos_Finanzas_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",

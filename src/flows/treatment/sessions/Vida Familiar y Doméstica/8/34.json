@@ -1,17 +1,10 @@
 {
-    "header_text": "Decisiones de viaje",
+    "header_text": "Recurso: Vida Familiar y Doméstica",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás considerando varias opciones para donde ir de vacaciones. Solo tienes un poco de información sobre cada destino potencial antes de tomar tu decisión. Cuando decides, te sientes..."
-        },
-        {
-            "type": "Entry",
-            "name": "Decisiones de viaje_Vida Familiar y Doméstica_entry1"
+            "text": "Familias Cambian: Guía de Separación y Divorcio\n\nActividades y guías para afrontar la separación y divorcio creadas para edades diversas."
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 9
+    ]
 }

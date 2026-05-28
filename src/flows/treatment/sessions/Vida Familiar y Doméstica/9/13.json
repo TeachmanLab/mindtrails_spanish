@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Haciendo una buena impresión"
+            "text": "Nunca has conocido a los colegas de tu pareja. Tu pareja te acaba de decir que te han invitado a cenar esta noche, y menciona que pueden ser críticos. Cuando piensas en conocer a sus colegas, tu ansiedad es...  "
         },
         {
-            "type": "Media",
-            "url": "./images/154.jpg"
+            "type": "Entry",
+            "name": "Haciendo una buena impresión_Vida Familiar y Doméstica_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 0
 }

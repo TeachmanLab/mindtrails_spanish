@@ -4,7 +4,12 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Imagínese en la situación de la página siguiente."
+            "text": "Has estado enviando mensajes de texto a alguien que realmente te gusta y, por lo general, responde rápidamente. Notas que vio tu mensaje hace un par de horas y no respondió. \n\nHaga clic en Siguiente para ver algunas ideas."
+        },
+        {
+            "type": "Media",
+            "url": "./images/330.jpg",
+            "border": true
         }
     ]
 }

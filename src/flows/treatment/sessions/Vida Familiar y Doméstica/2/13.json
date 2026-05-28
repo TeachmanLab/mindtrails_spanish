@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Acabas de tener tu primer hijo. Quieres mantener una buena relación durante toda la vida de tu hijo, pero te preocupa cometer errores como padre. Cuando tu hijo sea adulto, crees que tendrán una relación..."
+            "text": "Esperas que la relación con tu hijo adulto sea..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Tu primer hijo_Vida Familiar y Doméstica_puzzle1",
+            "type": "Buttons",
+            "name": "Tu primer hijo_Vida Familiar y Doméstica_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "cercana"
+            "buttons": [
+                "Cariñosa y cercana",
+                "Distanciada"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Cariñosa y cercana"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 0
 }

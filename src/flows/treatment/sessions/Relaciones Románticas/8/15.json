@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Mensajes en redes sociales"
+            "text": "Uno de tus amigos ha comenzado a enviarte imágenes chistosas por redes sociales. Hoy notas que abrió tu última imagen y no respondió. Seguramente se le..."
         },
         {
-            "type": "Media",
-            "url": "./images/223.jpg"
+            "type": "Entry",
+            "name": "Mensajes en redes sociales_Relaciones Románticas_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "negative",
     "scenario_num": 1
 }

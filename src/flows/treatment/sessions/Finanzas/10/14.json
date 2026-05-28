@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Ir a la quiebra"
+            "text": "Has decidido volver a estudiar para obtener otra carrera. Aunque has estado ahorrando para esto durante los últimos años, te preocupa no tener ingresos mientras regresas a la escuela. La probabilidad de que te arruines mientras estás en la escuela es..."
         },
         {
-            "type": "Media",
-            "url": "./images/249.jpg"
+            "type": "Entry",
+            "name": "Ir a la quiebra_Finanzas_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 0
 }

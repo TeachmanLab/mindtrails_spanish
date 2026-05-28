@@ -1,17 +1,16 @@
 {
-    "header_text": "Escuchando un desacuerdo",
+    "header_text": "Expresar tus sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Anoche, tu pareja y tú tuvieron una discusión. Aunque intentaron mantener la voz baja, tus hijos escucharon. Crees que tus hijos estarán..."
+            "text": "Expresar tus sentimientos"
         },
         {
-            "type": "Entry",
-            "name": "Escuchando un desacuerdo_Relaciones Románticas_entry1"
+            "type": "Media",
+            "url": "./images/228.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 4
 }

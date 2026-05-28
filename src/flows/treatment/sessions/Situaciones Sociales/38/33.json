@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Terminas una tarea que tienes que entregar la próxima semana para le pides la opinión a tu jefe. Te dice que el trabajo está bien, excepto por una sección incompleta. Sientes que piensa que eres..."
+            "text": "Al final, te das cuenta que señaló el error para que pudieras mejorarlo antes de enviarlo. Corriges la sección incompleta y crees que tu jefe piensa que estás..."
         },
         {
             "type": "Entry",
-            "name": "Opinión importante_Situaciones Sociales_entry1"
+            "name": "Opinión importante_Situaciones Sociales_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",

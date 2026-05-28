@@ -1,29 +1,16 @@
 {
-    "header_text": "Alzar la voz en una clase",
+    "header_text": "Taller de escritura",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te da vergüenza haber levantado la mano?"
+            "text": "Taller de escritura"
         },
         {
-            "type": "Buttons",
-            "name": "Alzar la voz en una clase_Académicos/Trabajo/Desarrollo Profesional_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/32.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 6
 }

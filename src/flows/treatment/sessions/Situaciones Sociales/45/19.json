@@ -4,13 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Una presentación grande"
+            "text": "Estás a punto de dar una presentación importante. Te sientes ansioso al respecto. Esta sensación te produce..."
         },
         {
-            "type": "Media",
-            "url": "./images/2.jpg"
+            "type": "WordPuzzle",
+            "name": "Una presentación grande_Situaciones Sociales_puzzle1",
+            "correct_feedback": "¡Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "excitación"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 2
 }

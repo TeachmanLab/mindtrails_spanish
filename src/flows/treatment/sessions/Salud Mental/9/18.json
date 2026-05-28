@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Invitar gente"
+            "text": "Notas que tu casa es más pequeña y no tan espaciosa como las casas de otras personas que conoces. Tus compañeros de trabajo nunca han estado en tu casa, pero quieren venir. Crees que su reacción hacia tu hogar será..."
         },
         {
-            "type": "Media",
-            "url": "./images/344.jpg"
+            "type": "Entry",
+            "name": "Invitar gente_Salud Mental_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 2
 }

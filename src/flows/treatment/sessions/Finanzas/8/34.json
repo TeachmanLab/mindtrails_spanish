@@ -1,17 +1,14 @@
 {
-    "header_text": "Gestión de crédito",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Al pensar en lo que harías con la tarjeta de crédito, no te imaginas que de repente gastarás imprudentemente, y piensas que probablemente gastarías el dinero... "
+            "text": "Piensas en una situación en la que te encantaría estar, pero tienes demasiado miedo o ansiedad para ponerte en ella, aunque pueda llevar al crecimiento personal. ¿Qué estrategias podrías poner en práctica para ayudarte a llegar allí?"
         },
         {
             "type": "Entry",
-            "name": "Gestión de crédito_Finanzas_entry2"
+            "name": "Consejo #10_entry"
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 9
+    ]
 }

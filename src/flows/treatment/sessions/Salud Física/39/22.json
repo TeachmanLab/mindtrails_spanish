@@ -1,17 +1,16 @@
 {
-    "header_text": "Recuperando el aliento",
+    "header_text": "Primera vez patinas sobre hielo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Es una mañana fresca y estás subiendo unas escaleras para llegar a tu trabajo. Empiezas a sentirte realmente sin aliento cuando llegas al último escalón. Tomas un segundo para respirar y sentirte..."
+            "text": "Primera vez patinas sobre hielo"
         },
         {
-            "type": "Entry",
-            "name": "Recuperando el aliento_Salud Física_entry1"
+            "type": "Media",
+            "url": "./images/415.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 4
 }

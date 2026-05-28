@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Aplicaciones de citas"
+            "text": "Llevas un tiempo soltero y te gustaría mucho conocer a alguien. Tus amigos siguen sugiriendo aplicaciones de citas, pero no crees que esto funcione para ti. Piensas en las diferentes formas de conocer a alguien y te sientes..."
         },
         {
-            "type": "Media",
-            "url": "./images/226.jpg"
+            "type": "Entry",
+            "name": "Aplicaciones de citas_Relaciones Románticas_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 6
 }

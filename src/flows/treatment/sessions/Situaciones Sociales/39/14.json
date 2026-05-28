@@ -1,17 +1,16 @@
 {
-    "header_text": "Cambio de planes",
+    "header_text": "Publicando nuevo contenido",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hiciste planes con tus amigos que has estado esperando toda la semana. Cuando conduces hasta tu casa y llamas para decirles que estás allí, parece que ya están saliendo con otras personas y te cuelgan abruptamente. Crees que tus amigos están..."
+            "text": "Publicando nuevo contenido"
         },
         {
-            "type": "Entry",
-            "name": "Cambio de planes_Situaciones Sociales_entry1"
+            "type": "Media",
+            "url": "./images/558.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 0
+    "scenario_num": 1
 }

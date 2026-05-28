@@ -1,17 +1,16 @@
 {
-    "header_text": "Pidiendo dinero",
+    "header_text": "Escándalo de ahorro",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has tenido algunos problemas financieros recientemente. Para llegar a fin de mes, necesitas pedir un préstamo a un familiar. Piensas que esto es... "
+            "text": "Escándalo de ahorro"
         },
         {
-            "type": "Entry",
-            "name": "Pidiendo dinero_Finanzas_entry1"
+            "type": "Media",
+            "url": "./images/301.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 8
 }

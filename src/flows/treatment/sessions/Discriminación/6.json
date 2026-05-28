@@ -1,15 +1,15 @@
 {
-    "header_text": "Denuncias ",
+    "header_text": "Cuidados Personales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "<strong>División de Derechos Civiles:</strong> La División de Derechos Civiles hace cumplir las leyes federales que lo protegen de la discriminación por motivos de raza, color, origen nacional, discapacidad, sexo, religión, estado familiar o la pérdida de otros derechos constitucionales. <a href=\"https://www.hhs.gov/civil-rights/filing-a-complaint/complaint-process/spanish/index.html\">https://www.hhs.gov/civil-rights/filing-a-complaint/complaint-process/spanish/index.html</a><br><br>",
+            "text": "<strong>Salud Mental:</strong> Este conjunto de herramientas incluye recursos sobre cómo mejorar el bienestar mental para ti y tu familia, recursos educativos para aprender más sobre salud mental y organizaciones locales y nacionales para buscar ayuda. <a href=\"https://wecanatx.org/sanacion/\">https://wecanatx.org/sanacion/</a><br><br>",
             "html": true
         }
     ],
     "condition": [
-        "Denuncias",
+        "Cuidados Personales",
         "in",
         "Selected_Support"
     ]

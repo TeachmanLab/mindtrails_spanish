@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Decisiones de viaje"
+            "text": "Estás considerando varias opciones para donde ir de vacaciones. Solo tienes un poco de información sobre cada destino potencial antes de tomar tu decisión. Cuando decides, te sientes..."
         },
         {
-            "type": "Media",
-            "url": "./images/130.jpg"
+            "type": "Entry",
+            "name": "Decisiones de viaje_Vida Familiar y Doméstica_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 9
 }

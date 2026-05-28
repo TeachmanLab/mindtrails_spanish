@@ -1,17 +1,14 @@
 {
-    "header_text": "Ruidos del exterior",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te acabas de mudar a una nueva casa. Afuera está oscuro y de repente escuchas ruidos afuera. Miras por la ventana y ves un..."
+            "text": "Piensas en algo que te causó ansiedad la primera vez que lo hiciste. ¿Qué estrategias te ayudaron a superar eso?"
         },
         {
             "type": "Entry",
-            "name": "Ruidos del exterior_Vida Familiar y Doméstica_entry1"
+            "name": "Consejo #1_entry"
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 9
+    ]
 }

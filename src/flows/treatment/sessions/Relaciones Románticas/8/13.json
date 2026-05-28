@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "sin notificaciones"
+            "text": "Ya es tarde en el día y no has hablado con tu pareja. No crees que hayas hecho nada para molestarlo, pero parece que te está ignorando. Te das cuenta de que probablemente está teniendo una semana..."
         },
         {
-            "type": "Media",
-            "url": "./images/222.jpg"
+            "type": "Entry",
+            "name": "sin notificaciones_Relaciones Románticas_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 0
 }

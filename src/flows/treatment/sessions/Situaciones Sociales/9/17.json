@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Clase de baile"
+            "text": "Estás tomando una clase de baile y, durante un descanso, te encuentras hablando con otro participante que viene quejando sobre tu trabajo. Mientras hablan, te das cuenta de que estás sudando. Ellos probablemente piensan que esto es resultado del..."
         },
         {
-            "type": "Media",
-            "url": "./images/459.jpg"
+            "type": "Entry",
+            "name": "Clase de baile_Situaciones Sociales_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 2
 }

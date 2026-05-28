@@ -1,39 +1,10 @@
 {
-    "header_text": "Tu nueva publicación",
+    "header_text": "Maneja tus sentimientos: Situaciones Sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿La gente ignoró tu publicación?"
-        },
-        {
-            "type": "Buttons",
-            "name": "Tu nueva publicación_Situaciones Sociales_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "text": "Cuando sientas que los demás te están juzgando negativamente, observa si los hechos de la situación apoyan esa emoción (por ejemplo, probablemente te estén mirando porque están escuchando lo que dices, no porque piensen que eres feo)"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 9,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Recuerde, cuanto más practique pensar en situaciones de nuevas maneras en nuestra aplicación, podras pensar positivamente sobre situaciones aterradoras en tu vida."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    ]
 }

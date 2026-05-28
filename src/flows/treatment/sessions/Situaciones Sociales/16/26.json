@@ -1,19 +1,14 @@
 {
-    "header_text": "Amigo ruidoso: Comportamientos",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu auto se descompuso y un amigo te va a dejar en una reunión. Cuando te deja, hace mucho ruido y todos los que están allí te miran. \n\nTómese 30 segundos para escribir diferentes comportamientos. El siguiente botón aparecerá automáticamente.\n\nComportamientos que podrías realizar en este momento:"
+            "text": "Cuando te encuentras saltando al peor de los casos sin toda la información, ¿cualés son algunas cosas que podrías decirte a ti mismo? Piensas en algunas habilidades de las historias que has leído que podrían ser útiles para ti. "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "Consejo #4_entry"
         }
-    ],
-    "navigation_conditions": [
-        {
-            "wait_for_time": 30000
-        },
-        "wait_for_click"
     ]
 }

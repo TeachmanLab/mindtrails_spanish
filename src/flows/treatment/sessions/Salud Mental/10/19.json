@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "siendo padre"
+            "text": "Estás pasando tiempo con tu hija pequeña durante el fin de semana. Tu hija es muy dulce, pero a veces te frustras con ella y te preguntas cómo se llevarán ustedes dos en el futuro. Cuando piensas en tu relación con ella a medida que crece, te visualizas siendo..."
         },
         {
-            "type": "Media",
-            "url": "./images/325.jpg"
+            "type": "Entry",
+            "name": "siendo padre_Salud Mental_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 2
 }

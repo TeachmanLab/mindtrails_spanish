@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Por primera vez"
+            "text": "¡Te han invitado a salir en una cita por primera vez en mucho tiempo! Te sientes nervioso por esta experiencia un tanto nueva y temes hacer algo embarazoso. Cuando piensas en la cita, te sientes..."
         },
         {
-            "type": "Media",
-            "url": "./images/236.jpg"
+            "type": "Entry",
+            "name": "Por primera vez_Relaciones Románticas_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 3
 }

@@ -1,25 +1,10 @@
 {
-    "header_text": "Trabajar en grupos: Sentimientos",
+    "header_text": "Trabajar en grupos:  Escribe Alguno Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu jefe les dice a todos que mañana los dividirá en pequeños grupos para planificar nuevos proyectos de trabajo. También dice que tendrás que elegir tu grupo, pero te das cuenta de que no tienes amigos cercanos en tu lugar de trabajo.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
-        },
-        {
-            "type": "TimedText",
-            "texts": [
-                "Estoy emocionado de hacer nuevos amigos.",
-                "Me siento motivado a hacer mi mejor trabajo.",
-                "Estoy nervioso porque no tengo buenas ideas.",
-                "Tengo miedo de que mi grupo me excluya, pero sé que esta discusión sólo durará unos minutos.",
-                "Me entristece que nadie me conozca tan bien, pero me siento mejor pensando que les agradaré una vez que me conozcan más."
-            ],
-            "Duration": 15000
+            "text": "¡Ahora tu intenta! ¿Cuáles son algunos de los sentimientos que podrías tener en este momento? Estos no tienen por qué ser solo sentimientos que haya tenido en el pasado o sentimientos negativos que supone que tendrá en el momento. Piense creativamente en los sentimientos positivos y negativos que puedan surgir como reacción a la situación. Si escribe un sentimiento negativo, intente escribir también cómo podría afrontarlo. \n\nEn la página siguiente, tómate 30 segundos para escribir tantos sentimientos diferentes que puedas imaginar tener en esta situación. Puedes ser tan creativo como tu quieras. Si escribes algún sentimiento negativo (como miedo o ansiedad), intenta escribir también cómo podrías ayudarte a sentirte mejor en ese momento.\n\nPresiona regresar después de cada sentimiento para escribir uno nuevo en cada línea."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
     ]
 }

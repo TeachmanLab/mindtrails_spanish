@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Comentarios de publicaciones de Instagram"
+            "text": "Acabas de recibir un reconocimiento por un proyecto en el que trabajaste. Solo has recibido felicitaciones de unas pocas personas y pensabas que habría más reacciones. Te preguntas si la gente no te felicita porque está..."
         },
         {
-            "type": "Media",
-            "url": "./images/338.jpg"
+            "type": "Entry",
+            "name": "Comentarios de publicaciones de Instagram_Salud Mental_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 8
 }

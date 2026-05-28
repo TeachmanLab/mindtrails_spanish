@@ -1,27 +1,16 @@
 {
-    "header_text": "Corriendo con un amigo",
+    "header_text": "Corriendo una maratón",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Crees que mañana no te quedarás atrás, y las posibilidades de que puedas seguir el ritmo de tu amigo son..."
+            "text": "Corriendo una maratón"
         },
         {
-            "type": "Entry",
-            "name": "Corriendo con un amigo_Salud Física_entry2"
+            "type": "Media",
+            "url": "./images/417.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Al igual que un músculo, tu cerebro fortalece las vías que más utiliza. Por eso practicar muchas situaciones te ayuda a cambiar tus hábitos de pensamiento."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 5
 }

@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "El año acaba de terminar y tu jefe quiere reunirse contigo para hablar sobre tu rendimiento. Tiene expectativas altas para ti, pero tu rendimiento fue peor que en años anteriores. Tu jefe está..."
+            "text": "Piensas en por qué quiere que te desempeñes bien. Sabes que es porque quiere que te vaya bien, eso te..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Expectativas_Vida Familiar y Doméstica_puzzle1",
+            "name": "Expectativas_Vida Familiar y Doméstica_puzzle_word2",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "enojado"
+                "asegura"
             ],
             "missing_letter_count": 1
         }

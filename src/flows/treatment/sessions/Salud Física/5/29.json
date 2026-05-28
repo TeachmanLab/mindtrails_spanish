@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Te encuentras con un amigo para almorzar en un nuevo restaurante. Una vez que te sientas, te das cuenta de que tu mesa no fue limpiada después de los clientes anteriores, lo que te pone ansioso por los gérmenes. Decides quedarte a almorzar con tu amigo, y tu ansiedad es..."
+            "text": "Mientras almuerzas con tu amigo, tu ..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Una mesa sucia_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Una mesa sucia_Salud Física_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "tolerable"
+            "buttons": [
+                "Estás insoportablemente ansiosos.",
+                "eres capaces de disfrutar la conversación."
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "eres capaces de disfrutar la conversación."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 5
 }

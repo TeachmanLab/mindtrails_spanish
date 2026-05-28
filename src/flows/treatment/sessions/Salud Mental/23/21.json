@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Yendo de vacaciones"
+            "text": "Te vas de vacaciones por unos días. Decides verificar nuevamente que todos los electrodomésticos de tu casa estén apagados. Al cerrar la puerta de tu casa, te sientes..."
         },
         {
-            "type": "Media",
-            "url": "./images/142.jpg"
+            "type": "Entry",
+            "name": "Yendo de vacaciones_Salud Mental_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "negative",
     "scenario_num": 4
 }

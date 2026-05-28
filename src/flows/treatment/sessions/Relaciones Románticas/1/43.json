@@ -1,29 +1,14 @@
 {
-    "header_text": "Expresar tus sentimientos",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tu pareja se enojará contigo por expresar tu preocupación?"
+            "text": "Cuando te encuentras saltando al peor de los casos sin toda la información, ¿cualés son algunas cosas que podrías decirte a ti mismo? Piensas en algunas habilidades de las historias que has leído que podrían ser útiles para ti. "
         },
         {
-            "type": "Buttons",
-            "name": "Expresar tus sentimientos_Relaciones Románticas_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "type": "Entry",
+            "name": "Consejo #4_entry"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 9
+    ]
 }

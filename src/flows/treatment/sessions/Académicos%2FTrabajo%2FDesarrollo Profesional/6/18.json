@@ -1,19 +1,10 @@
 {
-    "header_text": "Balancear responsibilidades: Escribe Algunos Pensamientos",
+    "header_text": "Balancear responsibilidades: Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes muchas tareas domésticas que hacer esta noche y también tienes un gran proyecto que debes entregar mañana. Ambos tienen que hacerse y usted piensa en cómo manejará todo.\n\nTómese 30 segundos para escribir pensamientos diferentes. El siguiente botón aparecerá automáticamente. \n\nPensamientos en el momento:"
-        },
-        {
-            "type": "Entry"
+            "text": "¡Gran trabajo! Ahora verás algunos sentimientos."
         }
-    ],
-    "navigation_conditions": [
-        {
-            "wait_for_time": 30000
-        },
-        "wait_for_click"
     ]
 }

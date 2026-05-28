@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Exposición reciente"
+            "text": "Estuviste expuesto recientemente a alguien que dio positivo, pero te hiciste la prueba y no has experimentado ningún síntoma. Tus amigos te invitan a cenar con ellos y te preguntas si deberías ir. Das negativo y sales con tus..."
         },
         {
-            "type": "Media",
-            "url": "./images/435.jpg"
+            "type": "Entry",
+            "name": "Exposición reciente_Salud Física_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 3
 }

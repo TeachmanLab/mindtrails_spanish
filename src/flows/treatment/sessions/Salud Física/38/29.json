@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Un vuelo internacional"
+            "text": "Estás viajando a otro país. Durante el vuelo, miras por la ventana y te das cuenta de que nunca has estado tan alto sobre el océano. Te sientes..."
         },
         {
-            "type": "Media",
-            "url": "./images/398.jpg"
+            "type": "Entry",
+            "name": "Un vuelo internacional_Salud Física_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 7
 }

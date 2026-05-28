@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Miedo a perderse algo"
+            "text": "Cuando llegas al trabajo, escuchas a algunos colegas hablando sobre la noche divertida que pasaron juntos anoche. No recuerdas haber sido invitado a salir con ellos. Piensas en perderte la diversión y consideras que no fuiste invitado porque estás..."
         },
         {
-            "type": "Media",
-            "url": "./images/490.jpg"
+            "type": "Entry",
+            "name": "Miedo a perderse algo_Situaciones Sociales_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 9
 }

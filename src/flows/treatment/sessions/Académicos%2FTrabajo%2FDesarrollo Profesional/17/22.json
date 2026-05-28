@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado trabajando duro todo el año en un proyecto y tu jefe de departamento te ha invitado a hablar de ello en un evento. Muchos de tus amigos y compañeros de trabajo estarán allí, y no crees que tu trabajo sea suficiente para impresionarlos. Piensas que tu jefe de departamento te invitó por una razón y que tu trabajo vale la pena... "
+            "text": "¿Impresionará tu trabajo a la gente en el evento?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Presentación de tu trabajo_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "type": "Buttons",
+            "name": "Presentación de tu trabajo_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "ver"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 3
 }

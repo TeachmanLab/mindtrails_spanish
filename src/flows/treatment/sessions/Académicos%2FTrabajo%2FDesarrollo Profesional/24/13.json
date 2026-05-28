@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Revisando tus cualificaciones"
+            "text": "Estás en una nueva ciudad y necesitas empezar a solicitar trabajos. Comienzas a revisar los requisitos para los puestos y, aunque has trabajado duro para preparar tu currículum, te preguntas si será suficiente. Piensas en tus logros y sabes que has hecho más que..."
         },
         {
-            "type": "Media",
-            "url": "./images/53.jpg"
+            "type": "Entry",
+            "name": "Revisando tus cualificaciones_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 0
 }

@@ -1,29 +1,16 @@
 {
-    "header_text": "Un hallazgo afortunado",
+    "header_text": "Llamada telefónica del lunes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando te mudes a tu casa, probablemente..."
+            "text": "Llamada telefónica del lunes"
         },
         {
-            "type": "Buttons",
-            "name": "Un hallazgo afortunado_Vida Familiar y Doméstica_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Lamentarás tu decisión.",
-                "Descubrirás que tu casa tiene sentido acogedor."
-            ],
-            "column_Count": 1,
-            "correct_value": "Descubrirás que tu casa tiene sentido acogedor."
+            "type": "Media",
+            "url": "./images/141.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 4
 }

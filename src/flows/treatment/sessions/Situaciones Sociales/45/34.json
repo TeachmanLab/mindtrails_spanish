@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás hablando con un grupo de amigos sobre programas de televisión. Cuando compartes tu opinión sobre un programa viejo que acabas de descubrir, nadie responde. Probablemente están pensando en lo interesante que suena la..."
+            "text": "¿Tus amigos te juzgan por lo que dijiste sobre el programa de televisión?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Hablando sobre televisión_Situaciones Sociales_puzzle1",
+            "type": "Buttons",
+            "name": "Hablando sobre televisión_Situaciones Sociales_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "trama"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 6
 }

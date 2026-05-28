@@ -1,25 +1,10 @@
 {
-    "header_text": "Responsibilidad financiera: Sentimientos",
+    "header_text": "Responsibilidad financiera:  Escribe Alguno Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Su pareja estuvo en el hospital recientemente y usted ha estado ayudando a pagar sus facturas médicas. Te preguntas qué significará esto para tus finanzas en el futuro.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
-        },
-        {
-            "type": "TimedText",
-            "texts": [
-                "Tengo miedo de lo que esto significa para mis finanzas, pero confío en que lo resolveremos.",
-                "Estoy encantada de que mi pareja haya salido del hospital.",
-                "Confío en nuestro plan para manejar esta situación.",
-                "La incertidumbre de esta situación es incómoda, pero puedo tolerarla.",
-                "Me aterroriza pensar que nunca nos recuperaremos financieramente de esto."
-            ],
-            "Duration": 15000
+            "text": "¡Ahora tu intenta! ¿Cuáles son algunos de los sentimientos que podrías tener en este momento? Estos no tienen por qué ser solo sentimientos que haya tenido en el pasado o sentimientos negativos que supone que tendrá en el momento. Piense creativamente en los sentimientos positivos y negativos que puedan surgir como reacción a la situación. Si escribe un sentimiento negativo, intente escribir también cómo podría afrontarlo. \n\nEn la página siguiente, tómate 30 segundos para escribir tantos sentimientos diferentes que puedas imaginar tener en esta situación. Puedes ser tan creativo como tu quieras. Si escribes algún sentimiento negativo (como miedo o ansiedad), intenta escribir también cómo podrías ayudarte a sentirte mejor en ese momento.\n\nPresiona regresar después de cada sentimiento para escribir uno nuevo en cada línea."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
     ]
 }

@@ -4,22 +4,36 @@
     "elements": [
         {
             "type": "Text",
-            "text": "No tienes acceso estable a Internet en casa y te enteraste de que tu trabajo ha pasado a operaciones en línea. Te preguntas cómo podrás mantener el ritmo de tu trabajo. Al pensar en la situación, te sientes..."
+            "text": "¿Te preocupa mantenerte al día con tu trabajo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "WiFi inestable_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "type": "Buttons",
+            "name": "WiFi inestable_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "estresado"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "negative",
-    "scenario_num": 7
+    "scenario_num": 7,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "En el mundo real, a veces las cosas no van bien. ¡Es importante tener algunas historias que terminen negativamente para enseñarte a manejar tu ansiedad cuando surgen situaciones negativas!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

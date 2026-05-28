@@ -1,29 +1,14 @@
 {
-    "header_text": "Dolor de cabeza en el consultorio",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tu dolor de cabeza significa que te pondrás tan enfermo como tus amigos?"
+            "text": "Para una situación reciente que te hizo ansioso, pregúntate: ¿Cómo podría haberlo pensado en otro momento, en otro estado de ánimo? ¿La forma en que pensaste al respecto se alineó con lo que realmente sucedió? ¿Hay alternativas? "
         },
         {
-            "type": "Buttons",
-            "name": "Dolor de cabeza en el consultorio_Salud Física_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "type": "Entry",
+            "name": "Consejo #8_entry"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 9
+    ]
 }

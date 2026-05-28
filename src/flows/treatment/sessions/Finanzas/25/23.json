@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Pagando facturas"
+            "text": "Tienes que pagar el alquiler del próximo mes pronto. Has estado bajo estrés financiero últimamente y no estás seguro de si tienes suficiente dinero para hacer el pago del alquiler. Piensas que hacer un plan para pagar tu alquiler a tiempo será..."
         },
         {
-            "type": "Media",
-            "url": "./images/278.jpg"
+            "type": "Entry",
+            "name": "Pagando facturas_Finanzas_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 4
 }

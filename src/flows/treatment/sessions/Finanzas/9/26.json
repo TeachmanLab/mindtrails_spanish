@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Chistes de compras"
+            "text": "Estás solo en el supermercado. Observas a otros dos miembros de la facultad juntos en la otra parte de la tienda, riéndose. Probablemente se estén riendo de un..."
         },
         {
-            "type": "Media",
-            "url": "./images/256.jpg"
+            "type": "Entry",
+            "name": "Chistes de compras_Finanzas_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 6
 }

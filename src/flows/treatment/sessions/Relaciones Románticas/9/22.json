@@ -4,13 +4,24 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Expresar tus sentimientos"
+            "text": "Tú pareja ha estado pasando mucho tiempo con sus amigos últimamente. Sientes que ellos prefieren pasar el rato con sus amigos que contigo. Decides decirle a tu pareja cómo te..."
         },
         {
-            "type": "Media",
-            "url": "./images/228.jpg"
+            "type": "Entry",
+            "name": "Expresar tus sentimientos_Relaciones Románticas_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "MindTrails te brinda el coraje para enfrentar situaciones inciertas, brindándote la confianza para abordarlas en la vida real."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

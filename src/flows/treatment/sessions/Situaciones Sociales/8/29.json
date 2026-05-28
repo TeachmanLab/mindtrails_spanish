@@ -1,17 +1,16 @@
 {
-    "header_text": "Amigo Tarde",
+    "header_text": "Prepararte para tener éxito",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te encontrarás con un amigo en un parque local. Después de 20 minutos, tu amigo todavía no ha llegado. Crees que probablemente..."
+            "text": "Prepararte para tener éxito"
         },
         {
-            "type": "Entry",
-            "name": "Amigo Tarde_Situaciones Sociales_entry1"
+            "type": "Media",
+            "url": "./images/64.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 8
 }

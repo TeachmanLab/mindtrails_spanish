@@ -1,29 +1,10 @@
 {
-    "header_text": "Yendo a dormir",
+    "header_text": "Recurso: Salud Física",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te preocupas la pesadez en el pecho al quedarte dormido?"
-        },
-        {
-            "type": "Buttons",
-            "name": "Yendo a dormir_Salud Física_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "text": "MiBuscadorDeSalud\n\nOperado por el Departamento de Salud de los EE. UU., brinda información, artículos sobre cuestiones de salud, y servicios de búsqueda para recursos de salud nacionales y locales."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 9
+    ]
 }

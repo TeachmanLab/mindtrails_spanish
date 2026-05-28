@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tu pareja de cuatro años ha preguntado recientemente cómo te sientes acerca del matrimonio. Te sientes muy enamorado de tu pareja, pero te preocupas por las altas tasas de divorcio y si eso te podría... "
+            "text": "Reflexionando sobre la idea de casarte con tu pareja, no te sientes demasiado asustado y crees que tu matrimonio sería... "
         },
         {
             "type": "Entry",
-            "name": "Casarse con tu pareja_Relaciones Románticas_entry1"
+            "name": "Casarse con tu pareja_Relaciones Románticas_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",

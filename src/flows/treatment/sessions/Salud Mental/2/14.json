@@ -1,29 +1,26 @@
 {
-    "header_text": "Confiar en ti mismo",
+    "header_text": "Tus habilidades con los bolos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Crees que eres tonto porque cometiste un error?"
+            "text": "Tus habilidades con los bolos"
         },
         {
-            "type": "Buttons",
-            "name": "Confiar en ti mismo_Salud Mental_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/322.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 0
+    "type": "negative",
+    "scenario_num": 1,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Recuerda responder a esta pregunta basándote en el final de la historia que acabas de leer, no en cómo crees que terminaría. ¡Esto ayudará a reforzar un pensamiento más flexible!"
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

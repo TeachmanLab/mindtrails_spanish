@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás organizando una fiesta de nacimiento para un miembro de tu familia hoy y ambos de tus padres están asistiendo. Están divorciados y a veces causan una escena embarazosa en público. Durante la fiesta, piensas en tus..."
+            "text": "Respiras profundamente y te enfocas de nuevo en organizar la fiesta de nacimiento. Decides que no puedes controlar el comportamiento de tus..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Padres visitando_Vida Familiar y Doméstica_puzzle1",
+            "name": "Padres visitando_Vida Familiar y Doméstica_puzzle_word2",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

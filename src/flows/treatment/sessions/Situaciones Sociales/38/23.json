@@ -1,17 +1,16 @@
 {
-    "header_text": "Amigos pasando tiempo juntos",
+    "header_text": "Corriendo con un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras te desplazas por tus redes sociales, ves que tus amigos salieron sin ti anoche. No recibiste una invitación para salir con ellos. Te das cuenta que a veces tus amigos pasan tiempo sin ti y que la próxima vez puedes..."
+            "text": "Corriendo con un amigo"
         },
         {
-            "type": "Entry",
-            "name": "Amigos pasando tiempo juntos_Situaciones Sociales_entry1"
+            "type": "Media",
+            "url": "./images/416.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 5
 }

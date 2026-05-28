@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Vas a una cena compartida, y quieres hacer un plato usando la receta de tu familia. Tienes la receta que te dieron tus padres, pero te preocupas que no tienes las habilidades culinarias para hacer el... "
+            "text": "Crees que las personas en la fiesta no pensarán que eres un mal cocinero y probablemente pensarán que tu comida sabe..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Plato típico_Situaciones Sociales_puzzle1",
+            "name": "Plato típico_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "plato"
+                "bien"
             ],
             "missing_letter_count": 1
         }

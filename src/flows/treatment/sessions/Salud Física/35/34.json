@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras preparas la cena, accidentalmente tocas una sartén muy caliente. Rápidamente pones tu dedo bajo agua fría y ves que tu piel se está poniendo roja. Después de unos minutos, piensas que la quemadura es...\r\n"
+            "text": "Después de correr agua sobre tu dedo, la quemadura probablemente..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Quemadura_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Quemadura_Salud Física_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "leve"
+            "buttons": [
+                "Permanecerá muy dolorosa.",
+                "Dolerá mucho menos."
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Dolerá mucho menos."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 6
 }

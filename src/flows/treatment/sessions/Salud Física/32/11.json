@@ -1,10 +1,16 @@
 {
-    "header_text": "Recordatorio de favoritos",
+    "header_text": "Sentirse mareado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recuerde que puede agregar historias, consejos y recursos a sus Favoritos haciendo clic en la estrella en la esquina superior derecha de la pantalla."
+            "text": "Sentirse mareado"
+        },
+        {
+            "type": "Media",
+            "url": "./images/360.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

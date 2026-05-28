@@ -1,10 +1,12 @@
 {
-    "header_text": "Recordatorio de favoritos",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "¡Escribe el tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Recuerde que puede agregar historias, consejos y recursos a sus Favoritos haciendo clic en la estrella en la esquina superior derecha de la pantalla."
+            "text": "En este ejercicio, ayuda al equipo de MindTrails Espanol a idear nuevas historias de capacitación que podamos incluir en nuestro programa futuro para ayudar a otros participantes."
         }
     ]
 }

@@ -4,13 +4,24 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Boca seca"
+            "text": "Has sentido sequedad en la boca durante unos días. Esto es algo que no has sentido antes. La probabilidad de que la sequedad bucal signifique un problema de salud grave es..."
         },
         {
-            "type": "Media",
-            "url": "./images/337.jpg"
+            "type": "Entry",
+            "name": "Boca seca_Salud Física_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Recuerda, MindTrails no solo cambia tu perspectiva sobre las situaciones que estás leyendo aquí, ¡sino también tu perspectiva en la vida real!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

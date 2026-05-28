@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Usando tecnología diferente"
+            "text": "Recientemente reemplazaste tu computadora portátil y tuviste que elegir una opción más económica. Ahora, tu jefe te ha pedido que completes un proyecto que necesita una aplicación que tu nueva computadora no tiene. Aun así, cuando piensas en el trabajo, te sientes capaz de..."
         },
         {
-            "type": "Media",
-            "url": "./images/69.jpg"
+            "type": "Entry",
+            "name": "Usando tecnología diferente_Salud Mental_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 3
 }

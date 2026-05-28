@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Aplicando a trabajos"
+            "text": "Aplicaste a un trabajo hace algunas semanas y acabas de recibir una respuesta. Te dicen que ya llenaron el puesto y sientes que no eres lo suficientemente inteligente. Aun así, crees que en el futuro conseguirás un..."
         },
         {
-            "type": "Media",
-            "url": "./images/114.jpg"
+            "type": "Entry",
+            "name": "Aplicando a trabajos_Salud Mental_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 0
 }

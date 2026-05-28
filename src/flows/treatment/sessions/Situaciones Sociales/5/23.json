@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Has  limitado los tamaños de tus reuniones y usando máscaras cuando estás en espacios públicos. Tu jefe, por otro lado, te ha  contado sobre las fiestas a las que ha asistido. Quieres hablar con él al respecto, porque temes que pueda traer COVID a tus reuniones, pero crees que comenzará una... "
+            "text": "¿Te preocupas que decirle a tu jefe cómo te sientes te cause problemas?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Comportamiento de riesgo_Situaciones Sociales_puzzle1",
+            "type": "Buttons",
+            "name": "Comportamiento de riesgo_Situaciones Sociales_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "pelea"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "negative",
     "scenario_num": 3
 }

@@ -1,17 +1,16 @@
 {
-    "header_text": "Experiencias pasadas",
+    "header_text": "Amgio del trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu última relación no terminó muy bien. Estás entrando en una nueva relación, pero todavía estás lidiando con los sentimientos de tu relación pasada. Crees que puedes llegar a un compromiso... "
+            "text": "Amgio del trabajo"
         },
         {
-            "type": "Entry",
-            "name": "Experiencias pasadas_Relaciones Románticas_entry1"
+            "type": "Media",
+            "url": "./images/232.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 7
 }

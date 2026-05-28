@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Empezaste a trabajar en una nueva escuela este otoño. Como todas las clases son en línea, no has podido conocer a ninguno de tus colegas en persona. Has visto a algunos de ellos pasar el rato y te sientes..."
+            "text": "Decides tomar la iniciativa y pedirles sus números. Te sientes..."
         },
         {
             "type": "Entry",
-            "name": "Conociendo gente nueva_Situaciones Sociales_entry1"
+            "name": "Conociendo gente nueva_Situaciones Sociales_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",

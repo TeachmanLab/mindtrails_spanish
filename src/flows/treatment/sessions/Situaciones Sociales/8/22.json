@@ -4,13 +4,24 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Visitar a un nuevo amigo"
+            "text": "Te ha invitado a pasar unas vacaciones en casa de un amigo y quieres llevarle un regalo, pero no puedes permitirte comprarlo. Decides escribir un poema y recitarlo para la familia de tu amigo. Cuando te imaginas leyéndolo, te..."
         },
         {
-            "type": "Media",
-            "url": "./images/259.jpg"
+            "type": "Entry",
+            "name": "Visitar a un nuevo amigo_Situaciones Sociales_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Al igual que un músculo, tu cerebro fortalece las vías que más utiliza. Por eso practicar muchas situaciones te ayuda a cambiar tus hábitos de pensamiento."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

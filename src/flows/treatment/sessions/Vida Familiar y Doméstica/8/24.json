@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Planes de vacaciones"
+            "text": "Tus suegros te han invitado a unirte a ellos para los días festivos. Estás emocionado de pasar tiempo con la familia de tu pareja, pero te preocupa que tus propios padres se sientan decepcionados de no estar con ellos. Cuando piensas en decirles a tus padres que te gustaría pasar los días festivos con tu pareja, crees que serán... "
         },
         {
-            "type": "Media",
-            "url": "./images/147.jpg"
+            "type": "Entry",
+            "name": "Planes de vacaciones_Vida Familiar y Doméstica_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 5
 }

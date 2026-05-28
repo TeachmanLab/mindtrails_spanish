@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en la piscina local. Está lleno y te das cuenta que mucha gente podrá verte en tu traje de baño. Piensas en esto y te sientes..."
+            "text": "Recuerdas que estarán concentrados en nadar y que todos los demás también estarán usando trajes de baño. Esto te..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Zambullirte_Situaciones Sociales_puzzle1",
+            "name": "Zambullirte_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "inseguro"
+                "reconforta"
             ],
             "missing_letter_count": 2
         }

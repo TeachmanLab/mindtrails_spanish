@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Hablando de ti"
+            "text": "Durante el fin de semana, decides publicar un video y algunas fotos en tus redes sociales. Cuando llegas al trabajo el lunes, escuchas a tus compañeros de trabajo chismeando sobre tus imágenes y videos. Probablemente piensan que eres..."
         },
         {
-            "type": "Media",
-            "url": "./images/562.jpg"
+            "type": "Entry",
+            "name": "Hablando de ti_Situaciones Sociales_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 1
 }

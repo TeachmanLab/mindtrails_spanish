@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tu jefe te sorprende enviando mensajes de texto durante una reunión y te llama la atención por no prestar atención. No te gusta cuando la gente está enojada contigo, pero sabes que tu jefe te dirá algo al final de la reunión. Durante el resto de la reunión, te sientes..."
+            "text": "Cuando termina la reunión, tu jefe entiende que puede haber otros asuntos importantes, pero la reunión semanal es una pequeña parte de tu tiempo. Piensas que tu jefe es... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Sentirse llamado_Salud Mental_puzzle1",
+            "name": "Sentirse llamado_Salud Mental_puzzle_word2",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "ansioso"
+                "simpático"
             ],
             "missing_letter_count": 2
         }

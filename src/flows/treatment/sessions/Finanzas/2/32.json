@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Acabas de empezar un nuevo trabajo y necesitas seleccionar uno de los planes de jubilación que ofrece tu empresa. Has estado investigando un poco sobre los diferentes tipos de planes, pero te sientes un poco abrumado y tu fecha límite para elegir se acerca rápidamente. Crees que el plan que elijas te dejará en una posición financiera..."
+            "text": "Cuando se trata de elegir un plan de jubilación, piensas que..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Planificación de pagos_Finanzas_puzzle1",
+            "type": "Buttons",
+            "name": "Planificación de pagos_Finanzas_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "sólida"
+            "buttons": [
+                "Tomarás una buena decisión porque has investigado.",
+                "Es muy probable que cometas un error, dado lo poco que sabes sobre cómo funcionan."
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Tomarás una buena decisión porque has investigado."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 6
 }

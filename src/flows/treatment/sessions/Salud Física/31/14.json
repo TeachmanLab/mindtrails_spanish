@@ -4,7 +4,12 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Imagínese en la situación de la página siguiente."
+            "text": "Tienes que hacer una presentación en una reunión hoy. Cuando te paras frente al grupo, sientes que tus mejillas se calientan y tus manos empiezan a temblar.\n\nHaga clic en Siguiente para ver algunas ideas."
+        },
+        {
+            "type": "Media",
+            "url": "./images/59.jpg",
+            "border": true
         }
     ]
 }

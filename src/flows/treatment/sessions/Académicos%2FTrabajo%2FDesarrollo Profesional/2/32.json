@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes una presentación importante hoy. Has estado trabajando duro en ello porque es un requisito para tu trabajo. Cuando comienzas la presentación, te sientes..."
+            "text": "¿Te sientes listo para tu presentación hoy?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Poniendo la preparación a prueba_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "type": "Buttons",
+            "name": "Poniendo la preparación a prueba_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "preparado"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 6
 }

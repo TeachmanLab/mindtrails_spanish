@@ -1,39 +1,16 @@
 {
-    "header_text": "Dependencia financiera",
+    "header_text": "Planificación de pagos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Podrán tus hijos ser financieramente independientes?"
+            "text": "Planificación de pagos"
         },
         {
-            "type": "Buttons",
-            "name": "Dependencia financiera_Finanzas_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "type": "Media",
+            "url": "./images/255.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Recuerda, MindTrails no solo cambia tu perspectiva sobre las situaciones que estás leyendo aquí, ¡sino también tu perspectiva en la vida real!"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "type": "negative",
+    "scenario_num": 5
 }

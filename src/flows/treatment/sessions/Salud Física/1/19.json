@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Es domingo por la mañana y acabas de correr una milla afuera. Al quitarte los zapatos en el pasillo, estás sin aliento. Te sientes..."
+            "text": "Debes..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Carrera matutina del domingo_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Carrera matutina del domingo_Salud Física_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "orgulloso"
+            "buttons": [
+                "Hacer una llamada de emergencia porque esto es señal de algo grave.",
+                "Tomarte una botella de ague y comerte un bocado despues del ejercicio."
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Tomarte una botella de ague y comerte un bocado despues del ejercicio."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 2
 }

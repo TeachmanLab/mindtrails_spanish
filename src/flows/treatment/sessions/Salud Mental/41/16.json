@@ -1,25 +1,10 @@
 {
-    "header_text": "Luchando con una presentación:Pensamientos",
+    "header_text": "Luchando con una presentación: Escribe Algunos Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Has estado luchando por armar esta presentación, pero aún no te has comunicado con tu jefe al respecto. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
-        },
-        {
-            "type": "TimedText",
-            "texts": [
-                "Mi trabajo estará en riesgo si estropeo esta presentación.",
-                "No haré mi mejor esfuerzo hoy, pero a veces se me permite tener un día libre.",
-                "Mi jefe pensará que mi presentación necesita mejoras y yo estaré de acuerdo con eso.",
-                "Soy muy trabajadora y sé que mi jefe podrá notarlo.",
-                "Mis colegas pensarán que me preparé bien para la presentación."
-            ],
-            "Duration": 15000
+            "text": "¡Ahora es tu oportunidad de ser creativo! ¿Qué podrías decirte a ti mismo para sentirte mejor en esta situación? \n\nEn la página siguiente, tómate 30 segundos para escribir todos los pensamientos diferentes que puedas tener y que serían útiles en esta situación. Puedes usar los pensamientos que viste hace un momento como inspiración, o puedes enumerar cosas que te hayas dicho a ti mismo en el pasado y que te hayan ayudado. \n\n¿Qué podrías decirte a ti mismo en esta situación que te ayudaría a sentirte menos ansioso o a manejar tus sentimientos de ansiedad?\n\nPresiona regresar después de cada pensamiento para escribir uno nuevo en cada línea."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
     ]
 }

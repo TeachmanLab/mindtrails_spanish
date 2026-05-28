@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás cenando con tus amigos universitarios y todos terminan hablando de sus carreras. Te das cuenta de que muchos de ellos tienen salarios más altos que tú, mientras que elegiste un trabajo con un salario más bajo que se alinea con tus pasiones. Cuando piensas en tu carrera a futuro, te sientes..."
+            "text": "¿Es malo que ganas menos dinero que tus amigos?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Trabajos bien pagados_Finanzas_puzzle1",
+            "type": "Buttons",
+            "name": "Trabajos bien pagados_Finanzas_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "emocionado"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 1
 }

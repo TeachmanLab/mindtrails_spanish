@@ -1,27 +1,16 @@
 {
-    "header_text": "Trabajo inacabado",
+    "header_text": "Usando tecnología diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tuviste un día muy ocupado y no pudiste realizar todas sus tareas. En la cena, tu pareja habla orgullosamente de cómo terminó todo lo que tenía en la lista de tareas pendientes. Al pensar en si podrás completar tu trabajo mañana, te sientes..."
+            "text": "Usando tecnología diferente"
         },
         {
-            "type": "Entry",
-            "name": "Trabajo inacabado_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "type": "Media",
+            "url": "./images/69.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "MindTrails te brinda el coraje para enfrentar situaciones inciertas, brindándote la confianza para abordarlas en la vida real."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 5
 }

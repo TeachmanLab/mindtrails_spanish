@@ -1,17 +1,16 @@
 {
-    "header_text": "Comparándote con otros",
+    "header_text": "Aplicaciones de citas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente, tu pareja mencionó que encuentran atractiva a cierta celebridad. Esta celebridad no se parece en nada a ti, y te preguntas si tu pareja ha cambiado sus preferencias desde el comienzo de su relación. Piensas que aún se siente atraída a..."
+            "text": "Aplicaciones de citas"
         },
         {
-            "type": "Entry",
-            "name": "Comparándote con otros_Relaciones Románticas_entry1"
+            "type": "Media",
+            "url": "./images/226.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 6
 }

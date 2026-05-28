@@ -1,29 +1,16 @@
 {
-    "header_text": "Relación a largo plazo",
+    "header_text": "Temas difíciles",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Crees que lo más probable es que tu conversación con tu pareja:"
+            "text": "Temas difíciles"
         },
         {
-            "type": "Buttons",
-            "name": "Relación a largo plazo_Relaciones Románticas_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Se convierta en una discusión.",
-                "Sea un intercambio positivo sobre lo que sienten el uno por el otro."
-            ],
-            "column_Count": 1,
-            "correct_value": "Se convierta en una discusión."
+            "type": "Media",
+            "url": "./images/208.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 1
+    "type": "positive",
+    "scenario_num": 2
 }

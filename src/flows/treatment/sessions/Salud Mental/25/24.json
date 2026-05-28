@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Vas a almorzar con un amigo nuevo. Tú y tu amigo tuvieron una conversación muy buena y te hicieron algunas preguntas que te hacen sentir vulnerable. Si llegan a conocer tu \"verdadero yo\", crees que te van a..."
+            "text": "Decides abrirte y compartir, y ellos hacen lo mismo. Mientras hablas, te sientes... "
         },
         {
             "type": "Entry",
-            "name": "Darte a conocer_Salud Mental_entry1"
+            "name": "Darte a conocer_Salud Mental_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",

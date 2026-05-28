@@ -1,39 +1,30 @@
 {
-    "header_text": "Un sonido fuerte",
+    "header_text": "Opiniones de otros",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Deberías tener miedo cuando escuchas un ruido por la noche?"
+            "text": "Opiniones de otros"
         },
         {
-            "type": "Buttons",
-            "name": "Un sonido fuerte_Vida Familiar y Doméstica_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "type": "Media",
+            "url": "./images/62.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 1,
+    "type": "positive",
+    "scenario_num": 2,
     "information": {
         "elements": [
             {
+                "type": "media",
+                "url": "./images/596.jpg"
+            },
+            {
                 "type": "text",
-                "text": "En el mundo real, a veces las cosas no van bien. ¡Es importante tener algunas historias que terminen negativamente para enseñarte a manejar tu ansiedad cuando surgen situaciones negativas!"
+                "text": "Un consejo: Recuerda tratar de imaginar vívidamente los escenarios."
             }
         ],
-        "position": "after",
+        "position": "before",
         "information_count": 1
     }
 }

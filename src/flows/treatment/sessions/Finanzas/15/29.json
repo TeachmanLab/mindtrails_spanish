@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Una de tus celebridades favoritas está presentándose cerca de ti, y has estado mirando entradas. Las entradas son más caras de lo que esperabas, y tus cheques de pago no han sido tan altos como esperabas. Decides que ahorrar es más importante y sabes que habrá otro espectáculo en tu área más adelante al que podrás..."
+            "text": "¿Te sientes mal por no poder ir al espectáculo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Oportunidad de espectáculo_Finanzas_puzzle1",
+            "type": "Buttons",
+            "name": "Oportunidad de espectáculo_Finanzas_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "asistir"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 5
 }

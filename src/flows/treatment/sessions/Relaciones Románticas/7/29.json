@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado saliendo mucho con una persona linda últimamente, pero no estás seguro de si siente lo mismo. Hoy te piden tu..."
+            "text": "No parecen preguntarte por razones mundanas y probablemente usarán tu número de teléfono para invitarte a..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Enviar mensajes de texto a alguien que te gusta_Relaciones Románticas_puzzle1",
+            "name": "Enviar mensajes de texto a alguien que te gusta_Relaciones Románticas_puzzle_word2",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "número"
+                "salir"
             ],
             "missing_letter_count": 2
         }

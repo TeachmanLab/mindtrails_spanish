@@ -4,22 +4,36 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tus hijos han estado confiando en ti financieramente, y quieres que comiencen a ser más independientes. Sabes que este es un paso importante, pero la idea de brindarles menos apoyo es abrumadora. Al pensar en el futuro, confías en que su independencia financiera será... "
+            "text": "¿Podrán tus hijos ser financieramente independientes?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Dependencia financiera_Finanzas_puzzle1",
+            "type": "Buttons",
+            "name": "Dependencia financiera_Finanzas_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "posible"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Recuerda, MindTrails no solo cambia tu perspectiva sobre las situaciones que estás leyendo aquí, ¡sino también tu perspectiva en la vida real!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

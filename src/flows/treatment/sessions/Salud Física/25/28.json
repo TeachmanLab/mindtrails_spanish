@@ -1,17 +1,16 @@
 {
-    "header_text": "Seguridad de la trampolina",
+    "header_text": "Subiendo escaleras",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus hijos están rebotando en un trampolín. Se están divirtiendo, pero también consideras su seguridad, sabiendo que los trampolines pueden ser peligrosos. Mientras los ves rebotar arriba y abajo, sientes que están bastante..."
+            "text": "Subiendo escaleras"
         },
         {
-            "type": "Entry",
-            "name": "Seguridad de la trampolina_Salud Física_entry1"
+            "type": "Media",
+            "url": "./images/419.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 7
 }

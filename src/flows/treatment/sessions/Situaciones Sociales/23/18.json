@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Amigo ruidoso"
+            "text": "Estás de compras con un amigo que tiende a ser muy ruidoso. Cuando entran a una tienda de electrónica, otros compradores se detienen y les miran a ti y a tu amigo. La experiencia es..."
         },
         {
-            "type": "Media",
-            "url": "./images/531.jpg"
+            "type": "Entry",
+            "name": "Amigo ruidoso_Situaciones Sociales_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 2
 }

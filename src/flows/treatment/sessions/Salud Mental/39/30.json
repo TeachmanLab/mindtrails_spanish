@@ -1,17 +1,16 @@
 {
-    "header_text": "Tus habilidades con los bolos",
+    "header_text": "Revisando tu trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Llevas varios años jugando a los bolos en una liga recreativa con algunos amigos. Has mejorado desde que empezaste, pero aún no eres tan hábil como te gustaría ser. Cuando piensas en ti mismo en los años venideros, te imaginas con mejores habilidades en los..."
+            "text": "Revisando tu trabajo"
         },
         {
-            "type": "Entry",
-            "name": "Tus habilidades con los bolos_Salud Mental_entry1"
+            "type": "Media",
+            "url": "./images/49.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 7
+    "type": "positive",
+    "scenario_num": 8
 }

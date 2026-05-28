@@ -1,29 +1,16 @@
 {
-    "header_text": "Un malentendido",
+    "header_text": "Opinión diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te preocupas lo que esa persona piensa de ti?"
+            "text": "Opinión diferente"
         },
         {
-            "type": "Buttons",
-            "name": "Un malentendido_Situaciones Sociales_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "type": "Media",
+            "url": "./images/524.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 6
+    "type": "positive",
+    "scenario_num": 7
 }

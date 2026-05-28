@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Zambullirte"
+            "text": "Estás en la piscina local. Está llena y te das cuenta de que mucha gente podrá verte en traje de baño. Piensas en esto y te sientes..."
         },
         {
-            "type": "Media",
-            "url": "./images/207.jpg"
+            "type": "Entry",
+            "name": "Zambullirte_Salud Mental_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
     "scenario_num": 2
 }

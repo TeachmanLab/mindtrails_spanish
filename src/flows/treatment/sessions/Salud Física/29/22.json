@@ -6,11 +6,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Razón 3:"
+            "text": "Razón 4:"
         },
         {
             "type": "Entry",
-            "name": "Razón3_WYO"
+            "name": "Razón4_WYO"
         }
     ]
 }

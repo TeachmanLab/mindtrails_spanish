@@ -1,17 +1,16 @@
 {
-    "header_text": "Tratar a un amigo",
+    "header_text": "Salir a almorzar",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo te ha estado apoyando en un momento difícil y estás realmente agradecido por su apoyo. Quieres darle las gracias tratándolo a cenar, pero no tienes suficiente dinero para llevarlos a un restaurante. Decides hacerles una cena casera y piensas que estará... "
+            "text": "Salir a almorzar"
         },
         {
-            "type": "Entry",
-            "name": "Tratar a un amigo_Finanzas_entry1"
+            "type": "Media",
+            "url": "./images/306.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 5
 }

@@ -4,22 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tu jefe les dice a todos que mañana los dividirá en pequeños grupos para planificar nuevos proyectos de trabajo. También dice que tendrás que elegir tu grupo, pero te das cuenta de que no tienes amigos cercanos en tu lugar de trabajo.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
-        },
-        {
-            "type": "TimedText",
-            "texts": [
-                "Me aseguraré de saber qué proyectos me interesa planificar antes de la reunión de mañana.",
-                "Durante la discusión, haré todo lo posible para incluir a todos en nuestra conversación grupal.",
-                "Fingiré estar enfermo y simplemente no iré a la discusión.",
-                "Querré saltármelo, pero iré de todos modos y afrontaré la sensación de ansiedad.",
-                "Les pediré a otros que estén en mi grupo, incluso si realmente no quiero."
-            ],
-            "Duration": 15000
+            "text": "¡Tu turno! Ahora depende de usted escribir tantos comportamientos como pueda que puedan resultar útiles en ese momento. Recuerde, evitar o abandonar la situación puede hacerle sentir mejor en el momento, ¡pero en realidad empeora la ansiedad en el futuro! Trate de pensar en comportamientos que pueda realizar en el momento y que le permitan permanecer en la situación. ¿Qué podrías hacer en la situación que te permita superar la ansiedad?\n\nEn la página siguiente, tómate 30 segundos para escribir todos los comportamientos que podrías realizar en ese momento y que serían útiles y te harían sentir menos ansioso en el futuro. el futuro."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
     ]
 }

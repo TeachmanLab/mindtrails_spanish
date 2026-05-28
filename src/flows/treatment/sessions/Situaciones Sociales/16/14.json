@@ -4,7 +4,12 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Imagínese en la situación de la página siguiente."
+            "text": "Tu auto se descompuso y un amigo te va a dejar en una reunión. Cuando te deja, hace mucho ruido y todos los que están allí te miran. \n\nHaga clic en Siguiente para ver algunas ideas."
+        },
+        {
+            "type": "Media",
+            "url": "./images/580.jpg",
+            "border": true
         }
     ]
 }

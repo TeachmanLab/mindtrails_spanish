@@ -4,13 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Conversación durante la cena"
+            "text": "Estás en casa de tu amigo para cenar y te preguntan sobre tus padres. No estás seguro de cómo responder porque tus padres están divorciados y no has visto a tu madre por mucho tiempo. Piensas en qué dirás y te sientes..."
         },
         {
-            "type": "Media",
-            "url": "./images/149.jpg"
+            "type": "WordPuzzle",
+            "name": "Conversación durante la cena_Situaciones Sociales_puzzle1",
+            "correct_feedback": "¡Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "seguro"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 8
 }

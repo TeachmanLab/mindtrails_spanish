@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Una gran risa"
+            "text": "En una cena, tu amigo cuenta un chiste. Te ries tanto que sientes que no puedes respirar suficiente. Esta experiencia es... "
         },
         {
-            "type": "Media",
-            "url": "./images/530.jpg"
+            "type": "Entry",
+            "name": "Una gran risa_Situaciones Sociales_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 1
 }

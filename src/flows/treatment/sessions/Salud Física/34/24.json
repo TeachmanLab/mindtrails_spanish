@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Te cortaste un poco el dedo por accidente mientras cocinabas. Limpiaste la herida rápidamente y te pusiste una curita. Más tarde esa noche, la herida te duele un poco, y piensas que probablemente se esté..."
+            "text": "¿Está seriamente infectado tu dedo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Corte de dedo_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Corte de dedo_Salud Física_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "curando"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 3
 }

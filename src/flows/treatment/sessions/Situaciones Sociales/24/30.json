@@ -1,17 +1,16 @@
 {
-    "header_text": "Conociendo gente nueva",
+    "header_text": "Hablando sobre televisión",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Decides tomar la iniciativa y pedirles sus números. Te sientes..."
+            "text": "Hablando sobre televisión"
         },
         {
-            "type": "Entry",
-            "name": "Conociendo gente nueva_Situaciones Sociales_entry2"
+            "type": "Media",
+            "url": "./images/346.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 7
+    "type": "positive",
+    "scenario_num": 8
 }

@@ -1,29 +1,16 @@
 {
-    "header_text": "Tensión familiar",
+    "header_text": "Visitar a una familia anciana",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Intentarás otra vez tener una conversación con el miembro de la familia?"
+            "text": "Visitar a una familia anciana"
         },
         {
-            "type": "Buttons",
-            "name": "Tensión familiar_Vida Familiar y Doméstica_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/152.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 2
+    "type": "positive",
+    "scenario_num": 3
 }

@@ -1,29 +1,16 @@
 {
-    "header_text": "Planes de vacaciones",
+    "header_text": "Silencio en un viaje en coche",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando les cuentes a tus padres sobre la invitación, es probable que ..."
+            "text": "Silencio en un viaje en coche"
         },
         {
-            "type": "Buttons",
-            "name": "Planes de vacaciones_Situaciones Sociales_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Se sientan muy decepcionados y heridos.",
-                "Se alegren de que hayas conocido a una pareja que te hace feliz."
-            ],
-            "column_Count": 1,
-            "correct_value": "Se sientan muy decepcionados y heridos."
+            "type": "Media",
+            "url": "./images/543.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 6
+    "type": "positive",
+    "scenario_num": 7
 }

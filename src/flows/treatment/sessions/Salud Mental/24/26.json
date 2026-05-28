@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Un comentario grosero"
+            "text": "Publicas una foto en la que te sientes muy seguro de ti mismo. Al volver a revisar los comentarios, ves uno muy grosero. Respiras profundo y decides no dejar que te..."
         },
         {
-            "type": "Media",
-            "url": "./images/334.jpg"
+            "type": "Entry",
+            "name": "Un comentario grosero_Salud Mental_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 6
 }

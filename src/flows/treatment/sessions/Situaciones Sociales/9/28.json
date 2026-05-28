@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Comunicación tardía"
+            "text": "Tu amigo te invita a una cena y después de salir, casualmente menciona que una de las personas allí estaba enfermo. No puedes creer que tu amigo no te dijera esto antes de que te llegara a la cena. Decides hablar con tu amigo al respecto y ambos deciden aislarse por unos días  por si acaso uno se enferma y comunicarse mejor sobre situaciones de... "
         },
         {
-            "type": "Media",
-            "url": "./images/453.jpg"
+            "type": "Entry",
+            "name": "Comunicación tardía_Situaciones Sociales_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 7
 }

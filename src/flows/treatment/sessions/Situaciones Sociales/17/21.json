@@ -1,29 +1,16 @@
 {
-    "header_text": "Presentación importante",
+    "header_text": "El partido de futból",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En la conferencia, la gente probablemente pensará que..."
+            "text": "El partido de futból"
         },
         {
-            "type": "Buttons",
-            "name": "Presentación importante_Situaciones Sociales_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Te ves incómodo dando tu presentación.",
-                "Haces un buen trabajo explicando tu trabajo reciente."
-            ],
-            "column_Count": 1,
-            "correct_value": "Haces un buen trabajo explicando tu trabajo reciente."
+            "type": "Media",
+            "url": "./images/506.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 2
+    "scenario_num": 3
 }

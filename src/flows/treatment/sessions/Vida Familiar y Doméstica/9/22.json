@@ -4,13 +4,24 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Presentando a tus amigos"
+            "text": "Invitaste a tu cónyuge a encontrarse con tus amigos del trabajo esta noche. Sabes que a menudo puede contar historias vergonzosas sobre ti a otras personas. Piensas en lo que va a hacer esta noche y te sientes..."
         },
         {
-            "type": "Media",
-            "url": "./images/150.jpg"
+            "type": "Entry",
+            "name": "Presentando a tus amigos_Vida Familiar y Doméstica_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "MindTrails te brinda el coraje para enfrentar situaciones inciertas, brindándote la confianza para abordarlas en la vida real."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

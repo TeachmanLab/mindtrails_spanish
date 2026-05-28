@@ -1,17 +1,16 @@
 {
-    "header_text": "Un pastel de cumpleaños",
+    "header_text": "Te sientes maread﻿o / Sintiéndote mareado",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus amigos te compras un pastel para tu cumpleaños. Cuando lo traen por la noche, recuerdas que recientemente han estado enfermos. Sosteniendo el pastel, piensas que tu posibilidad de enfermarse es bastante... "
+            "text": "Te sientes maread﻿o / Sintiéndote mareado"
         },
         {
-            "type": "Entry",
-            "name": "Un pastel de cumpleaños_Salud Física_entry1"
+            "type": "Media",
+            "url": "./images/418.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 7
+    "type": "positive",
+    "scenario_num": 8
 }

@@ -4,22 +4,36 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Un amigo te invita a una cena que está organizando. Te dice los nombres de los otros invitados, pero no conoces a nadie. Vas de cualquier manera y en camino a la fiesta, piensas que los otros invitados te encontrarán... "
+            "text": "¿Le caerás bien a los otros invitados?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Invitación a cenar_Situaciones Sociales_puzzle1",
+            "type": "Buttons",
+            "name": "Invitación a cenar_Situaciones Sociales_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "amable"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Recuerda, MindTrails no solo cambia tu perspectiva sobre las situaciones que estás leyendo aquí, ¡sino también tu perspectiva en la vida real!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

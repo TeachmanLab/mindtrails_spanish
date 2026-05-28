@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Revisando tu trabajo"
+            "text": "Te han llamado para una evaluación de desempeño con tu jefe. En general, haces un buen trabajo, pero sabes que tu jefe ha notado algunos errores últimamente. Mientras te preparas para la revisión, piensas que tu reunión probablemente se centrará en tus..."
         },
         {
-            "type": "Media",
-            "url": "./images/49.jpg"
+            "type": "Entry",
+            "name": "Revisando tu trabajo_Salud Mental_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 0
 }

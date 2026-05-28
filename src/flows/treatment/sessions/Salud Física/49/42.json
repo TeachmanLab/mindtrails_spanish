@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás tomando una clase de baile y, durante un descanso, te encuentras hablando con otro participante que viene quejando sobre tu trabajo. Mientras hablan, te das cuenta de que estás sudando. Ellos probablemente piensan que esto es resultado del..."
+            "text": "¿La persona que conociste en la clase de baile pensó que estabas ansioso?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Clase de baile_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Clase de baile_Salud Física_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "baile"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 9
 }

@@ -4,7 +4,12 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Imagínese en la situación de la página siguiente."
+            "text": "Mientras navegas por una aplicación de citas, ves a una persona atractiva que conociste en el supermercado la semana pasada. Decides que te guste su perfil. \n\nHaga clic en Siguiente para ver algunas ideas."
+        },
+        {
+            "type": "Media",
+            "url": "./images/590.jpg",
+            "border": true
         }
     ]
 }

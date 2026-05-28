@@ -1,29 +1,16 @@
 {
-    "header_text": "Gestión de crédito",
+    "header_text": "Ahorrando dinero",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Obtener una nueva tarjeta de crédito probablemente"
+            "text": "Ahorrando dinero"
         },
         {
-            "type": "Buttons",
-            "name": "Gestión de crédito_Finanzas_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "no cambiaría mucho la forma cuidadosa en que gastas",
-                "te perjudicaría financieramente al endeudarte"
-            ],
-            "column_Count": 1,
-            "correct_value": "no cambiaría mucho la forma cuidadosa en que gastas"
+            "type": "Media",
+            "url": "./images/254.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 3
+    "type": "negative",
+    "scenario_num": 4
 }

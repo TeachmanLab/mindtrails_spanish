@@ -1,17 +1,16 @@
 {
-    "header_text": "Nueva pareja",
+    "header_text": "Invitando a alguien a salir",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "El mes que viene es el cumpleaños de una prima y vas a ir a una gran reunión familiar. Llevarás a tu pareja al evento y será su primera vez conociendo a tu familia. Cuando piensas en que todos se conocerán, sientes que todo saldrá..."
+            "text": "Invitando a alguien a salir"
         },
         {
-            "type": "Entry",
-            "name": "Nueva pareja_Relaciones Románticas_entry1"
+            "type": "Media",
+            "url": "./images/178.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 3
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

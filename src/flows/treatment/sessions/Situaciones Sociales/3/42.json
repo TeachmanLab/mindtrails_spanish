@@ -1,29 +1,14 @@
 {
-    "header_text": "Un trago de agua",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando sientes ansiedad durante una presentación..."
+            "text": "Piensas en una situación próxima que quieras evitar porque te pone ansioso. ¿Cómo puedes pensarlo de manera diferente para que se sienta menos aterrador? "
         },
         {
-            "type": "Buttons",
-            "name": "Un trago de agua_Situaciones Sociales_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Tienes que parar tu exposición y huir de la situación.",
-                "Tienes la capacidad de continuar con tu exposición."
-            ],
-            "column_Count": 1,
-            "correct_value": "Tienes la capacidad de continuar con tu exposición."
+            "type": "Entry",
+            "name": "Consejo #9_entry"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 9
+    ]
 }

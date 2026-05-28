@@ -1,25 +1,10 @@
 {
-    "header_text": "Granizado derramado:Pensamientos",
+    "header_text": "Granizado derramado: Escribe Algunos Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tus amigos están saliendo a cenar. Llegan tus alimentos y bebidas y accidentalmente derramas tu bebida en la parte delantera de tu nueva camisa blanca.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
-        },
-        {
-            "type": "TimedText",
-            "texts": [
-                "Pienso en que este es un accidente común.",
-                "Siento que estoy molestando a mis amigos en este momento, pero ellos entenderán que los accidentes ocurren.",
-                "Siento que estoy haciendo una escena, pero las otras personas aquí no me conocen ni les importa esta situación.",
-                "Creo que quedaré tonto delante de todos.",
-                "Pienso en cómo será una historia divertida."
-            ],
-            "Duration": 15000
+            "text": "¡Ahora es tu oportunidad de ser creativo! ¿Qué podrías decirte a ti mismo para sentirte mejor en esta situación? \n\nEn la página siguiente, tómate 30 segundos para escribir todos los pensamientos diferentes que puedas tener y que serían útiles en esta situación. Puedes usar los pensamientos que viste hace un momento como inspiración, o puedes enumerar cosas que te hayas dicho a ti mismo en el pasado y que te hayan ayudado. \n\n¿Qué podrías decirte a ti mismo en esta situación que te ayudaría a sentirte menos ansioso o a manejar tus sentimientos de ansiedad?\n\nPresiona regresar después de cada pensamiento para escribir uno nuevo en cada línea."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
     ]
 }

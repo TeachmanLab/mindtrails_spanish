@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Vas de compras a tu tienda de ropa favorita. Ves un conjunto que te encanta, pero no crees que sea adecuado para tu tipo de cuerpo. Después de conseguirlo y probártelo, decides comprarlo, aunque no sea algo que suelas..."
+            "text": "Después de luchar contigo mismo en el vestidor, te sientes seguro y quieres ponertelo para salir, así que compras el nuevo..."
         },
         {
             "type": "Entry",
-            "name": "Nuevo estilo_Salud Mental_entry1"
+            "name": "Nuevo estilo_Salud Mental_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",

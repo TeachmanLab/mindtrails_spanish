@@ -1,10 +1,16 @@
 {
-    "header_text": "Recordatorio de favoritos",
+    "header_text": "Evaluación de salud",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recuerde que puede agregar historias, consejos y recursos a sus Favoritos haciendo clic en la estrella en la esquina superior derecha de la pantalla."
+            "text": "Evaluación de salud"
+        },
+        {
+            "type": "Media",
+            "url": "./images/375.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

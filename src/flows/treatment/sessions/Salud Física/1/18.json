@@ -4,27 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Carrera matutina del domingo"
+            "text": "Es domingo por la mañana y acabas de correr una milla afuera. Al quitarte los zapatos en el pasillo, estás sin aliento. Te sientes..."
         },
         {
-            "type": "Media",
-            "url": "./images/370.jpg"
+            "type": "WordPuzzle",
+            "name": "Carrera matutina del domingo_Salud Física_puzzle1",
+            "correct_feedback": "¡Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "orgulloso"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 2,
-    "information": {
-        "elements": [
-            {
-                "type": "media",
-                "url": "./images/596.jpg"
-            },
-            {
-                "type": "text",
-                "text": "Un consejo: Recuerda tratar de imaginar vívidamente los escenarios."
-            }
-        ],
-        "position": "before",
-        "information_count": 1
-    }
+    "scenario_num": 2
 }

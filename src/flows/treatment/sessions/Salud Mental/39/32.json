@@ -1,17 +1,16 @@
 {
-    "header_text": "Revisando tu trabajo",
+    "header_text": "Tiempo para ti mismo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te han llamado para una evaluación de desempeño con tu jefe. En general, haces un buen trabajo, pero sabes que tu jefe ha notado algunos errores recientemente. Mientras te preparas para la revisión, piensas que tu reunión probablemente se centrará en tus fortalezas y áreas de..."
+            "text": "Tiempo para ti mismo"
         },
         {
-            "type": "Entry",
-            "name": "Revisando tu trabajo_Salud Mental_entry1"
+            "type": "Media",
+            "url": "./images/149.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 9
 }

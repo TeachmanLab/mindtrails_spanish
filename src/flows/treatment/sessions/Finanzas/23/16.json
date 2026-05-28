@@ -1,17 +1,16 @@
 {
-    "header_text": "Medicina asequible",
+    "header_text": "Planificación de pagos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te despiertas sintiéndote un poco mal y decides ir al médico. Te escriben una receta pero cuando llegas a la farmacia el precio es un poco más alto de lo que esperabas. Crees que puede ser..."
+            "text": "Planificación de pagos"
         },
         {
-            "type": "Entry",
-            "name": "Medicina asequible_Finanzas_entry1"
+            "type": "Media",
+            "url": "./images/255.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 1
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Escuchaste un rumor de que tu supervisor planea despedir a alguien en tu puesto. Aunque normalmente eres un buen empleado, llegaste tarde a una reunión a principios de esta semana. sientes que la probabilidad de que te degraden es..."
+            "text": "Crees que tu supervisor podría estar ..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Mal rumor_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "type": "Buttons",
+            "name": "Mal rumor_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "mínima"
+            "buttons": [
+                "Planeando despedir a alguien más.",
+                "Planeando despedirte."
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Planeando despedir a alguien más."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 9
 }

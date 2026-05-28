@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estabas muy emocionado de regresar a las clases presenciales y decidiste comprometerte con muchas actividades. Te ha resultado difícil cumplir con todas tus responsabilidades y te preocupa estar fallando en..."
+            "text": "Te das cuenta de que volver a estar en persona es un ajuste y te llevará algún tiempo acostumbrarte al ajetreo de un semestre en persona. Piensas que con todo lo que estás pasando estás haciendo un gran..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Comprometerse con las actividades_Salud Mental_puzzle1",
+            "name": "Comprometerse con las actividades_Salud Mental_puzzle_word2",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "todo"
+                "trabajo"
             ],
             "missing_letter_count": 1
         }

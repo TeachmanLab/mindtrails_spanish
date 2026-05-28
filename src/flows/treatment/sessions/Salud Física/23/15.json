@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Caminata con amigos"
+            "text": "Tú y tus amigos han decidido ir a una caminata, aunque temes que te agotes demasiado. Un rato después de comenzar la caminata, empiezas a respirar con dificultad. Piensas que las posibilidades de que tengas que parar son..."
         },
         {
-            "type": "Media",
-            "url": "./images/454.jpg"
+            "type": "Entry",
+            "name": "Caminata con amigos_Salud Física_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
     "scenario_num": 1
 }

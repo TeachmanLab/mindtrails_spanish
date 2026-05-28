@@ -1,29 +1,30 @@
 {
-    "header_text": "Planes para el fin de semana",
+    "header_text": "Breve introducción",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tienes que ser más social?"
+            "text": "Breve introducción"
         },
         {
-            "type": "Buttons",
-            "name": "Planes para el fin de semana_Situaciones Sociales_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/66.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 5
+    "type": "resilience/negation",
+    "scenario_num": 6,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/597.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Un consejo: Trata de imaginarte diferentes formas de responder a cada escenario."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

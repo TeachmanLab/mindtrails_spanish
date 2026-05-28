@@ -4,13 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Asumir un riesgo"
+            "text": " Un orador que admiras viene a dar una charla en tu departamento. Quieres hacerle una pregunta despues de la presentación, pero no quieres avergonsarte en frente de todos. Cuando piesas en hablar con él, sientes... "
         },
         {
-            "type": "Media",
-            "url": "./images/521.jpg"
+            "type": "WordPuzzle",
+            "name": "Asumir un riesgo_Situaciones Sociales_puzzle1",
+            "correct_feedback": "¡Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "entusiasmo"
+            ],
+            "missing_letter_count": 2
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 1
 }

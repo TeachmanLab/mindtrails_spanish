@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Te has inscrito en un programa de ciencia de datos ofrecido por tu lugar de trabajo porque crees que será una habilidad útil que podrás adquirir en el futuro. Sabes que la demanda de personas con experiencia en ciencia de datos está aumentando, pero el programa es muy..."
+            "text": "Al imaginar cómo te irá en el programa, no te ves fracasando, sino que crees que tus esfuerzos por aprender algunas habilidades de ciencia de datos tendrán..."
         },
         {
             "type": "WordPuzzle",
-            "name": "El curso difícil_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "name": "El curso difícil_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "difícil"
+                "éxito"
             ],
             "missing_letter_count": 1
         }

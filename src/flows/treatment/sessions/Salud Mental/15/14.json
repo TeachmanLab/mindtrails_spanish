@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Te pones un traje nuevo por la mañana antes de partir por el día. A mitad del día, notas que te sientes un poco diferente con este nuevo conjunto. Te encanta este sentimiento y estás feliz de haber elegido usar el..."
+            "text": "¿Estás contento con el nuevo atuendo que elegiste?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Nuevo atuendo_Salud Mental_puzzle1",
+            "type": "Buttons",
+            "name": "Nuevo atuendo_Salud Mental_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "atuendo"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 0
 }

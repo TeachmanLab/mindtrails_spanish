@@ -1,17 +1,16 @@
 {
-    "header_text": "Traer un nuevo amigo a casa",
+    "header_text": "Amigos pasando tiempo juntos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Considera que vive en una situación diferente a la de su colega. También sabes que tu colega es muy amable, por lo que lo..."
+            "text": "Amigos pasando tiempo juntos"
         },
         {
-            "type": "Entry",
-            "name": "Traer un nuevo amigo a casa_Situaciones Sociales_entry2"
+            "type": "Media",
+            "url": "./images/555.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 3
+    "type": "positive",
+    "scenario_num": 4
 }

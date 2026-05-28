@@ -4,7 +4,12 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Imagínese en la situación de la página siguiente."
+            "text": "Durante la reunión de hoy, debes presentarte frente a tus colegas y a tu jefe. Has estado luchando por armar esta presentación, pero aún no te has comunicado con tu jefe al respecto. \n\nHaga clic en Siguiente para ver algunas ideas."
+        },
+        {
+            "type": "Media",
+            "url": "./images/76.jpg",
+            "border": true
         }
     ]
 }

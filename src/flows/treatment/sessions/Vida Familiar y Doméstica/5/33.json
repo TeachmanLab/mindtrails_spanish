@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Vives con algunos miembros de tu familia extendida. Tu colega te pregunta si puede venir a cenar algún día y no sabe cuántas personas viven en tu casa. Cuando imaginas a tu colega entrando a tu casa, crees que se..."
+            "text": "Consideras que vives en una situación diferente a la de tu colega. También sabes que tu colega es muy amable, por lo que lo..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Traer un nuevo amigo a casa_Vida Familiar y Doméstica_puzzle1",
+            "name": "Traer un nuevo amigo a casa_Vida Familiar y Doméstica_puzzle_word2",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "sorprenderá"
+                "aceptará"
             ],
             "missing_letter_count": 2
         }

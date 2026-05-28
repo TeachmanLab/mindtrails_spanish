@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Aprendiendo a esquíar"
+            "text": "Estás de vacaciones en un resort de montaña y estás aprendiendo a esquiar. Este es tu primer intento de esquiar cuesta abajo solo. Te acercas a la primera curva a una velocidad moderada y piensas que esquiar es...\r\n"
         },
         {
-            "type": "Media",
-            "url": "./images/406.jpg"
+            "type": "Entry",
+            "name": "Aprendiendo a esquíar_Salud Física_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 4
 }

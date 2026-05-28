@@ -1,17 +1,14 @@
 {
-    "header_text": "Error en una tarea",
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Al final, te das cuenta de que tu jefe es rápido en darte correciones porque está invirtiendo en ti y está interesados en verte..."
+            "text": "Piensas en una situación que enfrentas regularmente que te causa algo de ansiedad. ¿Qué te sueles decir a ti mismo? ¿Hay otro pensamiento que puedas decirte a ti mismo que pueda hacer que sea menos provacador de ansiedad? "
         },
         {
             "type": "Entry",
-            "name": "Error en una tarea_Situaciones Sociales_entry2"
+            "name": "Consejo #12_entry"
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 9
+    ]
 }

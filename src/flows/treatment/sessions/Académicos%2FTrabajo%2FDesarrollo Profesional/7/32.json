@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás dando un discurso en una convención de trabajo. Mientras hablas, miras la audeiencia y notas que la expresión de tu jefe es casi inexpresiva, pero puedes distinguir un ligero ceño..."
+            "text": "Después del discurso, te das cuenta de que a menudo las personas parecen inexpresivas y fruncen el ceño cuando están concentradas y se esfuerzan mucho. Piensas que es muy probable que tu jefe estuviera..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Multitud del discurso_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "name": "Multitud del discurso_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "fruncido"
+                "impresionado"
             ],
             "missing_letter_count": 2
         }

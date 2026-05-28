@@ -1,17 +1,16 @@
 {
-    "header_text": "Comparación de puntuaciones en redes sociales",
+    "header_text": "Visitar a un nuevo amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "No has tenido mucha experiencia con este aspecto y tus compañeros lo saben. Probablemente han pasado por experiencias similares y no estaban tratando de ser..."
+            "text": "Visitar a un nuevo amigo"
         },
         {
-            "type": "Entry",
-            "name": "Comparación de puntuaciones en redes sociales_Situaciones Sociales_entry2"
+            "type": "Media",
+            "url": "./images/259.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 3
+    "type": "positive",
+    "scenario_num": 4
 }

@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Presentación importante"
+            "text": "Te han pedido que hagas una presentación sobre algunos de tus últimos proyectos en una conferencia importante. Esta es una gran oportunidad para resaltar el buen trabajo que has estado haciendo, pero te sientes nervioso al hablar frente a un grupo tan grande de..."
         },
         {
-            "type": "Media",
-            "url": "./images/55.jpg"
+            "type": "Entry",
+            "name": "Presentación importante_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 0
 }

@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Esta mañana, tu pareja está viendo las noticias y escuchas que muchas empresas están reduciendo personal. Piensas en qué sucederá si tu pareja pierde su trabajo. Te sientes..."
+            "text": "Notas que tu pareja no parece molesto al escuchar las noticias. Piensas que todo estará..."
         },
         {
             "type": "Entry",
-            "name": "sintiéndote preocupado por las noticias_Vida Familiar y Doméstica_entry1"
+            "name": "sintiéndote preocupado por las noticias_Vida Familiar y Doméstica_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",

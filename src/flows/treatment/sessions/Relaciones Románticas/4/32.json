@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en un largo viaje en tren y realmente conectas con una persona atractiva que está sentada a tu lado. A medida que el viaje termina, piensas en lo mucho que te gustaría volver a ver a esta persona, pero te preocupa que puedas parecer demasiado directo. Cuando consideras invitar a la otra persona  a tomar un café, no te preocupa que te rechacen porque estás bastante seguro de que esta persona..."
+            "text": "Piensas que probablemente ustedes dos..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Invitando a alguien a salir_Relaciones Románticas_puzzle1",
+            "type": "Buttons",
+            "name": "Invitando a alguien a salir_Relaciones Románticas_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "declinará"
+            "buttons": [
+                "Nunca se volverán a ver.",
+                "Saldrán a tomar un café y lo pasarán bien."
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Nunca se volverán a ver."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "negative",
     "scenario_num": 6
 }

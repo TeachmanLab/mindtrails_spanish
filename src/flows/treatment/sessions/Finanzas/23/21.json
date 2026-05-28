@@ -1,17 +1,16 @@
 {
-    "header_text": "Costear la terapia",
+    "header_text": "Tratarse a sí mismo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has querido ir a terapia por un tiempo. Sin embargo, no estás seguro de si tienes el presupuesto para pagarlo. Piensas que es probable que encuentres un proveedor cuyos servicios sean... "
+            "text": "Tratarse a sí mismo"
         },
         {
-            "type": "Entry",
-            "name": "Costear la terapia_Finanzas_entry1"
+            "type": "Media",
+            "url": "./images/251.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 4
 }

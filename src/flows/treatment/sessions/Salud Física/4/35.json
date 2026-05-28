@@ -4,13 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Celebraciones en un juego deportivo"
+            "text": "Estás en un partido deportivo. La multitud está alentando ruidosamente a tu equipo y sientes que tu cabeza late. Te sientes..."
         },
         {
-            "type": "Media",
-            "url": "./images/388.jpg"
+            "type": "WordPuzzle",
+            "name": "Celebraciones en un juego deportivo_Salud Física_puzzle1",
+            "correct_feedback": "¡Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "preocupado"
+            ],
+            "missing_letter_count": 2
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "negative",
     "scenario_num": 7
 }

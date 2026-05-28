@@ -1,16 +1,10 @@
 {
-    "header_text": "¡Escribe el tuyo!",
-    "header_icon": [
-        "assets/subtitle.png"
-    ],
+    "header_text": "Recurso: Finanzas",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Razón 5:"
-        },
-        {
-            "type": "Entry",
-            "name": "Razón5_WYO"
+            "text": "Cómo dar prioridad a las deudas: ¿Cuáles pago primero?\n\nEste sitio explica las prioridades que uno mismo puede tener al decidir salir de deudas."
         }
     ]
 }

@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Ruidos del exterior"
+            "text": "Te acabas de mudar a una nueva casa. Afuera está oscuro y de repente escuchas ruidos afuera. Miras por la ventana y ves un..."
         },
         {
-            "type": "Media",
-            "url": "./images/145.jpg"
+            "type": "Entry",
+            "name": "Ruidos del exterior_Vida Familiar y Doméstica_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 9
 }

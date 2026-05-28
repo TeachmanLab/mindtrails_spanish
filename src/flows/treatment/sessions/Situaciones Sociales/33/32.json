@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Cuando llegas a casa, te das cuenta de que tu vecino probablemente estaba teniendo un mal día y que fue apropiado ofrecer tu ayuda. Tu vecino probablemente piensa que eres..."
+            "text": "¿Tu vecino aprecia tu oferta de ayuda con las compras?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Ayudando un vecino mayor_Situaciones Sociales_puzzle_word2",
+            "type": "Buttons",
+            "name": "Ayudando un vecino mayor_Situaciones Sociales_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "amable"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
     "scenario_num": 6
 }

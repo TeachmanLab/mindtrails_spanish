@@ -1,29 +1,10 @@
 {
-    "header_text": "Probando un dicho divertido",
+    "header_text": "Maneja tus sentimientos: Salud Mental",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te preocupa lo que pensarán tus compañeros acerca de tu chiste?"
-        },
-        {
-            "type": "Buttons",
-            "name": "Probando un dicho divertido_Salud Mental_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "text": "Cuando te sientas abrumado, tómate un momento para notar tres cosas en tu entorno que te llamen la atención (por ejemplo, ¿la persona sentada a tu lado usa zapatos geniales?)"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 9
+    ]
 }

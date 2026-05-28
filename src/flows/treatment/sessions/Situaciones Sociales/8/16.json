@@ -1,17 +1,16 @@
 {
-    "header_text": "Conocido sin mascarilla",
+    "header_text": "Preocupándote por gastar",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Llegas a una reunión con tu mascarilla puesta. Te das cuenta de que uno de tus colegas no está usando una mascarilla. Piensas que probablemente se le..."
+            "text": "Preocupándote por gastar"
         },
         {
-            "type": "Entry",
-            "name": "Conocido sin mascarilla_Situaciones Sociales_entry1"
+            "type": "Media",
+            "url": "./images/252.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 1
+    "scenario_num": 2
 }

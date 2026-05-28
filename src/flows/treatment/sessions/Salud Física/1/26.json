@@ -4,22 +4,36 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Incierto sí son buenas o malas, decides simplemente..."
+            "text": "¿Podrías aceptar tu corazón acelerado como algo ni bueno ni malo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Cargando bolsas de compras_Salud Física_puzzle_word2",
+            "type": "Buttons",
+            "name": "Cargando bolsas de compras_Salud Física_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "aceptarlas"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
-    "scenario_num": 4
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "¿Por qué estás completando palabras con letras? Al completar repetidamente las letras que faltan para completar palabras positivas, neutrales o negativas, el cerebro adopta patrones de pensamiento flexibles para reducir el pensamiento rígido."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

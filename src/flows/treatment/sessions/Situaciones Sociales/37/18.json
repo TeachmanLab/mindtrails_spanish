@@ -4,13 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Pánico de presentación"
+            "text": "Estás dando una presentación que has estado realmente nervioso por dar. Mientras hablas, sientes un nudo en la garganta y comienzas a toser. Estos sentimientos probablemente significan que estás entrando en..."
         },
         {
-            "type": "Media",
-            "url": "./images/46.jpg"
+            "type": "WordPuzzle",
+            "name": "Pánico de presentación_Situaciones Sociales_puzzle1",
+            "correct_feedback": "¡Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "pánico"
+            ],
+            "missing_letter_count": 2
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
     "scenario_num": 2
 }

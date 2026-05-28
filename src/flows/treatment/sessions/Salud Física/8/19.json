@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Primera vez pantinaje sobre hielo"
+            "text": "Tu amigo disfruta patinar sobre hielo y te convence de probarlo. En la pista te pones los patines y comienzas a deslizarte lentamente al principio, luego más rápido, y piensas que tus posibilidades de lastimarte son..."
         },
         {
-            "type": "Media",
-            "url": "./images/415.jpg"
+            "type": "Entry",
+            "name": "Primera vez pantinaje sobre hielo_Salud Física_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 3
 }

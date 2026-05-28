@@ -1,17 +1,16 @@
 {
-    "header_text": "El torneo de fútbol",
+    "header_text": "Comentarios honestos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Crees que no defraudarás a tus compañeros y contribuirás al éxito del..."
+            "text": "Comentarios honestos"
         },
         {
-            "type": "Entry",
-            "name": "El torneo de fútbol_Situaciones Sociales_entry2"
+            "type": "Media",
+            "url": "./images/536.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 1
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

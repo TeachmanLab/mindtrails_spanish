@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Hilo de pensamientos"
+            "text": "Estás dando una presentación en el trabajo. Durante una de tus diapositivas, pierdes el hilo de tus pensamientos y tienes que tomar un momento para revisar tus notas. Mientras comienzas de nuevo, piensas que perder el hilo de los pensamientos durante una presentación es..."
         },
         {
-            "type": "Media",
-            "url": "./images/67.jpg"
+            "type": "Entry",
+            "name": "Hilo de pensamientos_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 3
 }

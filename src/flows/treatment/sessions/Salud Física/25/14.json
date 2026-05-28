@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "El dolor de muelas"
+            "text": "Tu diente ha estado doliendo recientemente, por lo que decides hacer una cita con el dentista. Piensas en el dolor y en lo que podría ser. Mientras esperas tu cita, te sientes..."
         },
         {
-            "type": "Media",
-            "url": "./images/413.jpg"
+            "type": "Entry",
+            "name": "El dolor de muelas_Salud Física_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 0
 }

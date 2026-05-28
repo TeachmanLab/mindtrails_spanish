@@ -1,29 +1,10 @@
 {
-    "header_text": "Prestando de un amigo",
+    "header_text": "Recurso: Situaciones Sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tu amigo pensará que llevaste su cargador a propósito?"
-        },
-        {
-            "type": "Buttons",
-            "name": "Prestando de un amigo_Situaciones Sociales_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "text": "Alianza Americas: Caja de herramientas\n\nLa misión de Alianza Americas, una organización transnacional, es crear una vida “más inclusiva, equitativa, y sostenible” para inmigrantes latinoamericanos en los Estados Unidos. Su Caja de herramientas contiene toolkits (guías) informativas y enlaces a recursos para temas de interés a personas latinoamericanas."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 9
+    ]
 }

@@ -1,29 +1,10 @@
 {
-    "header_text": "Celebraciones culturales familiares",
+    "header_text": "Recurso: Vida Familiar y Doméstica",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te da vergüenza decirles a tus colegas que no puedes ir a la conferencia?"
-        },
-        {
-            "type": "Buttons",
-            "name": "Celebraciones culturales familiares_Vida Familiar y Doméstica_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "text": "Centro de información y recursos para familias\n\nCenter for Parent Information & Resources ofrece una lista de recursos y guías informativas acerca de discapacidades, derechos educativos, y más."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 9
+    ]
 }

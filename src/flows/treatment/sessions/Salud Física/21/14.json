@@ -4,7 +4,12 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Imagínese en la situación de la página siguiente."
+            "text": "Estás afuera en un día fresco y ves a tus amigos en la calle. Decides correr para saludar. Cuando llegas con tus amigos, te quedas sin aliento.\n\nHaga clic en Siguiente para ver algunas ideas."
+        },
+        {
+            "type": "Media",
+            "url": "./images/587.jpg",
+            "border": true
         }
     ]
 }

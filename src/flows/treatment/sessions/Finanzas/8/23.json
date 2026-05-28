@@ -1,27 +1,16 @@
 {
-    "header_text": "Permitirse la educación",
+    "header_text": "Gestión de facturas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Al imaginarte a ti mismo en la jubilación, no te imaginas atormentado por las deudas y crees que tus préstamos serán... "
+            "text": "Gestión de facturas"
         },
         {
-            "type": "Entry",
-            "name": "Permitirse la educación_Finanzas_entry2"
+            "type": "Media",
+            "url": "./images/245.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Al igual que un músculo, tu cerebro fortalece las vías que más utiliza. Por eso practicar muchas situaciones te ayuda a cambiar tus hábitos de pensamiento."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "type": "positive",
+    "scenario_num": 5
 }

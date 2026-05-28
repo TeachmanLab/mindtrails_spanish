@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Visitar a una familia anciana"
+            "text": "Vuelves a casa de tus padres durante las vacaciones y notas que tu madre parece frágil. Te preguntas sobre su salud y si está enferma. Cree que su salud probablemente será..."
         },
         {
-            "type": "Media",
-            "url": "./images/152.jpg"
+            "type": "Entry",
+            "name": "Visitar a una familia anciana_Vida Familiar y Doméstica_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 2
 }

@@ -1,10 +1,16 @@
 {
-    "header_text": "Recordatorio de favoritos",
+    "header_text": "Equilibrio de trabajo y amistades",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recuerde que puede agregar historias, consejos y recursos a sus Favoritos haciendo clic en la estrella en la esquina superior derecha de la pantalla."
+            "text": "Equilibrio de trabajo y amistades"
+        },
+        {
+            "type": "Media",
+            "url": "./images/29.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 0
 }

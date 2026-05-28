@@ -4,7 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "text": "¡Gran trabajo! Ahora verás algunos comportamientos."
+            "text": "Estás cuidando al hijo de una amiga y miras televisión mientras ella duerme. Afuera está oscuro y de repente oyes ruidos contra la ventana.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Decido tocar algo de mi música favorita.",
+                "Escojo una película divertida.",
+                "Llamo a mi pareja y empiezo a llorar.",
+                "Siento la necesidad de esconderme, pero me digo a mí mismo que probablemente no fue nada afuera.",
+                "Quiero llamar a mi amigo para que regrese pronto a casa, pero me digo a mí mismo que puedo enfrentar mi miedo y que la ansiedad desaparecerá."
+            ],
+            "Duration": 15000
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
     ]
 }

@@ -1,17 +1,16 @@
 {
-    "header_text": "Manejando tareas",
+    "header_text": "Usando tecnología diferente",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado muy ocupado estos últimos meses y no has tenido tiempo para trabajar en tu propio desarrollo profesional. Uno de tus colegas también está muy ocupado, y sin embargo, recibió un ascenso. Esto te hace sentir como un..."
+            "text": "Usando tecnología diferente"
         },
         {
-            "type": "Entry",
-            "name": "Manejando tareas_Salud Mental_entry1"
+            "type": "Media",
+            "url": "./images/69.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 2
+    "type": "positive",
+    "scenario_num": 3
 }

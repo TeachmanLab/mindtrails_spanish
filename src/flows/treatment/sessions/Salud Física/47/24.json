@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en una fiesta de cumpleaños para un amigo. Comienzas a sentir un nudo en el estómago mientras hablas con un desconocido. Esto probablemente significa que estás..."
+            "text": "¿Te preocupa hablar con una persona nueva?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Conociendo alguien nuevo_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Conociendo alguien nuevo_Salud Física_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "emocionado"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 3
 }

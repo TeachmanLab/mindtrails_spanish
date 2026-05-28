@@ -1,17 +1,16 @@
 {
-    "header_text": "Entrega Responsable",
+    "header_text": "Sábado sin planes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Uno de tus amigos cercanos sale positivo en la prueba de COVID y te pide que le lleves comida. No quieres exponerte estando cerca de su hogar, pero también quieres ayudar. Encuentras una manera de entregar la comida y mantener tu..."
+            "text": "Sábado sin planes"
         },
         {
-            "type": "Entry",
-            "name": "Entrega Responsable_Situaciones Sociales_entry1"
+            "type": "Media",
+            "url": "./images/532.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 6
 }
