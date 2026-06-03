@@ -292,7 +292,7 @@ for pop,s,l in populations:
     folders['control/intro'] = flat(surveys["Control_Dose_1"])
     folders['treatment/intro'] = flat(surveys["Dose_1"])
     folders['treatment/sessions/__flow__.json'] = {"mode":"select", "title_case": True, "column_count":2, "text": domain_selection_text(), "title":"MindTrails Español"}
-    folders['treatment/sessions/__before__'] = []
+    folders['treatment/sessions/__before__'] = folders['treatment/sessions/__before__'] = flat(surveys["BeforeDomain_All"])
     folders['treatment/sessions/__after__'] = flat(surveys["AfterDomain_All"])
 
     before_pages_all = flat(surveys["BeforeDomain_All"])
