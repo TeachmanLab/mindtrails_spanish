@@ -6,7 +6,7 @@
         },
         {
             "type": "Buttons",
-            "buttons": ["Tratamiento","Control"],
+            "buttons": ["treatment::Tratamiento","control::Control"],
             "variable_name": "global:group"
         }
     ],
