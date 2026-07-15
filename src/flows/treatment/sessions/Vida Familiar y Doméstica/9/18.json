@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tu primer hijo"
+            "text": "Acabas de tener tu primer hijo. Quieres tener una buena relación durante toda la vida de tu hijo, pero te preocupa cometer errores como..."
         },
         {
-            "type": "Media",
-            "url": "./images/137.jpg"
+            "type": "Entry",
+            "name": "Tu primer hijo_Vida Familiar y Doméstica_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
     "scenario_num": 3
 }

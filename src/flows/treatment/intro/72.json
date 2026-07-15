@@ -1,10 +1,10 @@
 {
-    "header_text": "El raspado",
+    "header_text": "El viaje de compras",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "EL RASPÓN: El rasguño duele un poco...\n\nPero estás contento de estar haciendo ejercicio."
+            "text": "EL VIAJE DE COMPRAS: Piensas en tu salud reciente...\n\nY crees que probablemente estés contrayendo esa extraña enfermedad."
         },
         {
             "type": "Buttons",
@@ -15,7 +15,7 @@
                 "Muy similar",
                 "Prefiero no responder"
             ],
-            "name": "IBM_scrape_interpretation_4"
+            "name": "IBM_shopping_interpretation_1"
         }
     ]
 }

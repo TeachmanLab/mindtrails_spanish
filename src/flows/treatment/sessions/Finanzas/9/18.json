@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Gestión de crédito"
+            "text": "Tu banco se ha puesto en contacto contigo para ofrecerte una tarjeta de crédito con una tasa de interés muy baja. Eres un gastador responsable, pero te preocupa acumular deudas si te inscribes en una nueva tarjeta de crédito. Al pensar en lo que harías con la tarjeta de crédito, piensas que probablemente gastarías el dinero... "
         },
         {
-            "type": "Media",
-            "url": "./images/253.jpg"
+            "type": "Entry",
+            "name": "Gestión de crédito_Finanzas_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 3
 }

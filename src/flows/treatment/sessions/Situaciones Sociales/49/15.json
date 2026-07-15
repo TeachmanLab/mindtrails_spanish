@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Vas a una cena compartida, y quieres hacer un plato usando la receta de tu familia. Tienes la receta que te dieron tus padres, pero te preocupas no tener las habilidades culinarias para hacer el plato. Piensas que probablemente las personas en la fiesta crean que tu comida tiene muy buen..."
+            "text": "Cuando piensas en las reacciones a tu comida, te imaginas a los otros invitados..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Plato típico_Situaciones Sociales_puzzle1",
+            "type": "Buttons",
+            "name": "Plato típico_Situaciones Sociales_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "sabor"
+            "buttons": [
+                "Sirviéndose una segunda vez.",
+                "Dejando sus porciones en sus platos."
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Dejando sus porciones en sus platos."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "negative",
     "scenario_num": 1
 }

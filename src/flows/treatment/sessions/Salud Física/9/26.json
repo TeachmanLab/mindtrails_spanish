@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Sensaciones desconocidas"
+            "text": "Estás caminando con unos amigos después del almuerzo y de repente sientes un hormigueo en las yemas de los dedos. Esto es algo que realmente no has experimentado antes. Esto probablemente significa que estás..."
         },
         {
-            "type": "Media",
-            "url": "./images/425.jpg"
+            "type": "Entry",
+            "name": "Sensaciones desconocidas_Salud Física_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 6
 }

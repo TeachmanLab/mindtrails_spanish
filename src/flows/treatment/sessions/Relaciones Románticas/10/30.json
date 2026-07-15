@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Recibes una llamada de un amigo tuyo, diciéndote que se va a divorciar. Reflexionas sobre tu propio matrimonio; y aunque amas a tu marido, tu amigo y su esposa te dan la misma..."
+            "text": "Mientras te preguntas sobre tu futuro con tu marido, no crees que te vayas a divorciar y sientes firmemente que ustedes dos seguirán..."
         },
         {
             "type": "Entry",
-            "name": "Preocupaciones por las relaciones_Relaciones Románticas_entry1"
+            "name": "Preocupaciones por las relaciones_Relaciones Románticas_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",

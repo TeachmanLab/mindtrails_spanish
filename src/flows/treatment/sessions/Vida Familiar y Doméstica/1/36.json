@@ -1,29 +1,16 @@
 {
-    "header_text": "Quedarse sin batería",
+    "header_text": "Atascado en el medio",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Estarás bien el viaje en auto sin tu teléfono?"
+            "text": "Atascado en el medio"
         },
         {
-            "type": "Buttons",
-            "name": "Quedarse sin batería_Vida Familiar y Doméstica_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "type": "Media",
+            "url": "./images/135.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 7
+    "type": "positive",
+    "scenario_num": 8
 }

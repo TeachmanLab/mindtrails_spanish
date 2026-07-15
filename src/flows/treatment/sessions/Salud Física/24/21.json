@@ -1,17 +1,16 @@
 {
-    "header_text": "Poniéndose al día con los amigos",
+    "header_text": "Un golpe accidental",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Ves a tus amigos al otro lado de la calle y corres hacia ellos. Te sientes un poco desorientado y mareado al llegar a ellos. Consideras lo que esto significa y te das cuenta de que probablemente signifique que corriste..."
+            "text": "Un golpe accidental"
         },
         {
-            "type": "Entry",
-            "name": "Poniéndose al día con los amigos_Salud Física_entry1"
+            "type": "Media",
+            "url": "./images/405.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 3
+    "type": "negative",
+    "scenario_num": 4
 }

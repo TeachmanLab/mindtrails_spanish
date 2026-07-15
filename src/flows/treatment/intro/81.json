@@ -4,19 +4,19 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Durante la semana pasada, ¿con qué frecuencia te sentiste ansioso?"
+            "text": "Durante la semana pasada, cuando te sentiste ansioso, ¿con qué intensidad o gravedad fue tu ansiedad?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "Sin ansiedad en la última semana",
-                "Ansiedad de poca frecuencia. Me sentí ansioso algunas veces.",
-                "Ansiedad ocasional. Me sentí ansioso la mayor parte de la semana. Fue difícil relajarse.",
-                "Ansiedad frecuente. Me sentí ansioso la mayor parte de la semana. Fue muy difícil relajarse.",
-                "Ansiedad constante. Me sentí ansioso todo el tiempo y nunca realmente me relajé.",
+                "Poco o nada: La ansiedad estaba ausente o apenas me la di cuenta",
+                "Leve: La ansiedad estaba en un nivel bajo. Fue posible relajarme cuando lo intenté. Los síntomas físicos fueron sólo levemente incómodos.",
+                "Moderada: La ansiedad era angustiosa en algunas ocasiones. Era difícil relajarme o concentrarme, pero podía hacerlo si lo intentaba. Los síntomas físicos fueron incómodos.",
+                "Severo: La ansiedad fue intensa la mayoría del tiempo. Era muy difícil relajarse o concentrarse en cualquier otra cosa. Los síntomas físicos fueron incómodos.",
+                "Extremo: La ansiedad era abrumadora. Era imposible relajarse en absoluto. Los síntomas físicos eran insoportables.",
                 "^Prefiero no responder"
             ],
-            "name": "OASIS_frequency_anxious"
+            "name": "OASIS_intensity_anxiety"
         }
     ]
 }

@@ -1,19 +1,10 @@
 {
-    "header_text": "El regalo de cumpleaños: Comportamientos",
+    "header_text": "Recurso: Finanzas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo va a celebrar una gran fiesta de cumpleaños y la mayoría de las personas de tu grupo de amigos estarán allí. Muchos de tus amigos son más ricos que tú y pueden permitirse el lujo de hacer regalos más caros.\n\nTómese 30 segundos para escribir diferentes comportamientos. El siguiente botón aparecerá automáticamente.\n\nComportamientos que podrías realizar en este momento:"
-        },
-        {
-            "type": "Entry"
+            "text": "Mi Dinero: Herramientas\n\nMi Dinero: Herramientas es una página que ofrece información y plantillas para ayudar con la educación y la planificación financiera. Cada sección tiene herramientas para temas como la elaboración de presupuestos, manejo de deudas, y más."
         }
-    ],
-    "navigation_conditions": [
-        {
-            "wait_for_time": 30000
-        },
-        "wait_for_click"
     ]
 }

@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Llevas unos meses viviendo en una ciudad nueva y has tenido problemas para hacer nuevos amigos. Has estado muy ocupado desde que se mudó, pero sabes que es importante establecer buenas relaciones aquí en su nuevo hogar. Cuando piensas en la vida en tu nueva ciudad, crees que harás..."
+            "text": "Al pensar en la vida futura en su nuevo hogar, imagina:"
         },
         {
-            "type": "WordPuzzle",
-            "name": "La nueva ciudad_Situaciones Sociales_puzzle1",
+            "type": "Buttons",
+            "name": "La nueva ciudad_Situaciones Sociales_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "amigos"
+            "buttons": [
+                "Una necesidad de hacerlo todo usted mismo.",
+                "Un nuevo grupo de amigos en el que puedes confiar."
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Un nuevo grupo de amigos en el que puedes confiar."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 1
 }

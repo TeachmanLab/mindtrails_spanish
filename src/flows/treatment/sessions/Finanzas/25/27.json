@@ -1,17 +1,16 @@
 {
-    "header_text": "Viaje despues de COVID",
+    "header_text": "Estabilidad laboral",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A medida que se quitan las restricciones de COVID, quieres hacer un viaje para quitarte el estrés. Debido a la pandemia, tus fondos están más bajos de lo normal. Piensas que un viaje que funcione para tu presupuesto y tu salud mental será..."
+            "text": "Estabilidad laboral"
         },
         {
-            "type": "Entry",
-            "name": "Viaje despues de COVID_Finanzas_entry1"
+            "type": "Media",
+            "url": "./images/312.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 7
 }

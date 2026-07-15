@@ -4,13 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Visitando a los vecinos"
+            "text": "Te das cuenta de que no has visto a tu vecino mayor recientemente. Normalmente le visitas habitualmente, por lo que es extraño que no le hayas visto últimamente. Probablemente tu vecino haya estado..."
         },
         {
-            "type": "Media",
-            "url": "./images/408.jpg"
+            "type": "WordPuzzle",
+            "name": "Visitando a los vecinos_Situaciones Sociales_puzzle1",
+            "correct_feedback": "¡Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "bien"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 4
 }

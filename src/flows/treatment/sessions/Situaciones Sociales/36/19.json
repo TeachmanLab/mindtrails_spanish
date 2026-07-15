@@ -1,25 +1,10 @@
 {
-    "header_text": "Vidrio roto: Sentimientos",
+    "header_text": "Vidrio roto:  Escribe Alguno Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en un restaurante tranquilo con muchos miembros de tu familia para cenar. Mientras tomas un trago de agua, accidentalmente tiras el vaso al suelo y se rompe.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
-        },
-        {
-            "type": "TimedText",
-            "texts": [
-                "Me siento mal, pero recuerdo que me olvidaré de esto en unos días.",
-                "Puedo mantener la calma.",
-                "Tengo un nudo en el estómago después de que todo el restaurante me mirara.",
-                "Me alegra que al camarero no parezca importarle mucho.",
-                "Me da vergüenza haber dejado caer el vaso, pero sé que a la gente se le caen cosas todo el tiempo."
-            ],
-            "Duration": 15000
+            "text": "¡Ahora tu intenta! ¿Cuáles son algunos de los sentimientos que podrías tener en este momento? Estos no tienen por qué ser solo sentimientos que haya tenido en el pasado o sentimientos negativos que supone que tendrá en el momento. Piense creativamente en los sentimientos positivos y negativos que puedan surgir como reacción a la situación. Si escribe un sentimiento negativo, intente escribir también cómo podría afrontarlo. \n\nEn la página siguiente, tómate 30 segundos para escribir tantos sentimientos diferentes que puedas imaginar tener en esta situación. Puedes ser tan creativo como tu quieras. Si escribes algún sentimiento negativo (como miedo o ansiedad), intenta escribir también cómo podrías ayudarte a sentirte mejor en ese momento.\n\nPresiona regresar después de cada sentimiento para escribir uno nuevo en cada línea."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
     ]
 }

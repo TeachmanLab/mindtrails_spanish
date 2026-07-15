@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "EL ANÁLISIS DE SANGRE: El médico dice que te llamará en unas semanas...\n\nY crees que no podrás soportar la ansiedad mientras esperas."
+            "text": "EL ANÁLISIS DE SANGRE: El médico dice que te llamará en unas semanas...\n\nY sabes que puedes manejar tu ansiedad mientras esperas."
         },
         {
             "type": "Buttons",
@@ -15,7 +15,7 @@
                 "Muy similar",
                 "Prefiero no responder"
             ],
-            "name": "IBM_blood_interpretation_3"
+            "name": "IBM_blood_interpretation_4"
         }
     ]
 }

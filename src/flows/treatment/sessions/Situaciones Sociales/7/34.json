@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Te vas de paseo a una ciudad nueva por la primera vez. Mientras estás allí, todo se siente nuevo y extraño. Crees que esto es... "
+            "text": "En esta ciudad, piensas que te encontrarás en..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Un país extranjero_Situaciones Sociales_puzzle1",
+            "type": "Buttons",
+            "name": "Un país extranjero_Situaciones Sociales_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "increíble"
+            "buttons": [
+                "situaciónes problemáticas",
+                "Oportunidades para aprender."
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Oportunidades para aprender."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 7
 }

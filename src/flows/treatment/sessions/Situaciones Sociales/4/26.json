@@ -1,39 +1,30 @@
 {
-    "header_text": "Un regalo casero",
+    "header_text": "Tu fiesta de cumpleaños",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tu amigo está triste porque no le trajiste un regalo?"
+            "text": "Tu fiesta de cumpleaños"
         },
         {
-            "type": "Buttons",
-            "name": "Un regalo casero_Situaciones Sociales_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/148.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 4,
+    "scenario_num": 5,
     "information": {
         "elements": [
             {
+                "type": "media",
+                "url": "./images/600.jpg"
+            },
+            {
                 "type": "text",
-                "text": "¿Por qué estás completando palabras con letras? Al completar repetidamente las letras que faltan para completar palabras positivas, neutrales o negativas, el cerebro adopta patrones de pensamiento flexibles para reducir el pensamiento rígido."
+                "text": "Recuerda: Está bien cometer errores. Trata de dar lo mejor."
             }
         ],
-        "position": "after",
+        "position": "before",
         "information_count": 1
     }
 }

@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tratar a un amigo"
+            "text": "Tu amigo te ha estado apoyando en un momento difícil y estás realmente agradecido por su apoyo. Quieres darle las gracias tratándolo a cenar, pero no tienes suficiente dinero para llevarlos a un restaurante. Decides hacerles una cena casera y piensas que estará... "
         },
         {
-            "type": "Media",
-            "url": "./images/305.jpg"
+            "type": "Entry",
+            "name": "Tratar a un amigo_Finanzas_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 4
 }

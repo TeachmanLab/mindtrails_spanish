@@ -1,17 +1,10 @@
 {
-    "header_text": "Yendo a una cita",
+    "header_text": "Recurso: Relaciones Románticas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vas a salir en una cita esta noche. No conoces muy bien a la persona y sabes que habrá algunos silencios en la conversación. Aunque podría ser incómodo, sabes que te..."
-        },
-        {
-            "type": "Entry",
-            "name": "Yendo a una cita_Relaciones Románticas_entry1"
+            "text": "Inicios suaves: habilidad de comunicación\n\nEsta hoja informativa ofrece consejos y ejemplos para mejorar la comunicación efectiva entre pareja."
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 9
+    ]
 }

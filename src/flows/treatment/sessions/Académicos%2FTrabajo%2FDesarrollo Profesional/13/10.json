@@ -1,30 +1,12 @@
 {
-    "header_text": "Imágenes ansiosas principales",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "¡Escribe el tuyo!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Si esta situación terminara mal, ¿qué tan bien o mal serías capaz de manejarla?"
-        },
-        {
-            "type": "Buttons",
-            "buttons": [
-                "Muy bien",
-                "Algo bien",
-                "Neutral",
-                "Algo mal",
-                "Muy mal",
-                "Prefiero no responder"
-            ],
-            "name": "imagery_handling"
+            "text": "En este ejercicio, ayuda al equipo de MindTrails Espanol a idear nuevas historias de capacitación que podamos incluir en nuestro programa futuro para ayudar a otros participantes."
         }
-    ],
-    "condition": [
-        "StressLevel",
-        "in",
-        [
-            6,
-            7
-        ]
     ]
 }

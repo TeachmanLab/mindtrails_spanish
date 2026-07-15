@@ -4,13 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Padres molestos"
+            "text": "Cuando llamas a uno de tus padres, parecen enojados pero no sabes qué es el asunto. Te dan una respuesta corta cuando intentas hablar con ellos al respecto. Consideras por qué están enojados y te das cuenta de que no eres la..."
         },
         {
-            "type": "Media",
-            "url": "./images/127.jpg"
+            "type": "WordPuzzle",
+            "name": "Padres molestos_Vida Familiar y Doméstica_puzzle1",
+            "correct_feedback": "¡Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "causa"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 8
 }

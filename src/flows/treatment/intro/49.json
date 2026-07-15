@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "LA RECEPCIÓN DE BODA: Al entrar en la sala...\n\nLa gente del público se ríe con agradecimiento."
+            "text": "LA RECEPCIÓN DE BODAS: Al entrar en la habitación...\n\nTe das cuenta de que un amigo al que esperabas ver entra en la recepción."
         },
         {
             "type": "Buttons",
@@ -15,7 +15,7 @@
                 "Muy similar",
                 "Prefiero no responder"
             ],
-            "name": "IBM_wedding_interpretation_1"
+            "name": "IBM_wedding_interpretation_2"
         }
     ]
 }

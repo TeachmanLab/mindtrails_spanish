@@ -1,31 +1,22 @@
 {
-    "header_text": "Cuestionario de tratamiento y salud mental",
+    "header_text": "Escala de ansiedad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Cuánto tiempo llevas experimentando síntomas de ansiedad o depresión de moderados a graves?"
+            "text": "Durante la semana pasada, ¿con qué frecuencia evitaste situaciones, lugares, objetos o actividades debido a ansiedad o miedo?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "Una semana",
-                "Entre 1 semana y 1 mes",
-                "Entre 1-3 meses",
-                "Entre 3-6 meses",
-                "Entre 6-12 meses",
-                "Entre 1-2 años",
-                "Entre 2-5 años",
-                "Entre 5 y 10 años",
-                "Más de 10 años",
-                "Prefiero no responder"
+                "Ninguno: No evito lugares, situaciones, actividades o cosas por miedo.",
+                "Poco frecuente: evito algo de vez en cuando, pero normalmente afronto la situación o el objeto. Mi estilo de vida no se ve afectado.",
+                "Ocasional: tengo cierto miedo ante determinadas situaciones, lugares u objetos, pero aún es manejable. Mi estilo de vida sólo ha cambiado en aspectos menores. Siempre o casi siempre evito las cosas que temo cuando estoy solo, pero puedo manejarlas si alguien viene conmigo.",
+                "Frecuente: Tengo un miedo considerable y realmente trato de evitar las cosas que me asustan. He realizado cambios significativos en mi estilo de vida para evitar el objeto, situación, actividad o lugar",
+                "Todo el tiempo: Evitar objetos, situaciones o lugares se ha apoderado de mi vida. Mi estilo de vida se ha visto muy afectado y ya no hago las cosas que antes disfrutaba.",
+                "^Prefiero no responder"
             ],
-            "name": "length_anxiety_symptoms"
+            "name": "OASIS_avoid"
         }
-    ],
-    "condition": [
-        "anxiety_or_depression",
-        "=",
-        "Sí"
     ]
 }

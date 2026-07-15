@@ -4,7 +4,12 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Imagínese en la situación de la página siguiente."
+            "text": "Vas a presentar tu progreso en un proyecto a tu jefe la próxima semana. Tu vida personal ha sido agitada últimamente y no has tenido mucho tiempo para dedicarle al proyecto, lo que te deja con menos actualizaciones que informar de lo habitual.\n\nHaga clic en Siguiente para ver algunas ideas."
+        },
+        {
+            "type": "Media",
+            "url": "./images/584.jpg",
+            "border": true
         }
     ]
 }

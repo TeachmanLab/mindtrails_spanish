@@ -1,17 +1,16 @@
 {
-    "header_text": "Resultados del chequeo anual",
+    "header_text": "Un golpe accidental",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te extraen sangre para tu examen físico anual. Tu médico te dice que tendrás que esperar unos días para recibir los resultados, y te preocupas por lo que dirán. Durante los próximos días, tus preocupaciones son..."
+            "text": "Un golpe accidental"
         },
         {
-            "type": "Entry",
-            "name": "Resultados del chequeo anual_Salud Física_entry1"
+            "type": "Media",
+            "url": "./images/405.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 4
+    "type": "negative",
+    "scenario_num": 5
 }

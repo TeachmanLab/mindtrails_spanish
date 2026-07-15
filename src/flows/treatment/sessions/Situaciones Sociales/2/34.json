@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Corres a una reunión en el trabajo porque crees que podrías llegar tarde. Llegas a tiempo a la sala de reuniones, pero respiras con dificultad y te sientes avergonzado porque la gente te está..."
+            "text": "Te recuerdas a ti mismo que es normal necesitar recuperar el aliento después de correr y que la gente sólo te miró por unos segundos. Encuentras tu asiento y empiezas a..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Sin aliento_Situaciones Sociales_puzzle1",
+            "name": "Sin aliento_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "mirando"
+                "relajarte"
             ],
             "missing_letter_count": 1
         }

@@ -1,17 +1,16 @@
 {
-    "header_text": "Superarlo",
+    "header_text": "Amigos en las relaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente visitaste a un amigo al que no habías visto en mucho tiempo y, cuando regresas, descubres que tu pareja se ha despertado con dolor de garganta. Tu pareja se hará una prueba de COVID hoy, pero estás preocupado por los resultados y tienes miedo de haber expuesto accidentalmente a tu amigo. Piensas en lo que sucederá si tu pareja da positivo y sientes que tu amigo te entenderá y te..."
+            "text": "Amigos en las relaciones"
         },
         {
-            "type": "Entry",
-            "name": "Superarlo_Relaciones Románticas_entry1"
+            "type": "Media",
+            "url": "./images/228.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 7
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

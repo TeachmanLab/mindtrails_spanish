@@ -1,15 +1,24 @@
 {
-    "header_text": "Ejercicio de limón",
+    "header_text": "Comprensión / Compromiso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¡Ese fue el Ejercicio del Limón! No te preocupes si no experimentaste todas las sensaciones con fuerza. Esto es completamente normal."
+            "text": "¿Qué espera obtener del programa MindTrails Español? Seleccione todas las que correspondan."
         },
         {
-            "type": "Media",
-            "url": "./images/lemon7.jpg",
-            "border": true
+            "type": "Buttons",
+            "buttons": [
+                "Quiero pensar con más flexibilidad y menos negativamente.",
+                "Quiero poder gestionar situaciones estresantes de forma más eficaz.",
+                "Quiero reducir mi estrés y/o ansiedad.",
+                "Quiero practicar habilidades que he aprendido o estoy aprendiendo actualmente de un proveedor de atención de salud mental.",
+                "Quiero mantener los avances que he logrado durante el tratamiento de salud mental.",
+                "Quiero evitar que vuelva la ansiedad y/o el estrés que he experimentado en el pasado.",
+                "!Otros, descríbalos:"
+            ],
+            "multiselect": true,
+            "name": "gain_from_HTC"
         }
     ]
 }

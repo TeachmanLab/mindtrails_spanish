@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado tomando una clase de baile en el centro comunitario local y ha llegado el momento de tu exhibición de fin de clase. Quieres invitar a tus amigos y familiares al escaparate, pero te preocupas quedar en ridículo si no eres muy bueno. Mientras decides si invitas o no gente a tu programa, te ves..."
+            "text": "Si invitas a tus amigos y familiares, probablemente pensarán que..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "El escaparate de danza_Situaciones Sociales_puzzle1",
+            "type": "Buttons",
+            "name": "El escaparate de danza_Situaciones Sociales_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "fracasando"
+            "buttons": [
+                "Parecías muy tonto y esperan que no vuelvas a invitarlos.",
+                "Hiciste un buen trabajo y esperan que los invites a futuras presentaciones."
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Parecías muy tonto y esperan que no vuelvas a invitarlos."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "negative",
     "scenario_num": 1
 }

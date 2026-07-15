@@ -4,27 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Visitar a un nuevo amigo"
+            "text": "Te han invitado a pasar unas vacaciones en casa de un amigo y quieres llevarle un regalo, pero no puedes permitirte comprarlo. Decides escribir un poema y recitarlo para la familia de tu amigo. Cuando te imaginas leyéndolo, te..."
         },
         {
-            "type": "Media",
-            "url": "./images/259.jpg"
+            "type": "WordPuzzle",
+            "name": "Visitar a un nuevo amigo_Finanzas_puzzle1",
+            "correct_feedback": "¡Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "emocionas"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9,
-    "information": {
-        "elements": [
-            {
-                "type": "media",
-                "url": "./images/598.jpg"
-            },
-            {
-                "type": "text",
-                "text": "Al igual que con cualquier habilidad nueva, la práctica constante te ayudará a pensar de manera más flexible."
-            }
-        ],
-        "position": "before",
-        "information_count": 1
-    }
+    "scenario_num": 9
 }

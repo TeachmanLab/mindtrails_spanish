@@ -1,17 +1,16 @@
 {
-    "header_text": "Emoción prospectiva",
+    "header_text": "Mantener a la familia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te gustarías tomarte un tiempo libre para viajar después de un año largo y estresante. Tu familia espera que trabajes más horas para ayudar con las finanzas y no quieres decepcionarlos. Al considerar tus planes para fin de año, te sientes..."
+            "text": "Mantener a la familia"
         },
         {
-            "type": "Entry",
-            "name": "Emoción prospectiva_Vida Familiar y Doméstica_entry1"
+            "type": "Media",
+            "url": "./images/158.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 0
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

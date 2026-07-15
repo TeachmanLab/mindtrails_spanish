@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Visitando familia"
+            "text": "Se acerca un fin de semana largo y habías planeado visitar a tu familia. Esta mañana, te das cuenta de que estuviste expuesto a alguien con COVID. Estás vacunado, pero no estás seguro del riesgo de contagiarte y posiblemente transmitirles el virus a tu familia. Piensas que tu familia entenderá si decides no ir a visitarlos para..."
         },
         {
-            "type": "Media",
-            "url": "./images/133.jpg"
+            "type": "Entry",
+            "name": "Visitando familia_Vida Familiar y Doméstica_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 3
 }

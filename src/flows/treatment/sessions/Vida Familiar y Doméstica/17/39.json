@@ -4,13 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Desacuerdos con tu hermana"
+            "text": "Tú y tu hermana recientemente tuvieron una discusión, y no se han hablado en semanas. Quieres mucho a tu hermana, pero ambos aún están molestos por lo que el otro dijo la última vez que hablaron. Al pensar en volver a hablar con tu hermana, crees que seguirán siendo..."
         },
         {
-            "type": "Media",
-            "url": "./images/139.jpg"
+            "type": "WordPuzzle",
+            "name": "Desacuerdos con tu hermana_Vida Familiar y Doméstica_puzzle1",
+            "correct_feedback": "¡Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "cercanos"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 9
 }

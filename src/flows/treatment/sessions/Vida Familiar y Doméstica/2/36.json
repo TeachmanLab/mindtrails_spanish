@@ -1,29 +1,30 @@
 {
-    "header_text": "Nueva receta",
+    "header_text": "Ruidos del exterior",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te preocupa lo que pensará tu familia de tu comida?"
+            "text": "Ruidos del exterior"
         },
         {
-            "type": "Buttons",
-            "name": "Nueva receta_Vida Familiar y Doméstica_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/145.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 8,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/601.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Un consejo: recuerda, cuando te sientas ansioso la sensación no durará para siempre."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

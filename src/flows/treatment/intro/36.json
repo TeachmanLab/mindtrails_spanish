@@ -4,19 +4,15 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás almorzando con un amigo. Cuando empiezas a comer tu ensalada, le describes tus planes para el fin de semana. Accidentalmente se te cae un trozo de lechuga y tu amigo mira..."
+            "text": "¿Tienes ensalada para el almuerzo?"
         },
         {
-            "type": "WordPuzzle",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "tú"
+            "type": "Buttons",
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "name": "IBM_lunch_puzzle"
+            "name": "IBM_lunch"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Carrera en un día frío"
+            "text": "Hace frío afuera y estás corriendo. Tu corazón empieza a latir rápidamente después de unos minutos. Decides que este sentimiento te da..."
         },
         {
-            "type": "Media",
-            "url": "./images/439.jpg"
+            "type": "Entry",
+            "name": "Carrera en un día frío_Salud Física_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "negative",
     "scenario_num": 6
 }

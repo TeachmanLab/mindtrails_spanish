@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Pensando en preguntas"
+            "text": "Estás en una charla sobre un tema complicado que te emociona mucho. Tienes muchas ideas sobre el tema, pero sientes que las preguntas que hacen los demás son más inteligentes que las tuyas. Piensas en cómo todos probablemente se ponen nerviosos al hablar también, y sabes que no están allí para..."
         },
         {
-            "type": "Media",
-            "url": "./images/89.jpg"
+            "type": "Entry",
+            "name": "Pensando en preguntas_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 0
 }

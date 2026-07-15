@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tu pareja, con quien has estado saliendo durante algunos años quiere hablar sobre hacia dónde va tu relación. Esta es la primera vez que sales con alguien por tanto... "
+            "text": "No te preocupas por tu relación y ves que tu relación se..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Relación a largo plazo_Relaciones Románticas_puzzle1",
+            "name": "Relación a largo plazo_Relaciones Románticas_puzzle_word2",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "tiempo"
+                "fortalece"
             ],
             "missing_letter_count": 2
         }

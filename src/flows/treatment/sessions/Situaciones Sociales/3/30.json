@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en un taller, y el líder pide a todos los asistentes que se levanten y se presenten. Durante tu breve presentación, olvidas momentáneamente lo que planeaste decir, y la audiencia te mira con..."
+            "text": "Al final, te das cuenta de que todos tienen estos momentos, y te recuperas rápidamente. Mientras terminas de presentarte, ves que los demás están escuchando con gran..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Breve introducción_Situaciones Sociales_puzzle1",
+            "name": "Breve introducción_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "molestia"
+                "interés"
             ],
             "missing_letter_count": 1
         }

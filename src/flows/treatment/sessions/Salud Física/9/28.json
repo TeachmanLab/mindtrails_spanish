@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Yendo a dormir"
+            "text": "Estás acostado en tu cama, a punto de dormir. Comienzas a sentir una pesadez en el pecho mientras intentas dormir. Piensas en esta presión y te sientes..."
         },
         {
-            "type": "Media",
-            "url": "./images/426.jpg"
+            "type": "Entry",
+            "name": "Yendo a dormir_Salud Física_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 7
 }

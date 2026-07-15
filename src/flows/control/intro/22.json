@@ -1,20 +1,22 @@
 {
-    "header_text": "Cuestionario de tratamiento y salud mental",
+    "header_text": "Escala de ansiedad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tienes síntomas de ansiedad o depresión de moderados a graves?"
+            "text": "Durante la semana pasada, cuando te sentiste ansioso, ¿qué tan intensa o grave fue tu ansiedad?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "Sí::Sí",
-                "No::no",
-                "Inseguro::Inseguro"
+                "Poco o nada: la ansiedad estaba ausente o apenas se notaba",
+                "Leve: La ansiedad estaba en un nivel bajo. Fue posible relajarme cuando lo intenté. Los síntomas físicos fueron sólo levemente incómodos.",
+                "Moderada: la ansiedad era angustiosa en ocasiones. Era difícil relajarme o concentrarme, pero podía hacerlo si lo intentaba. Los síntomas físicos fueron incómodos.",
+                "Severo: La ansiedad fue intensa la mayor parte del tiempo. Era muy difícil relajarse o concentrarse en cualquier otra cosa. Los síntomas físicos fueron incómodos.",
+                "Extremo: la ansiedad era abrumadora. Era imposible relajarse en absoluto. Los síntomas físicos eran insoportables.",
+                "^Prefiero no responder"
             ],
-            "name": "anxiety_or_depression",
-            "variable_name": "anxiety_or_depression"
+            "name": "OASIS_intensity_anxiety"
         }
     ]
 }

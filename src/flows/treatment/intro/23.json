@@ -18,6 +18,7 @@
                 "Entre 2-5 años",
                 "Entre 5 y 10 años",
                 "Más de 10 años",
+                "No estoy experimentando ansiedad de moderada a severa",
                 "Prefiero no responder"
             ],
             "name": "length_anxiety_symptoms"
@@ -26,6 +27,6 @@
     "condition": [
         "anxiety_or_depression",
         "=",
-        "Si"
+        "Inseguro"
     ]
 }

@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "EL VIAJE DE COMPRAS: Piensas en tu salud reciente...\n\nY sonríes porque disfrutas de ir de compras."
+            "text": "EL VIAJE DE COMPRAS: Piensas en tu salud reciente...\n\nY te aburres de ir de compras."
         },
         {
             "type": "Buttons",
@@ -15,7 +15,7 @@
                 "Muy similar",
                 "Prefiero no responder"
             ],
-            "name": "IBM_shopping_interpretation_3"
+            "name": "IBM_shopping_interpretation_4"
         }
     ]
 }

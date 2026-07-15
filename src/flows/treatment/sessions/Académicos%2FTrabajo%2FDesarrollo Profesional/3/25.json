@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tu jefe te llama para que respondas una pregunta sobre los planes que acabas de discutir. No sabes qué decir. Tu mente se queda en..."
+            "text": "Te das un momento para ordenar tus pensamientos y luego responder a la pregunta. Cuando piensas en la respuesta que diste, te sientes... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Mente va en blanco_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "name": "Mente va en blanco_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "blanco"
+                "bien"
             ],
             "missing_letter_count": 1
         }

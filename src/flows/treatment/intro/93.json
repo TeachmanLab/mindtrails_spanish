@@ -1,15 +1,14 @@
 {
-    "header_text": "Ejercicio de limón",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "El Ejercicio del Limón es una forma fácil y divertida de practicar el uso de los cinco sentidos para imaginarte en situaciones de la manera más vívida posible. ¡Cuanto más vívidamente puedas imaginarte a ti mismo en las situaciones que lees durante el programa, más probabilidades tendrás de tomar el pensamiento flexible que aprendes en la aplicación y aplicarlo a situaciones reales en tu vida diaria!"
+            "text": "Describe la situación en pocas palabras:"
         },
         {
-            "type": "Media",
-            "url": "./images/intro_lemon.jpg",
-            "border": true
+            "type": "Entry",
+            "name": "entry_anxious_imagery"
         }
     ]
 }

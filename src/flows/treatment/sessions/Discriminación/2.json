@@ -1,15 +1,11 @@
 {
-    "header_text": "Ejercicio de limón",
+    "header_text": "Discriminación ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Trate de imaginarse las siguientes situaciones de la manera más vívida posible."
-        },
-        {
-            "type": "Media",
-            "url": "./images/lemon3.jpg",
-            "border": false
+            "text": "Lamentamos mucho que estés experimentando estrés debido a la discriminación o la marginación. Reconocemos que las personas tienen diferentes necesidades después de tales experiencias, por lo que queremos ofrecerte una serie de herramientas para ayudarte en este momento.",
+            "html": true
         }
     ]
 }

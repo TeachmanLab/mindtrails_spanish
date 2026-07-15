@@ -1,29 +1,30 @@
 {
-    "header_text": "Tus habilidades con los bolos",
+    "header_text": "Cambio de planes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Dentro de unos años, cuando juegues a los bolos con tus amigos, probablemente notarás..."
+            "text": "Cambio de planes"
         },
         {
-            "type": "Buttons",
-            "name": "Tus habilidades con los bolos_Salud Mental_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Lo poco que han seguido mejorando tus habilidades.",
-                "Cuánto has mejorado desde que empezaste."
-            ],
-            "column_Count": 1,
-            "correct_value": "Lo poco que han seguido mejorando tus habilidades."
+            "type": "Media",
+            "url": "./images/323.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 1
+    "type": "positive",
+    "scenario_num": 2,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/599.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Tómate un momento para considerar las razones importantes para cambiar tu pensamiento ansioso."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

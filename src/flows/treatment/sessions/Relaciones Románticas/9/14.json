@@ -1,17 +1,16 @@
 {
-    "header_text": "Casarse con tu pareja",
+    "header_text": "Planes de vacaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Reflexionando sobre la idea de casarte con tu pareja, no te sientes demasiado asustado y crees que tu matrimonio sería... "
+            "text": "Planes de vacaciones"
         },
         {
-            "type": "Entry",
-            "name": "Casarse con tu pareja_Relaciones Románticas_entry2"
+            "type": "Media",
+            "url": "./images/147.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 0
+    "type": "negative",
+    "scenario_num": 1
 }

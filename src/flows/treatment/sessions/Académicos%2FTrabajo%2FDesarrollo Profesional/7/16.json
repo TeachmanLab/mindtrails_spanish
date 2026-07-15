@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Más tarde ese día, te das cuenta de que es normal cometer errores al presentar. Probablemente la audiencia pensó que tu presenación después de comenzar de nuevo fue..."
+            "text": "¿Crees que la audiencia piensa que causaste incomodidad al cometer un error?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Recuperándote despues de un error_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
+            "type": "Buttons",
+            "name": "Recuperándote despues de un error_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "admirable"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
     "scenario_num": 1
 }

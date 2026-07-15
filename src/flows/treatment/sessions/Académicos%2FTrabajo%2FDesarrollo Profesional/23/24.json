@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Quedando atrás"
+            "text": "Recientemente comenzaste un nuevo trabajo. Mientras trabajas, parece que todos los que te rodean saben lo que están haciendo, pero aún estás confundido. Crees que esto se debe a que todavía estás aprendiendo y pronto te darás..."
         },
         {
-            "type": "Media",
-            "url": "./images/21.jpg"
+            "type": "Entry",
+            "name": "Quedando atrás_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 5
 }

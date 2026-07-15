@@ -1,17 +1,16 @@
 {
-    "header_text": "Pagando facturas",
+    "header_text": "Costear los gastos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes que pagar el alquiler del próximo mes pronto. Has estado bajo estrés financiero últimamente y no estás seguro de si tienes suficiente dinero para hacer el pago del alquiler. Piensas que hacer un plan para pagar tu alquiler a tiempo será..."
+            "text": "Costear los gastos"
         },
         {
-            "type": "Entry",
-            "name": "Pagando facturas_Finanzas_entry1"
+            "type": "Media",
+            "url": "./images/254.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 4
+    "type": "negative",
+    "scenario_num": 5
 }

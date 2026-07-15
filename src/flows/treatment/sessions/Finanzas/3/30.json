@@ -1,29 +1,30 @@
 {
-    "header_text": "Devolución de chaqueta",
+    "header_text": "Costear los gastos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "El asociado de ventas no sonreía mucho porque..."
+            "text": "Costear los gastos"
         },
         {
-            "type": "Buttons",
-            "name": "Devolución de chaqueta_Finanzas_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Estaba molesto contigo.",
-                "Estaba molesto con otra persona."
-            ],
-            "column_Count": 1,
-            "correct_value": "Estaba molesto con otra persona."
+            "type": "Media",
+            "url": "./images/254.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "type": "negative",
+    "scenario_num": 6,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/597.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Un consejo: Trata de imaginarte diferentes formas de responder a cada escenario."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

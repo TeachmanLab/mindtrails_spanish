@@ -1,29 +1,10 @@
 {
-    "header_text": "Cancelación de concierto",
+    "header_text": "Recurso: Salud Física",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te preocupas que cancelen el concierto?"
-        },
-        {
-            "type": "Buttons",
-            "name": "Cancelación de concierto_Salud Física_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "text": "Fundación Defensora del Paciente (Patient Advocate Foundation)\n\nBrinda a los pacientes de bajos ingresos y sin seguro médico servicios de administración de casos y ayuda financiera para acceder al tratamiento de atención médica para enfermedades crónicas, potencialmente mortales y debilitantes."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 9
+    ]
 }

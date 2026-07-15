@@ -4,13 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Silencio en un viaje en coche"
+            "text": "Estás en un viaje largo en coche  con un amigo. Te das cuenta de que ninguno de los dos ha dicho nada por unos minutos. Concentrando en la carretera, piensas que tu amigo siente que el silencio es completamente..."
         },
         {
-            "type": "Media",
-            "url": "./images/543.jpg"
+            "type": "WordPuzzle",
+            "name": "Silencio en un viaje en coche_Situaciones Sociales_puzzle1",
+            "correct_feedback": "¡Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "normal"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 7
 }

@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Decides girar rápidamente en una silla de oficina. Sientes mariposas en el estómago y te mareas cuando la silla se desacelera. Estas sensaciones probablemente significan que estás..."
+            "text": "En vez de entrar en pánico, decides respirar profundamente. Lentamente, tu mareo desaparece y tu estómago se siente..."
         },
         {
             "type": "Entry",
-            "name": "sintiendo mareos_Salud Física_entry1"
+            "name": "sintiendo mareos_Salud Física_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",

@@ -1,17 +1,16 @@
 {
-    "header_text": "Resultados de la evaluación",
+    "header_text": "Expresando tus ideas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "El tiempo para las evaluaciones del trabajo acaba de cerrar y no estás seguro de si saliste bien o no. Te sientes nervioso al pensar en cómo te calificaron otras personas. Piensas que estar nervioso es..."
+            "text": "Expresando tus ideas"
         },
         {
-            "type": "Entry",
-            "name": "Resultados de la evaluación_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "type": "Media",
+            "url": "./images/73.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 0
+    "scenario_num": 1
 }

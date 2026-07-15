@@ -4,23 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Sugerencia para volver a encontrarnos"
+            "text": "Conoces a alguien en un evento y sientes que se llevan bien. Más tarde, llamas y sugieres volver a reunirse. La respuesta que recibes te hace sentir que la persona piensa que sería agradable volver a..."
         },
         {
-            "type": "Media",
-            "url": "./images/469.jpg"
+            "type": "WordPuzzle",
+            "name": "Sugerencia para volver a encontrarnos_Situaciones Sociales_puzzle1",
+            "correct_feedback": "¡Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "encontrarse"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 0,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Cuanto más te sumerjas en la historia, más probabilidades tendrás de beneficiarte de nuestro programa; imagínate realmente en la situación actual."
-            }
-        ],
-        "position": "before",
-        "information_count": 1
-    }
+    "scenario_num": 0
 }

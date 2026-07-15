@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "EL ANÁLISIS DE SANGRE: El médico dice que te llamará en unas semanas...\n\nY piensas en lo amable que es tu médico."
+            "text": "EL ANÁLISIS DE SANGRE: El médico dice que te llamará en unas semanas...\n\nY estás molesto porque tu médico no es muy amable."
         },
         {
             "type": "Buttons",
@@ -15,7 +15,7 @@
                 "Muy similar",
                 "Prefiero no responder"
             ],
-            "name": "IBM_blood_interpretation_1"
+            "name": "IBM_blood_interpretation_2"
         }
     ]
 }

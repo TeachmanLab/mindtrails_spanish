@@ -1,21 +1,22 @@
 {
-    "header_text": "El análisis de sangre",
+    "header_text": "Escala de ansiedad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "EL ANÁLISIS DE SANGRE: El médico dice que te llamará en unas semanas...\n\nY sabes que puedes manejar tu ansiedad mientras esperas."
+            "text": "Durante la semana pasada, ¿con qué frecuencia te sentiste ansioso?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "Muy diferente",
-                "Diferente",
-                "Similar",
-                "Muy similar",
-                "Prefiero no responder"
+                "Sin ansiedad en la última semana",
+                "Ansiedad de poca frecuencia. Me sentí ansioso algunas veces.",
+                "Ansiedad ocasional. Me sentí ansioso la mayor parte de la semana. Fue difícil relajarse.",
+                "Ansiedad frecuente. Me sentí ansioso la mayor parte de la semana. Fue muy difícil relajarse.",
+                "Ansiedad constante. Me sentí ansioso todo el tiempo y nunca realmente me relajé.",
+                "^Prefiero no responder"
             ],
-            "name": "IBM_blood_interpretation_4"
+            "name": "OASIS_frequency_anxious"
         }
     ]
 }

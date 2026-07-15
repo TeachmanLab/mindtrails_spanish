@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Te sientes maread﻿o / Sintiéndote mareado"
+            "text": "Estás en una fiesta y comienzas a bailar con tus amigos. Empiezas a sentirte mareado cuando el ritmo se acelera. Piensas que esta sensación es una señal de..."
         },
         {
-            "type": "Media",
-            "url": "./images/418.jpg"
+            "type": "Entry",
+            "name": "Te sientes maread﻿o / Sintiéndote mareado_Salud Física_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 8
 }

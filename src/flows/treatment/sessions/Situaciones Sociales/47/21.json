@@ -4,13 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Fotos en redes sociales"
+            "text": "Te invitan a un evento y decides llevar ropa nueva que no es tu estilo típico. Al día siguiente, ves que tu foto ha sido publicada en un sitio de redes sociales. El pensamiento de que todos verán tu foto te hace sentir..."
         },
         {
-            "type": "Media",
-            "url": "./images/478.jpg"
+            "type": "WordPuzzle",
+            "name": "Fotos en redes sociales_Situaciones Sociales_puzzle1",
+            "correct_feedback": "¡Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "avergonzado"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
     "scenario_num": 3
 }

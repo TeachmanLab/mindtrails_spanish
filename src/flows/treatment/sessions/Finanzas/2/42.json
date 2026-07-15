@@ -1,39 +1,10 @@
 {
-    "header_text": "Mantener a la familia",
+    "header_text": "Maneja tus sentimientos: Finanzas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Crees que enviar a tus hijos a una buena universidad"
-        },
-        {
-            "type": "Buttons",
-            "name": "Mantener a la familia_Finanzas_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Será alcanzable.",
-                "Estará más allá de tus posibilidades."
-            ],
-            "column_Count": 1,
-            "correct_value": "Será alcanzable."
+            "text": "Tómate 15 minutos para trabajar en un aspecto de tu presupuesto que te cause estrés. Luego planifica algo agradable para hacer después."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 9,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Recuerde, cuanto más practique pensar en situaciones de nuevas maneras en nuestra aplicación, podras pensar positivamente sobre situaciones aterradoras en tu vida."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    ]
 }

@@ -1,10 +1,10 @@
 {
-    "header_text": "El ruido fuerte",
+    "header_text": "Conociendo a un amigo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "EL RUIDO FUERTE: Mientras bajas las escaleras...\n\nTienes frío y piensas que la casa necesita una mejor calefacción."
+            "text": "CONOCER A UN AMIGO: Llegas un poco tarde y...\n\nPides tu snack favorito."
         },
         {
             "type": "Buttons",
@@ -15,7 +15,7 @@
                 "Muy similar",
                 "Prefiero no responder"
             ],
-            "name": "IBM_loud_interpretation_4"
+            "name": "IBM_friend_interpretation_1"
         }
     ]
 }

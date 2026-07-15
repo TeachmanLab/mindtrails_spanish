@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tomando el autobús"
+            "text": "Es lunes por la mañana y corriste por la calle para tomar el autobús. Sientes que tu corazón se acelera cuando te subes al bús y te sientas. Al empezar a sudar y respirar rápidamente, temas que estás sufriendo de un ataque de..."
         },
         {
-            "type": "Media",
-            "url": "./images/462.jpg"
+            "type": "Entry",
+            "name": "Tomando el autobús_Salud Física_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
     "scenario_num": 1
 }

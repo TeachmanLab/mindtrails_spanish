@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Recientemente has notado que estás teniendo pensamientos intrusivos. Estos pensamientos te están molestando y no puedes creer que estés pensando en cosas tan horribles. Sientes que te estás volviendo..."
+            "text": "Después de un tiempo, te das cuenta de que son solo pensamientos y que no significan nada sobre ti como persona. Piensas que no te estás volviendo loco y que eres una buena..."
         },
         {
             "type": "Entry",
-            "name": "Pensamientos intrusivos_Salud Mental_entry1"
+            "name": "Pensamientos intrusivos_Salud Mental_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",

@@ -1,29 +1,10 @@
 {
-    "header_text": "Viendo a un viejo amigo",
+    "header_text": "Recurso: Situaciones Sociales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Está bien que sientas que tu corazón da un vuelco?"
-        },
-        {
-            "type": "Buttons",
-            "name": "Viendo a un viejo amigo_Situaciones Sociales_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "text": "Acceso Latino\n\nAcceso Latino, parte de la Fundación Carlos Slim, comparte páginas para orientación legal, información acerca de los apoyos sociales, trámites legales, y más asesorías para inmigrantes en Estados Unidos. También contiene enlaces directos a los consulados de países latinoamericanos."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 9
+    ]
 }

@@ -1,10 +1,10 @@
 {
-    "header_text": "Conociendo a un amigo",
+    "header_text": "El almuerzo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "CONOCER A UNA AMIGA: Llegas un poco tarde y...\n\nCrees que tu amiga decidió que no quería verte."
+            "text": "EL ALMUERZO: Tu amiga te mira...\n\nPorque piensa que eres un vago."
         },
         {
             "type": "Buttons",
@@ -15,7 +15,7 @@
                 "Muy similar",
                 "Prefiero no responder"
             ],
-            "name": "IBM_friend_interpretation_4"
+            "name": "IBM_lunch_interpretation_1"
         }
     ]
 }

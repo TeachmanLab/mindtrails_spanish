@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes miedo de la naturaleza salvaje. Este fin de semana, acamparás con amigos y sabes que se han avistado con frecuencia animales salvajes en la zona. Al pensar en el viaje, sientes..."
+            "text": "Piensas un poco más en el paseo de acampar, y te das cuenta que disfrutarás tanto de la experiencia y el miedo se disipará. Te sientes más..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Nuevo ambiente_Situaciones Sociales_puzzle1",
+            "name": "Nuevo ambiente_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "miedo"
+                "tranquilo"
             ],
             "missing_letter_count": 2
         }

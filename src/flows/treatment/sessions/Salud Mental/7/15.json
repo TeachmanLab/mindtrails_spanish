@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Te gustaría postularte para un puesto más alto en tu trabajo y mejorar tus habilidades. Sabes que el proceso de selección es riguroso, pero sientes mucha pasión por lograr este objetivo y has trabajado duro para convertirte en un buen empleado. Sientes que tus posibilidades de conseguir este nuevo trabajo son..."
+            "text": "Crees que probablemente tu..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Lograr tus objetivos_Salud Mental_puzzle1",
+            "type": "Buttons",
+            "name": "Lograr tus objetivos_Salud Mental_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "escasas"
+            "buttons": [
+                "Consigas el trabajo y avanza aún más en tu carrera.",
+                "No terminaras cumpliendo tus sueños y sentirte decepcionado de dónde terminas."
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "No terminaras cumpliendo tus sueños y sentirte decepcionado de dónde terminas."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "negative",
     "scenario_num": 1
 }

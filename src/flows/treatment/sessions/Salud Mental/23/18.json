@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Conducción segura"
+            "text": "Tu amigo es un buen conductor, pero hoy está lloviendo fuertemente. Está conduciendo muy rápido, así que le pides que reduzca la velocidad. Respiras profundamente, porque las posibilidades de sufrir un accidente son... "
         },
         {
-            "type": "Media",
-            "url": "./images/164.jpg"
+            "type": "Entry",
+            "name": "Conducción segura_Salud Mental_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 3
 }

@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Vas a hacer un largo viaje en auto con tu familia para visitar a tus familiares en otra parte del estado. Después de una hora, notas que la batería de tu teléfono está casi agotada y no tienes cargador. Piensas en el resto del viaje en coche y sientes que te sentirás..."
+            "text": "Después de preocuparte por unos minutos, te das cuenta de que puedes aprovechar este tiempo para hablar con tu familia. Te sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Quedarse sin batería_Vida Familiar y Doméstica_puzzle1",
+            "name": "Quedarse sin batería_Vida Familiar y Doméstica_puzzle_word2",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "miserable"
+                "mejor"
             ],
             "missing_letter_count": 1
         }

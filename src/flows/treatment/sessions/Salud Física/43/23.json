@@ -1,16 +1,14 @@
 {
-    "header_text": "¡Escribe el tuyo!",
-    "header_icon": [
-        "assets/subtitle.png"
-    ],
+    "header_text": "Aplicar a la vida diaria: ¡Haz que funcione para ti!",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Razón 5:"
+            "text": "Imaginas que estás impartiendo un taller sobre cómo pensar de manera flexible sobre situaciones ambiguas y potencialmente amenzantes. ¿Cuál sería tu mensaje para los participantes?"
         },
         {
             "type": "Entry",
-            "name": "Razón5_WYO"
+            "name": "Consejo #6_entry"
         }
     ]
 }

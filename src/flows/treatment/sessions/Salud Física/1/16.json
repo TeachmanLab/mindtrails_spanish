@@ -1,29 +1,30 @@
 {
-    "header_text": "Tajada de fruta",
+    "header_text": "Carrera matutina del domingo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu herida probablemente..."
+            "text": "Carrera matutina del domingo"
         },
         {
-            "type": "Buttons",
-            "name": "Tajada de fruta_Salud Física_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sanará rápidamente.",
-                "Se infectará."
-            ],
-            "column_Count": 1,
-            "correct_value": "Sanará rápidamente."
+            "type": "Media",
+            "url": "./images/370.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 1
+    "scenario_num": 2,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/596.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Un consejo: Recuerda tratar de imaginar vívidamente los escenarios."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

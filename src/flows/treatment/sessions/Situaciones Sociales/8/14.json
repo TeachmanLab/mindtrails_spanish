@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Conocido sin mascarilla"
+            "text": "Llegas a una reunión con tu mascarilla puesta. Te das cuenta de que uno de tus colegas no está usando una mascarilla. Piensas que probablemente se le..."
         },
         {
-            "type": "Media",
-            "url": "./images/458.jpg"
+            "type": "Entry",
+            "name": "Conocido sin mascarilla_Situaciones Sociales_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 1
 }

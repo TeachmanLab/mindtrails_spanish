@@ -4,13 +4,24 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Trabajo inacabado"
+            "text": "Tuviste un día muy ocupado y no pudiste realizar todas sus tareas. En la cena, tu pareja habla orgullosamente de cómo terminó todo lo que tenía en la lista de tareas pendientes. Al pensar en si podrás completar tu trabajo mañana, te sientes..."
         },
         {
-            "type": "Media",
-            "url": "./images/68.jpg"
+            "type": "Entry",
+            "name": "Trabajo inacabado_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "MindTrails te brinda el coraje para enfrentar situaciones inciertas, brindándote la confianza para abordarlas en la vida real."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

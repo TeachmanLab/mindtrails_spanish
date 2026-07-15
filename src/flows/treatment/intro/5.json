@@ -4,17 +4,19 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Cuál es tu etnia?"
+            "text": "¿Cuál es tu identidad de género?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "Hispano o Latino",
-                "No Hispano o Latino",
-                "Desconocido",
+                "Mujer",
+                "Hombre",
+                "Mujer transgénera",
+                "Hombre transgénero",
+                "!Otra identidad",
                 "^Prefiero no responder"
             ],
-            "name": "ethnicity"
+            "name": "gender"
         }
     ]
 }

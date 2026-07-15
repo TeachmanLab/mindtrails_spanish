@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Calentador"
+            "text": "Saliste corriendo de tu casa esta mañana. Una vez en el trabajo, te preguntas si olvidaste apagar el calentador. La probabilidad de que el calentador provoque un incendio es..."
         },
         {
-            "type": "Media",
-            "url": "./images/131.jpg"
+            "type": "Entry",
+            "name": "Calentador_Vida Familiar y Doméstica_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 6
 }

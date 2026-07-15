@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Te das cuenta que hay muchas personas atractivas que publican fotografías en un sitio de redes sociales. Te sientes un poco incómodo al publicar una foto tuya, pero publícala de todos modos. Te sientes..."
+            "text": "¿Te abstienes de publicar una foto tuya porque no te sientes tan atractivo como las personas que ves en otras publicaciones de las redes sociales?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Comparaciones de redes sociales_Situaciones Sociales_puzzle1",
+            "type": "Buttons",
+            "name": "Comparaciones de redes sociales_Situaciones Sociales_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "seguro"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 9
 }

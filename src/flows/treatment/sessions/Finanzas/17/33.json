@@ -4,13 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Realizando cambios"
+            "text": "¡Estás a punto de retirarte! Te preocupa el futuro, especialmente en términos financieros. Cuando piensas en tus planes futuros, sabes que estarás financieramente..."
         },
         {
-            "type": "Media",
-            "url": "./images/272.jpg"
+            "type": "WordPuzzle",
+            "name": "Realizando cambios_Finanzas_puzzle1",
+            "correct_feedback": "¡Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "estable"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 7
 }

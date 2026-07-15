@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Aunque no disfrutas de esta sensación, te das cuenta de que es algo que pasará naturalmente con..."
+            "text": "Respondes a la sensación en tu estómago..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "sintiéndote enfermo en un día caluroso_Salud Física_puzzle_word2",
+            "type": "Buttons",
+            "name": "sintiéndote enfermo en un día caluroso_Salud Física_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "tiempo"
+            "buttons": [
+                "Observando las sensaciones sin hacer nada.",
+                "Entrando en pánico por las sensaciones y llamando a una ambulancia."
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Observando las sensaciones sin hacer nada."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
     "scenario_num": 7
 }

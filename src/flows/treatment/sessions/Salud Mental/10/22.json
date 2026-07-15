@@ -4,13 +4,24 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Compartiendo programas favoritos"
+            "text": "Estás hablando con un grupo de compañeros de trabajo sobre programas de televisión. Cuando dices lo que te gusta de un viejo programa que acabas de descubrir, nadie responde. Probablemente piensan que eres..."
         },
         {
-            "type": "Media",
-            "url": "./images/346.jpg"
+            "type": "Entry",
+            "name": "Compartiendo programas favoritos_Salud Mental_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "negative",
-    "scenario_num": 4
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Recuerda, MindTrails no solo cambia tu perspectiva sobre las situaciones que estás leyendo aquí, ¡sino también tu perspectiva en la vida real!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

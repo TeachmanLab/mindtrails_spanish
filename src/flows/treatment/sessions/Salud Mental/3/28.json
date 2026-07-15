@@ -1,29 +1,30 @@
 {
-    "header_text": "Clima lluvioso",
+    "header_text": "Tu primer hijo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿La tristeza de hoy va a durar para siempre?"
+            "text": "Tu primer hijo"
         },
         {
-            "type": "Buttons",
-            "name": "Clima lluvioso_Salud Mental_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/137.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 5
+    "type": "negative",
+    "scenario_num": 6,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/597.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Un consejo: Trata de imaginarte diferentes formas de responder a cada escenario."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

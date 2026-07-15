@@ -1,17 +1,16 @@
 {
-    "header_text": "Mensajes en redes sociales",
+    "header_text": "Conversaciones incómodas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Uno de tus amigos ha comenzado a enviarte imágenes chistosas por redes sociales. Hoy notas que abrió tu última imagen y no respondió. Seguramente se le..."
+            "text": "Conversaciones incómodas"
         },
         {
-            "type": "Entry",
-            "name": "Mensajes en redes sociales_Relaciones Románticas_entry1"
+            "type": "Media",
+            "url": "./images/224.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 1
+    "type": "positive",
+    "scenario_num": 2
 }

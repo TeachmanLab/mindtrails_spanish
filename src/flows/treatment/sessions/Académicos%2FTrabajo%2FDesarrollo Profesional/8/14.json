@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Una lectura larga"
+            "text": "Se te ha asignado una tarea y te esfuerzas mucho para asegurarte de que sea exhaustiva. El trabajo es bastante difícil. Cuando tu supervisor te vea, crees que juzgará tus esfuerzos como..."
         },
         {
-            "type": "Media",
-            "url": "./images/56.jpg"
+            "type": "Entry",
+            "name": "Una lectura larga_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 1
 }

@@ -4,14 +4,24 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Te han llamado para una evaluación de desempeño con tu jefe. En general, haces un buen trabajo, pero sabes que tu jefe ha notado algunos errores..."
+            "text": "Mientras te preparas para la revisión, no crees que tu jefe olvide tu buen trabajo y crees que su reunión probablemente se centrará en tus..."
         },
         {
             "type": "Entry",
-            "name": "Revisando tu trabajo_Salud Mental_entry1"
+            "name": "Revisando tu trabajo_Salud Mental_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 4
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Al igual que un músculo, tu cerebro fortalece las vías que más utiliza. Por eso practicar muchas situaciones te ayuda a cambiar tus hábitos de pensamiento."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

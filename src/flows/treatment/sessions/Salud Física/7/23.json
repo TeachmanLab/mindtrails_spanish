@@ -4,13 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Fiesta de cumpleaños"
+            "text": "Estás en una fiesta de cumpleaños para un amigo de un amigo. Te das cuenta de que estás ruborizado y un poco sudado. Parado allí, piensas que estas sensaciones son..."
         },
         {
-            "type": "Media",
-            "url": "./images/409.jpg"
+            "type": "WordPuzzle",
+            "name": "Fiesta de cumpleaños_Salud Física_puzzle1",
+            "correct_feedback": "¡Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "normales"
+            ],
+            "missing_letter_count": 2
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 4
 }

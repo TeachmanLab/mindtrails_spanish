@@ -1,29 +1,16 @@
 {
-    "header_text": "Sala de espera del hospital",
+    "header_text": "Preocupaciones por el ritmo cardíaco",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "si te lavas las manos, lo más probable es que..."
+            "text": "Preocupaciones por el ritmo cardíaco"
         },
         {
-            "type": "Buttons",
-            "name": "Sala de espera del hospital_Salud Física_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Te mantienes sano.",
-                "Te enfermas de todos modos."
-            ],
-            "column_Count": 1,
-            "correct_value": "Te mantienes sano."
+            "type": "Media",
+            "url": "./images/363.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 0
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

@@ -1,17 +1,16 @@
 {
-    "header_text": "Cambio de planes",
+    "header_text": "Broma interna",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Decides decírselo de todos modos. Cuando le cuentas tus planes, te sientes... "
+            "text": "Broma interna"
         },
         {
-            "type": "Entry",
-            "name": "Cambio de planes_Situaciones Sociales_entry2"
+            "type": "Media",
+            "url": "./images/342.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 3
+    "type": "positive",
+    "scenario_num": 4
 }

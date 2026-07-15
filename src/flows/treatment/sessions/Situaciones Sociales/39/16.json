@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Evaluación importante"
+            "text": "Ya casi has completado un proyecto importante.  Tus compañeros de trabajo  determinan parte de tu evaluación.Conoces bien a la mayoría de ellos y sientes que te evalúen..."
         },
         {
-            "type": "Media",
-            "url": "./images/76.jpg"
+            "type": "Entry",
+            "name": "Evaluación importante_Situaciones Sociales_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 2
 }

@@ -1,16 +1,10 @@
 {
-    "header_text": "¡Escribe el tuyo!",
-    "header_icon": [
-        "assets/subtitle.png"
-    ],
+    "header_text": "Recurso: Salud Física",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Razón 5:"
-        },
-        {
-            "type": "Entry",
-            "name": "Razón5_WYO"
+            "text": "Oficina para la Salud de la Mujer\n\nLa Oficina para la Salud de la Mujer es la oficina gubernamental encargada de preservar y promover la buena salud y el bienestar de las mujeres. Ofrecen información y recursos."
         }
     ]
 }

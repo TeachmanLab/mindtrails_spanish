@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tu mejor amigo se han conocido por muchos años. Ahora trabajan en profesiones diferentes y tienen intereses distintos, y te preocupas que no se relacionarán a medida que envejecen. Cuando piensas en próximos eventos importantes de la vida, piensas que no te..."
+            "text": "Cuando piensas en eventos importantes de la vida, crees que tu amigo no se distanciará, sino que esperas que sean..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Tu mejor amigo_Situaciones Sociales_puzzle1",
+            "name": "Tu mejor amigo_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "apoyará"
+                "comprensivos"
             ],
             "missing_letter_count": 2
         }

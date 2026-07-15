@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás caminando hacia el trabajo cuando de repente escuchas un ruido detrás de ti. Cuando giras rápidamente la cabeza para ver qué es, te sientes mareado y empiezas a preocuparte de que perderás el..."
+            "text": "Al notar estos pensamientos, decides que podrás afrontar la situación, así que sigues..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Asustado en tu caminata_Salud Física_puzzle1",
+            "name": "Asustado en tu caminata_Salud Física_puzzle_word2",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "control"
+                "caminando"
             ],
             "missing_letter_count": 1
         }

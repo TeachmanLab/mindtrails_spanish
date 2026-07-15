@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Aplicaste a un nuevo trabajo en un país extranjero, pero nadie en tu familia ha estado en el extranjero. Piensas en cómo reaccionará tu familia cuando les cuentes tu decisión y es posible que no les guste la idea de que vivas en otro país. Mientras te imaginas contándoles, sientes..."
+            "text": "¿Te preocupa decirle a tu familia que quieres trabajar y vivir en otro país?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Nueva oportunidad_Vida Familiar y Doméstica_puzzle1",
+            "type": "Buttons",
+            "name": "Nueva oportunidad_Vida Familiar y Doméstica_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "entusiasmo"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 5
 }

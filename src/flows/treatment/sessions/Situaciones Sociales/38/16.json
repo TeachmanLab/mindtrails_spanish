@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Probando un dicho divertido"
+            "text": "Estás intentando pensar en un cierre para un correo que enviarás a tus compañeros de trabajo. Se te ocurre un chiste que a tus amigos más cercanos les encantará. Tus compañeros de trabajo lo encontrarán..."
         },
         {
-            "type": "Media",
-            "url": "./images/342.jpg"
+            "type": "Entry",
+            "name": "Probando un dicho divertido_Situaciones Sociales_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 2
 }

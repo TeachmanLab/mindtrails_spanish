@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás almorzando en una mesa de picnic con algunos compañeros de trabajo cuando te cortas el dedo accidentalmente cortando fruta. No puedes lavarlo inmediatamente con agua y jabón porque estás afuera. En unos días, tu herida..."
+            "text": "Tu herida probablemente..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Tajada de fruta_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Tajada de fruta_Salud Física_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "sanará"
+            "buttons": [
+                "Sanará rápidamente.",
+                "Se infectará."
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Sanará rápidamente."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 7
 }

@@ -1,17 +1,10 @@
 {
-    "header_text": "Resultados del chequeo anual",
+    "header_text": "Recurso: Salud Física",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Te extraen sangre para tu examen físico anual. Tu médico te dice que tendrá que esperar unos días para recibir los resultados y te preocupas por lo que dirán los resultados. Durante los próximos días, las preocupaciones son..."
-        },
-        {
-            "type": "Entry",
-            "name": "Resultados del chequeo anual_Salud Física_entry1"
+            "text": "Guía de Métodos Anticonceptivos por el FDA\n\nGuía de métodos anticonceptivos proporcionada por el FDA que compara todo tipo de anticonceptivos."
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 9
+    ]
 }

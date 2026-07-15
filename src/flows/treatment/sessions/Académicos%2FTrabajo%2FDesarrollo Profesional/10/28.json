@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Desconectandote"
+            "text": "Estás en una reunión en Zoom y te desconectas por un minuto. Tu jefa te hace una pregunta y no la escuchaste. Le pides que repita su pregunta y esto te hace sentir..."
         },
         {
-            "type": "Media",
-            "url": "./images/78.jpg"
+            "type": "Entry",
+            "name": "Desconectandote_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 7
 }

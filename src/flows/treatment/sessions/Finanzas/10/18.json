@@ -1,17 +1,16 @@
 {
-    "header_text": "Permitirse la educación",
+    "header_text": "Inicio Presentaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tus hijos están pensando en ir a la universidad, pero piensas que tendrías que pedir un préstamo para ayudarlos a ir. Recuerdas historias que has escuchado de personas que todavía estaban pagando sus préstamos incluso después de jubilarse. Imaginándote a ti mismo en la jubilación, piensas que tus préstamos estarán..."
+            "text": "Inicio Presentaciones"
         },
         {
-            "type": "Entry",
-            "name": "Permitirse la educación_Finanzas_entry1"
+            "type": "Media",
+            "url": "./images/165.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 2
+    "type": "positive",
+    "scenario_num": 3
 }

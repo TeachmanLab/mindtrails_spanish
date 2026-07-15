@@ -4,14 +4,24 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Esta mañana, tu pareja está viendo las noticias y escuchas que muchas empresas están reduciendo personal. Piensas en qué sucederá si tu pareja pierde su trabajo. Te sientes..."
+            "text": "Notas que tu pareja no parece molesto al escuchar las noticias. Piensas que todo estará..."
         },
         {
             "type": "Entry",
-            "name": "sintiéndote preocupado por las noticias_Finanzas_entry1"
+            "name": "sintiéndote preocupado por las noticias_Finanzas_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 4
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Recuerda, MindTrails no solo cambia tu perspectiva sobre las situaciones que estás leyendo aquí, ¡sino también tu perspectiva en la vida real!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

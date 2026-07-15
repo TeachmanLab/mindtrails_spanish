@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Consejería para parejas"
+            "text": "Tú y tu pareja han comenzado la terapia de parejas. Han asistido a algunas sesiones, pero aún tienen problemas. Piensas que el proceso simplemente tomará..."
         },
         {
-            "type": "Media",
-            "url": "./images/230.jpg"
+            "type": "Entry",
+            "name": "Consejería para parejas_Relaciones Románticas_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 2
 }

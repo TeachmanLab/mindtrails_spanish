@@ -1,17 +1,16 @@
 {
-    "header_text": "Mantenerse al día con los amigos",
+    "header_text": "Participación",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras piensas en tu reacción antes de esta pausa en el contacto, no te preocupas por la fuerza de tu amistad y crees que tu amigo será..."
+            "text": "Participación"
         },
         {
-            "type": "Entry",
-            "name": "Mantenerse al día con los amigos_Situaciones Sociales_entry2"
+            "type": "Media",
+            "url": "./images/63.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 6
 }

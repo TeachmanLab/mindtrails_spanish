@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "EL ALMUERZO: Tu amiga te mira...\n\nPorque está prestando atención mientras le describes tus planes para el fin de semana."
+            "text": "EL ALMUERZO: Tu amigo te mira...\n\nY sonríes porque tu almuerzo sabe bien."
         },
         {
             "type": "Buttons",
@@ -15,7 +15,7 @@
                 "Muy similar",
                 "Prefiero no responder"
             ],
-            "name": "IBM_lunch_interpretation_3"
+            "name": "IBM_lunch_interpretation_4"
         }
     ]
 }

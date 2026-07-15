@@ -1,17 +1,10 @@
 {
-    "header_text": "Fiesta sensacional",
+    "header_text": "Maneja tus sentimientos: Salud Física",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en una fiesta de cumpleaños para un amigo de un amigo. Te das cuenta de que estás ruborizado y un poco sudado. Parado allí, piensas que estas sensaciones son..."
-        },
-        {
-            "type": "Entry",
-            "name": "Fiesta sensacional_Salud Física_entry1"
+            "text": "Es posible que en este momento sientas algo de dolor en tu cuerpo. Recuerda que el dolor fluye y refluye, y que probablemente no será tan intenso para siempre."
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 9
+    ]
 }

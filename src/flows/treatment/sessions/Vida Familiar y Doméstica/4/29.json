@@ -1,29 +1,16 @@
 {
-    "header_text": "Creencias diferentes",
+    "header_text": "Cambio de planes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas que probablemente tu familia..."
+            "text": "Cambio de planes"
         },
         {
-            "type": "Buttons",
-            "name": "Creencias diferentes_Vida Familiar y Doméstica_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Hablarán cada vez menos entre ustedes a medida que aumenten las tensiones ideológicas.",
-                "Trabajarán juntos para establecer mejores relaciones entre ustedes."
-            ],
-            "column_Count": 1,
-            "correct_value": "Trabajarán juntos para establecer mejores relaciones entre ustedes."
+            "type": "Media",
+            "url": "./images/54.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 5
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

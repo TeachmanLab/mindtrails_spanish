@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Llevas cinco años en el mismo puesto y empiezas a sentirst aburrido y sin desafíos en tu trabajo. Te gustaría intentar conseguir un nuevo puesto, pero te preocupa poder ser competitivo en el mercado laboral. Al pensar en tu trayectoria profesional, crees que tus posibilidades de encontrar un nuevo trabajo que te resulte satisfactorio son..."
+            "text": "Dado tu probable resultado en el mercado laboral, tu mejor opción es..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Cambiando tu trayectoria_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "type": "Buttons",
+            "name": "Cambiando tu trayectoria_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "malas"
+            "buttons": [
+                "Intentar encontrar un trabajo en algún lugar que realmente te desafíe.",
+                "Quedarte quieto aunque sea aburrido."
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Quedarte quieto aunque sea aburrido."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 1
 }

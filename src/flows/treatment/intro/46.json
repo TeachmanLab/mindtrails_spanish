@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "EL ASCENSOR: El edificio parece viejo y cuando subes al ascensor...\n\nCrees que te va a gustar el nuevo apartamento de tu amigo."
+            "text": "EL ASCENSOR: El edificio parece viejo y cuando subes al ascensor...\n\nPiensas en lo mal que huele el vestíbulo."
         },
         {
             "type": "Buttons",
@@ -15,7 +15,7 @@
                 "Muy similar",
                 "Prefiero no responder"
             ],
-            "name": "IBM_elevator_interpretation_2"
+            "name": "IBM_elevator_interpretation_3"
         }
     ]
 }

@@ -1,17 +1,16 @@
 {
-    "header_text": "Caminando para despejar la mente",
+    "header_text": "Clase de baile",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recuerdas que es la primera vez en unas semanas que caminas una distancia larga. Probablemente sientes que el latido de tu corazón se acelera debido a la..."
+            "text": "Clase de baile"
         },
         {
-            "type": "Entry",
-            "name": "Caminando para despejar la mente_Salud Física_entry2"
+            "type": "Media",
+            "url": "./images/427.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 2
+    "type": "positive",
+    "scenario_num": 3
 }

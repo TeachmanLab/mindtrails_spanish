@@ -4,13 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Corte de dedo"
+            "text": "Te cortaste un poco el dedo por accidente mientras cocinabas. Limpiaste la herida rápidamente y te pusiste una curita. Más tarde esa noche, la herida te duele un poco, y piensas que probablemente se esté..."
         },
         {
-            "type": "Media",
-            "url": "./images/380.jpg"
+            "type": "WordPuzzle",
+            "name": "Corte de dedo_Salud Física_puzzle1",
+            "correct_feedback": "¡Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "curando"
+            ],
+            "missing_letter_count": 2
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 3
 }

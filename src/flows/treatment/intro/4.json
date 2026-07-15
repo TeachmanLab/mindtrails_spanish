@@ -4,22 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "¿Cuál es tu raza?"
+            "text": "Cuál es tu etnia?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "Indio americano/nativo de Alaska",
-                "Asiático del este",
-                "Asiático del Sur",
-                "Nativo de Hawái/Isleño del Pacífico",
-                "Origen negro/africano",
-                "Origen blanco/europeo",
-                "Otro o Desconocido",
+                "Hispano o Latino",
+                "No Hispano o Latino",
+                "Desconocido",
                 "^Prefiero no responder"
             ],
-            "multiselect": true,
-            "name": "race"
+            "name": "ethnicity"
         }
     ]
 }

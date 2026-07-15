@@ -1,29 +1,10 @@
 {
-    "header_text": "Ahorrando dinero",
+    "header_text": "Maneja tus sentimientos: Finanzas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Las probabilidades de que vayas a tu viaje de esquí son..."
-        },
-        {
-            "type": "Buttons",
-            "name": "Ahorrando dinero_Finanzas_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Altas, porque podrás ahorrar más dinero en los próximos meses.",
-                "Bajas, porque es poco probable que ahorres suficiente dinero."
-            ],
-            "column_Count": 1,
-            "correct_value": "Altas, porque podrás ahorrar más dinero en los próximos meses."
+            "text": "Identifica aspectos específicos de tus finanzas que te estén causando estrés y establece objetivos para gestionar mejor esos factores estresantes (por ejemplo, si tu presupuesto te está causando estrés, busca en Google herramientas de elaboración de presupuestos que te faciliten ese proceso)."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 9
+    ]
 }

@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Es medianoche y te despiertas abruptamente. Cuando te sientas, te sientes raro, como si tu mente no estuviera funcionando correctamente y empiezas a pensar que podrías estar volviéndote loco. Este pensamiento te asusta y, mientras te reacuestas, decides que simplemente lo..."
+            "text": "¿Necesitas luchar contra tus sentimientos extraños para que tu ansiedad desaparezca?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Sensación de noche_Salud Mental_puzzle1",
+            "type": "Buttons",
+            "name": "Sensación de noche_Salud Mental_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "observarás"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
     "scenario_num": 7
 }

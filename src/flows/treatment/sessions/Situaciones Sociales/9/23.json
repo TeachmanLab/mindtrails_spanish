@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Recogiendo a un viejo amigo"
+            "text": "Te vas a encontrar con un amigo que no has visto en muchos años. Manejas a la estación de tren para recogerlo. Cuando llegas, sabes que pasarán un buen rato..."
         },
         {
-            "type": "Media",
-            "url": "./images/495.jpg"
+            "type": "Entry",
+            "name": "Recogiendo a un viejo amigo_Situaciones Sociales_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 5
 }

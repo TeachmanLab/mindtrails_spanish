@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en casa y es el primer fin de semana que tienes tiempo libre en un rato. Después de enviar un mensaje de texto a un amigo para hacer planes hace varias horas, te das cuenta que aún no ha respondido. Ves que ha estado activos en sus cuentas de redes sociales y te preguntas si te está ignorando o si no quiere pasar tiempo..."
+            "text": "Después de pensarlo, reconoces que tu amigo es una persona ocupada y que las personas a menudo se pierden las notificaciones. Reenvías tu mensaje y descubres que tu amigo olvidó responder, pero está muy entusiasmado por hacer planes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Esperando una respuesta_Situaciones Sociales_puzzle1",
+            "name": "Esperando una respuesta_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,

@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tu Currículum"
+            "text": "Te estás preparando para solicitar un nuevo trabajo. Tienes una reunión con un posible empleador mañana, y sabes que un buen currículum será un factor..."
         },
         {
-            "type": "Media",
-            "url": "./images/77.jpg"
+            "type": "Entry",
+            "name": "Tu Currículum_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
     "scenario_num": 6
 }

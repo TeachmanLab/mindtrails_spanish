@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás sentado viendo la televisión y te das cuenta de que olvidaste pagar tu tarjeta de crédito. Nunca has pagado tu tarjeta de crédito tarde, y comienzas a preocuparte de que tengas que pagar una tarifa grande. Piensas que las consecuencias de hacer el pago unos días tarde serán..."
+            "text": "¿Seguirás sintiendo ansiedad por pagar tu tarjeta de crédito?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Manejando tu tarjeta de crédito_Finanzas_puzzle1",
+            "type": "Buttons",
+            "name": "Manejando tu tarjeta de crédito_Finanzas_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "mínimas"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 9
 }

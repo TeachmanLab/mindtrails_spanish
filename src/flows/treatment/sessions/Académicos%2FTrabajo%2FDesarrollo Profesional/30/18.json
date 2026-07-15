@@ -1,29 +1,16 @@
 {
-    "header_text": "Mal rumor",
+    "header_text": "Ingresos adicionales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Crees que tu supervisor podría estar ..."
+            "text": "Ingresos adicionales"
         },
         {
-            "type": "Buttons",
-            "name": "Mal rumor_Académicos/Trabajo/Desarrollo Profesional_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Planeando despedir a alguien más.",
-                "Planeando despedirte."
-            ],
-            "column_Count": 1,
-            "correct_value": "Planeando despedir a alguien más."
+            "type": "Media",
+            "url": "./images/11.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 1
+    "scenario_num": 2
 }

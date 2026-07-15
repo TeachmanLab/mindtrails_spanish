@@ -1,29 +1,10 @@
 {
-    "header_text": "Saliendo de noche",
+    "header_text": "Maneja tus sentimientos: Salud Mental",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Crees que te ves bien?"
-        },
-        {
-            "type": "Buttons",
-            "name": "Saliendo de noche_Salud Mental_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "text": "Todos los sentimientos pasan. Cuando sientas que un sentimiento negativo (como la tristeza o el miedo) nunca terminará, recuérdate suavemente que este sentimiento eventualmente pasará."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 9
+    ]
 }

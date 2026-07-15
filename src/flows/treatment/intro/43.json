@@ -1,18 +1,10 @@
 {
-    "header_text": "El análisis de sangre",
+    "header_text": "Algunas preguntas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te hiciste análisis de sangre?"
-        },
-        {
-            "type": "Buttons",
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "name": "IBM_blood"
+            "text": "A continuación, verás los títulos de los nueve cuentos que acabas de leer. Después de cada uno, verás cuatro frases. Ninguna de estas oraciones es idéntica a la historia original, pero algunas son más similares que otras.\n\nPiensa en la historia que leíste y califica qué tan similar es cada oración a lo que leíste en la historia original. Estamos interesados en tu comprensión de la historia original, sin importar si coincide o no con lo que tú personalmente pensarías o harías en esa situación."
         }
     ]
 }

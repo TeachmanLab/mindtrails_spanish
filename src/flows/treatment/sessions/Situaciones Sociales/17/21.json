@@ -4,13 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "text": "El partido de futból"
+            "text": "Estás caminando a casa después de un partido de fútbol recreativo en que jugaste. Mientras tu mente divaga, piensas en el gol que no metiste. En general, consideras que tu desempeño fue un..."
         },
         {
-            "type": "Media",
-            "url": "./images/506.jpg"
+            "type": "WordPuzzle",
+            "name": "El partido de futból_Situaciones Sociales_puzzle1",
+            "correct_feedback": "¡Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "éxito"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 3
 }

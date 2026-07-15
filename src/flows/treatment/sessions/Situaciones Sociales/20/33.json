@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Decides enviar un correo electrónico a tu departamento promocionando algo importante para ti. Alguien responde de manera grosera porque malinterpretó lo que escribiste. Te preguntas qué piensa esta persona sobre ti y te sientes..."
+            "text": "¿Te preocupas lo que esa persona piensa de ti?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Un malentendido_Situaciones Sociales_puzzle1",
+            "type": "Buttons",
+            "name": "Un malentendido_Situaciones Sociales_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "preocupado"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "negative",
     "scenario_num": 6
 }

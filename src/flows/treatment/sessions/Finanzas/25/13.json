@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Desayuno con amigos"
+            "text": "Tus amigos quieren desayunar juntos. No quieres perder la oportunidad de pasar tiempo con ellos, pero estás tratando de no comer fuera tanto. Cuando les dices que comerás la comida que tienes en casa, crees que lo... "
         },
         {
-            "type": "Media",
-            "url": "./images/310.jpg"
+            "type": "Entry",
+            "name": "Desayuno con amigos_Finanzas_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 0
 }

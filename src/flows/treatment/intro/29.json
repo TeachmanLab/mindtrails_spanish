@@ -1,18 +1,22 @@
 {
-    "header_text": "La recepción de la boda",
+    "header_text": "El trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿El público se ríe cuando hablas?"
+            "text": "Actualmente trabajas como contratista para una empresa. Una vez que terminas este trabajo, te quedarás sin empleo hasta que puedas encontrar tu próximo trabajo. Piensas en no tener ingresos durante unas semanas y en tus futuras..."
         },
         {
-            "type": "Buttons",
-            "buttons": [
-                "Sí",
-                "No"
+            "type": "WordPuzzle",
+            "correct_feedback": "¡Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "finanzas"
             ],
-            "name": "IBM_wedding"
+            "name": "IBM_job_puzzle"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

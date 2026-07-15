@@ -4,13 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Problemas de visión"
+            "text": "Cuando te despiertas por la mañana, te sientas rápidamente. Tu visión se vuelve borrosa y luego todo se pone negro por un momento. Tu visión regresa despues de ese momento, y te convences que te estás quedando... "
         },
         {
-            "type": "Media",
-            "url": "./images/423.jpg"
+            "type": "WordPuzzle",
+            "name": "Problemas de visión_Salud Física_puzzle1",
+            "correct_feedback": "¡Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "ciego"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
     "scenario_num": 1
 }

@@ -1,10 +1,10 @@
 {
-    "header_text": "Imágenes ansiosas principales",
+    "header_text": "Gran trabajo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Imagina la situación lo más vívidamente posible (es decir, que parezca muy real). Intenta imaginar que realmente estás en esa situación. Representa las partes específicas de la situación en tu cabeza. Intenta imaginarte usando todos tus sentidos mientras piensas en esta situación. Piensa en las cosas que verías, oírías y olerías si realmente estuvieras allí. Piensa en el tipo de cosas que pensarías o sentirías si realmente estuvieras allí."
+            "text": "Durante las próximas 6 semanas, recibirás notificaciones que te solicitarán que abra la aplicación para completar actividades y encuestas. Esperamos que utilices la aplicación 1 o 2 veces al día, pero entendemos que la vida puede interponerse en tu camino y que es posible que debas saltarse algunas sesiones. Está bien, pero recuerda que el programa sólo dura 6 semanas. También podrás acceder a los contenidos de la aplicación (actividades, recursos, etc.) en cualquier momento visitando la biblioteca bajo demanda desde la página de inicio."
         }
     ]
 }

@@ -1,17 +1,16 @@
 {
-    "header_text": "Día caluroso",
+    "header_text": "Una mesa sucia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Regresando a casa en un día muy caluroso, te tomas un vaso grande de agua rápidamente. Pronto te sientes anormalmente lleno y un poco enfermo del..."
+            "text": "Una mesa sucia"
         },
         {
-            "type": "Entry",
-            "name": "Día caluroso_Salud Física_entry1"
+            "type": "Media",
+            "url": "./images/403.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 2
+    "type": "positive",
+    "scenario_num": 3
 }

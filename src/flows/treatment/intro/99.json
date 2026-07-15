@@ -1,21 +1,22 @@
 {
-    "header_text": "Ejercicio de limón",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Ahora imagina que cortas el limón por la mitad y levantas la mitad para verlo más de cerca. Puedes ver la pulpa jugosa en forma de gajos que parecen una rueda de carreta."
+            "text": "Si esta situación terminara mal, ¿qué tan bien o mal serías capaz de manejarla?"
         },
         {
-            "type": "Media",
-            "url": "./images/lemon5.jpg",
-            "border": true
+            "type": "Buttons",
+            "buttons": [
+                "Muy bien",
+                "Algo bien",
+                "Neutral",
+                "Algo mal",
+                "Muy mal",
+                "^Prefiero no responder"
+            ],
+            "name": "imagery_handling"
         }
-    ],
-    "navigation_conditions": [
-        {
-            "wait_for_time": 2000
-        },
-        "wait_for_click"
     ]
 }

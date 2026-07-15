@@ -4,13 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Personalidades diferentes"
+            "text": "Eres alguien a quien le gusta estar en casa, mientras que a tu pareja le gusta salir. Quieres quedarte en casa por la noche, pero tu pareja quiere ir a un bar. Piensas que pueden trabajar juntos para encontrar un..."
         },
         {
-            "type": "Media",
-            "url": "./images/221.jpg"
+            "type": "WordPuzzle",
+            "name": "Personalidades diferentes_Relaciones Románticas_puzzle1",
+            "correct_feedback": "¡Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "compromiso"
+            ],
+            "missing_letter_count": 2
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 8
 }

@@ -1,10 +1,10 @@
 {
-    "header_text": "El ascensor",
+    "header_text": "La recepción de la boda",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "EL ASCENSOR: El edificio parece viejo y cuando subes al ascensor...\n\nCrees que viajar en el ascensor será seguro."
+            "text": "LA RECEPCIÓN DE BODA: Al entrar en la sala...\n\nLa gente del público se ríe con agradecimiento."
         },
         {
             "type": "Buttons",
@@ -15,7 +15,7 @@
                 "Muy similar",
                 "Prefiero no responder"
             ],
-            "name": "IBM_elevator_interpretation_4"
+            "name": "IBM_wedding_interpretation_1"
         }
     ]
 }

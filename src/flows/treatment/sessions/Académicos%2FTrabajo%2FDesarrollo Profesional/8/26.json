@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "En el pasillo del trabajo, tu jefe te hace una pregunta y te das cuenta de que has respondido incorrectamente. Tu jefe te corrige. Crees que la experiencia de ser corregido por tu jefe es..."
+            "text": "Al final, recuerdas que cometer errores ocasionalmente no te hace un mal empleado. Tu jefe te corregió amablemente, porque es su trabajo, y sientes que toda la interacción estuvo..."
         },
         {
             "type": "Entry",
-            "name": "Corrección rápida_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "name": "Corrección rápida_Académicos/Trabajo/Desarrollo Profesional_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",

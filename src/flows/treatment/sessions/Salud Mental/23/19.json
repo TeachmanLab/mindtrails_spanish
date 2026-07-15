@@ -1,17 +1,16 @@
 {
-    "header_text": "Conducción segura",
+    "header_text": "Yendo de vacaciones",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo es un buen conductor, pero hoy está lloviendo fuertemente. Está conduciendo muy rápido, así que le pides que reduzca la velocidad. Respiras profundamente, porque las posibilidades de sufrir un accidente son... "
+            "text": "Yendo de vacaciones"
         },
         {
-            "type": "Entry",
-            "name": "Conducción segura_Salud Mental_entry1"
+            "type": "Media",
+            "url": "./images/142.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 3
+    "type": "negative",
+    "scenario_num": 4
 }

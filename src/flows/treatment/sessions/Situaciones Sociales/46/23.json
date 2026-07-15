@@ -4,22 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tienes que hacer una presentación en una reunión hoy. Cuando te paras frente al grupo, sientes que tus mejillas se calientan y tus manos empiezan a temblar.\n\nA continuación se muestran algunos comportamientos que alguien podría realizar en ese momento o en el futuro:"
-        },
-        {
-            "type": "TimedText",
-            "texts": [
-                "Hablo con voz fuerte.",
-                "Sonrío y comienzo mi presentación.",
-                "Le pregunto a mi jefe si puedo presentarme otro día.",
-                "Considero fingir que estoy enfermo para que no tenga que presentar, pero me reto a mí mismo a hacer la presentación de todos modos.",
-                "Quiero ir al baño y mojarme la cara con agua, pero decido volver a concentrarme en mi entorno para relajarme."
-            ],
-            "Duration": 15000
+            "text": "¡Tu turno! Ahora depende de usted escribir tantos comportamientos como pueda que puedan resultar útiles en ese momento. Recuerde, evitar o abandonar la situación puede hacerle sentir mejor en el momento, ¡pero en realidad empeora la ansiedad en el futuro! Trate de pensar en comportamientos que pueda realizar en el momento y que le permitan permanecer en la situación. ¿Qué podrías hacer en la situación que te permita superar la ansiedad?\n\nEn la página siguiente, tómate 30 segundos para escribir todos los comportamientos que podrías realizar en ese momento y que serían útiles y te harían sentir menos ansioso en el futuro. el futuro."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
     ]
 }

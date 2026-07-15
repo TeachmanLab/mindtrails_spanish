@@ -1,29 +1,30 @@
 {
-    "header_text": "Una oportunidad perdida",
+    "header_text": "Charla de oficina",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Reflexionando sobre el partido de fútbol, piensas que..."
+            "text": "Charla de oficina"
         },
         {
-            "type": "Buttons",
-            "name": "Una oportunidad perdida_Salud Mental_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Intentaste lo mejor posible y jugaste bien.",
-                "Jugaste mal."
-            ],
-            "column_Count": 1,
-            "correct_value": "Intentaste lo mejor posible y jugaste bien."
+            "type": "Media",
+            "url": "./images/317.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 6,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/597.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Un consejo: Trata de imaginarte diferentes formas de responder a cada escenario."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

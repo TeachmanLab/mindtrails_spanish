@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Vacaciones reprogramadas"
+            "text": "Has estado queriendo ir de vacaciones de verano a Europa durante algunos años. Reprogramaste tu viaje desde el verano pasado hasta el verano que viene, pero te preocupa que el COVID se propague de nuevo y te impida ir por fin. Decides esperar pacientemente, y siempre puedes reprogramar de nuevo si es.."
         },
         {
-            "type": "Media",
-            "url": "./images/449.jpg"
+            "type": "Entry",
+            "name": "Vacaciones reprogramadas_Salud Física_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 7
 }

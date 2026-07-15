@@ -4,13 +4,24 @@
     "elements": [
         {
             "type": "Text",
-            "text": "sintiéndote ansioso"
+            "text": "Estos últimos meses, te has sentido muy ansioso y no has podido disfrutar de tu vida sin preocuparte. Te preguntas qué pensarían las personas en tu vida si buscas ayuda. Piensas que te considerarían..."
         },
         {
-            "type": "Media",
-            "url": "./images/11.jpg"
+            "type": "Entry",
+            "name": "sintiéndote ansioso_Salud Mental_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "MindTrails te brinda el coraje para enfrentar situaciones inciertas, brindándote la confianza para abordarlas en la vida real."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

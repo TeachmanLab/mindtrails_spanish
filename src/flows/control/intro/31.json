@@ -1,18 +1,22 @@
 {
-    "header_text": "El trabajo",
+    "header_text": "Escala de estrés",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te quedarás pronto sin ingresos?"
+            "text": "En el último mes, ¿con qué frecuencia has sentido que las dificultades se acumulaban tanto que no podías superarlas?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "Sí",
-                "No"
+                "Nunca",
+                "Casi nunca",
+                "A veces",
+                "Bastante a menudo",
+                "Muy a menudo",
+                "^Prefiero no responder"
             ],
-            "name": "IBM_job"
+            "name": "PSS-4_difficulties"
         }
     ]
 }

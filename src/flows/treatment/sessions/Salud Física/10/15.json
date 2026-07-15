@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Subiendo una montaña"
+            "text": "Estás en una caminata con un grupo de amigos y todos quieren subir una montaña bastante alta. Mientras escalas la montaña, miras hacia abajo y sientes un vacío en el estómago. Piensas que esta caminata será..."
         },
         {
-            "type": "Media",
-            "url": "./images/430.jpg"
+            "type": "Entry",
+            "name": "Subiendo una montaña_Salud Física_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
     "scenario_num": 1
 }

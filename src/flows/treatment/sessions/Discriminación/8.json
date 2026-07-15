@@ -1,15 +1,15 @@
 {
-    "header_text": "Comunidad",
+    "header_text": "Activismo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "<strong>Womens Initiative:</strong> Aqui are various recursos para la commnidad en Charlottesville <a href=\"https://thewomensinitiative.org/recursos-de-la-comunidad\">https://thewomensinitiative.org/recursos-de-la-comunidad</a><br><br>",
+            "text": "<strong>InfoActivismo:</strong> La Guía de InfoActivismo te ayudará a tener una imagen completa de las acciones que puedes hacer para ser mejor activista. <a href=\"https://infoactivismo.org/guias/\">https://infoactivismo.org/guias/</a><br><br>",
             "html": true
         }
     ],
     "condition": [
-        "Comunidad",
+        "Activismo",
         "in",
         "Selected_Support"
     ]

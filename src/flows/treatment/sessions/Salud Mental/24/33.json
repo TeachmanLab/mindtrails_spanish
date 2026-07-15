@@ -1,17 +1,10 @@
 {
-    "header_text": "Opiniones opuestas",
+    "header_text": "Recurso: Salud Mental",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu familia tiene opiniones firmes con las que no siempre estás de acuerdo. Al escucharlos hablar, sientes que eres muy diferente a ellos, pero también que está bien tener tus propios puntos de..."
-        },
-        {
-            "type": "Entry",
-            "name": "Opiniones opuestas_Salud Mental_entry1"
+            "text": "7 técnicas de relajación para un alivio eficaz del estrés y la ansiedad\n\nEsta guía ofrece una lista de 7 técnicas de relajación con explicaciones claras para poder sobrellevar el estrés y la ansiedad."
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 9
+    ]
 }

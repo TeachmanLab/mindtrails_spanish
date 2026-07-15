@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Sentado en una reunión"
+            "text": "Estás en una reunión importante y necesitas prestar atención. En medio de la reunión te das cuenta de que te has desconectado y no sabes qué está pasando. Piensas que algo debe estar mal..."
         },
         {
-            "type": "Media",
-            "url": "./images/46.jpg"
+            "type": "Entry",
+            "name": "Sentado en una reunión_Académicos/Trabajo/Desarrollo Profesional_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
     "scenario_num": 9
 }

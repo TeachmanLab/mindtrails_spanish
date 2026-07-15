@@ -1,29 +1,10 @@
 {
-    "header_text": "Confrontación de COVID",
+    "header_text": "Maneja tus sentimientos: Salud Física",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿siempre puedes evitar preocupar a los demás?"
-        },
-        {
-            "type": "Buttons",
-            "name": "Confrontación de COVID_Salud Física_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "column_Count": 1,
-            "correct_value": "No"
+            "text": "Piensa en momentos de tu pasado en los que estuviste preocupado por un aspecto de tu salud física que terminó siendo perfectamente normal."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 9
+    ]
 }

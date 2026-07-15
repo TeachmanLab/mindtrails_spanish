@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Preocupaciones por las relaciones"
+            "text": "Recibes una llamada de un amigo tuyo, diciéndote que se va a divorciar. Reflexionas sobre tu propio matrimonio; y aunque amas a tu marido, tu amigo y su esposa te dan la misma..."
         },
         {
-            "type": "Media",
-            "url": "./images/186.jpg"
+            "type": "Entry",
+            "name": "Preocupaciones por las relaciones_Relaciones Románticas_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
     "scenario_num": 8
 }

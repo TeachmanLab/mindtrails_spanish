@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Al final de la conversación, te das cuenta de que aunque la discusión fue intensa, tu compañero probablemente piensa que ambos tienen convicciones fuertes. Te has ganado el respeto de tu compañero de..."
+            "text": "La próxima vez que se encuentren, tu compañero probablemente... "
         },
         {
-            "type": "WordPuzzle",
-            "name": "Noticias controvertidas_Situaciones Sociales_puzzle_word2",
+            "type": "Buttons",
+            "name": "Noticias controvertidas_Situaciones Sociales_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "trabajo"
+            "buttons": [
+                "Iniciará una conversación.",
+                "Evitará hablar contigo."
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Iniciará una conversación."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
     "scenario_num": 0
 }

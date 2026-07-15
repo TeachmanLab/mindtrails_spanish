@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tomando transporte"
+            "text": "Estás en el aeropuerto corriendo para alcanzar un avión. Sientes que tu corazón late rápidamente mientras te subes al avión y te sientas. Comienzas a sudar y a respirar rápido, temiendo que puedas tener un ataque de..."
         },
         {
-            "type": "Media",
-            "url": "./images/153.jpg"
+            "type": "Entry",
+            "name": "Tomando transporte_Salud Física_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
     "scenario_num": 2
 }

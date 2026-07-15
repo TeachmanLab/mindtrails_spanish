@@ -4,13 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Equilibrio de trabajo y amistades"
+            "text": "Estás lidiando con mucho en el trabajo en este momento. Tu amigo, a quien no has visto en un tiempo, te ha pedido pasar tiempo juntos la noche antes de una fecha límite importante. Sabes que necesitas priorizar tu trabajo, pero te preocupa que tu amigo se moleste si no haces tiempo para..."
         },
         {
-            "type": "Media",
-            "url": "./images/29.jpg"
+            "type": "WordPuzzle",
+            "name": "Equilibrio de trabajo y amistades_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "correct_feedback": "¡Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "ellos"
+            ],
+            "missing_letter_count": 2
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
     "scenario_num": 0
 }

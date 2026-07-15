@@ -1,10 +1,22 @@
 {
-    "header_text": "Un breve ejercicio",
+    "header_text": "El ascensor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "En este breve ejercicio, leerás varias historias cortas.\n\nLee cada una con atención e intenta imaginarte en la situación.\n\nLa última palabra de cada historia está incompleta. Haz clic en la letra que falta para completar la palabra.\n\nDespués de completar correctamente la palabra, se te harán unas preguntas sobre la historia. Responde basándote en la información del cuento."
+            "text": "Estás en el vestíbulo del nuevo edificio de apartamentos de tu amigo. Pulsas el botón del ascensor para subir. El edificio parece viejo. Al subir al ascensor, piensas en la..."
+        },
+        {
+            "type": "WordPuzzle",
+            "correct_feedback": "¡Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "seguridad"
+            ],
+            "name": "IBM_elevator_puzzle"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

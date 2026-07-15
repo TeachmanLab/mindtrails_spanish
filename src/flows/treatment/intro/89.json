@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "En el último mes, ¿con qué frecuencia te has sentido seguro de tu capacidad para manejar tus problemas personales?"
+            "text": "En el último mes, ¿con qué frecuencia has sentido que las cosas iban como querías?"
         },
         {
             "type": "Buttons",
@@ -16,7 +16,7 @@
                 "Muy a menudo",
                 "^Prefiero no responder"
             ],
-            "name": "PSS-4_confident"
+            "name": "PSS-4_your_way"
         }
     ]
 }

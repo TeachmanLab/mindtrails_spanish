@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Expresándote"
+            "text": "En el trabajo, tu jefe te da la responsabilidad de resolver un problema complicado. Tienes una idea que crees que podría funcionar, pero te preguntas si es demasiado simplista. Mientras consideras compartir tu idea, decides..."
         },
         {
-            "type": "Media",
-            "url": "./images/75.jpg"
+            "type": "Entry",
+            "name": "Expresándote_Salud Mental_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 0
 }

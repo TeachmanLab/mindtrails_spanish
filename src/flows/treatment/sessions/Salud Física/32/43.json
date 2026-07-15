@@ -1,29 +1,10 @@
 {
-    "header_text": "Un dolor de garganta",
+    "header_text": "Recurso: Salud Física",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Tomar agua mejorará tu picazón de garganta?"
-        },
-        {
-            "type": "Buttons",
-            "name": "Un dolor de garganta_Salud Física_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "column_Count": 1,
-            "correct_value": "Sí"
+            "text": "Los trastornos de la alimentación: Un problema que va más allá de la comida\n\nEsta guía explica lo difícil que es luchar contra un trastorno alimenticio y explica cuales tipos de trastornos existen y cómo buscar ayuda."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 9
+    ]
 }

@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás intentando conocer gente nueva y decides unirte a un club de lectura. El libro de la semana es realmente interesante, pero cuando llegas a la reunión, las personas hacen preguntas sobre el libro que parecen más profundas de lo que puedes responder. Recuerdas que también leíste el libro y tienes pensamientos valiosos, al igual que los..."
+            "text": "¿Puedes participar en la discusión del club de lectura?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Club de lectura_Salud Mental_puzzle1",
+            "type": "Buttons",
+            "name": "Club de lectura_Salud Mental_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "demás"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 6
 }

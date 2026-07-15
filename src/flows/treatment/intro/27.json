@@ -1,18 +1,22 @@
 {
-    "header_text": "El ascensor",
+    "header_text": "La recepción de la boda",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Pensaste en la seguridad del ascensor?"
+            "text": "Tu amiga te pide que des un discurso en la recepción de su boda. Preparas algunas observaciones y, cuando llega el momento, te pones de pie. Mientras hablas, notas que algunas personas en la audiencia comienzan a..."
         },
         {
-            "type": "Buttons",
-            "buttons": [
-                "Sí",
-                "No"
+            "type": "WordPuzzle",
+            "correct_feedback": "¡Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "reír"
             ],
-            "name": "IBM_elevator"
+            "name": "IBM_wedding_puzzle"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

@@ -1,10 +1,10 @@
 {
-    "header_text": "El trabajo",
+    "header_text": "El ruido fuerte",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "EL TRABAJO: Piensas en no tener ingresos por unas semanas...\n\nY estás triste al dejar a tus compañeros de trabajo actuales."
+            "text": "EL RUIDO FUERTE: Mientras bajas las escaleras...\n\nTe sientes feliz y piensas en lo hermosa que es tu casa."
         },
         {
             "type": "Buttons",
@@ -15,7 +15,7 @@
                 "Muy similar",
                 "Prefiero no responder"
             ],
-            "name": "IBM_job_interpretation_4"
+            "name": "IBM_loud_interpretation_1"
         }
     ]
 }

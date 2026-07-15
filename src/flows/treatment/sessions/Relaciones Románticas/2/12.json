@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás caminando por el parque y ves a una pareja de ancianos caminando tomados de la mano. Comienzas a pensar en tu propia vida y te preguntas si te sentirás cercano a alguien a esa..."
+            "text": "Cuando piensas en ti mismo como una persona mayor, no crees que estarás solo y te imaginas con.."
         },
         {
             "type": "WordPuzzle",
-            "name": "Tu vejez_Relaciones Románticas_puzzle1",
+            "name": "Tu vejez_Relaciones Románticas_puzzle_word2",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "edad"
+                "alguien"
             ],
             "missing_letter_count": 1
         }

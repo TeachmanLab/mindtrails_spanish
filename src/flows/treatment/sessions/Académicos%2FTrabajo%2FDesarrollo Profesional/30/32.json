@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "En el pasillo del trabajo, tu jefe te hace una pregunta y te das cuenta de que has respondido incorrectamente. Tu jefe te corrige. Crees que la experiencia de ser corregido por tu jefe es..."
+            "text": "Al final, recuerdas que cometer errores ocasionalmente no te hace un mal empleado. Tu jefe te corregió amablemente, porque es su trabajo, y sientes que toda la interacción estuvo..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Corrección rápida_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "name": "Corrección rápida_Académicos/Trabajo/Desarrollo Profesional_puzzle_word2",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "terrible"
+                "bien"
             ],
             "missing_letter_count": 1
         }

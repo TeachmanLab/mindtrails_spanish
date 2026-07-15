@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Conversación durante la cena"
+            "text": "Estás en casa de tu amigo para cenar y te pregunta sobre tus padres. No estás seguro de cómo responder porque tus padres están divorciados y no has visto a tu madre por mucho tiempo. Piensas en qué dirás y te sientes..."
         },
         {
-            "type": "Media",
-            "url": "./images/149.jpg"
+            "type": "Entry",
+            "name": "Conversación durante la cena_Situaciones Sociales_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 2
 }

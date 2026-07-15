@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tu parte favorita del día es relajarte para cenar. Cuando empiezas a preparar la cena, te das cuenta de que has estado comiendo solo con frecuencia últimamente y te sientes triste. Decides que estás bien con este hecho, ya que te da tiempo para reflexionar sobre tu..."
+            "text": "Al final, te das cuenta de que señalaron el error para que pudieras mejorarlo antes de enviarlo. Corriges la sección incompleta y crees que tu jefe piensa que estás..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Opinión importante_Salud Mental_puzzle1",
+            "name": "Opinión importante_Salud Mental_puzzle_word2",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "día"
+                "aprendiendo"
             ],
             "missing_letter_count": 1
         }

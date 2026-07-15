@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Piensas un poco más en el paseo de acampar, y te das cuenta que disfrutarás tanto de la experiencia y el miedo se disipará. Te sientes más..."
+            "text": "¿El viaje será miserable?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Nuevo ambiente_Situaciones Sociales_puzzle_word2",
+            "type": "Buttons",
+            "name": "Nuevo ambiente_Situaciones Sociales_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "tranquilo"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
     "scenario_num": 7
 }

@@ -1,39 +1,16 @@
 {
-    "header_text": "Tu primer hijo",
+    "header_text": "Clima lluvioso",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Esperas que la relación con tu hijo adulto sea..."
+            "text": "Clima lluvioso"
         },
         {
-            "type": "Buttons",
-            "name": "Tu primer hijo_Salud Mental_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Distanciado",
-                "Cariñoso y cercano"
-            ],
-            "column_Count": 1,
-            "correct_value": "Cariñoso y cercano"
+            "type": "Media",
+            "url": "./images/332.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Al igual que un músculo, tu cerebro fortalece las vías que más utiliza. Por eso practicar muchas situaciones te ayuda a cambiar tus hábitos de pensamiento."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 5
 }

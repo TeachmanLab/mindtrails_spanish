@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Serpientes venenosas"
+            "text": "Tu amigo te convence a dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque y comienzas a sentirte preocupado. Piensas que las posibilidades de ver ese tipo de serpiente son..."
         },
         {
-            "type": "Media",
-            "url": "./images/421.jpg"
+            "type": "Entry",
+            "name": "Serpientes venenosas_Salud Física_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 5
 }

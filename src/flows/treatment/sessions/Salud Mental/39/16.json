@@ -1,17 +1,16 @@
 {
-    "header_text": "Proyecto eliminado",
+    "header_text": "Despertándote listo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Respiras hondo y decides contarle a tu jefe lo sucedido. Tú te sientes..."
+            "text": "Despertándote listo"
         },
         {
-            "type": "Entry",
-            "name": "Proyecto eliminado_Salud Mental_entry2"
+            "type": "Media",
+            "url": "./images/100.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 1
+    "type": "positive",
+    "scenario_num": 2
 }

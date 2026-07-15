@@ -1,17 +1,16 @@
 {
-    "header_text": "No sentirse apoyado",
+    "header_text": "Una gran risa",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recuerdas por qué trabajaste en el proyecto en primer lugar. Después de pensarlo, aprecias lo duro que trabajaste y te sientes..."
+            "text": "Una gran risa"
         },
         {
-            "type": "Entry",
-            "name": "No sentirse apoyado_Situaciones Sociales_entry2"
+            "type": "Media",
+            "url": "./images/530.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 0
+    "type": "positive",
+    "scenario_num": 1
 }

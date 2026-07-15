@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Conoces a alguien en un evento y sientes que se llevan bien. Más tarde, llamas y sugieres volver a reunirse. La respuesta que recibes te hace sentir que la persona piensa que sería agradable volver a..."
+            "text": "La persona que conociste en el evento probablemente..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Sugerencia para volver a encontrarnos_Situaciones Sociales_puzzle1",
+            "type": "Buttons",
+            "name": "Sugerencia para volver a encontrarnos_Situaciones Sociales_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "encontrarse"
+            "buttons": [
+                "Dirá no si sugieres volver a reunirse.",
+                "Dirá sí si sugieres volver a reunirse."
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Dirá sí si sugieres volver a reunirse."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 0
 }

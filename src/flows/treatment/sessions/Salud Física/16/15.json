@@ -1,25 +1,10 @@
 {
-    "header_text": "Serpientes en el parque:Pensamientos",
+    "header_text": "Serpientes en el parque: Escribe Algunos Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu amigo te convence de dar un paseo por un parque local. Has oído que hay serpientes venenosas en ese parque.\n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
-        },
-        {
-            "type": "TimedText",
-            "texts": [
-                "Tengo muchas ganas de hablar con mi amigo.",
-                "Aunque he oído que puede haber serpientes en el parque, creo que es poco probable que vea una.",
-                "Realmente no tengo muchas ganas de ir al parque que podría tener serpientes, pero sé que puedo tolerar mis sentimientos de ansiedad.",
-                "¡Me va a morder una serpiente!",
-                "Será agradable caminar por el parque."
-            ],
-            "Duration": 15000
+            "text": "¡Ahora es tu oportunidad de ser creativo! ¿Qué podrías decirte a ti mismo para sentirte mejor en esta situación? \n\nEn la página siguiente, tómate 30 segundos para escribir todos los pensamientos diferentes que puedas tener y que serían útiles en esta situación. Puedes usar los pensamientos que viste hace un momento como inspiración, o puedes enumerar cosas que te hayas dicho a ti mismo en el pasado y que te hayan ayudado. \n\n¿Qué podrías decirte a ti mismo en esta situación que te ayudaría a sentirte menos ansioso o a manejar tus sentimientos de ansiedad?\n\nPresiona regresar después de cada pensamiento para escribir uno nuevo en cada línea."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
     ]
 }

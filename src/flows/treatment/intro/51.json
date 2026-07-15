@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "LA RECEPCIÓN DE BODA: Al entrar en la sala...\n\nLa gente del público considera ridículos tus esfuerzos."
+            "text": "LA RECEPCIÓN DE BODAS: Al entrar en la habitación...\n\nTe das cuenta de que alguien que no te agrada acaba de entrar a la recepción."
         },
         {
             "type": "Buttons",
@@ -15,7 +15,7 @@
                 "Muy similar",
                 "Prefiero no responder"
             ],
-            "name": "IBM_wedding_interpretation_3"
+            "name": "IBM_wedding_interpretation_4"
         }
     ]
 }

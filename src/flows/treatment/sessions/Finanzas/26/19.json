@@ -1,25 +1,10 @@
 {
-    "header_text": "Administrar facturas: Sentimientos",
+    "header_text": "Administrar facturas:  Escribe Alguno Sentimientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "El pago de su hipoteca vence pronto y también tendrá que pagar algunas facturas médicas inesperadas. Tu presupuesto es ajustado este mes y piensas en cómo podrás afrontar todo esto.\n\nAquí hay algunos sentimientos que pueden surgir en el momento:"
-        },
-        {
-            "type": "TimedText",
-            "texts": [
-                "Me siento completamente bajo el agua.",
-                "Confío en mi capacidad para encontrar una solución.",
-                "Estoy orgulloso de mí mismo por manejar una situación financiera difícil.",
-                "Estoy realmente frustrado porque todo esto está sucediendo al mismo tiempo y reconozco que está bien sentirse así.",
-                "Me preocupa no poder ahorrar dinero este mes, pero tengo la esperanza de poder ahorrar en el futuro."
-            ],
-            "Duration": 15000
+            "text": "¡Ahora tu intenta! ¿Cuáles son algunos de los sentimientos que podrías tener en este momento? Estos no tienen por qué ser solo sentimientos que haya tenido en el pasado o sentimientos negativos que supone que tendrá en el momento. Piense creativamente en los sentimientos positivos y negativos que puedan surgir como reacción a la situación. Si escribe un sentimiento negativo, intente escribir también cómo podría afrontarlo. \n\nEn la página siguiente, tómate 30 segundos para escribir tantos sentimientos diferentes que puedas imaginar tener en esta situación. Puedes ser tan creativo como tu quieras. Si escribes algún sentimiento negativo (como miedo o ansiedad), intenta escribir también cómo podrías ayudarte a sentirte mejor en ese momento.\n\nPresiona regresar después de cada sentimiento para escribir uno nuevo en cada línea."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_complete",
-        "wait_for_click"
     ]
 }

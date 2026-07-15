@@ -1,17 +1,16 @@
 {
-    "header_text": "Tomar una decisión",
+    "header_text": "Fuera de tu control",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu pareja quiere que acceptes un trabajo específico. Preferirías trabajar en un lugar diferente, pero tu pareja ha dejado claro que no está de acuerdo con esa decisión.  Cuando piensas en hablar con tu pareja sobre tu decisión, te sientes... "
+            "text": "Fuera de tu control"
         },
         {
-            "type": "Entry",
-            "name": "Tomar una decisión_Académicos/Trabajo/Desarrollo Profesional_entry1"
+            "type": "Media",
+            "url": "./images/117.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 1
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

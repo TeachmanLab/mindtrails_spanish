@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en el carro con tu suegra y pones la radio. Mientras discutes qué estación escucharás, te das cuenta de que tú y tu suegra tienen gustos musicales muy..."
+            "text": "Después de hablar sobre los pros y los contras de diferentes estilos de música, te das cuenta de que probablemente a ella no le importa que tengan gustos diferentes y simplemente te ve como alguien entendido en..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Gustos musicales diferentes_Situaciones Sociales_puzzle1",
+            "name": "Gustos musicales diferentes_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "diferentes"
+                "música"
             ],
             "missing_letter_count": 1
         }

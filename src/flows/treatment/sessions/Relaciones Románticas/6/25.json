@@ -1,19 +1,10 @@
 {
-    "header_text": "Ninguna respuesta: Comportamientos",
+    "header_text": "Recurso: Relaciones Románticas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has estado enviando mensajes de texto a alguien que realmente te gusta y, por lo general, responde rápidamente. Notas que vio tu mensaje hace un par de horas y no respondió. \n\nTómese 30 segundos para escribir diferentes comportamientos. El siguiente botón aparecerá automáticamente.\n\nComportamientos que podrías realizar en este momento:"
-        },
-        {
-            "type": "Entry"
+            "text": "Love is Respect (El Amor es Respeto)\n\nLove is Respect incluye mucha información apropiada para edades diversas acerca del consentimiento y las relaciones sanas. También ofrece una línea de ayuda."
         }
-    ],
-    "navigation_conditions": [
-        {
-            "wait_for_time": 30000
-        },
-        "wait_for_click"
     ]
 }

@@ -1,10 +1,10 @@
 {
-    "header_text": "El viaje de compras",
+    "header_text": "El análisis de sangre",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "EL VIAJE DE COMPRAS: Piensas en tu salud reciente...\n\nY te aburres de ir de compras."
+            "text": "EL ANÁLISIS DE SANGRE: El médico dice que te llamará en unas semanas...\n\nY piensas en lo amable que es tu médico."
         },
         {
             "type": "Buttons",
@@ -15,7 +15,7 @@
                 "Muy similar",
                 "Prefiero no responder"
             ],
-            "name": "IBM_shopping_interpretation_4"
+            "name": "IBM_blood_interpretation_1"
         }
     ]
 }

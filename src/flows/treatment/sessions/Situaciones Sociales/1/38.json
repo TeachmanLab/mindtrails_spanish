@@ -1,29 +1,30 @@
 {
-    "header_text": "Resolver un desacuerdo",
+    "header_text": "Compartir con alguien nuevo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tu jefe probablemente piensa que..."
+            "text": "Compartir con alguien nuevo"
         },
         {
-            "type": "Buttons",
-            "name": "Resolver un desacuerdo_Situaciones Sociales_comp_question",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Eres pensativo y recogido.",
-                "Eres estúpido y incompetente."
-            ],
-            "column_Count": 1,
-            "correct_value": "Eres pensativo y recogido."
+            "type": "Media",
+            "url": "./images/468.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 8
+    "type": "resilience/negation",
+    "scenario_num": 9,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/598.jpg"
+            },
+            {
+                "type": "text",
+                "text": "Al igual que con cualquier habilidad nueva, la práctica constante te ayudará a pensar de manera más flexible."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

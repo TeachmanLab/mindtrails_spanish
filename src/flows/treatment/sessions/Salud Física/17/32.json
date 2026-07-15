@@ -4,13 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tos después de salir"
+            "text": "Durante los últimos días, has empezado a tener una tos. Saliste el fin de semana pasado y te preguntas si podrías haber contraído COVID. Decides hacerte la..."
         },
         {
-            "type": "Media",
-            "url": "./images/368.jpg"
+            "type": "WordPuzzle",
+            "name": "Tos después de salir_Salud Física_puzzle1",
+            "correct_feedback": "¡Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "prueba"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 6
 }

@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tu pareja quiere que acceptes un trabajo específico. Preferirías trabajar en un lugar diferente, pero tu pareja ha dejado claro que no está de acuerdo con esa decisión.  Cuando piensas en hablar con tu pareja sobre tu decisión, te sientes... "
+            "text": "¿Puedes hablar con tu pareja sobre tu elección de trabajo?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Tomar una decisión_Académicos/Trabajo/Desarrollo Profesional_puzzle1",
+            "type": "Buttons",
+            "name": "Tomar una decisión_Académicos/Trabajo/Desarrollo Profesional_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "preparado"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 9
 }

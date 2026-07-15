@@ -1,30 +1,16 @@
 {
-    "header_text": "Imágenes ansiosas principales",
+    "header_text": "Lecciones Aprendidas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Si esta situación terminara mal, ¿qué tan bien o mal serías capaz de manejarla?"
+            "Text": "¡Excelente trabajo! ¡Estás haciendo un gran progreso al probar nuevas perspectivas relacionadas con la salud mental! Tómate unos minutos para reflexionar sobre los cuentos cortos que has leído hasta ahora. ¿Qué has aprendido? ¿Cuáles son tus principales conclusiones? Por ejemplo, podrías notar que puedes seguir incluso cuando te sientes ansioso."
         },
         {
-            "type": "Buttons",
-            "buttons": [
-                "Muy bien",
-                "Algo bien",
-                "Neutral",
-                "Algo mal",
-                "Muy mal",
-                "Prefiero no responder"
-            ],
-            "name": "imagery_handling"
+            "type": "Entry",
+            "name": "lessons_learned_Salud Mental_0"
         }
     ],
-    "condition": [
-        "StressLevel",
-        "in",
-        [
-            6,
-            7
-        ]
-    ]
+    "type": "positive",
+    "scenario_num": 0
 }

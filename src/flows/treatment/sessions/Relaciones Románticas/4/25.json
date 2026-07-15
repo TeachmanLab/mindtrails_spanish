@@ -4,22 +4,36 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Recibes una llamada de un amigo que te dice que que se va a divorciar. Reflexionas sobre tu propio matrimonio; y aunque amas a tu esposo/a ,tú y tu pareja se parecen a tu amigo y su esposa. Mientras te preguntas sobre tu futuro con tu pareja, sientes firmemente que ustedes dos se..."
+            "text": "Cuando te imaginas a ti y a tu pareja en el futuro, ves"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Preocupaciones por las relaciones_Relaciones Románticas_puzzle1",
+            "type": "Buttons",
+            "name": "Preocupaciones por las relaciones_Relaciones Románticas_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "divorciarán"
+            "buttons": [
+                "Tu matrimonio ha terminado.",
+                "Los dos juntos y felices."
             ],
-            "missing_letter_count": 2
+            "column_Count": 1,
+            "correct_value": "Los dos juntos y felices."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "¿Por qué estás completando palabras con letras? Al completar repetidamente las letras que faltan para completar palabras positivas, neutrales o negativas, el cerebro adopta patrones de pensamiento flexibles para reducir el pensamiento rígido."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

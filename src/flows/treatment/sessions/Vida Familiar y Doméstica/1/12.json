@@ -4,22 +4,36 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Unos días después de un pleito con tu amigo, decides romper el hielo y le propones que vayan a tomar un café. Te alistas y cuando estás por irte, te llaman para decirte que después de todo no pueden llegar. Cuando cuelgas, piensas que cancelaron porque están... "
+            "text": "¿Tu amigo canceló la reunion porque está..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Reconciliándote con tu amigo_Vida Familiar y Doméstica_puzzle1",
+            "type": "Buttons",
+            "name": "Reconciliándote con tu amigo_Vida Familiar y Doméstica_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "cansados"
+            "buttons": [
+                "Enojado contigo.",
+                "Cansado de una semana ocupada."
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Cansado de una semana ocupada."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 0
+    "scenario_num": 0,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Recuerda responder a esta pregunta basándote en el final de la situación hipotética que acabas de leer, no en cómo crees que terminaría. ¡Esto ayudará a reforzar un pensamiento más flexible!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

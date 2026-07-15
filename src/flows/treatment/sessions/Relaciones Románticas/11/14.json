@@ -1,15 +1,25 @@
 {
-    "header_text": "Persona atractiva en las redes sociales.",
+    "header_text": "Persona atractiva en las redes sociales.:Pensamientos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mientras navegas por una aplicación de citas, ves a una persona atractiva que conociste en el supermercado la semana pasada. Decides que te guste su perfil. \n\nHaga clic en Siguiente para ver algunas ideas."
+            "text": "Mientras navegas por una aplicación de citas, ves a una persona atractiva que conociste en el supermercado la semana pasada. Decides que te guste su perfil. \n\nAquí hay algunos pensamientos que pueden surgir en la mente:"
         },
         {
-            "type": "Media",
-            "url": "./images/590.jpg",
-            "border": true
+            "type": "TimedText",
+            "texts": [
+                "Pienso si pensarán que mis fotos son tontas, pero luego me recuerdo a mí mismo que estoy orgulloso de mi perfil.",
+                "Esta persona pensará que soy raro por darle me gusta a su perfil.",
+                "Pienso en cómo podríamos tener una cita.",
+                "Espero que podamos continuar la gran conversación que iniciamos en la tienda.",
+                "Me pregunto si piensan que soy atractiva, pero recuerdo que la apariencia no lo es todo."
+            ],
+            "Duration": 15000
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
     ]
 }

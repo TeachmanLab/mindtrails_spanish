@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Acabas de romper con tu pareja, con quien estuviste más tiempo que cualquier otra persona importante que hayas tenido antes. Crees que fue lo mejor, pero también te preocupa si alguna vez conocerás a alguien más por quien sientas tanta..."
+            "text": "Cuando piensas en tu futura vida amorosa, no te preocupa estar solo y la idea de encontrar un buen compañero de vida parece..."
         },
         {
             "type": "Entry",
-            "name": "Relaciones futuras_Relaciones Románticas_entry1"
+            "name": "Relaciones futuras_Relaciones Románticas_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",

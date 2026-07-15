@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "EL VIAJE DE COMPRAS: Piensas en tu salud reciente...\n\nY crees que probablemente estés contrayendo esa extraña enfermedad."
+            "text": "EL VIAJE DE COMPRAS: Piensas en tu salud reciente...\n\nY crees que es poco probable que contraigas la extraña enfermedad."
         },
         {
             "type": "Buttons",
@@ -15,7 +15,7 @@
                 "Muy similar",
                 "Prefiero no responder"
             ],
-            "name": "IBM_shopping_interpretation_1"
+            "name": "IBM_shopping_interpretation_2"
         }
     ]
 }

@@ -1,10 +1,10 @@
 {
-    "header_text": "Tu primera sesión",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "MindTrails Español está diseñado para ayudarte a cambiar tu forma de pensar sobre situaciones comunes pero potencialmente estresantes para reducir la ansiedad y el estrés. Cuando completas las sesiones en la aplicación, te pedirá que lea historias breves sobre situaciones que a menudo producen ansiedad y que entras las letras que faltan para completar palabras. Para ayudar a familiarizarte con el programa y ayudarte a aprovechar al máximo esta experiencia, nos gustaría que completaras algunos ejercicios cortos y vea algunos videos breves que explican cómo funciona MindTrails Español. También presentaremos tres historias para que pueda comenzar a dominar la capacitación. ¡Haga clic en Siguiente para comenzar!"
+            "text": "En este ejercicio, piensa en una PRÓXIMA situación que esperes que te haga sentir ansioso, preocupado o asustado. Elige una situación que te preocupe, que pueda salir mal o que esperes que provoque síntomas relacionados con la ansiedad (p. ej., palpitaciones, sudoración). Cualquier situación que te haga sentir bastante ansioso o asustado funcionará, siempre y cuando sea una situación que sea probable que realmente suceda."
         }
     ]
 }

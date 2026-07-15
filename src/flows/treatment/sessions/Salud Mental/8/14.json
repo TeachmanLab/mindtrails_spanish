@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Una oportunidad perdida"
+            "text": "Estás manejando de regreso a casa después de un partido de fútbol que tu equipo ganó. Mientras tu mente divaga, piensas en el único gol que fallaste. En general, consideras que tu desempeño fue un..."
         },
         {
-            "type": "Media",
-            "url": "./images/316.jpg"
+            "type": "Entry",
+            "name": "Una oportunidad perdida_Salud Mental_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 1
 }

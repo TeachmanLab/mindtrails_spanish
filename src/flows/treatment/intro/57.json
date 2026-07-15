@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "EL RUIDO FUERTE: Mientras bajas las escaleras...\n\nTe sientes feliz y piensas en lo hermosa que es tu casa."
+            "text": "EL RUIDO FUERTE: Mientras bajas las escaleras...\n\nTienes miedo y te preocupa no poder controlar al miedo."
         },
         {
             "type": "Buttons",
@@ -15,7 +15,7 @@
                 "Muy similar",
                 "Prefiero no responder"
             ],
-            "name": "IBM_loud_interpretation_1"
+            "name": "IBM_loud_interpretation_2"
         }
     ]
 }

@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en una tienda y accidentalmente derribas algunos marcos de fotos en uno de los pasillos. Sientes que tus mejillas se ponen calientes mientras la gente en la tienda se gira para mirarte. Cuando el dueño de la tienda se acerca para reorganizar los marcos de fotos, está frunciendo el..."
+            "text": "Después de unos momentos, los otros compradores se alejan; simplemente se sorprendieron por el ruido fuerte. El dueño de la tienda acepta amablemente tus disculpas y te dice que no te preocupes por el desorden, así que entonces te sientes..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Atención en la tienda_Situaciones Sociales_puzzle1",
+            "name": "Atención en la tienda_Situaciones Sociales_puzzle_word2",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "ceño"
+                "tranquilo"
             ],
             "missing_letter_count": 1
         }

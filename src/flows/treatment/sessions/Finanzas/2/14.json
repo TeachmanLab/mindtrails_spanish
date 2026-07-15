@@ -4,23 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Preocupándote por gastar"
+            "text": "Unos amigos van a salir a cenar y te invitan. Sabes que ustedes han salido a cenar mucho recientemente, y no sabes si puedes seguir así. Les dices a tus amigos que saldrás con ellos la próxima vez, y estás felíz quedándote en casa por la... "
         },
         {
-            "type": "Media",
-            "url": "./images/252.jpg"
+            "type": "WordPuzzle",
+            "name": "Preocupándote por gastar_Finanzas_puzzle1",
+            "correct_feedback": "¡Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "noche"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 1,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Recuerda responder a esta pregunta basándote en el final de la historia que acabas de leer, no en cómo crees que terminaría. ¡Esto ayudará a reforzar un pensamiento más flexible!"
-            }
-        ],
-        "position": "before",
-        "information_count": 1
-    }
+    "scenario_num": 1
 }

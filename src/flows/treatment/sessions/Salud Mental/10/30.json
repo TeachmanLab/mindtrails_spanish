@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Fiesta con amigos"
+            "text": "Estás en una fiesta con algunos amigos y algunos de ellos están haciendo cosas con las que no te sientes cómodo. Decides no participar. Tus amigos piensan que eres..."
         },
         {
-            "type": "Media",
-            "url": "./images/347.jpg"
+            "type": "Entry",
+            "name": "Fiesta con amigos_Salud Mental_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 8
 }

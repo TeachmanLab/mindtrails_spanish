@@ -4,13 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Una oportunidad perdida"
+            "text": "Estás manejando de regreso a casa después de un partido de fútbol que tu equipo ganó. Mientras tu mente se distrae, piensas en el único gol que fallaste. En general, consideras que tu desempeño fue un..."
         },
         {
-            "type": "Media",
-            "url": "./images/316.jpg"
+            "type": "WordPuzzle",
+            "name": "Una oportunidad perdida_Salud Mental_puzzle1",
+            "correct_feedback": "¡Correcto!",
+            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "éxito"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 5
 }

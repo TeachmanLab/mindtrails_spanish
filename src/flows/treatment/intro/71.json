@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "EL RASPÓN: El rasguño duele un poco...\n\nPero sabes que estarás bien."
+            "text": "EL RASPÓN: El rasguño duele un poco...\n\nPero estás contento de estar haciendo ejercicio."
         },
         {
             "type": "Buttons",
@@ -15,7 +15,7 @@
                 "Muy similar",
                 "Prefiero no responder"
             ],
-            "name": "IBM_scrape_interpretation_3"
+            "name": "IBM_scrape_interpretation_4"
         }
     ]
 }

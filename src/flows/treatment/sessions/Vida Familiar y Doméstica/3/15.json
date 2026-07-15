@@ -4,22 +4,36 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en casa viendo televisión solo por la noche. Debes haberte estado adormilándote, porque de repente te despiertas después de escuchar un ruido fuerte. Miras afuera y ves un..."
+            "text": "¿Deberías tener miedo cuando escuchas un ruido por la noche?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Un sonido fuerte_Vida Familiar y Doméstica_puzzle1",
+            "type": "Buttons",
+            "name": "Un sonido fuerte_Vida Familiar y Doméstica_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "intruso"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Sí"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "negative",
-    "scenario_num": 1
+    "scenario_num": 1,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "En el mundo real, a veces las cosas no van bien. ¡Es importante tener algunas historias que terminen negativamente para enseñarte a manejar tu ansiedad cuando surgen situaciones negativas!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

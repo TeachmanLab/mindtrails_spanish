@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Ahorrando dinero"
+            "text": "Estás repasando tus gastos mensuales y te das cuenta de que gastaste más de lo planeado en un nuevo pasatiempo. Esto no te coloca en una situación financiera comprometida en este momento, pero estás intentando ahorrar dinero para ir en un viaje de esquí que llevas meses planeando. Al pensar en reducir tus gastos, no te imaginas gastando demasiado otra vez, y crees que ahorrar lo suficiente para tu viaje es..."
         },
         {
-            "type": "Media",
-            "url": "./images/254.jpg"
+            "type": "Entry",
+            "name": "Ahorrando dinero_Finanzas_entry1"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 3
 }

@@ -4,22 +4,36 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Tú y tu mejor amigo se han conocido por muchos años. Ahora trabajan en profesiones diferentes y tienen intereses distintos, y te preocupas que no se relacionarán a medida que envejecen. Cuando piensas en próximos eventos importantes de la vida, piensas que no te..."
+            "text": "Años en el futuro, esperas que tú y tu amigo..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Tu mejor amigo_Situaciones Sociales_puzzle1",
+            "type": "Buttons",
+            "name": "Tu mejor amigo_Situaciones Sociales_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "apoyará"
+            "buttons": [
+                "Habrán permanecido cercanos aunque hayan desarrollado algunos intereses diferentes.",
+                "Se habrán distanciado y realmente no se entenderán mutuamente."
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "Se habrán distanciado y realmente no se entenderán mutuamente."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "negative",
-    "scenario_num": 4
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Cada pequeño cambio de perspectiva conduce a cambios mayores con el tiempo. Continúe: ¡estás entrenando tu cerebro para pensar de manera más equilibrada y útil!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

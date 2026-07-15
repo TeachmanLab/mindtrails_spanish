@@ -4,22 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Una noche, estás subiendo las escaleras y por accidente golpeas tu cabeza contra un techo bajo. Por la mañana siguiente, el dolor de cabeza todavía está presente ligeramente, y te preguntas qué has hecho. Ya por la hora del almuerzo, el dolor ha..."
+            "text": "Piensas que el dolor de cabeza es una señal que..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Un golpe accidental_Salud Física_puzzle1",
+            "type": "Buttons",
+            "name": "Un golpe accidental_Salud Física_comp_question",
             "correct_feedback": "¡Correcto!",
             "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "disminuido"
+            "buttons": [
+                "Estás mejorando.",
+                "Estás seriamente lesionado."
             ],
-            "missing_letter_count": 1
+            "column_Count": 1,
+            "correct_value": "\r\nEstás seriamente lesionado."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "negative",
     "scenario_num": 5
 }
