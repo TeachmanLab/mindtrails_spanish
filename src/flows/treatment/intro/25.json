@@ -1,22 +1,21 @@
 {
-    "header_text": "El ascensor",
+    "header_text": "Escala de ansiedad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Estás en el vestíbulo del nuevo edificio de apartamentos de tu amigo. Pulsas el botón del ascensor para subir. El edificio parece viejo. Al subir al ascensor, piensas en la..."
+            "text": "Durante la semana pasada, cuando te sentiste ansioso, ¿con qué intensidad o gravedad fue tu ansiedad?"
         },
         {
-            "type": "WordPuzzle",
-            "correct_feedback": "¡Correcto!",
-            "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "seguridad"
+            "type": "Buttons",
+            "buttons": [
+                "Poco o nada",
+                "Moderada",
+                "Severo",
+                "Extremo",
+                "^Prefiero no responder"
             ],
-            "name": "IBM_elevator_puzzle"
+            "name": "OASIS_intensity_anxiety"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

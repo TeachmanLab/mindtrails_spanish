@@ -13,7 +13,8 @@
                 "Levemente",
                 "Un poco",
                 "Principalmente",
-                "Mucho;^Prefiero no responder"
+                "Mucho",
+                "^Prefiero no responder"
             ],
             "name": "tiring_assessments"
         }

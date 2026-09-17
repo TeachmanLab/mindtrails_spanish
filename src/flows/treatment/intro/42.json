@@ -1,18 +1,22 @@
 {
-    "header_text": "El análisis de sangre",
+    "header_text": "Imágenes ansiosas principales",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te hiciste análisis de sangre?"
+            "text": "¿Qué probabilidades hay de que la situación o tarea salga bien o mal?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "Sí",
-                "No"
+                "Es muy probable que salga bien",
+                "Es algo probable que salga bien",
+                "Neutral",
+                "Es algo probable que salga mal",
+                "Es muy probable que salga mal",
+                "^Prefiero no responder"
             ],
-            "name": "IBM_blood"
+            "name": "imagery_well"
         }
     ]
 }

@@ -1,18 +1,22 @@
 {
-    "header_text": "El ascensor",
+    "header_text": "Escala de ansiedad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Pensaste en la seguridad del ascensor?"
+            "text": "Durante la semana pasada, ¿con qué frecuencia evitaste situaciones, lugares, objetos o actividades debido a ansiedad o miedo?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "Sí",
-                "No"
+                "Ninguno",
+                "Poco frecuente",
+                "Ocasiona",
+                "Frecuente",
+                "Todo el tiempo",
+                "^Prefiero no responder"
             ],
-            "name": "IBM_elevator"
+            "name": "OASIS_avoid"
         }
     ]
 }

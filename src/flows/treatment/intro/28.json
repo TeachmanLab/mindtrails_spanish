@@ -1,18 +1,22 @@
 {
-    "header_text": "La recepción de la boda",
+    "header_text": "Escala de ansiedad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿El público se ríe cuando hablas?"
+            "text": "Durante la semana pasada, ¿en qué medida la ansiedad interfirió con tu vida social y sus relaciones?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "Sí",
-                "No"
+                "Ninguno",
+                "Leve",
+                "Moderado",
+                "Severo",
+                "Extremo",
+                "^Prefiero no responder"
             ],
-            "name": "IBM_wedding"
+            "name": "OASIS_social"
         }
     ]
 }

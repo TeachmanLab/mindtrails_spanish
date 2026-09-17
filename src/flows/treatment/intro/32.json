@@ -1,18 +1,22 @@
 {
-    "header_text": "El ruido fuerte",
+    "header_text": "Escala de estrés",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "¿Te han despertado en mitad de la noche?"
+            "text": "En el último mes, ¿con qué frecuencia te has sentido seguro de tu capacidad para manejar tus problemas personales?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "Sí",
-                "No"
+                "Nunca",
+                "Casi nunca",
+                "A veces",
+                "Bastante a menudo",
+                "Muy a menudo",
+                "^Prefiero no responder"
             ],
-            "name": "IBM_noise"
+            "name": "PSS-4_confident"
         }
     ]
 }

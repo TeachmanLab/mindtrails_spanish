@@ -1,21 +1,10 @@
 {
-    "header_text": "El ascensor",
+    "header_text": "Un breve ejercicio",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "EL ASCENSOR: El edificio parece viejo, y cuando subes al ascensor...\n\nCrees que el ascensor probablemente se estropeará mientras estás en él."
-        },
-        {
-            "type": "Buttons",
-            "buttons": [
-                "Muy diferente",
-                "Diferente",
-                "Similar",
-                "Muy similar",
-                "Prefiero no responder"
-            ],
-            "name": "IBM_elevator_interpretation_1"
+            "text": "En este breve ejercicio, leerás varias historias cortas.\n\nLee cada una con atención e intenta imaginarte en la situación.\n\nLa última palabra de cada historia está incompleta. Haz clic en la letra que falta para completar la palabra.\n\nDespués de completar correctamente la palabra, se te harán unas preguntas sobre la historia. Responde basándote en la información del cuento."
         }
     ]
 }
